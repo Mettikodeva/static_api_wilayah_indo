@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pasar Usang",
-    "Pasar Baru",
-    "Simpang Tanah Lapang",
-    "Rawang Bonto",
-    "Koto Tuo",
-    "Banuaran",
-    "Kampung Madura",
-    "Pulau Kijang (Pulaukijang)",
-    "Pulaumadinah",
-    "Kampung Tengah",
-    "Kampung Medan",
-    "Kepala Pulau",
-    "Teratak Baru",
-    "Dusun Tuo",
-    "Gunungmelintang",
-    "Simpang Pulauberalo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Usang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Tanah Lapang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawang Bonto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Tuo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banuaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Madura"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Kijang (Pulaukijang)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pulaumadinah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kampung Tengah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kampung Medan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kepala Pulau"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Teratak Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Dusun Tuo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Gunungmelintang"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Simpang Pulauberalo"
+    }
   ]
 }

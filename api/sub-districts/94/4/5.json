@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sempan Timur",
-    "Wenin",
-    "Noema",
-    "Wapu",
-    "Sumapro",
-    "Wacakam",
-    "Waituku",
-    "Bulumen",
-    "Kanmapiri",
-    "Jaitak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sempan Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wenin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Noema"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wapu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumapro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wacakam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waituku"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulumen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kanmapiri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jaitak"
+    }
   ]
 }

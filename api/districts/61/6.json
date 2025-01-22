@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Putussibau Utara",
-    "Bika",
-    "Embaloh Hilir",
-    "Embaloh Hulu",
-    "Bunut Hilir",
-    "Bunut Hulu",
-    "Jongkong (Jengkong)",
-    "Hulu Gurung",
-    "Selimbau",
-    "Semitau",
-    "Seberuang",
-    "Batang Lupar",
-    "Empanang",
-    "Badau",
-    "Silat Hilir",
-    "Silat Hulu",
-    "Putussibau Selatan",
-    "Kalis",
-    "Boyan Tanjung",
-    "Mentebah",
-    "Pengkadan (Batu Datu)",
-    "Suhaid",
-    "Puring Kencana"
+    {
+      "district_id": 1,
+      "kecamatan": "Putussibau Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bika"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Embaloh Hilir"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Embaloh Hulu"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bunut Hilir"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bunut Hulu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Jongkong (Jengkong)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Hulu Gurung"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Selimbau"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Semitau"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Seberuang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Batang Lupar"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Empanang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Badau"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Silat Hilir"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Silat Hulu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Putussibau Selatan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kalis"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Boyan Tanjung"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Mentebah"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Pengkadan (Batu Datu)"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Suhaid"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Puring Kencana"
+    }
   ]
 }

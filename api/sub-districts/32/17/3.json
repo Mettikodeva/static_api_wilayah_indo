@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jambudipa",
-    "Padaasih",
-    "Pasirhalang",
-    "Pasirlangu",
-    "Cipada",
-    "Kertawangi",
-    "Tugumukti",
-    "Sadangmekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jambudipa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padaasih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasirhalang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasirlangu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipada"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertawangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tugumukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sadangmekar"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tukka",
-    "Bona Lumban",
-    "Huta Nabolon",
-    "Sipange",
-    "Aek Tolang Induk",
-    "Sigiring Giring",
-    "Tapian Nauli/ Saurmanggita",
-    "Sait Kalangan II (Sait Nihuta Kalangan II)",
-    "Aek Bottar (Aek Bontar)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tukka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bona Lumban"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Huta Nabolon"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sipange"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Aek Tolang Induk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sigiring Giring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tapian Nauli/ Saurmanggita"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sait Kalangan II (Sait Nihuta Kalangan II)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aek Bottar (Aek Bontar)"
+    }
   ]
 }

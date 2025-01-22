@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Concong Luar",
-    "Concong Dalam",
-    "Concong Tengah",
-    "Kampung Baru",
-    "Panglima Raja",
-    "Sungaiberapit (Sungai Berapit)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Concong Luar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Concong Dalam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Concong Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panglima Raja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungaiberapit (Sungai Berapit)"
+    }
   ]
 }

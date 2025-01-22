@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tingkohubu",
-    "Boludawa",
-    "Bube",
-    "Huluduotamo",
-    "Ulanta",
-    "Tinelo",
-    "Bubeya",
-    "Bube Baru",
-    "Tingkohubu Timur",
-    "Helumo"
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tingkohubu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Boludawa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bube"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Huluduotamo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ulanta"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tinelo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bubeya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bube Baru"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tingkohubu Timur"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Helumo"
+    }
   ]
 }

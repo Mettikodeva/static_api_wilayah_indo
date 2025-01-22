@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bontorannu",
-    "Mattoangin",
-    "Kunjung Mae",
-    "Lette",
-    "Panambungan",
-    "Mariso",
-    "Mario",
-    "Kampung Buyang",
-    "Tamarunang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bontorannu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mattoangin"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kunjung Mae"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lette"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Panambungan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mariso"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mario"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kampung Buyang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tamarunang"
+    }
   ]
 }

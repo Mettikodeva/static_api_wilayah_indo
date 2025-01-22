@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sandaran",
-    "Manubar",
-    "Tadoan",
-    "Marukangan",
-    "Susuk Luar",
-    "Susuk Dalam",
-    "Tanjung Mangkaliat",
-    "Manubar Dalam",
-    "Susuk Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sandaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manubar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tadoan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marukangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Susuk Luar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Susuk Dalam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Mangkaliat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manubar Dalam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Susuk Tengah"
+    }
   ]
 }

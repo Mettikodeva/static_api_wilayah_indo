@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Samuda Kota",
-    "Basirih Hilir",
-    "Sebamban (Sabamban)",
-    "Samuda Besar",
-    "Samuda Kecil",
-    "Jaya Kelapa",
-    "Basirih Hulu",
-    "Jaya Karet",
-    "Handil Sohor",
-    "Sei/Sungai Ijum Raya"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Samuda Kota"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Basirih Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebamban (Sabamban)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Samuda Besar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Samuda Kecil"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jaya Kelapa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Basirih Hulu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jaya Karet"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Handil Sohor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sei/Sungai Ijum Raya"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Noebana",
-    "Fatumnasi",
-    "Suni",
-    "Mella",
-    "Mnelapetu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Noebana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fatumnasi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mella"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mnelapetu"
+    }
   ]
 }

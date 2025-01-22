@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mantingan",
-    "Salam",
-    "Sucen",
-    "Kadiluwih",
-    "Somoketro",
-    "Jumoyo",
-    "Tirto",
-    "Baturono",
-    "Tersangede",
-    "Sirahan",
-    "Seloboro",
-    "Gulon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mantingan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sucen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadiluwih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Somoketro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jumoyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tirto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baturono"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tersangede"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirahan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Seloboro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gulon"
+    }
   ]
 }

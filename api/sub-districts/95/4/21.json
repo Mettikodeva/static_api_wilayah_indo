@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Numba",
-    "Baliminggi",
-    "Kuma",
-    "Yugumena",
-    "Yalogo",
-    "Yiragame",
-    "Tingwineri",
-    "Guniki",
-    "Keragigelok",
-    "Jinuwanu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Numba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baliminggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuma"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yugumena"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yalogo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yiragame"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tingwineri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Guniki"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Keragigelok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jinuwanu"
+    }
   ]
 }

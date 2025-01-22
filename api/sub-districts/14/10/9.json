@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tanjung Kedabu",
-    "Beting",
-    "Sokop",
-    "Telesung",
-    "Bungur",
-    "Tenggayun Raya",
-    "Sendaur",
-    "Kayu Ara",
-    "Sonde",
-    "Kedabu Rapat",
-    "Tanah Merah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Kedabu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beting"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sokop"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telesung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bungur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tenggayun Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sendaur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kayu Ara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sonde"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedabu Rapat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanah Merah"
+    }
   ]
 }

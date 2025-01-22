@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanjung Harapan",
-    "Negeri Tua",
-    "Negeri Katon",
-    "Negeri Agung",
-    "Negeri Jemanten",
-    "Sukaraja Tiga",
-    "Gedung Wani",
-    "Jaya Guna",
-    "Sukadana Baru",
-    "Nabang Baru",
-    "Surya Mataram",
-    "Gedungwani Timur (Gedung Wani Timur)",
-    "Trisinar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Negeri Tua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Negeri Katon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Negeri Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Negeri Jemanten"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukaraja Tiga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedung Wani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jaya Guna"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukadana Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nabang Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Surya Mataram"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gedungwani Timur (Gedung Wani Timur)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Trisinar"
+    }
   ]
 }

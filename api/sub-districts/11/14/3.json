@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sawang",
-    "Lhok Geulumpang",
-    "Padang",
-    "Gunong Meunasah",
-    "Sapek",
-    "Pante Kuyun",
-    "Glee Seubak (Gle Subak)",
-    "Gampong Baroh",
-    "Lhok Timon",
-    "Gampong Baro",
-    "Lhok Buya",
-    "Lhok Bot",
-    "Paya Laot (Paya Laut)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lhok Geulumpang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunong Meunasah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sapek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pante Kuyun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Glee Seubak (Gle Subak)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gampong Baroh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lhok Timon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gampong Baro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lhok Buya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lhok Bot"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Paya Laot (Paya Laut)"
+    }
   ]
 }

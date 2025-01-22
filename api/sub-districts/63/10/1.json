@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Batulicin (Batu Licin)",
-    "Gunungtinggi",
-    "Segumbang",
-    "Kersik Putih",
-    "Maju Makmur",
-    "Maju Bersama",
-    "Sukamaju",
-    "Polewali Marajae",
-    "Danauindah (Danau Indah)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Batulicin (Batu Licin)"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Gunungtinggi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Segumbang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kersik Putih"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Maju Makmur"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Maju Bersama"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Polewali Marajae"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Danauindah (Danau Indah)"
+    }
   ]
 }

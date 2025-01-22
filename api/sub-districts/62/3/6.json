@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Saka Lagon (Sakalagun)",
-    "Bunga Mawar",
-    "Sei/Sungai Tatas",
-    "Narahan",
-    "Handiwung",
-    "Anjir Palambang",
-    "Palangkai",
-    "Teluk Palinget",
-    "Sei Tatas Hilir",
-    "Mawar Mekar",
-    "Banama",
-    "Narahan Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saka Lagon (Sakalagun)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bunga Mawar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Tatas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Narahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Handiwung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anjir Palambang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Palangkai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Palinget"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei Tatas Hilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mawar Mekar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banama"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Narahan Baru"
+    }
   ]
 }

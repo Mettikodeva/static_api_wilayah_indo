@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Taman Fajar (Taman Pajar)",
-    "Taman Asri",
-    "Taman Bogo",
-    "Tambah Dadi",
-    "Taman Cari",
-    "Taman Endah",
-    "Tegal Gondo",
-    "Toto Harjo",
-    "Tanjung Inten",
-    "Tegal Yoso",
-    "Tambah Luhur",
-    "Tanjung Kesuma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taman Fajar (Taman Pajar)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taman Asri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taman Bogo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambah Dadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taman Cari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taman Endah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegal Gondo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Toto Harjo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Inten"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tegal Yoso"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambah Luhur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Kesuma"
+    }
   ]
 }

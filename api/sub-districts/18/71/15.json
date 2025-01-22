@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Perumnas Way Halim",
-    "Way Halim Permai",
-    "Gunungsulah (Gunung Sulah)",
-    "Jagabaya I (Jaga Baya I)",
-    "Jagabaya II",
-    "Jagabaya III"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Perumnas Way Halim"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Way Halim Permai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gunungsulah (Gunung Sulah)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jagabaya I (Jaga Baya I)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jagabaya II"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jagabaya III"
+    }
   ]
 }

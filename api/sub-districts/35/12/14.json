@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wonorejo",
-    "Sumberanyar",
-    "Sumberejo",
-    "Banyuputih (Banyu Putih)",
-    "Sumberwaru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberanyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banyuputih (Banyu Putih)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberwaru"
+    }
   ]
 }

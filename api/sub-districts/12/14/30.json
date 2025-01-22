@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Siofa Banua Lorang",
-    "Silima Banua Marit (Siofa Banua Marit)",
-    "Zia Biang (Ziabiang)",
-    "Limo Biang",
-    "Memong",
-    "Bale-Bale",
-    "Teluk Limo",
-    "Wawa",
-    "Marit Baru (Merit Baru)",
-    "Majino Lorang",
-    "Afore Gobo",
-    "Bale-Bale Sibohou"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siofa Banua Lorang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silima Banua Marit (Siofa Banua Marit)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Zia Biang (Ziabiang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Limo Biang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Memong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bale-Bale"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluk Limo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marit Baru (Merit Baru)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Majino Lorang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Afore Gobo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bale-Bale Sibohou"
+    }
   ]
 }

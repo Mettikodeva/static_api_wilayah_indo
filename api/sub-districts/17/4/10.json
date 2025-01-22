@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bangun Jiwa",
-    "Cahaya Negeri/Negri",
-    "Padang Jati",
-    "Ganda Suli (Gindo Suli)",
-    "Durian Besar",
-    "Tanjung Beringin",
-    "Umbul",
-    "Benua Ratu",
-    "Tuguk (Puguk)",
-    "Kepahyang",
-    "Pulau Panggung (Pulang Panggung)",
-    "Serdang Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun Jiwa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cahaya Negeri/Negri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Jati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ganda Suli (Gindo Suli)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Durian Besar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Umbul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Benua Ratu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tuguk (Puguk)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kepahyang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulau Panggung (Pulang Panggung)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Serdang Indah"
+    }
   ]
 }

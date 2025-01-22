@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lapai",
-    "Ngapa",
-    "Paruttellang (Paruttelang)",
-    "Puurau",
-    "Koreiha",
-    "Lawolatu",
-    "Tadaumera",
-    "Watumotaha",
-    "Beringin",
-    "Mataiwoi",
-    "Nimbuneha",
-    "Padaelo"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lapai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngapa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paruttellang (Paruttelang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Puurau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Koreiha"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lawolatu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tadaumera"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Watumotaha"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mataiwoi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nimbuneha"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Padaelo"
+    }
   ]
 }

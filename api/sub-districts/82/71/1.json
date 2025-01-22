@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jambula",
-    "Foramadiahi",
-    "Kastela",
-    "Rua",
-    "Afe Taduma",
-    "Dorpedu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jambula"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Foramadiahi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kastela"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rua"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Afe Taduma"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Dorpedu"
+    }
   ]
 }

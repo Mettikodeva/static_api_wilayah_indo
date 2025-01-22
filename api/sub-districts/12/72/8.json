@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Simarimbun",
-    "Tong Marimbun",
-    "Naga Huta (Nagahuta)",
-    "Naga Huta Timur",
-    "Pematang Marihat",
-    "Marihat Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simarimbun"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tong Marimbun"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Naga Huta (Nagahuta)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Naga Huta Timur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pematang Marihat"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Marihat Jaya"
+    }
   ]
 }

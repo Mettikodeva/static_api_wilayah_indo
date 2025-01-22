@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Slahung",
-    "Ngrayun",
-    "Bungkal",
-    "Sambit",
-    "Sawoo",
-    "Sooko",
-    "Pulung",
-    "Mlarak",
-    "Jetis",
-    "Siman",
-    "Balong",
-    "Kauman",
-    "Badegan",
-    "Sampung",
-    "Sukorejo",
-    "Babadan",
-    "Ponorogo",
-    "Jenangan",
-    "Ngebel",
-    "Jambon",
-    "Pudak"
+    {
+      "district_id": 1,
+      "kecamatan": "Slahung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ngrayun"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bungkal"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sambit"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sawoo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sooko"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pulung"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mlarak"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Jetis"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Siman"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Balong"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kauman"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Badegan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sampung"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sukorejo"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Babadan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Ponorogo"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Jenangan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Ngebel"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Jambon"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Pudak"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Dhawe",
-    "Mbay I",
-    "Towak",
-    "Mbay II",
-    "Danga",
-    "Lape",
-    "Labolewa",
-    "Tedamude",
-    "Nggolonio",
-    "Olaia",
-    "Aerama (Aeramo)",
-    "Marapokot",
-    "Tonggurambang (Tonggu Rambang)",
-    "Waekokak",
-    "Ngegedhawe",
-    "Tadakisa (Tedakisa)",
-    "Nggolombay (Nggolo Mbay)",
-    "Nangadhero"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dhawe"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mbay I"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Towak"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mbay II"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Danga"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Lape"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labolewa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tedamude"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nggolonio"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Olaia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aerama (Aeramo)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Marapokot"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tonggurambang (Tonggu Rambang)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Waekokak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ngegedhawe"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tadakisa (Tedakisa)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Nggolombay (Nggolo Mbay)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nangadhero"
+    }
   ]
 }

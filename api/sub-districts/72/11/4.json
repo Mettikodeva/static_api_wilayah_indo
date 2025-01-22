@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Togong Sagu",
-    "Taduno",
-    "Kanari",
-    "Lantibung",
-    "Kalupapi",
-    "Bone Bone",
-    "Mbeleang",
-    "Tabulang",
-    "Sasabobok",
-    "Bungin Lawean (Bungin Luean)",
-    "Lalong",
-    "Dungkean"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Togong Sagu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taduno"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kanari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lantibung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalupapi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bone Bone"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mbeleang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tabulang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sasabobok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bungin Lawean (Bungin Luean)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lalong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dungkean"
+    }
   ]
 }

@@ -1,34 +1,124 @@
 {
   "districts": [
-    "Karawang Barat",
-    "Pangkalan",
-    "Telukjambe Timur",
-    "Ciampel",
-    "Klari",
-    "Rengasdengklok",
-    "Kutawaluya",
-    "Batujaya",
-    "Tirtajaya",
-    "Pedes",
-    "Cibuaya",
-    "Pakisjaya",
-    "Cikampek",
-    "Jatisari",
-    "Cilamaya Wetan",
-    "Tirtamulya",
-    "Telagasari (Talagasari)",
-    "Rawamerta",
-    "Lemahabang",
-    "Tempuran",
-    "Majalaya",
-    "Jayakerta",
-    "Cilamaya Kulon",
-    "Banyusari",
-    "Kota Baru (Kotabaru)",
-    "Karawang Timur",
-    "Telukjambe Barat",
-    "Tegalwaru",
-    "Purwasari",
-    "Cilebar"
+    {
+      "district_id": 1,
+      "kecamatan": "Karawang Barat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pangkalan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Telukjambe Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ciampel"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Klari"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Rengasdengklok"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kutawaluya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Batujaya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tirtajaya"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pedes"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Cibuaya"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pakisjaya"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Cikampek"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Jatisari"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Cilamaya Wetan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tirtamulya"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Telagasari (Talagasari)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Rawamerta"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Lemahabang"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Tempuran"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Majalaya"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Jayakerta"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Cilamaya Kulon"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Banyusari"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Kota Baru (Kotabaru)"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Karawang Timur"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Telukjambe Barat"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Tegalwaru"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Purwasari"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Cilebar"
+    }
   ]
 }

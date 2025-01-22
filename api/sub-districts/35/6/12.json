@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jongbiru",
-    "Putih",
-    "Sambirejo",
-    "Kepuhrejo",
-    "Kalibelo",
-    "Plosorejo",
-    "Turus",
-    "Sambiresik",
-    "Gampeng (Gamping)",
-    "Ngebrak",
-    "Wanengpaten"
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jongbiru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Putih"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kepuhrejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kalibelo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Plosorejo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Turus"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sambiresik"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Gampeng (Gamping)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Ngebrak"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wanengpaten"
+    }
   ]
 }

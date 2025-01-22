@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sukaraja",
-    "Beleka",
-    "Semoyang",
-    "Mujur",
-    "Landah",
-    "Sengkerang",
-    "Bilelando",
-    "Ganti",
-    "Marong",
-    "Kidang",
-    "Beleke Daye",
-    "Beleke Lebe Sane",
-    "Pegonak",
-    "Jero Puri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beleka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semoyang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mujur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Landah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sengkerang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bilelando"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ganti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kidang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Beleke Daye"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Beleke Lebe Sane"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pegonak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jero Puri"
+    }
   ]
 }

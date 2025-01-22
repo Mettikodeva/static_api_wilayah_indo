@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bayan",
-    "Loloan",
-    "Anyar",
-    "Sukadana",
-    "Akat Akar (Akar Akar)",
-    "Senaru",
-    "Mumbul Sari",
-    "Sambik Elen",
-    "Karang Bajo",
-    "Gunjan Asri",
-    "Andalan",
-    "Batu Rakit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bayan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Loloan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Anyar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Akat Akar (Akar Akar)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senaru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mumbul Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sambik Elen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Bajo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunjan Asri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Andalan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batu Rakit"
+    }
   ]
 }

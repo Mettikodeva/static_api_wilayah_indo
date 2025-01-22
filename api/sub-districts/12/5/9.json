@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Hinai Kiri",
-    "Kepala Sungai",
-    "Teluk",
-    "Cinta Raja",
-    "Kebun Kelapa",
-    "Sungai Ular",
-    "Tanjung Ibus",
-    "Secanggang",
-    "Selotong",
-    "Karang Gading",
-    "Jaring Halus",
-    "Telaga Jernih",
-    "Perkotaan",
-    "Kwala Besar",
-    "Karang Anyar",
-    "Pantai Gading",
-    "Suka Mulia"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Hinai Kiri"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kepala Sungai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cinta Raja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebun Kelapa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Ular"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Ibus"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Secanggang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Selotong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karang Gading"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jaring Halus"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Telaga Jernih"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Perkotaan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kwala Besar"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pantai Gading"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Suka Mulia"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tanjungsatai (Tanjung Satai)",
-    "Kemboja (Kamboja)",
-    "Dusun Kecil",
-    "Dusun Besar",
-    "Satai Lestari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungsatai (Tanjung Satai)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemboja (Kamboja)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dusun Kecil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dusun Besar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Satai Lestari"
+    }
   ]
 }

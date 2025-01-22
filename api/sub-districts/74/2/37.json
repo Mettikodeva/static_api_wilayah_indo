@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Onembute",
-    "Trimulya",
-    "Napoosi (Nopoosi)",
-    "Silea",
-    "Ulumeraka",
-    "Mataiwoi",
-    "Kumapo",
-    "Kasumeia",
-    "Ulu Onembute",
-    "Tawapandere",
-    "Anggaloosi",
-    "Ana Onembute"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Onembute"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Trimulya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Napoosi (Nopoosi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Silea"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulumeraka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mataiwoi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kumapo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kasumeia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulu Onembute"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tawapandere"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anggaloosi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ana Onembute"
+    }
   ]
 }

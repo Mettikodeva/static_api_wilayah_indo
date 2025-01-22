@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Soasio",
-    "Gamtufkange",
-    "Indonesiana",
-    "Seli",
-    "Soadara",
-    "Topo",
-    "Gurabunga",
-    "Goto",
-    "Tomagoba",
-    "Folarora",
-    "Topo Tiga",
-    "Tambula",
-    "Tuguwaji"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Soasio"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gamtufkange"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Indonesiana"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Seli"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Soadara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Topo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gurabunga"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Goto"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tomagoba"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Folarora"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Topo Tiga"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tambula"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tuguwaji"
+    }
   ]
 }

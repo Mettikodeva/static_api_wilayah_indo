@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Talunrejo",
-    "Banjargondang",
-    "Bluluk",
-    "Cangkring",
-    "Bronjong",
-    "Songowareng",
-    "Kuwurejo",
-    "Sumberbanjar",
-    "Primpen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talunrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjargondang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bluluk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cangkring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bronjong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Songowareng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuwurejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberbanjar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Primpen"
+    }
   ]
 }

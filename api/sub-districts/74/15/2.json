@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Katilombu",
-    "Jaya Bakti",
-    "Todombulu",
-    "Bangun",
-    "Wawoangi",
-    "Gunung Sejuk",
-    "Sandang Pangan",
-    "Hendea",
-    "Tira",
-    "Bahari",
-    "Gerak Makmur",
-    "Lipu Mangau",
-    "Bahari 2 (dua)",
-    "Bahari 3 (tiga)",
-    "Windu Makmur",
-    "Watiginanda"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Katilombu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jaya Bakti"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Todombulu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wawoangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Sejuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sandang Pangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hendea"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tira"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bahari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gerak Makmur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lipu Mangau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bahari 2 (dua)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bahari 3 (tiga)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Windu Makmur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Watiginanda"
+    }
   ]
 }

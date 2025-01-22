@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Purwosari",
-    "Kutasari",
-    "Pandak",
-    "Pamijen",
-    "Rempoah",
-    "Kebumen",
-    "Karang Tengah (Karangtengah)",
-    "Kemutug Kidul",
-    "Karangsalam Lor",
-    "Kemutug Lor",
-    "Karangmangu",
-    "Ketenger"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kutasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pandak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pamijen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rempoah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebumen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Tengah (Karangtengah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kemutug Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangsalam Lor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kemutug Lor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karangmangu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ketenger"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Egiam",
-    "Yonira",
-    "Tabonakme",
-    "Murni",
-    "Yoka",
-    "Wayongga",
-    "Weri",
-    "Pinde",
-    "Kurba",
-    "Kaliundi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Egiam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yonira"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tabonakme"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Murni"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Yoka"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Wayongga"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Weri"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Pinde"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kurba"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Kaliundi"
+    }
   ]
 }

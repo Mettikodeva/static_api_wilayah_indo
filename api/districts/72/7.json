@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Totikum (Totikung)",
-    "Tinangkung",
-    "Liang",
-    "Bulagi",
-    "Buko",
-    "Bulagi Selatan",
-    "Tinangkung Selatan",
-    "Totikum Selatan",
-    "Peling Tengah",
-    "Bulagi Utara",
-    "Buko Selatan",
-    "Tinangkung Utara"
+    {
+      "district_id": 3,
+      "kecamatan": "Totikum (Totikung)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tinangkung"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Liang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bulagi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Buko"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bulagi Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tinangkung Selatan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Totikum Selatan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Peling Tengah"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bulagi Utara"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Buko Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tinangkung Utara"
+    }
   ]
 }

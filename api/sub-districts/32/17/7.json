@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ciptaharja",
-    "Cipatat",
-    "Citatah",
-    "Rajamandalakulon (Rajamandala Kulon)",
-    "Mandalawangi",
-    "Kertamukti",
-    "Nyalindung",
-    "Gunungmasigit",
-    "Cirawamekar",
-    "Mandalasari",
-    "Sumurbandung",
-    "Sarimukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciptaharja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cipatat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Citatah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rajamandalakulon (Rajamandala Kulon)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mandalawangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertamukti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nyalindung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunungmasigit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cirawamekar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mandalasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumurbandung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sarimukti"
+    }
   ]
 }

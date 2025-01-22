@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pasir Putih",
-    "Tambak Sari",
-    "Thehok (The Hok)",
-    "Wijaya Pura",
-    "Pakuan Baru"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tambak Sari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Thehok (The Hok)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wijaya Pura"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pakuan Baru"
+    }
   ]
 }

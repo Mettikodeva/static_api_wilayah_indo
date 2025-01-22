@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Paduraksa",
-    "Kebondalem",
-    "Bojongbata",
-    "Mulyoharjo",
-    "Pelutan",
-    "Sugihwaras",
-    "Widuri",
-    "Banjarmulya",
-    "Surajaya",
-    "Kramat",
-    "Pegongsoran (Pagongsoran)",
-    "Sungapan",
-    "Saradan",
-    "Sewaka",
-    "Mengori",
-    "Wanamulya",
-    "Bojongnangka",
-    "Tambakrejo",
-    "Lawangrejo",
-    "Danasari"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Paduraksa"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Bojongbata"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Mulyoharjo"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Pelutan"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Sugihwaras"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Widuri"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjarmulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Surajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pegongsoran (Pagongsoran)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungapan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Saradan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sewaka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mengori"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wanamulya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bojongnangka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tambakrejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lawangrejo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Danasari"
+    }
   ]
 }

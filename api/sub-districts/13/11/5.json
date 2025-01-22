@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Abai",
-    "Dusun Tangah",
-    "Lubuk Ulang Aling",
-    "Ranah Pantai Cermin",
-    "Sitapus",
-    "Lubuk Ulang Aling Selatan",
-    "Lubuk Ulang Aling Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Abai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dusun Tangah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Ulang Aling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranah Pantai Cermin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sitapus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Ulang Aling Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Ulang Aling Tengah"
+    }
   ]
 }

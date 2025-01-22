@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Suru-Suru",
-    "See",
-    "Tomor",
-    "Dumaten",
-    "Hom-hom",
-    "Ajin",
-    "Laluk",
-    "Kebikduk",
-    "Hulam",
-    "Walase",
-    "Berimono",
-    "Asgun",
-    "Korobuk",
-    "Katalina",
-    "Obio",
-    "Salbik",
-    "Linduk",
-    "Besika"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suru-Suru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "See"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tomor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dumaten"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hom-hom"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ajin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Laluk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kebikduk"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hulam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Walase"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Berimono"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Asgun"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Korobuk"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Katalina"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Obio"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Salbik"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Linduk"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Besika"
+    }
   ]
 }

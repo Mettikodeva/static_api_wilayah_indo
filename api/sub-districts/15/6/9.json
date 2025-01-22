@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Rantau Badak",
-    "Dusun Mudo",
-    "Intan Jaya",
-    "Bukit Indah",
-    "Kemang Manis",
-    "Rantau Badak Lamo",
-    "Lubuk Sebontan",
-    "Sungaipapauh (Sungai Papauh)",
-    "Sungaimuluk (Sungai Muluk)",
-    "Pematang Balam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Rantau Badak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dusun Mudo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Intan Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Indah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemang Manis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Badak Lamo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Sebontan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaipapauh (Sungai Papauh)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungaimuluk (Sungai Muluk)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pematang Balam"
+    }
   ]
 }

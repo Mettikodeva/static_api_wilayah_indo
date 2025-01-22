@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Rante Kalua' (Rante Kalua)",
-    "Tampo",
-    "Lemo",
-    "Tengan",
-    "Gasing",
-    "Uluway (Uluwai)",
-    "Randanan",
-    "Buntu Tangti",
-    "Rante dada (Rantedada)",
-    "Pa'tengko",
-    "Simbuang",
-    "Pakala",
-    "Uluway Barat",
-    "Marinding",
-    "Palipu",
-    "Ke'pe Tinoring (Ke Pe Tinoring)",
-    "Buntu Datu (Batu)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rante Kalua' (Rante Kalua)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tampo"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Lemo"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Tengan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gasing"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uluway (Uluwai)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Randanan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Buntu Tangti"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rante dada (Rantedada)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pa'tengko"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Simbuang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pakala"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Uluway Barat"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Marinding"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Palipu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Ke'pe Tinoring (Ke Pe Tinoring)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Buntu Datu (Batu)"
+    }
   ]
 }

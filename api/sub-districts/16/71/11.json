@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "19 Ilir",
-    "22 Ilir",
-    "23 Ilir",
-    "24 Ilir",
-    "26 Ilir",
-    "Talang Semut"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "19 Ilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "22 Ilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "23 Ilir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "24 Ilir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "26 Ilir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Talang Semut"
+    }
   ]
 }

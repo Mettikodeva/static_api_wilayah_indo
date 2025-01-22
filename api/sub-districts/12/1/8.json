@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sibabangun",
-    "Mombang Boru",
-    "Anggoli",
-    "Muara Sibuntuon",
-    "Sibio Bio",
-    "Simanosor",
-    "Hutagur-gur (Hutagurgur)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sibabangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mombang Boru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anggoli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Sibuntuon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sibio Bio"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simanosor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hutagur-gur (Hutagurgur)"
+    }
   ]
 }

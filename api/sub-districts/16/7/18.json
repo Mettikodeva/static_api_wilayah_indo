@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Terusan Dalam",
-    "Karang Anyar",
-    "Muaratelang (Muara Telang)",
-    "Terusan Tengah",
-    "Sumber Jaya",
-    "Karang Baru",
-    "Muaratelang Marga (Muara Telang Marga / Margo)",
-    "Terusan Muara",
-    "Talang Lubuk",
-    "Sri Tiga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Terusan Dalam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muaratelang (Muara Telang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Terusan Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muaratelang Marga (Muara Telang Marga / Margo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terusan Muara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talang Lubuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sri Tiga"
+    }
   ]
 }

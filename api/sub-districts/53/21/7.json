@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "As Manulea",
-    "Manulea",
-    "Naibone",
-    "Fatuaruin",
-    "Builaran",
-    "Manumutin Silole",
-    "Umutnana",
-    "Beaneno",
-    "Naisau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "As Manulea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manulea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Naibone"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fatuaruin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Builaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manumutin Silole"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Umutnana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beaneno"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Naisau"
+    }
   ]
 }

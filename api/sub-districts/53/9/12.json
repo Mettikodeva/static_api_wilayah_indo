@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Watumanu",
-    "Tiworiwu",
-    "Dariwali",
-    "Naruwolo",
-    "Nenowea",
-    "Naruwolo I",
-    "Naruwolo II",
-    "Dariwali I (Manubhara)",
-    "Nio Lewa",
-    "Tiworiwu I",
-    "Tiworiwu II",
-    "Batajawa",
-    "Wongawea",
-    "Bowaru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Watumanu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tiworiwu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dariwali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Naruwolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nenowea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Naruwolo I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Naruwolo II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dariwali I (Manubhara)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nio Lewa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tiworiwu I"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tiworiwu II"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batajawa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wongawea"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bowaru"
+    }
   ]
 }

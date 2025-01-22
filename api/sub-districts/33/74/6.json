@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Penggaron Kidul",
-    "Tlogomulyo",
-    "Tlogosari Wetan",
-    "Tlogosari Kulon",
-    "Muktiharjo Kidul",
-    "Plamongansari (Plamongan Sari)",
-    "Gemah",
-    "Pedurungan Kidul",
-    "Pedurungan Lor",
-    "Pedurungan Tengah",
-    "Palebon",
-    "Kalicari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Penggaron Kidul"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tlogomulyo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tlogosari Wetan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tlogosari Kulon"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Muktiharjo Kidul"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Plamongansari (Plamongan Sari)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gemah"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pedurungan Kidul"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pedurungan Lor"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pedurungan Tengah"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Palebon"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kalicari"
+    }
   ]
 }

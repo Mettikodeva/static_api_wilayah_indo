@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Senen",
-    "Kenari",
-    "Paseban",
-    "Kramat",
-    "Kwitang",
-    "Bungur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Senen"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kenari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Paseban"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kwitang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bungur"
+    }
   ]
 }

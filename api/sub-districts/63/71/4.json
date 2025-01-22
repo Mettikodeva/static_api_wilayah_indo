@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Alalak Tengah",
-    "Alalak Utara",
-    "Alalak Selatan",
-    "Sei/Sungai Jingah",
-    "Sei/Sungai Miai",
-    "Surgi Mufti",
-    "Pangeran",
-    "Antasan Kecil Timur",
-    "Kuin Utara",
-    "Sungai Andai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Alalak Tengah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Alalak Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Alalak Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sei/Sungai Jingah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei/Sungai Miai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Surgi Mufti"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pangeran"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Antasan Kecil Timur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kuin Utara"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sungai Andai"
+    }
   ]
 }

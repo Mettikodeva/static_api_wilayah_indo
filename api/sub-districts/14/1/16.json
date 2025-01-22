@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kampung Pinang",
-    "Pantai Raja",
-    "Hangtuah",
-    "Sialang Kubang",
-    "Lubuk Sakat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kampung Pinang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pantai Raja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hangtuah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sialang Kubang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Sakat"
+    }
   ]
 }

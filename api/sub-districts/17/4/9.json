@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanjung Ganti I",
-    "Tanjung Ganti II",
-    "Rigangan I",
-    "Rigangan II",
-    "Rigangan III",
-    "Sukarami",
-    "Darat Sawah",
-    "Siring Agung",
-    "Penantian",
-    "Talang Tais",
-    "Pagar Dewa",
-    "Talang Marap",
-    "Suka Rami II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Ganti I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Ganti II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rigangan I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rigangan II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rigangan III"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukarami"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Darat Sawah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siring Agung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Penantian"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Tais"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Talang Marap"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Rami II"
+    }
   ]
 }

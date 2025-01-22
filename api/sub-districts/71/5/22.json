@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Karimbow",
-    "Karimbow Talikuran",
-    "Tokin",
-    "Tokin Baru",
-    "Wanga Amongena",
-    "Wanga",
-    "Picuan",
-    "Picuan Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karimbow"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karimbow Talikuran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tokin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tokin Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wanga Amongena"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wanga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Picuan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Picuan Satu"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Batu",
-    "Compong",
-    "Belawae",
-    "Botto",
-    "Bila Riase",
-    "Bola Bulu",
-    "Tanatoro",
-    "Lombo",
-    "Lagading",
-    "Dengeng-Dengeng",
-    "Buntu Buanging",
-    "Lepangeng (Leppangeng)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Compong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Belawae"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Botto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bila Riase"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bola Bulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanatoro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lombo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lagading"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dengeng-Dengeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Buntu Buanging"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lepangeng (Leppangeng)"
+    }
   ]
 }

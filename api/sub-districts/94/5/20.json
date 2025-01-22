@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Eromaga",
-    "Pinggil/Eronggobak",
-    "Gilini",
-    "Pinapa",
-    "Kunga",
-    "Ondugura",
-    "Manggume",
-    "Kuleme",
-    "Ninggibome",
-    "Awilkinop",
-    "Domaoa",
-    "Pungtrama",
-    "Balamagalama",
-    "Aminggaru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Eromaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pinggil/Eronggobak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gilini"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pinapa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kunga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ondugura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manggume"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuleme"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ninggibome"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Awilkinop"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Domaoa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pungtrama"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Balamagalama"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Aminggaru"
+    }
   ]
 }

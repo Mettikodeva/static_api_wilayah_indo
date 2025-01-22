@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tonjong",
-    "Tanjunganom (Tanjung Anom)",
-    "Cilengkrang Girang",
-    "Cilengkrang",
-    "Pasaleman",
-    "Cigobangwangi (Cigobang Wangi)",
-    "Cigobang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tonjong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjunganom (Tanjung Anom)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cilengkrang Girang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cilengkrang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasaleman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cigobangwangi (Cigobang Wangi)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cigobang"
+    }
   ]
 }

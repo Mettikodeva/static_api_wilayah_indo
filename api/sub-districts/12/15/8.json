@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Siempat Rube II",
-    "Siempat Rube I",
-    "Mungkur",
-    "Siempat Rube IV",
-    "Kuta Jungak",
-    "Traju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siempat Rube II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siempat Rube I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mungkur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siempat Rube IV"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuta Jungak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Traju"
+    }
   ]
 }

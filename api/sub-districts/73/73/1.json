@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tompotikka",
-    "Boting",
-    "Amasangan (Amassangan)",
-    "Lagaligo",
-    "Dangerekko",
-    "Pajalesang (Panjelesang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tompotikka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Boting"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Amasangan (Amassangan)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lagaligo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Dangerekko"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pajalesang (Panjelesang)"
+    }
   ]
 }

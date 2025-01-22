@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Yetti",
-    "Kriku",
-    "Skofro",
-    "Kibay",
-    "Sangke",
-    "Suskun",
-    "Amyu",
-    "Kikere (Pikere)",
-    "Petewi"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yetti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kriku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Skofro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kibay"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sangke"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suskun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Amyu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kikere (Pikere)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Petewi"
+    }
   ]
 }

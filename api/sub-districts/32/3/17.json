@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sukasari",
-    "Pasirdalem",
-    "Talagasari",
-    "Bojongkasih",
-    "Wargaasih",
-    "Sukaraharja",
-    "Sukakerta",
-    "Neglasari",
-    "Sukaresmi",
-    "Wargasari",
-    "Sukaraja",
-    "Kadupandak",
-    "Gandasari",
-    "Sindangsari"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirdalem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talagasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bojongkasih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wargaasih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukaraharja"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukakerta"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sukaresmi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wargasari"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kadupandak"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Gandasari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sindangsari"
+    }
   ]
 }

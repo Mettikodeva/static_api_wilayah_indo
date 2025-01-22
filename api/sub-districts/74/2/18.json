@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Uepai",
-    "Ameroro",
-    "Tawarotebota",
-    "Olo-Oloho (Alo-Oloho)",
-    "Matahoalu",
-    "Langgomea",
-    "Rawua",
-    "Baruga",
-    "Amaroa",
-    "Tawamelewe",
-    "Anggopiu",
-    "Tamesandi",
-    "Humboto",
-    "Anggawo",
-    "Kasaeda",
-    "Tanggondipo (Tanggodipo)",
-    "Panggulawu",
-    "Puuroda Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Uepai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ameroro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tawarotebota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Olo-Oloho (Alo-Oloho)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matahoalu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langgomea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baruga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Amaroa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tawamelewe"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anggopiu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tamesandi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Humboto"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Anggawo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kasaeda"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanggondipo (Tanggodipo)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Panggulawu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Puuroda Jaya"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bere Bere",
-    "Sakita",
-    "Tawakali",
-    "Yao",
-    "Bido",
-    "Gorua",
-    "Korago",
-    "Lusuo (Losuo)",
-    "Kenari",
-    "Loleo Jaya",
-    "Maba",
-    "Tanjung Saleh",
-    "Goa Hira",
-    "Gorua Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bere Bere"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sakita"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tawakali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yao"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bido"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gorua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Korago"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lusuo (Losuo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kenari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Loleo Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Saleh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Goa Hira"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gorua Selatan"
+    }
   ]
 }

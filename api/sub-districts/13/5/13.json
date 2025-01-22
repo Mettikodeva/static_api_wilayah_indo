@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Malai V Suku",
-    "Gasan Gadang",
-    "Malai V Suku Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malai V Suku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gasan Gadang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malai V Suku Timur"
+    }
   ]
 }

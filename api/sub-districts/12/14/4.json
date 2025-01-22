@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Duru",
-    "Tuwaso",
-    "Hilioromao (Hilioro Mao)",
-    "Eho",
-    "Sialema",
-    "Bowonifaoso (Bawonifaoso)",
-    "Hilianombasela",
-    "Lumbui Melayu",
-    "Hiliorodua Tebolo (Hilioro Dua Tebolo)",
-    "Tebolo Melayu",
-    "Lumbui Nias",
-    "Baruyu Sibohou",
-    "Sepakat",
-    "Tano Mokinu",
-    "Hilikana",
-    "Hilinifaese",
-    "Omega"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Duru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tuwaso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hilioromao (Hilioro Mao)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Eho"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sialema"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bowonifaoso (Bawonifaoso)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilianombasela"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lumbui Melayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hiliorodua Tebolo (Hilioro Dua Tebolo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tebolo Melayu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lumbui Nias"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Baruyu Sibohou"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sepakat"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tano Mokinu"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Hilikana"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Hilinifaese"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Omega"
+    }
   ]
 }

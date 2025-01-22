@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sempe",
-    "Semamung",
-    "Sebasang",
-    "Batu Tering (Batutering)",
-    "Batu Bulan (Batubulan)",
-    "Mokong",
-    "Pernek",
-    "Leseng",
-    "Lito",
-    "Marga Karya",
-    "Maman",
-    "Brang Rea (Berang Rea)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sempe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semamung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebasang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Tering (Batutering)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Bulan (Batubulan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mokong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pernek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leseng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lito"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Marga Karya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maman"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Brang Rea (Berang Rea)"
+    }
   ]
 }

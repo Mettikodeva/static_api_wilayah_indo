@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Idakebo",
-    "Pugatadi Satu (I)",
-    "Pugatadi Dua (II)",
-    "Ikrar",
-    "Obayo",
-    "Koyakago (Kuyakago)",
-    "Mogou",
-    "Yametadi (Yawetadi)",
-    "Duntek (Dumtek)",
-    "Ekimani (Ekiwani)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Idakebo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pugatadi Satu (I)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pugatadi Dua (II)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ikrar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Obayo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koyakago (Kuyakago)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mogou"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yametadi (Yawetadi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Duntek (Dumtek)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ekimani (Ekiwani)"
+    }
   ]
 }

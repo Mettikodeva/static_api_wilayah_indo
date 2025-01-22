@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Iniye",
-    "Baklema",
-    "Kibendumu",
-    "Simiye",
-    "Embuklem",
-    "Kosobak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Iniye"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baklema"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kibendumu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simiye"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Embuklem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kosobak"
+    }
   ]
 }

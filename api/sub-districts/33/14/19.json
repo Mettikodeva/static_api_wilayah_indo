@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Katelan",
-    "Dukuh",
-    "Jekawal",
-    "Galeh",
-    "Ngrombo",
-    "Sigit",
-    "Denanyar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Katelan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jekawal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Galeh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngrombo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sigit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Denanyar"
+    }
   ]
 }

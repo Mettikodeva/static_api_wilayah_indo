@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Siayuh (Si Ayuh)",
-    "Bungkukan",
-    "Batang Kulur",
-    "Tanjung Sari",
-    "Magalau Hilir",
-    "Magalau Hulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siayuh (Si Ayuh)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bungkukan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batang Kulur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Magalau Hilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Magalau Hulu"
+    }
   ]
 }

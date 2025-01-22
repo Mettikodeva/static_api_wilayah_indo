@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jaten",
-    "Salam",
-    "Rejosari",
-    "Kaliboto",
-    "Wonodadi",
-    "Tawangrejo",
-    "Kebonagung",
-    "Pikatan",
-    "Gandekan",
-    "Kunir",
-    "Kolomayan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jaten"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaliboto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonodadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tawangrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pikatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gandekan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kunir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kolomayan"
+    }
   ]
 }

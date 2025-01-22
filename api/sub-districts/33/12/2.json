@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bayemharjo",
-    "Giritontro",
-    "Ngargoharjo",
-    "Tlogosari",
-    "Tlogoharjo",
-    "Jatirejo",
-    "Pucanganom"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bayemharjo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Giritontro"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngargoharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tlogosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tlogoharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pucanganom"
+    }
   ]
 }

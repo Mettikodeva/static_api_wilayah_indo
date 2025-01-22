@@ -1,47 +1,176 @@
 {
   "sub_districts": [
-    "Cut Nyong (Gampong Cut Nyong)",
-    "Meunasah Gampong (Gampong Nyong)",
-    "Baro (Gampong Meunasah Baro / Baro Nyong)",
-    "Pulo Rheng",
-    "Dayah Nyong",
-    "Daboih",
-    "Beurandeh",
-    "Kaye Raya (Kayee Raya)",
-    "Blang Glong",
-    "Tutong",
-    "Siren",
-    "Keude Lueng Putu",
-    "Peub Lueng Nibong (Pueb Lueng Nibong)",
-    "Baroh Musa",
-    "Musa Teungoh (Teungoh Musa)",
-    "Balee",
-    "Udeung",
-    "Ara",
-    "Baroh Lancok",
-    "Manyang",
-    "Mesjid (Mesjid Lancok)",
-    "Pulo Pueb",
-    "Sawang",
-    "Tuha Lada (Tualada)",
-    "Cut Langgien (Cut Langien)",
-    "Sagoe",
-    "Dayah Langgien (Dayah Langien)",
-    "Baroh Cot",
-    "Blang Iboh (Blang Iboih)",
-    "Blang Sukon",
-    "Kayee Jatoe",
-    "Blang Baro",
-    "Lancang (Lancang Paru)",
-    "Keude Paru (Paru Keude)",
-    "Blang Krueng",
-    "Jijiem",
-    "Sarah Panyang",
-    "Abah Lueng",
-    "Aki Neungoh",
-    "Ujong Lebat (Ujong Leubat)",
-    "Alue",
-    "Tanoh Mirah",
-    "Paru Cot"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cut Nyong (Gampong Cut Nyong)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meunasah Gampong (Gampong Nyong)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baro (Gampong Meunasah Baro / Baro Nyong)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulo Rheng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dayah Nyong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Daboih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beurandeh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaye Raya (Kayee Raya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Blang Glong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tutong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Siren"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Keude Lueng Putu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Peub Lueng Nibong (Pueb Lueng Nibong)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baroh Musa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Musa Teungoh (Teungoh Musa)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Balee"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Udeung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ara"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Baroh Lancok"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Manyang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mesjid (Mesjid Lancok)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pulo Pueb"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sawang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tuha Lada (Tualada)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Cut Langgien (Cut Langien)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sagoe"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Dayah Langgien (Dayah Langien)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Baroh Cot"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Blang Iboh (Blang Iboih)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Blang Sukon"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Kayee Jatoe"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Blang Baro"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Lancang (Lancang Paru)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Keude Paru (Paru Keude)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Blang Krueng"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Jijiem"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Sarah Panyang"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Abah Lueng"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Aki Neungoh"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Ujong Lebat (Ujong Leubat)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Alue"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Tanoh Mirah"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Paru Cot"
+    }
   ]
 }

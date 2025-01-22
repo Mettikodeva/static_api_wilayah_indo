@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kasuratan",
-    "Parepei (Parepey)",
-    "Pulutan",
-    "Sinuian",
-    "Kaima",
-    "Sendangan",
-    "Timu",
-    "Talikuran",
-    "Tampusu",
-    "Paslaten",
-    "Leleko"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kasuratan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Parepei (Parepey)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulutan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sinuian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sendangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talikuran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tampusu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paslaten"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Leleko"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Saukorem",
-    "Wefiani (Wefani)",
-    "Wasarak",
-    "Binasi",
-    "Kabibwan",
-    "Binmaks",
-    "Manggapnut",
-    "Waramui",
-    "Warpaperi"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Saukorem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wefiani (Wefani)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wasarak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binasi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kabibwan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Binmaks"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Manggapnut"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Waramui"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Warpaperi"
+    }
   ]
 }

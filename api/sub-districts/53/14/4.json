@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Onatali",
-    "Maubesi",
-    "Nggodimeda",
-    "Limakoli",
-    "Lidamanu",
-    "Suebela",
-    "Lidabesi",
-    "Siomeda"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Onatali"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maubesi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nggodimeda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Limakoli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lidamanu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suebela"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lidabesi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Siomeda"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kian Laut",
-    "Kwaos (Kuwaos)",
-    "Salagor Air",
-    "Salagor Kota",
-    "Aruan Gaur",
-    "Keta Rumadan",
-    "Lian Tasik",
-    "Keta",
-    "Air Nanang",
-    "Suru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kian Laut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kwaos (Kuwaos)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salagor Air"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salagor Kota"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aruan Gaur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keta Rumadan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lian Tasik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keta"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Nanang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suru"
+    }
   ]
 }

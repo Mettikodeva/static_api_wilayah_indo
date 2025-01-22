@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Mariso",
-    "Mamajang",
-    "Makassar",
-    "Ujung Pandang",
-    "Wajo",
-    "Bontoala",
-    "Tallo",
-    "Ujung Tanah",
-    "Panakkukang",
-    "Tamalate",
-    "Biringkanaya (Biring Kanaya)",
-    "Manggala",
-    "Rappocini",
-    "Tamalanrea",
-    "Kepulauan Sangkarrang"
+    {
+      "district_id": 1,
+      "kecamatan": "Mariso"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mamajang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Makassar"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ujung Pandang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wajo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bontoala"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tallo"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Ujung Tanah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Panakkukang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tamalate"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Biringkanaya (Biring Kanaya)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Manggala"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Rappocini"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tamalanrea"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kepulauan Sangkarrang"
+    }
   ]
 }

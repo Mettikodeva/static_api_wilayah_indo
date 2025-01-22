@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kotawo (Kotawa)",
-    "Karya Bhakti (Karya Bakti)",
-    "Margakarya (Marga Karya)",
-    "Kasulatombi",
-    "Lampala Jaya (Dampala Jaya)",
-    "Rahmat Baru",
-    "Soloy/Soioi Agung",
-    "Bumi Lapero/Lapera",
-    "Karya Mulya",
-    "Lambale",
-    "Lapandewa",
-    "Lauki",
-    "Mekar Jaya",
-    "Labulanda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kotawo (Kotawa)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karya Bhakti (Karya Bakti)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margakarya (Marga Karya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kasulatombi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lampala Jaya (Dampala Jaya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rahmat Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Soloy/Soioi Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bumi Lapero/Lapera"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karya Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lambale"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lapandewa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lauki"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Labulanda"
+    }
   ]
 }

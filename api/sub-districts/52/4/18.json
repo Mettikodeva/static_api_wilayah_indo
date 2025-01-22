@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Labuhan Badas",
-    "Karang Dima",
-    "Labuhan Sumbawa (Labuan Sumbawa)",
-    "Labuhan Aji (Labuan Aji)",
-    "Sebotok",
-    "Bajo Medang",
-    "Bugis Medang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuhan Badas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Dima"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labuhan Sumbawa (Labuan Sumbawa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labuhan Aji (Labuan Aji)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebotok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bajo Medang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bugis Medang"
+    }
   ]
 }

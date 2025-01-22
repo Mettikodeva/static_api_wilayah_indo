@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Plakaran",
-    "Mandiraja",
-    "Walangsanga",
-    "Sima",
-    "Moga",
-    "Banyumudal",
-    "Wangkelang",
-    "Kebanggan",
-    "Pepedan",
-    "Gendoang (Gendowang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Plakaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mandiraja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Walangsanga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sima"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Moga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banyumudal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wangkelang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kebanggan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pepedan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gendoang (Gendowang)"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tepogi",
-    "Ninabua",
-    "Golikme",
-    "Ninengwa",
-    "Weri",
-    "Gumagame",
-    "Abua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tepogi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ninabua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Golikme"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ninengwa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Weri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gumagame"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Abua"
+    }
   ]
 }

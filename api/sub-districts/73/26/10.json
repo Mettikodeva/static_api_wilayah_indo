@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tagari",
-    "Balusu",
-    "Palangi'",
-    "Balusu Ao Gading",
-    "Karua",
-    "Awa' Kawasik",
-    "Balusu Bangun Lipu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tagari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Balusu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palangi'"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balusu Ao Gading"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Awa' Kawasik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balusu Bangun Lipu"
+    }
   ]
 }

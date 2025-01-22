@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ledug",
-    "Pecalukan",
-    "Prigen",
-    "Jatirejo (Jatiarjo)",
-    "Watuagung",
-    "Dayurejo",
-    "Bulukandang",
-    "Ketanireng",
-    "Sukolelo",
-    "Lumbangrejo (Lumbang Rejo)",
-    "Sukoreno",
-    "Sekarjoho",
-    "Gambiran",
-    "Candiwates (Candi Wates)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ledug"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pecalukan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Prigen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatirejo (Jatiarjo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Watuagung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dayurejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulukandang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ketanireng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukolelo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lumbangrejo (Lumbang Rejo)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukoreno"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sekarjoho"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gambiran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Candiwates (Candi Wates)"
+    }
   ]
 }

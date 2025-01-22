@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kemala Jaya",
-    "Lontar",
-    "Muara Saeh",
-    "Lubuk Tupak",
-    "Beringin",
-    "Surau",
-    "Karang Lantang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kemala Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lontar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Saeh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Tupak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Surau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Lantang"
+    }
   ]
 }

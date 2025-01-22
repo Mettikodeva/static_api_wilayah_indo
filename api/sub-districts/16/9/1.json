@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Batu Belang Jaya",
-    "Bumi Agung",
-    "Pancur Pungah",
-    "Kisau",
-    "Pasar Muaradua",
-    "Gedung Lepihan",
-    "Gunung Tiga",
-    "Suka Banjar",
-    "Sukaraja II (Sukaraja Dua)",
-    "Pendagan",
-    "Mehanggin",
-    "Pelangki",
-    "Batu Belang 2 (Batu Belang Dua)",
-    "Datar"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Batu Belang Jaya"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Bumi Agung"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Pancur Pungah"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kisau"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Pasar Muaradua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gedung Lepihan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Tiga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Banjar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaraja II (Sukaraja Dua)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pendagan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mehanggin"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pelangki"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Batu Belang 2 (Batu Belang Dua)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Datar"
+    }
   ]
 }

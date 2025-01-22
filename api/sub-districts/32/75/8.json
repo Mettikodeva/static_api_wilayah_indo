@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Jatiwaringin",
-    "Jatibening",
-    "Jatimakmur",
-    "Jatibening Baru",
-    "Jaticempaka"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jatiwaringin"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jatibening"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jatimakmur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jatibening Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jaticempaka"
+    }
   ]
 }

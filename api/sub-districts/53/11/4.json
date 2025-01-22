@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Makamenggit",
-    "Tandula Jangga",
-    "Praipaha (Prai Paha)",
-    "Kahiri",
-    "Pulu Panjang",
-    "Praikarang (Prai Karang)",
-    "Tanatuku",
-    "Ngadulanggi (Ngadulangi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Makamenggit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tandula Jangga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Praipaha (Prai Paha)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kahiri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulu Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Praikarang (Prai Karang)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanatuku"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngadulanggi (Ngadulangi)"
+    }
   ]
 }

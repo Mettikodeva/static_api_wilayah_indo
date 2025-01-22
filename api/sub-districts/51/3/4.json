@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Carangsari",
-    "Petang",
-    "Belok/Sidan",
-    "Pelaga",
-    "Getasan",
-    "Pangsan",
-    "Sulangai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Carangsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Petang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Belok/Sidan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelaga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Getasan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangsan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sulangai"
+    }
   ]
 }

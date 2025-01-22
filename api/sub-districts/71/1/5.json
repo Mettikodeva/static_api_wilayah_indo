@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ayong",
-    "Babo",
-    "Bolangat",
-    "Maelang",
-    "Domisil Moonow",
-    "Pangi",
-    "Lolanan",
-    "Cempaka",
-    "Batumera (Batu Merah)",
-    "Pasir Putih",
-    "Pangi Timur (Pangi Timu)",
-    "Bolangat Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ayong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bolangat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maelang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Domisil Moonow"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lolanan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batumera (Batu Merah)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pangi Timur (Pangi Timu)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bolangat Timur"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Susut",
-    "Bangli",
-    "Tembuku",
-    "Kintamani"
+    {
+      "district_id": 1,
+      "kecamatan": "Susut"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bangli"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tembuku"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kintamani"
+    }
   ]
 }

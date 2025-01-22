@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kedai",
-    "Padang",
-    "Tengah",
-    "Paya",
-    "Seuneulop",
-    "Lhok Puntoy",
-    "Ladang Panah",
-    "Pusu Ingin Jaya",
-    "Panton Makmur",
-    "Lhueng Baro",
-    "Tokoh",
-    "Blang Manggeng",
-    "Pante Raja",
-    "Sejahtera",
-    "Lhok Pawoh",
-    "Pante Pirak",
-    "Ujung Tanah",
-    "Pante Cermin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seuneulop"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lhok Puntoy"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ladang Panah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pusu Ingin Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panton Makmur"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lhueng Baro"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tokoh"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Blang Manggeng"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pante Raja"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sejahtera"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Lhok Pawoh"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pante Pirak"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Ujung Tanah"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Pante Cermin"
+    }
   ]
 }

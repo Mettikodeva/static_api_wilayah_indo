@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tanjungpura",
-    "Tanjungsari",
-    "Pringgacala",
-    "Benda",
-    "Sendang",
-    "Karangampel Kidul",
-    "Karangampel",
-    "Dukuh Jeruk (Dukuhjeruk)",
-    "Dukuh Tengah (Dukuhtengah)",
-    "Mundu",
-    "Kaplongan Lor (Kaplonganlor)"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungpura"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pringgacala"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Benda"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karangampel Kidul"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangampel"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dukuh Jeruk (Dukuhjeruk)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dukuh Tengah (Dukuhtengah)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mundu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kaplongan Lor (Kaplonganlor)"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ngadirojo (Ngadirejo)",
-    "Klepu",
-    "Suru (Seru)",
-    "Sooko",
-    "Bedoho",
-    "Jurug"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngadirojo (Ngadirejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klepu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suru (Seru)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sooko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bedoho"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jurug"
+    }
   ]
 }

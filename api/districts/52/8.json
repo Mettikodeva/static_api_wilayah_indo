@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Tanjung",
-    "Gangga",
-    "Kayangan",
-    "Bayan",
-    "Pemenang"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanjung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Gangga"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kayangan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bayan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pemenang"
+    }
   ]
 }

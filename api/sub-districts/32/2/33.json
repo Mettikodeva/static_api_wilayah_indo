@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pasirhalang",
-    "Selawi (Selaawi)",
-    "Langensari",
-    "Sukaraja",
-    "Limbangan",
-    "Cisarua",
-    "Sukamekar",
-    "Selawangi",
-    "Margaluyu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasirhalang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selawi (Selaawi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Langensari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limbangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamekar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selawangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Margaluyu"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mangun Jayo",
-    "Tanjung Agung",
-    "Tebat",
-    "Baru Pusat Jalo",
-    "Bedaro",
-    "Tebing Tinggi",
-    "Datar",
-    "Suka Jaya",
-    "Pekan Jum'at"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mangun Jayo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tebat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baru Pusat Jalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bedaro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Datar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pekan Jum'at"
+    }
   ]
 }

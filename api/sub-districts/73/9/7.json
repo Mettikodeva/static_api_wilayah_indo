@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Borong",
-    "Allaere",
-    "Toddopulia (Toddo Pulia)",
-    "Kurusumange (Kuru Sumange)",
-    "Lekopancing (Leko Pancing)",
-    "Damai",
-    "Sudirman",
-    "Purnakarya (Purna Karya)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Borong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Allaere"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toddopulia (Toddo Pulia)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kurusumange (Kuru Sumange)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lekopancing (Leko Pancing)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Damai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sudirman"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purnakarya (Purna Karya)"
+    }
   ]
 }

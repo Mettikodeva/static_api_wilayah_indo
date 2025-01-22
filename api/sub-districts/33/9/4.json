@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pagerjurang",
-    "Sukorejo",
-    "Sruni",
-    "Cluntang",
-    "Kembangsari",
-    "Ringinlarik (Ringin Larik)",
-    "Kebongulo",
-    "Musuk",
-    "Sukorame",
-    "Pusporenggo"
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pagerjurang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sruni"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cluntang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kembangsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ringinlarik (Ringin Larik)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kebongulo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Musuk"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sukorame"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pusporenggo"
+    }
   ]
 }

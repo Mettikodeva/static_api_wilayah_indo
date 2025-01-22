@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Peninggiran",
-    "Kuripan",
-    "Surabaya",
-    "Sukarena",
-    "Karang Pendeta",
-    "Kota Agung",
-    "Sukabumi",
-    "Kuripan II / Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peninggiran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Surabaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukarena"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Pendeta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukabumi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuripan II / Dua"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Juai",
-    "Halong",
-    "Awayan",
-    "Batu Mandi",
-    "Lampihong",
-    "Paringin",
-    "Paringin Selatan",
-    "Tebing Tinggi"
+    {
+      "district_id": 1,
+      "kecamatan": "Juai"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Halong"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Awayan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Batu Mandi"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lampihong"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Paringin"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Paringin Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tebing Tinggi"
+    }
   ]
 }

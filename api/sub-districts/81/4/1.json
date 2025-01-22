@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Namlea",
-    "Lala",
-    "Karang Jaya",
-    "Siahoni",
-    "Jamilu",
-    "Sanleko",
-    "Batu Boy"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Namlea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siahoni"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jamilu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sanleko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batu Boy"
+    }
   ]
 }

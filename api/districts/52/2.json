@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Praya",
-    "Jonggat",
-    "Batukliang",
-    "Pujut",
-    "Praya Barat",
-    "Praya Timur",
-    "Janapria",
-    "Pringgarata",
-    "Kopang",
-    "Praya Tengah",
-    "Praya Barat Daya",
-    "Batukliang Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Praya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jonggat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Batukliang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pujut"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Praya Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Praya Timur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Janapria"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pringgarata"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kopang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Praya Tengah"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Praya Barat Daya"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Batukliang Utara"
+    }
   ]
 }

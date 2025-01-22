@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Bebali",
-    "Tatahadeng (Tatehadeng)",
-    "Tarorane",
-    "Akesimbeka",
-    "Bahu",
-    "Bukide",
-    "Apelawo",
-    "Deahe (Beaha)",
-    "Lia",
-    "Kanang",
-    "Buise",
-    "Karalung",
-    "Dame",
-    "Dame I",
-    "Lia Satu",
-    "Karalung Satu"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bebali"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tatahadeng (Tatehadeng)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tarorane"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Akesimbeka"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bahu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukide"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Apelawo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deahe (Beaha)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kanang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buise"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karalung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dame"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dame I"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lia Satu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Karalung Satu"
+    }
   ]
 }

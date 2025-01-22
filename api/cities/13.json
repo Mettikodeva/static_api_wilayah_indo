@@ -1,22 +1,80 @@
 {
   "cities": [
-    "Pesisir Selatan",
-    "Solok",
-    "Sijunjung",
-    "Tanah Datar",
-    "Padang Pariaman",
-    "Agam",
-    "Lima Puluh Kota",
-    "Pasaman",
-    "Kepulauan Mentawai",
-    "Dharmasraya",
-    "Solok Selatan",
-    "Pasaman Barat",
-    "Padang",
-    "Sawahlunto",
-    "Padang Panjang",
-    "Bukittinggi",
-    "Payakumbuh",
-    "Pariaman"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Pesisir Selatan"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Solok"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Sijunjung"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Tanah Datar"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Padang Pariaman"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Agam"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Lima Puluh Kota"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Pasaman"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Kepulauan Mentawai"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Dharmasraya"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Solok Selatan"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Pasaman Barat"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Padang"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Solok"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Sawahlunto"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Padang Panjang"
+    },
+    {
+      "city_id": 75,
+      "kabupaten_kota": "Bukittinggi"
+    },
+    {
+      "city_id": 76,
+      "kabupaten_kota": "Payakumbuh"
+    },
+    {
+      "city_id": 77,
+      "kabupaten_kota": "Pariaman"
+    }
   ]
 }

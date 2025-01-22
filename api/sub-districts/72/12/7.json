@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lembah Sumara (Lembasumara)",
-    "Sumara Jaya",
-    "Tambayoli",
-    "Malino",
-    "Panca Makmur",
-    "Tamainusi",
-    "Bau",
-    "Malino Jaya",
-    "Toddopoli Uebangke (Toddopuli Uebangke)",
-    "Tandoyondo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lembah Sumara (Lembasumara)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumara Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambayoli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malino"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panca Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamainusi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Malino Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Toddopoli Uebangke (Toddopuli Uebangke)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tandoyondo"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Long Bentuq (Long Bentuk)",
-    "Long Pejeng",
-    "Long Lees",
-    "Mekar Baru",
-    "Rantau Sentosa",
-    "Long Nyelong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Bentuq (Long Bentuk)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Pejeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Lees"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekar Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Sentosa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Long Nyelong"
+    }
   ]
 }

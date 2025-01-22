@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Guradog",
-    "Curugbitung",
-    "Candi",
-    "Mayak",
-    "Cipining",
-    "Cilayang",
-    "Ciburuy",
-    "Sekarwangi",
-    "Cidadap",
-    "Lebakasih (Lebakkasih)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Guradog"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Curugbitung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mayak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipining"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cilayang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ciburuy"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sekarwangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cidadap"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lebakasih (Lebakkasih)"
+    }
   ]
 }

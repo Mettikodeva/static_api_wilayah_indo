@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bongas Wetan",
-    "Bongas Kulon",
-    "Garawangi",
-    "Rancaputat",
-    "Banjaran",
-    "Sepat",
-    "Paningkiran",
-    "Parapatan",
-    "Panjalin Kidul",
-    "Cidenok",
-    "Lojikobong (Loji Kobong)",
-    "Panjalin Lor",
-    "Sumberjaya",
-    "Pancaksuji",
-    "Gelok Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bongas Wetan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bongas Kulon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Garawangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rancaputat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sepat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paningkiran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parapatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panjalin Kidul"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cidenok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lojikobong (Loji Kobong)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Panjalin Lor"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumberjaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pancaksuji"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gelok Mulya"
+    }
   ]
 }

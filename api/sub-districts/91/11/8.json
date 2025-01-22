@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Dukwia",
-    "Sanggaria",
-    "Yatu Raharja",
-    "Warbo",
-    "Yammua",
-    "Ifia-fia",
-    "Baburia",
-    "Yowong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dukwia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sanggaria"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yatu Raharja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Warbo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yammua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ifia-fia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baburia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yowong"
+    }
   ]
 }

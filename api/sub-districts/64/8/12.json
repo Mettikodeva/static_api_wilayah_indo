@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Singa Geweh",
-    "Sangatta Selatan (Sangata Selatan)",
-    "Sangkima",
-    "Teluk Singkam / Singkama"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Singa Geweh"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sangatta Selatan (Sangata Selatan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sangkima"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Singkam / Singkama"
+    }
   ]
 }

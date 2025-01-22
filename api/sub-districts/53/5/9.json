@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Baraler",
-    "Kalondama",
-    "Leer",
-    "Baranusa",
-    "Blang Merang",
-    "Illu",
-    "Piringsina"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baraler"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalondama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Leer"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Baranusa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Blang Merang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Illu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Piringsina"
+    }
   ]
 }

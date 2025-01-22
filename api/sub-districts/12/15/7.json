@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kuta Babo",
-    "Tinada",
-    "Silima Kuta",
-    "Mahala",
-    "Prongil",
-    "Buluh Tellang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuta Babo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tinada"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Silima Kuta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mahala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Prongil"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buluh Tellang"
+    }
   ]
 }

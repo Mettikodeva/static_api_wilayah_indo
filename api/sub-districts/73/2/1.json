@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Matekko (Mattekko)",
-    "Jalanjang",
-    "Mario Rennu (Mariorennu)",
-    "Bialo",
-    "Bonto Macinna",
-    "Gattareng",
-    "Dampang",
-    "Bonto Sunggu",
-    "Palang Barae (Palambarae)",
-    "Bonto Nyeleng (Bontonyeleng)",
-    "Benteng Melawang (Benteng Malewang)",
-    "Padang",
-    "Bonto Raja (Bontoraja)",
-    "Paenre Lampoe (Paenre Lompoe)",
-    "Benteng Gattareng (Benteng Gatareng)",
-    "Bukit Harapan",
-    "Polewali",
-    "Bonto Masila (Bontomasila)",
-    "Barombong",
-    "Bukit Tinggi",
-    "Taccorong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Matekko (Mattekko)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jalanjang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mario Rennu (Mariorennu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bialo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonto Macinna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gattareng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dampang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonto Sunggu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palang Barae (Palambarae)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonto Nyeleng (Bontonyeleng)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Benteng Melawang (Benteng Malewang)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bonto Raja (Bontoraja)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Paenre Lampoe (Paenre Lompoe)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Benteng Gattareng (Benteng Gatareng)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Polewali"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bonto Masila (Bontomasila)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Barombong"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bukit Tinggi"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Taccorong"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sumberejo",
-    "Selosari",
-    "Karangrejo",
-    "Kandat",
-    "Cendono",
-    "Ringinsari",
-    "Tegalan",
-    "Ngletih",
-    "Purworejo",
-    "Pule",
-    "Blabak",
-    "Ngreco"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kandat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cendono"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ringinsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegalan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngletih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pule"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Blabak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngreco"
+    }
   ]
 }

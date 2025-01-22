@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tetehosi Maziaya",
-    "Umbubalodano",
-    "Hilimbosi",
-    "Hilisalo'o (Hilisaloo)",
-    "Fulolo Salo'o (Fulolo Saloo)",
-    "Botombawo (Batom Bawo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tetehosi Maziaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Umbubalodano"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hilimbosi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hilisalo'o (Hilisaloo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fulolo Salo'o (Fulolo Saloo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Botombawo (Batom Bawo)"
+    }
   ]
 }

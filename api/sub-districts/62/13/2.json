@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pasar Panas/Taniran",
-    "Kandris",
-    "Banyu Landas",
-    "Bagok",
-    "Bamban",
-    "Tewah Pupuh",
-    "Gudang Seng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Panas/Taniran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kandris"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banyu Landas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bagok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bamban"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tewah Pupuh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gudang Seng"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Helvetia",
-    "Helvetia Tengah",
-    "Helvetia Timur",
-    "Tanjung Gusta",
-    "Cinta Damai",
-    "Dwi Kora",
-    "Sei Sikambing C II"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Helvetia"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Helvetia Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Helvetia Timur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung Gusta"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cinta Damai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Dwi Kora"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sei Sikambing C II"
+    }
   ]
 }

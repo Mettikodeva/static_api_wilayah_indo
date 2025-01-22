@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sidomulyo",
-    "Kalirejo",
-    "Susukan",
-    "Gedanganak",
-    "Beji",
-    "Mluweh",
-    "Kawengen",
-    "Kalikayen",
-    "Leyangan",
-    "Kalongan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Susukan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gedanganak"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mluweh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kawengen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalikayen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Leyangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalongan"
+    }
   ]
 }

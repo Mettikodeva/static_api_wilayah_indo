@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Yaniruma",
-    "Manggemakhe (Manggemahe)",
-    "Fefero (Fefeko)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yaniruma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manggemakhe (Manggemahe)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fefero (Fefeko)"
+    }
   ]
 }

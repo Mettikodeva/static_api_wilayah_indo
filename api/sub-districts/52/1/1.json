@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Gerung Utara",
-    "Dasan Geres",
-    "Gerung Selatan",
-    "Kebon Ayu (Kebunayu)",
-    "Gapuk",
-    "Suka Makmur (Sukamakmur)",
-    "Banyu Urip",
-    "Babussalam",
-    "Dasan Tapen",
-    "Beleke",
-    "Tempos",
-    "Mesanggok",
-    "Taman Ayu",
-    "Giri Tembesi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gerung Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Dasan Geres"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Gerung Selatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebon Ayu (Kebunayu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gapuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Makmur (Sukamakmur)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banyu Urip"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Babussalam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dasan Tapen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Beleke"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tempos"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mesanggok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Taman Ayu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Giri Tembesi"
+    }
   ]
 }

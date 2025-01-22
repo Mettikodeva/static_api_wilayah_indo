@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mulia",
-    "Peunayong",
-    "Laksana",
-    "Keuramat (Kramat)",
-    "Kota Baru",
-    "Beurawe",
-    "Kuta Alam",
-    "Bandar Baru",
-    "Lamdingin",
-    "Lampula / Lampulo",
-    "Lambaro Skep"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mulia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Peunayong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laksana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Keuramat (Kramat)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beurawe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuta Alam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bandar Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamdingin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lampula / Lampulo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lambaro Skep"
+    }
   ]
 }

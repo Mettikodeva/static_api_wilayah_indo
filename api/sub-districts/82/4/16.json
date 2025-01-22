@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Loleo Jaya",
-    "Tawa",
-    "Marituso (Maritosu)",
-    "Kou Balabala (Koubalabala)",
-    "Loleo Mekar (Loleomekar)",
-    "Tutuhu (Tutuha)",
-    "Jeret",
-    "Kasiruta Dalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Loleo Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marituso (Maritosu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kou Balabala (Koubalabala)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Loleo Mekar (Loleomekar)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tutuhu (Tutuha)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jeret"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kasiruta Dalam"
+    }
   ]
 }

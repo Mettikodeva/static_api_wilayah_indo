@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pasar Teluk Dalam",
-    "Hiligeho",
-    "Hilitobara",
-    "Bawonifaoso",
-    "Bawozaua",
-    "Hiliganowo",
-    "Bawodobara",
-    "Bawolowalani",
-    "Hilisao'otoniha",
-    "Hilisondrekha",
-    "Hiliamuri",
-    "Hiliana'a",
-    "Hiliganowo Salo'o",
-    "Ganowo Saua",
-    "Nanowa",
-    "Hililaza"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasar Teluk Dalam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hiligeho"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilitobara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bawonifaoso"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bawozaua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hiliganowo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bawodobara"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bawolowalani"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Hilisao'otoniha"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Hilisondrekha"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Hiliamuri"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Hiliana'a"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Hiliganowo Salo'o"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Ganowo Saua"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Nanowa"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Hililaza"
+    }
   ]
 }

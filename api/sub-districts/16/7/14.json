@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Air Solok Batu",
-    "Sri Mulyo (Srimulyo)",
-    "Sri Katon (Srikaton)",
-    "Sido Harjo (Sidoharjo)",
-    "Bintaran",
-    "Damar Wulan (Damarwulan)",
-    "Enggal Rejo (Enggalrejo)",
-    "Saleh Jaya",
-    "Saleh Agung (Makmur)",
-    "Saleh Mulya",
-    "Saleh Mukti",
-    "Saleh Makmur",
-    "Upang",
-    "Upang Marga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Solok Batu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sri Mulyo (Srimulyo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sri Katon (Srikaton)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sido Harjo (Sidoharjo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bintaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Damar Wulan (Damarwulan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Enggal Rejo (Enggalrejo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Saleh Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Saleh Agung (Makmur)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saleh Mulya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saleh Mukti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Saleh Makmur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Upang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Upang Marga"
+    }
   ]
 }

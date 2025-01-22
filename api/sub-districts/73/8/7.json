@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Padaelo",
-    "Mattirowalie (Mattiro Walie)",
-    "Mario",
-    "Ujung Salangketo",
-    "Tellu Boccoe",
-    "Mattampa Walie",
-    "Ujung Tanah",
-    "Sumaling",
-    "Tellongeng",
-    "Data",
-    "Batu Gading",
-    "Cege",
-    "Kadai",
-    "Lakukang",
-    "Pattiro",
-    "Lapasa",
-    "Karella",
-    "Lappaupang (Lappa Upang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padaelo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mattirowalie (Mattiro Walie)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mario"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ujung Salangketo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tellu Boccoe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mattampa Walie"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ujung Tanah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumaling"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tellongeng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Data"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Gading"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cege"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kadai"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lakukang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pattiro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lapasa"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Karella"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lappaupang (Lappa Upang)"
+    }
   ]
 }

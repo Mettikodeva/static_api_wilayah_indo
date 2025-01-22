@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pondok Kubang",
-    "Batu Raja",
-    "Dusun Anyar",
-    "Tanjung Dalam",
-    "Talang Tengah I (Talang Tengah)",
-    "Paku Haji",
-    "Tanjung terdana",
-    "Linggar Galing",
-    "Dusun Baru I",
-    "Harapan Makmur",
-    "Margo Mulyo (Margo Mulya)",
-    "Taba Jambu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pondok Kubang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Raja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dusun Anyar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talang Tengah I (Talang Tengah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paku Haji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung terdana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Linggar Galing"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dusun Baru I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Harapan Makmur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Margo Mulyo (Margo Mulya)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Taba Jambu"
+    }
   ]
 }

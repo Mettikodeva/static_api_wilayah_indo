@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sumanik (Sumaniak}",
-    "Situmbuk (Situmbuak)",
-    "Lawang Mandahiling/Mandahiliang",
-    "Supayang",
-    "Salimpaung",
-    "Tabek Patah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumanik (Sumaniak}"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Situmbuk (Situmbuak)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lawang Mandahiling/Mandahiliang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Supayang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salimpaung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tabek Patah"
+    }
   ]
 }

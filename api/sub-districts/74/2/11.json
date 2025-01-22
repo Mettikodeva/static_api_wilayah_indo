@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Toronipa",
-    "Atowatu",
-    "Waworaha",
-    "Sorue Jaya",
-    "Soropia",
-    "Tapulaga",
-    "Sawapudo",
-    "Bokori",
-    "Saponda",
-    "Mekar",
-    "Bajo Indah",
-    "Telaga Biru",
-    "Leppe",
-    "Bajoe",
-    "Saponda Laut"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Toronipa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Atowatu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waworaha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sorue Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Soropia"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tapulaga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawapudo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bokori"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Saponda"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mekar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bajo Indah"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Telaga Biru"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Leppe"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bajoe"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Saponda Laut"
+    }
   ]
 }

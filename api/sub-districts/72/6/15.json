@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Puungkeu",
-    "Tangofa",
-    "One Ete",
-    "Tandaoleo",
-    "Lafeu",
-    "Torete",
-    "Buleleng",
-    "Laroenai",
-    "Sambalagi",
-    "Were'a"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puungkeu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tangofa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "One Ete"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tandaoleo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lafeu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Torete"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buleleng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Laroenai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sambalagi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Were'a"
+    }
   ]
 }

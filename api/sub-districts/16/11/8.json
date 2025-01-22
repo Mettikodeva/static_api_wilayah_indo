@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Puntang",
-    "Bandaraji (Bandar Aji)",
-    "Paduraksa",
-    "Karang Gede",
-    "Karang Dapo Baru",
-    "Karang Dapo Lama",
-    "Tanggarasa (Tangga Rasa)",
-    "Tapa Baru",
-    "Tapa Lama",
-    "Martapura (Marta Pura)",
-    "Karang Anyar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puntang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandaraji (Bandar Aji)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paduraksa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Gede"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Dapo Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Dapo Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanggarasa (Tangga Rasa)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tapa Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tapa Lama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Martapura (Marta Pura)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karang Anyar"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Silago",
-    "Lubuak Karak",
-    "Koto Nan Empat Dibawuh",
-    "Banai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silago"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuak Karak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Nan Empat Dibawuh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banai"
+    }
   ]
 }

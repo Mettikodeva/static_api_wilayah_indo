@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Dudakawu",
-    "Sumanding",
-    "Bucu",
-    "Cepogo",
-    "Pendem",
-    "Jinggotan",
-    "Dermolo",
-    "Kaliaman",
-    "Tubanan",
-    "Balong",
-    "Kancilan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dudakawu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumanding"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bucu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cepogo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pendem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jinggotan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dermolo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaliaman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tubanan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kancilan"
+    }
   ]
 }

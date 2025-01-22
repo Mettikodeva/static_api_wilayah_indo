@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Petungsinarang",
-    "Ngunut",
-    "Bandar",
-    "Kledung",
-    "Tumpuk",
-    "Watupatok",
-    "Bangunsari",
-    "Jeruk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Petungsinarang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngunut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kledung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumpuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Watupatok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangunsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jeruk"
+    }
   ]
 }

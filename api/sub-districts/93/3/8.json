@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sepoh",
-    "Bagaram",
-    "Passue/Taim",
-    "Nohon",
-    "Kotiak",
-    "Menya",
-    "Tokhompatu / Tokompatu (Thokompatu)",
-    "Kotup (Xotup)",
-    "Rimba Jaya (Gayu)",
-    "Kaime",
-    "Baitate",
-    "Urufu",
-    "Afogoma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepoh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bagaram"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Passue/Taim"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nohon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kotiak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tokhompatu / Tokompatu (Thokompatu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kotup (Xotup)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rimba Jaya (Gayu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kaime"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baitate"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Urufu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Afogoma"
+    }
   ]
 }

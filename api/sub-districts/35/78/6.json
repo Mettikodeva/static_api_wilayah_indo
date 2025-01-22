@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Petemon",
-    "Sawahan",
-    "Banyu Urip",
-    "Putat Jaya",
-    "Kupang Krajan",
-    "Pakis"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Petemon"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Banyu Urip"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Putat Jaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kupang Krajan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pakis"
+    }
   ]
 }

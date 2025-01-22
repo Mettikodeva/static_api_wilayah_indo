@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kebayoran Lama Utara",
-    "Pondok Pinang",
-    "Cipulir",
-    "Grogol Utara",
-    "Grogol Selatan",
-    "Kebayoran Lama Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kebayoran Lama Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pondok Pinang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cipulir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Grogol Utara"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Grogol Selatan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kebayoran Lama Selatan"
+    }
   ]
 }

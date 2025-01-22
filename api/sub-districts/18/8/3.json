@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Pasar Banjit (Pasir Banjit)",
-    "Bonglai (Bunglai)",
-    "Campang Lapan (Campang Delapan)",
-    "Sumber Baru",
-    "Rantau Temiang",
-    "Juku Batu",
-    "Bali Sadhar Tengah",
-    "Donomulyo",
-    "Bali Sadhar Utara",
-    "Bali Sadhar Selatan",
-    "Menanga Jaya",
-    "Argomulyo (Argo Mulyo)",
-    "Rantau Jaya",
-    "Rebang Tinggi",
-    "Simpang Asam",
-    "Bandar Agung",
-    "Kemu",
-    "Menanga Siamang",
-    "Neki",
-    "Sumber Sari"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pasar Banjit (Pasir Banjit)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonglai (Bunglai)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Campang Lapan (Campang Delapan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Temiang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Juku Batu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bali Sadhar Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Donomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bali Sadhar Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bali Sadhar Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Menanga Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Argomulyo (Argo Mulyo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rantau Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rebang Tinggi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Simpang Asam"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kemu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Menanga Siamang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Neki"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sumber Sari"
+    }
   ]
 }

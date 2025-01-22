@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Porehu",
-    "Tobela",
-    "Tanggaruru (Tangga Ruru)",
-    "Ponggi",
-    "Larui",
-    "Bangsala",
-    "Sarambu",
-    "Tinuna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Porehu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tobela"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanggaruru (Tangga Ruru)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ponggi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Larui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangsala"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sarambu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tinuna"
+    }
   ]
 }

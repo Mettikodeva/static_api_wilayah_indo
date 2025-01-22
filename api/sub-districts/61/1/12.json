@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tekarang",
-    "Merubung (Merubong)",
-    "Cepala",
-    "Sari Makmur",
-    "Rambayan",
-    "Sempadian",
-    "Matang Segarau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tekarang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Merubung (Merubong)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cepala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sari Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rambayan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sempadian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matang Segarau"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lambikasi",
-    "Lantari",
-    "Langkowala",
-    "Pasare Apua",
-    "Anugerah",
-    "Kalaero",
-    "Tinabite",
-    "Rarongkeu",
-    "Watu-Watu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambikasi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lantari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Langkowala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasare Apua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anugerah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalaero"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tinabite"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rarongkeu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Watu-Watu"
+    }
   ]
 }

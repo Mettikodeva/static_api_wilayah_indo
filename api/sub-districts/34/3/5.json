@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sodo",
-    "Pampang",
-    "Grogol",
-    "Karangduwet (Karang Duwet)",
-    "Karangasem (Karang Asem)",
-    "Mulusan",
-    "Giring"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sodo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pampang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangduwet (Karang Duwet)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangasem (Karang Asem)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulusan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Giring"
+    }
   ]
 }

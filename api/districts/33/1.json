@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Kedungreja",
-    "Kesugihan",
-    "Adipala",
-    "Binangun",
-    "Nusawungu",
-    "Kroya",
-    "Maos",
-    "Jeruklegi",
-    "Kawunganten",
-    "Gandrungmangu",
-    "Sidareja",
-    "Karangpucung",
-    "Cimanggu",
-    "Majenang",
-    "Wanareja",
-    "Dayeuhluhur",
-    "Sampang",
-    "Cipari",
-    "Patimuan",
-    "Bantarsari",
-    "Cilacap Selatan",
-    "Cilacap Tengah",
-    "Cilacap Utara",
-    "Kampung Laut"
+    {
+      "district_id": 1,
+      "kecamatan": "Kedungreja"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kesugihan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Adipala"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Binangun"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Nusawungu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kroya"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Maos"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Jeruklegi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kawunganten"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Gandrungmangu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sidareja"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Karangpucung"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Cimanggu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Majenang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Wanareja"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Dayeuhluhur"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sampang"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Cipari"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Patimuan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Bantarsari"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Cilacap Selatan"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Cilacap Tengah"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Cilacap Utara"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Kampung Laut"
+    }
   ]
 }

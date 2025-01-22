@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Muarakomam (Muara Komam)",
-    "Batu Butok",
-    "Uko",
-    "Muara Langon",
-    "Binangon",
-    "Muara Kuaro",
-    "Prayon",
-    "Long Sayo",
-    "Muara Payang",
-    "Lusan",
-    "Swan Slutung",
-    "Sekuan Makmur",
-    "Selerong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Muarakomam (Muara Komam)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Butok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Uko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Langon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binangon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Kuaro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Prayon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Long Sayo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Payang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lusan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Swan Slutung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sekuan Makmur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Selerong"
+    }
   ]
 }

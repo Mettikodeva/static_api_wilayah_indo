@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mayuberi",
-    "Maki",
-    "Paluga",
-    "Ayali",
-    "Toegi",
-    "Amungi",
-    "Olenki",
-    "Mundiba",
-    "Akonobak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mayuberi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paluga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ayali"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toegi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Amungi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Olenki"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mundiba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Akonobak"
+    }
   ]
 }

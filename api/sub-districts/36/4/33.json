@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gunungsari",
-    "Ciherang",
-    "Tamiang",
-    "Sukalaba",
-    "Kadu Agung",
-    "Luwuk",
-    "Curug Sulanjana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciherang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamiang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukalaba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadu Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Luwuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curug Sulanjana"
+    }
   ]
 }

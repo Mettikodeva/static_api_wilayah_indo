@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Negeri Lama",
-    "Negeri Baru",
-    "Perkebunan Sennah",
-    "Perkebunan Negeri Lama",
-    "Perkebunan Bilah",
-    "Kampung Bilah",
-    "Negeri Lama Seberang",
-    "Sei Tampang",
-    "Selat Besar",
-    "Tanjung Haloban",
-    "Sidomulyo",
-    "Sei Tarolat",
-    "Sei Kasih"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Negeri Lama"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Negeri Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Sennah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Negeri Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Bilah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampung Bilah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Negeri Lama Seberang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei Tampang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Selat Besar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Haloban"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sei Tarolat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sei Kasih"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lemoh",
-    "Lemoh Barat",
-    "Lemoh Timur",
-    "Lemoh Uner",
-    "Lolah",
-    "Lolah Satu",
-    "Lolah Dua",
-    "Lolah Tiga",
-    "Ranotongkor",
-    "Ranotongkor Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lemoh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lemoh Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lemoh Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lemoh Uner"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lolah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lolah Satu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lolah Dua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lolah Tiga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ranotongkor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ranotongkor Timur"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Gilireng",
-    "Mamminasae (Maminasae)",
-    "Poleonro",
-    "Arajang",
-    "Lamata",
-    "Paselloreng",
-    "Alausalo",
-    "Polewalie",
-    "Abbatireng"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gilireng"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mamminasae (Maminasae)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Poleonro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arajang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamata"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paselloreng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alausalo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Polewalie"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Abbatireng"
+    }
   ]
 }

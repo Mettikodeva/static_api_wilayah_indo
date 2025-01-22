@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Limbato",
-    "Piloliyanga",
-    "Ayuhulalo",
-    "Hungayonaa",
-    "Modelomo",
-    "Pentadu Barat",
-    "Pentadu Timur",
-    "Bajo",
-    "Mohungo",
-    "Lahumbo",
-    "Lamu",
-    "Tenilo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Limbato"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Piloliyanga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ayuhulalo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hungayonaa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Modelomo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pentadu Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pentadu Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bajo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mohungo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lahumbo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lamu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tenilo"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanjung Enim",
-    "Pasar Tanjung Enim",
-    "Tanjung Enim Selatan",
-    "Tegal Rejo",
-    "Lingga",
-    "Keban Agung",
-    "Darmo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Enim"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasar Tanjung Enim"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Enim Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegal Rejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lingga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keban Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Darmo"
+    }
   ]
 }

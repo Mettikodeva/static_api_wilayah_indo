@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kediri",
-    "Pangebatan (Pengebatan)",
-    "Tamansari",
-    "Karanglewas Kidul",
-    "Karangkemiri",
-    "Pasir Wetan",
-    "Pasir Lor",
-    "Pasir Kulon",
-    "Jipang",
-    "Karanggude (Karanggude Kulon)",
-    "Singasari",
-    "Babakan",
-    "Sunyalangu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kediri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangebatan (Pengebatan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karanglewas Kidul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangkemiri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir Wetan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasir Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasir Kulon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jipang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karanggude (Karanggude Kulon)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Singasari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sunyalangu"
+    }
   ]
 }

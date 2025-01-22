@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tumbang Talaken",
-    "Tumbang Sepan (Tumbang Sepang)",
-    "Tangki Dahuyan",
-    "Bereng Balawan (Bereng Belawan)",
-    "Bereng Jun",
-    "Takaras",
-    "Belawan Mulia (Belawan Mulya)",
-    "Taringen",
-    "Bangun Sari",
-    "Fajar Harapan",
-    "Gohong",
-    "Tumbang Jalemu (Tumbang Jelemu)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tumbang Talaken"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Sepan (Tumbang Sepang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tangki Dahuyan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bereng Balawan (Bereng Belawan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bereng Jun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Takaras"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Belawan Mulia (Belawan Mulya)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Taringen"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bangun Sari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Fajar Harapan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gohong"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tumbang Jalemu (Tumbang Jelemu)"
+    }
   ]
 }

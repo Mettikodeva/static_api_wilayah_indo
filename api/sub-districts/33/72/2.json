@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Joyotakan",
-    "Danukusuman",
-    "Serengan",
-    "Tipes",
-    "Kratonan",
-    "Jayengan",
-    "Kemlayan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Joyotakan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Danukusuman"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Serengan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tipes"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kratonan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jayengan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kemlayan"
+    }
   ]
 }

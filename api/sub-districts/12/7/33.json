@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Serdang",
-    "Sidourip",
-    "Aras Kabu",
-    "Pasar VI Kuala Namu (Pasar Enam Kuala Namu)",
-    "Eplasmen Kuala Namu (Emplasmen Kuala Namu)",
-    "Pasar V Kebun Kelapa (Pasar Lima Kebun Kelapa)",
-    "Beringin",
-    "Sidoarjo II Ramunia (Sidoarjo Dua Ramunia)",
-    "Karang Anyar",
-    "Sidodadi Ramonia (Ramunia)",
-    "Tumpatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serdang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidourip"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aras Kabu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar VI Kuala Namu (Pasar Enam Kuala Namu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Eplasmen Kuala Namu (Emplasmen Kuala Namu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasar V Kebun Kelapa (Pasar Lima Kebun Kelapa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidoarjo II Ramunia (Sidoarjo Dua Ramunia)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidodadi Ramonia (Ramunia)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumpatan"
+    }
   ]
 }

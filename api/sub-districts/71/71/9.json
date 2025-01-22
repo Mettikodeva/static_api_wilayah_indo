@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Malalayang Satu (I)",
-    "Bahu",
-    "Kleak",
-    "Batu Kota",
-    "Malalayang Satu Timur",
-    "Malalayang Satu Barat",
-    "Malalayang Dua (II)",
-    "Winangun Satu",
-    "Winangun Dua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Malalayang Satu (I)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bahu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kleak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Batu Kota"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Malalayang Satu Timur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Malalayang Satu Barat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Malalayang Dua (II)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Winangun Satu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Winangun Dua"
+    }
   ]
 }

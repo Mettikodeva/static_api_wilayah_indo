@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Bendo",
-    "Dukuh",
-    "Belotan",
-    "Pingkuk",
-    "Tanjung",
-    "Tegalarum",
-    "Bulak",
-    "Kinandang",
-    "Soco",
-    "Lemahbang",
-    "Kledokan",
-    "Carikan",
-    "Bulugledeg",
-    "Duwet",
-    "Setren",
-    "Kleco"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belotan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pingkuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegalarum"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kinandang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Soco"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lemahbang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kledokan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Carikan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bulugledeg"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Duwet"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Setren"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kleco"
+    }
   ]
 }

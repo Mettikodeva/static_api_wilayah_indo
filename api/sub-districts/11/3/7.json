@@ -1,42 +1,156 @@
 {
   "sub_districts": [
-    "Pasir Putih",
-    "Tualang",
-    "Keude Peureulak",
-    "Leuge",
-    "Uteun Dama",
-    "Punti",
-    "Alue Dua Paya Gajah",
-    "Blang Bitra",
-    "Kuala Bugak",
-    "Paya Lipah",
-    "Seumatang Muda Itam",
-    "Lhok Dalam",
-    "Beusa Meuranoe",
-    "Bangka Rimung",
-    "Tanoh Rata",
-    "Bandrong",
-    "Blang Balok",
-    "Cot Muda Itam",
-    "Keumuneng",
-    "Kuala Leuge",
-    "Balee Buya",
-    "Alue Nibong",
-    "Seuneubok Peusangan",
-    "Seuneubok Aceh",
-    "Seuneubok Pidie",
-    "Dama Tutong",
-    "Matang Gleum",
-    "Lubok Pempeng",
-    "Buket Pala",
-    "Paya Kalui",
-    "Cek Mbon",
-    "Paya Meuligou",
-    "Blang Simpo",
-    "Blang Batee",
-    "Matang Peulawi (Matang Pelawi)",
-    "Cot Geulumpang",
-    "Alue Rambong",
-    "Cot Keh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tualang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keude Peureulak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Leuge"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uteun Dama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Punti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alue Dua Paya Gajah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blang Bitra"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuala Bugak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paya Lipah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Seumatang Muda Itam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lhok Dalam"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Beusa Meuranoe"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bangka Rimung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanoh Rata"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bandrong"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Blang Balok"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cot Muda Itam"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Keumuneng"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kuala Leuge"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Balee Buya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Alue Nibong"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Seuneubok Peusangan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Seuneubok Aceh"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Seuneubok Pidie"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Dama Tutong"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Matang Gleum"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Lubok Pempeng"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Buket Pala"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Paya Kalui"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Cek Mbon"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Paya Meuligou"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Blang Simpo"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Blang Batee"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Matang Peulawi (Matang Pelawi)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Cot Geulumpang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Alue Rambong"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Cot Keh"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Suka Karya",
-    "Simpang III Sipin (Simpang Tiga Sipin)",
-    "Paal Lima",
-    "Kenali Asam Bawah",
-    "Kenali Asam Atas",
-    "Talang Gulo",
-    "Kenali Asam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Suka Karya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Simpang III Sipin (Simpang Tiga Sipin)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Paal Lima"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kenali Asam Bawah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kenali Asam Atas"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Talang Gulo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kenali Asam"
+    }
   ]
 }

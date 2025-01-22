@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tuare",
-    "Kageroa",
-    "Tomehipi",
-    "Lengkeka",
-    "Kolori",
-    "Lelio"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuare"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kageroa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tomehipi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lengkeka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kolori"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lelio"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Klasuat",
-    "Klablim",
-    "Klasaman",
-    "Giwu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Klasuat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Klablim"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klasaman"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Giwu"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Temon",
-    "Wates",
-    "Panjatan",
-    "Galur",
-    "Lendah",
-    "Sentolo",
-    "Pengasih",
-    "Kokap",
-    "Girimulyo",
-    "Nanggulan",
-    "Samigaluh",
-    "Kalibawang"
+    {
+      "district_id": 1,
+      "kecamatan": "Temon"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Wates"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Panjatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Galur"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lendah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sentolo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pengasih"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kokap"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Girimulyo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Nanggulan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Samigaluh"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kalibawang"
+    }
   ]
 }

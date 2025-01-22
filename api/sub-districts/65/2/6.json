@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bila Bekayuk",
-    "Long Loreh",
-    "Langap",
-    "Laban Nyarit",
-    "Nunuk Tanah Kibang",
-    "Pelencau",
-    "Paya Seturan",
-    "Punan Rian",
-    "Sengayan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bila Bekayuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Loreh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Langap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laban Nyarit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nunuk Tanah Kibang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pelencau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paya Seturan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Punan Rian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sengayan"
+    }
   ]
 }

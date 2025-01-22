@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Kemiri",
-    "Wiyu",
-    "Kesimantengah",
-    "Sajen",
-    "Pacet",
-    "Padusan",
-    "Cempokolimo (Cepokolimo)",
-    "Claket",
-    "Cembor",
-    "Nogosari",
-    "Kembangbelor",
-    "Mojokembang",
-    "Bendunganjati",
-    "Petak",
-    "Candiwatu",
-    "Warugunung",
-    "Tanjungkenongo",
-    "Sumberkembar",
-    "Kuripansari",
-    "Pandanarum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wiyu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kesimantengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sajen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pacet"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padusan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cempokolimo (Cepokolimo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Claket"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cembor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nogosari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kembangbelor"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mojokembang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bendunganjati"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Petak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Candiwatu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Warugunung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjungkenongo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sumberkembar"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kuripansari"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pandanarum"
+    }
   ]
 }

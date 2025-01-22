@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Betara Kiri",
-    "Sungaidualap (Sungai Dualap)",
-    "Betara Kanan",
-    "Sungaigebar (Sungai Gebar)",
-    "Dataran Pinang",
-    "Tanjungpasir (Tanjung Pasir)",
-    "Sungaigebar Barat (Sungai Gebar Barat)",
-    "Sungaidungun (Sungai Dungun)",
-    "Kuala Indah",
-    "Suak Labu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Betara Kiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungaidualap (Sungai Dualap)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Betara Kanan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungaigebar (Sungai Gebar)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dataran Pinang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungpasir (Tanjung Pasir)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungaigebar Barat (Sungai Gebar Barat)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaidungun (Sungai Dungun)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuala Indah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suak Labu"
+    }
   ]
 }

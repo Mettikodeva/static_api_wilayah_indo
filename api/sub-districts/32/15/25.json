@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Wancimekar",
-    "Pangulah Selatan",
-    "Pangulah Utara",
-    "Pangulah Baru",
-    "Pucung",
-    "Jomin Timur",
-    "Jomin Barat",
-    "Sarimulya",
-    "Cilkampek Utara (Cikampek Utara)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wancimekar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangulah Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangulah Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangulah Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pucung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jomin Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jomin Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sarimulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cilkampek Utara (Cikampek Utara)"
+    }
   ]
 }

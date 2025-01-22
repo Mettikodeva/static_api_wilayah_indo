@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Puar",
-    "Degen",
-    "Tetar",
-    "Sum",
-    "Adora",
-    "Us",
-    "Patipi Pasir",
-    "Patipi Pulau",
-    "Mawar",
-    "Tibatibananam",
-    "Offie",
-    "Muhri",
-    "Bisa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Degen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tetar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sum"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Adora"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Us"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Patipi Pasir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Patipi Pulau"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mawar"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tibatibananam"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Offie"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Muhri"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bisa"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kupa Kupa",
-    "Gamhoku",
-    "Efi Efi",
-    "Tomahalu (Toma Halu)",
-    "Paca",
-    "Leleoto",
-    "Tobe",
-    "Kakara B",
-    "Talaga Paca",
-    "Tioua",
-    "Pale",
-    "Kupa Kupa Selatan",
-    "Lemah Ino"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kupa Kupa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gamhoku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Efi Efi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tomahalu (Toma Halu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paca"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Leleoto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tobe"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kakara B"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Talaga Paca"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tioua"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pale"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kupa Kupa Selatan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lemah Ino"
+    }
   ]
 }

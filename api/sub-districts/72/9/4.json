@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Pusungi",
-    "Tete B (Tete Bawah)",
-    "Tete A (Tete Atas)",
-    "Uebone",
-    "Mantangisi",
-    "Bantuga",
-    "Borone",
-    "Balanggala",
-    "Sabo",
-    "Longge",
-    "Tampabatu",
-    "Urundaka",
-    "Balingara",
-    "Bulan Jaya",
-    "Giri Mulyo",
-    "Wanasari",
-    "Kajulangko",
-    "Uemakuni",
-    "Mpoa",
-    "Sukamaju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pusungi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tete B (Tete Bawah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tete A (Tete Atas)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Uebone"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mantangisi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bantuga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Borone"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balanggala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sabo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Longge"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tampabatu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Urundaka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Balingara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bulan Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Giri Mulyo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kajulangko"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Uemakuni"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mpoa"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sukamaju"
+    }
   ]
 }

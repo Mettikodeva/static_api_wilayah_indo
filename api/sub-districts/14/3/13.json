@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Titian Antui",
-    "Balai Raja",
-    "Balai Pungut",
-    "Muara Basung",
-    "Pinggir",
-    "Semunai",
-    "Tengganau",
-    "Sungai Meranti",
-    "Pangkalan Libut",
-    "Buluh Apo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Titian Antui"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Balai Raja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balai Pungut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Basung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pinggir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Semunai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tengganau"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sungai Meranti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pangkalan Libut"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Buluh Apo"
+    }
   ]
 }

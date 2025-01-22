@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sukajadi",
-    "Tanjung Agung",
-    "Penandingan",
-    "Talang Tinggi",
-    "Batu Niding (Batuniding)",
-    "Tanjung Raya",
-    "Lubuk Mabar",
-    "Pagar Agung",
-    "Lubuk Tuba",
-    "Lubuk Atung",
-    "Muara Cawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Penandingan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Tinggi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Niding (Batuniding)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Mabar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk Tuba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubuk Atung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Cawang"
+    }
   ]
 }

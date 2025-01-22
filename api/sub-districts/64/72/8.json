@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Temindung Permai",
-    "Sei/Sungai Pinang Dalam",
-    "Gunung Lingai",
-    "Mugirejo",
-    "Bandara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Temindung Permai"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sei/Sungai Pinang Dalam"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gunung Lingai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mugirejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bandara"
+    }
   ]
 }

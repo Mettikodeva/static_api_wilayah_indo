@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bonelemo",
-    "Sampeang",
-    "Marinding",
-    "Saronda",
-    "Kadong-Kadong",
-    "Tumbubara (Tumbu Barak)",
-    "Tettekang (Tetekang)",
-    "Bonelemo Utara",
-    "Bonelemo Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonelemo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sampeang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marinding"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saronda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadong-Kadong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbubara (Tumbu Barak)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tettekang (Tetekang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonelemo Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bonelemo Barat"
+    }
   ]
 }

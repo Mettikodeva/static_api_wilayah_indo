@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Laowowaga",
-    "Lukhu Lase",
-    "Tetehosi Sorowi",
-    "Tefa'o (Tefao)",
-    "Tugala Lauru",
-    "Muzoi",
-    "Meafu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Laowowaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lukhu Lase"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tetehosi Sorowi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tefa'o (Tefao)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tugala Lauru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muzoi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meafu"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Wendewa Timur",
-    "Wendewa Selatan",
-    "Wendewa Utara",
-    "Wendewa Barat",
-    "Cendana",
-    "Wee Luri",
-    "Ole Ate",
-    "Manu Wolu",
-    "Watu Asa",
-    "Bondo Sulla",
-    "Susu Wendewa",
-    "Ole Dewa",
-    "Cendana Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wendewa Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wendewa Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wendewa Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wendewa Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cendana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wee Luri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ole Ate"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manu Wolu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Watu Asa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bondo Sulla"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Susu Wendewa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ole Dewa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cendana Barat"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Miosnum",
-    "Jeniari",
-    "Umpeki",
-    "Ausem",
-    "Yeituarau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Miosnum"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jeniari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Umpeki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ausem"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yeituarau"
+    }
   ]
 }

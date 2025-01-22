@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lamasi",
-    "Salujambu (Salu Jambu)",
-    "Wiwitan",
-    "Setiarejo",
-    "Pongsamelung",
-    "Padang Kalua",
-    "To'pongo (To Pongo)",
-    "Se'pon (Se Pong)",
-    "Awo' Gading",
-    "Wiwitan Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lamasi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salujambu (Salu Jambu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wiwitan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Setiarejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pongsamelung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Padang Kalua"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "To'pongo (To Pongo)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Se'pon (Se Pong)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Awo' Gading"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wiwitan Timur"
+    }
   ]
 }

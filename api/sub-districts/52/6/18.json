@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Panda",
-    "Belo",
-    "Tolongondoa",
-    "Tonggorisa",
-    "Teke",
-    "Ntonggu",
-    "Nata",
-    "Dore",
-    "Roi",
-    "Ragi",
-    "Padolo",
-    "Bre"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tolongondoa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tonggorisa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teke"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ntonggu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nata"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dore"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Roi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ragi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padolo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bre"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sakti",
-    "Barowa",
-    "Puty",
-    "Raja",
-    "Posi",
-    "Karang-Karangan",
-    "Lare-Lare",
-    "Lengkong",
-    "Tiromanda",
-    "Tana Rigella (Tana Rigellan / Tanah Rigella)",
-    "Bukit Harapan",
-    "Padang Kalua",
-    "Pammesakang (Pamessakang)",
-    "Pabbaresseng",
-    "Toddopuli"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sakti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barowa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puty"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Raja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Posi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang-Karangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lare-Lare"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tiromanda"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tana Rigella (Tana Rigellan / Tanah Rigella)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang Kalua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pammesakang (Pamessakang)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pabbaresseng"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Toddopuli"
+    }
   ]
 }

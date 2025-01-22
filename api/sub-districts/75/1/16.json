@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pongongaila",
-    "Pulubala",
-    "Molamahu",
-    "Bakti",
-    "Tridharma (Tridarma)",
-    "Molalahu",
-    "Mulyonegoro",
-    "Puncak",
-    "Toyidito (Toydito)",
-    "Ayumolingo",
-    "Bukit Aren"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pongongaila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulubala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Molamahu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tridharma (Tridarma)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Molalahu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulyonegoro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Puncak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Toyidito (Toydito)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ayumolingo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Aren"
+    }
   ]
 }

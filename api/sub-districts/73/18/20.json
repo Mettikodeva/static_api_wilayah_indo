@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Talion",
-    "Rembon",
-    "Palesan",
-    "Banga",
-    "Ullin",
-    "Limbong",
-    "Sarapeang",
-    "Buri'",
-    "Maroson",
-    "Batusura' (Batu Sura)",
-    "Bua ' Tarrung",
-    "To'pao (To' Pao)",
-    "Kayuosing (Kayu Osing / Kayosing)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Talion"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Rembon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Palesan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ullin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limbong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sarapeang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buri'"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maroson"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batusura' (Batu Sura)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bua ' Tarrung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "To'pao (To' Pao)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kayuosing (Kayu Osing / Kayosing)"
+    }
   ]
 }

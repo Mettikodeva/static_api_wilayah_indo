@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Balecatur",
-    "Ambarketawang",
-    "Banyuraden",
-    "Nogotirto",
-    "Trihanggo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balecatur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ambarketawang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banyuraden"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nogotirto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trihanggo"
+    }
   ]
 }

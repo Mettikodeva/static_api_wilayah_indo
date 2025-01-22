@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Adi Puro (Adipuro)",
-    "Trimurjo",
-    "Simbar Waringin",
-    "Depok Rejo",
-    "Leman/Liman Benawi",
-    "Noto Harjo (Notoharjo)",
-    "Purwo Dadi (Purwodadi)",
-    "Tempuran",
-    "Purwo Adi (Purwoadi)",
-    "Pujo Dadi (Pujodadi)",
-    "Pujo Kerto (Pujokerto)",
-    "Untoro",
-    "Pujo Asri (Pujoasri)",
-    "Pujo Basuki"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Adi Puro (Adipuro)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Trimurjo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Simbar Waringin"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Depok Rejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Leman/Liman Benawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Noto Harjo (Notoharjo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwo Dadi (Purwodadi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwo Adi (Purwoadi)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pujo Dadi (Pujodadi)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pujo Kerto (Pujokerto)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Untoro"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pujo Asri (Pujoasri)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pujo Basuki"
+    }
   ]
 }

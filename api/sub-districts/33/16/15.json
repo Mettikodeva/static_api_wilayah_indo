@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Gombang",
-    "Sarirejo",
-    "Karanganyar",
-    "Karang",
-    "Prantaan",
-    "Jeruk",
-    "Bogorejo",
-    "Gembol",
-    "Tempurejo",
-    "Gayam",
-    "Sendangrejo",
-    "Gandu",
-    "Nglengkir",
-    "Jurangjero"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gombang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sarirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Prantaan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jeruk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bogorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gembol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tempurejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gayam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sendangrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gandu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nglengkir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jurangjero"
+    }
   ]
 }

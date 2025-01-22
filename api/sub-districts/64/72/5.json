@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sempaja Selatan",
-    "Lempake",
-    "Sungai Siring",
-    "Sempaja Utara",
-    "Tanah Merah",
-    "Sempaja Barat",
-    "Sempaja Timur",
-    "Budaya Pampang"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sempaja Selatan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lempake"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sungai Siring"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sempaja Utara"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sempaja Barat"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sempaja Timur"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Budaya Pampang"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Teladan",
-    "Siumbut-Umbut",
-    "Siumbut Baru",
-    "Sentang",
-    "Selawan",
-    "Mutiara",
-    "Lestari",
-    "Kisaran Timur",
-    "Kisaran Naga",
-    "Kedai Ledang",
-    "Karang Anyer",
-    "Gambir Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Teladan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Siumbut-Umbut"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Siumbut Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sentang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Selawan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mutiara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lestari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kisaran Timur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kisaran Naga"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kedai Ledang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Karang Anyer"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Gambir Baru"
+    }
   ]
 }

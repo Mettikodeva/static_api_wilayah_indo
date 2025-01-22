@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tembeling Tanjung",
-    "Bintan Buyu",
-    "Pangkil",
-    "Penaga",
-    "Pengujan",
-    "Tembeling"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tembeling Tanjung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bintan Buyu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkil"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Penaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pengujan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tembeling"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sandai (Sandai Kanan)",
-    "Randau Jungkal",
-    "Penjawaan",
-    "Muara Jekak",
-    "Petai Patah",
-    "Randau",
-    "Sandai Kiri",
-    "Demit",
-    "Pendamaran Indah",
-    "Merimbang Jaya",
-    "Alam Pakuan",
-    "Jago Bersatu",
-    "Istana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sandai (Sandai Kanan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Randau Jungkal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penjawaan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Jekak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Petai Patah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Randau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sandai Kiri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Demit"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pendamaran Indah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Merimbang Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Alam Pakuan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jago Bersatu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Istana"
+    }
   ]
 }

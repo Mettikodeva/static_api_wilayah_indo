@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mendikonu",
-    "Wonua Morini",
-    "Besu",
-    "Paku",
-    "Puuruy",
-    "Morosi",
-    "Tanggobu",
-    "Paku Jaya",
-    "Tondowatu",
-    "Porara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mendikonu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonua Morini"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Besu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puuruy"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Morosi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanggobu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paku Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tondowatu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Porara"
+    }
   ]
 }

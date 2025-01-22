@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Long Hurai",
-    "Long Melaham",
-    "Memahak Besar (Mamahak Ilir)",
-    "Memahak Ulu (Mamahak Ulu)",
-    "Batu Majang",
-    "Ujoh Bilang",
-    "Long Bagun Ilir",
-    "Long Bagun Ulu",
-    "Batoq Kelo",
-    "Long Merah",
-    "Rukun Damai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Hurai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Melaham"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Memahak Besar (Mamahak Ilir)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Memahak Ulu (Mamahak Ulu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Majang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujoh Bilang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Long Bagun Ilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Long Bagun Ulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batoq Kelo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Merah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rukun Damai"
+    }
   ]
 }

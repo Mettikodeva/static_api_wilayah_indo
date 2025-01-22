@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Danau Panggang",
-    "Babirik",
-    "Sungai Pandan",
-    "Amuntai Selatan",
-    "Amuntai Tengah",
-    "Amuntai Utara",
-    "Banjang",
-    "Haur Gading",
-    "Paminggir",
-    "Sungai Tabukan"
+    {
+      "district_id": 1,
+      "kecamatan": "Danau Panggang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Babirik"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sungai Pandan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Amuntai Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Amuntai Tengah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Amuntai Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Banjang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Haur Gading"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Paminggir"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sungai Tabukan"
+    }
   ]
 }

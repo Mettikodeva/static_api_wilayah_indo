@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kepala Siring",
-    "Talang Rimbo Baru",
-    "Talang Rimbo Lama",
-    "Sidorejo/Siderejo",
-    "Kampung Jawa",
-    "Air Bang",
-    "Pelabuhan Baru",
-    "Batu Galing",
-    "Banyu Mas (Banyumas)",
-    "Air Merah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kepala Siring"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Talang Rimbo Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Talang Rimbo Lama"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sidorejo/Siderejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Jawa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Air Bang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pelabuhan Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Batu Galing"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Banyu Mas (Banyumas)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Air Merah"
+    }
   ]
 }

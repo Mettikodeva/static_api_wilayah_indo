@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bari",
-    "Rokap",
-    "Mbakung",
-    "Nggilat",
-    "Rego",
-    "Wontong",
-    "Raba",
-    "Nanga Kantor",
-    "Watubaru",
-    "Lewat",
-    "Watu Manggar",
-    "Sarae Naru",
-    "Nanga Kantor Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rokap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mbakung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nggilat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rego"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wontong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Raba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nanga Kantor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Watubaru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lewat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Watu Manggar"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sarae Naru"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Nanga Kantor Barat"
+    }
   ]
 }

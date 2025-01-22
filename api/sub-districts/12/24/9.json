@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Afulu",
-    "Lauru Fadoro",
-    "Lauru I (Lauru I Afulu)",
-    "Ombolata Afulu",
-    "Harewakhe",
-    "Sisobahili",
-    "Lauru Lahewa",
-    "Sifaoro'asi (Sifaoroasi)",
-    "Faekhuna'a (Faekhunaa)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Afulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lauru Fadoro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lauru I (Lauru I Afulu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ombolata Afulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Harewakhe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sisobahili"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lauru Lahewa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sifaoro'asi (Sifaoroasi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Faekhuna'a (Faekhunaa)"
+    }
   ]
 }

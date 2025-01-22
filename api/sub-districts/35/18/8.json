@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Banaran",
-    "Drenges",
-    "Yuwono (Juwono)",
-    "Bangsri",
-    "Kalianyar",
-    "Tanjung",
-    "Nglawak",
-    "Kepuh",
-    "Tembarak",
-    "Pelem",
-    "Kutorejo",
-    "Lambangkuning (Lambang Kuning)",
-    "Pandantoyo (Pandan Toyo)",
-    "Kudu"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Drenges"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yuwono (Juwono)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangsri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalianyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nglawak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kepuh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tembarak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kutorejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lambangkuning (Lambang Kuning)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pandantoyo (Pandan Toyo)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kudu"
+    }
   ]
 }

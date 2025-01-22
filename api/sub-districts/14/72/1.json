@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Pangkalan Sesai",
-    "Purnama",
-    "Bagan Keladi",
-    "Simapang Tetap Darul Ichsan (Simpang Tetap)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pangkalan Sesai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Purnama"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bagan Keladi"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Simapang Tetap Darul Ichsan (Simpang Tetap)"
+    }
   ]
 }

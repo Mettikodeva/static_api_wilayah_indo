@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Payalaman",
-    "Payamaram",
-    "Batu Ampar",
-    "Matak",
-    "Teluk Bayur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Payalaman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Payamaram"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Matak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Bayur"
+    }
   ]
 }

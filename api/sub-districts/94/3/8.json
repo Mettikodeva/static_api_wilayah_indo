@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kebo II",
-    "Togowa",
-    "Ibumaida",
-    "Kagupagu",
-    "Ayaigo",
-    "Geibu",
-    "Yokadagi",
-    "Bunaida",
-    "Kedege",
-    "Uwaiye",
-    "Dawawa",
-    "Mugime Ketago (Mugimeketago)",
-    "Tuwamakida"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebo II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Togowa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ibumaida"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kagupagu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ayaigo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Geibu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yokadagi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bunaida"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedege"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Uwaiye"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dawawa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mugime Ketago (Mugimeketago)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tuwamakida"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bokondini",
-    "Mairini",
-    "Apiam",
-    "Umaga",
-    "Galala",
-    "Mingganggo",
-    "Tenggagama",
-    "Kologume",
-    "Lambogo",
-    "Jawalane",
-    "Dunduma"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bokondini"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mairini"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Apiam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Umaga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Galala"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mingganggo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tenggagama"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Kologume"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Lambogo"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Jawalane"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Dunduma"
+    }
   ]
 }

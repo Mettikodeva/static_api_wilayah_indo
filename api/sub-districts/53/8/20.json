@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mautapaga",
-    "Rewarangga",
-    "Rewarangga Selatan",
-    "Kedebodu",
-    "Ndungga",
-    "Tiwutewa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mautapaga"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rewarangga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rewarangga Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedebodu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ndungga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tiwutewa"
+    }
   ]
 }

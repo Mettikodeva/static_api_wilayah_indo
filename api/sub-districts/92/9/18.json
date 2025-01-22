@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Syumbab",
-    "Krisnos",
-    "Syukwes",
-    "Sunggak",
-    "Wowom",
-    "Resye"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Syumbab"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Krisnos"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Syukwes"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sunggak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wowom"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Resye"
+    }
   ]
 }

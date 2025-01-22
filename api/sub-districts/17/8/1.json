@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Keban Agung",
-    "Kota Agung",
-    "Kembang Seri",
-    "Pagar Agung",
-    "Embong Ijuk",
-    "Gunung Agung",
-    "Talang Pito",
-    "Cinto Mandi (Cinta Mandi)",
-    "Limbur Lama (Lembur Lama)",
-    "Taba Baru",
-    "Bukit Menyan",
-    "Batu Belarik",
-    "Embong Sido",
-    "Talang Sawah",
-    "Sosokan Cinta Mandi",
-    "Muara Langkap",
-    "Air Raman",
-    "Langgar Jaya",
-    "Cinta Mandi Baru"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Keban Agung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kota Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kembang Seri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Embong Ijuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Pito"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cinto Mandi (Cinta Mandi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Limbur Lama (Lembur Lama)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taba Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Menyan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Batu Belarik"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Embong Sido"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Talang Sawah"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sosokan Cinta Mandi"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Muara Langkap"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Air Raman"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Langgar Jaya"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Cinta Mandi Baru"
+    }
   ]
 }

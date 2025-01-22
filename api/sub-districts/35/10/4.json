@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Purwoasri",
-    "Kendalrejo",
-    "Kedungasri",
-    "Kedungwungu",
-    "Tegaldlimo",
-    "Wringinpitu",
-    "Kedunggebang",
-    "Purwoagung",
-    "Kalipait"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwoasri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kendalrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungasri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungwungu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegaldlimo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wringinpitu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedunggebang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purwoagung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalipait"
+    }
   ]
 }

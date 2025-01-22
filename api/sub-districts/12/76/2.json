@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rantau Laban",
-    "Karya Jaya",
-    "Lalang",
-    "Tanjung Marulak",
-    "Sri Padang",
-    "Tanjung Marulak Hilir",
-    "Mekar Sentosa"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rantau Laban"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karya Jaya"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lalang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tanjung Marulak"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sri Padang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tanjung Marulak Hilir"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Mekar Sentosa"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kota",
-    "Parit",
-    "Lesung Batang",
-    "Pangkallalang",
-    "Tanjungpendam",
-    "Paal Satu",
-    "Kampong Damai",
-    "Buluh Tumbang",
-    "Perawas",
-    "Dukong",
-    "Juru Seberang",
-    "Air Saga",
-    "Air Merbau",
-    "Aik Pelempang Jaya (Aik Palempang Jaya)",
-    "Aik Ketekok",
-    "Aik Rayak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Parit"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lesung Batang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pangkallalang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tanjungpendam"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Paal Satu"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kampong Damai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buluh Tumbang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perawas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dukong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Juru Seberang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Air Saga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Air Merbau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Aik Pelempang Jaya (Aik Palempang Jaya)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Aik Ketekok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Aik Rayak"
+    }
   ]
 }

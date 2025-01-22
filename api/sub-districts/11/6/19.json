@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lhang",
-    "Bilui/Biluy",
-    "Lambatee",
-    "Lamkunyet",
-    "Lamtadok",
-    "Neusok",
-    "Turam",
-    "Tubaluy (Teubalui)",
-    "Blang Kiree",
-    "Manee Dayah",
-    "Lamsod",
-    "Lambleut (Lam Bleut)",
-    "Empetring (Empee Trieng)",
-    "Lambaro Biluy"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lhang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bilui/Biluy"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lambatee"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lamkunyet"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamtadok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Neusok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Turam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tubaluy (Teubalui)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Blang Kiree"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Manee Dayah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lamsod"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lambleut (Lam Bleut)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Empetring (Empee Trieng)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lambaro Biluy"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bukit Lama",
-    "Lorok Pakjo",
-    "26 Ilir D. I",
-    "Siring Agung",
-    "Demang Lebar Daun",
-    "Bukit Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bukit Lama"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lorok Pakjo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "26 Ilir D. I"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Siring Agung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Demang Lebar Daun"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bukit Baru"
+    }
   ]
 }

@@ -1,29 +1,104 @@
 {
   "sub_districts": [
-    "Dadapkuning",
-    "Lengkong",
-    "Kandangan",
-    "Dooro",
-    "Dampaan",
-    "Ngembung",
-    "Sukoanyar",
-    "Gedangkulud (Gedangkulut)",
-    "Wedani",
-    "Dungus",
-    "Guranganyar",
-    "Kambingan",
-    "Morowudi",
-    "Betiting",
-    "Ngabetan",
-    "Padeg",
-    "Iker - iker Geger (Ikerikergeger)",
-    "Semampir",
-    "Cagakagung",
-    "Cerme Kidul",
-    "Cerme Lor",
-    "Pandu",
-    "Banjarsari",
-    "Tambakberas",
-    "Jono"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dadapkuning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dooro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dampaan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngembung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukoanyar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gedangkulud (Gedangkulut)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wedani"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dungus"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Guranganyar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kambingan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Morowudi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Betiting"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ngabetan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Padeg"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Iker - iker Geger (Ikerikergeger)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Semampir"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cagakagung"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Cerme Kidul"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cerme Lor"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pandu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tambakberas"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Jono"
+    }
   ]
 }

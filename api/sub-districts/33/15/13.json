@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Danyang",
-    "Kalongan",
-    "Purwodadi",
-    "Kuripan",
-    "Candisari",
-    "Genuksuran",
-    "Ngraji",
-    "Kandangan",
-    "Nambuhan",
-    "Warukaranganyar",
-    "Nglobar",
-    "Kedungrejo",
-    "Karanganyar",
-    "Ngembak",
-    "Cingkrong",
-    "Pulorejo",
-    "Putat"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Danyang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalongan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Candisari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Genuksuran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngraji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nambuhan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Warukaranganyar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nglobar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedungrejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ngembak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cingkrong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pulorejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Putat"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Indarung",
-    "Padang Besi",
-    "Batu Gadang",
-    "Bandar Buat (Banda Buek)",
-    "Koto Lalang",
-    "Beringin/Baringin",
-    "Tarantang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Indarung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Padang Besi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Batu Gadang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bandar Buat (Banda Buek)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Koto Lalang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Beringin/Baringin"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tarantang"
+    }
   ]
 }

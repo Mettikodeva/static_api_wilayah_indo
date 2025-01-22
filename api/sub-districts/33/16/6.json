@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Temengeng",
-    "Sambongrejo",
-    "Gadu",
-    "Sambong",
-    "Pojokwatu",
-    "Gagakan",
-    "Biting",
-    "Brabowan",
-    "Ledok",
-    "Giyanti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Temengeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambongrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gadu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sambong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pojokwatu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gagakan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Biting"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Brabowan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ledok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Giyanti"
+    }
   ]
 }

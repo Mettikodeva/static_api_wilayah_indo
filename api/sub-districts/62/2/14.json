@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sebabi",
-    "Tanah Putih",
-    "Sumber Makmur",
-    "Kenyala",
-    "Penyang (Peryang)",
-    "Biru Maju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sebabi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanah Putih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenyala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyang (Peryang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Biru Maju"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kajai",
-    "Talu",
-    "Sinuruik",
-    "Simpang Timbo Abu Kajai",
-    "Kajai Selatan",
-    "Sungai Janiah Talu",
-    "Tabek Sirah Talu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kajai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinuruik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Timbo Abu Kajai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kajai Selatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Janiah Talu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tabek Sirah Talu"
+    }
   ]
 }

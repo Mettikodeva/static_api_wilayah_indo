@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tebing Tinggi",
-    "Rimba Sawang",
-    "Tenggulun",
-    "Selamat",
-    "Simpang Kiri",
-    "Sumber Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rimba Sawang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tenggulun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selamat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpang Kiri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Makmur"
+    }
   ]
 }

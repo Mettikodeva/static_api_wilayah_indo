@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mendayun",
-    "Gunung Terang",
-    "Karta Mulya",
-    "SP. Kerta Mulya (Simpang Karta Mulya)",
-    "Harjo Mulyo",
-    "Jaya Bakti",
-    "Rasuan",
-    "Mengulak",
-    "Jati Sari (Jatisari)",
-    "Tri Dadi (Tridadi)",
-    "Agung Jati",
-    "Rasuan Darat",
-    "Harjo Mulyo Jaya"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mendayun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Terang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karta Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "SP. Kerta Mulya (Simpang Karta Mulya)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Harjo Mulyo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jaya Bakti"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rasuan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mengulak"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Jati Sari (Jatisari)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tri Dadi (Tridadi)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Agung Jati"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Rasuan Darat"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Harjo Mulyo Jaya"
+    }
   ]
 }

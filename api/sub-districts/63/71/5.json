@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kertak Baru Ilir",
-    "Kertak Baru Ulu",
-    "Mawar",
-    "Teluk Dalam",
-    "Antasan Besar",
-    "Pasar Lama",
-    "Seberang Mesjid (Seberang Masjid)",
-    "Gadang",
-    "Melayu",
-    "Sei/Sungai Baru",
-    "Pekapuran Laut",
-    "Kelayan Luar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kertak Baru Ilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kertak Baru Ulu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mawar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Teluk Dalam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Antasan Besar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pasar Lama"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Seberang Mesjid (Seberang Masjid)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gadang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Melayu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sei/Sungai Baru"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pekapuran Laut"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kelayan Luar"
+    }
   ]
 }

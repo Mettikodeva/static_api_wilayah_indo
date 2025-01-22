@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Maasing",
-    "Gori-Gori",
-    "Sinorang",
-    "Sukamaju",
-    "Sukamaju Satu",
-    "Paisu Buloli",
-    "Ombolu",
-    "Bonebalantak",
-    "Masungkang",
-    "Maleo Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maasing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gori-Gori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinorang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamaju Satu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paisu Buloli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ombolu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonebalantak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Masungkang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maleo Jaya"
+    }
   ]
 }

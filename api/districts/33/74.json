@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Semarang Tengah",
-    "Semarang Utara",
-    "Semarang Timur",
-    "Gayamsari",
-    "Genuk",
-    "Pedurungan",
-    "Semarang Selatan",
-    "Candisari",
-    "Gajahmungkur (Gajah Mungkur)",
-    "Tembalang",
-    "Banyumanik",
-    "Gunungpati",
-    "Semarang Barat",
-    "Mijen",
-    "Ngaliyan",
-    "Tugu"
+    {
+      "district_id": 1,
+      "kecamatan": "Semarang Tengah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Semarang Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Semarang Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Gayamsari"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Genuk"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pedurungan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Semarang Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Candisari"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Gajahmungkur (Gajah Mungkur)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tembalang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Banyumanik"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Gunungpati"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Semarang Barat"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Mijen"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Ngaliyan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tugu"
+    }
   ]
 }

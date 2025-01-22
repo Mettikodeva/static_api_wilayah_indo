@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Senyerang",
-    "Sungaikayu Aro (Sungai Kayu Aro)",
-    "Telukketapang (Teluk Ketapang)",
-    "Sungairambai (Sungai Rambai)",
-    "Margo Rukun",
-    "Kempas Jaya",
-    "Lumahan",
-    "Sungailandak (Sungai Landak)",
-    "Sungsang",
-    "Sungaikepayang (Sungai Kepayang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Senyerang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungaikayu Aro (Sungai Kayu Aro)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telukketapang (Teluk Ketapang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungairambai (Sungai Rambai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margo Rukun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kempas Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungailandak (Sungai Landak)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungsang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungaikepayang (Sungai Kepayang)"
+    }
   ]
 }

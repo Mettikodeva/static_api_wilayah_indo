@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pasar Minggu",
-    "Jati Padang",
-    "Cilandak Timur",
-    "Ragunan",
-    "Pejaten Timur",
-    "Pejaten Barat",
-    "Kebagusan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Minggu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jati Padang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cilandak Timur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ragunan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pejaten Timur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pejaten Barat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kebagusan"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lebuh Dalam (Lebuh Dalem)",
-    "Menggala",
-    "Lingai",
-    "Kibang Pacing",
-    "Sungai Luar",
-    "Kahuripan Dalam (Kuripan Dalem)",
-    "Cempaka Dalem (Cempaka Dalam)",
-    "Bedarou Indah (Badarow Indah)",
-    "Tri Makmur Jaya",
-    "Cempaka Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebuh Dalam (Lebuh Dalem)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Menggala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lingai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kibang Pacing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Luar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kahuripan Dalam (Kuripan Dalem)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cempaka Dalem (Cempaka Dalam)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bedarou Indah (Badarow Indah)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tri Makmur Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cempaka Jaya"
+    }
   ]
 }

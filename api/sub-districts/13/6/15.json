@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Magek",
-    "Kamang Hilia",
-    "Kamang Mudiak",
-    "Kamang Tangah Anam Suku",
-    "Pauh Kamang Mudiak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Magek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kamang Hilia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kamang Mudiak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kamang Tangah Anam Suku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pauh Kamang Mudiak"
+    }
   ]
 }

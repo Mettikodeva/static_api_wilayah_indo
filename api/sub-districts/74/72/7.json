@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lowu-Lowu",
-    "Kalia Lia",
-    "Palabusa",
-    "Kolese",
-    "Kantalai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lowu-Lowu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kalia Lia"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Palabusa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kolese"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kantalai"
+    }
   ]
 }

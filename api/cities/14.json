@@ -1,16 +1,52 @@
 {
   "cities": [
-    "Kampar",
-    "Indragiri Hulu",
-    "Bengkalis",
-    "Indragiri Hilir",
-    "Pelalawan",
-    "Rokan Hulu",
-    "Rokan Hilir",
-    "Siak",
-    "Kuantan Singingi",
-    "Kepulauan Meranti",
-    "Pekanbaru",
-    "Dumai"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kampar"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Indragiri Hulu"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Bengkalis"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Indragiri Hilir"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Pelalawan"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Rokan Hulu"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Rokan Hilir"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Siak"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Kuantan Singingi"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Kepulauan Meranti"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Pekanbaru"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Dumai"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Samarang",
-    "Cintarakyat (Cintarayat)",
-    "Sukarasa",
-    "Parakan",
-    "Sukakarya",
-    "Cintakarya",
-    "Tanjung Karya",
-    "Cisarua",
-    "Cintarasa",
-    "Cintaasih",
-    "Sirnasari",
-    "Sukalaksana",
-    "Tanjunganom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Samarang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cintarakyat (Cintarayat)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukarasa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukakarya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cintakarya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Karya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cintarasa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cintaasih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sirnasari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukalaksana"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjunganom"
+    }
   ]
 }

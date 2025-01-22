@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Namaelo",
-    "Namasina",
-    "Ampera",
-    "Lesane",
-    "Letwaru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Namaelo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Namasina"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ampera"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lesane"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Letwaru"
+    }
   ]
 }

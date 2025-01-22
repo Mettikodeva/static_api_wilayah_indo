@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Benteng",
-    "Pallengu",
-    "Pantai Bahari",
-    "Bontorannu",
-    "Pallantikang",
-    "Kalimporo",
-    "Punagaya",
-    "Mallasoro",
-    "Kapita",
-    "Marayoka",
-    "Jenetallasa",
-    "Tombo-Tombolo",
-    "Gunung Silanu",
-    "Bontomanai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pallengu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pantai Bahari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bontorannu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pallantikang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalimporo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Punagaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mallasoro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kapita"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Marayoka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jenetallasa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tombo-Tombolo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gunung Silanu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bontomanai"
+    }
   ]
 }

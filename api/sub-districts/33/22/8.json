@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gondoriyo",
-    "Gemawang",
-    "Bedono",
-    "Kelurahan",
-    "Brongkol",
-    "Jambu",
-    "Kuwarasan",
-    "Kebondalem",
-    "Rejosari",
-    "Genting"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gondoriyo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gemawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bedono"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kelurahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Brongkol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuwarasan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Genting"
+    }
   ]
 }

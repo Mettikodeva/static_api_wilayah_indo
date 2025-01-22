@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Monta Baru",
-    "Kandai II",
-    "Simpasai",
-    "Saneo",
-    "Wawonduru",
-    "Matua",
-    "Nowa",
-    "Bara",
-    "Mada Prama",
-    "Riwo",
-    "Mumbu",
-    "Sera Kapi",
-    "Raba Baka",
-    "Baka Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Monta Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kandai II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Simpasai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saneo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wawonduru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Matua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nowa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mada Prama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Riwo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mumbu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sera Kapi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Raba Baka"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baka Jaya"
+    }
   ]
 }

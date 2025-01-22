@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tampa",
-    "Kalamus",
-    "Simpang Bingkuang",
-    "Patung",
-    "Runggu Raya",
-    "Bantai Napu",
-    "Tarinsing (Taringsing)",
-    "Paku Beto",
-    "Gandrung",
-    "Pangkan",
-    "Kupang Baru",
-    "Luau Jawuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tampa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalamus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Bingkuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Patung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Runggu Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bantai Napu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tarinsing (Taringsing)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paku Beto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gandrung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pangkan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kupang Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Luau Jawuk"
+    }
   ]
 }

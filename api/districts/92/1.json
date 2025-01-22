@@ -1,34 +1,124 @@
 {
   "districts": [
-    "Makbon",
-    "Beraur",
-    "Salawati",
-    "Seget",
-    "Aimas",
-    "Klamono",
-    "Sayosa",
-    "Segun",
-    "Mayamuk",
-    "Salawati Selatan",
-    "Klabot",
-    "Klawak",
-    "Maudus",
-    "Mariat",
-    "Klayili",
-    "Klaso",
-    "Moisegen",
-    "Sorong",
-    "Bagun",
-    "Wemak",
-    "Sunook",
-    "Buk",
-    "Saengkeduk",
-    "Malabotom",
-    "Konhir",
-    "Klasafet",
-    "Hobard",
-    "Salawati Tengah",
-    "Botain",
-    "Sayosa Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Makbon"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Beraur"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Salawati"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Seget"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Aimas"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Klamono"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sayosa"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Segun"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Mayamuk"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Salawati Selatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Klabot"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Klawak"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Maudus"
+    },
+    {
+      "district_id": 39,
+      "kecamatan": "Mariat"
+    },
+    {
+      "district_id": 40,
+      "kecamatan": "Klayili"
+    },
+    {
+      "district_id": 41,
+      "kecamatan": "Klaso"
+    },
+    {
+      "district_id": 42,
+      "kecamatan": "Moisegen"
+    },
+    {
+      "district_id": 43,
+      "kecamatan": "Sorong"
+    },
+    {
+      "district_id": 44,
+      "kecamatan": "Bagun"
+    },
+    {
+      "district_id": 45,
+      "kecamatan": "Wemak"
+    },
+    {
+      "district_id": 46,
+      "kecamatan": "Sunook"
+    },
+    {
+      "district_id": 47,
+      "kecamatan": "Buk"
+    },
+    {
+      "district_id": 48,
+      "kecamatan": "Saengkeduk"
+    },
+    {
+      "district_id": 49,
+      "kecamatan": "Malabotom"
+    },
+    {
+      "district_id": 50,
+      "kecamatan": "Konhir"
+    },
+    {
+      "district_id": 51,
+      "kecamatan": "Klasafet"
+    },
+    {
+      "district_id": 52,
+      "kecamatan": "Hobard"
+    },
+    {
+      "district_id": 53,
+      "kecamatan": "Salawati Tengah"
+    },
+    {
+      "district_id": 54,
+      "kecamatan": "Botain"
+    },
+    {
+      "district_id": 55,
+      "kecamatan": "Sayosa Timur"
+    }
   ]
 }

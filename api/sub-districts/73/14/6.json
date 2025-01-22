@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Rijang Panua",
-    "Kulo",
-    "Maddenra (Madenra)",
-    "Mario",
-    "Bina Baru",
-    "Abbokongeng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rijang Panua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kulo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maddenra (Madenra)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mario"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bina Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Abbokongeng"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Solo",
-    "Boroko",
-    "Bigo",
-    "Kuala",
-    "Pontak",
-    "Inomunga",
-    "Komus Dua (II)",
-    "Boroko Timur",
-    "Kuala Utara",
-    "Gihang",
-    "Boroko Utara",
-    "Bigo Selatan",
-    "Soligir",
-    "Inomunga Utara",
-    "Komus Dua Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Solo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boroko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bigo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pontak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Inomunga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Komus Dua (II)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Boroko Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuala Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gihang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Boroko Utara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bigo Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Soligir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Inomunga Utara"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Komus Dua Timur"
+    }
   ]
 }

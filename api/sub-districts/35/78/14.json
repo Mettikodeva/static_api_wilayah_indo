@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tandes (Kidul, Lor, Gedang Asin)",
-    "Karang Poh (Gadel, Tubanan)",
-    "Balongsari (Balong Sari)",
-    "Manukan Kulon",
-    "Manukan Wetan (Bibis, Buntaran)",
-    "Banjar Sugian / Sugihan"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tandes (Kidul, Lor, Gedang Asin)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang Poh (Gadel, Tubanan)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Balongsari (Balong Sari)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Manukan Kulon"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Manukan Wetan (Bibis, Buntaran)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Banjar Sugian / Sugihan"
+    }
   ]
 }

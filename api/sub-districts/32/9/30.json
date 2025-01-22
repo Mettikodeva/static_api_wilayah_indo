@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Dompyong Kulon",
-    "Dompyong Wetan",
-    "Kalimekar",
-    "Kalimoro (Kalimaro)",
-    "Gagasari",
-    "Kalipasung",
-    "Gebang Kulon",
-    "Gebang",
-    "Gebang Ilir (Gebangilir)",
-    "Gebang Udik (Gebangudik)",
-    "Gebang Mekar (Gebangmekar)",
-    "Playangan (Pelayangan)",
-    "Melakasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dompyong Kulon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dompyong Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalimekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalimoro (Kalimaro)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gagasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalipasung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gebang Kulon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gebang Ilir (Gebangilir)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gebang Udik (Gebangudik)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gebang Mekar (Gebangmekar)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Playangan (Pelayangan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Melakasari"
+    }
   ]
 }

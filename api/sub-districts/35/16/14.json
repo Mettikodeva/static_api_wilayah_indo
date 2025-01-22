@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ngareskidul",
-    "Gembongan",
-    "Gempolkerep (Gempolkrep)",
-    "Bandung",
-    "Gedeg",
-    "Pagerluyung",
-    "Kemantren",
-    "Terusan",
-    "Sidoharjo",
-    "Balongsari",
-    "Batankrajan",
-    "Pagerjo",
-    "Jerukseger",
-    "Beratwetan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngareskidul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gembongan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gempolkerep (Gempolkrep)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gedeg"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagerluyung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kemantren"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terusan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balongsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batankrajan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pagerjo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jerukseger"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Beratwetan"
+    }
   ]
 }

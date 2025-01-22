@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tomata",
-    "Londi",
-    "Taende",
-    "Ensa",
-    "Kolaka",
-    "Peonea",
-    "Lanumor",
-    "Gontara",
-    "Lee",
-    "Saemba",
-    "Kasingoli",
-    "Tomui Karya",
-    "Saemba Walati",
-    "Pambarea"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tomata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Londi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taende"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ensa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kolaka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peonea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lanumor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gontara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lee"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saemba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kasingoli"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tomui Karya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Saemba Walati"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pambarea"
+    }
   ]
 }

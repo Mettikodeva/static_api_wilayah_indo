@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lampuawa",
-    "Katulungan",
-    "Salulemo",
-    "Kaluku",
-    "Sukamaju",
-    "Sukadamai",
-    "Tamboke",
-    "Tolangi",
-    "Tulung Indah",
-    "Minanga Tallu",
-    "Wonosari",
-    "Mulyasari",
-    "Saptamarga",
-    "Tulungsari (Tulung Sari)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lampuawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Katulungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salulemo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaluku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukadamai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tamboke"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tolangi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tulung Indah"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Minanga Tallu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Saptamarga"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tulungsari (Tulung Sari)"
+    }
   ]
 }

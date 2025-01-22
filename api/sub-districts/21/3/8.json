@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kelarik Utara",
-    "Kelarik",
-    "Kelarik Air Mali",
-    "Teluk Buton",
-    "Belakang Gunung",
-    "Gunung Durian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kelarik Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kelarik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kelarik Air Mali"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Buton"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belakang Gunung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Durian"
+    }
   ]
 }

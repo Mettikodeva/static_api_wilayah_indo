@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Putukrejo",
-    "Kalipare",
-    "Sumberpetung",
-    "Sukowilangun",
-    "Tumpakrejo",
-    "Arjosari",
-    "Kalirejo",
-    "Arjowilangun",
-    "Kaliasri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Putukrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalipare"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberpetung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukowilangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumpakrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Arjosari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Arjowilangun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaliasri"
+    }
   ]
 }

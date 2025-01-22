@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sidomulyo",
-    "Kanung",
-    "Rejosari",
-    "Pucangrejo",
-    "Krokeh",
-    "Lebakayu",
-    "Bakur",
-    "Golan",
-    "Cabean",
-    "Sawahan",
-    "Pule",
-    "Kajang",
-    "Klumpit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kanung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pucangrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Krokeh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebakayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bakur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cabean"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pule"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kajang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Klumpit"
+    }
   ]
 }

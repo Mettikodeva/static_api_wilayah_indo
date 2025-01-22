@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sei/Sungai Bedungun",
-    "Tanjung Redeb",
-    "Bugis",
-    "Gayam",
-    "Karang Ambun",
-    "Gunung Panjang"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sei/Sungai Bedungun"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung Redeb"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bugis"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gayam"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karang Ambun"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gunung Panjang"
+    }
   ]
 }

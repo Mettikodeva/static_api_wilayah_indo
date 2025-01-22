@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kedungbetik (Kedung Betik)",
-    "Kedungmlati (Kedung Mlati)",
-    "Watudakon (Watu Dakon)",
-    "Carangrejo (Carang Rejo)",
-    "Jombok",
-    "Blimbing",
-    "Wuluh",
-    "Pojokrejo (Pojok Rejo)",
-    "Kesamben",
-    "Podoroto",
-    "Jombatan",
-    "Pojokkulon (Pojok Kulon)",
-    "Gumulan",
-    "Jatiduwur (Jati Duwur)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungbetik (Kedung Betik)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungmlati (Kedung Mlati)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Watudakon (Watu Dakon)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Carangrejo (Carang Rejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jombok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blimbing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wuluh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pojokrejo (Pojok Rejo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kesamben"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Podoroto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jombatan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pojokkulon (Pojok Kulon)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gumulan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jatiduwur (Jati Duwur)"
+    }
   ]
 }

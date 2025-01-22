@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pasang",
-    "Madong (Ma Dong)",
-    "Dende'",
-    "Piongan",
-    "Paku",
-    "Kapolang",
-    "Buntu Tagari",
-    "Parinding"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Madong (Ma Dong)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dende'"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Piongan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kapolang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buntu Tagari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parinding"
+    }
   ]
 }

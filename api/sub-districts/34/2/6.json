@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Catuharjo (Caturharjo)",
-    "Triharjo",
-    "Gilangharjo",
-    "Wijirejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Catuharjo (Caturharjo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Triharjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gilangharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wijirejo"
+    }
   ]
 }

@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Maesan",
-    "Tamanan",
-    "Tlogosari",
-    "Sukosari",
-    "Pujer",
-    "Grujugan",
-    "Curahdami",
-    "Tenggarang",
-    "Wonosari",
-    "Tapen",
-    "Bondowoso",
-    "Wringin",
-    "Tegalampel",
-    "Klabang",
-    "Cermee",
-    "Prajekan",
-    "Pakem",
-    "Sumberwringin (Sumber Wringin)",
-    "Sempol",
-    "Binakal",
-    "Taman Krocok",
-    "Botolinggo",
-    "Jambesari Darus Sholah"
+    {
+      "district_id": 1,
+      "kecamatan": "Maesan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tamanan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tlogosari"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sukosari"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pujer"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Grujugan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Curahdami"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tenggarang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Wonosari"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tapen"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bondowoso"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Wringin"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tegalampel"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Klabang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Cermee"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Prajekan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Pakem"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sumberwringin (Sumber Wringin)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Sempol"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Binakal"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Taman Krocok"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Botolinggo"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Jambesari Darus Sholah"
+    }
   ]
 }

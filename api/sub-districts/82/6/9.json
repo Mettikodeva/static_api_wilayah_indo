@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sosolat",
-    "Dorosago (Dorosagu)",
-    "Patlean",
-    "Lolasita",
-    "Wasileo",
-    "Pumlanga",
-    "Jara-jara (Jarajara)",
-    "Doromoi",
-    "Lili",
-    "Patlean Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sosolat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dorosago (Dorosagu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patlean"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lolasita"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wasileo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pumlanga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jara-jara (Jarajara)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Doromoi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lili"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Patlean Jaya"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sungai Pinang",
-    "Sungai Kerjan",
-    "Talang Pantai",
-    "Sungai Arang",
-    "Pulau Pekan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Pinang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sungai Kerjan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Pantai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Arang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Pekan"
+    }
   ]
 }

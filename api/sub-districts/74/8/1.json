@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lasusua",
-    "Pitulua",
-    "Rante Limbong (Rante Limbung)",
-    "Totallang",
-    "Tojabi",
-    "Ponggiha",
-    "Watuliwu",
-    "Sulaho",
-    "Patowonua",
-    "Babussalam",
-    "Batu Ganda Permai",
-    "Puncak Monapa (Pucak Monapa)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lasusua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pitulua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rante Limbong (Rante Limbung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Totallang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tojabi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ponggiha"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Watuliwu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sulaho"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Patowonua"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Babussalam"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batu Ganda Permai"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Puncak Monapa (Pucak Monapa)"
+    }
   ]
 }

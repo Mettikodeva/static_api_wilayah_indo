@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pasangkayu",
-    "Martajaya",
-    "Pakava",
-    "Karya Bersama",
-    "Ako",
-    "Gunung Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasangkayu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Martajaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pakava"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karya Bersama"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ako"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gunung Sari"
+    }
   ]
 }

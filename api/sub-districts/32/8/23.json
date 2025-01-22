@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Garatengah",
-    "Rajadanu",
-    "Singkup",
-    "Japara",
-    "Wano",
-    "Citapen",
-    "Cengal",
-    "Cikeleng",
-    "Kalimati",
-    "Dukuhdalem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Garatengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rajadanu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Singkup"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Japara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wano"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Citapen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cengal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikeleng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalimati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dukuhdalem"
+    }
   ]
 }

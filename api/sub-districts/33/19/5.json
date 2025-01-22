@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gulang",
-    "Jepang",
-    "Payaman",
-    "Kirig",
-    "Temulus",
-    "Kesambi",
-    "Jojo",
-    "Hadiwarno",
-    "Mejobo",
-    "Golantepus",
-    "Tenggeles"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jepang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Payaman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kirig"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Temulus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kesambi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jojo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hadiwarno"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mejobo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Golantepus"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tenggeles"
+    }
   ]
 }

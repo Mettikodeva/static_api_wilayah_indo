@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Parigi",
-    "Karangbenda",
-    "Ciliang",
-    "Bojong",
-    "Cintaratu",
-    "Selasari",
-    "Karangjaladri",
-    "Cibenda",
-    "Cintakarya",
-    "Parakanmanggu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parigi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangbenda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciliang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cintaratu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Selasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangjaladri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibenda"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cintakarya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Parakanmanggu"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Booi",
-    "Paperu",
-    "Tiouw",
-    "Haria",
-    "Porto (Portho)",
-    "Kulur",
-    "Saparua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Booi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paperu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tiouw"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Haria"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Porto (Portho)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kulur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Saparua"
+    }
   ]
 }

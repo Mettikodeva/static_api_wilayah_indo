@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sempolan",
-    "Harjomulyo (Harjomolyo)",
-    "Karangharjo",
-    "Silo",
-    "Pace",
-    "Mulyorejo",
-    "Sumberjati",
-    "Garahan",
-    "Sidomulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sempolan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Harjomulyo (Harjomolyo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Silo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pace"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulyorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberjati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Garahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomulyo"
+    }
   ]
 }

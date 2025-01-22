@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sukowarno",
-    "Sugih Waras",
-    "Bangun Rejo",
-    "Ciptodadi",
-    "Sukarena",
-    "Yudha Karya Bakti (Yudha Karya Bhakti)",
-    "Rantau Alih",
-    "Ciptodadi II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukowarno"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sugih Waras"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangun Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciptodadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukarena"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yudha Karya Bakti (Yudha Karya Bhakti)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rantau Alih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciptodadi II"
+    }
   ]
 }

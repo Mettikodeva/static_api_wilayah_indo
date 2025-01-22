@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tapos",
-    "Ciomas",
-    "Batok",
-    "Babakan",
-    "Tenjo",
-    "Cilaku",
-    "Singabraja",
-    "Singabangsa",
-    "Bojong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tapos"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciomas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tenjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cilaku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Singabraja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Singabangsa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bojong"
+    }
   ]
 }

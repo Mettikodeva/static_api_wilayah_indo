@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gunungsembung",
-    "Gembor",
-    "Kamarung",
-    "Gambarsari",
-    "Pagedan (Pagaden)",
-    "Sukamulya",
-    "Neglasari",
-    "Sumbersari",
-    "Gunungsari",
-    "Jabong"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungsembung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gembor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kamarung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gambarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pagedan (Pagaden)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Jabong"
+    }
   ]
 }

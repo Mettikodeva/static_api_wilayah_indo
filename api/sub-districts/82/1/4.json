@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Susupu",
-    "Lako Akelamo",
-    "Taruba",
-    "Todahe",
-    "Peot",
-    "Sasur",
-    "Goro Goro",
-    "Tacim",
-    "Balisoang (Balisoan)",
-    "Worat Worat",
-    "Tacici",
-    "Taraudu",
-    "Golo",
-    "Lako Akederi (Lako Akediri)",
-    "Jara Kore (Jaraoke)",
-    "Ropu Tengah Balu (Ropu Tengah Hulu)",
-    "Dere",
-    "Balisoan Utara",
-    "Sasur Pantai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Susupu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lako Akelamo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taruba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Todahe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peot"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sasur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Goro Goro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tacim"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Balisoang (Balisoan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Worat Worat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tacici"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Taraudu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Golo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Lako Akederi (Lako Akediri)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Jara Kore (Jaraoke)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Ropu Tengah Balu (Ropu Tengah Hulu)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Dere"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Balisoan Utara"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Sasur Pantai"
+    }
   ]
 }

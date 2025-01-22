@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bilalang III",
-    "Bilalang IV",
-    "Tudu Aog",
-    "Tudu Aog Baru",
-    "Kolinganga'an",
-    "Bilalang III Utara",
-    "Bilalang Baru",
-    "Apado"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bilalang III"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bilalang IV"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tudu Aog"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tudu Aog Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kolinganga'an"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bilalang III Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bilalang Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Apado"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pahauman",
-    "Paloan",
-    "Sebatih",
-    "Saham",
-    "Andeng",
-    "Senakin",
-    "Tonang",
-    "Banying",
-    "Sidas",
-    "Keranji Mancal",
-    "Keranji Paidang",
-    "Aur Sampuk",
-    "Gombang",
-    "Rabak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pahauman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paloan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebatih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saham"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Andeng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senakin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tonang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banying"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keranji Mancal"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keranji Paidang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Aur Sampuk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gombang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rabak"
+    }
   ]
 }

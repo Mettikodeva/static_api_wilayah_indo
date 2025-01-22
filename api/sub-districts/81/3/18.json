@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wadankou (Wadankau)",
-    "Adodo Molu (Adodo Molo)",
-    "Wulmasa",
-    "Tutunametal",
-    "Nurkat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wadankou (Wadankau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Adodo Molu (Adodo Molo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wulmasa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tutunametal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nurkat"
+    }
   ]
 }

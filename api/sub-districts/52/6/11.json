@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Waworada",
-    "Karumbu",
-    "Rupe",
-    "Kalodu",
-    "Kawuwu",
-    "Doro Oo (Doro O'o)",
-    "Laju",
-    "Kangga",
-    "Karampi",
-    "Waduruka",
-    "Dumu",
-    "Rompo",
-    "Sarae Ruma",
-    "Pusu",
-    "Sambane"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waworada"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karumbu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rupe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalodu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kawuwu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Doro Oo (Doro O'o)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laju"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kangga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karampi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waduruka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dumu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rompo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sarae Ruma"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pusu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sambane"
+    }
   ]
 }

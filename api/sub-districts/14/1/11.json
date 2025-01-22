@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Koto Garo (Kota Garo)",
-    "Sikijang/Sekijang",
-    "Beringin Lestari",
-    "Kota/Koto Bangun",
-    "Cinta Damai",
-    "Suka Maju",
-    "Kota Baru",
-    "Tebing Lestari",
-    "Tanah Tinggi",
-    "Koto Aman",
-    "Tapung Lestari",
-    "Tapung Makmur",
-    "Tandan Sari",
-    "Gerbang Sari",
-    "Kijang Jaya",
-    "Kijang Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Garo (Kota Garo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sikijang/Sekijang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beringin Lestari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kota/Koto Bangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cinta Damai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tebing Lestari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanah Tinggi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Aman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tapung Lestari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tapung Makmur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tandan Sari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gerbang Sari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kijang Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kijang Makmur"
+    }
   ]
 }

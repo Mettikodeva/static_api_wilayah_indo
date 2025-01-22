@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Holuwon (Holuon)",
-    "Danggema",
-    "Weni",
-    "Sosi",
-    "Sia",
-    "Bineleruk",
-    "Sohonggik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Holuwon (Holuon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Danggema"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Weni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sosi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bineleruk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sohonggik"
+    }
   ]
 }

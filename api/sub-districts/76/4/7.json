@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pelitakan",
-    "Tapango",
-    "Rappang",
-    "Dakka",
-    "Batu",
-    "Riso",
-    "Palatta",
-    "Tapango Barat",
-    "Kurrak",
-    "Bussu",
-    "Tuttula",
-    "Jambu Malea",
-    "Kalimbua",
-    "Banato Rejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pelitakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapango"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rappang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dakka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Riso"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Palatta"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tapango Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kurrak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bussu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tuttula"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jambu Malea"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kalimbua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banato Rejo"
+    }
   ]
 }

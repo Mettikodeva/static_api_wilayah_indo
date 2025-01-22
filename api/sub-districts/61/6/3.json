@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Nanga Embaloh",
-    "Keliling Semulung",
-    "Lawik",
-    "Nanga Lauk",
-    "Nanga Palin",
-    "Kirin Nangka",
-    "Pala Pintas",
-    "Ujung Bayur",
-    "Belatung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Embaloh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keliling Semulung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lawik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nanga Lauk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nanga Palin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kirin Nangka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pala Pintas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ujung Bayur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Belatung"
+    }
   ]
 }

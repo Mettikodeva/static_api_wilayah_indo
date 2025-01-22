@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanjung Bunga",
-    "Kampoh Bunga",
-    "Lemo Bajo",
-    "Barasanga",
-    "Wawolesea",
-    "Toreo",
-    "Otipulu",
-    "Kampoh Cina"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Bunga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kampoh Bunga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lemo Bajo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Barasanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wawolesea"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Toreo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Otipulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kampoh Cina"
+    }
   ]
 }

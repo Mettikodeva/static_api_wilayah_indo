@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Pandes",
-    "Podosari",
-    "Botomulyo",
-    "Cepiring",
-    "Damarsari",
-    "Karangayu",
-    "Karangsuno",
-    "Gondang",
-    "Sidomulyo",
-    "Juwiring",
-    "Kaliayu",
-    "Kalirandugede (Kalirandu Gede)",
-    "Korowelangkulon (Korowelang Kulon)",
-    "Korowelanganyar (Korowelang Anyar)",
-    "Margorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandes"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Podosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Botomulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cepiring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Damarsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangsuno"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Juwiring"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kaliayu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalirandugede (Kalirandu Gede)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Korowelangkulon (Korowelang Kulon)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Korowelanganyar (Korowelang Anyar)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Margorejo"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Klagete",
-    "Malaingkedi",
-    "Malamso",
-    "Klabulu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Klagete"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Malaingkedi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Malamso"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Klabulu"
+    }
   ]
 }

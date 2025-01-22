@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kandangan",
-    "Sememi",
-    "Tambak Osowilangun",
-    "Romokalisari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sememi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tambak Osowilangun"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Romokalisari"
+    }
   ]
 }

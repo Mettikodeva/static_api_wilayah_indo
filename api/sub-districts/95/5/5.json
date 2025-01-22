@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kalarin",
-    "Melenggama",
-    "Ilugwa",
-    "Wirima",
-    "Danama",
-    "Illusilimo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalarin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Melenggama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ilugwa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wirima"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Danama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Illusilimo"
+    }
   ]
 }

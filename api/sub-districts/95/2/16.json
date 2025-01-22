@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kungulding",
-    "Bulangkop",
-    "Limarum",
-    "Yumakot",
-    "Aplim",
-    "Okdo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kungulding"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bulangkop"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Limarum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yumakot"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aplim"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Okdo"
+    }
   ]
 }

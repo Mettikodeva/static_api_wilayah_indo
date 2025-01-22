@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Beringin Jaya",
-    "Pulaukomang Sentajo",
-    "Muaro Sentajo",
-    "Koto Sentajo",
-    "Kampungbaru Sentajo (Kampung Baru Sentajo)",
-    "Pulaukopung Sentajo",
-    "Teratak Air Hitam",
-    "Seberang Teratak Air Hitam",
-    "Parit Teratak Air Hitam",
-    "Jalur Patah",
-    "Geringing Baru",
-    "Marsawa",
-    "Langsat Hulu",
-    "Muara Langsat",
-    "Geringging Jaya"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulaukomang Sentajo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muaro Sentajo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Sentajo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampungbaru Sentajo (Kampung Baru Sentajo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulaukopung Sentajo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teratak Air Hitam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seberang Teratak Air Hitam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parit Teratak Air Hitam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jalur Patah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Geringing Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Marsawa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Langsat Hulu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muara Langsat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Geringging Jaya"
+    }
   ]
 }

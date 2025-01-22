@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Basso (Bosso)",
-    "Salutubu",
-    "Siteba",
-    "Bolong",
-    "Pongko",
-    "Buntu Awo' (Buntu Awo)",
-    "Marabuana",
-    "Salulino",
-    "Sangtandung",
-    "Bosso Timur",
-    "Limbong"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Basso (Bosso)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salutubu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siteba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bolong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pongko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buntu Awo' (Buntu Awo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marabuana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salulino"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sangtandung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bosso Timur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Limbong"
+    }
   ]
 }

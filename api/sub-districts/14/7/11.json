@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Simpang Kanan",
-    "Kota Paret/Parit",
-    "Bagan Nibung",
-    "Bukit Damar",
-    "Bukit Mas",
-    "Bukit Selamat (Tanjung Selamat)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simpang Kanan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kota Paret/Parit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bagan Nibung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Damar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukit Mas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Selamat (Tanjung Selamat)"
+    }
   ]
 }

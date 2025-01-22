@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banjarsari",
-    "Tulungrejo",
-    "Trucuk",
-    "Mori",
-    "Padang",
-    "Sumberejo",
-    "Guyangan",
-    "Sranak",
-    "Sumbangtimun (Sumbang Timun)",
-    "Kanten",
-    "Kandangan",
-    "Pagerwesi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tulungrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Trucuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mori"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Guyangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sranak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumbangtimun (Sumbang Timun)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kanten"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pagerwesi"
+    }
   ]
 }

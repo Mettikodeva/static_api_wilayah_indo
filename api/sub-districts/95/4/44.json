@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wiyaluk",
-    "Aburage",
-    "Kogoyapura",
-    "Erimbur",
-    "Leragawi/Megagirakuk",
-    "Longgoboma",
-    "Tingwi",
-    "Gubura",
-    "Lubuk",
-    "Bogome"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wiyaluk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aburage"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kogoyapura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Erimbur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Leragawi/Megagirakuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Longgoboma"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tingwi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gubura"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bogome"
+    }
   ]
 }

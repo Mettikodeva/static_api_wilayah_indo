@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tampumia Radda",
-    "Tanamanai",
-    "Senga",
-    "Balo-Balo (Balo- Balo)",
-    "Kurrusumanga",
-    "Belopa",
-    "Senga Selatan",
-    "Balubu",
-    "Pasamai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tampumia Radda"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanamanai"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Senga"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Balo-Balo (Balo- Balo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kurrusumanga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belopa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Senga Selatan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Balubu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pasamai"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cening (Cenning)",
-    "Pangkajoang (Pengkajoang)",
-    "Pao",
-    "Arusu",
-    "Baku Baku (Baku-Baku)",
-    "Wara",
-    "Waelawi",
-    "Pembuniang",
-    "Limbong Wara",
-    "Kalitata",
-    "Pombakka",
-    "Polejiwa (Pole Jiwa)",
-    "Waetuo (Waetuwo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cening (Cenning)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkajoang (Pengkajoang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pao"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arusu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baku Baku (Baku-Baku)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waelawi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pembuniang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Limbong Wara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalitata"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pombakka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Polejiwa (Pole Jiwa)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Waetuo (Waetuwo)"
+    }
   ]
 }

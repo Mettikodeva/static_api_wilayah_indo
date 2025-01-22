@@ -1,44 +1,164 @@
 {
   "sub_districts": [
-    "Waled",
-    "Kroyokulon (Kroyo Kulon)",
-    "Rejosari",
-    "Gesikan",
-    "Paitan",
-    "Gedong",
-    "Rowobayem",
-    "Kemiri Kidul",
-    "Bedono Kluwung",
-    "Bedono Pageron",
-    "Bedono Karangduwur",
-    "Rebug",
-    "Loning",
-    "Winong",
-    "Sutoragan",
-    "Jatiwangsan",
-    "Girimulyo",
-    "Girijoyo",
-    "Turus",
-    "Dilem",
-    "Kedunglo",
-    "Wonosuko",
-    "Sidodadi",
-    "Kalimeneng",
-    "Kemirilor (Kemiri Lor)",
-    "Kerep",
-    "Kroyolor (Kroyo Lor)",
-    "Samping",
-    "Wonosari",
-    "Kaliglagah",
-    "Kapiteran",
-    "Wanurojo",
-    "Rejowinangun",
-    "Kaliurip",
-    "Kedungpomahanweta n",
-    "Karangluas",
-    "Kedungpomahankulo n",
-    "Sukogelap (Sokogelap)",
-    "Gunungteges",
-    "Purbayan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waled"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kroyokulon (Kroyo Kulon)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gesikan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paitan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rowobayem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kemiri Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bedono Kluwung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bedono Pageron"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bedono Karangduwur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rebug"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Loning"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sutoragan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jatiwangsan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Girimulyo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Girijoyo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Turus"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Dilem"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kedunglo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wonosuko"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kalimeneng"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Kemirilor (Kemiri Lor)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kerep"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Kroyolor (Kroyo Lor)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Samping"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Kaliglagah"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Kapiteran"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Wanurojo"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Rejowinangun"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Kaliurip"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Kedungpomahanweta n"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Karangluas"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Kedungpomahankulo n"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Sukogelap (Sokogelap)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Gunungteges"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Purbayan"
+    }
   ]
 }

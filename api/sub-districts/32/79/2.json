@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Hegarsari",
-    "Pataruman",
-    "Mulyasari",
-    "Batulawang",
-    "Karyamukti",
-    "Binangun",
-    "Sukamukti",
-    "Sinartanjung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Hegarsari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pataruman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batulawang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinartanjung"
+    }
   ]
 }

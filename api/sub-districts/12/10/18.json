@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Labuhan Bilik",
-    "Sei Pelancang (Sei Plancang)",
-    "Sei Siati/Siarti",
-    "Sei Nahodaris",
-    "Sei Merdeka",
-    "Sei Rakyat",
-    "Selat Beting",
-    "Bagan Bilah",
-    "Telaga Suka",
-    "Pasar Tiga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Labuhan Bilik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Pelancang (Sei Plancang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei Siati/Siarti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Nahodaris"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Merdeka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei Rakyat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selat Beting"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bagan Bilah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Telaga Suka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasar Tiga"
+    }
   ]
 }

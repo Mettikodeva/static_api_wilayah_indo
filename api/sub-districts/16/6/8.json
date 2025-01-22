@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Keluang",
-    "Tenggaro",
-    "Tanjung Dalam",
-    "Dawas",
-    "Mekar Jaya",
-    "Sumber Agung",
-    "Karya Maju",
-    "Tegal Mulyo (Tegal Mulya)",
-    "Cipta Praja",
-    "Loka Jaya (Pelancu Indah)",
-    "Mekar Sari (Mekarsari)",
-    "Sido Rejo",
-    "Mulyo Asih",
-    "Sridamai"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Keluang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tenggaro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Dalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karya Maju"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegal Mulyo (Tegal Mulya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cipta Praja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Loka Jaya (Pelancu Indah)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekar Sari (Mekarsari)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sido Rejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mulyo Asih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sridamai"
+    }
   ]
 }

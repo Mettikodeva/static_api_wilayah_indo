@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dersalam",
-    "Ngembalrejo",
-    "Karangbener",
-    "Gondangmanis",
-    "Pedawang",
-    "Bacin",
-    "Panjang",
-    "Peganjaran",
-    "Purworejo",
-    "Bae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dersalam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngembalrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangbener"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gondangmanis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pedawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bacin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Peganjaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bae"
+    }
   ]
 }

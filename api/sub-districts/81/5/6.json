@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Danama",
-    "Kilmoy",
-    "Kilbat",
-    "Sesar",
-    "Airkasar",
-    "Waras-Waras",
-    "Gah",
-    "Walang Tenga",
-    "Bati Kilwouw",
-    "Taruy",
-    "Kufar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Danama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kilmoy"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kilbat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sesar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Airkasar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waras-Waras"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Walang Tenga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bati Kilwouw"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taruy"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kufar"
+    }
   ]
 }

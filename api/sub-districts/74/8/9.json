@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Watunohu",
-    "Lahabaru",
-    "Tambuha",
-    "Sarona",
-    "Sapoiha",
-    "Nyule",
-    "Samaturu",
-    "Lelehao"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Watunohu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lahabaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambuha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sarona"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sapoiha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nyule"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Samaturu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lelehao"
+    }
   ]
 }

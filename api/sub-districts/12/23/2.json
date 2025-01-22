@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanjung Leidong",
-    "Teluk Pulai Dalam",
-    "Teluk Pulai Luar",
-    "Kelapa Sebatang",
-    "Simandulang",
-    "Air Hitam",
-    "Pangkalan Lunang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Leidong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Pulai Dalam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Pulai Luar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kelapa Sebatang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simandulang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangkalan Lunang"
+    }
   ]
 }

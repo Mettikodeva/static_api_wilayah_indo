@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ciemas",
-    "Cibenda",
-    "Ciwaru",
-    "Mekarjaya",
-    "Girimukti",
-    "Tamanjaya",
-    "Mandrajaya",
-    "Sidamulya",
-    "Mekarsakti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciemas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibenda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciwaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamanjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mandrajaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidamulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekarsakti"
+    }
   ]
 }

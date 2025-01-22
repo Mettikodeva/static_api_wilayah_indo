@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Long Nyau",
-    "Long Titi",
-    "Long Ranau",
-    "Rian Tubu",
-    "Long Pada"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Nyau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Titi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Ranau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rian Tubu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Long Pada"
+    }
   ]
 }

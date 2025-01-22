@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tamansari",
-    "Lebakgede (Lebak Gede)",
-    "Mekarsari",
-    "Suralaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lebakgede (Lebak Gede)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Suralaya"
+    }
   ]
 }

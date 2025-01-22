@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Sarang Halang",
-    "Karang Taruna",
-    "Pelaihari",
-    "Angsau",
-    "Pabahanan",
-    "Bumi Jaya",
-    "Sei/Sungai Riam",
-    "Tampang",
-    "Telaga",
-    "Panjaratan",
-    "Atu Atu",
-    "Panggung",
-    "Tungkaran",
-    "Ujung Batu",
-    "Panggung Baru",
-    "Ambungan",
-    "Guntung Besar",
-    "Kampung Baru",
-    "Sumber Mulia",
-    "Pemuda"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sarang Halang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karang Taruna"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pelaihari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Angsau"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pabahanan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Riam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tampang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Telaga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panjaratan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Atu Atu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Panggung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tungkaran"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ujung Batu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Panggung Baru"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ambungan"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Guntung Besar"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sumber Mulia"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pemuda"
+    }
   ]
 }

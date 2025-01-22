@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Argomulyo (Argo Mulyo)",
-    "Wukirsari (Wukir Sari)",
-    "Glagaharjo (Glagah Harjo)",
-    "Kepuharjo (Kepuh Harjo)",
-    "Umbulharjo (Umbul Harjo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Argomulyo (Argo Mulyo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wukirsari (Wukir Sari)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Glagaharjo (Glagah Harjo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kepuharjo (Kepuh Harjo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umbulharjo (Umbul Harjo)"
+    }
   ]
 }

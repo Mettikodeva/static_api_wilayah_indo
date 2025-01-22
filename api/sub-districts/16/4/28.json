@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Muara Payang",
-    "Muara Gelumpai",
-    "Talang Tinggi",
-    "Lawang Agung Lama",
-    "Lawang Agung Baru",
-    "Muara Jauh",
-    "Bandu Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Payang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Gelumpai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Tinggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lawang Agung Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lawang Agung Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Jauh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandu Agung"
+    }
   ]
 }

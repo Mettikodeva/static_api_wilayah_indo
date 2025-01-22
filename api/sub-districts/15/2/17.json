@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Baru Pangkalan Jambu",
-    "Bukit Perentak",
-    "Birun",
-    "Tiga Alur (Tiga / Tigo Alur Pangkalan Jambu)",
-    "Bungo Tanjung",
-    "Sungai Jering",
-    "Kampung Limo",
-    "Tanjung Mudo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baru Pangkalan Jambu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Perentak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Birun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiga Alur (Tiga / Tigo Alur Pangkalan Jambu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bungo Tanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Jering"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Limo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Mudo"
+    }
   ]
 }

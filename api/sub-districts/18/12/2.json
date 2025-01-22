@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Daya Murni",
-    "Daya Sakti",
-    "Margo Mulyo",
-    "Makarti",
-    "Gunung Menanti",
-    "Daya Asri",
-    "Murni Jaya",
-    "Sumber Rejo",
-    "Margo Dadi",
-    "Gunung Timbul"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Daya Murni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Daya Sakti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margo Mulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Makarti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Menanti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Daya Asri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Murni Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Margo Dadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunung Timbul"
+    }
   ]
 }

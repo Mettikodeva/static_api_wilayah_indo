@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bayeun (Gampong Bayeun)",
-    "Rantau Panjang",
-    "Alue Raya",
-    "Alue Kumba",
-    "Seuneubok Dalam",
-    "Alue Seuleumak",
-    "Sarah Kayee",
-    "Damar Siput",
-    "Simpang Peut",
-    "Simpang Aneuh",
-    "Alue Punti",
-    "Alue Kaul/Kaol",
-    "Sarah Teube (Sarah Teubee)",
-    "Alue Tuwi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bayeun (Gampong Bayeun)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alue Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alue Kumba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seuneubok Dalam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alue Seuleumak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sarah Kayee"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Damar Siput"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Peut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Aneuh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Alue Punti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Alue Kaul/Kaol"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sarah Teube (Sarah Teubee)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Alue Tuwi"
+    }
   ]
 }

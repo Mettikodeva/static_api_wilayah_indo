@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Curahdami",
-    "Jetis",
-    "Pakuwesi",
-    "Kupang",
-    "Petung",
-    "Panambangan (Penambangan)",
-    "Curahpoh",
-    "Poncogati",
-    "Sumber Suko (Sumbersuko)",
-    "Selolembu (Silolembu)",
-    "Locare",
-    "Sumber Salak"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Curahdami"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pakuwesi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kupang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Petung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panambangan (Penambangan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Curahpoh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Poncogati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumber Suko (Sumbersuko)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Selolembu (Silolembu)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Locare"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Salak"
+    }
   ]
 }

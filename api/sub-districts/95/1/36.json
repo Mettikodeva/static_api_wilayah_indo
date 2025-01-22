@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sogokmo (Sogomo)",
-    "Asotipo",
-    "Putageima (Putagaima)",
-    "Kuantapo",
-    "Heberima",
-    "Iwigima",
-    "Pobiatma",
-    "Hitigima",
-    "Air Garam",
-    "Hukulimo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sogokmo (Sogomo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asotipo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Putageima (Putagaima)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuantapo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Heberima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Iwigima"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pobiatma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hitigima"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Garam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hukulimo"
+    }
   ]
 }

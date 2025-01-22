@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Epouwa (Epowa)",
-    "Dikia (Dikiya)",
-    "Tagauto (Tadautu)",
-    "Jigikebo",
-    "Jainoa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Epouwa (Epowa)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dikia (Dikiya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tagauto (Tadautu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jigikebo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jainoa"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tongko Sarapung",
-    "Buntu Masakke",
-    "Bulian Massa'bu (Bulian Massabu)",
-    "Kaero",
-    "Turunan"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tongko Sarapung"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Buntu Masakke"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulian Massa'bu (Bulian Massabu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaero"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Turunan"
+    }
   ]
 }

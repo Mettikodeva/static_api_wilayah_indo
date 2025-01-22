@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Libuo",
-    "Pentadu",
-    "Siduan",
-    "Bunuyo",
-    "Sipayo",
-    "Soginti",
-    "Bumbulan",
-    "Maleo",
-    "Molamahu",
-    "Buhu Jaya",
-    "Kemiri (Kamiri)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Libuo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pentadu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Siduan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bunuyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sipayo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Soginti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumbulan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Maleo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Molamahu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Buhu Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kemiri (Kamiri)"
+    }
   ]
 }

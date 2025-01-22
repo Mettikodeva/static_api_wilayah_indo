@@ -1,66 +1,252 @@
 {
   "sub_districts": [
-    "Pasar Gunung Tua",
-    "Lubuk Torop",
-    "Tanjung Marulak",
-    "Ambasang Natigor",
-    "Napagadung Laut",
-    "Rampa Jae",
-    "Rampa Julu",
-    "Mananti",
-    "Paran Padang",
-    "Rahuning Jae",
-    "Botung",
-    "Sigimbal",
-    "Dolok Sae",
-    "Simasi",
-    "Sihapas Hapas",
-    "Sungai Tolang",
-    "Losung Batu",
-    "Batu Mamak",
-    "Sampuran",
-    "Gunung Tua Baru",
-    "Sibatang Kayu",
-    "Aek Suhat",
-    "Gunung Tua Tonga",
-    "Gunung Tua Jae",
-    "Gunung Tua Julu",
-    "Hutalombang",
-    "Batang Baruhar Julu",
-    "Batang Baruhar Jae",
-    "Purba Sinomba",
-    "Hambiri",
-    "Sosopan",
-    "Pagaran Singkam",
-    "Pagaran Tonga",
-    "Sibagasi",
-    "Batu Tambun",
-    "Tanjung Tiram",
-    "Garoga",
-    "Hajoran",
-    "Batu Sundung",
-    "Garonggang",
-    "Nabonggal",
-    "Liang Hasona",
-    "Simandiangin Dolok",
-    "Simandiangin Lombang",
-    "Padang Garugur",
-    "Simanosor",
-    "Sigama",
-    "Sigama Ujung Gading",
-    "Parlimbatan",
-    "Saba Sitahul tahul",
-    "Saba Bangunan",
-    "Sidingkat",
-    "Gunung Manaon II",
-    "Purba Tua",
-    "Sungai Durian",
-    "Sungai Orosan",
-    "Hutaimbaru II",
-    "Siombob",
-    "Aek Gambir",
-    "Bukit Raya Sordang",
-    "Aek Jangkang",
-    "Simbolon"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Gunung Tua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Torop"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Marulak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ambasang Natigor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Napagadung Laut"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rampa Jae"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rampa Julu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mananti"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Paran Padang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Rahuning Jae"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Botung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sigimbal"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Dolok Sae"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Simasi"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sihapas Hapas"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sungai Tolang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Losung Batu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Batu Mamak"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sampuran"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Gunung Tua Baru"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sibatang Kayu"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Aek Suhat"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Gunung Tua Tonga"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Gunung Tua Jae"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Gunung Tua Julu"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Hutalombang"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Batang Baruhar Julu"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Batang Baruhar Jae"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Purba Sinomba"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Hambiri"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Sosopan"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Pagaran Singkam"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Pagaran Tonga"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Sibagasi"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Batu Tambun"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Tanjung Tiram"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Garoga"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Hajoran"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Batu Sundung"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Garonggang"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Nabonggal"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Liang Hasona"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Simandiangin Dolok"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Simandiangin Lombang"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Padang Garugur"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Simanosor"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Sigama"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Sigama Ujung Gading"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Parlimbatan"
+    },
+    {
+      "sub_district_id": 2065,
+      "desa_kelurahan": "Saba Sitahul tahul"
+    },
+    {
+      "sub_district_id": 2066,
+      "desa_kelurahan": "Saba Bangunan"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Sidingkat"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Gunung Manaon II"
+    },
+    {
+      "sub_district_id": 2070,
+      "desa_kelurahan": "Purba Tua"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Sungai Durian"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Sungai Orosan"
+    },
+    {
+      "sub_district_id": 2073,
+      "desa_kelurahan": "Hutaimbaru II"
+    },
+    {
+      "sub_district_id": 2074,
+      "desa_kelurahan": "Siombob"
+    },
+    {
+      "sub_district_id": 2075,
+      "desa_kelurahan": "Aek Gambir"
+    },
+    {
+      "sub_district_id": 2076,
+      "desa_kelurahan": "Bukit Raya Sordang"
+    },
+    {
+      "sub_district_id": 2077,
+      "desa_kelurahan": "Aek Jangkang"
+    },
+    {
+      "sub_district_id": 2078,
+      "desa_kelurahan": "Simbolon"
+    }
   ]
 }

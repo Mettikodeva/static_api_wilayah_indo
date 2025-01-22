@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wamitu",
-    "Balimneri",
-    "Timotani",
-    "Kungganeri",
-    "Gwilonik",
-    "Ilim",
-    "Dinuwi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wamitu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balimneri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timotani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kungganeri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gwilonik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ilim"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dinuwi"
+    }
   ]
 }

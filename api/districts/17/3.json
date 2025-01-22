@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Enggano",
-    "Kerkap",
-    "Kota Arga Makmur",
-    "Giri Mulia (Giri Mulya)",
-    "Padang Jaya",
-    "Lais",
-    "Batik Nau",
-    "Ketahun",
-    "Napal Putih",
-    "Putri Hijau",
-    "Air Besi",
-    "Air Napal",
-    "Hulu Palik",
-    "Air Padang",
-    "Arma Jaya",
-    "Tanjung Agung Palik",
-    "Ulok Kupai",
-    "Pinang Raya",
-    "Marga Sakti Sebelat (Marga Sakti)"
+    {
+      "district_id": 1,
+      "kecamatan": "Enggano"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kerkap"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kota Arga Makmur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Giri Mulia (Giri Mulya)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Padang Jaya"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Lais"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Batik Nau"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Ketahun"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Napal Putih"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Putri Hijau"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Air Besi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Air Napal"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Hulu Palik"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Air Padang"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Arma Jaya"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Tanjung Agung Palik"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Ulok Kupai"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pinang Raya"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Marga Sakti Sebelat (Marga Sakti)"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sinyonyoi",
-    "Bebanga",
-    "Kalukku",
-    "Sinyonyoi Selatan",
-    "Sondoang",
-    "Beru-Beru",
-    "Belang-Belang",
-    "Kabuloang",
-    "Keang",
-    "Pokkang",
-    "Guliling",
-    "Uhaimate",
-    "Kalukku Barat",
-    "Pammulukang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sinyonyoi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bebanga"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kalukku"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Sinyonyoi Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sondoang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beru-Beru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belang-Belang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kabuloang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pokkang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Guliling"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Uhaimate"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalukku Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pammulukang"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cibuniasih",
-    "Pangliaran",
-    "Tonjong",
-    "Cibongas",
-    "Tawang",
-    "Neglasari",
-    "Cikawung",
-    "Jayamukti",
-    "Margaluyu",
-    "Mekarsari",
-    "Pancawangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cibuniasih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangliaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tonjong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibongas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikawung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jayamukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pancawangi"
+    }
   ]
 }

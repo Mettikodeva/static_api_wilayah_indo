@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pattimang",
-    "Malangke",
-    "Benteng",
-    "Tolada (To Lada)",
-    "Salekoe",
-    "Pute Mata",
-    "Tingkara (Tingkaran)",
-    "Ladongi",
-    "Giri Kusuma (Girikusuma)",
-    "Tandung",
-    "Takkalala",
-    "Pettelandung (Petta Landung)",
-    "Tokke",
-    "Pince Pute"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pattimang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malangke"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tolada (To Lada)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salekoe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pute Mata"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tingkara (Tingkaran)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ladongi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Giri Kusuma (Girikusuma)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tandung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Takkalala"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pettelandung (Petta Landung)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tokke"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pince Pute"
+    }
   ]
 }

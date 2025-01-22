@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Siraja Hutagalung (Si Raja Hutagalung)",
-    "Pansur Napitu",
-    "Simanampang",
-    "Sidagal",
-    "Simorangkir Julu",
-    "Enda Portibi",
-    "Simorangkir Habinsaran",
-    "Sangkaran",
-    "Lumban Siagian Jae",
-    "Lumban Siagian Julu",
-    "Sitompul",
-    "Lobu Hole (Lobuhole)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siraja Hutagalung (Si Raja Hutagalung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pansur Napitu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simanampang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidagal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simorangkir Julu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Enda Portibi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simorangkir Habinsaran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sangkaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lumban Siagian Jae"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lumban Siagian Julu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sitompul"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lobu Hole (Lobuhole)"
+    }
   ]
 }

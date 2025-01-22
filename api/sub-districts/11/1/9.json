@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Keude Trumon",
-    "Ujong/Ujung Tanoh",
-    "Sigleng (Singleng)",
-    "Ie Meudama",
-    "Tuepin Tinggi (Tepin / Teupin Tinggi)",
-    "Kuta Baro/Baru",
-    "Panton Bilie",
-    "Kuta Padang",
-    "Raket",
-    "Gampong Teungoh",
-    "Seuneubok Jaya (Seunabok Jaya)",
-    "Padang Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Trumon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujong/Ujung Tanoh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sigleng (Singleng)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ie Meudama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuepin Tinggi (Tepin / Teupin Tinggi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuta Baro/Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panton Bilie"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuta Padang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Raket"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gampong Teungoh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Seuneubok Jaya (Seunabok Jaya)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Padang Harapan"
+    }
   ]
 }

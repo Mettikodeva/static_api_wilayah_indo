@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pekat",
-    "Nangamiro",
-    "Kadindi",
-    "Beringin Jaya",
-    "Sori Nomo",
-    "Tambora",
-    "Doro Peti",
-    "Karombo",
-    "Kadindi Barat",
-    "Nangakara",
-    "Sori Tatanga",
-    "Calabai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pekat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nangamiro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kadindi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sori Nomo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambora"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Doro Peti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karombo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kadindi Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nangakara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sori Tatanga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Calabai"
+    }
   ]
 }

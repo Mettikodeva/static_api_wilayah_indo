@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Malunda",
-    "Lamungang Batu",
-    "Bambangan",
-    "Lombang",
-    "Lombong",
-    "Mekkatta",
-    "Maliaya",
-    "Lombang Timur",
-    "Salutahongan",
-    "Lombong Timur",
-    "Mekkatta Selatan",
-    "Kayuangin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Malunda"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Lamungang Batu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bambangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lombang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lombong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekkatta"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maliaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lombang Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Salutahongan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lombong Timur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekkatta Selatan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kayuangin"
+    }
   ]
 }

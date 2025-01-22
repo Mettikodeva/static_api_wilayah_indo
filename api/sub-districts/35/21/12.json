@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banyubiru (Banyu Biru)",
-    "Kedunggudel",
-    "Sekaralas (Sekar Alas)",
-    "Sekarputih (Sekar Putih)",
-    "Kayutrejo",
-    "Sidolaju",
-    "Karangbanyu (Karang Banyu)",
-    "Widodaren",
-    "Gendingan",
-    "Kauman",
-    "Sidomakmur",
-    "Walikukun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyubiru (Banyu Biru)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedunggudel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sekaralas (Sekar Alas)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sekarputih (Sekar Putih)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kayutrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidolaju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangbanyu (Karang Banyu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Widodaren"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gendingan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidomakmur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Walikukun"
+    }
   ]
 }

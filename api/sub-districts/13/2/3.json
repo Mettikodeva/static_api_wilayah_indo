@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Lolo",
-    "Surian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Surian"
+    }
   ]
 }

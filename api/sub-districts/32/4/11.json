@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sangkanhurip",
-    "Katapang",
-    "Gandasari",
-    "Sukamukti",
-    "Cilampeni",
-    "Pangauban",
-    "Banyusari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sangkanhurip"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Katapang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gandasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cilampeni"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangauban"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banyusari"
+    }
   ]
 }

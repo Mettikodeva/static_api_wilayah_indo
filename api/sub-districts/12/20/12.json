@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Huta Raja",
-    "Ujung Batu Julu",
-    "Gunung Manaon Ujung Batu",
-    "Labuhan Jurung",
-    "Martujuan",
-    "Paya Bahung Ujung Batu",
-    "Tobing Tinggi Ujung Batu",
-    "Ujung Batu Jae",
-    "Marlaung",
-    "Mananti",
-    "Jambu Tonang",
-    "Manare Tua",
-    "Pasir Lancat Ujung Batu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Huta Raja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujung Batu Julu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Manaon Ujung Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labuhan Jurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Martujuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paya Bahung Ujung Batu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tobing Tinggi Ujung Batu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ujung Batu Jae"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marlaung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mananti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jambu Tonang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Manare Tua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasir Lancat Ujung Batu"
+    }
   ]
 }

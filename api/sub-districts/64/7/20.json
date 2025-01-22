@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sekolaq Joleq",
-    "Sekolaq Muliaq",
-    "Sekolaq Oday",
-    "Srimulyo",
-    "Sember Bangun",
-    "Sumber Rejo",
-    "Sekolaq Darat",
-    "Leleng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekolaq Joleq"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekolaq Muliaq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sekolaq Oday"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Srimulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sember Bangun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sekolaq Darat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leleng"
+    }
   ]
 }

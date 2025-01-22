@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Wayabula",
-    "Tiley (Tiley Kusu)",
-    "Ngele Ngele Kecil",
-    "Cucumare",
-    "Aru Irian",
-    "Waringin",
-    "Tutuhu (Tuthu)",
-    "Cio Gerong",
-    "Ngele Ngele Besar",
-    "Raja",
-    "Cio Dalam",
-    "Usbar Pantai",
-    "Tiley Pantai",
-    "Cio Maloleo",
-    "Bobula"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wayabula"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tiley (Tiley Kusu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngele Ngele Kecil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cucumare"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aru Irian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waringin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tutuhu (Tuthu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cio Gerong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ngele Ngele Besar"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Raja"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cio Dalam"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Usbar Pantai"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tiley Pantai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cio Maloleo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bobula"
+    }
   ]
 }

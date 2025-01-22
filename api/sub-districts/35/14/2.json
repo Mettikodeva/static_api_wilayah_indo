@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ngadirejo",
-    "Blarang",
-    "Kayu Kebek",
-    "Andono Sari",
-    "Wonosari",
-    "Gendro",
-    "Tlogosari",
-    "Tutur",
-    "Pungging",
-    "Kalipucang (Kali Pucang)",
-    "Sumber Pitu",
-    "Ngembal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Blarang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayu Kebek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Andono Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gendro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tlogosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tutur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pungging"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalipucang (Kali Pucang)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Pitu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngembal"
+    }
   ]
 }

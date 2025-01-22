@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mbima Jaya",
-    "Warisa Mulya",
-    "Wonodadi Mulya",
-    "Tomage",
-    "Otoweri",
-    "Wamosan",
-    "Salawier",
-    "Wasa Mulya",
-    "Wammar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mbima Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Warisa Mulya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wonodadi Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tomage"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Otoweri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wamosan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salawier"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wasa Mulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wammar"
+    }
   ]
 }

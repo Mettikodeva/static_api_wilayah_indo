@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Uwebutu",
-    "Epouto",
-    "Tugumo",
-    "Tugu Kagomoma",
-    "Deiyamo",
-    "Miyamo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Uwebutu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Epouto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tugumo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tugu Kagomoma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Deiyamo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Miyamo"
+    }
   ]
 }

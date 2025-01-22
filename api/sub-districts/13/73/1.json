@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Aur Mulio (Air Mulyo / Aurmulyo)",
-    "Kubang Sirakuk/Sirakuak Utara",
-    "Kubang Sirakuk/Sirakuak Selatan",
-    "Pasar",
-    "Tanah Lapang",
-    "Air/Aia Dingin",
-    "Lunto Timur",
-    "Lunto Barat",
-    "Kubang Tangah",
-    "Kubang Utara Sikabu",
-    "Pasa Kubang (Pasar Kubang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Aur Mulio (Air Mulyo / Aurmulyo)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kubang Sirakuk/Sirakuak Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kubang Sirakuk/Sirakuak Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanah Lapang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Air/Aia Dingin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lunto Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lunto Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kubang Tangah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kubang Utara Sikabu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasa Kubang (Pasar Kubang)"
+    }
   ]
 }

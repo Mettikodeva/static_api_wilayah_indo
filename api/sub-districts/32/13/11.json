@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Rancasari",
-    "Rancahilir",
-    "Pamanukan",
-    "Pamanukan Hilir",
-    "Pamanukan Sebrang",
-    "Mulyasari",
-    "Lengkongjaya",
-    "Bongas"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rancasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rancahilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pamanukan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pamanukan Hilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pamanukan Sebrang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lengkongjaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bongas"
+    }
   ]
 }

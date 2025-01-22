@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "8 Ulu",
-    "9-10 Ulu",
-    "15 Ulu",
-    "Silaberanti",
-    "Tuan Kentang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "8 Ulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "9-10 Ulu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "15 Ulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Silaberanti"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tuan Kentang"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Serasan",
-    "Kampung Hilir",
-    "Batu Berlian (Batu Berian)",
-    "Tanjung Setelung",
-    "Tanjung Balau",
-    "Pangkalan",
-    "Jermalik"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Serasan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kampung Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Berlian (Batu Berian)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Setelung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Balau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jermalik"
+    }
   ]
 }

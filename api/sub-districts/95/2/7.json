@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Okyop (Okyob/Okyaop)",
-    "Oketur",
-    "Ehiptem (Ehipten/Ohiptem)",
-    "Wantem (Wanten)",
-    "Dikdon",
-    "Okyako",
-    "Okyaop",
-    "Tatam",
-    "Okhik (Oklip)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Okyop (Okyob/Okyaop)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oketur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ehiptem (Ehipten/Ohiptem)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wantem (Wanten)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dikdon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Okyako"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Okyaop"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tatam"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Okhik (Oklip)"
+    }
   ]
 }

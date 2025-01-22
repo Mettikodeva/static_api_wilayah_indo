@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Klamalu",
-    "Mariyai",
-    "Klasuluk (Klasukuk)",
-    "Klamasen",
-    "Maklalut",
-    "Klaru",
-    "Jamaimo",
-    "Klaben",
-    "Klasan",
-    "Fafi",
-    "Kasih"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Klamalu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mariyai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klasuluk (Klasukuk)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Klamasen"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Maklalut"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Klaru"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Jamaimo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klaben"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klasan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Fafi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kasih"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Koa",
-    "Baad",
-    "Senegi",
-    "Wayau (Wayao/Wajau)",
-    "Kaisah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baad"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Senegi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wayau (Wayao/Wajau)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaisah"
+    }
   ]
 }

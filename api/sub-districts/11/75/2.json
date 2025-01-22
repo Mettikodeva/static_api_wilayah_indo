@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Penanggalan",
-    "Cepu",
-    "Kuta Tengah",
-    "Kampung Baru",
-    "Sikelang",
-    "Penuntungan",
-    "Jontor",
-    "Lae Motong",
-    "Lae Ikan",
-    "Lae Bersih",
-    "Dasan Raja",
-    "Penanggalan Timur",
-    "Penanggalan Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penanggalan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cepu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuta Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sikelang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penuntungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jontor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lae Motong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lae Ikan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lae Bersih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dasan Raja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Penanggalan Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Penanggalan Barat"
+    }
   ]
 }

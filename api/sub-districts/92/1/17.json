@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Indiwi",
-    "Klabot",
-    "Mlat",
-    "Mlawes",
-    "Mlasfa",
-    "Kanolo",
-    "Somir",
-    "Warkti"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Indiwi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klabot"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mlat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mlawes"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mlasfa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kanolo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Somir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Warkti"
+    }
   ]
 }

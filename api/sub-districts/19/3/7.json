@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Batu Betumpang",
-    "Sukajaya",
-    "Panca Tunggal (Trans 3)",
-    "Sumber Jaya Permai (Trans 4)",
-    "Fajar Indah (Trans 1)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Betumpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panca Tunggal (Trans 3)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Jaya Permai (Trans 4)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fajar Indah (Trans 1)"
+    }
   ]
 }

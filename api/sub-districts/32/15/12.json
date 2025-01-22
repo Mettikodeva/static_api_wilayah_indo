@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanjungmekar",
-    "Telagajaya (Talagajaya)",
-    "Telukbuyung",
-    "Tanahbaru",
-    "Solokan",
-    "Tanjungbungin",
-    "Telukjaya",
-    "Tanjungpakis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungmekar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telagajaya (Talagajaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telukbuyung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanahbaru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Solokan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungbungin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Telukjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungpakis"
+    }
   ]
 }

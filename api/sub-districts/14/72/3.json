@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bukit Nenas",
-    "Bukit Kayu Kapur",
-    "Gurun Panjang",
-    "Bagan Besar",
-    "Kampung Baru",
-    "Bagan Besar Timur",
-    "Bukit Kapur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bukit Nenas"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bukit Kayu Kapur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gurun Panjang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bagan Besar"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bagan Besar Timur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bukit Kapur"
+    }
   ]
 }

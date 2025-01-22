@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pilli (Pili)",
-    "Falas (Fallas)",
-    "Oenai",
-    "Belle",
-    "Napi",
-    "Boti",
-    "Fatuulan",
-    "Tesiayofanu (Tesi Ayofanu)",
-    "Oinlasi",
-    "Nekmese",
-    "Eno Napi (Enonapi)",
-    "Fatukusi",
-    "Naile'u"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pilli (Pili)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Falas (Fallas)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oenai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belle"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Napi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Boti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Fatuulan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tesiayofanu (Tesi Ayofanu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Oinlasi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nekmese"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Eno Napi (Enonapi)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Fatukusi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Naile'u"
+    }
   ]
 }

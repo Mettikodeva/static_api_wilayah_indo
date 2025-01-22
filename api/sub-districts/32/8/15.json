@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Selajambe",
-    "Cantilan",
-    "Ciberung",
-    "Kutawaringin",
-    "Jamberama",
-    "Bagawat",
-    "Padahurip"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selajambe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cantilan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciberung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kutawaringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jamberama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bagawat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padahurip"
+    }
   ]
 }

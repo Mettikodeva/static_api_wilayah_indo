@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tumpaan Satu",
-    "Tumpaan",
-    "Matani",
-    "Popontolen",
-    "Lelema",
-    "Tangkunei (Tangkuney)",
-    "Munte",
-    "Tumpaan Baru",
-    "Matani Satu",
-    "Tumpan Dua (Tumpaan Dua)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumpaan Satu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumpaan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Popontolen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lelema"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tangkunei (Tangkuney)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Munte"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tumpaan Baru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Matani Satu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tumpan Dua (Tumpaan Dua)"
+    }
   ]
 }

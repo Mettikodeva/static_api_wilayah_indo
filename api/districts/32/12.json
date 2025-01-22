@@ -1,35 +1,128 @@
 {
   "districts": [
-    "Haurgeulis",
-    "Kroya",
-    "Gabuswetan",
-    "Cikedung",
-    "Lelea",
-    "Bangodua",
-    "Widasari",
-    "Kertasemaya",
-    "Krangkeng",
-    "Karangampel",
-    "Juntinyuat",
-    "Sliyeg",
-    "Jatibarang",
-    "Balongan",
-    "Indramayu",
-    "Sindang",
-    "Cantigi",
-    "Lohbener",
-    "Arahan",
-    "Losarang",
-    "Kandanghaur",
-    "Bongas",
-    "Anjatan",
-    "Sukra",
-    "Gantar",
-    "Terisi (Trisi)",
-    "Sukagumiwang",
-    "Kedokan Bunder",
-    "Pasekan",
-    "Tukdana",
-    "Patrol"
+    {
+      "district_id": 1,
+      "kecamatan": "Haurgeulis"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kroya"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Gabuswetan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Cikedung"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lelea"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bangodua"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Widasari"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kertasemaya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Krangkeng"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Karangampel"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Juntinyuat"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sliyeg"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Jatibarang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Balongan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Indramayu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Sindang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Cantigi"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Lohbener"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Arahan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Losarang"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kandanghaur"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Bongas"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Anjatan"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Sukra"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Gantar"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Terisi (Trisi)"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Sukagumiwang"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Kedokan Bunder"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Pasekan"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Tukdana"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Patrol"
+    }
   ]
 }

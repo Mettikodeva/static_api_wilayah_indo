@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karangsambung (Karang Sambung)",
-    "Waringinjaya (Waringin Jaya)",
-    "Karangmekar (Karang Mekar)",
-    "Mekarjaya (Mekar Jaya)",
-    "Karangharum (Karang Harum)",
-    "Bojongsari",
-    "Kedungwaringin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangsambung (Karang Sambung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waringinjaya (Waringin Jaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangmekar (Karang Mekar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarjaya (Mekar Jaya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangharum (Karang Harum)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedungwaringin"
+    }
   ]
 }

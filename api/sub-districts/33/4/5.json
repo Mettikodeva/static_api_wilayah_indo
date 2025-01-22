@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Wanadri",
-    "Kebondalem",
-    "Majalengka",
-    "Wiramastra",
-    "Kutayasa",
-    "Winong",
-    "Depok",
-    "Watuurip",
-    "Masaran",
-    "Serang",
-    "Mantrianom",
-    "Binorong",
-    "Joho",
-    "Bawang",
-    "Bandingan",
-    "Blambangan",
-    "Gemuruh",
-    "Pucang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanadri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Majalengka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wiramastra"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutayasa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watuurip"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Masaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Serang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mantrianom"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binorong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Joho"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bawang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bandingan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Blambangan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gemuruh"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pucang"
+    }
   ]
 }

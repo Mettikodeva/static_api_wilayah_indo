@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Perean",
-    "Luwus",
-    "Apuan",
-    "Angseri",
-    "Bangli",
-    "Baturiti",
-    "Antapan",
-    "Candikuning",
-    "Mekarsari",
-    "Batunya",
-    "Perean Tengah",
-    "Perean Kangin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perean"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Luwus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Apuan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Angseri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baturiti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Antapan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Candikuning"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batunya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Perean Tengah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Perean Kangin"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Banjar Negara",
-    "Tegal Ratu (Tegalratu)",
-    "Kubangsari",
-    "Gunung Sugih (Gunungsugih)",
-    "Kepuh",
-    "Randakari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Banjar Negara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tegal Ratu (Tegalratu)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kubangsari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gunung Sugih (Gunungsugih)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kepuh"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Randakari"
+    }
   ]
 }

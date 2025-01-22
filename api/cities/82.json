@@ -1,14 +1,44 @@
 {
   "cities": [
-    "Halmahera Barat",
-    "Halmahera Tengah",
-    "Halmahera Utara",
-    "Halmahera Selatan",
-    "Kepulauan Sula",
-    "Halmahera Timur",
-    "Pulau Morotai",
-    "Pulau Taliabu",
-    "Ternate",
-    "Tidore Kepulauan"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Halmahera Barat"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Halmahera Tengah"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Halmahera Utara"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Halmahera Selatan"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Kepulauan Sula"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Halmahera Timur"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Pulau Morotai"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Pulau Taliabu"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Ternate"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Tidore Kepulauan"
+    }
   ]
 }

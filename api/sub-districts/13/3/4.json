@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Muaro",
-    "Kandang Baru",
-    "Silokek",
-    "Pematang Panjang",
-    "Solok Ambah",
-    "Paru",
-    "Durian Gadang",
-    "Aie Angek",
-    "Sijunjung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muaro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kandang Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Silokek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang Panjang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Solok Ambah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Durian Gadang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aie Angek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sijunjung"
+    }
   ]
 }

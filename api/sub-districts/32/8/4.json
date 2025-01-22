@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sumberjaya",
-    "Cilayung",
-    "Ciwaru",
-    "Garajati",
-    "Baok",
-    "Andamui",
-    "Sagaranten",
-    "Citundun",
-    "Lebakherang",
-    "Karangbaru",
-    "Linggajaya",
-    "Citikur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberjaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilayung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciwaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Garajati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Andamui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sagaranten"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Citundun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lebakherang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangbaru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Linggajaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Citikur"
+    }
   ]
 }

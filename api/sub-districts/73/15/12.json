@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kassa",
-    "Batu Lappa (Batulappa)",
-    "Tapporang",
-    "Kaseralau",
-    "Watang Kassa (Mattirowali)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kassa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Lappa (Batulappa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapporang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaseralau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Watang Kassa (Mattirowali)"
+    }
   ]
 }

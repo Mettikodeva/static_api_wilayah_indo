@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Candiroto",
-    "Lempuyang",
-    "Canggal",
-    "Kentengsari",
-    "Ngabeyan (Ngabean)",
-    "Bantir",
-    "Krawitan",
-    "Muntung",
-    "Batursari",
-    "Mento",
-    "Muneng",
-    "Plosogaden",
-    "Sidoharjo",
-    "Gunungpayung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Candiroto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lempuyang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Canggal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kentengsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngabeyan (Ngabean)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bantir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Krawitan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muntung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batursari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mento"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muneng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Plosogaden"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunungpayung"
+    }
   ]
 }

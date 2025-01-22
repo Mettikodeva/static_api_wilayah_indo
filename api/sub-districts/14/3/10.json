@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Batu Panjang",
-    "Pergam",
-    "Terkul",
-    "Tanjungkapal (Tanjung Kapal)",
-    "Sungaicingam (Sei / Sungai Cingam)",
-    "Teluklecah (Teluk Lecah)",
-    "Makeruh",
-    "Hutan Panjang",
-    "Pangkalan Nyirih",
-    "Sukarjo Mesin",
-    "Darul Aman",
-    "Parit Kebumen",
-    "Sri Tanjung",
-    "Pancur Jaya",
-    "Pangkalan Pinang",
-    "Dungun Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batu Panjang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pergam"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Terkul"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjungkapal (Tanjung Kapal)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaicingam (Sei / Sungai Cingam)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluklecah (Teluk Lecah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Makeruh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hutan Panjang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangkalan Nyirih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukarjo Mesin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Darul Aman"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Parit Kebumen"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sri Tanjung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pancur Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pangkalan Pinang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dungun Baru"
+    }
   ]
 }

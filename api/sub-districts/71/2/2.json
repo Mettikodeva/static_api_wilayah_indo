@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Luaan",
-    "Ranowangko",
-    "Wengkol",
-    "Kendis",
-    "Katinggolan",
-    "Liningaan",
-    "Taler",
-    "Kiniar",
-    "Touluor (Toulour)",
-    "Papakelan",
-    "Makalounsow (Makalonsouw)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Luaan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ranowangko"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wengkol"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kendis"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Katinggolan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Liningaan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Taler"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kiniar"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Touluor (Toulour)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Papakelan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Makalounsow (Makalonsouw)"
+    }
   ]
 }

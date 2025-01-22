@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Salassa",
-    "Salulemo",
-    "Radda",
-    "Baebunta",
-    "Tarobok",
-    "Mario",
-    "Sassa",
-    "Kariango",
-    "Melli (Meli)",
-    "Palandan",
-    "Bumi Harapan"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Salassa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salulemo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Radda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baebunta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tarobok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mario"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sassa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kariango"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Melli (Meli)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Palandan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bumi Harapan"
+    }
   ]
 }

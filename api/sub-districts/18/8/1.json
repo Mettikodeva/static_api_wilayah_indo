@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Blambangan Umpu",
-    "Lembasung",
-    "Gunung Sangkaran",
-    "Tanjung Raja Giham",
-    "Segara Mider",
-    "Umpu Bhakti",
-    "Sangkaran Bhakti (Sangkaran Bakti)",
-    "Bumi Baru",
-    "Tanjung Sari",
-    "Sri Rejeki",
-    "Karang Umpu",
-    "Umpu Kencana",
-    "Tanjung Raja Sakti"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Blambangan Umpu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lembasung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Sangkaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Raja Giham"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Segara Mider"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Umpu Bhakti"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sangkaran Bhakti (Sangkaran Bakti)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bumi Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sri Rejeki"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Karang Umpu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Umpu Kencana"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjung Raja Sakti"
+    }
   ]
 }

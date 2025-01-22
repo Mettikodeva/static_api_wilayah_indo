@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Kapal",
-    "Sempidi",
-    "Abianbase",
-    "Sading",
-    "Lukluk",
-    "Munggu",
-    "Buduk",
-    "Mengwitani",
-    "Penarungan",
-    "Sembung",
-    "Baha",
-    "Mengwi",
-    "Kekeran",
-    "Sobangan",
-    "Gulingan",
-    "Werdi Bhuwana",
-    "Cemagi",
-    "Pererenan",
-    "Tumbakbayuh (Tumbak Bayuh)",
-    "Kuwun (Kuwum)"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kapal"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sempidi"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Abianbase"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Sading"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Lukluk"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Munggu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buduk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mengwitani"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penarungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sembung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baha"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mengwi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kekeran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sobangan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gulingan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Werdi Bhuwana"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Cemagi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pererenan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tumbakbayuh (Tumbak Bayuh)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kuwun (Kuwum)"
+    }
   ]
 }

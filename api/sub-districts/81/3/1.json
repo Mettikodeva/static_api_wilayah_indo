@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Saumlaki",
-    "Saumlaki Utara",
-    "Wowonda",
-    "Ilngei",
-    "Kabiarat (Kabiarat Raya)",
-    "Lauran",
-    "Sifnana",
-    "Olilit Raya (Olilit)",
-    "Lermatang",
-    "Latdalam",
-    "Bomaki",
-    "Matakus"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Saumlaki"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Saumlaki Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wowonda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ilngei"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kabiarat (Kabiarat Raya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lauran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sifnana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Olilit Raya (Olilit)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lermatang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Latdalam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bomaki"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Matakus"
+    }
   ]
 }

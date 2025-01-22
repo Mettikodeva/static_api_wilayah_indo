@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Masat",
-    "Tanjung Aur I",
-    "Anggut",
-    "Tanjung Eran",
-    "Padang Lebar",
-    "Gedung Agung",
-    "Batu Bandung",
-    "Ulak Lebar",
-    "Kota Bumi",
-    "Air Umban",
-    "Sebilo",
-    "Ganjuh",
-    "Puding",
-    "Padang Tambak",
-    "Padang Mumpo",
-    "Beringin Datar"
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Masat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Aur I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Anggut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Eran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Lebar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gedung Agung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batu Bandung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ulak Lebar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kota Bumi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Air Umban"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sebilo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ganjuh"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Puding"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Padang Tambak"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Padang Mumpo"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Beringin Datar"
+    }
   ]
 }

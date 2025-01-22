@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Banua Martinus",
-    "Menua Sadap",
-    "Pulau Manak",
-    "Banua Ujung",
-    "Saujung Giling Manik",
-    "Ulak Pauk",
-    "Langan Baru",
-    "Batu Lintang",
-    "Rantau Prapat",
-    "Tamao"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banua Martinus"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Menua Sadap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Manak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banua Ujung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saujung Giling Manik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ulak Pauk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langan Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Lintang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Prapat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tamao"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ratu Sima",
-    "Bukit Timah",
-    "Mekar Sari",
-    "Bukit Datuk",
-    "Bumi Ayu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ratu Sima"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bukit Timah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bukit Datuk"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bumi Ayu"
+    }
   ]
 }

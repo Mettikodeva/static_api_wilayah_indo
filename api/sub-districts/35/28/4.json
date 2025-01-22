@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kangenan",
-    "Patemon",
-    "Bugih",
-    "Jungcang Cang (Jungcangcang)",
-    "Parteker",
-    "Barurambat Kota (Barkot)",
-    "Geladak Anyar (Gladak Anyar)",
-    "Kolpajung",
-    "Kowel",
-    "Panempan",
-    "Laden",
-    "Jalmak",
-    "Tejah/Teja Barat",
-    "Tejah/Teja Timur",
-    "Bettet",
-    "Nyalabu Laok (Nylabu Laok)",
-    "Nyalabu Daja (Nylabu Daya / Daja)",
-    "Toronan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kangenan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bugih"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Jungcang Cang (Jungcangcang)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Parteker"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Barurambat Kota (Barkot)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Geladak Anyar (Gladak Anyar)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kolpajung"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Kowel"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panempan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laden"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jalmak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tejah/Teja Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tejah/Teja Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bettet"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nyalabu Laok (Nylabu Laok)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nyalabu Daja (Nylabu Daya / Daja)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Toronan"
+    }
   ]
 }

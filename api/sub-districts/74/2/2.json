@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Puunaaha",
-    "Tumpas",
-    "Latoma",
-    "Ambekairi",
-    "Arombu",
-    "Asinua",
-    "Wawonggole",
-    "Tuoy",
-    "Unaaha",
-    "Inolobunggadue",
-    "Asambu",
-    "Tobeu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Puunaaha"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tumpas"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Latoma"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ambekairi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Arombu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Asinua"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Wawonggole"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tuoy"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Unaaha"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Inolobunggadue"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Asambu"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tobeu"
+    }
   ]
 }

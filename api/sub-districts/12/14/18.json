@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Bawomataluo",
-    "Orahili Fau",
-    "Bawonahono",
-    "Siwalawa",
-    "Onohondro (Ono Hondro)",
-    "Hilinawalo Fau (Hinawalo Fau)",
-    "Lahusa Fau",
-    "Hilizihono",
-    "Hiliofonaluo",
-    "Bawofanayama",
-    "Hilikara Maha",
-    "Hilisalawa",
-    "Hiligito",
-    "Siliwulawa",
-    "Hilifarokha Lawa (Hilifarokha)",
-    "Eho Orahili",
-    "Ete Batu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bawomataluo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Orahili Fau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bawonahono"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siwalawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Onohondro (Ono Hondro)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilinawalo Fau (Hinawalo Fau)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lahusa Fau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hilizihono"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hiliofonaluo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bawofanayama"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Hilikara Maha"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Hilisalawa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Hiligito"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Siliwulawa"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Hilifarokha Lawa (Hilifarokha)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Eho Orahili"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Ete Batu"
+    }
   ]
 }

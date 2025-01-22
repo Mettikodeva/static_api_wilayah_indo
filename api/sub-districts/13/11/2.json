@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pasir Talang",
-    "Koto Baru",
-    "Sako Pasia Talang",
-    "Pasar Muara Labuh",
-    "Pulakek Koto Baru",
-    "Bomas",
-    "Sako Utara Pasia Talang",
-    "Sako Selatan Pasia Talang",
-    "Pasir Talang Barat",
-    "Pasir Talang Timur",
-    "Pasir Talang Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Talang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sako Pasia Talang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasar Muara Labuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulakek Koto Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bomas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sako Utara Pasia Talang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sako Selatan Pasia Talang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Talang Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasir Talang Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasir Talang Selatan"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Malanu",
-    "Malasilen",
-    "Matalamagi",
-    "Sawagumu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Malanu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Malasilen"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Matalamagi"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sawagumu"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sungsang I",
-    "Sungsang II",
-    "Sungsang III",
-    "Sungsang IV",
-    "Telukpayo (Teluk Payo)",
-    "Tanah Pilih",
-    "Perajen Jaya",
-    "Rimau Sungsang",
-    "Marga Sungsang",
-    "Muara Sungsang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungsang I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungsang II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungsang III"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungsang IV"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Telukpayo (Teluk Payo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanah Pilih"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Perajen Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rimau Sungsang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Marga Sungsang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Muara Sungsang"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Bontonompo",
-    "Bajeng",
-    "Tompobullu (Tompobulu)",
-    "Tinggimoncong",
-    "Parangloe",
-    "Bontomarannu",
-    "Palangga (Pallangga)",
-    "Somba Opu (Upu)",
-    "Bungaya",
-    "Tombolopao (Tombolo Pao)",
-    "Biringbulu",
-    "Barombong",
-    "Pattalasang (Pattallassang)",
-    "Manuju",
-    "Bontolempangang",
-    "Bontonompo Selatan",
-    "Parigi",
-    "Bajeng Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Bontonompo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bajeng"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tompobullu (Tompobulu)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tinggimoncong"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Parangloe"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bontomarannu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Palangga (Pallangga)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Somba Opu (Upu)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bungaya"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tombolopao (Tombolo Pao)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Biringbulu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Barombong"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pattalasang (Pattallassang)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Manuju"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bontolempangang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bontonompo Selatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Parigi"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Bajeng Barat"
+    }
   ]
 }

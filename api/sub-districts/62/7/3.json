@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Telaga Pulang",
-    "Cempaka Baru",
-    "Palingkau",
-    "Ulak Batu",
-    "Paren",
-    "Banua Usang",
-    "Sembuluh I (Satu)",
-    "Sembuluh II (Dua)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Telaga Pulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cempaka Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palingkau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ulak Batu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paren"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banua Usang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sembuluh I (Satu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sembuluh II (Dua)"
+    }
   ]
 }

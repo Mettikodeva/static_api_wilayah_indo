@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Napabalano",
-    "Tampo",
-    "Napalakura",
-    "Pentiro",
-    "Langkumapo",
-    "Lambiku"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Napabalano"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tampo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Napalakura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pentiro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langkumapo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lambiku"
+    }
   ]
 }

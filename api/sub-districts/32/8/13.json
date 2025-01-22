@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bandorasa Wetan",
-    "Bandorasa Kulon",
-    "Linggasana",
-    "Linggarjati",
-    "Bojong",
-    "Cilimus",
-    "Setianegara",
-    "Cibeureum",
-    "Kaliaren",
-    "Sampora",
-    "Caracas",
-    "Linggamekar",
-    "Linggaindah"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandorasa Wetan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandorasa Kulon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Linggasana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Linggarjati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cilimus"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Setianegara"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Cibeureum"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kaliaren"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sampora"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Caracas"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Linggamekar"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Linggaindah"
+    }
   ]
 }

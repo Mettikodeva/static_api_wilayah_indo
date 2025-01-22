@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Panca Marga",
-    "Sido Makmur",
-    "Sakti Jaya",
-    "Margo Mulya",
-    "Margo Dadi",
-    "Marga Sari",
-    "Mulyo Sari",
-    "Toto Katon",
-    "Toto Makmur",
-    "Toto Wonodadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panca Marga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sido Makmur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sakti Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Margo Mulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margo Dadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marga Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulyo Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Toto Katon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Toto Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Toto Wonodadi"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lentong",
-    "Lapahan Buaya",
-    "Butar",
-    "Samar Dua",
-    "Ladang Bisik",
-    "Muara Pea",
-    "Sumber Mukti",
-    "Pea Jambu",
-    "Danau Bungara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lentong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lapahan Buaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Butar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Samar Dua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ladang Bisik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Pea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumber Mukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pea Jambu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Danau Bungara"
+    }
   ]
 }

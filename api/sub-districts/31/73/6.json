@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kalideres",
-    "Semanan",
-    "Tegal Alur",
-    "Kamal",
-    "Pegadungan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kalideres"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Semanan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tegal Alur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kamal"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pegadungan"
+    }
   ]
 }

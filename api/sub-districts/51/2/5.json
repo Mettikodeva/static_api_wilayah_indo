@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sudimara",
-    "Gubug",
-    "Bongan (Boongan)",
-    "Delod Peken",
-    "Dauh Peken",
-    "Dejan Peken (Dajan Peken)",
-    "Denbantas",
-    "Subamia",
-    "Wanasari",
-    "Tunjuk",
-    "Buahan",
-    "Sedandan (Sesandan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sudimara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gubug"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bongan (Boongan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Delod Peken"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dauh Peken"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dejan Peken (Dajan Peken)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Denbantas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Subamia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tunjuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Buahan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sedandan (Sesandan)"
+    }
   ]
 }

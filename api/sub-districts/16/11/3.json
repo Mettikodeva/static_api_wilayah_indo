@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Air Kelincar (Air Kelinsar)",
-    "Talang Bengkulu (Teluk Bengkulu)",
-    "Kunduran",
-    "Simpang Perigi",
-    "Muara Kalangan",
-    "Batu Lintang",
-    "Padang Tepong",
-    "Muara Betung",
-    "Lb. Puding Baru (Lubuk Puding Baru)",
-    "Pulau Kemang",
-    "Lb. Puding Lama (Lubuk Puding Lama)",
-    "Batu Bidung",
-    "Tanjung Agung",
-    "Galang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Kelincar (Air Kelinsar)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Bengkulu (Teluk Bengkulu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kunduran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Perigi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Kalangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu Lintang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padang Tepong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Betung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lb. Puding Baru (Lubuk Puding Baru)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Kemang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lb. Puding Lama (Lubuk Puding Lama)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batu Bidung"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Galang"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mlajah",
-    "Kemayoran",
-    "Pangeranan",
-    "Demangan",
-    "Kraton (Keraton)",
-    "Pejagan (Pajagan)",
-    "Bancaran",
-    "Sembilangan",
-    "Ujung Piring",
-    "Kramat (Keramat)",
-    "Mertajasah (Martajasah)",
-    "Sabiyan",
-    "Gebang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mlajah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kemayoran"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pangeranan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Demangan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kraton (Keraton)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pejagan (Pajagan)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bancaran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sembilangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ujung Piring"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kramat (Keramat)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mertajasah (Martajasah)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sabiyan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gebang"
+    }
   ]
 }

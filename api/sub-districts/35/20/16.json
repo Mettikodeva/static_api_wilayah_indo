@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Selotinatah",
-    "Pendem",
-    "Bangsri",
-    "Selopanggung",
-    "Sumberdukun",
-    "Baleasri",
-    "Balegondo",
-    "Ngariboyo",
-    "Mojopurno",
-    "Banyudono",
-    "Banjarpanjang",
-    "Banjarejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selotinatah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pendem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangsri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selopanggung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberdukun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baleasri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balegondo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngariboyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mojopurno"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banyudono"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banjarpanjang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banjarejo"
+    }
   ]
 }

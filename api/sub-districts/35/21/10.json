@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Gentong",
-    "Babadan",
-    "Semen",
-    "Kedungputri (Kedung Putri)",
-    "Tempuran",
-    "Dawu",
-    "Paron",
-    "Jambangan",
-    "Teguhan",
-    "Sirigan",
-    "Jeblogan",
-    "Ngale",
-    "Gelung",
-    "Kebon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gentong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungputri (Kedung Putri)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dawu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paron"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teguhan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirigan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jeblogan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngale"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gelung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kebon"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Wasior",
-    "Windesi",
-    "Teluk Duairi",
-    "Wondiboy",
-    "Wamesa",
-    "Rumberpon",
-    "Naikere",
-    "Rasiei",
-    "Kuri Wamesa",
-    "Roon",
-    "Roswar",
-    "Nikiwar",
-    "Soug Jaya"
+    {
+      "district_id": 1,
+      "kecamatan": "Wasior"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Windesi"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Teluk Duairi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Wondiboy"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wamesa"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Rumberpon"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Naikere"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Rasiei"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kuri Wamesa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Roon"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Roswar"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Nikiwar"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Soug Jaya"
+    }
   ]
 }

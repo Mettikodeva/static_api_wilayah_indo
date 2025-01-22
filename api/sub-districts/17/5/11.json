@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Rimbo Kedui",
-    "Padang Rambun",
-    "Sido Mulyo",
-    "Sukarami (Suka Rami)",
-    "Tanjung Seru",
-    "Tanjungan",
-    "Pasar Seluma",
-    "Padang Genting",
-    "Sengkuang",
-    "Tangga Batu",
-    "Tanjung Seluai",
-    "Padang Merbau"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rimbo Kedui"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Padang Rambun"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sido Mulyo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukarami (Suka Rami)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Seru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjungan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar Seluma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Genting"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sengkuang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangga Batu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Seluai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang Merbau"
+    }
   ]
 }

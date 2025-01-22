@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Sabangparu",
-    "Pammana",
-    "Takkalalla",
-    "Sajoanging",
-    "Majauleng",
-    "Tempe",
-    "Belawa",
-    "Tanasitolo",
-    "Maniangpajo",
-    "Pitumpanua",
-    "Bola",
-    "Penrang",
-    "Gilireng",
-    "Keera"
+    {
+      "district_id": 1,
+      "kecamatan": "Sabangparu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pammana"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Takkalalla"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sajoanging"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Majauleng"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tempe"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Belawa"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tanasitolo"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Maniangpajo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pitumpanua"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bola"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Penrang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Gilireng"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Keera"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Humbia",
-    "Kisihang",
-    "Bira Kiama (Bira Kimia / Birakiama)",
-    "Buha",
-    "Batumawira",
-    "Birarikei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Humbia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kisihang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bira Kiama (Bira Kimia / Birakiama)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buha"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batumawira"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Birarikei"
+    }
   ]
 }

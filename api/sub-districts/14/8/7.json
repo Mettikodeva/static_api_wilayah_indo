@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kerinci Kanan",
-    "Kerinci Kiri",
-    "Buana Bakti/Bhakti",
-    "Bukit Harapan",
-    "Kumbara Utama",
-    "Bukit Agung",
-    "Simpang Perak Jaya",
-    "Buatan Baru",
-    "Gabung Makmur",
-    "Jati Mulia/Mulya",
-    "Seminai",
-    "Delima Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kerinci Kanan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kerinci Kiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buana Bakti/Bhakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumbara Utama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpang Perak Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buatan Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gabung Makmur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jati Mulia/Mulya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Seminai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Delima Jaya"
+    }
   ]
 }

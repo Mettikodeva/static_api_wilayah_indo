@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lalang Jaya",
-    "Kurnia Jaya",
-    "Padang",
-    "Kelubi",
-    "Lalang",
-    "Baru",
-    "Buku Limau (Pulau Buku Limau)",
-    "Mekar Jaya",
-    "Bentaian Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lalang Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kurnia Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kelubi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buku Limau (Pulau Buku Limau)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bentaian Jaya"
+    }
   ]
 }

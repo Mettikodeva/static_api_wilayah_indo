@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Pallima (Pal Lima)",
-    "Sungaijawi Dalam (Sei / Sungai Jawi Dalam)",
-    "Sungaijawi Luar (Sei / Sungai Jawi Luar)",
-    "Sungaibeliung (Sei / Sungai Beliung)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pallima (Pal Lima)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sungaijawi Dalam (Sei / Sungai Jawi Dalam)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sungaijawi Luar (Sei / Sungai Jawi Luar)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sungaibeliung (Sei / Sungai Beliung)"
+    }
   ]
 }

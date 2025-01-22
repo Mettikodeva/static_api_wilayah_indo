@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Buluri",
-    "Donggala Kodi",
-    "Kabonena",
-    "Silae",
-    "Watusampu",
-    "Tipo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Buluri"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Donggala Kodi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kabonena"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Silae"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Watusampu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tipo"
+    }
   ]
 }

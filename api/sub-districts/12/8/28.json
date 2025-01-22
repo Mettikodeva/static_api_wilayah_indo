@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sinaksak",
-    "Batu Silangit",
-    "Dolok Maraja",
-    "Dolok Ulu",
-    "Nagur Usang",
-    "Dolok Kahean",
-    "Naga Dolok",
-    "Purbasari",
-    "Pematang Dolok Kahean",
-    "Negri Bayu Muslimin (Negeri Bayu Muslimin)",
-    "Dolok Simbolon"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sinaksak"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Silangit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dolok Maraja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dolok Ulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nagur Usang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dolok Kahean"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Naga Dolok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purbasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pematang Dolok Kahean"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Negri Bayu Muslimin (Negeri Bayu Muslimin)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dolok Simbolon"
+    }
   ]
 }

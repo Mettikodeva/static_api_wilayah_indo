@@ -1,54 +1,204 @@
 {
   "sub_districts": [
-    "Lambaro",
-    "Meunasah Manyang Lam Garot (LG)",
-    "Bakoy",
-    "Meunasah Baro",
-    "Meunasah Deyah (Meunasah Dayah)",
-    "Meunasah Tutong (Meunasah Teutong)",
-    "Siron",
-    "Pasie Lamgarot (Pasie LG)",
-    "Dham Ceukok",
-    "Dham Pulo",
-    "Leubok Sukon (Lhok Sukon)",
-    "Lubok Gapuy",
-    "Pasie Lubuk (Pasie Lubok)",
-    "Bueng Ceukok (Bung Ceukok)",
-    "Teubang Phuy (Teubang Phui)",
-    "Ateuk Anggok",
-    "Ajee Rayeuk",
-    "Ajee Cut",
-    "Gani",
-    "Ateuk Lueng Ie",
-    "Cot Alue",
-    "Cot Suruy",
-    "Cot Bada",
-    "Ajee Pagar Air",
-    "Meunasah Krueng",
-    "Jurong Peujera (Jurong Peujeura)",
-    "Lubok Batee (Lubuk Batee)",
-    "Bineh Blang (Bineeh Blang)",
-    "Pantee",
-    "Kalut",
-    "Meunasah Manyang Pagar Air",
-    "Meunasah Manyet",
-    "Santan",
-    "Tanjong",
-    "Reuloh",
-    "Paleuh Blang",
-    "Cot Mentiwan (Cot Montiwan)",
-    "Lampreh Lam Jampok (Lampreh Lam Jamprok)",
-    "Paleuh Pulo",
-    "Lamcot (lam Cot)",
-    "Lamsinyeu (Lam Sinyeu)",
-    "Lam Ue",
-    "Cot Gud (Cot Got)",
-    "Lamdaya",
-    "Lambada",
-    "Ujong XII",
-    "Bada",
-    "Lamteungoh (Lam Teungoh)",
-    "Kayee Lee",
-    "Lampreh Lamteungoh (Lampreh L. Teungoh)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambaro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meunasah Manyang Lam Garot (LG)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bakoy"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meunasah Baro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meunasah Deyah (Meunasah Dayah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Meunasah Tutong (Meunasah Teutong)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Siron"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasie Lamgarot (Pasie LG)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dham Ceukok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dham Pulo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Leubok Sukon (Lhok Sukon)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lubok Gapuy"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasie Lubuk (Pasie Lubok)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bueng Ceukok (Bung Ceukok)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Teubang Phuy (Teubang Phui)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ateuk Anggok"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ajee Rayeuk"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ajee Cut"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Gani"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ateuk Lueng Ie"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cot Alue"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Cot Suruy"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Cot Bada"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ajee Pagar Air"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Meunasah Krueng"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Jurong Peujera (Jurong Peujeura)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Lubok Batee (Lubuk Batee)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bineh Blang (Bineeh Blang)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pantee"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Kalut"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Meunasah Manyang Pagar Air"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Meunasah Manyet"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Santan"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Tanjong"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Reuloh"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Paleuh Blang"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Cot Mentiwan (Cot Montiwan)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Lampreh Lam Jampok (Lampreh Lam Jamprok)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Paleuh Pulo"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Lamcot (lam Cot)"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Lamsinyeu (Lam Sinyeu)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Lam Ue"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Cot Gud (Cot Got)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Lamdaya"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Lambada"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Ujong XII"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Bada"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Lamteungoh (Lam Teungoh)"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Kayee Lee"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Lampreh Lamteungoh (Lampreh L. Teungoh)"
+    }
   ]
 }

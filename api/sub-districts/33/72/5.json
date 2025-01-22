@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Kadipiro",
-    "Nusukan",
-    "Gilingan",
-    "Setabelan",
-    "Kestalan",
-    "Keprabon",
-    "Timuran",
-    "Ketelan",
-    "Punggawan",
-    "Mangkubumen",
-    "Manahan",
-    "Sumber",
-    "Banyuanyar",
-    "Banjarsari",
-    "Joglo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kadipiro"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nusukan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gilingan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Setabelan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kestalan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Keprabon"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Timuran"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Ketelan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Punggawan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mangkubumen"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Manahan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Banyuanyar"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Joglo"
+    }
   ]
 }

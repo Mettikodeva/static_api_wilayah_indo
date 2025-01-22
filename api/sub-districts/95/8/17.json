@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mam",
-    "Pukle",
-    "Wolmbam",
-    "Wanduama",
-    "Yibi",
-    "Lakda",
-    "Yebandui",
-    "Laruid",
-    "Dendamba",
-    "Kibiaren",
-    "Paruarem",
-    "Kibo",
-    "Putdumu",
-    "Darakma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pukle"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wolmbam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanduama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yibi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lakda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yebandui"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Laruid"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dendamba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kibiaren"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Paruarem"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kibo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Putdumu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Darakma"
+    }
   ]
 }

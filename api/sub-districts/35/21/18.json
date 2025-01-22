@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Randusongo",
-    "Widodaren",
-    "Gerih",
-    "Keraskulon (Keras Kulon)",
-    "Guyung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Randusongo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Widodaren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gerih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Keraskulon (Keras Kulon)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Guyung"
+    }
   ]
 }

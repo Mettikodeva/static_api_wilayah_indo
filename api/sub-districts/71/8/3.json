@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Mokoditek (Mookoditek)",
-    "Nunuka (Nunukan)",
-    "Saleo",
-    "Bohabak I",
-    "Bohabak II",
-    "Binjeita",
-    "Biontong",
-    "Biontong I",
-    "Biontong II",
-    "Binuanga",
-    "Bohabak III",
-    "Bohabak IV",
-    "Binjeita I",
-    "Binjeita II",
-    "Mokoditek I (Mookoditek I)",
-    "Lipu Bogu",
-    "Binuni",
-    "Tanjung Labou",
-    "Nagara",
-    "Saleo Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mokoditek (Mookoditek)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nunuka (Nunukan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Saleo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bohabak I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bohabak II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Binjeita"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Biontong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Biontong I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Biontong II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Binuanga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bohabak III"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bohabak IV"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Binjeita I"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Binjeita II"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mokoditek I (Mookoditek I)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lipu Bogu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Binuni"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjung Labou"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Nagara"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Saleo Satu"
+    }
   ]
 }

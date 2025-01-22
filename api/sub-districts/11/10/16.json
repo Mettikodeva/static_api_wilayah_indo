@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Haloban",
-    "Asantola",
-    "Ujung Sialit",
-    "Suka Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Haloban"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asantola"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujung Sialit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Makmur"
+    }
   ]
 }

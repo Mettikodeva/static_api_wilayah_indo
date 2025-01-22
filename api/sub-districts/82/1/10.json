@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jano",
-    "Jangailulu (Jange Lili)",
-    "Baja",
-    "Gam Kahe (Gamkahe)",
-    "Barataku",
-    "Pumadada (Puma Dada)",
-    "Tosomolo",
-    "Bilote",
-    "Bakun Pantai",
-    "Aruku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jangailulu (Jange Lili)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gam Kahe (Gamkahe)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Barataku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pumadada (Puma Dada)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tosomolo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bilote"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bakun Pantai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aruku"
+    }
   ]
 }

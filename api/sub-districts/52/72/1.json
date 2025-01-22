@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Paruga",
-    "Nae",
-    "Sarae",
-    "Tanjung",
-    "Pane",
-    "Dara (Dora)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Paruga"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nae"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sarae"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pane"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Dara (Dora)"
+    }
   ]
 }

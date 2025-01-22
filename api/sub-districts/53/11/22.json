@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lahiru (La Hiru)",
-    "Patamawai",
-    "Wairara",
-    "Praikalala",
-    "Lulundilu (Lujundilu)",
-    "Haray (Harai)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lahiru (La Hiru)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Patamawai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wairara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Praikalala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lulundilu (Lujundilu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Haray (Harai)"
+    }
   ]
 }

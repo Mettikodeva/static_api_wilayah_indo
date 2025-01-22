@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kesek",
-    "Labang",
-    "Jukong",
-    "Pangpong",
-    "Sukolilo Timur",
-    "Sukolilo Barat",
-    "Bringin (Bringen)",
-    "Baengas (Ba'engas)",
-    "Bunajih",
-    "Sendang Laok",
-    "Sendang Daya/Dajah",
-    "Petapan",
-    "Morkepek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kesek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jukong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangpong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukolilo Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukolilo Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bringin (Bringen)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baengas (Ba'engas)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bunajih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sendang Laok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sendang Daya/Dajah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Petapan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Morkepek"
+    }
   ]
 }

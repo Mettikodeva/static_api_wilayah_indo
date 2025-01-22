@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Airgegas (Air Gegas)",
-    "Delas",
-    "Pergam",
-    "Bencah",
-    "Nyelanding",
-    "Nangka",
-    "Ranggas",
-    "Airbara (Air Bara)",
-    "Sidoharjo",
-    "Tepus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Airgegas (Air Gegas)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Delas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pergam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bencah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nyelanding"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nangka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ranggas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Airbara (Air Bara)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tepus"
+    }
   ]
 }

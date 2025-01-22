@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tarusa",
-    "Juru Mapin",
-    "Kalabeso",
-    "Labuhan Burung",
-    "Pulau Kaung",
-    "Buin Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tarusa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Juru Mapin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalabeso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labuhan Burung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Kaung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buin Baru"
+    }
   ]
 }

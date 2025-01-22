@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Rangda Malingkung",
-    "Kupang",
-    "Rantau Kanan",
-    "Rantau Kiwa",
-    "Keramat",
-    "Antasari",
-    "Jingah Babaris",
-    "Banua Hanyar",
-    "Banua Halat Kiri",
-    "Banua Halat Kanan",
-    "Perintis Raya",
-    "Kakaran",
-    "Antasan Hilir (Antasari Hilir)",
-    "Lumbu Raya",
-    "Banua Halar Hulu (Banua Hanyar Hulu)",
-    "Badaun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Rangda Malingkung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kupang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rantau Kanan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rantau Kiwa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keramat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Antasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jingah Babaris"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banua Hanyar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banua Halat Kiri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banua Halat Kanan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Perintis Raya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kakaran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Antasan Hilir (Antasari Hilir)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lumbu Raya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banua Halar Hulu (Banua Hanyar Hulu)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Badaun"
+    }
   ]
 }

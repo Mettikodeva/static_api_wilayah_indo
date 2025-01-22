@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kota Raman",
-    "Raman Aji",
-    "Rukti Sedyo (Rukti Sudiyo)",
-    "Ratna Daya",
-    "Rejo Binangun",
-    "Rantau Fajar",
-    "Raman Endra",
-    "Raman Fajar",
-    "Restu Rahayu",
-    "Rejo Katon",
-    "Rama Puja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kota Raman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Raman Aji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rukti Sedyo (Rukti Sudiyo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ratna Daya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rejo Binangun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Fajar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Raman Endra"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Raman Fajar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Restu Rahayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rejo Katon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rama Puja"
+    }
   ]
 }

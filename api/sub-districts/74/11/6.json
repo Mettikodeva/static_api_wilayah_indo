@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lalolae",
-    "Keisio (Keiso)",
-    "Talodo (Talado)",
-    "Lalosingi",
-    "Wesalo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lalolae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keisio (Keiso)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talodo (Talado)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lalosingi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wesalo"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Janja",
-    "Oyom",
-    "Salugan",
-    "Lampasio",
-    "Tinading",
-    "Sibea",
-    "Maibua",
-    "Mulya Sari (Mulyasari / Mulia Sari)",
-    "Ogomatanang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Janja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oyom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salugan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lampasio"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tinading"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sibea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maibua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mulya Sari (Mulyasari / Mulia Sari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ogomatanang"
+    }
   ]
 }

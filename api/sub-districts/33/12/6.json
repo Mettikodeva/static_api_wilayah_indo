@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kedungrejo",
-    "Beji",
-    "Wonoharjo",
-    "Bulurejo",
-    "Kulurejo",
-    "Semin",
-    "Bumiharjo",
-    "Gebang",
-    "Pondoksari",
-    "Ngadiroyo",
-    "Ngadipiro"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kedungrejo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonoharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bulurejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kulurejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumiharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pondoksari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngadiroyo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ngadipiro"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Batu Mundom (Batu Mundam)",
-    "Hutaimbaru",
-    "Lubuk Kapundung",
-    "Manuncang",
-    "Panunggulan",
-    "Pasar Singkuang I",
-    "Pasar Singkuang II",
-    "Rantau Panjang",
-    "Sikapas",
-    "Tabuyung",
-    "Tagilang Julu",
-    "Sali Baru (Sale Baru)",
-    "Lubuk Kapundung II",
-    "Suka Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Mundom (Batu Mundam)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hutaimbaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Kapundung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manuncang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panunggulan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasar Singkuang I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasar Singkuang II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sikapas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tabuyung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tagilang Julu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sali Baru (Sale Baru)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lubuk Kapundung II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suka Makmur"
+    }
   ]
 }

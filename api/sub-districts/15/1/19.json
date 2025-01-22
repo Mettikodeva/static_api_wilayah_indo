@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Batu Hampar",
-    "Sungairenah (Sungai Renah)",
-    "Bedeng Delapan",
-    "Bedeng Dua",
-    "Sako Duo",
-    "Sungailintang (Sungai Lintang)",
-    "Kebun Baru",
-    "Patok Empat",
-    "Sungaijambu (Sungai Jambu)",
-    "Sungaikering (Sungai Kering)",
-    "Giri Mulyo",
-    "Gununglabu (Gunung Labu)",
-    "Bento",
-    "Kampung Baru",
-    "Sungaiasam (Sungai Asam)",
-    "Pasar Minggu",
-    "Ensatu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Hampar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungairenah (Sungai Renah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bedeng Delapan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bedeng Dua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sako Duo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungailintang (Sungai Lintang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebun Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patok Empat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungaijambu (Sungai Jambu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungaikering (Sungai Kering)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Giri Mulyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gununglabu (Gunung Labu)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bento"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungaiasam (Sungai Asam)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pasar Minggu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ensatu"
+    }
   ]
 }

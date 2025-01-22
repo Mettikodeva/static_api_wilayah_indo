@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Salo",
-    "Siabu",
-    "Salo Timur",
-    "Sipungguk/Sepungguk",
-    "Ganting Damai",
-    "Ganting"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siabu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salo Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sipungguk/Sepungguk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ganting Damai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ganting"
+    }
   ]
 }

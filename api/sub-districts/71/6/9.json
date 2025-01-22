@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Paniki Atas",
-    "Kolongan",
-    "Talawaan",
-    "Mapanget",
-    "Wusa",
-    "Warisa",
-    "Tumbohon",
-    "Winetin",
-    "Patokaan",
-    "Teepwarisa (Teep Warisa)",
-    "Warisa Kampung Baru",
-    "Paniki Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paniki Atas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kolongan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talawaan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mapanget"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wusa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Warisa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbohon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Winetin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Patokaan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teepwarisa (Teep Warisa)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Warisa Kampung Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paniki Baru"
+    }
   ]
 }

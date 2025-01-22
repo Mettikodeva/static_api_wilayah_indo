@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Penengahan",
-    "Suka Jaya (Sukajaya)",
-    "Padang Cermin",
-    "Bayas Jaya",
-    "Tanjung Kerta",
-    "Kota Jawa",
-    "Gunung Sari (Gunungsari)",
-    "Mada Jaya",
-    "Kubu Batu",
-    "Tanjung Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penengahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suka Jaya (Sukajaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Cermin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bayas Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Kerta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Jawa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Sari (Gunungsari)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mada Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kubu Batu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Rejo"
+    }
   ]
 }

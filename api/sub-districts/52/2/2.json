@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Barejulat",
-    "Ubung",
-    "Jelantik",
-    "Labulia",
-    "Batu Tulis (Batutulis)",
-    "Perina",
-    "Pengenjek",
-    "Puyung",
-    "Nyerot",
-    "Sukarara",
-    "Gemel",
-    "Bonjeruk",
-    "Bunkate"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Barejulat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ubung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jelantik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labulia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Tulis (Batutulis)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perina"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pengenjek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Puyung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nyerot"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukarara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gemel"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bonjeruk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bunkate"
+    }
   ]
 }

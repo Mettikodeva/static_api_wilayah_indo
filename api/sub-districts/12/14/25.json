@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mondrowe",
-    "Hilidohona",
-    "Hililaora",
-    "Uluidanoduo",
-    "Umbu Sohahau (Umbu Sohahua)",
-    "Hilisao'oto",
-    "Taluzusua",
-    "Hilizanuwo",
-    "Hoya",
-    "Na'ai",
-    "Olanori"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mondrowe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilidohona"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hililaora"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Uluidanoduo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umbu Sohahau (Umbu Sohahua)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hilisao'oto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taluzusua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hilizanuwo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hoya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Na'ai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Olanori"
+    }
   ]
 }

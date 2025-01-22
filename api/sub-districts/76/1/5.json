@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Dapurang",
-    "Benggaulu",
-    "Tirtabuana (Tirta Buana)",
-    "Bulu Bonggu",
-    "Sarasa (Serasa)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dapurang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benggaulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tirtabuana (Tirta Buana)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulu Bonggu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sarasa (Serasa)"
+    }
   ]
 }

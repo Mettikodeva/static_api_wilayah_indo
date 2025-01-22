@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sentulan",
-    "Gadingkulon (Gading Kulon)",
-    "Klenangkidul (Klenang Kidul)",
-    "Klenanglor (Klenang Lor)",
-    "Alassapi",
-    "Pendil",
-    "Tarokan",
-    "Liprak Wetan",
-    "Liprak Kidul",
-    "Liprak Kulon",
-    "Banyuanyar Tengah",
-    "Banyuanyar Kidul",
-    "Gununggeni (Gunung Geni)",
-    "Blado Wetan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sentulan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gadingkulon (Gading Kulon)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klenangkidul (Klenang Kidul)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klenanglor (Klenang Lor)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alassapi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pendil"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tarokan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Liprak Wetan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Liprak Kidul"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Liprak Kulon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banyuanyar Tengah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banyuanyar Kidul"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gununggeni (Gunung Geni)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Blado Wetan"
+    }
   ]
 }

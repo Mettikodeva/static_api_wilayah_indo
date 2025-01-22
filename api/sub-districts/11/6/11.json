@@ -1,51 +1,192 @@
 {
   "sub_districts": [
-    "Krueng Anoi",
-    "Lam Puuk (Lampuuk)",
-    "Cot Beut",
-    "Bueng Bakjok (Bueng Bak Jok)",
-    "Lam Neuheun",
-    "Seupeu",
-    "Cot Mancang",
-    "Lam Baed (Lam Baet)",
-    "Cot Masam",
-    "Gue",
-    "Lam Sabang",
-    "Lam Alue Raya",
-    "Lam Alue Cut",
-    "Leupung Mesjid",
-    "Cot Lamee (Cot Lamme)",
-    "Leupung Ule Alue (Leupung Ulee Alue)",
-    "Lampoh Tarom",
-    "Lamteube Geupula (Lamteubee Geupula)",
-    "Lamteube Mon Ara (Lamteubee Mon Ara)",
-    "Aron",
-    "Bak Buloh",
-    "Lam Seunong",
-    "Lam Raya",
-    "Lam Roh (Lamroh)",
-    "Lam Bunot Tanoh",
-    "Tumpok Lampoh",
-    "Puuk",
-    "Lam Bunot Paya",
-    "Lampoh Keude (Lampoh Keudee)",
-    "Lam Asan",
-    "Lambro Deyah",
-    "Lambro Bileu",
-    "Cot Peutano",
-    "Cot Cut",
-    "Meunasah Bak Trieng",
-    "Babah Jurong",
-    "Lam Glumpang/Geulumpang",
-    "Rabeu",
-    "Cucum",
-    "Deyah",
-    "Lam Trieng",
-    "Beurangong",
-    "Cot Preh",
-    "Cot Raya",
-    "Cot Yang",
-    "Ujong Blang",
-    "Lamceu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Krueng Anoi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lam Puuk (Lampuuk)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cot Beut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bueng Bakjok (Bueng Bak Jok)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lam Neuheun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seupeu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cot Mancang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lam Baed (Lam Baet)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cot Masam"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gue"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lam Sabang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lam Alue Raya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lam Alue Cut"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Leupung Mesjid"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Cot Lamee (Cot Lamme)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Leupung Ule Alue (Leupung Ulee Alue)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lampoh Tarom"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Lamteube Geupula (Lamteubee Geupula)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Lamteube Mon Ara (Lamteubee Mon Ara)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Aron"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bak Buloh"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Lam Seunong"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Lam Raya"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Lam Roh (Lamroh)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Lam Bunot Tanoh"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Tumpok Lampoh"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Puuk"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Lam Bunot Paya"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Lampoh Keude (Lampoh Keudee)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Lam Asan"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Lambro Deyah"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Lambro Bileu"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Cot Peutano"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Cot Cut"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Meunasah Bak Trieng"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Babah Jurong"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Lam Glumpang/Geulumpang"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Rabeu"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Cucum"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Deyah"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Lam Trieng"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Beurangong"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Cot Preh"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Cot Raya"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Cot Yang"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Ujong Blang"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Lamceu"
+    }
   ]
 }

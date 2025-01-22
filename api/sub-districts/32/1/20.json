@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jagabaya",
-    "Gorowong",
-    "Dago",
-    "Pingku",
-    "Cikuda",
-    "Parungpanjang",
-    "Lumpang",
-    "Cibunar",
-    "Jagabita",
-    "Gintungcilejet (Gintung Cilejet)",
-    "Kabasiran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jagabaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gorowong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dago"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pingku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikuda"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parungpanjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumpang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibunar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jagabita"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gintungcilejet (Gintung Cilejet)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kabasiran"
+    }
   ]
 }

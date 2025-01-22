@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tunas Gain",
-    "Urat",
-    "Sanggram",
-    "Weri",
-    "Kiria Bisa",
-    "Saharei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tunas Gain"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sanggram"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Weri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kiria Bisa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Saharei"
+    }
   ]
 }

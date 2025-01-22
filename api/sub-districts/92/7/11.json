@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Waprak",
-    "Yomber",
-    "Syeiwar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waprak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yomber"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Syeiwar"
+    }
   ]
 }

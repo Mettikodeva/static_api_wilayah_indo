@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Klabra",
-    "Wanurian",
-    "Klarion",
-    "Kaas",
-    "Wensi",
-    "Mumpi",
-    "Klamak",
-    "Serselion",
-    "Kmafo",
-    "Midlal",
-    "Sorain",
-    "Armoin",
-    "Serselion Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klabra"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanurian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klarion"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kaas"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wensi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mumpi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Klamak"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Serselion"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kmafo"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Midlal"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sorain"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Armoin"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Serselion Baru"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sidomulyo",
-    "Puyung",
-    "Joho",
-    "Kembangan",
-    "Pakel",
-    "Pule",
-    "Tanggaran",
-    "Karanganyar",
-    "Jombok",
-    "Sukokidul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Puyung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Joho"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kembangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pakel"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pule"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanggaran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jombok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukokidul"
+    }
   ]
 }

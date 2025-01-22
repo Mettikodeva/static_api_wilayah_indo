@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Tapa",
-    "Kabila",
-    "Suwawa",
-    "Bonepantai",
-    "Bulango Utara",
-    "Tilongkabila",
-    "Botupingge (Botu Pingge)",
-    "Kabila Bone",
-    "Bone",
-    "Bone Raya",
-    "Suwawa Timur",
-    "Suwawa Selatan",
-    "Suwawa Tengah",
-    "Bulango Ulu",
-    "Bulango Selatan",
-    "Bulango Timur",
-    "Bulawa",
-    "Pinogu"
+    {
+      "district_id": 1,
+      "kecamatan": "Tapa"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kabila"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Suwawa"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bonepantai"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bulango Utara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tilongkabila"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Botupingge (Botu Pingge)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kabila Bone"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bone"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bone Raya"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Suwawa Timur"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Suwawa Selatan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Suwawa Tengah"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bulango Ulu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bulango Selatan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bulango Timur"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bulawa"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Pinogu"
+    }
   ]
 }

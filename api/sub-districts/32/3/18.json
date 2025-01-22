@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pagelaran",
-    "Pangadegan",
-    "Gelaranyar",
-    "Buniwangi",
-    "Sindangkerta",
-    "Pasirbaru",
-    "Bunijaya",
-    "Situhiang",
-    "Mekarsari",
-    "Kertaraharja",
-    "Selagedang",
-    "Padamaju",
-    "Karangharja",
-    "Sukamaju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagelaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangadegan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gelaranyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buniwangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindangkerta"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasirbaru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bunijaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Situhiang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kertaraharja"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Selagedang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Padamaju"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangharja"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sukamaju"
+    }
   ]
 }

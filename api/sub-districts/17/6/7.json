@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Arga Jaya",
-    "Air Rami",
-    "Rami Mulya (Rami Mulia)",
-    "Talang Rio",
-    "Makmur Jaya",
-    "Marga Mulia",
-    "Mekar Jaya",
-    "Dusun Pulau",
-    "Bukit Harapan",
-    "Tirta Kencana",
-    "Cinta Asih",
-    "Bukit Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arga Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Rami"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rami Mulya (Rami Mulia)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Rio"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makmur Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marga Mulia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dusun Pulau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tirta Kencana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cinta Asih"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Mulya"
+    }
   ]
 }

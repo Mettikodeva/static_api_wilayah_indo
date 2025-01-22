@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Beras Basah",
-    "Bukit Jengkol",
-    "Alur Cempedak",
-    "Sei/Sungai Siur",
-    "Tanjung Pasar (Tanjung Pasir)",
-    "Paya Tampak",
-    "Pintu Air",
-    "Sei/Sungai Meran",
-    "Pulau Sembilan",
-    "Pulau Kampai",
-    "Pangkalan Siata"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Beras Basah"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Bukit Jengkol"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alur Cempedak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Siur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Pasar (Tanjung Pasir)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paya Tampak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pintu Air"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Meran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulau Sembilan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulau Kampai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pangkalan Siata"
+    }
   ]
 }

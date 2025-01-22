@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Puguk",
-    "Talang Rami",
-    "Talang Beringin",
-    "Pandan",
-    "Selingsingan",
-    "Simpang",
-    "Sekalak",
-    "Lubuk Resam",
-    "Sinar Pagi",
-    "Talang Empat"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Puguk"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talang Rami"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Beringin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pandan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Selingsingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sekalak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Resam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinar Pagi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Empat"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lambara",
-    "Sibalaya Selatan",
-    "Sibalaya Utara",
-    "Sibowi",
-    "Sibalaya Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sibalaya Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sibalaya Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sibowi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sibalaya Barat"
+    }
   ]
 }

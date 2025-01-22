@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nginamanu",
-    "Denatana",
-    "Mainai",
-    "Turaloa",
-    "Nginamanu Selatan",
-    "Nginamanu Barat",
-    "Wue",
-    "Denatana Timur",
-    "Larilaki",
-    "Mulumese",
-    "Turaloa Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nginamanu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Denatana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mainai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Turaloa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nginamanu Selatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nginamanu Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wue"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Denatana Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Larilaki"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulumese"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Turaloa Timur"
+    }
   ]
 }

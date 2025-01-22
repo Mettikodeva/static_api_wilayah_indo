@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Porong",
-    "Juwetkenongo (Juwet Kenongo)",
-    "Gedang",
-    "Kebonagung",
-    "Kedungsolo",
-    "Kesambi",
-    "Kebakalan",
-    "Lajuk",
-    "Kedungboto",
-    "Candipari",
-    "Pamotan",
-    "Glagahharum (Glagah Arum)",
-    "Plumbon",
-    "Wunut",
-    "Pesawahan"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Porong"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Juwetkenongo (Juwet Kenongo)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gedang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungsolo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kesambi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kebakalan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lajuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedungboto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Candipari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pamotan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Glagahharum (Glagah Arum)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Plumbon"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wunut"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pesawahan"
+    }
   ]
 }

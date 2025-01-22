@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Benuamelayu Laut (Benua Melayu Laut)",
-    "Benuamelayu Darat (Benua Melayu Darat)",
-    "Parittokaya (Parit Tokaya)",
-    "Kotabaru (Kota Baru)",
-    "Akcaya"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Benuamelayu Laut (Benua Melayu Laut)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Benuamelayu Darat (Benua Melayu Darat)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Parittokaya (Parit Tokaya)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kotabaru (Kota Baru)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Akcaya"
+    }
   ]
 }

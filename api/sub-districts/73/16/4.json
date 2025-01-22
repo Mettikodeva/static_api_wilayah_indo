@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Lakawan",
-    "Tanete",
-    "Mataran",
-    "Bamba Puang",
-    "Siambo",
-    "Mampu",
-    "Pekalobean",
-    "Singki",
-    "Salu Dewata",
-    "Tindalun (Tindallun)",
-    "Bubun Lamba",
-    "Tampo",
-    "Batunoni (Batu Noni)",
-    "Saruran",
-    "Mendatte (Mandatte)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lakawan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanete"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mataran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bamba Puang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siambo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mampu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pekalobean"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Singki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Salu Dewata"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tindalun (Tindallun)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bubun Lamba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tampo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batunoni (Batu Noni)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Saruran"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mendatte (Mandatte)"
+    }
   ]
 }

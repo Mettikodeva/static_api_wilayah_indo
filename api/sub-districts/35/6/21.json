@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kuwik",
-    "Balongjeruk (Balung Jeruk)",
-    "Kapas",
-    "Klepek",
-    "Kunjang",
-    "Kapi",
-    "Tengger Lor (Tenggerlor)",
-    "Wonorejo",
-    "Dungus",
-    "Juwet",
-    "Pakis",
-    "Parelor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuwik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balongjeruk (Balung Jeruk)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kapas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klepek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kunjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kapi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tengger Lor (Tenggerlor)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dungus"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Juwet"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pakis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Parelor"
+    }
   ]
 }

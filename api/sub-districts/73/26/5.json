@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tullang' Sura (Tallang Sura')",
-    "Tongkonan Bassae (Tongkonan Basse)",
-    "Sapan Kua Kua",
-    "Rindingkila'",
-    "Misa'ba'bana (Misa Ba'Bana)",
-    "Issong Kalua'"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tullang' Sura (Tallang Sura')"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tongkonan Bassae (Tongkonan Basse)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sapan Kua Kua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rindingkila'"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Misa'ba'bana (Misa Ba'Bana)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Issong Kalua'"
+    }
   ]
 }

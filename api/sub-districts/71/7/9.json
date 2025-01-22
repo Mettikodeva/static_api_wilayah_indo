@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Molompar",
-    "Molompar Satu",
-    "Molompar Atas",
-    "Molompar Dua",
-    "Molompar Dua Utara",
-    "Molompar Dua Selatan",
-    "Mundung",
-    "Mundung Satu",
-    "Esandom",
-    "Esandom Satu",
-    "Esandom Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Molompar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Molompar Satu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Molompar Atas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Molompar Dua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Molompar Dua Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Molompar Dua Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mundung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mundung Satu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Esandom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Esandom Satu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Esandom Dua"
+    }
   ]
 }

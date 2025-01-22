@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Teluk Dalem Ilir",
-    "Rekso Binangun",
-    "Rukti Basuki",
-    "Restu Baru",
-    "Restu Buana",
-    "Reno Basuki",
-    "Bina Karya Putra (Binakarya Putra)",
-    "Bina Karya Buana",
-    "Bina Karya mandiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Dalem Ilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rekso Binangun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rukti Basuki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Restu Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Restu Buana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Reno Basuki"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bina Karya Putra (Binakarya Putra)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bina Karya Buana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bina Karya mandiri"
+    }
   ]
 }

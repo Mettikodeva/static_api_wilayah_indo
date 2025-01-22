@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jrebeng Kidul",
-    "Pakistaji",
-    "Kedunggaleng",
-    "Kedung Asem (Kedungasem)",
-    "Sumber Taman",
-    "Wonoasih"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jrebeng Kidul"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pakistaji"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedunggaleng"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kedung Asem (Kedungasem)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sumber Taman"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wonoasih"
+    }
   ]
 }

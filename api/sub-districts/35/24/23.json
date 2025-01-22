@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Wonokromo",
-    "Soko",
-    "Guminingrejo",
-    "Bakalanpule",
-    "Takeranklating",
-    "Kelorarum",
-    "Jotosanur",
-    "Pengumbulanadi",
-    "Jatirejo",
-    "Dukuhagung",
-    "Tambakrigadung",
-    "Botoputih",
-    "Balongwangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonokromo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Guminingrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bakalanpule"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Takeranklating"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelorarum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jotosanur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pengumbulanadi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dukuhagung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambakrigadung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Botoputih"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Balongwangi"
+    }
   ]
 }

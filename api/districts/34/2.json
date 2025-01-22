@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Srandakan",
-    "Sanden",
-    "Kretek",
-    "Pundong",
-    "Bambanglipuro (Bambang Lipuro)",
-    "Pandak",
-    "Pajangan",
-    "Bantul",
-    "Jetis",
-    "Imogiri",
-    "Dlingo",
-    "Banguntapan",
-    "Pleret",
-    "Piyungan",
-    "Sewon",
-    "Kasihan",
-    "Sedayu"
+    {
+      "district_id": 1,
+      "kecamatan": "Srandakan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sanden"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kretek"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pundong"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bambanglipuro (Bambang Lipuro)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pandak"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pajangan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bantul"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Jetis"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Imogiri"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Dlingo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Banguntapan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pleret"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Piyungan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sewon"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kasihan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sedayu"
+    }
   ]
 }

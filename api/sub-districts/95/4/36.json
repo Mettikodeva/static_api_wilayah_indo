@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Anawi",
-    "Yalipura",
-    "Kotori",
-    "Bieleme",
-    "Yalokobak",
-    "Linggira",
-    "Aridunda",
-    "Loguk",
-    "Imurik",
-    "Gineri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Anawi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yalipura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kotori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bieleme"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yalokobak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Linggira"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aridunda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Loguk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Imurik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gineri"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bulila",
-    "Mongolato",
-    "Luhu",
-    "Hulawa",
-    "Pilohayanga",
-    "Dulamayo Selatan",
-    "Dulamayo Barat",
-    "Dulohupa",
-    "Pilohayanga Barat"
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bulila"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mongolato"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Luhu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hulawa"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pilohayanga"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dulamayo Selatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dulamayo Barat"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Dulohupa"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pilohayanga Barat"
+    }
   ]
 }

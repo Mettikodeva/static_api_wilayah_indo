@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pulau Rengas",
-    "Biuku Tanjung",
-    "Bedeng Rejo",
-    "Sungai Putih",
-    "Bukit Beringin",
-    "Pulau Rengas Ulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Rengas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Biuku Tanjung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bedeng Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Putih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukit Beringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulau Rengas Ulu"
+    }
   ]
 }

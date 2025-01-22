@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tanjung Harta",
-    "Ogan Lima",
-    "Hujan Mas",
-    "Simpang Abung/Agung",
-    "Bumi Nabung",
-    "Kemplas/Kamplas",
-    "Kistang",
-    "Cahaya Negeri",
-    "Lepang Besar",
-    "Pengaringan",
-    "Gunung Betuah",
-    "Way Wakak",
-    "Pematang Kasih",
-    "Bumi Mandiri"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Harta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ogan Lima"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hujan Mas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpang Abung/Agung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumi Nabung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kemplas/Kamplas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kistang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cahaya Negeri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lepang Besar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pengaringan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gunung Betuah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Way Wakak"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pematang Kasih"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bumi Mandiri"
+    }
   ]
 }

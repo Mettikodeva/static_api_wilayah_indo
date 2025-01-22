@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Patimpeng",
-    "Latellang",
-    "Maddenreng Pulu",
-    "Masago",
-    "Batu Lappa (Batulappa)",
-    "Paccing",
-    "Massila",
-    "Talabangi",
-    "Pationgi",
-    "Bulu Ulaweng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Patimpeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Latellang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maddenreng Pulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Masago"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Lappa (Batulappa)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paccing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Massila"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talabangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pationgi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bulu Ulaweng"
+    }
   ]
 }

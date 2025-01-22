@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dadapan",
-    "Tebluru",
-    "Sugihan",
-    "Tenggulun",
-    "Payaman",
-    "Solokuro",
-    "Takerharjo",
-    "Dagan",
-    "Banyubang",
-    "Bluri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dadapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebluru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sugihan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tenggulun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Payaman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Solokuro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Takerharjo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dagan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banyubang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bluri"
+    }
   ]
 }

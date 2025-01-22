@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Gumpang",
-    "Marpunge Gabungan (Marpunge)",
-    "Ramung Musara",
-    "Meloak Sepakat",
-    "Kutelengat Sepakat",
-    "Singah Mulo",
-    "Uning Pune",
-    "Gumpang Lempuh",
-    "Putri Betung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gumpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marpunge Gabungan (Marpunge)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ramung Musara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meloak Sepakat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutelengat Sepakat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Singah Mulo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uning Pune"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gumpang Lempuh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Putri Betung"
+    }
   ]
 }

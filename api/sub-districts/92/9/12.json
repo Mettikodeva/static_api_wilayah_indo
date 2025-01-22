@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Arfu",
-    "Bawey",
-    "Wasnembri",
-    "Waru",
-    "Atori",
-    "Meriambeker",
-    "Warokon",
-    "Arekon",
-    "Bonpaya",
-    "Marbuan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arfu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bawey"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wasnembri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Atori"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Meriambeker"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Warokon"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Arekon"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bonpaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Marbuan"
+    }
   ]
 }

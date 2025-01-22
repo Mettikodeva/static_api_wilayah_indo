@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Fatumonas",
-    "Binafun",
-    "Bitobe",
-    "Bonmuti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fatumonas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Binafun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bitobe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bonmuti"
+    }
   ]
 }

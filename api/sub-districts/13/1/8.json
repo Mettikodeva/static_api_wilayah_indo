@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Taratak",
-    "Surantih",
-    "Amping Parak",
-    "Amping Parak Timur",
-    "Koto Taratak",
-    "Lansano Taratak",
-    "Aur Duri Surantih",
-    "Rawang Gunung Malelo Surantih",
-    "Koto Nan Tigo Selatan Surantih",
-    "Koto Nan Tigo Utara Surantih",
-    "Ganting Mudiak Selatan Surantih",
-    "Ganting Mudiak Utara Surantih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taratak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Surantih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amping Parak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amping Parak Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Taratak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lansano Taratak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aur Duri Surantih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rawang Gunung Malelo Surantih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Koto Nan Tigo Selatan Surantih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Nan Tigo Utara Surantih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ganting Mudiak Selatan Surantih"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ganting Mudiak Utara Surantih"
+    }
   ]
 }

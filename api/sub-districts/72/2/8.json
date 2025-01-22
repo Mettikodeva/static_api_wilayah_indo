@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Hangira (Hanggira)",
-    "Lempe",
-    "Doda",
-    "Bariri",
-    "Torire",
-    "Katu",
-    "Rompo",
-    "Baleura (Baliura)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hangira (Hanggira)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lempe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Doda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bariri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Torire"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Katu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rompo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baleura (Baliura)"
+    }
   ]
 }

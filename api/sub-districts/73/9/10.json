@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Laiya",
-    "Labuaja",
-    "Limapoccoe",
-    "Lebbotengngae",
-    "Rompegading (Rompe Gading)",
-    "Baji Pa'mai",
-    "Cenrana Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Laiya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuaja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Limapoccoe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lebbotengngae"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rompegading (Rompe Gading)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baji Pa'mai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cenrana Baru"
+    }
   ]
 }

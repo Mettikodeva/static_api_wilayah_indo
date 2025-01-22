@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bahoea Reko Reko",
-    "Wosu",
-    "Larobenu",
-    "Umpanga",
-    "Tondo",
-    "Topogaro (Tofogaro)",
-    "Ambunu",
-    "Wata",
-    "Uedago",
-    "Marga Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bahoea Reko Reko"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wosu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Larobenu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Umpanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tondo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Topogaro (Tofogaro)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ambunu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wata"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Uedago"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Marga Mulya"
+    }
   ]
 }

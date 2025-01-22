@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanggungkramat (Tanggung Kramat)",
-    "Rejoagung",
-    "Losari",
-    "Ploso",
-    "Jatigedong",
-    "Daditunggal (Dadi Tunggal)",
-    "Gedungombo (Gedongombo)",
-    "Jatibanjar",
-    "Pagertanjung (Pager Tanjung)",
-    "Pandanblole (Pandan Blole)",
-    "Kedungdowo",
-    "Kebonagung (Kebon Agung)",
-    "Bawangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanggungkramat (Tanggung Kramat)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rejoagung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Losari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ploso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatigedong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Daditunggal (Dadi Tunggal)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedungombo (Gedongombo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatibanjar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pagertanjung (Pager Tanjung)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pandanblole (Pandan Blole)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedungdowo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kebonagung (Kebon Agung)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bawangan"
+    }
   ]
 }

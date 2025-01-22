@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lansek Kadok",
-    "Lubuak Layang",
-    "Tanjung Betung",
-    "Lansek Kadok Barat",
-    "Tanjung Betung Utara",
-    "Tanjung Betung Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lansek Kadok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuak Layang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Betung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lansek Kadok Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Betung Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Betung Timur"
+    }
   ]
 }

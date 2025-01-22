@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sungai Gambir Sako Tapan (Sungaigambir)",
-    "Limau Purut Tapan",
-    "Talang Balarik Tapan",
-    "Tebing Tinggi Tapan",
-    "Binjai Tapan",
-    "Sungai Pinang Tapan (Sungaipinang Tapan)",
-    "Talang Koto Pulai Tapan",
-    "Kampung Tengah Tapan",
-    "Kubu Tapan (Kobu Tapan)",
-    "Simpang Gunung Tapan (Simpanggunung Tapan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Gambir Sako Tapan (Sungaigambir)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Limau Purut Tapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Balarik Tapan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tebing Tinggi Tapan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binjai Tapan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Pinang Tapan (Sungaipinang Tapan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Koto Pulai Tapan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampung Tengah Tapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kubu Tapan (Kobu Tapan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Gunung Tapan (Simpanggunung Tapan)"
+    }
   ]
 }

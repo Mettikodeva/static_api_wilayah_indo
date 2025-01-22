@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sungai Aua (Sungai Aur)",
-    "Salingka Muaro",
-    "Ranah Malintang",
-    "Ranah Air Haji",
-    "Kasikputih Sungaitanang",
-    "Aua Serumpun",
-    "Sikilang Sungai Aur Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Aua (Sungai Aur)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salingka Muaro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ranah Malintang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranah Air Haji"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kasikputih Sungaitanang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aua Serumpun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sikilang Sungai Aur Selatan"
+    }
   ]
 }

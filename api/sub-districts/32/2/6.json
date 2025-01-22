@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Cikidang",
-    "Cikiray",
-    "Gunungmalang",
-    "Pangkalan",
-    "Cicareuh",
-    "Taman Sari",
-    "Bumi Sari",
-    "Sampora",
-    "Nangkakoneng",
-    "Mekarnangka",
-    "Cijambe",
-    "Cikarae Thoyyibah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikidang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikiray"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunungmalang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cicareuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taman Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bumi Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sampora"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nangkakoneng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarnangka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cijambe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cikarae Thoyyibah"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Teluk Singkawang",
-    "Lembak Bungur",
-    "Teluk Langkap",
-    "Tambun Arang",
-    "Punti Kalo (Puntikalo)",
-    "Jati Belarik",
-    "Tuo Sumay",
-    "Teriti",
-    "Suo Suo",
-    "Muara Sekalo",
-    "Semambu (Desa Semambu)",
-    "Pemayungan (Pemayongan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Singkawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lembak Bungur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Langkap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambun Arang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Punti Kalo (Puntikalo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jati Belarik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tuo Sumay"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teriti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suo Suo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara Sekalo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Semambu (Desa Semambu)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pemayungan (Pemayongan)"
+    }
   ]
 }

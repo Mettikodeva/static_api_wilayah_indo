@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Batui",
-    "Bunta",
-    "Kintom",
-    "Luwuk",
-    "Lamala",
-    "Balantak",
-    "Pagimana",
-    "Bualemo (Boalemo)",
-    "Toili",
-    "Masama",
-    "Luwuk Timur",
-    "Toili Barat",
-    "Nuhon",
-    "Moilong",
-    "Batui Selatan",
-    "Lobu",
-    "Simpang Raya",
-    "Balantak Selatan",
-    "Balantak Utara",
-    "Luwuk Selatan",
-    "Luwuk Utara",
-    "Mantoh",
-    "Nambo"
+    {
+      "district_id": 1,
+      "kecamatan": "Batui"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bunta"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kintom"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Luwuk"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lamala"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Balantak"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pagimana"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bualemo (Boalemo)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Toili"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Masama"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Luwuk Timur"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Toili Barat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Nuhon"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Moilong"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Batui Selatan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Lobu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Simpang Raya"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Balantak Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Balantak Utara"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Luwuk Selatan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Luwuk Utara"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Mantoh"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Nambo"
+    }
   ]
 }

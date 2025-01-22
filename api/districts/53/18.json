@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Loura",
-    "Wewewa Utara",
-    "Wewewa Timur",
-    "Wewewa Barat",
-    "Wewewa Selatan",
-    "Kodi Bangedo",
-    "Kodi",
-    "Kodi Utara",
-    "Kota Tambolaka",
-    "Wewewa Tengah",
-    "Kodi Balaghar"
+    {
+      "district_id": 1,
+      "kecamatan": "Loura"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Wewewa Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wewewa Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Wewewa Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wewewa Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kodi Bangedo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kodi"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kodi Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kota Tambolaka"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Wewewa Tengah"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kodi Balaghar"
+    }
   ]
 }

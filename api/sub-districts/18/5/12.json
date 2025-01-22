@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Yudha Karya Jitu",
-    "Gedung Karya Jitu",
-    "Hargo Rejo",
-    "Wono Agung",
-    "Karya Jitu Mukti",
-    "Bumi Ratu",
-    "Medasari (Meda Sari)",
-    "Hargo Mulyo",
-    "Karya Cipta Abadi"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yudha Karya Jitu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gedung Karya Jitu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hargo Rejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wono Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Jitu Mukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumi Ratu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Medasari (Meda Sari)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hargo Mulyo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karya Cipta Abadi"
+    }
   ]
 }

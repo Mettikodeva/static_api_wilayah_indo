@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tiga Pulau",
-    "Popolii",
-    "Dolong B",
-    "Tutung",
-    "Dolong A",
-    "Luok",
-    "Kolami",
-    "Olilan",
-    "Loe"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tiga Pulau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Popolii"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dolong B"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tutung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dolong A"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Luok"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kolami"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Olilan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Loe"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tambarangan",
-    "Tatakan",
-    "Suato Tatakan",
-    "Sawang",
-    "Lawahan",
-    "Timbaan",
-    "Rumintin",
-    "Cempaka",
-    "Harapan Masa",
-    "Tandui",
-    "Hatiwin"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tambarangan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tatakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suato Tatakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lawahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timbaan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rumintin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Harapan Masa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tandui"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Hatiwin"
+    }
   ]
 }

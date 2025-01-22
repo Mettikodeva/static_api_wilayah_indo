@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Gunung Puyuh (Gunungpuyuh)",
-    "Cikole",
-    "Citamiang",
-    "Warudoyong",
-    "Baros",
-    "Lembursitu",
-    "Cibeureum"
+    {
+      "district_id": 1,
+      "kecamatan": "Gunung Puyuh (Gunungpuyuh)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Cikole"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Citamiang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Warudoyong"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Baros"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lembursitu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Cibeureum"
+    }
   ]
 }

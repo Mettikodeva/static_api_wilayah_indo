@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Buk",
-    "Mlakhan",
-    "Klais",
-    "Mimpe",
-    "Tiklen",
-    "Klahen",
-    "Moos"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mlakhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klais"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mimpe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tiklen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klahen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Moos"
+    }
   ]
 }

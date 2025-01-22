@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Samabusa",
-    "Waharia",
-    "Kimi",
-    "Lani",
-    "Air Mandidi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Samabusa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waharia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kimi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lani"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Mandidi"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kota Ndora",
-    "Rana Loba",
-    "Satar Peot",
-    "Nanga Labang",
-    "Gurung Liwut",
-    "Benteng Riwu",
-    "Ngampang Mas",
-    "Rana Masak",
-    "Benteng Raja",
-    "Golo Lalong",
-    "Golo Kantar",
-    "Poco Rii",
-    "Balus Permai",
-    "Waling",
-    "Golo Leda",
-    "Compang Tenda",
-    "Bangka Kantar",
-    "Compang Ndejing"
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Kota Ndora"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Rana Loba"
+    },
+    {
+      "sub_district_id": 1039,
+      "desa_kelurahan": "Satar Peot"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Labang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gurung Liwut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benteng Riwu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngampang Mas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rana Masak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Benteng Raja"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Golo Lalong"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Golo Kantar"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Poco Rii"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Balus Permai"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Waling"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Golo Leda"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Compang Tenda"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Bangka Kantar"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Compang Ndejing"
+    }
   ]
 }

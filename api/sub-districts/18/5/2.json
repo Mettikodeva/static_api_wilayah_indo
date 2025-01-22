@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Menggala Selatan",
-    "Ujung Gunung Ilir",
-    "Menggala Tengah",
-    "Menggala Kota",
-    "Bujung Tenuk",
-    "Ujung Gunung Ilir",
-    "Astra Ksetra (Astra Kesetra)",
-    "Kagungan Rahayu",
-    "Tiuh Tohou (Tiuh Toho)"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Menggala Selatan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ujung Gunung Ilir"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Menggala Tengah"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Menggala Kota"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bujung Tenuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujung Gunung Ilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Astra Ksetra (Astra Kesetra)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kagungan Rahayu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tiuh Tohou (Tiuh Toho)"
+    }
   ]
 }

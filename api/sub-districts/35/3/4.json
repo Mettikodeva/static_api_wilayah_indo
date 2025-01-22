@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cakul",
-    "Siki",
-    "Watuagung",
-    "Pandean",
-    "Petung",
-    "Salamwates",
-    "Dongko",
-    "Sumberbening",
-    "Ngerdani",
-    "Pringapus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cakul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Watuagung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pandean"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Petung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salamwates"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dongko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberbening"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngerdani"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pringapus"
+    }
   ]
 }

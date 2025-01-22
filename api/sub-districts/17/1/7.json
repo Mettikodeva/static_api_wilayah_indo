@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Karang Caya",
-    "Betungan",
-    "Pagar Banyu",
-    "Nanjungan",
-    "Suka Rami (Sukarami I)",
-    "Padang Bindu",
-    "Penindaian",
-    "Limus",
-    "Sukaraja (Suka Raja)",
-    "Lubuk Ladung",
-    "Air Sulau",
-    "Suka Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karang Caya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Banyu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nanjungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Rami (Sukarami I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padang Bindu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penindaian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Limus"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukaraja (Suka Raja)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubuk Ladung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Air Sulau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Jaya"
+    }
   ]
 }

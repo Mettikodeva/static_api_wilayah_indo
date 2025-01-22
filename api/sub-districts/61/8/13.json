@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sompak",
-    "Pauh",
-    "Lingkonong",
-    "Galar",
-    "Amawakng (Ambawang)",
-    "Tapakng (Tapanking / Tapang)",
-    "Pakumbang (Pak Kumbang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sompak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pauh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lingkonong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Galar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Amawakng (Ambawang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tapakng (Tapanking / Tapang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakumbang (Pak Kumbang)"
+    }
   ]
 }

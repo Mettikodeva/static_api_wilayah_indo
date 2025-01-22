@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Candi",
-    "Jadung",
-    "Romben Barat",
-    "Romben Rana",
-    "Romben Guna",
-    "Taman Sare (Tamansare)",
-    "Bicabbi (Bicabi)",
-    "Dungkek",
-    "Bunpenang",
-    "Bungin Bungin",
-    "Lapa Taman",
-    "Lapa Laok",
-    "Lapa Daya",
-    "Bancamara",
-    "Banraas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jadung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Romben Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Romben Rana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Romben Guna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taman Sare (Tamansare)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bicabbi (Bicabi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dungkek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bunpenang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bungin Bungin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lapa Taman"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lapa Laok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lapa Daya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bancamara"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banraas"
+    }
   ]
 }

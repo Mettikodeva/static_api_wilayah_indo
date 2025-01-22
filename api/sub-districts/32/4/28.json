@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Rancaekek Kencana",
-    "Rancaekek Wetan",
-    "Rancaekek Kulon",
-    "Bojongsalam",
-    "Bojongloa",
-    "Jelegong",
-    "Linggar",
-    "Cangkuang",
-    "Haurpugur",
-    "Sukamanah",
-    "Sukamulya",
-    "Tegal Sumedang",
-    "Sangiang",
-    "Nanjung Mekar (Nanjungmekar)"
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Rancaekek Kencana"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rancaekek Wetan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rancaekek Kulon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongsalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojongloa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jelegong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Linggar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cangkuang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Haurpugur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tegal Sumedang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sangiang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nanjung Mekar (Nanjungmekar)"
+    }
   ]
 }

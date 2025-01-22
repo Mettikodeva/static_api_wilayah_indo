@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Selat",
-    "Kapuas Hilir",
-    "Kapuas Timur",
-    "Kapuas Kuala",
-    "Kapuas Barat",
-    "Pulau Petak",
-    "Kapuas Murung",
-    "Basarang",
-    "Mantangai",
-    "Timpah",
-    "Kapuas Tengah",
-    "Kapuas Hulu",
-    "Tamban Catur",
-    "Pasak Talawang",
-    "Mandau Talawang",
-    "Dadahup",
-    "Bataguh"
+    {
+      "district_id": 1,
+      "kecamatan": "Selat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kapuas Hilir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kapuas Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kapuas Kuala"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kapuas Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pulau Petak"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kapuas Murung"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Basarang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mantangai"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Timpah"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kapuas Tengah"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kapuas Hulu"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tamban Catur"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Pasak Talawang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Mandau Talawang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Dadahup"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bataguh"
+    }
   ]
 }

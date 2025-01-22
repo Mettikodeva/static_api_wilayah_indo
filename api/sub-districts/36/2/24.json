@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kalanganyar",
-    "Pasirkupa",
-    "Cilangkap",
-    "Aweh",
-    "Sangiangtanjung (Sangiang Tanjung)",
-    "Sukamekarsari",
-    "Cikatapis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalanganyar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasirkupa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cilangkap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aweh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sangiangtanjung (Sangiang Tanjung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamekarsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikatapis"
+    }
   ]
 }

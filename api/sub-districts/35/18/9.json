@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bukur",
-    "Babadan",
-    "Ngepung",
-    "Pisang",
-    "Lestari",
-    "Pecuk",
-    "Patianrowo",
-    "Pakuncen",
-    "Rowomarto",
-    "Ngrombot",
-    "Tirtobinangun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngepung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pisang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lestari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pecuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Patianrowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pakuncen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rowomarto"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngrombot"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tirtobinangun"
+    }
   ]
 }

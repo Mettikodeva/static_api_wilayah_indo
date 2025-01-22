@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Danagoa",
-    "Kontumolepe",
-    "Tombula",
-    "Lamorende",
-    "Laghontoghe / Lahontohe",
-    "Lakologou",
-    "Laano Sandana",
-    "Oeno Kandoli",
-    "Walengkabhola",
-    "Fongkaniwa",
-    "Matanooe (Matano Oe)",
-    "Kotano Wuna"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Danagoa"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kontumolepe"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tombula"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamorende"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laghontoghe / Lahontohe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lakologou"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Laano Sandana"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Oeno Kandoli"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Walengkabhola"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Fongkaniwa"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Matanooe (Matano Oe)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kotano Wuna"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Marmoyo",
-    "Tanjungwadung (Tanjung Wadung)",
-    "Mangunan",
-    "Kabuh",
-    "Kedungjati (Kedung Jati)",
-    "Banjardowo (Banjar Dowo)",
-    "Karangpakis (Karang Pakis)",
-    "Sumberingin (Sumberringin)",
-    "Sumbergondang (Sumber Gondang)",
-    "Kauman",
-    "Munungkerep (Munung Kerep)",
-    "Genenganjasem (Genengan Jasem)",
-    "Manduro",
-    "Sukodadi",
-    "Pengampon",
-    "Sumberaji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marmoyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungwadung (Tanjung Wadung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangunan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kabuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedungjati (Kedung Jati)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjardowo (Banjar Dowo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangpakis (Karang Pakis)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberingin (Sumberringin)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumbergondang (Sumber Gondang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Munungkerep (Munung Kerep)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Genenganjasem (Genengan Jasem)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Manduro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukodadi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pengampon"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sumberaji"
+    }
   ]
 }

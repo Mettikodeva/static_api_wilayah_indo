@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Sosopan",
-    "Barumun Tengah",
-    "Huristak",
-    "Lubuk Barumun",
-    "Hutaraja Tinggi (Huta Raja Tinggi)",
-    "Ulu Barumun",
-    "Barumun",
-    "Sosa",
-    "Batang Lubu Sutam",
-    "Barumun Selatan",
-    "Aek Nabara Barumun",
-    "Sihapas Barumun",
-    "Barumun Baru",
-    "Ulu Sosa",
-    "Sosa Julu",
-    "Barumun Barat",
-    "Sosa Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Sosopan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Barumun Tengah"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Huristak"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lubuk Barumun"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Hutaraja Tinggi (Huta Raja Tinggi)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Ulu Barumun"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Barumun"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sosa"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Batang Lubu Sutam"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Barumun Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Aek Nabara Barumun"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sihapas Barumun"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Barumun Baru"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Ulu Sosa"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sosa Julu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Barumun Barat"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sosa Timur"
+    }
   ]
 }

@@ -1,42 +1,156 @@
 {
   "sub_districts": [
-    "Bale",
-    "Bie",
-    "Beurandang",
-    "Baro Kulam Gajah",
-    "Glong (Meunasah Glong)",
-    "Nibong",
-    "Langa (Meunasah Langa)",
-    "Beunot (Meunasah Beunot)",
-    "Keude Bayu",
-    "Blang Bayu",
-    "Dayah Tuha",
-    "Dayah Baro",
-    "Lancok",
-    "Punti",
-    "Bungong",
-    "Baroh Blang Rimueng",
-    "Ulee Meuria",
-    "Kayee Panyang",
-    "Rheng",
-    "Trieng Meudurou",
-    "Ulee Gampong",
-    "Garut (Garot)",
-    "Blang Awe",
-    "Pulo Blang Mangat",
-    "Cibrek",
-    "Pulo Blang Trieng",
-    "Meudang Ara",
-    "Cot Neuheun (Cut Neuheun)",
-    "Tumpeun (Gampong Tumpeun)",
-    "Alen",
-    "Dayah Blang Seureukuy",
-    "Blang Patra",
-    "Blang Majron",
-    "Seuneubok Baro (Seunebok Baro)",
-    "Buket Glumpang",
-    "Alue Majron",
-    "Siren Tujoh",
-    "Blang Seureukuy / Blang Serikuy"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bale"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bie"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beurandang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baro Kulam Gajah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Glong (Meunasah Glong)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nibong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langa (Meunasah Langa)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beunot (Meunasah Beunot)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keude Bayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Blang Bayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dayah Tuha"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dayah Baro"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lancok"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Punti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bungong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Baroh Blang Rimueng"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ulee Meuria"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kayee Panyang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Rheng"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Trieng Meudurou"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ulee Gampong"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Garut (Garot)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Blang Awe"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pulo Blang Mangat"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Cibrek"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pulo Blang Trieng"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Meudang Ara"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Cot Neuheun (Cut Neuheun)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Tumpeun (Gampong Tumpeun)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Alen"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Dayah Blang Seureukuy"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Blang Patra"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Blang Majron"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Seuneubok Baro (Seunebok Baro)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Buket Glumpang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Alue Majron"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Siren Tujoh"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Blang Seureukuy / Blang Serikuy"
+    }
   ]
 }

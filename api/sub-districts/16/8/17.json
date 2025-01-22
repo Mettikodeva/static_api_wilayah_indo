@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Rejosari",
-    "Sido Rejo (Sidorejo)",
-    "Banjar Rejo",
-    "Panca Tunggal",
-    "Margo Koyo",
-    "Sumber Agung",
-    "Karsa Jaya",
-    "Windusari",
-    "Karya Makmur",
-    "Giri Mulyo",
-    "Magugondo (Madu Gondo)",
-    "Argomulyo (Argo Mulyo)",
-    "Rejosari Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sido Rejo (Sidorejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjar Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panca Tunggal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margo Koyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karsa Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Windusari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karya Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Giri Mulyo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Magugondo (Madu Gondo)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Argomulyo (Argo Mulyo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rejosari Jaya"
+    }
   ]
 }

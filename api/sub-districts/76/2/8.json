@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bunde",
-    "Kalonding",
-    "Tarailu",
-    "Sampaga",
-    "Tanambuah (Tanam Buah / Tanambua)",
-    "Salubarana",
-    "Losso"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunde"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalonding"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tarailu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sampaga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanambuah (Tanam Buah / Tanambua)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salubarana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Losso"
+    }
   ]
 }

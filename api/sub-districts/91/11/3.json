@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Molof",
-    "Senggi",
-    "Warlef",
-    "Usku",
-    "Woslay",
-    "Namla",
-    "Waley"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Molof"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Senggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Warlef"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Usku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Woslay"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Namla"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Waley"
+    }
   ]
 }

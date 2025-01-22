@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Lembeh Selatan (Bitung Selatan)",
-    "Madidir (Bitung Tengah)",
-    "Ranowulu (Bitung Utara)",
-    "Aertembaga (Bitung Timur)",
-    "Matuari (Bitung Barat)",
-    "Girian",
-    "Maesa",
-    "Lembeh Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Lembeh Selatan (Bitung Selatan)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Madidir (Bitung Tengah)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ranowulu (Bitung Utara)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Aertembaga (Bitung Timur)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Matuari (Bitung Barat)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Girian"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Maesa"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Lembeh Utara"
+    }
   ]
 }

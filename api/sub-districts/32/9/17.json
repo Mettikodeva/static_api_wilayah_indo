@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Cilukrak",
-    "Kepuh",
-    "Balerante",
-    "Panongan",
-    "Beberan",
-    "Semplo",
-    "Palimanan Timur",
-    "Pegagan",
-    "Lungbenda",
-    "Ciawi",
-    "Tegalkarang",
-    "Cengkuang"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilukrak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kepuh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balerante"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panongan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beberan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semplo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Palimanan Timur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pegagan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lungbenda"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ciawi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tegalkarang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cengkuang"
+    }
   ]
 }

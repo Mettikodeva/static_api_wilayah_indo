@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pamaroh",
-    "Pamoroh",
-    "Sokolelah",
-    "Gagah",
-    "Kertagena Laok",
-    "Kertagena Tengah",
-    "Bungbaruh",
-    "Kadur",
-    "Bangkes",
-    "Kertagena Dajah (Kertagena Daya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pamaroh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pamoroh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sokolelah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gagah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertagena Laok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertagena Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bungbaruh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kadur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bangkes"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertagena Dajah (Kertagena Daya)"
+    }
   ]
 }

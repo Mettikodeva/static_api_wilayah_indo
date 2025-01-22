@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Op",
-    "Sahan",
-    "Nenoat",
-    "Haineno (Hoineno)",
-    "Nunkolo",
-    "Saenam",
-    "Fat",
-    "Haumeni",
-    "Putun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Op"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nenoat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Haineno (Hoineno)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nunkolo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saenam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Fat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Haumeni"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Putun"
+    }
   ]
 }

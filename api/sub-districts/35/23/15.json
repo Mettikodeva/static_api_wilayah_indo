@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Karang",
-    "Gedongombo",
-    "Jadi",
-    "Boto",
-    "Prunggahan Kulon",
-    "Tegalagung",
-    "Bektiharjo",
-    "Ngino",
-    "Prunggahan Wetan",
-    "Sambongrejo",
-    "Semanding",
-    "Bejagung",
-    "Penambangan",
-    "Genaharjo",
-    "Kowang",
-    "Tunah",
-    "Gesing"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Gedongombo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Prunggahan Kulon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegalagung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bektiharjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngino"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Prunggahan Wetan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sambongrejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Semanding"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bejagung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Penambangan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Genaharjo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kowang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tunah"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Gesing"
+    }
   ]
 }

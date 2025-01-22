@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Warungkiara",
-    "Bojongkerta",
-    "Girijaya",
-    "Bantarkalong",
-    "Hegarmanah",
-    "Ubrug",
-    "Sirnajaya",
-    "Sukaharja",
-    "Kertamukti",
-    "Mekarjaya",
-    "Damarraja",
-    "Tarisi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Warungkiara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojongkerta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Girijaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bantarkalong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ubrug"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sirnajaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukaharja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kertamukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Damarraja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tarisi"
+    }
   ]
 }

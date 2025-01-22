@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pinang",
-    "Sudimara Pinang",
-    "Nerogtog",
-    "Kunciran",
-    "Kunciran Indah",
-    "Kunciran Jaya",
-    "Cipete",
-    "Pakojan",
-    "Panunggangan",
-    "Panunggangan Utara",
-    "Panunggangan Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pinang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sudimara Pinang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nerogtog"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kunciran"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kunciran Indah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kunciran Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cipete"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pakojan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Panunggangan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Panunggangan Utara"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Panunggangan Timur"
+    }
   ]
 }

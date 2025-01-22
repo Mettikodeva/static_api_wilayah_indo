@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sepulu",
-    "Maneron",
-    "Gangseyan (Gengseyan)",
-    "Klapayan (Klapaian)",
-    "Bangsereh",
-    "Kelbung",
-    "Saplasah",
-    "Gunelap (Genelap)",
-    "Klabetan",
-    "Banyior",
-    "Prancak",
-    "Labuhan",
-    "Tanah Gurah Barat (Tanagura Barat)",
-    "Lembung Paseser",
-    "Tanah Gurah Temor (Tanagura Timur)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maneron"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gangseyan (Gengseyan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klapayan (Klapaian)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangsereh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelbung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Saplasah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunelap (Genelap)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klabetan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banyior"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Prancak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labuhan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanah Gurah Barat (Tanagura Barat)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lembung Paseser"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanah Gurah Temor (Tanagura Timur)"
+    }
   ]
 }

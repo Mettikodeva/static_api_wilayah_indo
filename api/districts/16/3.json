@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Tanjung Agung",
-    "Muara Enim",
-    "Rambang Niru (Rambang Dangku)",
-    "Gunung Megang",
-    "Gelumbang",
-    "Lawang Kidul",
-    "Semende Darat Laut",
-    "Semende Darat Tengah",
-    "Semende Darat Ulu",
-    "Ujan Mas",
-    "Lubai",
-    "Rambang",
-    "Sungai Rotan",
-    "Lembak",
-    "Benakat",
-    "Kelekar",
-    "Muara Belida",
-    "Belimbing",
-    "Belida Darat",
-    "Lubai Ulu",
-    "Empat Petulai Dangku",
-    "Panang Enim"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanjung Agung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Muara Enim"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Rambang Niru (Rambang Dangku)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Gunung Megang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Gelumbang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lawang Kidul"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Semende Darat Laut"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Semende Darat Tengah"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Semende Darat Ulu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ujan Mas"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Lubai"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Rambang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Sungai Rotan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Lembak"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Benakat"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kelekar"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Muara Belida"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Belimbing"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Belida Darat"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Lubai Ulu"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Empat Petulai Dangku"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Panang Enim"
+    }
   ]
 }

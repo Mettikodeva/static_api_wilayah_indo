@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pulau Geronggang",
-    "Sumber Hidup",
-    "Gading Raja (Gading Rejo)",
-    "Maribaya (Mari Baya)",
-    "Pancawarna",
-    "Tanjung Makmur",
-    "Kayu Labu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Geronggang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Hidup"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gading Raja (Gading Rejo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maribaya (Mari Baya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pancawarna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kayu Labu"
+    }
   ]
 }

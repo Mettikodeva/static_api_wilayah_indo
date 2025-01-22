@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lumbukore",
-    "Umalulu",
-    "Patawang",
-    "Wanga",
-    "Matawai Atu",
-    "Mutunggeding",
-    "Lairuru",
-    "Watuhadang (Watu Hadang)",
-    "Watupuda (Watukuda / Watu Puda)",
-    "Ngaru Kanoru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lumbukore"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Umalulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patawang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matawai Atu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mutunggeding"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lairuru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watuhadang (Watu Hadang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Watupuda (Watukuda / Watu Puda)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngaru Kanoru"
+    }
   ]
 }

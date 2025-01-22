@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Botawa",
-    "Sowiwa",
-    "Baino Jaya",
-    "Nau",
-    "Rasawa",
-    "Ruambak Jaya",
-    "Moroa",
-    "Oiboa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Botawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sowiwa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baino Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rasawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ruambak Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Moroa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oiboa"
+    }
   ]
 }

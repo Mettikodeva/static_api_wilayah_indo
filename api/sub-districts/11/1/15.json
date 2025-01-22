@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pasie Seubadeh",
-    "Ladang Rimba",
-    "Ujung Pulo Rayeuk",
-    "Sawah Tingkeum",
-    "Simpang",
-    "Ujung Pulo Cut",
-    "Seulekat (Seuleukat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasie Seubadeh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ladang Rimba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujung Pulo Rayeuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sawah Tingkeum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujung Pulo Cut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Seulekat (Seuleukat)"
+    }
   ]
 }

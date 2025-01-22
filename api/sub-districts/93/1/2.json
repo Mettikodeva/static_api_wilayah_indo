@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Muting",
-    "Boha",
-    "Wan (Waan)",
-    "Kolam",
-    "Selauw",
-    "Pachas",
-    "Seed Agung (Sedayu Agung Prasasti)",
-    "Enggol Jaya (Elanggol Jaya)",
-    "Manway Bop (Manway Bob / Man Wai Bob)",
-    "Afkab Makmur",
-    "Sigabel Jaya",
-    "Andaito"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muting"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wan (Waan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kolam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Selauw"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pachas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seed Agung (Sedayu Agung Prasasti)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Enggol Jaya (Elanggol Jaya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manway Bop (Manway Bob / Man Wai Bob)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Afkab Makmur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sigabel Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Andaito"
+    }
   ]
 }

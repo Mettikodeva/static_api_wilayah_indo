@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Malesanwetan (Malasan Wetan)",
-    "Gunungbekel (Gunung Bekel)",
-    "Tegalsono (Tegal Sono)",
-    "Bulujarankidul (Bulujaran Kidul)",
-    "Bulujaranlor (Bulujaran Lor)",
-    "Paras",
-    "Tegalsiwalan (Tegal Siwalan)",
-    "Banjarsawah",
-    "Sumberbulu",
-    "Sumberkledung",
-    "Bladokulon (Blado Kulon)",
-    "Tegalmojo (Tegal Mojo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malesanwetan (Malasan Wetan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunungbekel (Gunung Bekel)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tegalsono (Tegal Sono)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulujarankidul (Bulujaran Kidul)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulujaranlor (Bulujaran Lor)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paras"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegalsiwalan (Tegal Siwalan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjarsawah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberbulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumberkledung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bladokulon (Blado Kulon)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tegalmojo (Tegal Mojo)"
+    }
   ]
 }

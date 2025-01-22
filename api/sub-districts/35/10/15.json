@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bakungan",
-    "Banjarsari",
-    "Rejosari",
-    "Kemiren",
-    "Olehsari",
-    "Glagah",
-    "Paspan",
-    "Tamansuruh",
-    "Kenjo",
-    "Kampunganyar"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bakungan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kemiren"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Olehsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Glagah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paspan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tamansuruh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kenjo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kampunganyar"
+    }
   ]
 }

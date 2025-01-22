@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kembang Paseban",
-    "Sengkati Kecil",
-    "Sengkati Gedang",
-    "Sengkati Baru",
-    "Kembang Tanjung",
-    "Mersam",
-    "Benteng Rendah",
-    "Sungai Puar",
-    "Rantau Gedang",
-    "Pematang Gadung",
-    "Teluk Melintang",
-    "Bukit Harapan",
-    "Belanti Jaya",
-    "Tapah Sari",
-    "Bukit Kemuning",
-    "Simpang Rantau Gedang",
-    "Tanjung Putra",
-    "Sengkati Mudo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kembang Paseban"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sengkati Kecil"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sengkati Gedang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sengkati Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kembang Tanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mersam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Benteng Rendah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Puar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Gedang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pematang Gadung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teluk Melintang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Belanti Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tapah Sari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bukit Kemuning"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Simpang Rantau Gedang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjung Putra"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sengkati Mudo"
+    }
   ]
 }

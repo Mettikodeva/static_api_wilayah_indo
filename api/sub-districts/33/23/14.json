@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tlogomulyo",
-    "Candisari",
-    "Sriwungu",
-    "Langgeng",
-    "Tanjungsari",
-    "Losari",
-    "Balerejo",
-    "Kerokan",
-    "Legoksari",
-    "Tlilir",
-    "Gedegan",
-    "Pagersari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tlogomulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Candisari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sriwungu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langgeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Losari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balerejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kerokan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Legoksari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tlilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gedegan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pagersari"
+    }
   ]
 }

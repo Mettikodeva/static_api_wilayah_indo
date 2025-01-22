@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mekarsari",
-    "Cijakan",
-    "Geredug",
-    "Bojong",
-    "Banyumas",
-    "Citumenggung",
-    "Manggungjaya",
-    "Cahayamekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cijakan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Geredug"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyumas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Citumenggung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manggungjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cahayamekar"
+    }
   ]
 }

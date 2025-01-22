@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sidodadi",
-    "Semarang Jaya",
-    "Sumber Alam",
-    "Gunung Terang",
-    "Suka Jadi (Sukajadi)",
-    "Sri Menanti",
-    "Sinar Jaya",
-    "Rigis Jaya",
-    "Suka Damai (Sukadamai)",
-    "Manggarai (Mangarai)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semarang Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Alam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Terang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Jadi (Sukajadi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sri Menanti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rigis Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Damai (Sukadamai)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Manggarai (Mangarai)"
+    }
   ]
 }

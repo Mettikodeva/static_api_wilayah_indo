@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pintareng",
-    "Basauh",
-    "Tumalede",
-    "Sampakang",
-    "Dalokaweng",
-    "Malisade"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pintareng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Basauh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumalede"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sampakang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dalokaweng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malisade"
+    }
   ]
 }

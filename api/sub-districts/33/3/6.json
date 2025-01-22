@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Mewek",
-    "Karangmanyar",
-    "Kalikabong",
-    "Jompo",
-    "Rabak",
-    "Blater",
-    "Manduraga",
-    "Karangsari",
-    "Kalimanah Kulon",
-    "Sidakangen",
-    "Karangpetir",
-    "Kalimanah Wetan",
-    "Grecol",
-    "Selabaya",
-    "Klapasawit",
-    "Kedungwuluh",
-    "Babakan"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Mewek"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Karangmanyar"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kalikabong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jompo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rabak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blater"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manduraga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalimanah Kulon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidakangen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangpetir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalimanah Wetan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Grecol"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Selabaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Klapasawit"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kedungwuluh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Babakan"
+    }
   ]
 }

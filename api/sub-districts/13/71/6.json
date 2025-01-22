@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Cengkeh/Cangkeh Nan XX",
-    "Kampung Baru Nan XX",
-    "Tanah Sirah Piai Nan XX",
-    "Tanjung Saba Pitamen Nan XX (Pitameh)",
-    "Lubuk Begalung Nan XX (Lubuk Begalung)",
-    "Gurun Laweh Nan XX (Gurun Laweh / Lawas)",
-    "Tanjung Aua Nan XX (Tanjung Aur / Tanjuang Aua)",
-    "Koto Baru Nan XX (Koto Baru)",
-    "Banuaran Nan XX (Banuaran)",
-    "Parak Laweh Pulau Aia Nan XX",
-    "Batung Taba Nan XX (Batang Taba Nan XX)",
-    "Pagambiran Ampalu Nan XX (Pangambiran)",
-    "Pampangan Nan XX",
-    "Gates Nan XX",
-    "Kampung Jua Nan XX"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cengkeh/Cangkeh Nan XX"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kampung Baru Nan XX"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanah Sirah Piai Nan XX"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung Saba Pitamen Nan XX (Pitameh)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lubuk Begalung Nan XX (Lubuk Begalung)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gurun Laweh Nan XX (Gurun Laweh / Lawas)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanjung Aua Nan XX (Tanjung Aur / Tanjuang Aua)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Koto Baru Nan XX (Koto Baru)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Banuaran Nan XX (Banuaran)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Parak Laweh Pulau Aia Nan XX"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Batung Taba Nan XX (Batang Taba Nan XX)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pagambiran Ampalu Nan XX (Pangambiran)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pampangan Nan XX"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Gates Nan XX"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kampung Jua Nan XX"
+    }
   ]
 }

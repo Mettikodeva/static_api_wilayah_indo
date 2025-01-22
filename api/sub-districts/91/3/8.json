@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Nembukrang (Nimbokrang)",
-    "Benyom Jaya I",
-    "Benyom Jaya II",
-    "Berab",
-    "Hamonggrang (Hamongkrang)",
-    "Wahab",
-    "Nombukrang Sari (Nembukrang / Nimbokrang Sari)",
-    "Rhepang Muaf (Rhepang Muaif / Muaib)",
-    "Bunyom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nembukrang (Nimbokrang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benyom Jaya I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benyom Jaya II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Berab"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hamonggrang (Hamongkrang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wahab"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nombukrang Sari (Nembukrang / Nimbokrang Sari)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rhepang Muaf (Rhepang Muaif / Muaib)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bunyom"
+    }
   ]
 }

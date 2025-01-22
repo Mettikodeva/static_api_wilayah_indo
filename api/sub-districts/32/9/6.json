@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tambelang",
-    "Karangsuwung",
-    "Karangtengah",
-    "Kalimeang",
-    "Karangmalang",
-    "Karangmekar",
-    "Kubangkarang",
-    "Karangsembung"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambelang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karangsuwung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kalimeang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangmalang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangmekar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kubangkarang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Karangsembung"
+    }
   ]
 }

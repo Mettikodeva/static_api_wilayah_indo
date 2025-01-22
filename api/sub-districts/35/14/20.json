@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Gratitunon (Grati Tunon)",
-    "Kebonrejo (Kebon Rejo)",
-    "Karanglo (Karang Lo)",
-    "Rebalas",
-    "Plososari",
-    "Kalipang",
-    "Trewung",
-    "Kambinganrejo (Kambingan Rejo)",
-    "Karangkliwon (Karang Kliwon)",
-    "Kedawungkulon (Kedawung Kulon)",
-    "Kedawungwetan (Kedawung Wetan)",
-    "Sumberagung (Sumber Agung)",
-    "Ranuklindungan (Ranu Klindungan)",
-    "Sumberdawesari (Sumber Dawesari)",
-    "Cukurgondang"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gratitunon (Grati Tunon)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebonrejo (Kebon Rejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karanglo (Karang Lo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rebalas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Plososari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalipang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Trewung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kambinganrejo (Kambingan Rejo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangkliwon (Karang Kliwon)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedawungkulon (Kedawung Kulon)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedawungwetan (Kedawung Wetan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ranuklindungan (Ranu Klindungan)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumberdawesari (Sumber Dawesari)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cukurgondang"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Batom",
-    "Oksip",
-    "Mongham (Mogham)",
-    "Sabi",
-    "Neep",
-    "Muara",
-    "Batom Dua",
-    "Akyako",
-    "Peteng",
-    "Belomo",
-    "Abukerom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batom"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oksip"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mongham (Mogham)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sabi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Neep"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batom Dua"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Akyako"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Peteng"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Belomo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Abukerom"
+    }
   ]
 }

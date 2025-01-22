@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cijeungjing",
-    "Kadujaya",
-    "Lebaksiuh",
-    "Cintajaya",
-    "Cipicung",
-    "Mekarasih",
-    "Ciranggem",
-    "Cisampih",
-    "Jemah",
-    "Karedok",
-    "Kadu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cijeungjing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kadujaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lebaksiuh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cintajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipicung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekarasih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciranggem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cisampih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jemah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karedok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kadu"
+    }
   ]
 }

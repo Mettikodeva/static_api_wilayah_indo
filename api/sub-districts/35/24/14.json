@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Blimbing",
-    "Kandangsemangkon (Kandang Semangkon)",
-    "Paciran",
-    "Sumurgayam",
-    "Sendangagung",
-    "Sendangduwur",
-    "Tunggul",
-    "Kranji",
-    "Drajat",
-    "Banjarwati",
-    "Kemantren",
-    "Sidokelar",
-    "Tlogosadang",
-    "Paloh",
-    "Weru",
-    "Sidokumpul",
-    "Warulor"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Blimbing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kandangsemangkon (Kandang Semangkon)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paciran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumurgayam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sendangagung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sendangduwur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tunggul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kranji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Drajat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banjarwati"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kemantren"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidokelar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tlogosadang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Paloh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Weru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sidokumpul"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Warulor"
+    }
   ]
 }

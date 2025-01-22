@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kaliorang",
-    "Bukit Makmur",
-    "Bukit Harapan",
-    "Citra Manunggal Jaya",
-    "Bangun Jaya",
-    "Bumi Sejahtera",
-    "Selangkau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaliorang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Citra Manunggal Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Sejahtera"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Selangkau"
+    }
   ]
 }

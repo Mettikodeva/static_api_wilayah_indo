@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tamansari",
-    "Mugarsari",
-    "Tamanjaya",
-    "Sumelap",
-    "Setiawargi",
-    "Mulyasari",
-    "Sukahurip",
-    "Setiamulya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mugarsari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tamanjaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sumelap"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Setiawargi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukahurip"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Setiamulya"
+    }
   ]
 }

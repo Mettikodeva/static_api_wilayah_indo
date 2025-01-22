@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Tanjung Lubuk",
-    "Pedamaran",
-    "Mesuji",
-    "Kayu Agung",
-    "Sirah Pulau Padang",
-    "Tulung Selapan",
-    "Pampangan",
-    "Lempuing",
-    "Air Sugihan",
-    "Sungai Menang",
-    "Jejawi",
-    "Cengal",
-    "Pangkalan Lampam",
-    "Mesuji Makmur",
-    "Mesuji Raya",
-    "Lempuing Jaya",
-    "Teluk Gelam",
-    "Pedamaran Timur"
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Lubuk"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pedamaran"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Mesuji"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kayu Agung"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sirah Pulau Padang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tulung Selapan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pampangan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Lempuing"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Air Sugihan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sungai Menang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Jejawi"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Cengal"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Pangkalan Lampam"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Mesuji Makmur"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Mesuji Raya"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Lempuing Jaya"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Teluk Gelam"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pedamaran Timur"
+    }
   ]
 }

@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Parigi",
-    "Ampibabo",
-    "Tinombo",
-    "Moutong",
-    "Tomini",
-    "Sausu",
-    "Bolano Lambunu",
-    "Kasimbar",
-    "Torue",
-    "Tinombo Selatan",
-    "Parigi Selatan",
-    "Mepanga",
-    "Toribulu",
-    "Taopa",
-    "Balinggi",
-    "Parigi Barat",
-    "Siniu",
-    "Palasa",
-    "Parigi Utara",
-    "Parigi Tengah",
-    "Bolano",
-    "Ongka Malino",
-    "Sidoan"
+    {
+      "district_id": 1,
+      "kecamatan": "Parigi"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ampibabo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tinombo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Moutong"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tomini"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sausu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bolano Lambunu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kasimbar"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Torue"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tinombo Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Parigi Selatan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mepanga"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Toribulu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Taopa"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Balinggi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Parigi Barat"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Siniu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Palasa"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Parigi Utara"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Parigi Tengah"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Bolano"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Ongka Malino"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Sidoan"
+    }
   ]
 }

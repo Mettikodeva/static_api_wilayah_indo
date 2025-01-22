@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sibaluton",
-    "Kayu Lompa",
-    "Labonu",
-    "Silondou",
-    "Kinapasan",
-    "Kongkomos",
-    "Ogosipat",
-    "Galandau",
-    "Marisa",
-    "Basi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sibaluton"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kayu Lompa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labonu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Silondou"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kinapasan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kongkomos"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ogosipat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Galandau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marisa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Basi"
+    }
   ]
 }

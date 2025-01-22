@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cemara",
-    "Mojodungkul (Mojo Dungkol)",
-    "Gunung Malang",
-    "Gunung Putri",
-    "Suboh",
-    "Dawuan",
-    "Buduan",
-    "Ketah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cemara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mojodungkul (Mojo Dungkol)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Malang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Putri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suboh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dawuan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buduan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketah"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Tigi",
-    "Tigi Timur",
-    "Bowobado",
-    "Tigi Barat",
-    "Kapiraya"
+    {
+      "district_id": 1,
+      "kecamatan": "Tigi"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tigi Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bowobado"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tigi Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kapiraya"
+    }
   ]
 }

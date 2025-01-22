@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Yogosem",
-    "Kiroma",
-    "Sogasio",
-    "Saikama",
-    "Hokolekma",
-    "Esahapuk",
-    "Mesahaput"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yogosem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kiroma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sogasio"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saikama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hokolekma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Esahapuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mesahaput"
+    }
   ]
 }

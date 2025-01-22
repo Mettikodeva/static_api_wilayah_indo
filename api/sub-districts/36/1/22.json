@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kaduengang",
-    "Pasirpeuteuy",
-    "Kurungdahu",
-    "Kaduela",
-    "Koranji",
-    "Tapos",
-    "Cadasari",
-    "Ciinjuk",
-    "Kaungcaang",
-    "Cikentrung",
-    "Tanagara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaduengang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasirpeuteuy"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kurungdahu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaduela"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koranji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tapos"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cadasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciinjuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaungcaang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cikentrung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanagara"
+    }
   ]
 }

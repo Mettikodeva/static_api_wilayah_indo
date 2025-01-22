@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Campurasri (Campur Asri)",
-    "Danguk",
-    "Gempol",
-    "Ringinanom (Ringin Anom)",
-    "Sembung",
-    "Sidorejo",
-    "Dungmiri",
-    "Brangol",
-    "Sidokerto",
-    "Jatipuro",
-    "Puhti",
-    "Sawo",
-    "Karangjati",
-    "Legundi",
-    "Rejomulyo",
-    "Rejuno",
-    "Plosolor (Ploso Lor)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Campurasri (Campur Asri)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Danguk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gempol"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ringinanom (Ringin Anom)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sembung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dungmiri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Brangol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidokerto"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatipuro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puhti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karangjati"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Legundi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rejomulyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rejuno"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Plosolor (Ploso Lor)"
+    }
   ]
 }

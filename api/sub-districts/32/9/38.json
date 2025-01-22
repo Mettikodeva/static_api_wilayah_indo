@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gumulung Lebak (Gumulunglebak)",
-    "Lebak Mekar (Lebakmekar)",
-    "Gumulung Tonggoh (Gumulungtonggoh)",
-    "Kamarang",
-    "Greged (Greget)",
-    "Kamarang Lebak (Kamaranglebak)",
-    "Durajaya",
-    "Jatipancur",
-    "Sindang Kempeng (Sindangkempeng)",
-    "Nanggela"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gumulung Lebak (Gumulunglebak)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lebak Mekar (Lebakmekar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gumulung Tonggoh (Gumulungtonggoh)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kamarang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Greged (Greget)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kamarang Lebak (Kamaranglebak)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Durajaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatipancur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sindang Kempeng (Sindangkempeng)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nanggela"
+    }
   ]
 }

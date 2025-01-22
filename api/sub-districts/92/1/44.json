@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Disfra",
-    "Bagun",
-    "Klawom",
-    "Klamomis",
-    "Klakwonrit",
-    "Mode",
-    "Bratmawe",
-    "Klawon",
-    "Mlamli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Disfra"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bagun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klawom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klamomis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klakwonrit"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mode"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bratmawe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Klawon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mlamli"
+    }
   ]
 }

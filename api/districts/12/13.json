@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Panyabungan",
-    "Panyabungan Utara",
-    "Panyabungan Timur",
-    "Panyabungan Selatan",
-    "Panyabungan Barat",
-    "Siabu",
-    "Bukit Malintang",
-    "Kotanopan",
-    "Lembah Sorik Marapi",
-    "Tambangan",
-    "Ulu Pungkut",
-    "Muara Sipongi",
-    "Batang Natal",
-    "Lingga Bayu",
-    "Batahan",
-    "Natal",
-    "Muara Batang Gadis",
-    "Ranto Baek",
-    "Huta Bargot",
-    "Puncak Sorik Marapi",
-    "Pakantan",
-    "Sinunukan",
-    "Naga Juang"
+    {
+      "district_id": 1,
+      "kecamatan": "Panyabungan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Panyabungan Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Panyabungan Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Panyabungan Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Panyabungan Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Siabu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bukit Malintang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kotanopan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lembah Sorik Marapi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tambangan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ulu Pungkut"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Muara Sipongi"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Batang Natal"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Lingga Bayu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Batahan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Natal"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Muara Batang Gadis"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Ranto Baek"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Huta Bargot"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Puncak Sorik Marapi"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Pakantan"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Sinunukan"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Naga Juang"
+    }
   ]
 }

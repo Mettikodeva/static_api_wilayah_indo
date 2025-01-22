@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Ngargoretno",
-    "Paripurno",
-    "Kalirejo",
-    "Menoreh",
-    "Ngadirejo",
-    "Sidomulyo",
-    "Kebonrejo",
-    "Salaman",
-    "Kalisalak",
-    "Sriwedari",
-    "Jebengsari",
-    "Tanjunganom",
-    "Banjarharjo",
-    "Purwosari",
-    "Ngampeldento",
-    "Sidosari",
-    "Sawangargo",
-    "Krasak",
-    "Margoyoso",
-    "Kaliabu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngargoretno"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paripurno"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Menoreh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebonrejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salaman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalisalak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sriwedari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jebengsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjunganom"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banjarharjo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ngampeldento"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sidosari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sawangargo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Krasak"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Margoyoso"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kaliabu"
+    }
   ]
 }

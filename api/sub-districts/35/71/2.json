@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Semampir",
-    "Balowerti",
-    "Dandangan",
-    "Ngadirejo",
-    "Kampung Dalem",
-    "Setonopande (Setono Pande)",
-    "Ringinanom (Ringin Anom)",
-    "Pakelan",
-    "Setonogedong (Setono Gedong)",
-    "Kemasan",
-    "Jagalan",
-    "Banjaran",
-    "Kaliombo",
-    "Ngronggo",
-    "Manisrenggo",
-    "Pocanan",
-    "Rejomulyo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Semampir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Balowerti"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dandangan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Dalem"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Setonopande (Setono Pande)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ringinanom (Ringin Anom)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pakelan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Setonogedong (Setono Gedong)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kemasan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Jagalan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Banjaran"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kaliombo"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Ngronggo"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Manisrenggo"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Pocanan"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Rejomulyo"
+    }
   ]
 }

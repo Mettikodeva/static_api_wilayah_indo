@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Patipelong",
-    "Tongano Barat",
-    "Bahari",
-    "Tongano Timur",
-    "Rukuwa",
-    "Timu",
-    "Dete",
-    "Kulati (Kulate)",
-    "Wawaotimu (Wawotimu)",
-    "Kahiyanga (Kahianga)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Patipelong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tongano Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bahari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tongano Timur"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Rukuwa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Timu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dete"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kulati (Kulate)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wawaotimu (Wawotimu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kahiyanga (Kahianga)"
+    }
   ]
 }

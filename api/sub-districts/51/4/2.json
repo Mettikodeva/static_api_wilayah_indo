@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Saba",
-    "Pering",
-    "Keramas",
-    "Belega",
-    "Blahbatuh",
-    "Buruan",
-    "Bedulu",
-    "Medahan",
-    "Bona"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pering"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keramas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belega"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blahbatuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buruan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bedulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Medahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bona"
+    }
   ]
 }

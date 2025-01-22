@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Karang Raja",
-    "Tugu Kecil",
-    "Prabu Jaya",
-    "Muara Dua",
-    "Gunung Ibul",
-    "Gunung Ibul Barat",
-    "Sukajadi",
-    "Karang Jaya",
-    "Muara Dua Barat",
-    "Gunung Ibul Timur",
-    "Gunung Ibul Selatan",
-    "Gunung Ibul Utara",
-    "Arimbi Jaya"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karang Raja"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tugu Kecil"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Prabu Jaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Muara Dua"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gunung Ibul"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gunung Ibul Barat"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Karang Jaya"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Muara Dua Barat"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Gunung Ibul Timur"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Gunung Ibul Selatan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Gunung Ibul Utara"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Arimbi Jaya"
+    }
   ]
 }

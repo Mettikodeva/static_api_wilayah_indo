@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cupak",
-    "Talang",
-    "Koto Gadang Guguak",
-    "Jawi Jawi",
-    "Sungai Janiah",
-    "Batang Barus",
-    "Aie Batumbuak (Aia Batumbuak)",
-    "Koto Gaek Guguk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cupak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Gadang Guguak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jawi Jawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Janiah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batang Barus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aie Batumbuak (Aia Batumbuak)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Gaek Guguk"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Majasuka",
-    "Cisambeng",
-    "Palasah",
-    "Weragati",
-    "Trajaya",
-    "Tarikolot",
-    "Buniwangi",
-    "Sindanghaji",
-    "Waringin",
-    "Pasir",
-    "Karamat",
-    "Enggalwangi",
-    "Sindangwasa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Majasuka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cisambeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palasah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Weragati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tarikolot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buniwangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindanghaji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waringin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karamat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Enggalwangi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sindangwasa"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Sangkup I (Sangkub I)",
-    "Busisingo",
-    "Sang Tombolang (Sangtombolang)",
-    "Tombolango",
-    "Pangkusa",
-    "Sangkup II (Sangkub II)",
-    "Sidodadi",
-    "Sampiro",
-    "Sangkup III (Sangkub III)",
-    "Busisingo Utara",
-    "Ampeng Sembeka",
-    "Suka Makmur",
-    "Sangkub Timur",
-    "Monompia",
-    "Mokusato",
-    "Sangkub Empat (Sanglup Empat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sangkup I (Sangkub I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Busisingo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sang Tombolang (Sangtombolang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tombolango"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangkusa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sangkup II (Sangkub II)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sampiro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sangkup III (Sangkub III)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Busisingo Utara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ampeng Sembeka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sangkub Timur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Monompia"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mokusato"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sangkub Empat (Sanglup Empat)"
+    }
   ]
 }

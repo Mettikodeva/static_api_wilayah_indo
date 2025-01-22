@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bencahlesung",
-    "Tangkerang Timur",
-    "Rejosari",
-    "Bambukuning",
-    "Melebung",
-    "Industritenayan",
-    "Sialangsakti",
-    "Tuahnegeri"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bencahlesung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tangkerang Timur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bambukuning"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Melebung"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Industritenayan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sialangsakti"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tuahnegeri"
+    }
   ]
 }

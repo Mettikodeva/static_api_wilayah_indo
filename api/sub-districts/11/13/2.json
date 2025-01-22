@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tampeng",
-    "Bener",
-    "Ulun Tanoh (Ulon Tanoh)",
-    "Kuta Ujung",
-    "Beranang",
-    "Rikit Dekat",
-    "Rema",
-    "Rema Baru",
-    "Cike",
-    "Kerukunan Kota (Kuta Panjang)",
-    "Tampeng Musara",
-    "Kong Paluh"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tampeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bener"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulun Tanoh (Ulon Tanoh)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuta Ujung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beranang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rikit Dekat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rema"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rema Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cike"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kerukunan Kota (Kuta Panjang)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tampeng Musara"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kong Paluh"
+    }
   ]
 }

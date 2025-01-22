@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Lamonae",
-    "Padalere",
-    "Tetewatu",
-    "Culumbatu",
-    "Wawoheo",
-    "Lamparinga",
-    "Lamonae Utama",
-    "Wacumelewe (Macumelewe)",
-    "Mata Osole",
-    "Pondoa",
-    "Wawonsangi",
-    "Wawontoaho",
-    "Larompana",
-    "Wacu Pinodo",
-    "Padalere Utama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lamonae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padalere"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tetewatu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Culumbatu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wawoheo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamparinga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lamonae Utama"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wacumelewe (Macumelewe)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mata Osole"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pondoa"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wawonsangi"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Wawontoaho"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Larompana"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wacu Pinodo"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Padalere Utama"
+    }
   ]
 }

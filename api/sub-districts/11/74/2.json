@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Lhok Banie",
-    "Paya Bujok Teungoh",
-    "Paya Bujok Beuramo (Beuramoe)",
-    "Simpang Lhee",
-    "Seuriget",
-    "Matang Seulimeng",
-    "Sungai Pauh",
-    "Kuala Langsa",
-    "Teulaga Tujuh (Telaga Tujuh)",
-    "Serambi Indah",
-    "Sungai Pauh Pusaka (Sungai Paus Pusaka)",
-    "Sungai Pauh Tanjong (Sungai Paus Tanjong)",
-    "Sungai Pauh Firdaus (Sungai Paus Firdaus)"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lhok Banie"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paya Bujok Teungoh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paya Bujok Beuramo (Beuramoe)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpang Lhee"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seuriget"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Matang Seulimeng"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sungai Pauh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kuala Langsa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Teulaga Tujuh (Telaga Tujuh)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Serambi Indah"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sungai Pauh Pusaka (Sungai Paus Pusaka)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sungai Pauh Tanjong (Sungai Paus Tanjong)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sungai Pauh Firdaus (Sungai Paus Firdaus)"
+    }
   ]
 }

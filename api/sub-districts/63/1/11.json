@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Handil Babirik",
-    "Kurau Utara",
-    "Bumi Harapan",
-    "Sei/Sungai Rasau",
-    "Pantai Harapan",
-    "Handil Suruk",
-    "Handil Gayam",
-    "Handil Birayang Atas",
-    "Handil Birayang Bawah",
-    "Handil Maluka",
-    "Handil Labuan (Amas)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Handil Babirik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kurau Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bumi Harapan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Rasau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pantai Harapan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Handil Suruk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Handil Gayam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Handil Birayang Atas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Handil Birayang Bawah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Handil Maluka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Handil Labuan (Amas)"
+    }
   ]
 }

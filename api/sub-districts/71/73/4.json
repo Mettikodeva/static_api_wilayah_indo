@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Woloan Satu",
-    "Woloan Dua",
-    "Woloan Tiga",
-    "Taratara Satu",
-    "Taratara Dua",
-    "Woloan Satu Utara",
-    "Taratara",
-    "Taratara Tiga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Woloan Satu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Woloan Dua"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Woloan Tiga"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Taratara Satu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Taratara Dua"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Woloan Satu Utara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Taratara"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Taratara Tiga"
+    }
   ]
 }

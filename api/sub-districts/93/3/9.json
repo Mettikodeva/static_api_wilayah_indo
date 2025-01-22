@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kabe",
-    "Kaumi",
-    "Kayagae (Kayagai)",
-    "Ati / Atti",
-    "Upin",
-    "Taragai / Taragae",
-    "Sene",
-    "Komru",
-    "Kofar",
-    "Sumuraman (Sumur Aman)",
-    "Pano",
-    "Kogir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kabe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaumi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayagae (Kayagai)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ati / Atti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Upin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taragai / Taragae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sene"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Komru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kofar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumuraman (Sumur Aman)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pano"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kogir"
+    }
   ]
 }

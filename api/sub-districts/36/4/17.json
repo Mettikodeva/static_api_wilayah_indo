@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Carenang",
-    "Pamanuk",
-    "Mandaya",
-    "Teras",
-    "Ragasmasigit (Ragasmesigit)",
-    "Walikukun",
-    "Panenjoan",
-    "Mekarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Carenang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pamanuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mandaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teras"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ragasmasigit (Ragasmesigit)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Walikukun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panenjoan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarsari"
+    }
   ]
 }

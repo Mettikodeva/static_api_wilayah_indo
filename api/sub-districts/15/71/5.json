@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Arab Melayu",
-    "Mudung Laut",
-    "Jelmu",
-    "Tengah",
-    "Tahtul Yaman",
-    "Tanjung Johor"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Arab Melayu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mudung Laut"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jelmu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tengah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tahtul Yaman"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjung Johor"
+    }
   ]
 }

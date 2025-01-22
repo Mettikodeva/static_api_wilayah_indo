@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tanjung Kukuh",
-    "Betung",
-    "Tanjung Mas",
-    "Menanga Besar",
-    "Menanga Tengah",
-    "Adu Manis",
-    "Suka Negeri",
-    "Kangkung",
-    "Sri Tanjung",
-    "Kangkung Ilir",
-    "Betung Timur",
-    "Menanga Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Kukuh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Mas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Menanga Besar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Menanga Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Adu Manis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Negeri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kangkung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sri Tanjung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kangkung Ilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Betung Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Menanga Sari"
+    }
   ]
 }

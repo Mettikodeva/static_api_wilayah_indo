@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Biangkeke",
-    "Pa'jukukang",
-    "Biang Loe (Biangloe)",
-    "Borong Loe (Borongloe)",
-    "Baruga",
-    "Nipa-Nipa",
-    "Papan Loe (Papanloe)",
-    "Rappoa",
-    "Lumpangan",
-    "Batu Karaeng"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Biangkeke"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pa'jukukang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Biang Loe (Biangloe)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Borong Loe (Borongloe)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baruga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nipa-Nipa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Papan Loe (Papanloe)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rappoa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lumpangan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batu Karaeng"
+    }
   ]
 }

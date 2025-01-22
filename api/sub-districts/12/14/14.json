@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lawindra",
-    "Sifaoro'asi Mola (Sifaoroasi Mola)",
-    "Hiliuso",
-    "Balohili Mola",
-    "Ambukha",
-    "Tobualo",
-    "Hilibadalu",
-    "Foikhugaga",
-    "Orlin",
-    "Orahili Mola",
-    "Umbunasi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lawindra"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sifaoro'asi Mola (Sifaoroasi Mola)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hiliuso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balohili Mola"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ambukha"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tobualo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hilibadalu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Foikhugaga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Orlin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Orahili Mola"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Umbunasi"
+    }
   ]
 }

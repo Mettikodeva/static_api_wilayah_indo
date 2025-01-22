@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pasawahan",
-    "Banjaranyar",
-    "Cigayam",
-    "Langkapsari",
-    "Kalijaya",
-    "Sindangrasa",
-    "Cikaso",
-    "Cikupa",
-    "Karyamukti",
-    "Tanjungsari (Tanjungasari)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasawahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjaranyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cigayam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langkapsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalijaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sindangrasa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikaso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikupa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjungsari (Tanjungasari)"
+    }
   ]
 }

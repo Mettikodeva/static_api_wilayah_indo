@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pulerejo",
-    "Tumpakoyot",
-    "Plandirejo",
-    "Sumberdadi",
-    "Bakung",
-    "Ngrejo",
-    "Bululawang",
-    "Kedungbanteng",
-    "Sidomulyo",
-    "Lorejo",
-    "Tumpakkepuh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulerejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumpakoyot"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Plandirejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberdadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bululawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedungbanteng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumpakkepuh"
+    }
   ]
 }

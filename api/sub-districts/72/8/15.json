@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Malakosa",
-    "Balinggi Jati",
-    "Balinggi",
-    "Suli",
-    "Suli Indah",
-    "Beraban",
-    "Lebagu",
-    "Tumpapa Indah",
-    "Catur Karya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malakosa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balinggi Jati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balinggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suli Indah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beraban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lebagu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumpapa Indah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Catur Karya"
+    }
   ]
 }

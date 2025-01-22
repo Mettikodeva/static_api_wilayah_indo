@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pematang Panggang",
-    "Sungai Sodong",
-    "Pagar Dewa",
-    "Surya Adi",
-    "Makarti Mulya",
-    "Marga Bakti (Margo Bhakti)",
-    "Jaya Bakti (Jaya Bhakti)",
-    "Sukamukti (Suka Mukti)",
-    "Mekar Wangi",
-    "Karya Mukti",
-    "Kalideras (Kali Deras)",
-    "Sumber Deras",
-    "Kembang Jajar",
-    "Kota Baru",
-    "Sido Basuki",
-    "Pematang Kasih",
-    "Labuhan Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pematang Panggang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Sodong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Surya Adi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Makarti Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Marga Bakti (Margo Bhakti)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jaya Bakti (Jaya Bhakti)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sukamukti (Suka Mukti)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Mekar Wangi"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Karya Mukti"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Kalideras (Kali Deras)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Sumber Deras"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Kembang Jajar"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Sido Basuki"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Pematang Kasih"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Labuhan Jaya"
+    }
   ]
 }

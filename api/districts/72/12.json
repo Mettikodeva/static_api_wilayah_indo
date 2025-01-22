@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Petasia",
-    "Petasia Timur",
-    "Lembo Raya",
-    "Lembo",
-    "Mori Atas",
-    "Mori Utara",
-    "Soyo Jaya",
-    "Bungku Utara",
-    "Mamosalato",
-    "Petasia Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Petasia"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Petasia Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Lembo Raya"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lembo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Mori Atas"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mori Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Soyo Jaya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bungku Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mamosalato"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Petasia Barat"
+    }
   ]
 }

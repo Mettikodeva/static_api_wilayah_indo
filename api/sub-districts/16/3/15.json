@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Baru Rambang",
-    "Sugihan",
-    "Tanjung Raya",
-    "Tanjung Dalam",
-    "Sukarami",
-    "Pagar Agung",
-    "Sugih Waras",
-    "Sumber Rahayu",
-    "Marga Mulya (Marga Mulia)",
-    "Kencana Mulia",
-    "Negeri Agung",
-    "Sugihwaras Barat (Sugih Waras Barat)",
-    "Air Keruh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baru Rambang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sugihan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukarami"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sugih Waras"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumber Rahayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marga Mulya (Marga Mulia)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kencana Mulia"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Negeri Agung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sugihwaras Barat (Sugih Waras Barat)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Air Keruh"
+    }
   ]
 }

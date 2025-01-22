@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kombo",
-    "Tampiala",
-    "Soni",
-    "Bangkir",
-    "Dongko",
-    "Mimbala",
-    "Lempe",
-    "Paddumpu",
-    "Abbajareng",
-    "Puse",
-    "Pallakawe",
-    "Simuntu",
-    "Lemba Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kombo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tampiala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Soni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangkir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dongko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mimbala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lempe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paddumpu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Abbajareng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Puse"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pallakawe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Simuntu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lemba Harapan"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Napan Yaur",
-    "Yeretuar",
-    "Bawei",
-    "Goni"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Napan Yaur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yeretuar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bawei"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Goni"
+    }
   ]
 }

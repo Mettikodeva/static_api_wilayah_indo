@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Yaholikma",
-    "Lelambo",
-    "Tulpa",
-    "Ilwap",
-    "Kiltam",
-    "Pilong",
-    "Vuno",
-    "Suahi",
-    "Tohong",
-    "Paliptek",
-    "Letin",
-    "Hohe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yaholikma"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lelambo"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tulpa"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Ilwap"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Kiltam"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Pilong"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Vuno"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Suahi"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Tohong"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Paliptek"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Letin"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Hohe"
+    }
   ]
 }

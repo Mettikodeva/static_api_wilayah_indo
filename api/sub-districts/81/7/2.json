@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Jerol",
-    "Marfenfen (Marafenfen)",
-    "Kabalukin",
-    "Kalar-Kalar",
-    "Feruni",
-    "Ngaiguli",
-    "Fatural",
-    "Ngaibor",
-    "Popjetur",
-    "Lor-lor",
-    "Gaimar",
-    "Laininir",
-    "Doka Barat",
-    "Doka Timur",
-    "Jelia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jerol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marfenfen (Marafenfen)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kabalukin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalar-Kalar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Feruni"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngaiguli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Fatural"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngaibor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Popjetur"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Lor-lor"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Gaimar"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Laininir"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Doka Barat"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Doka Timur"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Jelia"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Labuhan Maringgai (Labuhan Maringai)",
-    "Muara Gading Mas",
-    "Sriminosari (Sri Minosari)",
-    "Bandar Negeri",
-    "Karya Makmur",
-    "Karya Tani (Karyatani)",
-    "Margasari",
-    "Sukorahayu",
-    "Srigading (Sri Gading)",
-    "Karang Anyar",
-    "Maringgai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuhan Maringgai (Labuhan Maringai)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Gading Mas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sriminosari (Sri Minosari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandar Negeri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karya Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karya Tani (Karyatani)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukorahayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Srigading (Sri Gading)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maringgai"
+    }
   ]
 }

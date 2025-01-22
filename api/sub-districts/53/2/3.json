@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "O'besi (Obesi)",
-    "Eonbesi (Eon Besi)",
-    "Bosen",
-    "Sebot",
-    "Ajaobaki",
-    "Netpala",
-    "Tunua",
-    "Bijaepunu",
-    "Nefokoko",
-    "Leloboko",
-    "Lelobatan",
-    "Halmei (Halme)",
-    "Fatukoto",
-    "Kokfe'u",
-    "To'fen",
-    "Taiftob",
-    "Iusmolo",
-    "To'manat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "O'besi (Obesi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Eonbesi (Eon Besi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bosen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sebot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ajaobaki"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Netpala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tunua"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bijaepunu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nefokoko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Leloboko"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lelobatan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Halmei (Halme)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Fatukoto"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kokfe'u"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "To'fen"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Taiftob"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Iusmolo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "To'manat"
+    }
   ]
 }

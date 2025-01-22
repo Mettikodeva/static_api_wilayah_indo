@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Wanea",
-    "Tanjung Batu",
-    "Pakowa",
-    "Bumi Nyiur",
-    "Ranotana Weru",
-    "Teling Atas",
-    "Tingkulu",
-    "Karombasan Utara",
-    "Karombasan Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wanea"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Batu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pakowa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bumi Nyiur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ranotana Weru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Teling Atas"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tingkulu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Karombasan Utara"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Karombasan Selatan"
+    }
   ]
 }

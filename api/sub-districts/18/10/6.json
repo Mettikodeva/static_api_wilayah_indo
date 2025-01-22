@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Banyumas",
-    "Banyuwangi",
-    "Sukamulya",
-    "Sriwungu",
-    "Banjarejo",
-    "Waya Krui",
-    "Sri Rahayu",
-    "Nusa Wungu",
-    "Sinar Mulyo/Mulya",
-    "Banyu Urip",
-    "Mulyo Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyumas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banyuwangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sriwungu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjarejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waya Krui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sri Rahayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nusa Wungu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinar Mulyo/Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banyu Urip"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mulyo Rejo"
+    }
   ]
 }

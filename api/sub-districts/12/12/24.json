@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Siantar Utara",
-    "Lumban Sitorus",
-    "Banjar Ganjang",
-    "Tangga Batu I",
-    "Tangga Batu II",
-    "Pangombusan",
-    "Jonggi Manulus",
-    "Lumban Huala",
-    "Dolok Nauli",
-    "Bius Gu Barat",
-    "Lumban Manurung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siantar Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lumban Sitorus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjar Ganjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tangga Batu I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tangga Batu II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangombusan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jonggi Manulus"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lumban Huala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dolok Nauli"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bius Gu Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lumban Manurung"
+    }
   ]
 }

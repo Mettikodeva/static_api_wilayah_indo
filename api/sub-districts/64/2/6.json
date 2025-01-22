@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Jahab",
-    "Loa Ipuh",
-    "Bukit Biru",
-    "Timbau",
-    "Melayu",
-    "Panji",
-    "Sukarame",
-    "Kampung Baru",
-    "Loa Tebu",
-    "Mangkurawang",
-    "Maluhu",
-    "Loa Ipuh Darat",
-    "Rapak Lambur",
-    "Bendang Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jahab"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Loa Ipuh"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bukit Biru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Timbau"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Melayu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Panji"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Loa Tebu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mangkurawang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Maluhu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Loa Ipuh Darat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rapak Lambur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bendang Raya"
+    }
   ]
 }

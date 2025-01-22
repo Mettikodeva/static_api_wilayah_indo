@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Cinangka",
-    "Bantar Waru (Bantarwaru)",
-    "Pasauran",
-    "Bulakan",
-    "Karang Suraga",
-    "Umbul Tanjung",
-    "Kubang Baros",
-    "Ranca Sanggal (Rancasanggal)",
-    "Cikolelet",
-    "Sindang Laya (Sindanglaya)",
-    "Kamasan",
-    "Bantar Wangi (Bantarwangi)",
-    "Mekarsari",
-    "Baros Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cinangka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bantar Waru (Bantarwaru)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasauran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Suraga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Umbul Tanjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kubang Baros"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ranca Sanggal (Rancasanggal)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cikolelet"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sindang Laya (Sindanglaya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kamasan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bantar Wangi (Bantarwangi)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baros Jaya"
+    }
   ]
 }

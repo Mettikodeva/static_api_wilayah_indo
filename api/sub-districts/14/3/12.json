@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Lubuk Muda",
-    "Tanjungbelit (Tanjung Belit)",
-    "Sungaisiput (Sungai Siput)",
-    "Sepotong",
-    "Lubuk Gaung",
-    "Langkat",
-    "Sadar Jaya",
-    "Sungai Linau",
-    "Bandar Jaya",
-    "Muara Dua",
-    "Tanjungdamai (Tanjung Damai)",
-    "Sumber Jaya",
-    "Lubuk Garam",
-    "Liang Banir",
-    "Tanjungdatuk (Tanjung Datuk)",
-    "Koto Raja",
-    "Sungainibung (Sungai Nibung)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuk Muda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungbelit (Tanjung Belit)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaisiput (Sungai Siput)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sepotong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Gaung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langkat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sadar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Linau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandar Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara Dua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjungdamai (Tanjung Damai)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lubuk Garam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Liang Banir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjungdatuk (Tanjung Datuk)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Koto Raja"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sungainibung (Sungai Nibung)"
+    }
   ]
 }

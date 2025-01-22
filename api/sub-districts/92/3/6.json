@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Malakuli",
-    "Faur",
-    "Kiaba",
-    "Antalisa",
-    "Tarak",
-    "Tuberwasak",
-    "Mas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malakuli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Faur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kiaba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Antalisa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tarak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuberwasak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mas"
+    }
   ]
 }

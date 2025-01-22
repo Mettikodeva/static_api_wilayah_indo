@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Parit (Parik)",
-    "Koto Tangah",
-    "Koto Tuo",
-    "Koto Nan Duo",
-    "Pematang Panjang",
-    "Ranah Koto Tinggi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parit (Parik)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Tangah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Tuo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koto Nan Duo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pematang Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ranah Koto Tinggi"
+    }
   ]
 }

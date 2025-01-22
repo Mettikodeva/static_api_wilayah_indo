@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bahu",
-    "Bapenu",
-    "Kilo",
-    "Pancado",
-    "Nggaki",
-    "Sumbong",
-    "Maluli",
-    "Galebo",
-    "Nggoli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bahu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bapenu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kilo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pancado"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nggaki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumbong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maluli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Galebo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nggoli"
+    }
   ]
 }

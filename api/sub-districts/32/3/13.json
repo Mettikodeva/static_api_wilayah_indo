@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cikanyere",
-    "Cikancana",
-    "Ciwalen",
-    "Kawungluwuk",
-    "Cibadak",
-    "Sukamahi",
-    "Sukaresmi",
-    "Cibanteng",
-    "Kubang",
-    "Pakuon",
-    "Rawabelut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikanyere"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikancana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciwalen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kawungluwuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamahi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukaresmi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibanteng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kubang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pakuon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rawabelut"
+    }
   ]
 }

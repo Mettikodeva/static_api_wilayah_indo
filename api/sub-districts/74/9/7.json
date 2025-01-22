@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sawa",
-    "Lalembo",
-    "Laimeo",
-    "Pudonggala",
-    "Matanggonawe",
-    "Kokapi",
-    "Tongauna (Tangauna)",
-    "Puupi",
-    "Pudonggala Utama",
-    "Ulu Sawa",
-    "Tudungano",
-    "Tanjung Laimeo",
-    "Panggulawu",
-    "Pekaroa"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lalembo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laimeo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pudonggala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matanggonawe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kokapi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tongauna (Tangauna)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Puupi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pudonggala Utama"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ulu Sawa"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tudungano"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjung Laimeo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Panggulawu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pekaroa"
+    }
   ]
 }

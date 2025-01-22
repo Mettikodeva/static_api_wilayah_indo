@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Togogan",
-    "Srengat",
-    "Dandong",
-    "Kauman",
-    "Karanggayam",
-    "Dermojayan",
-    "Kerjen",
-    "Pakisrejo",
-    "Purwokerto",
-    "Wonorejo",
-    "Maron",
-    "Bagelenan",
-    "Kandangan",
-    "Kendalrejo",
-    "Selokajang",
-    "Ngaglik"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Togogan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Srengat"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Dandong"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karanggayam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dermojayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kerjen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pakisrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwokerto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maron"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bagelenan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kendalrejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Selokajang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngaglik"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Hantakan",
-    "Alat",
-    "Murung B",
-    "Bulayak",
-    "Batu Tunggal",
-    "Pasting",
-    "Tilahan",
-    "Haruyan Dayak",
-    "Kindingan",
-    "Datar Ajab",
-    "Hinas Kanan",
-    "Patikalain"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hantakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Murung B"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulayak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Tunggal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasting"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tilahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Haruyan Dayak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kindingan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Datar Ajab"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hinas Kanan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Patikalain"
+    }
   ]
 }

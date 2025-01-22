@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mayau",
-    "Tifure",
-    "Lelewi",
-    "Bido",
-    "Pantai Sagu",
-    "Perum Bersatu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mayau"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tifure"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lelewi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bido"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pantai Sagu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Perum Bersatu"
+    }
   ]
 }

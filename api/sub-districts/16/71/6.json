@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "5 Ilir",
-    "3 Ilir",
-    "1 Ilir",
-    "2 Ilir",
-    "Lawang Kidul",
-    "Sei Buah (Sungai Buah)"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "5 Ilir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "3 Ilir"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "1 Ilir"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "2 Ilir"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lawang Kidul"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sei Buah (Sungai Buah)"
+    }
   ]
 }

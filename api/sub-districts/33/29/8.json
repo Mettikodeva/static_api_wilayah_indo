@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Glonggong",
-    "Dukuhwringin",
-    "Dumeling",
-    "Jagalempeni",
-    "Keboledan",
-    "Kertabesuki",
-    "Klampok",
-    "Kupu",
-    "Lengkong",
-    "Pebatan",
-    "Pesantunan",
-    "Sawojajar",
-    "Siasem",
-    "Sidamulya",
-    "Sigentong",
-    "Sisalam",
-    "Siwungkuk",
-    "Tanjungsari",
-    "Tegalgandu",
-    "Wanasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Glonggong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dukuhwringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dumeling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jagalempeni"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keboledan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertabesuki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klampok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kupu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pebatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pesantunan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawojajar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Siasem"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sidamulya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sigentong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sisalam"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Siwungkuk"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tegalgandu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wanasari"
+    }
   ]
 }

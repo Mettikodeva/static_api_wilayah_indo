@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mekar Jaya",
-    "Pematang Lumut",
-    "Makmur Jaya",
-    "Serdang Jaya",
-    "Terjun Gajah",
-    "Lubuk Terentang",
-    "Pematang Buluh",
-    "Muntialo",
-    "Telukkulbi",
-    "Bunga Tanjung",
-    "Sungaiterap (Sungai Tera)",
-    "Mandala Jaya"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pematang Lumut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Makmur Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Serdang Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Terjun Gajah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lubuk Terentang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pematang Buluh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muntialo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Telukkulbi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bunga Tanjung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sungaiterap (Sungai Tera)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mandala Jaya"
+    }
   ]
 }

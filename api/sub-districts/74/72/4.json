@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Liabuku (Lia Buku)",
-    "Ngkaring-Karing (Ngkari-Ngkari)",
-    "Kampeonaho",
-    "Waliabuku (Walia Buku)",
-    "Tampuna"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Liabuku (Lia Buku)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ngkaring-Karing (Ngkari-Ngkari)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kampeonaho"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Waliabuku (Walia Buku)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tampuna"
+    }
   ]
 }

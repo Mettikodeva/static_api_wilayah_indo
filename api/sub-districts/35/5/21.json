@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Banjarsari",
-    "Pohgajih",
-    "Selorejo",
-    "Sumberagung (Sumber Agung)",
-    "Ngrendeng",
-    "Sidomulyo",
-    "Ampelgading",
-    "Olak Alen",
-    "Boro",
-    "Ngreco"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pohgajih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngrendeng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ampelgading"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Olak Alen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Boro"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngreco"
+    }
   ]
 }

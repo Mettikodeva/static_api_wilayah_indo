@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Leatung",
-    "Bebo' (Bebo)",
-    "Rantela'bi Kambisa (Ratele Bi Kambisa)",
-    "Leatung Matallo",
-    "Saluallo",
-    "Tumbang Datu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Leatung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bebo' (Bebo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantela'bi Kambisa (Ratele Bi Kambisa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Leatung Matallo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saluallo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Datu"
+    }
   ]
 }

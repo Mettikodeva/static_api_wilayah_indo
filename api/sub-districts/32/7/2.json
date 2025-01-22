@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cikoneng",
-    "Margaluyu",
-    "Sindangsari",
-    "Panaragan",
-    "Darmacaang",
-    "Kujang",
-    "Nasol",
-    "Cimari",
-    "Gegempalan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikoneng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panaragan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Darmacaang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kujang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nasol"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cimari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gegempalan"
+    }
   ]
 }

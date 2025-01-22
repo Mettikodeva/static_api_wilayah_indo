@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lubuk Kambing",
-    "Pulaupauh (Pulau Pauh)",
-    "Rantau Benar",
-    "Lampisi",
-    "Cinta Damai",
-    "Sungairotan (Sei / Sungai Rotan)",
-    "Muaradanau (Muara Danau)",
-    "Tanahtumbuh (Tanah Tumbuh)",
-    "Sungaipaur (Sungai Pau)",
-    "Bukitbakar (Bukit Bakar)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lubuk Kambing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulaupauh (Pulau Pauh)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rantau Benar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lampisi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cinta Damai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungairotan (Sei / Sungai Rotan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muaradanau (Muara Danau)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanahtumbuh (Tanah Tumbuh)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungaipaur (Sungai Pau)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukitbakar (Bukit Bakar)"
+    }
   ]
 }

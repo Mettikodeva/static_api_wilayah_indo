@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Nganai",
-    "Pija",
-    "Sitgama",
-    "Siat",
-    "Murupbaye"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nganai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pija"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sitgama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Murupbaye"
+    }
   ]
 }

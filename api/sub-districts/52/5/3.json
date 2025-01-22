@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Rasa Bou",
-    "Daha",
-    "Hu'u",
-    "Adu",
-    "Cempi Jaya",
-    "Merada",
-    "Jala",
-    "Sawe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rasa Bou"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Daha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hu'u"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Adu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cempi Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Merada"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jala"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sawe"
+    }
   ]
 }

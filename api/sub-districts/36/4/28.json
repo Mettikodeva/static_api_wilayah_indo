@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pabuaran",
-    "Kadubeureum",
-    "Tanjungsari",
-    "Pancanegara",
-    "Sindangsari",
-    "Sindangheula",
-    "Pasanggrahan",
-    "Talaga Warna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kadubeureum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pancanegara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangheula"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasanggrahan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Talaga Warna"
+    }
   ]
 }

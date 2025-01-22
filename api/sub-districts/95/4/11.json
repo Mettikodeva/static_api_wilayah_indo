@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Aruku",
-    "Kubugiwa",
-    "Kubu",
-    "Numbugawe",
-    "Tiyenggupur",
-    "Murik",
-    "Minagi",
-    "Kalewi",
-    "Menggenagi"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aruku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kubugiwa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kubu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Numbugawe"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tiyenggupur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Murik"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Minagi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kalewi"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Menggenagi"
+    }
   ]
 }

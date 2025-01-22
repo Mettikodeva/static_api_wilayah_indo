@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Begal",
-    "Wonorejo",
-    "Katikan",
-    "Palang Kidul (Pelang Kidul)",
-    "Kedunggalar",
-    "Jatigembol (Jati Gembol)",
-    "Pelanglor (Pelang Lor)",
-    "Bangunrejo Kidul",
-    "Jenggrik",
-    "Wonokerto",
-    "Gemarang",
-    "Kawu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Begal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Katikan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Palang Kidul (Pelang Kidul)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedunggalar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatigembol (Jati Gembol)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pelanglor (Pelang Lor)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangunrejo Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jenggrik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gemarang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kawu"
+    }
   ]
 }

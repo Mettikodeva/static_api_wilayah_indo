@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Adisana",
-    "Bangsa",
-    "Karangsari",
-    "Randegan",
-    "Kaliwedi",
-    "Sawangan",
-    "Kalisalak",
-    "Cindaga",
-    "Kebasen",
-    "Gambarsari",
-    "Tumiyang",
-    "Mandirancan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Adisana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangsa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Randegan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaliwedi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalisalak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cindaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kebasen"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gambarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumiyang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mandirancan"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Dewua",
-    "Sangginora",
-    "Tangkura",
-    "Malitu",
-    "Patiwunga",
-    "Betalemba",
-    "Pantangolemba",
-    "Padalembara",
-    "Taunca"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dewua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sangginora"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tangkura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malitu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patiwunga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Betalemba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pantangolemba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padalembara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taunca"
+    }
   ]
 }

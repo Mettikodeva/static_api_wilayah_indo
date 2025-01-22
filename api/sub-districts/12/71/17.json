@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Petisah Hulu",
-    "Babura",
-    "Merdeka",
-    "Darat",
-    "Padang Bulan",
-    "Titi Rantai/Rante"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Petisah Hulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Babura"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Merdeka"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Darat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Padang Bulan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Titi Rantai/Rante"
+    }
   ]
 }

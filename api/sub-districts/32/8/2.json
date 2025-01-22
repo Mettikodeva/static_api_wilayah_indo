@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pinara",
-    "Cijeumit (Cijemit)",
-    "Cipedes",
-    "Ciniru",
-    "Rambatan",
-    "Longkewang",
-    "Mungkaldatar",
-    "Gunungmanik",
-    "Pamupukan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pinara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cijeumit (Cijemit)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cipedes"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciniru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rambatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Longkewang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mungkaldatar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunungmanik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pamupukan"
+    }
   ]
 }

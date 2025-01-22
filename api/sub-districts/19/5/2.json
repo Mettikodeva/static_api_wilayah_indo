@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pelangas",
-    "Kundi",
-    "Mayang",
-    "Peradong",
-    "Air Nyatoh",
-    "Berang",
-    "Rambat",
-    "Simpang Gong (Simpang Gung)",
-    "Simpang Tiga",
-    "Ibul",
-    "Pangek",
-    "Bukit Terak",
-    "Air Menduyung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelangas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kundi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mayang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Peradong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Nyatoh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Berang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rambat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpang Gong (Simpang Gung)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ibul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pangek"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Terak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Air Menduyung"
+    }
   ]
 }

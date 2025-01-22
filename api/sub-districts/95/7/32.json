@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ayafofa",
-    "Salemo",
-    "Yudani",
-    "Towoluk",
-    "Tunume",
-    "Delegari",
-    "Igimbua",
-    "Yilokdu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ayafofa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salemo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yudani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Towoluk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunume"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Delegari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Igimbua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yilokdu"
+    }
   ]
 }

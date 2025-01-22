@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Gading",
-    "Sirantau",
-    "Sijambi",
-    "Pahang",
-    "Pantai Johor"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gading"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sirantau"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sijambi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pahang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pantai Johor"
+    }
   ]
 }

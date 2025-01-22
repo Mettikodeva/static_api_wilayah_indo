@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Purwokinanti (Purwo Kinanti)",
-    "Gunungketur (Gunung Ketur)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Purwokinanti (Purwo Kinanti)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gunungketur (Gunung Ketur)"
+    }
   ]
 }

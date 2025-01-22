@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sayosa",
-    "Maladofok",
-    "Yorbes",
-    "Samusa",
-    "Klamintu",
-    "Klain"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sayosa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maladofok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yorbes"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Samusa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Klamintu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Klain"
+    }
   ]
 }

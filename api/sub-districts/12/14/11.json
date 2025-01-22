@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Togizita",
-    "Soledua",
-    "Bawosalo'o Dao-dao",
-    "Tuho'owo (Tuho Owo)",
-    "Togizita I (Togozita Satu)",
-    "Hilitoese",
-    "Dao-dao Sowo",
-    "Hiliadulo",
-    "Soledua I (Soledua Satu)",
-    "Soledua II (Soledua Dua)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Togizita"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soledua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bawosalo'o Dao-dao"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuho'owo (Tuho Owo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Togizita I (Togozita Satu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilitoese"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dao-dao Sowo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hiliadulo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Soledua I (Soledua Satu)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Soledua II (Soledua Dua)"
+    }
   ]
 }

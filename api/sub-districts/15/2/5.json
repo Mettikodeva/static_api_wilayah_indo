@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Dusun Baru",
-    "Pasar Rantau Panjang",
-    "Kampung Baruh",
-    "Mampun",
-    "Pasar Baru Rantau",
-    "Kandang",
-    "Koto Rayo",
-    "Tanjung Ilir",
-    "Beluran Panjang (Buluran)",
-    "Seling",
-    "Lubuk Napal"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dusun Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasar Rantau Panjang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Baruh"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Mampun"
+    },
+    {
+      "sub_district_id": 1036,
+      "desa_kelurahan": "Pasar Baru Rantau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kandang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Rayo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Ilir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Beluran Panjang (Buluran)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Seling"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Lubuk Napal"
+    }
   ]
 }

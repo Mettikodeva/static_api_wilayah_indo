@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kartini",
-    "Makarti Jaya",
-    "Nalkin",
-    "Angger Permegi",
-    "Poo",
-    "Mimi Baru",
-    "Kamno Sari",
-    "Blandin Kakayo (Blandin Kakayu)",
-    "Gurinda Jaya",
-    "Jagebob Raya",
-    "Wenda Asri",
-    "Melin Megikar",
-    "Obaat Throw",
-    "Yemunain Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kartini"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Makarti Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nalkin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Angger Permegi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Poo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mimi Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kamno Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blandin Kakayo (Blandin Kakayu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gurinda Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jagebob Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wenda Asri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Melin Megikar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Obaat Throw"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yemunain Jaya"
+    }
   ]
 }

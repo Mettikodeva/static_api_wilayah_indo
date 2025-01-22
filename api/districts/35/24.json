@@ -1,31 +1,112 @@
 {
   "districts": [
-    "Sukorame",
-    "Bluluk",
-    "Modo",
-    "Ngimbang",
-    "Babat",
-    "Kedungpring",
-    "Brondong",
-    "Laren",
-    "Sekaran",
-    "Maduran",
-    "Sambeng",
-    "Sugio",
-    "Pucuk",
-    "Paciran",
-    "Solokuro",
-    "Mantup",
-    "Sukodadi",
-    "Karanggeneng (Karang Geneng)",
-    "Kembangbahu",
-    "Kalitengah",
-    "Turi",
-    "Lamongan",
-    "Tikung",
-    "Karangbinangun",
-    "Deket",
-    "Glagah",
-    "Sarirejo"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukorame"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bluluk"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Modo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ngimbang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Babat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kedungpring"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Brondong"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Laren"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sekaran"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Maduran"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sambeng"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sugio"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pucuk"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Paciran"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Solokuro"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Mantup"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sukodadi"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Karanggeneng (Karang Geneng)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kembangbahu"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kalitengah"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Turi"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Lamongan"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Tikung"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Karangbinangun"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Deket"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Glagah"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Sarirejo"
+    }
   ]
 }

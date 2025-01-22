@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Yuneri",
-    "Yido",
-    "Omibur",
-    "Tenabaga",
-    "Wonabunggame",
-    "Gembileme",
-    "Wenome",
-    "Mopi",
-    "Kanggilo",
-    "Yudimba",
-    "Umar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yuneri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yido"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Omibur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tenabaga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonabunggame"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gembileme"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wenome"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mopi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kanggilo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yudimba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Umar"
+    }
   ]
 }

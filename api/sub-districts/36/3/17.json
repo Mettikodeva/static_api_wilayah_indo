@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Curug Kulon",
-    "Sukabakti (Suka Bakti)",
-    "Binong",
-    "Curug Wetan",
-    "Kadu",
-    "Kadu Jaya",
-    "Cukanggalih (Cukang Galih)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Curug Kulon"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukabakti (Suka Bakti)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Binong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Curug Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kadu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadu Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cukanggalih (Cukang Galih)"
+    }
   ]
 }

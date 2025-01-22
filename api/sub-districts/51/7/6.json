@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bungaya (Bungaya Kauh)",
-    "Budekeling (Budakeling / Bude Keling)",
-    "Bebanden (Bebandem)",
-    "Sibetan",
-    "Jungutan",
-    "Bungaya Kangin",
-    "Buana Giri",
-    "Macang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bungaya (Bungaya Kauh)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Budekeling (Budakeling / Bude Keling)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bebanden (Bebandem)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sibetan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jungutan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bungaya Kangin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buana Giri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Macang"
+    }
   ]
 }

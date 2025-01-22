@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sei/Sungai Pinyuh",
-    "Sei/Sungai Rasau",
-    "Sungai Rasau Besar Darat (Sei Bakau Besar Darat)",
-    "Sei/Sungai Purun Kecil",
-    "Sei/Sungai Bakau Besar Laut",
-    "Sei/Sungai Batang",
-    "Peniraman",
-    "Nusapati",
-    "Galang (Jalan Galang)"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sei/Sungai Pinyuh"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Rasau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Rasau Besar Darat (Sei Bakau Besar Darat)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Purun Kecil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Bakau Besar Laut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Batang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peniraman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nusapati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Galang (Jalan Galang)"
+    }
   ]
 }

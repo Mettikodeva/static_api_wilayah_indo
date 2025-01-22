@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Simalinyang",
-    "Bina Baru",
-    "Hidup Baru",
-    "Karya Bakti/Bhakti",
-    "Lubuk Sakai",
-    "Penghidupan",
-    "Mayang Pongkai",
-    "Koto Damai",
-    "Utama Karya",
-    "Bukit Sakai",
-    "Mekar Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simalinyang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bina Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hidup Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karya Bakti/Bhakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Sakai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penghidupan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mayang Pongkai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Damai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Utama Karya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Sakai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekar Jaya"
+    }
   ]
 }

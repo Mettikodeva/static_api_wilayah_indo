@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mendahara Ilir",
-    "Pangkalan/Pangkal Duri",
-    "Mendahara Tengah",
-    "Lagan Ilir",
-    "Sinar Kalimantan",
-    "Sungai Tawar",
-    "Bhakti/Bakti Idaman",
-    "Merbau",
-    "Pangkal Duri Ilir"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mendahara Ilir"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangkalan/Pangkal Duri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mendahara Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lagan Ilir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinar Kalimantan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungai Tawar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bhakti/Bakti Idaman"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Merbau"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pangkal Duri Ilir"
+    }
   ]
 }

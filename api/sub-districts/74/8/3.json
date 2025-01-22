@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Batu Putih",
-    "Latowu",
-    "Mosiku",
-    "Lelewawo",
-    "Batu Api (Batuapi)",
-    "Bukit Tinggi",
-    "Bukit Baru",
-    "Parung Lampe",
-    "Puncak Harapan",
-    "Tetebawo",
-    "Makkuaseng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Latowu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mosiku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lelewawo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Api (Batuapi)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Tinggi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bukit Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Parung Lampe"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Puncak Harapan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tetebawo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Makkuaseng"
+    }
   ]
 }

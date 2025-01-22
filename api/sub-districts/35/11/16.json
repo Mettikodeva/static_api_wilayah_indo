@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bandilan",
-    "Sempol",
-    "Tarum",
-    "Prajekan Lor",
-    "Prajekan Kidul",
-    "Cangkring",
-    "Walidono"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandilan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sempol"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tarum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Prajekan Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Prajekan Kidul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cangkring"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Walidono"
+    }
   ]
 }

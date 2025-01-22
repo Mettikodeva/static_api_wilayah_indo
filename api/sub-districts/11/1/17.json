@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Buket Gadeng (Bukit Gading / Buket Gedeng)",
-    "Rambong",
-    "Seuneubok Keuranji (Seunebok Keranji)",
-    "Seuneubok Alur Buloh (Seneubok Alur Bulah)",
-    "Ujong Tanoh (Ujung Tanoh)",
-    "Ujong Gunong Cut (Ujung Gunung Cut)",
-    "Ujong Gunung Rayeuk (Ujung Gunong Rayek)",
-    "Beutong",
-    "Jambo Keupok/Keuphok",
-    "Alurduamas (Alur Dua Mas)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buket Gadeng (Bukit Gading / Buket Gedeng)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rambong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Seuneubok Keuranji (Seunebok Keranji)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seuneubok Alur Buloh (Seneubok Alur Bulah)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ujong Tanoh (Ujung Tanoh)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujong Gunong Cut (Ujung Gunung Cut)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ujong Gunung Rayeuk (Ujung Gunong Rayek)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beutong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jambo Keupok/Keuphok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Alurduamas (Alur Dua Mas)"
+    }
   ]
 }

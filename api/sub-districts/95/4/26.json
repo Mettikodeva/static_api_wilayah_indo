@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gagulineri",
-    "Telekonok",
-    "Kuoklanggunik",
-    "Bogokila",
-    "Mabuk",
-    "Nogari",
-    "Genage",
-    "Tigir",
-    "Gindugunik",
-    "Konengga"
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Gagulineri"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Telekonok"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kuoklanggunik"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Bogokila"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Mabuk"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Nogari"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Genage"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Tigir"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Gindugunik"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Konengga"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tam Ngurhir",
-    "Tayando Langgiar",
-    "Tayando Yamtel",
-    "Tayando Ohoiel",
-    "Tayando Yamru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tam Ngurhir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tayando Langgiar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tayando Yamtel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tayando Ohoiel"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tayando Yamru"
+    }
   ]
 }

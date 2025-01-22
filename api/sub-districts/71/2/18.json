@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Urongo",
-    "Tounsaru",
-    "Tataaran Dua (II)",
-    "Tataaran Satu (I)",
-    "Koya",
-    "Paleloan (Peleloan)",
-    "Tataaran Patar",
-    "Maesa Unima"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Urongo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tounsaru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tataaran Dua (II)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tataaran Satu (I)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Koya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Paleloan (Peleloan)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tataaran Patar"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Maesa Unima"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pangalengan",
-    "Margaluyu",
-    "Warnasari",
-    "Sukamanah",
-    "Lamajang",
-    "Margamukti",
-    "Margamulya",
-    "Banjarsari",
-    "Sukaluyu",
-    "Tribaktimulya",
-    "Pulosari",
-    "Wanasuka",
-    "Margamekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangalengan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Warnasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamajang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margamukti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margamulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukaluyu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tribaktimulya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulosari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wanasuka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Margamekar"
+    }
   ]
 }

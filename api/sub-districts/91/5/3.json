@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Korombobi (Karombobi)",
-    "Dawai",
-    "Wabo",
-    "Nunsembai (Hunsembai)",
-    "Nunsiari",
-    "Woinsupi (Waisopi)",
-    "Awunawai",
-    "Mareruni (Mereruni / Maseruni)",
-    "Wabompi",
-    "Duai",
-    "Sere Sere"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Korombobi (Karombobi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dawai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wabo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nunsembai (Hunsembai)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nunsiari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Woinsupi (Waisopi)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Awunawai"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Mareruni (Mereruni / Maseruni)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Wabompi"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Duai"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Sere Sere"
+    }
   ]
 }

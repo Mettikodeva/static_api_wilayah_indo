@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sambaliung",
-    "Long Lanuk",
-    "Tumbit Dayak",
-    "Inaran",
-    "Pegat Bukur",
-    "Rantau Panjang",
-    "Suaran",
-    "Pilanjau",
-    "Pesayan",
-    "Bebanir (Sei Bebanir Bangun)",
-    "Gurimbang",
-    "Sukan Tengah",
-    "Tanjung Perangat",
-    "Bena Baru"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sambaliung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Lanuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbit Dayak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Inaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pegat Bukur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suaran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pilanjau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pesayan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bebanir (Sei Bebanir Bangun)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gurimbang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukan Tengah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjung Perangat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bena Baru"
+    }
   ]
 }

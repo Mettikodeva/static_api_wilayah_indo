@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tonjung (Tunjung)",
-    "Burneh",
-    "Langkap",
-    "Banangkah (Benangkah)",
-    "Alaskembang (Alas Kembang)",
-    "Arok",
-    "Kapor",
-    "Sobih",
-    "Pangolangan",
-    "Binoh",
-    "Perreng",
-    "Jambuh (Jambu)"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tonjung (Tunjung)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Burneh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Langkap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banangkah (Benangkah)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alaskembang (Alas Kembang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Arok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kapor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sobih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangolangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Binoh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Perreng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jambuh (Jambu)"
+    }
   ]
 }

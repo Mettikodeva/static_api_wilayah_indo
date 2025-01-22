@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sanetan",
-    "Rakitan",
-    "Bendo",
-    "Labuhan Kidul",
-    "Sendangmulyo",
-    "Blimbing",
-    "Manggar",
-    "Jatisari",
-    "Langgar",
-    "Sluke",
-    "Jurangjero",
-    "Leran",
-    "Trahan",
-    "Pangkalan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sanetan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rakitan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labuhan Kidul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sendangmulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blimbing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manggar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langgar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sluke"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jurangjero"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Leran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Trahan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pangkalan"
+    }
   ]
 }

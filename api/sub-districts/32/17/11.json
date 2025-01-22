@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cililin",
-    "Budiharja",
-    "Batulayang",
-    "Bongas",
-    "Karanganyar",
-    "Karangtanjung",
-    "Karyamukti",
-    "Kidangpananjung",
-    "Mukapayung",
-    "Nanggerang",
-    "Rancapanggung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cililin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Budiharja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batulayang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bongas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangtanjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kidangpananjung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mukapayung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nanggerang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rancapanggung"
+    }
   ]
 }

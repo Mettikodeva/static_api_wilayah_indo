@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bingai",
-    "Gohor Lama",
-    "Stabat Lama",
-    "Besilam Bukit Lembasa",
-    "Kebun Balok",
-    "Bukit Melintang",
-    "Gergas",
-    "Stabat Lama Barat",
-    "Sumber Mulyo",
-    "Pertumbukan",
-    "Paya Tusam",
-    "Mekar Jaya",
-    "Jentera Stabat",
-    "Stungkit"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bingai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gohor Lama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Stabat Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Besilam Bukit Lembasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebun Balok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Melintang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gergas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Stabat Lama Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Mulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pertumbukan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Paya Tusam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jentera Stabat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Stungkit"
+    }
   ]
 }

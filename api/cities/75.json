@@ -1,9 +1,28 @@
 {
   "cities": [
-    "Gorontalo",
-    "Boalemo",
-    "Bone Bolango",
-    "Pahuwato",
-    "Gorontalo Utara"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Gorontalo"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Boalemo"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Bone Bolango"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Pahuwato"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Gorontalo Utara"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Gorontalo"
+    }
   ]
 }

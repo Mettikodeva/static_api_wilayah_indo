@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Biripem",
-    "Dakbri",
-    "Abualak",
-    "Urugom",
-    "Area",
-    "Wumaga",
-    "Gulama",
-    "Kigam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biripem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dakbri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Abualak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Urugom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Area"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wumaga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gulama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kigam"
+    }
   ]
 }

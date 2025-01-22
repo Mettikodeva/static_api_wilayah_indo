@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bonglo",
-    "Teda (Tede)",
-    "Barana",
-    "Urasu (Uraso)",
-    "Karatuan",
-    "Salubua",
-    "Pantilang",
-    "Buntu Tallang",
-    "Dampan",
-    "Maindo",
-    "Tasangtongkonan",
-    "Ta'ba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonglo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teda (Tede)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Urasu (Uraso)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karatuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salubua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pantilang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buntu Tallang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dampan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maindo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tasangtongkonan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ta'ba"
+    }
   ]
 }

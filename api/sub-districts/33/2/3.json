@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gunung Wetan",
-    "Pekuncen",
-    "Karanglewas",
-    "Karanganyar",
-    "Margasana",
-    "Adisara",
-    "Kedungwringin",
-    "Bantar",
-    "Tinggarjaya",
-    "Tunjung (Tanjung)",
-    "Gentawangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunung Wetan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pekuncen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanglewas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margasana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Adisara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedungwringin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bantar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tinggarjaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tunjung (Tanjung)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gentawangi"
+    }
   ]
 }

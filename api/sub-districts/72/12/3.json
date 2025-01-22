@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dolupo Karya (Dalupo Karya)",
-    "Po'ona",
-    "Petumbea",
-    "Ronta",
-    "Pontangoa",
-    "Jamor Jaya (Jamur Jaya)",
-    "Pa'awaru",
-    "Lembobelala",
-    "Bintangor Mukti",
-    "Mandula"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dolupo Karya (Dalupo Karya)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Po'ona"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Petumbea"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ronta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pontangoa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jamor Jaya (Jamur Jaya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pa'awaru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lembobelala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bintangor Mukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mandula"
+    }
   ]
 }

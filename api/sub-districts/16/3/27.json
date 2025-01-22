@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lebak Budi",
-    "Lambur",
-    "Pagar Jati",
-    "Tanjung Baru",
-    "Sukaraja",
-    "Pandan Dulang",
-    "Muara Meo",
-    "Sugih Waras",
-    "Inderamayu",
-    "Bedegung",
-    "Padang Bindu",
-    "Lubuk Nipis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebak Budi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lambur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Jati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pandan Dulang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Meo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sugih Waras"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Inderamayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bedegung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Bindu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lubuk Nipis"
+    }
   ]
 }

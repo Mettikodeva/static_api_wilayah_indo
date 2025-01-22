@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kokonao",
-    "Migiwia",
-    "Kiura",
-    "Mimika",
-    "Aparuka",
-    "Atapo",
-    "Apuri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kokonao"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Migiwia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kiura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mimika"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aparuka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Atapo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Apuri"
+    }
   ]
 }

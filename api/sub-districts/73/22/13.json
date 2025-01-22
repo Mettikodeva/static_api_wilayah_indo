@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mulyorejo",
-    "Rawamangun",
-    "Paomacang",
-    "Wonokerto",
-    "Sumber Baru",
-    "Banyuwangi",
-    "Subur",
-    "Lino",
-    "Sidoraharjo",
-    "Sukamukti",
-    "Suka Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mulyorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rawamangun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paomacang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banyuwangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Subur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lino"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidoraharjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Harapan"
+    }
   ]
 }

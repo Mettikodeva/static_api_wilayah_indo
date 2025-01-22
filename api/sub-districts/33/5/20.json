@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Panjatan",
-    "Karanganyar",
-    "Jatiluhur",
-    "Plarangan",
-    "Sidomulyo",
-    "Candi",
-    "Giripurno",
-    "Karangkemiri",
-    "Wonorejo",
-    "Grenggeng",
-    "Pohkumbang"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Panjatan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jatiluhur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Plarangan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Giripurno"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangkemiri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Grenggeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pohkumbang"
+    }
   ]
 }

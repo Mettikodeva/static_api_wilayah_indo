@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Gantarang (Gantorang, Gangking)",
-    "Ujung Bulu",
-    "Bonto Bahari",
-    "Bonto Tiro (Bontotiro)",
-    "Herlang (Hero Lange Lange)",
-    "Kajang",
-    "Bulukumpa (Bulukumba)",
-    "Kindang",
-    "Ujungloe (Ujung Loe)",
-    "Rilauale (Rilau Ale)"
+    {
+      "district_id": 1,
+      "kecamatan": "Gantarang (Gantorang, Gangking)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ujung Bulu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bonto Bahari"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bonto Tiro (Bontotiro)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Herlang (Hero Lange Lange)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kajang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bulukumpa (Bulukumba)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kindang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Ujungloe (Ujung Loe)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Rilauale (Rilau Ale)"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Cipamokolan",
-    "Derwati (Darwati)",
-    "Munjahlega (Manjahlega / Cisarantenkidul)",
-    "Mekarmulya (Mekar Mulya / Mekarjaya)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cipamokolan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Derwati (Darwati)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Munjahlega (Manjahlega / Cisarantenkidul)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mekarmulya (Mekar Mulya / Mekarjaya)"
+    }
   ]
 }

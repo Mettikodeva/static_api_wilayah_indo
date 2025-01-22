@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Narumonda I",
-    "Narumonda II",
-    "Narumonda III",
-    "Narumonda IV",
-    "Narumonda V",
-    "Narumonda VI",
-    "Narumonda VII",
-    "Narumonda VIII",
-    "Siantar Sitio Tio (Siantar Sitiotio)",
-    "Siantar Dangsina",
-    "Siantar Tonga Tonga I",
-    "Siantar Tonga Tonga II",
-    "Siantar Sigordang",
-    "Siantar Tonga-Tonga III"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Narumonda I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Narumonda II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Narumonda III"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Narumonda IV"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Narumonda V"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Narumonda VI"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Narumonda VII"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Narumonda VIII"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siantar Sitio Tio (Siantar Sitiotio)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siantar Dangsina"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Siantar Tonga Tonga I"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Siantar Tonga Tonga II"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Siantar Sigordang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Siantar Tonga-Tonga III"
+    }
   ]
 }

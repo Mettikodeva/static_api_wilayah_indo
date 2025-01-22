@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Makbusun (Makbusum)",
-    "Makbalim",
-    "Makotyamsa",
-    "Jeflio",
-    "Arar",
-    "Klain (Klalin)",
-    "Klasmelek",
-    "Wen",
-    "Warmon Kokoda",
-    "Asjidba",
-    "Malamay"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Makbusun (Makbusum)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Makbalim"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Makotyamsa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jeflio"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klain (Klalin)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klasmelek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Warmon Kokoda"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Asjidba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Malamay"
+    }
   ]
 }

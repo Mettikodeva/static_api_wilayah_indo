@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Larike",
-    "Wakasihu",
-    "Allang",
-    "Liliboy (Liliboi)",
-    "Hatu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Larike"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wakasihu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Allang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Liliboy (Liliboi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hatu"
+    }
   ]
 }

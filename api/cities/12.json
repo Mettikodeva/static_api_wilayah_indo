@@ -1,37 +1,136 @@
 {
   "cities": [
-    "Tapanuli Tengah",
-    "Tapanuli Utara",
-    "Tapanuli Selatan",
-    "Nias",
-    "Langkat",
-    "Karo",
-    "Deli Serdang",
-    "Simalungun",
-    "Asahan",
-    "Labuhanbatu",
-    "Dairi",
-    "Toba",
-    "Mandailing Natal",
-    "Nias Selatan",
-    "Pakpak Bharat",
-    "Humbang Hasundutan",
-    "Samosir",
-    "Serdang Bedagai",
-    "Batu Bara",
-    "Padang Lawas Utara",
-    "Padang Lawas",
-    "Labuhanbatu Selatan",
-    "Labuhanbatu Utara",
-    "Nias Utara",
-    "Nias Barat",
-    "Medan",
-    "Pematangsiantar",
-    "Sibolga",
-    "Tanjung Balai",
-    "Binjai",
-    "Tebing Tinggi",
-    "Padangsidimpuan",
-    "Gunungsitoli"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Tapanuli Tengah"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Tapanuli Utara"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Tapanuli Selatan"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Nias"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Langkat"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Karo"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Deli Serdang"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Simalungun"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Asahan"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Labuhanbatu"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Dairi"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Toba"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Mandailing Natal"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Nias Selatan"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Pakpak Bharat"
+    },
+    {
+      "city_id": 16,
+      "kabupaten_kota": "Humbang Hasundutan"
+    },
+    {
+      "city_id": 17,
+      "kabupaten_kota": "Samosir"
+    },
+    {
+      "city_id": 18,
+      "kabupaten_kota": "Serdang Bedagai"
+    },
+    {
+      "city_id": 19,
+      "kabupaten_kota": "Batu Bara"
+    },
+    {
+      "city_id": 20,
+      "kabupaten_kota": "Padang Lawas Utara"
+    },
+    {
+      "city_id": 21,
+      "kabupaten_kota": "Padang Lawas"
+    },
+    {
+      "city_id": 22,
+      "kabupaten_kota": "Labuhanbatu Selatan"
+    },
+    {
+      "city_id": 23,
+      "kabupaten_kota": "Labuhanbatu Utara"
+    },
+    {
+      "city_id": 24,
+      "kabupaten_kota": "Nias Utara"
+    },
+    {
+      "city_id": 25,
+      "kabupaten_kota": "Nias Barat"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Medan"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Pematangsiantar"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Sibolga"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Tanjung Balai"
+    },
+    {
+      "city_id": 75,
+      "kabupaten_kota": "Binjai"
+    },
+    {
+      "city_id": 76,
+      "kabupaten_kota": "Tebing Tinggi"
+    },
+    {
+      "city_id": 77,
+      "kabupaten_kota": "Padangsidimpuan"
+    },
+    {
+      "city_id": 78,
+      "kabupaten_kota": "Gunungsitoli"
+    }
   ]
 }

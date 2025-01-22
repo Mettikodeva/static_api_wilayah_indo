@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mandi Angin (Mandiangin)",
-    "Tanjung Lubuk",
-    "Tebing Gerinting Selatan",
-    "Arisan Gading",
-    "Tanjung Dayang Selatan",
-    "Beti",
-    "Meranjat I",
-    "Meranjat Ilir",
-    "Meranjat II",
-    "Sukaraja Lama",
-    "Sukaraja Baru",
-    "Tebing Gerinting Utara",
-    "Tanjung Dayang Utara",
-    "Meranjat III"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mandi Angin (Mandiangin)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Lubuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tebing Gerinting Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arisan Gading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Dayang Selatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meranjat I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meranjat Ilir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meranjat II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukaraja Lama"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukaraja Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tebing Gerinting Utara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Dayang Utara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Meranjat III"
+    }
   ]
 }

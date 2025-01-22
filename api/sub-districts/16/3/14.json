@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Aur",
-    "Beringin",
-    "Kota Baru",
-    "Pagar Gunung",
-    "Gunung Raja",
-    "Tanjung Kemala",
-    "Suka Merindu",
-    "Jiwa Baru",
-    "Air Asam (Air Masam)",
-    "Menanti (Lubai Menanti)"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagar Gunung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Raja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Kemala"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Merindu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jiwa Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Air Asam (Air Masam)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Menanti (Lubai Menanti)"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sapat",
-    "Sungaibuluh (Sungai Buluh)",
-    "Tanjunglajau (Tanjung Lajau)",
-    "Sungaibela (Sungai Bela)",
-    "Telukdalam (Teluk Dalam)",
-    "Sungaipiyai (Sungai Piyai)",
-    "Perigi Raja",
-    "Tanjungmelayu (Tanjung Melayu)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sapat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungaibuluh (Sungai Buluh)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjunglajau (Tanjung Lajau)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaibela (Sungai Bela)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telukdalam (Teluk Dalam)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaipiyai (Sungai Piyai)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perigi Raja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjungmelayu (Tanjung Melayu)"
+    }
   ]
 }

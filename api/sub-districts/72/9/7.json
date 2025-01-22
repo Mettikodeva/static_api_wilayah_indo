@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Malei Tojo",
-    "Matako",
-    "Bambalo",
-    "Galuga",
-    "Toliba",
-    "Ujung Tibu",
-    "Nggawia",
-    "Tombiano",
-    "Tatari",
-    "Kabalo",
-    "Tanamawau",
-    "Malewa",
-    "Mawomba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malei Tojo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matako"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bambalo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Galuga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toliba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujung Tibu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nggawia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tombiano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tatari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kabalo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanamawau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Malewa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mawomba"
+    }
   ]
 }

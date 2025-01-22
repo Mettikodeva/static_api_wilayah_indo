@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lilimori (Lelemori)",
-    "Karave (Karabe)",
-    "Bukit Harapan",
-    "Kastabuana (Kasta Buana)",
-    "Sumber Sari (Sumbersari)",
-    "Lelejae",
-    "Ompi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lilimori (Lelemori)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karave (Karabe)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kastabuana (Kasta Buana)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Sari (Sumbersari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lelejae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ompi"
+    }
   ]
 }

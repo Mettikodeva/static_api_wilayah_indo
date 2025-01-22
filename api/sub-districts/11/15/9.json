@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kuala Teripa/Tripa",
-    "Babah Lueng",
-    "Drien Tujoh",
-    "Lueng Keubeu Jagat (Lueng Keube Jagat / Jagad)",
-    "Kabu",
-    "Pasie Keube Dom",
-    "Neubok Yee PK",
-    "Neubok Yee PP",
-    "Mon Dua",
-    "Ujong Krueng",
-    "Panton Pange"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Teripa/Tripa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babah Lueng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Drien Tujoh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lueng Keubeu Jagat (Lueng Keube Jagat / Jagad)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kabu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasie Keube Dom"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Neubok Yee PK"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Neubok Yee PP"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mon Dua"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ujong Krueng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panton Pange"
+    }
   ]
 }

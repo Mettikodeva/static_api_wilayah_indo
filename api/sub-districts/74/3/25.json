@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wakumoro",
-    "Walambeno Wite",
-    "Kolasa",
-    "Wasolangka",
-    "Labulu-Bulu",
-    "Latumpu (Latampu / Tampu)",
-    "Laiba",
-    "Warambe",
-    "Parigi",
-    "Wapuale",
-    "Kosundano"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wakumoro"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Walambeno Wite"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kolasa"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Wasolangka"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labulu-Bulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Latumpu (Latampu / Tampu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laiba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Warambe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parigi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wapuale"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kosundano"
+    }
   ]
 }

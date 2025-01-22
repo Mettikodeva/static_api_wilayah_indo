@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jatisawit",
-    "Leuwikidang",
-    "Ranji Kulon (Ranjikulon)",
-    "Ranji Wetan (Ranjiwetan)",
-    "Gunungsari",
-    "Kasokandel",
-    "Girimukti",
-    "Jatimulya",
-    "Wanajaya",
-    "Gandasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatisawit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Leuwikidang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ranji Kulon (Ranjikulon)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranji Wetan (Ranjiwetan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kasokandel"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatimulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wanajaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gandasari"
+    }
   ]
 }

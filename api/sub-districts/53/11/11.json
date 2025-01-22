@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wulla (Wula)",
-    "Hadakamali",
-    "Lumbu Manggit",
-    "Latena (La Tena)",
-    "Lainjanji",
-    "Laipandak",
-    "Paranda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wulla (Wula)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hadakamali"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lumbu Manggit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Latena (La Tena)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lainjanji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laipandak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paranda"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Getrakmoyan",
-    "Ender",
-    "Pangenan",
-    "Bendungan",
-    "Rawaurip",
-    "Beringin",
-    "Japura Lor",
-    "Pengarengan (Pangarengan)",
-    "Astana Mukti (Astanamukti)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Getrakmoyan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ender"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangenan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bendungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rawaurip"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Japura Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pengarengan (Pangarengan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Astana Mukti (Astanamukti)"
+    }
   ]
 }

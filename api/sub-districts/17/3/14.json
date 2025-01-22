@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Talang Arah",
-    "Pasar Sebelat",
-    "Kota Bani (Pasar Baru Kota Bani)",
-    "Air Muring",
-    "Air Pandan",
-    "Cipta Mulya",
-    "Air Petai",
-    "Karang Tengah",
-    "Karang Pulau"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Arah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasar Sebelat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kota Bani (Pasar Baru Kota Bani)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Air Muring"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Air Pandan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cipta Mulya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Air Petai"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Karang Tengah"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Karang Pulau"
+    }
   ]
 }

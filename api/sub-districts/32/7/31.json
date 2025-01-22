@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sindangkasih",
-    "Gunungcupu",
-    "Budiasih",
-    "Budiharja",
-    "Sukaraja",
-    "Sukamanah",
-    "Sukasenang",
-    "Sukaresik",
-    "Wanasigra"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sindangkasih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunungcupu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Budiasih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Budiharja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukasenang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukaresik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wanasigra"
+    }
   ]
 }

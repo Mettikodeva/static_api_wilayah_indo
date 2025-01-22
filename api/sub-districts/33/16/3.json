@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Megeri",
-    "Nglebak",
-    "Getas",
-    "Nginggil",
-    "Ngrawoh",
-    "Mendenrejo",
-    "Sumber",
-    "Mojorembun",
-    "Nglungger",
-    "Medalem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Megeri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nglebak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Getas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nginggil"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngrawoh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mendenrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mojorembun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nglungger"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Medalem"
+    }
   ]
 }

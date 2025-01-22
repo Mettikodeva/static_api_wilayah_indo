@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karondoran",
-    "Kumersot (Kumeresot)",
-    "Pinokalan",
-    "Tewaan",
-    "Danowudu",
-    "Dua Sudara (Duasadara)",
-    "Apela Dua (II)",
-    "Apela Satu (I)",
-    "Pinasungkulan",
-    "Batuputih Atas (Batu Putih Atas)",
-    "Batuputih Bawah (Batu Putih Bawah)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karondoran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kumersot (Kumeresot)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pinokalan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tewaan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Danowudu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dua Sudara (Duasadara)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Apela Dua (II)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Apela Satu (I)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pinasungkulan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Batuputih Atas (Batu Putih Atas)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Batuputih Bawah (Batu Putih Bawah)"
+    }
   ]
 }

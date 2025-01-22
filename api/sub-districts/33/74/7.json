@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Randusari",
-    "Bulustalan",
-    "Barusari",
-    "Mugasari (Mugassari)",
-    "Pleburan",
-    "Wonodri",
-    "Peterongan",
-    "Lamper Lor",
-    "Lamper Kidul",
-    "Lamper Tengah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Randusari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bulustalan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Barusari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mugasari (Mugassari)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pleburan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wonodri"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Peterongan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lamper Lor"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lamper Kidul"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lamper Tengah"
+    }
   ]
 }

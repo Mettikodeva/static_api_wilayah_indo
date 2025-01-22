@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mangli",
-    "Sempusari",
-    "Kebonagung (Kebon Agung)",
-    "Kaliwates",
-    "Jemberkidul (Jember Kidul)",
-    "Kepatihan",
-    "Tegalbesar (Tegal Besar)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mangli"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sempusari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kebonagung (Kebon Agung)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kaliwates"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jemberkidul (Jember Kidul)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tegalbesar (Tegal Besar)"
+    }
   ]
 }

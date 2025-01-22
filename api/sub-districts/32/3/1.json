@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pamoyanan",
-    "Sawahgede (Sawah Gede)",
-    "Bojongherang",
-    "Sayang",
-    "Solokpandan",
-    "Muka",
-    "Babakan Karet (Babakankaret)",
-    "Nagrak",
-    "Sukamaju",
-    "Mekarsari",
-    "Limbangansari (Limbangan Sari)"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pamoyanan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sawahgede (Sawah Gede)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bojongherang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sayang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Solokpandan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Muka"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babakan Karet (Babakankaret)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nagrak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limbangansari (Limbangan Sari)"
+    }
   ]
 }

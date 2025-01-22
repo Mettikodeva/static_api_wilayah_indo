@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Teluk Sono",
-    "Sontang",
-    "Bonai",
-    "Rawa Makmur",
-    "Pauh",
-    "Kasang Padang",
-    "Kasang Mungai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Sono"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sontang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawa Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pauh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kasang Padang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kasang Mungai"
+    }
   ]
 }

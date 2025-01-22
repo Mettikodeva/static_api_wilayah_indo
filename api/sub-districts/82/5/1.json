@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Waitina",
-    "Kau/Kou (Kow)",
-    "Waitamela",
-    "Karamat Titdoy",
-    "Naflo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waitina"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kau/Kou (Kow)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waitamela"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karamat Titdoy"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Naflo"
+    }
   ]
 }

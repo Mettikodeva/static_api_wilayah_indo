@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanaki",
-    "Kapeta",
-    "Talawid",
-    "Laghaeng",
-    "Makoa (Mekar Sari)",
-    "Batusenggo",
-    "Mahuneni"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanaki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kapeta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talawid"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laghaeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makoa (Mekar Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batusenggo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mahuneni"
+    }
   ]
 }

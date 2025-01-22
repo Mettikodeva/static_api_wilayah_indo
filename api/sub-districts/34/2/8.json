@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Palbapang",
-    "Ringinharjo (Ringin Harjo)",
-    "Bantul",
-    "Trirenggo",
-    "Sabdodadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palbapang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ringinharjo (Ringin Harjo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bantul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Trirenggo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sabdodadi"
+    }
   ]
 }

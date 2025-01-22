@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Yawerma",
-    "Wombonda",
-    "Marsram",
-    "Duber",
-    "Sauyas",
-    "Wafor",
-    "Sorendidori (Sorendiweri)",
-    "Waryesi",
-    "Syurdori",
-    "Douwbo (Doubo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yawerma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wombonda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marsram"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Duber"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sauyas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wafor"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sorendidori (Sorendiweri)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waryesi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Syurdori"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Douwbo (Doubo)"
+    }
   ]
 }

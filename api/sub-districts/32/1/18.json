@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Rumpin",
-    "Leuwibatu",
-    "Cidokom",
-    "Gobang",
-    "Cibodas",
-    "Rabak",
-    "Kampungsawah (Kampung Sawah)",
-    "Cipinang",
-    "Sukasari",
-    "Tamansari (Taman Sari)",
-    "Kertajaya (Kerta Jaya)",
-    "Sukamulya",
-    "Mekarsari (Mekar Sari)",
-    "Mekarjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rumpin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Leuwibatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cidokom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gobang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rabak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampungsawah (Kampung Sawah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cipinang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tamansari (Taman Sari)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kertajaya (Kerta Jaya)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekarsari (Mekar Sari)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekarjaya"
+    }
   ]
 }

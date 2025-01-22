@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kotarih Pekan",
-    "Kotarih Baru",
-    "Banjaran Godang",
-    "Si Ujan Ujan (Sei Ujan-Ujan)",
-    "Sei Kari (Sei Karih)",
-    "Bandar Bayu",
-    "Durian Kondot",
-    "Perbahingan",
-    "Sialtong",
-    "Huta Galuh",
-    "Rubun Dunia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kotarih Pekan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kotarih Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjaran Godang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Si Ujan Ujan (Sei Ujan-Ujan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei Kari (Sei Karih)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bandar Bayu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Durian Kondot"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Perbahingan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sialtong"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Huta Galuh"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Rubun Dunia"
+    }
   ]
 }

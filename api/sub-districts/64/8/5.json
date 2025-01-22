@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Kerayaan",
-    "Tanjung Manis",
-    "Peridan",
-    "Saka",
-    "Mandu Dalam",
-    "Benua Baru (Benua Baru Ilir)",
-    "Sempuyau (Sempayau)",
-    "Pelawan",
-    "Tepian Terap",
-    "Maloy",
-    "Benua Baru Ulu",
-    "Kolek",
-    "Pulau Miang",
-    "Perupuk",
-    "Mandu Pantai Sejahtera (Mandau Pantai Sejahtera)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kerayaan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Manis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Peridan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mandu Dalam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benua Baru (Benua Baru Ilir)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sempuyau (Sempayau)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pelawan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tepian Terap"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Maloy"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Benua Baru Ulu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kolek"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pulau Miang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Perupuk"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mandu Pantai Sejahtera (Mandau Pantai Sejahtera)"
+    }
   ]
 }

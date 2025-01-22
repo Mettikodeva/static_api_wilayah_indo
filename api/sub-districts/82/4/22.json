@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wayatim",
-    "Tomara",
-    "Tutupa",
-    "Tabapoma",
-    "Bibinoi",
-    "Songa",
-    "Tawa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wayatim"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tomara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tutupa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tabapoma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bibinoi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Songa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tawa"
+    }
   ]
 }

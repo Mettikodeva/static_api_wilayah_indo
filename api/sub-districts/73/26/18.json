@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bokin",
-    "Buangin",
-    "Rantebua",
-    "Pitung Penanian",
-    "Ma'kuan Pare",
-    "Rantebua Sumalu",
-    "Rantebua Sanggalagi"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bokin"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Buangin"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantebua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pitung Penanian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ma'kuan Pare"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantebua Sumalu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rantebua Sanggalagi"
+    }
   ]
 }

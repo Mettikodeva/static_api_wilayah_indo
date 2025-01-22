@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Dogomo",
-    "Bomong Bugopa",
-    "Dangipa",
-    "Ondegapa",
-    "Sogomo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dogomo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bomong Bugopa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dangipa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ondegapa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sogomo"
+    }
   ]
 }

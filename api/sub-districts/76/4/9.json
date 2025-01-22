@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Matangnga",
-    "Lilli",
-    "Rangoan",
-    "Tapua",
-    "Mambu Tapua",
-    "Ba'ba Tapua",
-    "Katimbang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Matangnga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lilli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rangoan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mambu Tapua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ba'ba Tapua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Katimbang"
+    }
   ]
 }

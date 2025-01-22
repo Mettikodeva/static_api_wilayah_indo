@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanggan",
-    "Pilangsari",
-    "Blangu",
-    "Gesi",
-    "Srawung",
-    "Poleng",
-    "Slendro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanggan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pilangsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blangu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gesi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Srawung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Poleng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Slendro"
+    }
   ]
 }

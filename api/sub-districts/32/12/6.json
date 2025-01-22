@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mulyasari",
-    "Bangodua",
-    "Beduyut",
-    "Rancasari",
-    "Wanasari",
-    "Karanggetas",
-    "Tegalgirang",
-    "Malangsari"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bangodua"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Beduyut"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rancasari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Karanggetas"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tegalgirang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Malangsari"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "districts": [
-    "Tana Righu",
-    "Loli",
-    "Wanokaka",
-    "Lamboya",
-    "Kota Waikabubak",
-    "Laboya Barat (Lamboya Barat)"
+    {
+      "district_id": 4,
+      "kecamatan": "Tana Righu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Loli"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wanokaka"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lamboya"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kota Waikabubak"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Laboya Barat (Lamboya Barat)"
+    }
   ]
 }

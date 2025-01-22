@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Molawe",
-    "Bandaeha",
-    "Awila",
-    "Mowundo",
-    "Mandiopo (Mandiodo)",
-    "Tapunggaya (Tapunggaea)",
-    "Mataiwoi",
-    "Awila Puncak",
-    "Tapuemea"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Molawe"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandaeha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Awila"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mowundo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mandiopo (Mandiodo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tapunggaya (Tapunggaea)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mataiwoi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Awila Puncak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tapuemea"
+    }
   ]
 }

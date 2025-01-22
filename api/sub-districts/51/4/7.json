@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Melinggih",
-    "Kelusa",
-    "Bukian",
-    "Puhu",
-    "Buahan",
-    "Kerta",
-    "Melinggih Kelod",
-    "Buahan Kaja",
-    "Bresela (Beresela)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Melinggih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kelusa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Puhu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kerta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Melinggih Kelod"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buahan Kaja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bresela (Beresela)"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Curugrendeng",
-    "Tambakan",
-    "Bunihayu",
-    "Kumpay",
-    "Sarireja",
-    "Tambakmekar",
-    "Jalancagak"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curugrendeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bunihayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kumpay"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sarireja"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tambakmekar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Jalancagak"
+    }
   ]
 }

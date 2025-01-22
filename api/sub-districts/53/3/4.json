@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Oenak",
-    "Nifuboke",
-    "Noemuti",
-    "Fatumuti",
-    "Kiuola",
-    "Bijeli",
-    "Noebaun",
-    "Seo",
-    "Popnam",
-    "Nibaaf",
-    "Banfanu",
-    "Oeperigi"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Oenak"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Nifuboke"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Noemuti"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Fatumuti"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kiuola"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bijeli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Noebaun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Seo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Popnam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nibaaf"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banfanu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Oeperigi"
+    }
   ]
 }

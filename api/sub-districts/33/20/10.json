@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Karimunjawa",
-    "Kemojan (Kemujan)",
-    "Parang",
-    "Nyamuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karimunjawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemojan (Kemujan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nyamuk"
+    }
   ]
 }

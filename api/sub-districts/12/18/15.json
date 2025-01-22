@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pon (Kampung Pon)",
-    "Sei Bamban",
-    "Bakaran Batu",
-    "Gempolan",
-    "Rampah Estate",
-    "Suka Damai",
-    "Sei Bamban Estate",
-    "Sei Belutu",
-    "Sei Buluh (Sei Buluh Estate)",
-    "Penggalangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pon (Kampung Pon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Bamban"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bakaran Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gempolan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rampah Estate"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei Bamban Estate"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei Belutu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei Buluh (Sei Buluh Estate)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Penggalangan"
+    }
   ]
 }

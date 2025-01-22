@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karangan Dalam",
-    "Batu Lepoq",
-    "Pengadan (Pengadaan Baru)",
-    "Baay",
-    "Mukti Lestari",
-    "Karangan Seberang",
-    "Karangan Hilir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangan Dalam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Lepoq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pengadan (Pengadaan Baru)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baay"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mukti Lestari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangan Seberang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangan Hilir"
+    }
   ]
 }

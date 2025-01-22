@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Balai Jaya Kota",
-    "Balam Sempurna Kota",
-    "Balam Jaya",
-    "Balai Jaya",
-    "Balam Sempurna",
-    "Bagan Bhakti",
-    "Kencana",
-    "Pasir Putih",
-    "Pasir Putih Utara",
-    "Pasir Putih Barat",
-    "Lubuk Jawi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Balai Jaya Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Balam Sempurna Kota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balam Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balai Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balam Sempurna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bagan Bhakti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kencana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Putih Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Putih Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lubuk Jawi"
+    }
   ]
 }

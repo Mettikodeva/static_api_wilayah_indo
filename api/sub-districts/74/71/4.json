@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Andonohu (Anduonohu)",
-    "Rahandouna",
-    "Anggoeya",
-    "Matabubu",
-    "Wundumbatu"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Andonohu (Anduonohu)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rahandouna"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Anggoeya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Matabubu"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Wundumbatu"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Banti Murung (Bantimurung)",
-    "Tondong Kura (Tondongkura)",
-    "Lanne",
-    "Bulutellue (Bulu Tellue)",
-    "Malaka",
-    "Bonto Birao"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banti Murung (Bantimurung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tondong Kura (Tondongkura)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lanne"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulutellue (Bulu Tellue)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malaka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bonto Birao"
+    }
   ]
 }

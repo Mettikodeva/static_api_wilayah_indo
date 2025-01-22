@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Selopuro",
-    "Sendangsari",
-    "Tegiri",
-    "Batuwarno",
-    "Sumberejo",
-    "Ronggojati",
-    "Sumberagung",
-    "Kudi"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Selopuro"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sendangsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tegiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batuwarno"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ronggojati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberagung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kudi"
+    }
   ]
 }

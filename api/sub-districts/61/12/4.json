@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Teluk Empening",
-    "Terentang Hilir",
-    "Terentang Hulu",
-    "Permata",
-    "Betuah",
-    "Sungai Radak Satu (Sei / Sungai Radak I)",
-    "Sungai Radak Dua (Sei / Sungai Radak II)",
-    "Sungai Dungun",
-    "Teluk Bayur",
-    "Radak Baru"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Empening"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Terentang Hilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Terentang Hulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Permata"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Betuah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Radak Satu (Sei / Sungai Radak I)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Radak Dua (Sei / Sungai Radak II)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Dungun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk Bayur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Radak Baru"
+    }
   ]
 }

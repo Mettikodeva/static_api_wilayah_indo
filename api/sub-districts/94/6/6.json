@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Abouyaga",
-    "Maikotu",
-    "Taubaikebo (Toubaikebo / Tobaikebo)",
-    "Yegoukotu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Abouyaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maikotu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taubaikebo (Toubaikebo / Tobaikebo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yegoukotu"
+    }
   ]
 }

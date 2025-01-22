@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tambakmas",
-    "Tanjungrejo",
-    "Sukorejo",
-    "Pucanganom",
-    "Krandegan",
-    "Singgahan",
-    "Sidorejo",
-    "Palur",
-    "Mojorejo",
-    "Rejosari",
-    "Kebonsari",
-    "Balerejo",
-    "Kendondong",
-    "Bacem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambakmas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pucanganom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Krandegan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Singgahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Palur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mojorejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Balerejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kendondong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bacem"
+    }
   ]
 }

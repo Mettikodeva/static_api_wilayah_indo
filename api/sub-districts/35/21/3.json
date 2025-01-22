@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Umbulrejo",
-    "Kletekan",
-    "Jaten",
-    "Girimulyo",
-    "Ngrayudan",
-    "Talang",
-    "Macanan",
-    "Brubuh",
-    "Jogorogo",
-    "Dawung",
-    "Tanjungsari",
-    "Soco"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Umbulrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kletekan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jaten"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Girimulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngrayudan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Macanan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Brubuh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jogorogo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dawung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Soco"
+    }
   ]
 }

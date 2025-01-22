@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pujud Selatan",
-    "Teluk Nayang (Teluknayang)",
-    "Pujud",
-    "Air Hitam",
-    "Kasang Bangsawan",
-    "Sungaipinang",
-    "Siarang-arang",
-    "Suka Jadi",
-    "Pujud Utara",
-    "Babussalam Rokan",
-    "Perkebunan Siarang-arang"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pujud Selatan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Nayang (Teluknayang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pujud"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kasang Bangsawan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaipinang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siarang-arang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Jadi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pujud Utara"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Babussalam Rokan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Perkebunan Siarang-arang"
+    }
   ]
 }

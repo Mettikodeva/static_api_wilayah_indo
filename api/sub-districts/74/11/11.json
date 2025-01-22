@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ueesi",
-    "Wesinggote",
-    "Konawendepiha",
-    "Porabua",
-    "Watumendonga",
-    "Silui",
-    "Ahilulu (Ahilolu)",
-    "Alaaha",
-    "Likuwalanapo",
-    "Tongauna",
-    "Puurau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ueesi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wesinggote"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Konawendepiha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Porabua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watumendonga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ahilulu (Ahilolu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Alaaha"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Likuwalanapo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tongauna"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puurau"
+    }
   ]
 }

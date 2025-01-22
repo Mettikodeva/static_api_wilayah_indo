@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pananggapan",
-    "Cikangkareng",
-    "Sukajadi",
-    "Panyindangan",
-    "Padasuka",
-    "Cimaskara",
-    "Pamoyanan",
-    "Batulawang",
-    "Sukamekar",
-    "Hamerang",
-    "Girijaya",
-    "Wargaluyu",
-    "Mekarmukti",
-    "Ciburial"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pananggapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikangkareng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panyindangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cimaskara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pamoyanan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batulawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukamekar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hamerang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Girijaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wargaluyu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekarmukti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ciburial"
+    }
   ]
 }

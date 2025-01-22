@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Iluta",
-    "Bua",
-    "Huntu",
-    "Payunga",
-    "Barakati",
-    "Ilohungayo",
-    "Dunggala",
-    "Pilobuhuta"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Iluta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Huntu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Payunga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Barakati"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ilohungayo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dunggala"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pilobuhuta"
+    }
   ]
 }

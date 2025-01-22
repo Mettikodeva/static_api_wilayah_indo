@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kabiraan",
-    "Sambabo",
-    "Tandeallo",
-    "Ulumanda",
-    "Salutambung",
-    "Popenga",
-    "Sulai",
-    "Panggalo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kabiraan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambabo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tandeallo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ulumanda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salutambung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Popenga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sulai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panggalo"
+    }
   ]
 }

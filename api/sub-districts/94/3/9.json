@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wotai",
-    "Keniapa",
-    "Memiyaibutu",
-    "Dimiya",
-    "Udaugi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wotai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keniapa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Memiyaibutu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dimiya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Udaugi"
+    }
   ]
 }

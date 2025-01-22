@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Batujajar Timur",
-    "Batujajar Barat",
-    "Galanggang",
-    "Cangkorah",
-    "Selacau",
-    "Pangauban",
-    "Giriasih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batujajar Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batujajar Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Galanggang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cangkorah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selacau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangauban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Giriasih"
+    }
   ]
 }

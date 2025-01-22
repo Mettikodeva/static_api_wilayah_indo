@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Siwis",
-    "Miskum",
-    "Klamugun",
-    "Sbaga",
-    "Klalik",
-    "Malawhili",
-    "Klasou"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siwis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Miskum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klamugun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sbaga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klalik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Malawhili"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Klasou"
+    }
   ]
 }

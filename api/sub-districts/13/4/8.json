@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Simpuruik",
-    "Sungai Tarab",
-    "Gurun",
-    "Talang Tangah",
-    "Padang Laweh",
-    "Pasie/Pasir Laweh",
-    "Koto Tuo",
-    "Rao-Rao",
-    "Kumango",
-    "Koto Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpuruik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Tarab"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gurun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Tangah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Laweh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasie/Pasir Laweh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto Tuo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rao-Rao"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kumango"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Baru"
+    }
   ]
 }

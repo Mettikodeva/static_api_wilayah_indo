@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pattan Ulusalu",
-    "Salutandung",
-    "Rea Tulak Langi",
-    "Ratte Talonge",
-    "Sa'tandung",
-    "Ra'bung",
-    "Salu",
-    "Salu Boronan",
-    "Batu Tiakka"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pattan Ulusalu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Salutandung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rea Tulak Langi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ratte Talonge"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sa'tandung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ra'bung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Salu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Salu Boronan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batu Tiakka"
+    }
   ]
 }

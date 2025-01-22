@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tersobo",
-    "Prembun",
-    "Kabekelan",
-    "Tunggalroso",
-    "Kedungwaru",
-    "Bagung",
-    "Sidogede",
-    "Sembirkadipaten",
-    "Kedungbulus",
-    "Mulyosri",
-    "Pesuningan",
-    "Pecarikan",
-    "Kabuaran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tersobo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Prembun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kabekelan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunggalroso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedungwaru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bagung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidogede"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sembirkadipaten"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungbulus"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulyosri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pesuningan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pecarikan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kabuaran"
+    }
   ]
 }

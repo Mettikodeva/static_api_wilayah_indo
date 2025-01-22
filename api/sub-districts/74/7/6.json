@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tampara",
-    "Kasuwari (Kasuari/Kaswari)",
-    "Pajam",
-    "Langge",
-    "Tanomeha",
-    "Lentea",
-    "Darawa",
-    "Sandi",
-    "Peropa",
-    "Tanjung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tampara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kasuwari (Kasuari/Kaswari)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pajam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langge"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanomeha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lentea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Darawa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sandi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Peropa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung"
+    }
   ]
 }

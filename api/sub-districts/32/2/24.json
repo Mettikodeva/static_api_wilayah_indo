@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Surade",
-    "Jagamukti",
-    "Citanglar",
-    "Wanasari",
-    "Sirnasari",
-    "Kadaleman",
-    "Gunungsungging (Gunung Sungging)",
-    "Cipeundeuy",
-    "Pasiripis",
-    "Buniwangi",
-    "Sukatani",
-    "Kademangan"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Surade"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jagamukti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Citanglar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sirnasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kadaleman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunungsungging (Gunung Sungging)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cipeundeuy"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasiripis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buniwangi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kademangan"
+    }
   ]
 }

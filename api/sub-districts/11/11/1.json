@@ -1,50 +1,188 @@
 {
   "sub_districts": [
-    "Keude Aceh",
-    "Sangso",
-    "Pante Rheeng/Rheng",
-    "Meuliek",
-    "Namploh Baro",
-    "Namploh Manyang",
-    "Namploh Blang Garang",
-    "Namploh Krueng",
-    "Namploh Papeun (Namploh Papeuen)",
-    "Meunasah Lueng",
-    "Lhok Seumira",
-    "Ulee Jeumatan",
-    "Lancok",
-    "Paloh",
-    "Mesjid Baro",
-    "Batee Iliek",
-    "Pulo Baroh",
-    "Matang Wakeuh",
-    "Darussalam",
-    "Matang Jereung (Matang Jareung)",
-    "Matang",
-    "Cot Mane",
-    "Alue Barat",
-    "Cot Siren",
-    "Ulee Alue",
-    "Pineung Siribee (Pineung Siri Bee)",
-    "Gampong Baro",
-    "Kandang",
-    "Gampong Putoh",
-    "Mideun Jok",
-    "Mideun Geudong",
-    "Lueng Keubeu",
-    "Geulumpang/Glumpang Bungkok",
-    "Glumpang Meulum",
-    "Cot Meurak Baroh",
-    "Cot Meurak Blang",
-    "Meurah",
-    "Ulee Ue",
-    "Matang Teungoh",
-    "Tanjong Baro",
-    "Angkieng Barat (Ankieng Barat)",
-    "Meunasah Lincah",
-    "Meunasah Lancok",
-    "Meunasah Puuk",
-    "Tonjongan Idem (Tanjongan Idem)",
-    "Geulumpang/Glumpang Payong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Aceh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sangso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pante Rheeng/Rheng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meuliek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Namploh Baro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Namploh Manyang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Namploh Blang Garang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Namploh Krueng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Namploh Papeun (Namploh Papeuen)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meunasah Lueng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lhok Seumira"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ulee Jeumatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lancok"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Paloh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mesjid Baro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Batee Iliek"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pulo Baroh"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Matang Wakeuh"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Darussalam"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Matang Jereung (Matang Jareung)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Matang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Cot Mane"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Alue Barat"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Cot Siren"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Ulee Alue"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pineung Siribee (Pineung Siri Bee)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Gampong Baro"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kandang"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Gampong Putoh"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Mideun Jok"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Mideun Geudong"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Lueng Keubeu"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Geulumpang/Glumpang Bungkok"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Glumpang Meulum"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Cot Meurak Baroh"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Cot Meurak Blang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Meurah"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Ulee Ue"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Matang Teungoh"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Tanjong Baro"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Angkieng Barat (Ankieng Barat)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Meunasah Lincah"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Meunasah Lancok"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Meunasah Puuk"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Tonjongan Idem (Tanjongan Idem)"
+    },
+    {
+      "sub_district_id": 2084,
+      "desa_kelurahan": "Geulumpang/Glumpang Payong"
+    }
   ]
 }

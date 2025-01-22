@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lepelle",
-    "Bapelle",
-    "Sawah Tengah",
-    "Torjunan",
-    "Tragih",
-    "Jelgung",
-    "Robatal",
-    "Gunung Rancak",
-    "Pandiyangan"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lepelle"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bapelle"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sawah Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Torjunan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tragih"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jelgung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Robatal"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gunung Rancak"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pandiyangan"
+    }
   ]
 }

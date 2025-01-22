@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kepanjenkidul (Kepanjen Kidul)",
-    "Ngadirejo",
-    "Sentul",
-    "Kauman",
-    "Tanggung",
-    "Bendo",
-    "Kepanjenlor (Kepanjen Lor)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kepanjenkidul (Kepanjen Kidul)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanggung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kepanjenlor (Kepanjen Lor)"
+    }
   ]
 }

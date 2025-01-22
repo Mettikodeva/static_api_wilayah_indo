@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sumber Centeng (Sumbercentang / Sumbercenteng)",
-    "Sambirampak Kidul",
-    "Sidomulyo",
-    "Tambakukir",
-    "Curahtemu",
-    "Sidorejo",
-    "Sambirampak Lor",
-    "Kedungrejoso",
-    "Talkandang (Talkadang)",
-    "Triwungan",
-    "Sukorejo",
-    "Pasembon",
-    "Kotaanyar (Kota Anyar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumber Centeng (Sumbercentang / Sumbercenteng)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambirampak Kidul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambakukir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Curahtemu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambirampak Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedungrejoso"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talkandang (Talkadang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Triwungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasembon"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kotaanyar (Kota Anyar)"
+    }
   ]
 }

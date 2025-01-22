@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bukit Lau Kersik",
-    "Gunung Sitember",
-    "Batu Gun-Gun",
-    "Rante Besi",
-    "Gundaling",
-    "Kendit Liang",
-    "Lau Lebah",
-    "Tupak Raja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukit Lau Kersik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Sitember"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Gun-Gun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rante Besi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gundaling"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kendit Liang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lau Lebah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tupak Raja"
+    }
   ]
 }

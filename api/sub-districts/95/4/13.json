@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mondagul",
-    "Timojimo",
-    "Tabowanimbo",
-    "Nelawi",
-    "Woromolome",
-    "Kendemaya",
-    "Palagi",
-    "Megapura",
-    "Wabuna",
-    "Minagame",
-    "Barename/Luanggi",
-    "Yilogonime/Tabinabo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mondagul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timojimo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabowanimbo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nelawi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Woromolome"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kendemaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palagi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Megapura"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wabuna"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Minagame"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Barename/Luanggi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yilogonime/Tabinabo"
+    }
   ]
 }

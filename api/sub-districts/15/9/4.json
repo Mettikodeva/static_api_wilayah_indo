@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Wirotho Agung",
-    "Sarana Agung",
-    "Mandiri Agung",
-    "Perintis",
-    "Rimbo Mulyo",
-    "Purwo Harjo",
-    "Tegal Arum",
-    "Tirta Kencana (Tirtakencana)",
-    "Sapta Mulia (Sapta Mulyo)",
-    "Pematang Sapat",
-    "Mekar Kencana",
-    "Purwo Dadi",
-    "Tegal Asri",
-    "Perintis Jaya",
-    "Perintis Makmur",
-    "Jaya Mulya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wirotho Agung"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sarana Agung"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mandiri Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perintis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rimbo Mulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwo Harjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegal Arum"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tirta Kencana (Tirtakencana)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sapta Mulia (Sapta Mulyo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pematang Sapat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekar Kencana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Purwo Dadi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tegal Asri"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Perintis Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Perintis Makmur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jaya Mulya"
+    }
   ]
 }

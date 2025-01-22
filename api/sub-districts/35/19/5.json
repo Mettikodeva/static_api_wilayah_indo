@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kare",
-    "Kepel",
-    "Bodag",
-    "Bolo",
-    "Kuwiran",
-    "Randualas",
-    "Cermo",
-    "Morang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kare"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kepel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bodag"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuwiran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Randualas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cermo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Morang"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kasro Mego (Kasromego)",
-    "Bereng Berkawat",
-    "Sei/Sungai Ilai",
-    "Thang Raya",
-    "Mawang Muda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kasro Mego (Kasromego)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bereng Berkawat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Ilai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Thang Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mawang Muda"
+    }
   ]
 }

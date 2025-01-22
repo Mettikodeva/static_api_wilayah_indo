@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Noborejo",
-    "Ledok",
-    "Tegalrejo",
-    "Kumpulrejo",
-    "Randuacir",
-    "Cebongan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Noborejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ledok"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tegalrejo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kumpulrejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Randuacir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cebongan"
+    }
   ]
 }

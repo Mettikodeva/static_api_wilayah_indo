@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kumbe",
-    "Lampe",
-    "Dodu",
-    "Nungga",
-    "Kodo",
-    "Oi Fo'o",
-    "Lelamase",
-    "Oimbo"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kumbe"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lampe"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Dodu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Nungga"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Kodo"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Oi Fo'o"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Lelamase"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Oimbo"
+    }
   ]
 }

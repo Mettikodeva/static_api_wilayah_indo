@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Nogosari",
-    "Curahmalang",
-    "Rowotamtu",
-    "Kaliwining",
-    "Pecoro",
-    "Rambipuji",
-    "Gugut",
-    "Rambigundam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nogosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Curahmalang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rowotamtu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaliwining"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pecoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rambipuji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gugut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rambigundam"
+    }
   ]
 }

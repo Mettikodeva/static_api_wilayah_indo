@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cigasong",
-    "Simpeureum",
-    "Cicenang",
-    "Kawunghilir",
-    "Tajur",
-    "Tenjolayar",
-    "Baribis",
-    "Batujaya",
-    "Kutamanggu",
-    "Karayunan"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cigasong"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Simpeureum"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cicenang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kawunghilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tajur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tenjolayar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baribis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batujaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kutamanggu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karayunan"
+    }
   ]
 }

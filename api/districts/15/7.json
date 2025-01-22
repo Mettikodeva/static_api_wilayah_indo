@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Muara Sabak Timur",
-    "Nipah Panjang",
-    "Mendahara",
-    "Rantau Rasau",
-    "Sadu",
-    "Dendang",
-    "Muara Sabak Barat",
-    "Kuala Jambi",
-    "Mendahara Ulu",
-    "Geragai",
-    "Berbak"
+    {
+      "district_id": 1,
+      "kecamatan": "Muara Sabak Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Nipah Panjang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mendahara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Rantau Rasau"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sadu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Dendang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Muara Sabak Barat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kuala Jambi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mendahara Ulu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Geragai"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Berbak"
+    }
   ]
 }

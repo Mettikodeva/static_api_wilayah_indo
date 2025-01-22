@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Langara Laut",
-    "Langara Iwawo",
-    "Wawolaa (Wawola)",
-    "Langara Indah",
-    "Lamoluo",
-    "Bukit Permai",
-    "Wawobili",
-    "Langaro Bajo (Langara Bajo)",
-    "Mata Langara",
-    "Mata Baho",
-    "Lanowatu",
-    "Lantula",
-    "Pasir Putih",
-    "langkowala",
-    "Kawa-Kawali",
-    "Langara Tanjung Batu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Langara Laut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Langara Iwawo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wawolaa (Wawola)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langara Indah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamoluo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Permai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wawobili"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Langaro Bajo (Langara Bajo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mata Langara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mata Baho"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lanowatu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lantula"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "langkowala"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kawa-Kawali"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Langara Tanjung Batu"
+    }
   ]
 }

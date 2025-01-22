@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Cangkiran",
-    "Bubakan",
-    "Karangmalang",
-    "Polaman",
-    "Purwosari",
-    "Tambangan",
-    "Wonolopo",
-    "Mijen",
-    "Jatibarang",
-    "Kedungpane (Kedungpani)",
-    "Ngadirgo",
-    "Wonoplumbon",
-    "Jatisari",
-    "Pesantren"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cangkiran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bubakan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karangmalang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Polaman"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tambangan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wonolopo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mijen"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Jatibarang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kedungpane (Kedungpani)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Ngadirgo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Wonoplumbon"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pesantren"
+    }
   ]
 }

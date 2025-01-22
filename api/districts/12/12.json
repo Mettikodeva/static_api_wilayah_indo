@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Balige",
-    "Laguboti",
-    "Silaen",
-    "Habinsaran",
-    "Pintu Pohan Meranti",
-    "Borbor",
-    "Porsea",
-    "Ajibata",
-    "Lumban Julu",
-    "Uluan",
-    "Sigumpar",
-    "Siantar Narumonda",
-    "Nassau",
-    "Tampahan",
-    "Bonatua Lunasi",
-    "Parmaksian"
+    {
+      "district_id": 1,
+      "kecamatan": "Balige"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Laguboti"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Silaen"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Habinsaran"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pintu Pohan Meranti"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Borbor"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Porsea"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Ajibata"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lumban Julu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Uluan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Sigumpar"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Siantar Narumonda"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Nassau"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Tampahan"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Bonatua Lunasi"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Parmaksian"
+    }
   ]
 }

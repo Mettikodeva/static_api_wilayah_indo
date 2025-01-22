@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Jati",
-    "Kepudang",
-    "Jepara Kulon",
-    "Widarapayung Kulon",
-    "Jepara Wetan",
-    "Bangkal",
-    "Binangun",
-    "Widarapayung Wetan",
-    "Alangamba",
-    "Pasuruhan",
-    "Sidaurip",
-    "Pagubugan",
-    "Pesawahan",
-    "Kemojing",
-    "Karangnangka",
-    "Sidayu",
-    "Pagubugan Kulon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kepudang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jepara Kulon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Widarapayung Kulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jepara Wetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangkal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Widarapayung Wetan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Alangamba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasuruhan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidaurip"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pagubugan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pesawahan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kemojing"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangnangka"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sidayu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pagubugan Kulon"
+    }
   ]
 }

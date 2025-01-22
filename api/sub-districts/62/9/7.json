@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Nanga Belantikan",
-    "Sei/Sungai Buluh",
-    "Tangga Batu",
-    "Belibi (Balibi)",
-    "Bayat",
-    "Karang Besi",
-    "Benuatan",
-    "Kahingai",
-    "Nanga Matu",
-    "Bintang Mangalih (Bintang Mengalih)",
-    "Petarikan",
-    "Sumber Cahaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Belantikan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tangga Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belibi (Balibi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bayat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Besi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Benuatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kahingai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nanga Matu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bintang Mangalih (Bintang Mengalih)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Petarikan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Cahaya"
+    }
   ]
 }

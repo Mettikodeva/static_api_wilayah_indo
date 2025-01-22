@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Banjar",
-    "Mekarsari",
-    "Situbatu",
-    "Balokang",
-    "Cibeureum",
-    "Neglasari",
-    "Jajawar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Situbatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balokang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibeureum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jajawar"
+    }
   ]
 }

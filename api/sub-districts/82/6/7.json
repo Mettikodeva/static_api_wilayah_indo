@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Dodaga",
-    "Daka Ino",
-    "Akedaga (Ake Daga)",
-    "Tobo Ino (Toboino)",
-    "Tutuling Jaya",
-    "Woka Jaya",
-    "Rawamangun",
-    "Sidomulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dodaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Daka Ino"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Akedaga (Ake Daga)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tobo Ino (Toboino)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tutuling Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Woka Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawamangun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidomulyo"
+    }
   ]
 }

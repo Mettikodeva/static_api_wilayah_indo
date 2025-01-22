@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Nangaroro",
-    "Podenura",
-    "Tonggo",
-    "Wokodekororo",
-    "Riti",
-    "Kotakeo",
-    "Pagomogo",
-    "Degalea",
-    "Ulupulu",
-    "Bidoa",
-    "Utetoto",
-    "Nataute",
-    "Woedoa",
-    "Woewutu",
-    "Ulupulu I",
-    "Wokowoe",
-    "Kotakeo Satu",
-    "Kotakeo Dua",
-    "Kodaute"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Nangaroro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Podenura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tonggo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wokodekororo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Riti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kotakeo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagomogo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Degalea"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulupulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bidoa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Utetoto"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nataute"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Woedoa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Woewutu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ulupulu I"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wokowoe"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kotakeo Satu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kotakeo Dua"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kodaute"
+    }
   ]
 }

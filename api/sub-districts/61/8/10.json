@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sebangki",
-    "Kumpang Tengah",
-    "Agak",
-    "Rantau Panjang",
-    "Sei/Sungai Segak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sebangki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kumpang Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Agak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Segak"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pingit",
-    "Situwangi",
-    "Gelang",
-    "Rakit",
-    "Adipasir",
-    "Bandingan",
-    "Kincang",
-    "Badamita",
-    "Tanjunganom",
-    "Luwung",
-    "Lengkong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pingit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Situwangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gelang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rakit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Adipasir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandingan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kincang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Badamita"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjunganom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Luwung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lengkong"
+    }
   ]
 }

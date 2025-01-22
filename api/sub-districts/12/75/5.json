@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanah Merah",
-    "Binjai Estate",
-    "Bhakti Karya",
-    "Rambung Dalam",
-    "Pujidadi",
-    "Tanah Seribu",
-    "Rambung Barat",
-    "Rambung Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Binjai Estate"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bhakti Karya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rambung Dalam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pujidadi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanah Seribu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rambung Barat"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rambung Timur"
+    }
   ]
 }

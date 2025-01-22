@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lela",
-    "Watutedang",
-    "Korowuwu",
-    "Kolidetung",
-    "Sikka",
-    "Iligai",
-    "Hepang",
-    "Baopaat",
-    "Du"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lela"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Watutedang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Korowuwu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kolidetung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sikka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Iligai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hepang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baopaat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Du"
+    }
   ]
 }

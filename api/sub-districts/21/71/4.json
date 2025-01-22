@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sambau",
-    "Batu Besar",
-    "Kabil",
-    "Ngenang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sambau"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Batu Besar"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kabil"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ngenang"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kalirejo",
-    "Lawang",
-    "Sidoluhur",
-    "Srigading",
-    "Sidodadi",
-    "Bedali",
-    "Mulyoarjo",
-    "Sumberngepoh (Sumber Ngepoh)",
-    "Sumberporong (Sumber Porong)",
-    "Turirejo",
-    "Ketindan",
-    "Wonorejo"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lawang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidoluhur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Srigading"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bedali"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulyoarjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberngepoh (Sumber Ngepoh)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberporong (Sumber Porong)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Turirejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketindan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wonorejo"
+    }
   ]
 }

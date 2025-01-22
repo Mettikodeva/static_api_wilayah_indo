@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Marengmang",
-    "Kalijati Timur",
-    "Kaliangsana",
-    "Kalijati Barat",
-    "Tanggulun Timur",
-    "Tanggulun Barat",
-    "Caracas",
-    "Ciruluk",
-    "Jalupang",
-    "Banggalamulya"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marengmang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalijati Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaliangsana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalijati Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanggulun Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanggulun Barat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Caracas"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ciruluk"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Jalupang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Banggalamulya"
+    }
   ]
 }

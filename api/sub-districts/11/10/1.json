@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Pulau Balai",
-    "Pulau Baguk",
-    "Teluk Nibung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Balai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Baguk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Nibung"
+    }
   ]
 }

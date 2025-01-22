@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jehem",
-    "Tembuku",
-    "Yangapi",
-    "Undisan",
-    "Bangbang",
-    "Peninjoan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jehem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tembuku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yangapi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Undisan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangbang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peninjoan"
+    }
   ]
 }

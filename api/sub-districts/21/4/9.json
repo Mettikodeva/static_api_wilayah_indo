@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Berlian",
-    "Marok Kecil",
-    "Pulau Lalang (Berhala)",
-    "Resang"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Berlian"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marok Kecil"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Lalang (Berhala)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Resang"
+    }
   ]
 }

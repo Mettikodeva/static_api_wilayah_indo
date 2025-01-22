@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Salakan",
-    "Manggalai",
-    "Ambelang",
-    "Saiyong",
-    "Tompudau",
-    "Bongganan",
-    "Baka",
-    "Bulungkobit",
-    "Bakalan",
-    "Kautu",
-    "Bungin"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Salakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manggalai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ambelang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saiyong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tompudau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bongganan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baka"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bulungkobit"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bakalan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kautu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bungin"
+    }
   ]
 }

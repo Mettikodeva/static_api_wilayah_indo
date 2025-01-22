@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tongauna",
-    "Mata Iwoi",
-    "Puosu",
-    "Sendang Mulya Sari",
-    "Mekar Sari",
-    "Lalonggowuna",
-    "Asao",
-    "Andeposandu (Andeposunde)",
-    "Momea",
-    "Ambepulu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tongauna"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mata Iwoi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Puosu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sendang Mulya Sari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lalonggowuna"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Asao"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Andeposandu (Andeposunde)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Momea"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ambepulu"
+    }
   ]
 }

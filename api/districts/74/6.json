@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Poleang",
-    "Poleang Timur",
-    "Rarowatu",
-    "Rumbia",
-    "Kabaena",
-    "Kabaena Timur",
-    "Poleang Barat",
-    "Mata Oleo",
-    "Rarowatu Utara",
-    "Poleang Utara",
-    "Poleang Selatan",
-    "Poleang Tenggara",
-    "Kabaena Selatan",
-    "Kabaena Barat",
-    "Kabaena Utara",
-    "Kabaena Tengah",
-    "Kepulauan Masaloka Raya",
-    "Rumbia Tengah",
-    "Poleang Tengah",
-    "Tontonunu",
-    "Lantari Jaya",
-    "Mata Usu"
+    {
+      "district_id": 1,
+      "kecamatan": "Poleang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Poleang Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Rarowatu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Rumbia"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kabaena"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kabaena Timur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Poleang Barat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mata Oleo"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Rarowatu Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Poleang Utara"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Poleang Selatan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Poleang Tenggara"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kabaena Selatan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kabaena Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kabaena Utara"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kabaena Tengah"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kepulauan Masaloka Raya"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Rumbia Tengah"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Poleang Tengah"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Tontonunu"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Lantari Jaya"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Mata Usu"
+    }
   ]
 }

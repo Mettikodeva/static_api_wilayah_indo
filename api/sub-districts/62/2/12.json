@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mentaya Seberang",
-    "Terantang",
-    "Batuah",
-    "Terantang Hilir",
-    "Ganepo",
-    "Seragam Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mentaya Seberang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Terantang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batuah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Terantang Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ganepo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seragam Jaya"
+    }
   ]
 }

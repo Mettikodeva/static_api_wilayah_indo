@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tisnonegaran",
-    "Sukoharjo",
-    "Kanigaran",
-    "Kebonsari Wetan",
-    "Curahgrinting",
-    "Kebonsari Kulon"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tisnonegaran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukoharjo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kanigaran"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kebonsari Wetan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Curahgrinting"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kebonsari Kulon"
+    }
   ]
 }

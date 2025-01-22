@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Taba Penanjung",
-    "Tanjung Raman",
-    "Sukarami (Suka Rami)",
-    "Karang Tengah",
-    "Lubuk Sini",
-    "Taba Teret",
-    "Surau",
-    "Rindu Hati",
-    "Tanjung Heran",
-    "Datar Lebar",
-    "Penum",
-    "Bajak I",
-    "Taba Baru"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Taba Penanjung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Raman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukarami (Suka Rami)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Sini"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Taba Teret"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Surau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rindu Hati"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Heran"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Datar Lebar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Penum"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bajak I"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Taba Baru"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Panimbangjaya",
-    "Mekarjaya",
-    "Gombong",
-    "Mekar Jaya (Mekarsari)",
-    "Citeureup",
-    "Tanjungjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panimbangjaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gombong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekar Jaya (Mekarsari)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Citeureup"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungjaya"
+    }
   ]
 }

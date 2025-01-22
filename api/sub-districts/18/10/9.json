@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Fajar Baru",
-    "Kemilin",
-    "Neglasari",
-    "Fajar Mulya / Mulia",
-    "Margosari",
-    "Giri Tunggal",
-    "Sumber Bandung",
-    "Madaraya",
-    "Way Kunir",
-    "Gunung Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fajar Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemilin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fajar Mulya / Mulia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Giri Tunggal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Bandung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Madaraya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Way Kunir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunung Raya"
+    }
   ]
 }

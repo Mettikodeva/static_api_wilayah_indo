@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Pondok Kemuning (Pondok Keumuning)",
-    "Seulalah",
-    "Pondok Pabrik",
-    "Sidodadi",
-    "Sidorejo",
-    "Baro (Gampong Baro)",
-    "Meurandeh",
-    "Asam Peutik (Asam Peutek)",
-    "Baroh Langsa Lama",
-    "Seulalah Baru",
-    "Sukajadi Kebun Ireng (Suka JD KBN Ireng)",
-    "Meurandeh Teungoh",
-    "Meurandeh Dayah",
-    "Meurandeh Aceh",
-    "Batee Puteh (Bate Puteh)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pondok Kemuning (Pondok Keumuning)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Seulalah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pondok Pabrik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baro (Gampong Baro)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meurandeh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Asam Peutik (Asam Peutek)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baroh Langsa Lama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seulalah Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukajadi Kebun Ireng (Suka JD KBN Ireng)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Meurandeh Teungoh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Meurandeh Dayah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Meurandeh Aceh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batee Puteh (Bate Puteh)"
+    }
   ]
 }

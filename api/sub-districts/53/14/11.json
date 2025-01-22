@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Oelua",
-    "Holulai",
-    "Tolama",
-    "Oebole",
-    "Tasilo",
-    "Boni",
-    "Balaoli",
-    "Oebela",
-    "Lidor",
-    "Mundek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oelua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Holulai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tolama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oebole"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tasilo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Boni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balaoli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oebela"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lidor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mundek"
+    }
   ]
 }

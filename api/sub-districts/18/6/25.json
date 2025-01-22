@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Negeri Agung",
-    "Bandar Sukabumi",
-    "Sanggi",
-    "Rajabasa (Raja Basa)",
-    "Banding",
-    "Gunung Doh",
-    "Simpang Bayur",
-    "Atar Lebar",
-    "Sinar Bangun",
-    "Sanggi Unggak",
-    "Tulung Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandar Sukabumi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sanggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rajabasa (Raja Basa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banding"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Doh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang Bayur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Atar Lebar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinar Bangun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sanggi Unggak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tulung Sari"
+    }
   ]
 }

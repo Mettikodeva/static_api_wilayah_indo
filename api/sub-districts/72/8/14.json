@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karya Agung",
-    "Nunurantai",
-    "Palapi",
-    "Taopa",
-    "Tuladenggi Sibatang",
-    "Tompo",
-    "Taopa Utara",
-    "Bilalea",
-    "Taopa Barat",
-    "Paria",
-    "Karya Abadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karya Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nunurantai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palapi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taopa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuladenggi Sibatang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tompo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taopa Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bilalea"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taopa Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paria"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karya Abadi"
+    }
   ]
 }

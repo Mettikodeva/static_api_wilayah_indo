@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Teka Iku (Tekaiku)",
-    "Mekendetung",
-    "Kokowahor",
-    "Balatatatin (Blatatatin)",
-    "Watuliwung",
-    "Tana Duen (Tanaduen)",
-    "Watumilok",
-    "Habi",
-    "Langir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teka Iku (Tekaiku)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mekendetung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kokowahor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balatatatin (Blatatatin)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watuliwung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tana Duen (Tanaduen)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watumilok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Habi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langir"
+    }
   ]
 }

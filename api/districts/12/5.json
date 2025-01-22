@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Bahorok",
-    "Salapian",
-    "Kuala",
-    "Sei Bingai (Sei Binge / Bingei)",
-    "Binjai",
-    "Selesai",
-    "Stabat",
-    "Wampu",
-    "Secanggang",
-    "Hinai",
-    "Tanjung Pura (Tanjungpura)",
-    "Padang Tualang",
-    "Gebang",
-    "Babalan",
-    "Pangkalan Susu",
-    "Besitang",
-    "Sei Lepan",
-    "Berandan Barat (Brandan Barat)",
-    "Batang Serangan",
-    "Sawit Seberang",
-    "Sirapit (Serapit)",
-    "Kutambaru",
-    "Pematang Jaya"
+    {
+      "district_id": 1,
+      "kecamatan": "Bahorok"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Salapian"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kuala"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sei Bingai (Sei Binge / Bingei)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Binjai"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Selesai"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Stabat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Wampu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Secanggang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Hinai"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tanjung Pura (Tanjungpura)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Padang Tualang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Gebang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Babalan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Pangkalan Susu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Besitang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sei Lepan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Berandan Barat (Brandan Barat)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Batang Serangan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Sawit Seberang"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sirapit (Serapit)"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Kutambaru"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Pematang Jaya"
+    }
   ]
 }

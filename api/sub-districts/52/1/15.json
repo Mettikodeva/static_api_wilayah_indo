@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kuripan",
-    "Jagaraga",
-    "Kuripan Utara",
-    "Kuripan Selatan",
-    "Kuripan Timur",
-    "Giri Sasak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jagaraga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuripan Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuripan Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuripan Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Giri Sasak"
+    }
   ]
 }

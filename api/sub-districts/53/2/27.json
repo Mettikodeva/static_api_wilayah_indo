@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tetaf",
-    "Naukae",
-    "Supul",
-    "Lakat",
-    "Enoneontes",
-    "O'of (Oof)",
-    "Tubmonas",
-    "Oe Oe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tetaf"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Naukae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Supul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lakat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Enoneontes"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "O'of (Oof)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tubmonas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oe Oe"
+    }
   ]
 }

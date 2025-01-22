@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Samplangan",
-    "Abianbase",
-    "Gianyar",
-    "Bitera",
-    "Beng",
-    "Tulikup",
-    "Sidan",
-    "Lebih",
-    "Bakbakan",
-    "Siangan",
-    "Suwat",
-    "Petak",
-    "Serongga",
-    "Petak Kaja",
-    "Temesi",
-    "Sumita",
-    "Tegal Tugu"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Samplangan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Abianbase"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gianyar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bitera"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Beng"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tulikup"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lebih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bakbakan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suwat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Petak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Serongga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Petak Kaja"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Temesi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sumita"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tegal Tugu"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rantau Limau Manis",
-    "Ulak Makam",
-    "Air Batu",
-    "Rejo Sari",
-    "Kota Raja",
-    "Tunggul Bulin",
-    "Mekar Limau Manis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantau Limau Manis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ulak Makam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rejo Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Raja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunggul Bulin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Limau Manis"
+    }
   ]
 }

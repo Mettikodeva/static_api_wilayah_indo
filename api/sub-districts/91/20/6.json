@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Nadofoai",
-    "Barapasi",
-    "Sipisi",
-    "Bariwaro",
-    "Bensor",
-    "Rawiwa",
-    "Marikai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nadofoai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barapasi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sipisi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bariwaro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bensor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawiwa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marikai"
+    }
   ]
 }

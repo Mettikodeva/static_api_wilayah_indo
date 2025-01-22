@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wanayasa",
-    "Sindangkasih",
-    "Sindanghayu",
-    "Ciawigajah",
-    "Cikancas",
-    "Halimpu",
-    "Cipinang",
-    "Beber",
-    "Patapan",
-    "Kondangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanayasa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindangkasih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sindanghayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciawigajah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikancas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Halimpu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cipinang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Beber"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Patapan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kondangsari"
+    }
   ]
 }

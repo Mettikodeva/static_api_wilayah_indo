@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kronjo",
-    "Pagenjahan",
-    "Pasir",
-    "Muncung",
-    "Pagedangan Ilir",
-    "Pagedangan Udik",
-    "Pasilian",
-    "Bakung",
-    "Blukbuk",
-    "Cirumpak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kronjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagenjahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muncung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagedangan Ilir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pagedangan Udik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasilian"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Blukbuk"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Cirumpak"
+    }
   ]
 }

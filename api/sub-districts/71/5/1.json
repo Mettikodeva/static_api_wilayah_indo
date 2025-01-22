@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sinisir",
-    "Kakenturan",
-    "Palelon",
-    "Pinasungkulan",
-    "Wulurmaatus",
-    "Makaaruyen",
-    "Linelean",
-    "Mokobang",
-    "Kakenturan Barat",
-    "Pinasungkulan Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sinisir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kakenturan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palelon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pinasungkulan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wulurmaatus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Makaaruyen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Linelean"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mokobang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kakenturan Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pinasungkulan Utara"
+    }
   ]
 }

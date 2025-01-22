@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Padang Harapan",
-    "Jalan Gedang",
-    "Sidomulyo (Sido Mulyo)",
-    "Lingkar Barat",
-    "Cempaka Permai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padang Harapan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jalan Gedang"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Sidomulyo (Sido Mulyo)"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Lingkar Barat"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Cempaka Permai"
+    }
   ]
 }

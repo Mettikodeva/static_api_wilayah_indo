@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pugaan",
-    "Pampanan",
-    "Sei/Sungai Rukam II",
-    "Sei/Sungai Rukam I",
-    "Jirak",
-    "Halangan",
-    "Tamunti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pugaan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pampanan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Rukam II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Rukam I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jirak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Halangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamunti"
+    }
   ]
 }

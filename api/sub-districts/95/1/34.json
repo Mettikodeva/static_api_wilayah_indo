@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Irilinga / Irilingga (Irilingan)",
-    "Onggaba (Onggabaga/Onggobaga)",
-    "Walakma",
-    "Ayoma",
-    "Dlonggoki",
-    "Tirunggu",
-    "Dlinggama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Irilinga / Irilingga (Irilingan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Onggaba (Onggabaga/Onggobaga)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Walakma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ayoma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dlonggoki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tirunggu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dlinggama"
+    }
   ]
 }

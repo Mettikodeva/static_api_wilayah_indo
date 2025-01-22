@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pulau Payung",
-    "Teratak",
-    "Alam Panjang",
-    "Bukit Keratai (Bukit Kratai)",
-    "Batang Betindah (Batang Batindih)",
-    "Tambusai",
-    "Simpang Petai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Payung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teratak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alam Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Keratai (Bukit Kratai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batang Betindah (Batang Batindih)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambusai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang Petai"
+    }
   ]
 }

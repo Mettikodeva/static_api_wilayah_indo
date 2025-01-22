@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kapalo Koto",
-    "Pauh Kambar",
-    "Padang Bintungan",
-    "Kurai Taji",
-    "Sunua",
-    "Padang Kandang Pulau Air Padang",
-    "Sunua Tengah",
-    "Sunua Barat",
-    "Kurai Taji Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kapalo Koto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pauh Kambar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Bintungan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kurai Taji"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sunua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padang Kandang Pulau Air Padang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sunua Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sunua Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kurai Taji Timur"
+    }
   ]
 }

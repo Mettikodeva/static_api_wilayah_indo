@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Fajaresuk (Pajar Esuk)",
-    "Pringsewu Utara",
-    "Pringsewu Selatan",
-    "Pringsewu Barat",
-    "Pringsewu Timur",
-    "Margakaya",
-    "Waluyojati",
-    "Sidoharjo",
-    "Podomoro",
-    "Bumi Arum",
-    "Pajar/Fajar Agung",
-    "Rejo Sari (Rejosari)",
-    "Bumi Ayu",
-    "Podosari",
-    "Fajar Agung Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Fajaresuk (Pajar Esuk)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pringsewu Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pringsewu Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pringsewu Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pringsewu Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margakaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waluyojati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Podomoro"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Arum"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pajar/Fajar Agung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bumi Ayu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Podosari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Fajar Agung Barat"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanjung Batu",
-    "Sungai Punggawa",
-    "Tanah Rata",
-    "Sebuli",
-    "Sembilang",
-    "Tamiang Bakung",
-    "Sang-Sang",
-    "Sungai Pinang",
-    "Tanjung Selayar",
-    "Senakin Seberang",
-    "Senakin",
-    "Tebing Tinggi",
-    "Geronggang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Batu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Punggawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanah Rata"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sebuli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sembilang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamiang Bakung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sang-Sang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Pinang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Selayar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Senakin Seberang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Senakin"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Geronggang"
+    }
   ]
 }

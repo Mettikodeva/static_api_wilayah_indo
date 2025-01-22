@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bontolebang",
-    "Pakkabba",
-    "Bontolanra (Bonto Lanra)",
-    "Aeng Batu Batu",
-    "Tamalate",
-    "Tamasaju",
-    "Bontosunggu (Bonto Sunggu)",
-    "Aeng Towa",
-    "Bontokaddopepe",
-    "Sampulungan",
-    "Maccini Sombala",
-    "Sawakung Beba",
-    "Biring Kassi",
-    "Kaballokang"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bontolebang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakkabba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bontolanra (Bonto Lanra)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aeng Batu Batu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamalate"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamasaju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bontosunggu (Bonto Sunggu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aeng Towa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bontokaddopepe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sampulungan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Maccini Sombala"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sawakung Beba"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Biring Kassi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kaballokang"
+    }
   ]
 }

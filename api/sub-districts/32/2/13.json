@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Parungkuda (Parung Kuda)",
-    "Palasari Hilir",
-    "Kompa",
-    "Pondokkaso Landeuh (Pondok Kaso Landeuh)",
-    "Sundawenang",
-    "Bojongkokosan (Bojong Kokosan)",
-    "Langensari",
-    "Babakanjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parungkuda (Parung Kuda)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Palasari Hilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kompa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondokkaso Landeuh (Pondok Kaso Landeuh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sundawenang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojongkokosan (Bojong Kokosan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langensari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babakanjaya"
+    }
   ]
 }

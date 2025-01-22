@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Jakatan Raya",
-    "Tumbang Jatuh/Jutuh",
-    "Tumbang Barengei/Baringei",
-    "Tumbang Malahoi/Malahui",
-    "Tumbang Bunut",
-    "Tumbang Kajuei (Tumbang Jelemu Kajuei)",
-    "Luwuk Kantor",
-    "Luwuk Langkuas",
-    "Talangkas (Talangkah)",
-    "Parempei",
-    "Linau",
-    "Bereng Baru",
-    "Bereng Malaka",
-    "Karya Bhakti (Karya Bakti)"
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Jakatan Raya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbang Jatuh/Jutuh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Barengei/Baringei"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tumbang Malahoi/Malahui"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tumbang Bunut"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tumbang Kajuei (Tumbang Jelemu Kajuei)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Luwuk Kantor"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Luwuk Langkuas"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Talangkas (Talangkah)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Parempei"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Linau"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bereng Baru"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bereng Malaka"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Karya Bhakti (Karya Bakti)"
+    }
   ]
 }

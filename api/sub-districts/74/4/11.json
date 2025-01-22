@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Wakoko",
-    "Wasaga",
-    "Holimombo",
-    "Kombeli",
-    "Takimpo",
-    "Awainulu",
-    "Kambulabulana",
-    "Pasarwajo",
-    "Saragi",
-    "Waangu-angu (Wangu Angu)",
-    "Warinta",
-    "Lapodi",
-    "Kancinaa",
-    "Winning",
-    "Holimombo Jaya",
-    "Kondowa",
-    "Dongkala",
-    "Laburunci",
-    "Banabungi",
-    "Kabawakole",
-    "Mantowu",
-    "Kaongkeongkea"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wakoko"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wasaga"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Holimombo"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Kombeli"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Takimpo"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Awainulu"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Kambulabulana"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Pasarwajo"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Saragi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waangu-angu (Wangu Angu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Warinta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lapodi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kancinaa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Winning"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Holimombo Jaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kondowa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dongkala"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Laburunci"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Banabungi"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Kabawakole"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Mantowu"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Kaongkeongkea"
+    }
   ]
 }

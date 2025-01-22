@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tanjung Mudo",
-    "Koto Teguh",
-    "Baru",
-    "Talang Tembago",
-    "Beringin Tinggi",
-    "Pematang Pauh",
-    "Rantau Suli",
-    "Gedang",
-    "Koto Baru",
-    "Tanjung Benuang (Tanjung Beruang)",
-    "Jangkat (Jangkar)",
-    "Tanjung Alam",
-    "Kabu",
-    "Simpang Talang Tembago"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Mudo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Teguh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Tembago"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beringin Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pematang Pauh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rantau Suli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gedang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Benuang (Tanjung Beruang)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jangkat (Jangkar)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Alam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kabu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Simpang Talang Tembago"
+    }
   ]
 }

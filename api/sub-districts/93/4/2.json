@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Atsj",
-    "Sogoni",
-    "Amanamkai",
-    "Ambisu",
-    "Bine",
-    "Bipim",
-    "Yasiuw",
-    "Bakasai",
-    "Cewewyamew"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Atsj"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sogoni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amanamkai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ambisu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bine"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bipim"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yasiuw"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakasai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cewewyamew"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Keudah",
-    "Peulanggahan",
-    "Merduati",
-    "Lampaseh Kota",
-    "Gampong Pande",
-    "Gampong Jawa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keudah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Peulanggahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Merduati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lampaseh Kota"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gampong Pande"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gampong Jawa"
+    }
   ]
 }

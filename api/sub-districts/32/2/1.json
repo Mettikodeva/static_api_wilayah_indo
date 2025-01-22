@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Palabuhanratu (Pelabuhanratu)",
-    "Tonjong",
-    "Citepus",
-    "Buniwangi",
-    "Cibodas",
-    "Pasirsuren",
-    "Cikadu",
-    "Citarik",
-    "Cimanggu",
-    "Jayanti"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Palabuhanratu (Pelabuhanratu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tonjong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Citepus"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buniwangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirsuren"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikadu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Citarik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cimanggu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jayanti"
+    }
   ]
 }

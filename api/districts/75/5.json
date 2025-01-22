@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Atinggola",
-    "Kwandang",
-    "Anggrek",
-    "Sumalata",
-    "Tolinggula",
-    "Gentuma Raya",
-    "Tomilito (Tomolito)",
-    "Ponelo Kepulauan",
-    "Monano",
-    "Biau",
-    "Sumalata Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Atinggola"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kwandang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Anggrek"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sumalata"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tolinggula"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Gentuma Raya"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tomilito (Tomolito)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Ponelo Kepulauan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Monano"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Biau"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sumalata Timur"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jatipurus",
-    "Lerepkebumen",
-    "Blater",
-    "Poncowarno",
-    "Tegalrejo",
-    "Jembangan",
-    "Kedungdowo",
-    "Karangtengah",
-    "Tirtomoyo",
-    "Soka",
-    "Kebapangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatipurus"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lerepkebumen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blater"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Poncowarno"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegalrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jembangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedungdowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tirtomoyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Soka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kebapangan"
+    }
   ]
 }

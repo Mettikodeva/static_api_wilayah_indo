@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Meserikweda",
-    "Kasi Baru",
-    "Kasi Jaya",
-    "Meimorufof",
-    "Kasi Indah",
-    "Wacam",
-    "Irumfei",
-    "Pubuan",
-    "Ireji",
-    "Kasi Inom",
-    "Meycocforga",
-    "Meyomnar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meserikweda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kasi Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kasi Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meimorufof"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kasi Indah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wacam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Irumfei"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pubuan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ireji"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kasi Inom"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Meycocforga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Meyomnar"
+    }
   ]
 }

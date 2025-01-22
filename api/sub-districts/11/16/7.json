@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Alur Tani Satu (Alur Tani I)",
-    "Alur Tani Dua (Alur Tani II)",
-    "Bandar Khalifah",
-    "Kaloy",
-    "Perkebunan Pulau Tiga",
-    "Harum Sari",
-    "Bandar Setia",
-    "Rongoh",
-    "Wono Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alur Tani Satu (Alur Tani I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alur Tani Dua (Alur Tani II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Khalifah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaloy"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Pulau Tiga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Harum Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandar Setia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rongoh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wono Sari"
+    }
   ]
 }

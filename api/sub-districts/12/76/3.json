@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bagelen",
-    "Tambangan",
-    "Tebing Tinggi",
-    "Satria",
-    "Damar Sari",
-    "Tambangan Hulu",
-    "Deblod Sundoro"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bagelen"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tambangan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Satria"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Damar Sari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tambangan Hulu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Deblod Sundoro"
+    }
   ]
 }

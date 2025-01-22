@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cikunten",
-    "Singaparna",
-    "Cipakat",
-    "Cintaraja",
-    "Cikunir",
-    "Cokadongdong (Cikadongdong)",
-    "Sukaasih",
-    "Sukamulya",
-    "Singasari",
-    "Sukaherang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikunten"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Singaparna"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cipakat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cintaraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikunir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cokadongdong (Cikadongdong)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukaasih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Singasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukaherang"
+    }
   ]
 }

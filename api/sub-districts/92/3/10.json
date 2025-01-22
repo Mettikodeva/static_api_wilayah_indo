@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Wagom",
-    "Wagom Utara",
-    "Dulanpokpok",
-    "Tanama",
-    "Kapaurtutin",
-    "Sekban",
-    "Torea",
-    "Sekru",
-    "Sukuru Tuare"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wagom"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wagom Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dulanpokpok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kapaurtutin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sekban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Torea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sekru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukuru Tuare"
+    }
   ]
 }

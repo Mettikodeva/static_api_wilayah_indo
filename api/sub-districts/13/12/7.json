@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Batahan",
-    "Desa Baru",
-    "Batahan Utara",
-    "Batahan Tengah",
-    "Batahan Barat",
-    "Batahan Selatan",
-    "Desa Baru Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Desa Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batahan Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batahan Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batahan Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batahan Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Desa Baru Barat"
+    }
   ]
 }

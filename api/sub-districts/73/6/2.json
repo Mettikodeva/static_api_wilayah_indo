@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kalebajeng",
-    "Limbung",
-    "Tubajeng",
-    "Mata Allo",
-    "Bontosunggu",
-    "Macini Baji (Maccinibaji)",
-    "Pa'bentengang",
-    "Tangkebajeng",
-    "Maradekaya",
-    "Panciro",
-    "Lempangang",
-    "Bone",
-    "Panyangkalang",
-    "Paraikate (Paraikatte)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kalebajeng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Limbung"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tubajeng"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Mata Allo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bontosunggu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Macini Baji (Maccinibaji)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pa'bentengang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tangkebajeng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maradekaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panciro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lempangang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bone"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Panyangkalang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Paraikate (Paraikatte)"
+    }
   ]
 }

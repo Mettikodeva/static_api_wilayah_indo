@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Mempawah Hilir",
-    "Toho",
-    "Sungai Pinyuh (Sei Pinyuh)",
-    "Jongkat (Siantan)",
-    "Sungai Kunyit",
-    "Segedong",
-    "Anjongan",
-    "Sadaniang",
-    "Mempawah Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Mempawah Hilir"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Toho"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sungai Pinyuh (Sei Pinyuh)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Jongkat (Siantan)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sungai Kunyit"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Segedong"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Anjongan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sadaniang"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Mempawah Timur"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanggeran",
-    "Sokawera",
-    "Somagede",
-    "Klinting",
-    "Kemawi",
-    "Piasa Kulon",
-    "Kanding",
-    "Somakaton",
-    "Plana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanggeran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sokawera"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Somagede"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klinting"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemawi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Piasa Kulon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kanding"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Somakaton"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Plana"
+    }
   ]
 }

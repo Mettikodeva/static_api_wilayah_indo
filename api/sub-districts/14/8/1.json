@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kampung Dalam",
-    "Kampung Rempak",
-    "Langkai",
-    "Tumang",
-    "Merempan Hulu",
-    "Rawang Air Putih",
-    "Suak Lanjut",
-    "Buantan Besar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Dalam"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kampung Rempak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Langkai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Merempan Hulu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rawang Air Putih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suak Lanjut"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Buantan Besar"
+    }
   ]
 }

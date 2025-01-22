@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Semanak",
-    "Toto Harjo (Totoharjo)",
-    "Hatta (Hata)",
-    "Bakauheni",
-    "Kelawi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Semanak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toto Harjo (Totoharjo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hatta (Hata)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bakauheni"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kelawi"
+    }
   ]
 }

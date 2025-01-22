@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Buong Baru",
-    "Bebakung",
-    "Kujau",
-    "Mendupo",
-    "Maning",
-    "Periuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buong Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bebakung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kujau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mendupo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maning"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Periuk"
+    }
   ]
 }

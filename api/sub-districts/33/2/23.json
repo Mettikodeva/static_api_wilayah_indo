@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Karangsalam Kidul",
-    "Kebocoran",
-    "Kedungbanteng",
-    "Beji",
-    "Karangnangka",
-    "Keniten",
-    "Dawuhan Wetan",
-    "Dawuhan Kulon",
-    "Baseh",
-    "Kalisalak",
-    "Windujaya",
-    "Kalikesur",
-    "Kutaliman",
-    "Melung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangsalam Kidul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebocoran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungbanteng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangnangka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keniten"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dawuhan Wetan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dawuhan Kulon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baseh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalisalak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Windujaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalikesur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kutaliman"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Melung"
+    }
   ]
 }

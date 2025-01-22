@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Baros",
-    "Pasar Madang",
-    "Kuripan",
-    "Negeri Ratu",
-    "Pananggungan (Penanggungan)",
-    "Terdana",
-    "Kelungu",
-    "Pardasuka",
-    "Teratas",
-    "Kusa",
-    "Terbaya",
-    "Kedamaian",
-    "Kota Agung",
-    "Kota Batu",
-    "Campang Tiga",
-    "Benteng Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baros"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasar Madang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Negeri Ratu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pananggungan (Penanggungan)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Terdana"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kelungu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pardasuka"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Teratas"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kusa"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Terbaya"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kedamaian"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Kota Agung"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Kota Batu"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Campang Tiga"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Benteng Jaya"
+    }
   ]
 }

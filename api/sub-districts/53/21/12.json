@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Babotin",
-    "Kereana",
-    "Babotin Maemina",
-    "Babotin Selatan",
-    "Takarai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babotin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kereana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Babotin Maemina"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Babotin Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Takarai"
+    }
   ]
 }

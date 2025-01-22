@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Kota Besi",
-    "Cempaga",
-    "Mentaya Hulu",
-    "Parenggean",
-    "Baamang",
-    "Mentawa Baru Ketapang",
-    "Mentaya Hilir Utara",
-    "Mentaya Hilir Selatan",
-    "Pulau Hanaut",
-    "Antang Kalang",
-    "Teluk Sampit",
-    "Seranau",
-    "Cempaga Hulu",
-    "Telawang",
-    "Bukit Santuai (Bukit Santuei)",
-    "Tualan Hulu",
-    "Telaga Antang"
+    {
+      "district_id": 1,
+      "kecamatan": "Kota Besi"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Cempaga"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mentaya Hulu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Parenggean"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Baamang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mentawa Baru Ketapang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mentaya Hilir Utara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mentaya Hilir Selatan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pulau Hanaut"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Antang Kalang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Teluk Sampit"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Seranau"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Cempaga Hulu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Telawang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bukit Santuai (Bukit Santuei)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tualan Hulu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Telaga Antang"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bojonggenteng (Bojong Genteng)",
-    "Cibodas",
-    "Berekah",
-    "Cipanengah",
-    "Bojonggaling (Bojong Galing / Galih)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bojonggenteng (Bojong Genteng)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Berekah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipanengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojonggaling (Bojong Galing / Galih)"
+    }
   ]
 }

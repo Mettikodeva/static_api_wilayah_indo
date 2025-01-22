@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Yabanda",
-    "Yuruf",
-    "Amgotro",
-    "Jifanggry",
-    "Monggoafi",
-    "Fafenumbu",
-    "Akarinda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yabanda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yuruf"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amgotro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jifanggry"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Monggoafi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fafenumbu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Akarinda"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Selaparang",
-    "Ketangga",
-    "Suntalangu",
-    "Suela (Suwela)",
-    "Sapit",
-    "Perigi",
-    "Mekar Sari",
-    "Puncak Jeringo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selaparang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ketangga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suntalangu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suela (Suwela)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sapit"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perigi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Puncak Jeringo"
+    }
   ]
 }

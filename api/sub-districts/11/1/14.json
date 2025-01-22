@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Paya Dapur",
-    "Sapik",
-    "Alai",
-    "Durian Kawan",
-    "Lawe Sawah",
-    "Lawe Buluh Didi",
-    "Pucuk Lembang",
-    "Paya Laba",
-    "Lawe Cimanok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paya Dapur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sapik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Durian Kawan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lawe Sawah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lawe Buluh Didi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pucuk Lembang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paya Laba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lawe Cimanok"
+    }
   ]
 }

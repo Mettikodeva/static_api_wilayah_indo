@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Garung (Garong)",
-    "Henda",
-    "Simpur",
-    "Sakakajang (Saka Kajang)",
-    "Jabiren",
-    "Pilang",
-    "Tumbang Nusa",
-    "Tanjung Taruna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Garung (Garong)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Henda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sakakajang (Saka Kajang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jabiren"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pilang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Nusa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Taruna"
+    }
   ]
 }

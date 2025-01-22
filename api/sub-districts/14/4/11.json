@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sungaipiring (Sungai Piring)",
-    "Sungailuar (Sungai Luar)",
-    "Sungaidusun (Sungai Dusun)",
-    "Sungaijunjangan (Sungai Junjangan)",
-    "Sungairaya (Sungai Raya)",
-    "Kuala Sebatu",
-    "Tanjungsiantar (Tanjung Siantar)",
-    "Sungairawa (Sungai Rawa)",
-    "Sialang Jaya",
-    "Gemilang Jaya",
-    "Tasik Raya",
-    "Pasir Emas",
-    "Simpang Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungaipiring (Sungai Piring)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungailuar (Sungai Luar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaidusun (Sungai Dusun)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungaijunjangan (Sungai Junjangan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungairaya (Sungai Raya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuala Sebatu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungsiantar (Tanjung Siantar)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungairawa (Sungai Rawa)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sialang Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gemilang Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tasik Raya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasir Emas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simpang Jaya"
+    }
   ]
 }

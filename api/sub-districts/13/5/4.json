@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Sicincin",
-    "Lubuk Pandan",
-    "Sungai Asam"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sicincin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Pandan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Asam"
+    }
   ]
 }

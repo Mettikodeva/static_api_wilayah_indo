@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bangkingan",
-    "Jeruk",
-    "Lakarsantri (Lakar Santri)",
-    "Lidah Kulon",
-    "Lidah Wetan",
-    "Sumur Welut"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bangkingan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jeruk"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lakarsantri (Lakar Santri)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lidah Kulon"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lidah Wetan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sumur Welut"
+    }
   ]
 }

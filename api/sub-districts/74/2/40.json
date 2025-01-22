@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Anggalomoare",
-    "Lasoso",
-    "Lakomea (Lakome)",
-    "Abelisawah",
-    "Galu",
-    "Tabanggele",
-    "Puusangi",
-    "Andobeu Jaya",
-    "Anggalomoare Jaya",
-    "Pusawah Jaya (Pusawa Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Anggalomoare"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lasoso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lakomea (Lakome)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Abelisawah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Galu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tabanggele"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puusangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Andobeu Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Anggalomoare Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pusawah Jaya (Pusawa Jaya)"
+    }
   ]
 }

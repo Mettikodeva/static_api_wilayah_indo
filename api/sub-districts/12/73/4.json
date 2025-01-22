@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Pancuran Kerambil",
-    "Pancuran Dewa",
-    "Pancuran Pinang",
-    "Pancuran Bambu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pancuran Kerambil"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pancuran Dewa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pancuran Pinang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pancuran Bambu"
+    }
   ]
 }

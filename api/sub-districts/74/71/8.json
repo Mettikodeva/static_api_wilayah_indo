@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kadia",
-    "Bende",
-    "Pondambea",
-    "Wowawanggu",
-    "Anaiwoi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kadia"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bende"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pondambea"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wowawanggu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Anaiwoi"
+    }
   ]
 }

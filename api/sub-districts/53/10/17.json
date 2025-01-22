@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bere",
-    "Wae Codi",
-    "Golo Woi",
-    "Golo Lanak",
-    "Latung",
-    "Wae Renca",
-    "Timbu",
-    "Bangka Ara",
-    "Compang Cibal",
-    "Lenda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bere"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wae Codi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Golo Woi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Golo Lanak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Latung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wae Renca"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timbu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangka Ara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Compang Cibal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lenda"
+    }
   ]
 }

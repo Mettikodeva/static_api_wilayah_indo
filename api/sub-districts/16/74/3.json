@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Cambai",
-    "Sindur",
-    "Sungai Medang",
-    "Pangkul",
-    "Muara Sungai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cambai"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sindur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sungai Medang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangkul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Sungai"
+    }
   ]
 }

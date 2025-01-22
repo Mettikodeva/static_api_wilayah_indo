@@ -1,79 +1,304 @@
 {
   "sub_districts": [
-    "Kuta Lhoksukon (Kota Lhoksukon)",
-    "Cot U Sibak (Meunasah Cot Usibak)",
-    "Bintang Hu",
-    "Blang Aman (Gampong Blang Aman)",
-    "Cot Ara (Gampong Cot Ara)",
-    "Blang Rubek",
-    "Nga Matang Ubi",
-    "Meunasah Reudeup",
-    "Alue Buket",
-    "Meuye/Munye Matang Ubi",
-    "Trieng Matang Ubi",
-    "Ceubrek (Meunasah Ceubrek)",
-    "Meunasah Blang",
-    "Buket Seuntang (Buket Sentang)",
-    "Meunasah Arongan AB (Meunasah Arongan Ab)",
-    "Trieng Pantang",
-    "Meunasah Leubok Ab",
-    "Cot Glumpang AB (Cot Geulumpang Ab)",
-    "Abeuk Leupon (Leupen)",
-    "Ara Ab (Meunasah Ara)",
-    "Mancang (Meunasah Mancang)",
-    "Matang Pupanji AB (Gampong Matang Pupanji Ab)",
-    "Meunasah Asan Ab",
-    "Matang Teungoh Ab. (Meunasah Matang Teungoh)",
-    "Pante",
-    "Rambot",
-    "Meunasah Alue Drien LB",
-    "Alue Meudem (Mudem)",
-    "Meunasah Geulinggang",
-    "Meunasah Asan Lhoksukon Barat",
-    "Beuringin Lb (Meunasah Beuringen)",
-    "Meunasah Teungoh LB (Meunasah Teungoh Lb)",
-    "Meunasah Rayeuk LB (Meunasah Rayeuk Lb)",
-    "Ulee Barat (Meunasah Ulee Barat)",
-    "Meunasah Ranto (Gampong Meunasah Ranto)",
-    "Meunasah Tutong",
-    "Meunasah Nga Lhoksukon Barat",
-    "Keutapang",
-    "Matang Munjee (Matang Meunye)",
-    "Pulo Dulang (Meunasah Pulo Dolang)",
-    "Dayah Lb/Lt",
-    "Geumata (Meunasah Geumata)",
-    "Meunasah Meurbo (Meureubo)",
-    "Meunasah Dayah Lt/Lb",
-    "Arongan Lt",
-    "Meunasah Tuha",
-    "Meunasah Krueng LT (Krueng Lt)",
-    "Babah Geudeubang (Babah Geudubang)",
-    "Grong Grong",
-    "Alue Itam Reudeup",
-    "Teupin Keubeu",
-    "Meunasah Nga LT (Gampong Nga Lt)",
-    "Meunasah Meuria (Meuriya)",
-    "Kumbang Lt",
-    "Seuneubok Dalam",
-    "Alue Eumpok",
-    "Meunasah Jok",
-    "Manyang (Meunasah Manyang)",
-    "Lhok Kareung",
-    "Cot Asan",
-    "Alue Abee",
-    "Buloh LT (Meunasah Buloh)",
-    "Geulumpang",
-    "Meunasah Teungoh Lt",
-    "Mata U",
-    "Meucat",
-    "Buket Mee Lt",
-    "Ulee Tanoh",
-    "Buket Kreung (Buket Krueng)",
-    "Ulee Gunong",
-    "Lhok Seuntang (Lhok Sentang)",
-    "Alue Itam Baroh",
-    "Mata Ie",
-    "Rawa (Meunasah Rawa)",
-    "Buket Hagu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuta Lhoksukon (Kota Lhoksukon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cot U Sibak (Meunasah Cot Usibak)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bintang Hu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Blang Aman (Gampong Blang Aman)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cot Ara (Gampong Cot Ara)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blang Rubek"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nga Matang Ubi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meunasah Reudeup"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Alue Buket"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meuye/Munye Matang Ubi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Trieng Matang Ubi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ceubrek (Meunasah Ceubrek)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Meunasah Blang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Buket Seuntang (Buket Sentang)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Meunasah Arongan AB (Meunasah Arongan Ab)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Trieng Pantang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Meunasah Leubok Ab"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cot Glumpang AB (Cot Geulumpang Ab)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Abeuk Leupon (Leupen)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ara Ab (Meunasah Ara)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mancang (Meunasah Mancang)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Matang Pupanji AB (Gampong Matang Pupanji Ab)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Meunasah Asan Ab"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Matang Teungoh Ab. (Meunasah Matang Teungoh)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pante"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Rambot"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Meunasah Alue Drien LB"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Alue Meudem (Mudem)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Meunasah Geulinggang"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Meunasah Asan Lhoksukon Barat"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Beuringin Lb (Meunasah Beuringen)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Meunasah Teungoh LB (Meunasah Teungoh Lb)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Meunasah Rayeuk LB (Meunasah Rayeuk Lb)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Ulee Barat (Meunasah Ulee Barat)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Meunasah Ranto (Gampong Meunasah Ranto)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Meunasah Tutong"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Meunasah Nga Lhoksukon Barat"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Keutapang"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Matang Munjee (Matang Meunye)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Pulo Dulang (Meunasah Pulo Dolang)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Dayah Lb/Lt"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Geumata (Meunasah Geumata)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Meunasah Meurbo (Meureubo)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Meunasah Dayah Lt/Lb"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Arongan Lt"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Meunasah Tuha"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Meunasah Krueng LT (Krueng Lt)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Babah Geudeubang (Babah Geudubang)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Grong Grong"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Alue Itam Reudeup"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Teupin Keubeu"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Meunasah Nga LT (Gampong Nga Lt)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Meunasah Meuria (Meuriya)"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Kumbang Lt"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Seuneubok Dalam"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Alue Eumpok"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Meunasah Jok"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Manyang (Meunasah Manyang)"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Lhok Kareung"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Cot Asan"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Alue Abee"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Buloh LT (Meunasah Buloh)"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Geulumpang"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Meunasah Teungoh Lt"
+    },
+    {
+      "sub_district_id": 2065,
+      "desa_kelurahan": "Mata U"
+    },
+    {
+      "sub_district_id": 2066,
+      "desa_kelurahan": "Meucat"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Buket Mee Lt"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Ulee Tanoh"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Buket Kreung (Buket Krueng)"
+    },
+    {
+      "sub_district_id": 2070,
+      "desa_kelurahan": "Ulee Gunong"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Lhok Seuntang (Lhok Sentang)"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Alue Itam Baroh"
+    },
+    {
+      "sub_district_id": 2073,
+      "desa_kelurahan": "Mata Ie"
+    },
+    {
+      "sub_district_id": 2074,
+      "desa_kelurahan": "Rawa (Meunasah Rawa)"
+    },
+    {
+      "sub_district_id": 2075,
+      "desa_kelurahan": "Buket Hagu"
+    }
   ]
 }

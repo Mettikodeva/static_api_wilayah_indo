@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Air Buluh",
-    "Pulau Baru",
-    "Pasar Ipuh",
-    "Medan Jaya",
-    "Sibak (Dusun Sibak)",
-    "Semundam",
-    "Retak Ilir (Retak Hilir)",
-    "Tanjung Harapan",
-    "Tanjung Jaya",
-    "Manunggal Jaya",
-    "Pulau Payung (Pulai Payung)",
-    "Tanjung Medan",
-    "Tirta Mulya",
-    "Pasar Baru",
-    "Pulau Makmur",
-    "Mundam Marap"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Buluh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasar Ipuh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Medan Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sibak (Dusun Sibak)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Semundam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Retak Ilir (Retak Hilir)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjung Jaya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Manunggal Jaya"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Pulau Payung (Pulai Payung)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Tanjung Medan"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Tirta Mulya"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Pulau Makmur"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Mundam Marap"
+    }
   ]
 }

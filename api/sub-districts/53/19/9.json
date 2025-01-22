@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lempang Paji",
-    "Sangan Kalo",
-    "Sipi",
-    "Gising",
-    "Langga Sai",
-    "Teno Mese",
-    "Golo Wuas",
-    "Nanga Meje",
-    "Paan Waru",
-    "Golo Linus",
-    "Benteng Pau",
-    "Wae Rasan",
-    "Mosi Ngaran",
-    "Nanga Puun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lempang Paji"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sangan Kalo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sipi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gising"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langga Sai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teno Mese"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Golo Wuas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nanga Meje"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paan Waru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Golo Linus"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Benteng Pau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wae Rasan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mosi Ngaran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nanga Puun"
+    }
   ]
 }

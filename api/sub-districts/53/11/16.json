@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wangga",
-    "Prailiu",
-    "Kambaniru",
-    "Mauliru",
-    "Mau Hau (Mauhau)",
-    "Malumbi",
-    "Lambanapu",
-    "Kiri Tana (Kiritana)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wangga"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Prailiu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kambaniru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mauliru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mau Hau (Mauhau)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Malumbi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lambanapu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kiri Tana (Kiritana)"
+    }
   ]
 }

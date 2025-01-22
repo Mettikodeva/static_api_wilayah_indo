@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Rumadian",
-    "Debut",
-    "Namar",
-    "Ngilngof",
-    "Selayar",
-    "Lairngangas",
-    "Ohoiluk",
-    "Ohoililir",
-    "Ngayub"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rumadian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Debut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Namar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngilngof"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Selayar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lairngangas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ohoiluk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ohoililir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngayub"
+    }
   ]
 }

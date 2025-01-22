@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Muara Bakanon",
-    "Tumbang Lahung",
-    "Sei/Sungai Gula",
-    "Sei/Sungai Batang",
-    "Tumbang Salio",
-    "Purnama",
-    "Sei/Sungai Lobang",
-    "Pantai Laga",
-    "Baratu (Beratu)",
-    "Juking Sopan (Juking Supan)",
-    "Muara Babuat",
-    "Sei/Sungai Bakanon"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Muara Bakanon"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tumbang Lahung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Gula"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Batang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbang Salio"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purnama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Lobang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pantai Laga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baratu (Beratu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Juking Sopan (Juking Supan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Babuat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sei/Sungai Bakanon"
+    }
   ]
 }

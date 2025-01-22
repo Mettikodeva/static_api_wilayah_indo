@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wulur",
-    "Batu Merah (Batumerah)",
-    "Kuaimelu (Kuay Melu)",
-    "Kumur",
-    "Bebar Timur",
-    "Ilih",
-    "Kehli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wulur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Merah (Batumerah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuaimelu (Kuay Melu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kumur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bebar Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ilih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kehli"
+    }
   ]
 }

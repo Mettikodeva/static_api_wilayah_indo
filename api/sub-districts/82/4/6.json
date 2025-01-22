@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Laiwui",
-    "Baru",
-    "Buton",
-    "Jikotamo",
-    "Sambiki",
-    "Anggai",
-    "Air Mangga Indah",
-    "Akegula",
-    "Kawasi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Laiwui"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buton"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jikotamo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sambiki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anggai"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Air Mangga Indah"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Akegula"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kawasi"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Aras Sembilan",
-    "Jambo Rambong (Jambu Rambong)",
-    "Blang Kandis",
-    "Alur Jambu",
-    "Perkebunan Alur Jambu",
-    "Batang Ara",
-    "Perupuk",
-    "Serba",
-    "Sunting",
-    "Rantau Bintang",
-    "Babo",
-    "Pantai Cempa",
-    "Pengidam",
-    "Bengkelang",
-    "Batu Bedulang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aras Sembilan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambo Rambong (Jambu Rambong)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blang Kandis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alur Jambu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Alur Jambu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batang Ara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Perupuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Serba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sunting"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rantau Bintang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Babo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pantai Cempa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pengidam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bengkelang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batu Bedulang"
+    }
   ]
 }

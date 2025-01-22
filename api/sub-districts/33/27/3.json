@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gombong",
-    "Belik",
-    "Gunungtiga",
-    "Kuta",
-    "Badak",
-    "Gunungjaya",
-    "Simpur",
-    "Mendelem",
-    "Beluk",
-    "Bulakan",
-    "Sikasur",
-    "Kalisaleh",
-    "Sodong Basari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gombong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunungtiga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Badak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunungjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mendelem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Beluk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bulakan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sikasur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalisaleh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sodong Basari"
+    }
   ]
 }

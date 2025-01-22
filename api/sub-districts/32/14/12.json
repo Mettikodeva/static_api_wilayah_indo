@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cilangkap",
-    "Cicadas",
-    "Hegarmanah",
-    "Babakancikao",
-    "Kadumekar",
-    "Marancang (Maracang)",
-    "Ciwareng",
-    "Mulyamekar",
-    "Cigelam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cilangkap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cicadas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Babakancikao"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadumekar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marancang (Maracang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ciwareng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mulyamekar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cigelam"
+    }
   ]
 }

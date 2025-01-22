@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Guguak Panjang (Guguk Panjang)",
-    "Mandiangin Koto Selayan",
-    "Aur Birugo Tigo Baleh"
+    {
+      "district_id": 1,
+      "kecamatan": "Guguak Panjang (Guguk Panjang)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mandiangin Koto Selayan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Aur Birugo Tigo Baleh"
+    }
   ]
 }

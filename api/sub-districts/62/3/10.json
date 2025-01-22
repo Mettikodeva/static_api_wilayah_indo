@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Petak Puti",
-    "Aruk",
-    "Lawang Kajang",
-    "Timpah",
-    "Lungkuh Layang (Lungku Layang)",
-    "Lawang Kamah",
-    "Tumbang Randang",
-    "Batapah",
-    "Danau Pantau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Petak Puti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aruk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lawang Kajang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Timpah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lungkuh Layang (Lungku Layang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lawang Kamah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Randang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batapah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Danau Pantau"
+    }
   ]
 }

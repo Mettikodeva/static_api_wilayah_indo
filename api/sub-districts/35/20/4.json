@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Takeran",
-    "Kiringan",
-    "Duyung",
-    "Tawangrejo",
-    "Sawojajar",
-    "Kuwonharjo",
-    "Kepuhrejo",
-    "Kerik",
-    "Waduk",
-    "Jomblang",
-    "Kerang",
-    "Madigondo"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Takeran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kiringan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Duyung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tawangrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawojajar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kuwonharjo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kepuhrejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kerik"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Waduk"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jomblang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kerang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Madigondo"
+    }
   ]
 }

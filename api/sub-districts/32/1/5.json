@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cijayanti",
-    "Sumurbatu (Sumur Batu)",
-    "Sentul",
-    "Karangtengah (Karang Tengah)",
-    "Cipambuan",
-    "Kadumanggu (Kadumangu)",
-    "Citaringgul",
-    "Babakan Madang",
-    "Bojong Koneng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cijayanti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumurbatu (Sumur Batu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangtengah (Karang Tengah)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipambuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kadumanggu (Kadumangu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Citaringgul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babakan Madang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bojong Koneng"
+    }
   ]
 }

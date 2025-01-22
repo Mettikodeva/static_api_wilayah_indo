@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sario Utara",
-    "Sario Kotabaru (Sario Kota Baru)",
-    "Sario Tumpaan",
-    "Sario",
-    "Titiwungan Utara (Titiwungen Utara)",
-    "Titiwungan Selatan (Titiwungen Selatan)",
-    "Ranotana"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sario Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sario Kotabaru (Sario Kota Baru)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sario Tumpaan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sario"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Titiwungan Utara (Titiwungen Utara)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Titiwungan Selatan (Titiwungen Selatan)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ranotana"
+    }
   ]
 }

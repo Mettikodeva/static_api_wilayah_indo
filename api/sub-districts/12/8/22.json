@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Naga Jaya I",
-    "Bah Gunung",
-    "Bandar Tonga (Bandar Tongah)",
-    "Dolok Parmonangan",
-    "Laras",
-    "Naga Jaya II",
-    "Tanjung Hataran",
-    "Bandar Betsy I",
-    "Bandar Betsy II",
-    "Naga Soppa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Naga Jaya I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bah Gunung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Tonga (Bandar Tongah)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dolok Parmonangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Laras"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Naga Jaya II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Hataran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bandar Betsy I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandar Betsy II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Naga Soppa"
+    }
   ]
 }

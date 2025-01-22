@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Kasui Pasar",
-    "Datar Bancong",
-    "Kedaton",
-    "Karang Lantang",
-    "Kasui Lama",
-    "Kampung Baru",
-    "Jukuh Kemuning",
-    "Kotaway",
-    "Tanjung Kurung",
-    "Talang Mangga",
-    "Tanjung Harapan",
-    "Sinar Gading",
-    "Jaya Tinggi",
-    "Sukajadi (Suka Jadi)",
-    "Gelombang Panjang",
-    "Tangkas",
-    "Tanjung Bulan",
-    "Tanjung Kurung Lama (Tanjungkurung Lama)",
-    "Bukit Batu"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kasui Pasar"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Datar Bancong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedaton"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Lantang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kasui Lama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jukuh Kemuning"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kotaway"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Kurung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Mangga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sinar Gading"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jaya Tinggi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukajadi (Suka Jadi)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gelombang Panjang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tangkas"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjung Bulan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjung Kurung Lama (Tanjungkurung Lama)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bukit Batu"
+    }
   ]
 }

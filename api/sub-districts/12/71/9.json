@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Amplas",
-    "Sitirejo II",
-    "Sitirejo III",
-    "Harjosari I",
-    "Harjosari II",
-    "Timbang Deli",
-    "Bangun Mulia"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Amplas"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sitirejo II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sitirejo III"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Harjosari I"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Harjosari II"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Timbang Deli"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bangun Mulia"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Warudoyong",
-    "Nyomplong",
-    "Dayeuhluhur",
-    "Sukakarya",
-    "Benteng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Warudoyong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nyomplong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dayeuhluhur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukakarya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Benteng"
+    }
   ]
 }

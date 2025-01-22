@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tancep",
-    "Sambirejo",
-    "Jurangjero (Jurang Jero)",
-    "Kampung",
-    "Beji",
-    "Watusigar (Watu Sigar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tancep"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jurangjero (Jurang Jero)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Watusigar (Watu Sigar)"
+    }
   ]
 }

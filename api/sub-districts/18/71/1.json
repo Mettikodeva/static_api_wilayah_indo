@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kedaton",
-    "Surabaya",
-    "Sukamenanti",
-    "Sidodadi",
-    "Sukamenanti Baru",
-    "Penengahan",
-    "Penengahan Raya"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedaton"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Surabaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukamenanti"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sukamenanti Baru"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Penengahan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Penengahan Raya"
+    }
   ]
 }

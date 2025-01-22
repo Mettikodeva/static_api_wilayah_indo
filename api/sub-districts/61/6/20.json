@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Nanga Mentebah",
-    "Tekalong",
-    "Suka Maju",
-    "Kepala Gurung",
-    "Tanjung",
-    "Tanjung Intan",
-    "Tangai Jaya",
-    "Menaren"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Mentebah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tekalong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kepala Gurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Intan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangai Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Menaren"
+    }
   ]
 }

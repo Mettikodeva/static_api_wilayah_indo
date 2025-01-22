@@ -1,53 +1,200 @@
 {
   "sub_districts": [
-    "Kendalrejo",
-    "Kalimati",
-    "Pepe",
-    "Tunjungtejo",
-    "Sekartejo",
-    "Tersidilor (Tersidi Lor)",
-    "Tersidikidul (Tersidi Kidul)",
-    "Tasikmadu",
-    "Pangkalan",
-    "Sumber",
-    "Gumawangrejo",
-    "Keburusan",
-    "Wonoyoso",
-    "Tapen",
-    "Waru",
-    "Blekatuk",
-    "Dlisen Wetan",
-    "Dlisenkulon (Dlisen Kulon)",
-    "Semampir",
-    "Petuguran",
-    "Pekacangan",
-    "Karanggetas",
-    "Luweng Kidul",
-    "Sambeng",
-    "Megulungkidul (Megulung Kidul)",
-    "Pituruh",
-    "Sikambang",
-    "Ngampel",
-    "Prigelan",
-    "Ngandagan",
-    "Karanganyar",
-    "Megulunglor (Megulung Lor)",
-    "Prapagkidul (Prapag Kidul)",
-    "Kembangkuning",
-    "Luwenglor (Luweng Lor)",
-    "Brengkol",
-    "Girigondo",
-    "Prapaglor (Prapag Lor)",
-    "Kalikotes",
-    "Kesawen",
-    "Kedungbatur (Kedung Batur)",
-    "Polowangi",
-    "Kalijering",
-    "Somogede",
-    "Kaligondang",
-    "Kaligintung",
-    "Sawangan",
-    "Wonosido",
-    "Pamriyan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kendalrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalimati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pepe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunjungtejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sekartejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tersidilor (Tersidi Lor)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tersidikidul (Tersidi Kidul)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tasikmadu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gumawangrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Keburusan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonoyoso"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tapen"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Waru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Blekatuk"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Dlisen Wetan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dlisenkulon (Dlisen Kulon)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Semampir"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Petuguran"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pekacangan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Karanggetas"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Luweng Kidul"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sambeng"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Megulungkidul (Megulung Kidul)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pituruh"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sikambang"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Ngampel"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Prigelan"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Ngandagan"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Megulunglor (Megulung Lor)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Prapagkidul (Prapag Kidul)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Kembangkuning"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Luwenglor (Luweng Lor)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Brengkol"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Girigondo"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Prapaglor (Prapag Lor)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Kalikotes"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Kesawen"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Kedungbatur (Kedung Batur)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Polowangi"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Kalijering"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Somogede"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Kaligondang"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Kaligintung"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Sawangan"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Wonosido"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Pamriyan"
+    }
   ]
 }

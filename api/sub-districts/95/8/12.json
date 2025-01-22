@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Meborok",
-    "Yuguru",
-    "Lemurak",
-    "Setmit",
-    "Aptam",
-    "Ngenamba",
-    "Narugum",
-    "Eregenmanggal",
-    "Talpam",
-    "Siginimarem",
-    "Bone",
-    "Olunmu",
-    "Sabiem",
-    "Pereki"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meborok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yuguru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lemurak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Setmit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aptam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngenamba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Narugum"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Eregenmanggal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talpam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siginimarem"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bone"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Olunmu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sabiem"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pereki"
+    }
   ]
 }

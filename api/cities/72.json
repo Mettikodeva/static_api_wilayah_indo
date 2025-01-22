@@ -1,17 +1,56 @@
 {
   "cities": [
-    "Banggai",
-    "Poso",
-    "Donggala",
-    "Toli Toli",
-    "Buol",
-    "Morowali",
-    "Banggai Kepulauan",
-    "Parigi Moutong",
-    "Tojo Una Una",
-    "Sigi",
-    "Banggai Laut",
-    "Morowali Utara",
-    "Palu"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Banggai"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Poso"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Donggala"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Toli Toli"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Buol"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Morowali"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Banggai Kepulauan"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Parigi Moutong"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Tojo Una Una"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Sigi"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Banggai Laut"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Morowali Utara"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Palu"
+    }
   ]
 }

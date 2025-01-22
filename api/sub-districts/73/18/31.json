@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ratte",
-    "Paliorong",
-    "Kadundung (Kadungdung)",
-    "Pondingao' (Pondingao)",
-    "Belau",
-    "Belau Utara",
-    "Paku",
-    "Sesesalu (Sese Salu / Sese'alu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ratte"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paliorong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kadundung (Kadungdung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondingao' (Pondingao)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Belau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belau Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paku"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sesesalu (Sese Salu / Sese'alu)"
+    }
   ]
 }

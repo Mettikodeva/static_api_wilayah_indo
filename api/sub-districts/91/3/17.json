@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Yongsu Sapari",
-    "Yongsu Besar (Dosoyo)",
-    "Ormuwari (Newa)",
-    "Nehibe (Nacha Tawa)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yongsu Sapari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yongsu Besar (Dosoyo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ormuwari (Newa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nehibe (Nacha Tawa)"
+    }
   ]
 }

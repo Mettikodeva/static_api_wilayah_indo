@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Anggi",
-    "Anggi Gida",
-    "Membey",
-    "Sururey",
-    "Didohu",
-    "Taige",
-    "Catubouw",
-    "Testega",
-    "Minyambaouw",
-    "Hingk"
+    {
+      "district_id": 1,
+      "kecamatan": "Anggi"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Anggi Gida"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Membey"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sururey"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Didohu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Taige"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Catubouw"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Testega"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Minyambaouw"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Hingk"
+    }
   ]
 }

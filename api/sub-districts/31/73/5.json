@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kebon Jeruk",
-    "Sukabumi Utara (Ilir)",
-    "Sukabumi Selatan (Udik)",
-    "Kelapa Dua",
-    "Duri Kepa",
-    "Kedoya Utara",
-    "Kedoya Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kebon Jeruk"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukabumi Utara (Ilir)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sukabumi Selatan (Udik)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kelapa Dua"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Duri Kepa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kedoya Utara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kedoya Selatan"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Telukmerbau (Teluk Merbau)",
-    "Tanjungleban (Tanjung Leban)",
-    "Sungaikubu (Sei / Sungai Kubu)",
-    "Rantau Panjang Kanan",
-    "Telukpiyai (Teluk Piyai)",
-    "Sungaisegajah (Sungai Sigajah / Segajah Makmur)",
-    "Sei Segajah Makmur",
-    "Telukpiyai Pesisir (Teluk Piyai Pesisir)",
-    "Sungaikubu Hulu (Sungai Kubu Hulu)",
-    "Sungai Segajah Jaya"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Telukmerbau (Teluk Merbau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungleban (Tanjung Leban)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaikubu (Sei / Sungai Kubu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Panjang Kanan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Telukpiyai (Teluk Piyai)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungaisegajah (Sungai Sigajah / Segajah Makmur)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sei Segajah Makmur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Telukpiyai Pesisir (Teluk Piyai Pesisir)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sungaikubu Hulu (Sungai Kubu Hulu)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sungai Segajah Jaya"
+    }
   ]
 }

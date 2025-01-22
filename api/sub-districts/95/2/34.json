@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Nongme",
-    "Rubol",
-    "Yokom",
-    "Yarigon",
-    "Omtamur",
-    "Cangpally",
-    "Kwarban"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nongme"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rubol"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yokom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yarigon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Omtamur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cangpally"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kwarban"
+    }
   ]
 }

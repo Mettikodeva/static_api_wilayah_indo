@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nangkaan",
-    "Tamansari",
-    "Kademangan",
-    "Dabasah",
-    "Badean",
-    "Kotakulon",
-    "Blindungan",
-    "Pancoran",
-    "Sukowiryo",
-    "Kembang",
-    "Pejaten"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nangkaan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kademangan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dabasah"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Badean"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kotakulon"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Blindungan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pancoran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukowiryo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kembang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pejaten"
+    }
   ]
 }

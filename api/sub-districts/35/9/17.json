@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukamakmur",
-    "Mangaran",
-    "Pancakarya",
-    "Ajung",
-    "Klompangan",
-    "Wirowongso",
-    "Rowoindah (Rowo Indah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukamakmur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pancakarya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ajung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klompangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wirowongso"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rowoindah (Rowo Indah)"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Takoma",
-    "Tanah Raja",
-    "Muhajirin",
-    "Stadion",
-    "Maliaro",
-    "Kampung Pisang",
-    "Marikurubu",
-    "Kota Baru",
-    "Gamalama",
-    "Kalumpang",
-    "Moya",
-    "Santiong",
-    "Makassar Barat (Makasar Barat)",
-    "Makassar Timur (Makasar Timur)",
-    "Salahuddin",
-    "Tongole"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Takoma"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanah Raja"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Muhajirin"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Stadion"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Maliaro"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kampung Pisang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Marikurubu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gamalama"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kalumpang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Moya"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Santiong"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Makassar Barat (Makasar Barat)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Makassar Timur (Makasar Timur)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Salahuddin"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tongole"
+    }
   ]
 }

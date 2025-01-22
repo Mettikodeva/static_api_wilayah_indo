@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mbali Lendeiki",
-    "Anarae",
-    "Mbiu Lombo",
-    "Nuse",
-    "Ndaonuse"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mbali Lendeiki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Anarae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mbiu Lombo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nuse"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ndaonuse"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "cities": [
-    "Pasangkayu (Mamuju Utara)",
-    "Mamuju",
-    "Mamasa",
-    "Polewali Mandar",
-    "Majene",
-    "Mamuju Tengah"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Pasangkayu (Mamuju Utara)"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Mamuju"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Mamasa"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Polewali Mandar"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Majene"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Mamuju Tengah"
+    }
   ]
 }

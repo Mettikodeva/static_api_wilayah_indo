@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gunung Tapa",
-    "Gedung Meneng",
-    "Bakung Udik",
-    "Bakung Ilir",
-    "Gedung Bandar Rahayu",
-    "Gunung Tapa Ilir",
-    "Gunung Tapa Tengah",
-    "Gunung Tapa Udik",
-    "Gedung Bandar Rejo",
-    "Bakung Rahayu",
-    "Gedung Meneng Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunung Tapa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gedung Meneng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakung Udik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bakung Ilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gedung Bandar Rahayu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunung Tapa Ilir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gunung Tapa Tengah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gunung Tapa Udik"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gedung Bandar Rejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bakung Rahayu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Gedung Meneng Baru"
+    }
   ]
 }

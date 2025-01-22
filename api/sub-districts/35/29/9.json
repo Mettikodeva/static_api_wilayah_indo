@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bakeong (Bakeyong)",
-    "Payudan Dundang",
-    "Pordapor",
-    "Guluk Guluk",
-    "Ketawang Laok",
-    "Pananggungan",
-    "Bragung",
-    "Tambuko",
-    "Payudan Nangger",
-    "Payudan Daleman",
-    "Payudan Karangsokon",
-    "Batuampar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bakeong (Bakeyong)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Payudan Dundang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pordapor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Guluk Guluk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ketawang Laok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pananggungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bragung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambuko"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Payudan Nangger"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Payudan Daleman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Payudan Karangsokon"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batuampar"
+    }
   ]
 }

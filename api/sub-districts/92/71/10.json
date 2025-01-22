@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Suprau",
-    "Tampa Garam",
-    "Saoka",
-    "Tanjung Kasuari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Suprau"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tampa Garam"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Saoka"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung Kasuari"
+    }
   ]
 }

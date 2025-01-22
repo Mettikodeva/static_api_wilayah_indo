@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kemuningsarikidul (Kemuning Sari Kidul)",
-    "Wonojati",
-    "Jenggawah",
-    "Kertonegoro",
-    "Sruni (Seruni)",
-    "Jatisari",
-    "Jatimulyo",
-    "Cangkring"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kemuningsarikidul (Kemuning Sari Kidul)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonojati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jenggawah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kertonegoro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sruni (Seruni)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatimulyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cangkring"
+    }
   ]
 }

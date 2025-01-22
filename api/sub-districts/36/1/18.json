@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cimanuk",
-    "Batubantar",
-    "Kadubungbang",
-    "Kupahandap",
-    "Dalembalar",
-    "Kadumadang",
-    "Rocek",
-    "Kadudodol",
-    "Gunungdatar",
-    "Sekong",
-    "Gunungcupu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cimanuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batubantar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kadubungbang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kupahandap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dalembalar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kadumadang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rocek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kadudodol"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunungdatar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sekong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gunungcupu"
+    }
   ]
 }

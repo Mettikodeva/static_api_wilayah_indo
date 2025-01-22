@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Jila",
-    "Diloa",
-    "Noemun",
-    "Pasir Putih",
-    "Jengkon",
-    "Pilik Ogom",
-    "Bunaraugin",
-    "Umpliga",
-    "Amua Ogom",
-    "Pusuwe",
-    "Wandud",
-    "Diloa Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Diloa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Noemun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jengkon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pilik Ogom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bunaraugin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Umpliga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Amua Ogom"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pusuwe"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Wandud"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Diloa Dua"
+    }
   ]
 }

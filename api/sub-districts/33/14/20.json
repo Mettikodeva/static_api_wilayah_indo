@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Japoh",
-    "Ngepringan",
-    "Mlale",
-    "Dawung",
-    "Kandangsapi (Kandang Sapi)",
-    "Jenar",
-    "Banyurip (Banyuurip)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Japoh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngepringan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mlale"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kandangsapi (Kandang Sapi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jenar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banyurip (Banyuurip)"
+    }
   ]
 }

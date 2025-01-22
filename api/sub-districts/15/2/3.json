@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Durian Rambun",
-    "Lubuk Birah",
-    "Lubuk Beringin",
-    "Rantau Macang",
-    "Peradu Temberas (Peradun Temeras)",
-    "Teluk Sikumbang",
-    "Muara Siau",
-    "Tiaro",
-    "Air Lago",
-    "Badak Tekurung",
-    "Rantau Bidaro (Rantai Bedaro)",
-    "Rantau Panjang",
-    "Pulau Raman",
-    "Pasar Muara Siau",
-    "Sepantai Renah",
-    "Sungai Ulas",
-    "Rantau Bayur"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Durian Rambun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Birah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Beringin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Macang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Peradu Temberas (Peradun Temeras)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teluk Sikumbang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muara Siau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tiaro"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Air Lago"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Badak Tekurung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rantau Bidaro (Rantai Bedaro)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pulau Raman"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pasar Muara Siau"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sepantai Renah"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sungai Ulas"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Rantau Bayur"
+    }
   ]
 }

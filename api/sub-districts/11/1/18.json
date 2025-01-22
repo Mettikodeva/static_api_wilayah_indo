@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ladang Rimba",
-    "Gunong Kapo/Kapho",
-    "Gampong Teungoh (Kampong Teungoh)",
-    "Krueng Batee",
-    "Pulo Paya",
-    "Jambo Papeun",
-    "Cot Bayu",
-    "Naca",
-    "Ie Jeureuneh",
-    "Lhok Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ladang Rimba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunong Kapo/Kapho"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gampong Teungoh (Kampong Teungoh)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Krueng Batee"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulo Paya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jambo Papeun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cot Bayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Naca"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ie Jeureuneh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lhok Raya"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Srikaton (Sri Katon)",
-    "Jaya Sakti",
-    "Haji Pemanggilan",
-    "Negara Bumi Ilir",
-    "Bumi Aji",
-    "Negara Aji Tua",
-    "Negara Bumi Udik",
-    "Negara Aji Baru",
-    "Gunung Agung",
-    "Tanjung Harapan",
-    "Bumi Jaya",
-    "Mulyo Haji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Srikaton (Sri Katon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jaya Sakti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Haji Pemanggilan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Negara Bumi Ilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Aji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Negara Aji Tua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Negara Bumi Udik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Negara Aji Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bumi Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mulyo Haji"
+    }
   ]
 }

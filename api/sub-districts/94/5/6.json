@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Yauria",
-    "Gigobak",
-    "Kalibuk",
-    "Kelemame",
-    "Gulabut",
-    "Kolaribanak",
-    "Mogulu",
-    "Gigobak II",
-    "Pasir Putih",
-    "Gingga Baru",
-    "Tenonggame"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yauria"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gigobak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalibuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kelemame"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gulabut"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kolaribanak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mogulu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gigobak II"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gingga Baru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tenonggame"
+    }
   ]
 }

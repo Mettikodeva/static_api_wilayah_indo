@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ambumi",
-    "Nanimori",
-    "Dusner",
-    "Yerenusi",
-    "Sobiar",
-    "Simei (Simiei)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ambumi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanimori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dusner"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yerenusi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sobiar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simei (Simiei)"
+    }
   ]
 }

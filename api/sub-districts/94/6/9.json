@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Piyakunu",
-    "Diyeugi",
-    "Putapa",
-    "Atou (Tuamani)",
-    "Modio",
-    "Upibega (Ukudawata)",
-    "Timopa (Timepa)",
-    "Gabaikunu",
-    "Adauwo",
-    "Magaikebo (Megaikebo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Piyakunu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Diyeugi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Putapa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Atou (Tuamani)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Modio"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Upibega (Ukudawata)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timopa (Timepa)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gabaikunu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Adauwo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Magaikebo (Megaikebo)"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Simpang Katis",
-    "Celuak",
-    "Sungkap",
-    "Beruas",
-    "Puput",
-    "Teru",
-    "Terak",
-    "Pasir Garam",
-    "Katis",
-    "Pinang Sebatang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Katis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Celuak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungkap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beruas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puput"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasir Garam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Katis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pinang Sebatang"
+    }
   ]
 }

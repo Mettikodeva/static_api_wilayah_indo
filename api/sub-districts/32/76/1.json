@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Depok",
-    "Depok Jaya",
-    "Pancoran Mas",
-    "Mampang",
-    "Rangkapan Jaya Baru (Rangkapanjaya Baru)",
-    "Rangkapan Jaya (Rangkapanjaya)"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Depok Jaya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pancoran Mas"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mampang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Rangkapan Jaya Baru (Rangkapanjaya Baru)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Rangkapan Jaya (Rangkapanjaya)"
+    }
   ]
 }

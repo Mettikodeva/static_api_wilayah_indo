@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tomoni",
-    "Bayondo",
-    "Mulyasri",
-    "Lestari",
-    "Kalpataru",
-    "Tadulako",
-    "Beringin Jaya",
-    "Bangun Jaya",
-    "Mandiri",
-    "Sumber Alam",
-    "Ujung Baru",
-    "Bangun Karya",
-    "Rante Mario"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tomoni"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bayondo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mulyasri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lestari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalpataru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tadulako"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mandiri"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sumber Alam"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ujung Baru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bangun Karya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Rante Mario"
+    }
   ]
 }

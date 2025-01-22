@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kempas Jaya",
-    "Harapan Tani",
-    "Pekan Tua",
-    "Rumbai Jaya",
-    "Bayas Jaya",
-    "Sungaiara (Sungai Arah)",
-    "Sungaigantang (Sungai Gantang)",
-    "Karya Tani",
-    "Kerta Jaya",
-    "Kulim Jaya",
-    "Danaupulai Indah (Danau Pulai Indah)",
-    "Sungairabit (Sungai Rabit)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kempas Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Harapan Tani"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pekan Tua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rumbai Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bayas Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaiara (Sungai Arah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungaigantang (Sungai Gantang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Tani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kerta Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kulim Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Danaupulai Indah (Danau Pulai Indah)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungairabit (Sungai Rabit)"
+    }
   ]
 }

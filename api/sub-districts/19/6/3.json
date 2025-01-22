@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Dendang",
-    "Jangkang",
-    "Nyuruk",
-    "Balok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dendang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jangkang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nyuruk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balok"
+    }
   ]
 }

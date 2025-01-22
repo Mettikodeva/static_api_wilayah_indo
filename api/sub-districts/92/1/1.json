@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Makbon",
-    "Asbaken",
-    "Malaumkarta",
-    "Batu Lubang",
-    "Batu Lubang Pantai",
-    "Kwadas",
-    "Bainkete",
-    "Teluk Dore",
-    "Sawatuk",
-    "Malagasih",
-    "Klasimigik",
-    "Klasigi",
-    "Klagulus",
-    "Suatolo",
-    "Mibi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Makbon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asbaken"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malaumkarta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Lubang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batu Lubang Pantai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kwadas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bainkete"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk Dore"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sawatuk"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Malagasih"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Klasimigik"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Klasigi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Klagulus"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Suatolo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mibi"
+    }
   ]
 }

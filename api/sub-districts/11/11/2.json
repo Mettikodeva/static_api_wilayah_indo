@@ -1,47 +1,176 @@
 {
   "sub_districts": [
-    "Blang Me Timu (Blang Mee Timur)",
-    "Lancang",
-    "Blang Lancang",
-    "Teupin Kupula (Teupin Keupula)",
-    "Tanjong Bungong",
-    "Dayah Baro",
-    "Ulee Rabo",
-    "Lueng Teungoh (Lhueng Tengoh)",
-    "Lampoh Oe",
-    "Pulo Rangkileh",
-    "Tufah",
-    "Sampo Ajad (Sampoi Ajat)",
-    "Darul Aman",
-    "Lhok Kulam",
-    "Ulee Blang",
-    "Uteun Peupaleh (Uteun Pupaleh)",
-    "Ulee Gajah",
-    "Alue Seutui",
-    "Blang Neubok",
-    "Matang Bangka",
-    "Matang Teungoh",
-    "Matang Nibong",
-    "Blang Me Barat (Blang Mee Barat)",
-    "Keude Jeunieb",
-    "Cot Glumpang Baroh (Cot Geulumpang Baroh)",
-    "Cot Glumpang Tunong (Cot Geulumpang Tunong)",
-    "Meunasah Keutapang",
-    "Meunasah Dayah",
-    "Lheu Simpang (Lheue Simpang)",
-    "Lheu Barat (Lheue Barat)",
-    "Jeumpa Sikureng (Jeumpa Sikureung)",
-    "Janggot Seungko",
-    "Meunasah Tambo",
-    "Meunasah Keupula",
-    "Meunasah Tunong Lueng",
-    "Meunasah Alue",
-    "Blang Pohroh (Blang Poroh)",
-    "Meunasah Lueng",
-    "Dayah Blang Raleu",
-    "Meunasah Blang",
-    "Alue Lamsaba",
-    "Meunasah Kota",
-    "Paya Bili"
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Blang Me Timu (Blang Mee Timur)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lancang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Blang Lancang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Teupin Kupula (Teupin Keupula)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjong Bungong"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Dayah Baro"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ulee Rabo"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Lueng Teungoh (Lhueng Tengoh)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Lampoh Oe"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Pulo Rangkileh"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tufah"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Sampo Ajad (Sampoi Ajat)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Darul Aman"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Lhok Kulam"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Ulee Blang"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Uteun Peupaleh (Uteun Pupaleh)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Ulee Gajah"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Alue Seutui"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Blang Neubok"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Matang Bangka"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Matang Teungoh"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Matang Nibong"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Blang Me Barat (Blang Mee Barat)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Keude Jeunieb"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Cot Glumpang Baroh (Cot Geulumpang Baroh)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Cot Glumpang Tunong (Cot Geulumpang Tunong)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Meunasah Keutapang"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Meunasah Dayah"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Lheu Simpang (Lheue Simpang)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Lheu Barat (Lheue Barat)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Jeumpa Sikureng (Jeumpa Sikureung)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Janggot Seungko"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Meunasah Tambo"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Meunasah Keupula"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Meunasah Tunong Lueng"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Meunasah Alue"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Blang Pohroh (Blang Poroh)"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Meunasah Lueng"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Dayah Blang Raleu"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Meunasah Blang"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Alue Lamsaba"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Meunasah Kota"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Paya Bili"
+    }
   ]
 }

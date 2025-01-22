@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Clumprit",
-    "Suwaru",
-    "Kademangan",
-    "Balearjo",
-    "Kanigoro",
-    "Brongkal",
-    "Pagelaran",
-    "Banjarejo",
-    "Karangsuko",
-    "Sidorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Clumprit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suwaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kademangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balearjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kanigoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Brongkal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagelaran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjarejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangsuko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidorejo"
+    }
   ]
 }

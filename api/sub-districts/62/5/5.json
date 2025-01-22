@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lanjas",
-    "Melayu",
-    "Lemo I",
-    "Lemo II",
-    "Pendreh/Pandreh",
-    "Rimba Sari",
-    "Sei/Sungai Rahayu I",
-    "Sei/Sungai Rahayu II",
-    "Beringin Raya",
-    "Datai Nirui"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Lanjas"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Melayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lemo I"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lemo II"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pendreh/Pandreh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rimba Sari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sei/Sungai Rahayu I"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sei/Sungai Rahayu II"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Beringin Raya"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Datai Nirui"
+    }
   ]
 }

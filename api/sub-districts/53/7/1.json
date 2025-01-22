@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Masabewa (Masebewa)",
-    "Wolowiro",
-    "Mbengu",
-    "Paga",
-    "Lenandareta",
-    "Mauloo",
-    "Wolorega",
-    "Wolowona",
-    "Begu",
-    "Kotandelu",
-    "Lowolabo",
-    "Aebubu",
-    "Regapu\ufffdu",
-    "Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Masabewa (Masebewa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wolowiro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mbengu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lenandareta"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mauloo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wolorega"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wolowona"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Begu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kotandelu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lowolabo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Aebubu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Regapu\ufffdu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Rejo"
+    }
   ]
 }

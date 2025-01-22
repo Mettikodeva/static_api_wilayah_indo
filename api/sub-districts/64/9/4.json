@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sepaku",
-    "Pemaluan",
-    "Maridan",
-    "Mentawir",
-    "Tengin Baru (Sepaku III)",
-    "Bukit Raya (Sepaku I)",
-    "Suka Raja (Sukaraja / Sepaku II)",
-    "Bumi Harapan",
-    "Argo Mulyo",
-    "Semoi Dua (Semoi II)",
-    "Suko Mulyo",
-    "Wono Sari (Wonosari)",
-    "Karang Jinawi",
-    "Binuang",
-    "Telemow"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sepaku"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pemaluan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Maridan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mentawir"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tengin Baru (Sepaku III)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Raya (Sepaku I)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Raja (Sukaraja / Sepaku II)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bumi Harapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Argo Mulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Semoi Dua (Semoi II)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suko Mulyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wono Sari (Wonosari)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karang Jinawi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Binuang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Telemow"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Mranggen",
-    "Karangawen",
-    "Guntur",
-    "Sayung",
-    "Karangtengah (Karang Tengah)",
-    "Wonosalam",
-    "Dempet",
-    "Gajah",
-    "Karanganyar",
-    "Mijen",
-    "Demak",
-    "Bonang",
-    "Wedung",
-    "Kebonagung"
+    {
+      "district_id": 1,
+      "kecamatan": "Mranggen"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Karangawen"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Guntur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sayung"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Karangtengah (Karang Tengah)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Wonosalam"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Dempet"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gajah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Karanganyar"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Mijen"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Demak"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bonang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Wedung"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kebonagung"
+    }
   ]
 }

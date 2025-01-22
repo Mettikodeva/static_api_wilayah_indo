@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Konda",
-    "Arulo",
-    "Mandura",
-    "Mowilome",
-    "Arumagi",
-    "Gimo",
-    "Silabulo",
-    "Arikoba",
-    "Tingapura",
-    "Ganage",
-    "Yawineri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Konda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Arulo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mandura"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mowilome"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Arumagi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gimo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Silabulo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Arikoba"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tingapura"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ganage"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Yawineri"
+    }
   ]
 }

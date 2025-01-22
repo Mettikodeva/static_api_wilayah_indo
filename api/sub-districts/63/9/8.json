@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Madang",
-    "Tanta Ringin (Tantaringin)",
-    "Murung Karangan",
-    "Padangin",
-    "Manduin",
-    "Mantuil",
-    "Harus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Madang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanta Ringin (Tantaringin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Murung Karangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padangin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manduin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mantuil"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Harus"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Wonoroto",
-    "Bumiroso",
-    "Gondang",
-    "Limbangan",
-    "Kuripan",
-    "Banyukembar",
-    "Gumawangkidul (Gumawang Kidul)",
-    "Wonosroyo",
-    "Watumalang",
-    "Pasuruhan",
-    "Lumajang",
-    "Binangun",
-    "Wonokampir",
-    "Krinjing",
-    "Mutisari",
-    "Kalidesel"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Wonoroto"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumiroso"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Limbangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyukembar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gumawangkidul (Gumawang Kidul)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonosroyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watumalang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasuruhan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lumajang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonokampir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Krinjing"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mutisari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kalidesel"
+    }
   ]
 }

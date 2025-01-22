@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bantargebang (Bantar Gebang)",
-    "Cikiwul",
-    "Ciketingudik (Ciketing Udik)",
-    "Sumurbatu (Sumur Batu)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bantargebang (Bantar Gebang)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cikiwul"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ciketingudik (Ciketing Udik)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sumurbatu (Sumur Batu)"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kuala Lupak",
-    "Sei/Sungai Telan Besar",
-    "Sei/Sungai Telan Kecil",
-    "Tabunganen Muara",
-    "Tabunganen Tengah",
-    "Karya Baru",
-    "Tabunganen Perumus (Tabunganen Pemurus)",
-    "Sei/Sungai Teras Dalam",
-    "Sei/Sungai Jingah Besar",
-    "Tabunganen Kecil",
-    "Sei/Sungai Teras Luar",
-    "Sei/Sungai Telan Muara",
-    "Beringin Kencana",
-    "Tanggul Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Lupak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Telan Besar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Telan Kecil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tabunganen Muara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabunganen Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karya Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tabunganen Perumus (Tabunganen Pemurus)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Teras Dalam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Jingah Besar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tabunganen Kecil"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei/Sungai Teras Luar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sei/Sungai Telan Muara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Beringin Kencana"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanggul Rejo"
+    }
   ]
 }

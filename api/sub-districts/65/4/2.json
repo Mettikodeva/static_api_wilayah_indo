@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sesayap",
-    "Sengkong",
-    "Bebatu",
-    "Badan Bikis",
-    "Sepala Dalung",
-    "Seludau",
-    "Menjelutung",
-    "Sesayap Selor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sesayap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sengkong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bebatu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Badan Bikis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sepala Dalung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seludau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Menjelutung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sesayap Selor"
+    }
   ]
 }

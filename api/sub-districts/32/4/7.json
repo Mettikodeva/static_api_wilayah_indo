@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jatiendah",
-    "Cilengkrang",
-    "Cipanjalu",
-    "Melatiwangi",
-    "Ciporeat",
-    "Girimekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatiendah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilengkrang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cipanjalu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Melatiwangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ciporeat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Girimekar"
+    }
   ]
 }

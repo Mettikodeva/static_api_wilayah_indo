@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Cibanggala",
-    "Campakawarna",
-    "Sukasirna",
-    "Campakamulya",
-    "Sukabungah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cibanggala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Campakawarna"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukasirna"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Campakamulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukabungah"
+    }
   ]
 }

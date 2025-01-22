@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tondon Langi' (Tondon Langi)",
-    "Tondon",
-    "Tondon Sibata (Tondon Siba Ta)",
-    "Tondon Matalo (Tondon Matallo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tondon Langi' (Tondon Langi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tondon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tondon Sibata (Tondon Siba Ta)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tondon Matalo (Tondon Matallo)"
+    }
   ]
 }

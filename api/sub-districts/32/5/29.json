@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karyasari",
-    "Maroko",
-    "Sancang",
-    "Karyamukti (Karya Mukti)",
-    "Sagara",
-    "Mekarsari",
-    "Simpang",
-    "Mekar Mukti (Mekarmukti)",
-    "Cigaronggong",
-    "Mekarwangi",
-    "Najaten"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karyasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maroko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sancang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karyamukti (Karya Mukti)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sagara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Mukti (Mekarmukti)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cigaronggong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Najaten"
+    }
   ]
 }

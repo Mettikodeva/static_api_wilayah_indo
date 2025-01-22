@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tegal Sembadra (Tegalsembadra)",
-    "Sukareja",
-    "Sukaurip",
-    "Rawadalem",
-    "Gelarmendala",
-    "Tegalurung",
-    "Balongan",
-    "Majakerta",
-    "Sudimampir",
-    "Sudimampir Lor (Sudimampirlor)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tegal Sembadra (Tegalsembadra)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukareja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukaurip"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawadalem"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gelarmendala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalurung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balongan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Majakerta"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sudimampir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sudimampir Lor (Sudimampirlor)"
+    }
   ]
 }

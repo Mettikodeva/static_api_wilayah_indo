@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pondan (Pondang)",
-    "Sobol",
-    "Sobol Baru",
-    "Binotik",
-    "Garuga",
-    "Bollo (Bolla)",
-    "Sulubombong",
-    "Boras",
-    "Lonas",
-    "Bombongan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pondan (Pondang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sobol"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sobol Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Binotik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Garuga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bollo (Bolla)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sulubombong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Boras"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lonas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bombongan"
+    }
   ]
 }

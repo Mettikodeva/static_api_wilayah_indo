@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tuabatu",
-    "Dapalan",
-    "Riung",
-    "Ammat",
-    "Binalang",
-    "Ganalo",
-    "Dapihe",
-    "Tuabatu Barat",
-    "Ammat Selatan",
-    "Binalang Timur",
-    "Riung Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuabatu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dapalan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Riung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ammat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binalang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ganalo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dapihe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuabatu Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ammat Selatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Binalang Timur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Riung Utara"
+    }
   ]
 }

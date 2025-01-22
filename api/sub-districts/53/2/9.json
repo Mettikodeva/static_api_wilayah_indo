@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lilo",
-    "Fotilo (Fatilo)",
-    "Nasi",
-    "Snok",
-    "Tumu",
-    "Fatu Oni (Fatuoni)",
-    "Sono",
-    "Tauanas",
-    "Muna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lilo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fotilo (Fatilo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nasi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Snok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fatu Oni (Fatuoni)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sono"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tauanas"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Muna"
+    }
   ]
 }

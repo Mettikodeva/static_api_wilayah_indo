@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Yeloba",
-    "Konebi",
-    "Sibi",
-    "Tagaimon Sino",
-    "Tagaimon Karome"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yeloba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Konebi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sibi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tagaimon Sino"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tagaimon Karome"
+    }
   ]
 }

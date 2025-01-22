@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Rancagoong",
-    "Sukasari",
-    "Sirnagalih",
-    "Sukakerta",
-    "Cibinonghilir (Cibinong Hilir)",
-    "Rahong",
-    "Munjul",
-    "Sindangsari",
-    "Ciharashas",
-    "Mulyasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rancagoong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sirnagalih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukakerta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibinonghilir (Cibinong Hilir)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rahong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Munjul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciharashas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulyasari"
+    }
   ]
 }

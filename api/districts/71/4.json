@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Lirung",
-    "Beo",
-    "Rainis",
-    "Essang",
-    "Nanusa",
-    "Kabaruan",
-    "Melonguane",
-    "Gemeh",
-    "Damau (Damao)",
-    "Tampan' Amma (Tampan Amma)",
-    "Salibabu",
-    "Kalongan",
-    "Miangas",
-    "Beo Utara",
-    "Pulutan",
-    "Melonguane Timur",
-    "Moronge",
-    "Beo Selatan",
-    "Essang Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Lirung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Beo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Rainis"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Essang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Nanusa"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kabaruan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Melonguane"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gemeh"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Damau (Damao)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tampan' Amma (Tampan Amma)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Salibabu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kalongan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Miangas"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Beo Utara"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Pulutan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Melonguane Timur"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Moronge"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Beo Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Essang Selatan"
+    }
   ]
 }

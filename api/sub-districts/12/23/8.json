@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gunting Saga",
-    "Damuli Pekan",
-    "Siamporik",
-    "Lobu Huala",
-    "Gunung Melayu",
-    "Damuli Kebun (Perkebunan Damuli)",
-    "Hasang",
-    "Bandar Lama",
-    "Sidua Dua",
-    "Simangalam",
-    "Tanjung Pasir",
-    "Sialang Taji"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gunting Saga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Damuli Pekan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siamporik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lobu Huala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Melayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Damuli Kebun (Perkebunan Damuli)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hasang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bandar Lama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidua Dua"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simangalam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Pasir"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sialang Taji"
+    }
   ]
 }

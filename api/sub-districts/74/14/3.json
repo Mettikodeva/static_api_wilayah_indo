@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lakorua",
-    "Morikana",
-    "Lantongau",
-    "Lanto",
-    "Lalibo",
-    "Langkomu",
-    "Watorumbe (Watorambe)",
-    "Watorumbe Bata (Watorambe Bata)",
-    "Gundu Gundu",
-    "Katukobari"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lakorua"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Morikana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lantongau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lanto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lalibo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langkomu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watorumbe (Watorambe)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watorumbe Bata (Watorambe Bata)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gundu Gundu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Katukobari"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sukadamai",
-    "Ciherang",
-    "Sinarsari (Sinar Sari)",
-    "Sukawening",
-    "Petir",
-    "Purwasari",
-    "Cikarawang",
-    "Babakan",
-    "Dramaga",
-    "Neglasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukadamai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciherang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinarsari (Sinar Sari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukawening"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Petir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikarawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dramaga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Neglasari"
+    }
   ]
 }

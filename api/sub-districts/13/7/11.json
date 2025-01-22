@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Jopang Manganti",
-    "Simpang Kapuak",
-    "Mungka",
-    "Talang Maur (Talang Maua)",
-    "Sungai Antuan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jopang Manganti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simpang Kapuak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mungka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Maur (Talang Maua)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Antuan"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mangge",
-    "Tebon",
-    "Bogorejo",
-    "Banjarejo",
-    "Karangsono",
-    "Purwodadi",
-    "Manjung",
-    "Ngumpul",
-    "Panggung",
-    "Blaran",
-    "Jonggrang",
-    "Rejomulyo",
-    "Bangunasri",
-    "Klagen"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mangge"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tebon"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bogorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjarejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangsono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manjung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngumpul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panggung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Blaran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jonggrang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rejomulyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bangunasri"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Klagen"
+    }
   ]
 }

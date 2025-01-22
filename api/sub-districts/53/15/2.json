@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Golo Ru'u",
-    "Nantal",
-    "Coal",
-    "Pangga",
-    "Lewur",
-    "Lawi",
-    "Compang Suka",
-    "Benteng Suru",
-    "Sama",
-    "Bangka Lewat",
-    "Suka Kiong",
-    "Golo Pua"
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Golo Ru'u"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Nantal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Coal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lewur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lawi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Compang Suka"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Benteng Suru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sama"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Bangka Lewat"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Suka Kiong"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Golo Pua"
+    }
   ]
 }

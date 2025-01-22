@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tempino",
-    "Tanjung Pauh Km. 32 (Tanjung Pauh)",
-    "Pelempang",
-    "Sungai Landai",
-    "Ibru",
-    "Nagasari (Naga Sari)",
-    "Sebapo",
-    "Baru",
-    "Tanjung Pauh Km. 39",
-    "Nyogan",
-    "Suka Damai",
-    "Pondok Meja",
-    "Suka Maju",
-    "Tanjung Pauh Talang Pelita (Tanjungpauh)",
-    "Muaro Sebapo"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tempino"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Pauh Km. 32 (Tanjung Pauh)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pelempang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Landai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ibru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nagasari (Naga Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sebapo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Pauh Km. 39"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nyogan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pondok Meja"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjung Pauh Talang Pelita (Tanjungpauh)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Muaro Sebapo"
+    }
   ]
 }

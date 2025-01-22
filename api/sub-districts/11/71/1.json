@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kampung Baru",
-    "Neusu Jaya",
-    "Sukaramai",
-    "Seutui",
-    "Peuniti",
-    "Neusu Aceh",
-    "Ateuk Pahlawan",
-    "Ateuk Jawo",
-    "Ateuk Deah Tanoh",
-    "Ateuk Munjeng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Neusu Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukaramai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seutui"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peuniti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Neusu Aceh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ateuk Pahlawan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ateuk Jawo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ateuk Deah Tanoh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ateuk Munjeng"
+    }
   ]
 }

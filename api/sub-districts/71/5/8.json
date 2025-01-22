@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Blongko",
-    "Boyongpante (Boyong Pante)",
-    "Tiniwangko (Tiniawangko)",
-    "Ongkaw I (Ongkaw Satu)",
-    "Ongkaw II (Ongkaw Dua)",
-    "Aergale",
-    "Poigar I (Poigar Satu)",
-    "Poigar II (Poigar Dua)",
-    "Durian",
-    "Tanamon",
-    "Ongkaw Tiga",
-    "Boyongpante Dua",
-    "Tanamon Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Blongko"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boyongpante (Boyong Pante)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tiniwangko (Tiniawangko)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ongkaw I (Ongkaw Satu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ongkaw II (Ongkaw Dua)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aergale"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Poigar I (Poigar Satu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Poigar II (Poigar Dua)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanamon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ongkaw Tiga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Boyongpante Dua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanamon Utara"
+    }
   ]
 }

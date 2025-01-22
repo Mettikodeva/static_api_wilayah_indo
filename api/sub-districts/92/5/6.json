@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Folley",
-    "Tomolol",
-    "Usaha Jaya",
-    "Limalas Timur",
-    "Audam",
-    "Limalas Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Folley"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tomolol"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Usaha Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Limalas Timur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Audam"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Limalas Barat"
+    }
   ]
 }

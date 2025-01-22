@@ -1,30 +1,108 @@
 {
   "districts": [
-    "Wado",
-    "Jatinunggal",
-    "Darmaraja",
-    "Cibugel",
-    "Cisitu",
-    "Situraja",
-    "Conggeang",
-    "Paseh",
-    "Surian",
-    "Buahdua",
-    "Tanjungsari",
-    "Sukasari",
-    "Pamulihan",
-    "Cimanggung",
-    "Jatinangor",
-    "Rancakalong",
-    "Sumedang Selatan",
-    "Sumedang Utara",
-    "Ganeas",
-    "Tanjungkerta",
-    "Tanjungmedar",
-    "Cimalaka",
-    "Cisarua",
-    "Tomo",
-    "Ujungjaya",
-    "Jatigede"
+    {
+      "district_id": 1,
+      "kecamatan": "Wado"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jatinunggal"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Darmaraja"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Cibugel"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cisitu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Situraja"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Conggeang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Paseh"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Surian"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Buahdua"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tanjungsari"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sukasari"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pamulihan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Cimanggung"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Jatinangor"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Rancakalong"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sumedang Selatan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sumedang Utara"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Ganeas"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Tanjungkerta"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Tanjungmedar"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Cimalaka"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Cisarua"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Tomo"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Ujungjaya"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Jatigede"
+    }
   ]
 }

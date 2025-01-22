@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kago",
-    "Kimak",
-    "Wuloni",
-    "Nipuralome",
-    "Tagaloa",
-    "Jenggerpaga",
-    "kibogolome",
-    "Ilambet",
-    "Kalebut"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kago"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kimak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wuloni"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nipuralome"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tagaloa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jenggerpaga"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "kibogolome"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ilambet"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kalebut"
+    }
   ]
 }

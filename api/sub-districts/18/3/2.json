@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kotabumi Udik",
-    "Cempedak",
-    "Rejo Sari (Rejosari)",
-    "Kotabumi Tengah",
-    "Kotabumi Pasar",
-    "Kotabumi Ilir",
-    "Sindang Sari",
-    "Sri Basuki (Sribasuki)",
-    "Kota Gapura",
-    "Talang Bojong",
-    "Sumber Arum",
-    "Bojong Barat",
-    "Kotabumi Tengah Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kotabumi Udik"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cempedak"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kotabumi Tengah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kotabumi Pasar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kotabumi Ilir"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sindang Sari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sri Basuki (Sribasuki)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kota Gapura"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Bojong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Arum"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bojong Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kotabumi Tengah Barat"
+    }
   ]
 }

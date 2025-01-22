@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Suka Damai",
-    "Wana Reja (Wanareja)",
-    "Sumber Sari",
-    "Sido Rukun",
-    "Sungai Pandan",
-    "Suka Maju",
-    "Mekar Sari",
-    "Wana Arum",
-    "Wana Mulya",
-    "Damai Makmur",
-    "Suka Jaya",
-    "Sido Mulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wana Reja (Wanareja)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sido Rukun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Pandan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wana Arum"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wana Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Damai Makmur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sido Mulyo"
+    }
   ]
 }

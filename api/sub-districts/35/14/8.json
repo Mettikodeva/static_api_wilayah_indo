@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Purwosari",
-    "Sumberrejo (Sumber Rejo)",
-    "Sekarmojo (Sekar Mojo)",
-    "Tejowangi",
-    "Kertosari",
-    "Martopuro",
-    "Sengonagung (Sengon Agung)",
-    "Pager",
-    "Cendono",
-    "Karangrejo (Karang Rejo)",
-    "Sumbersuko (Sumber Suko)",
-    "Pucang Sari (Pucangsari)",
-    "Kayoman",
-    "Sukodermo",
-    "Bakalan"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberrejo (Sumber Rejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekarmojo (Sekar Mojo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tejowangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kertosari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Martopuro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sengonagung (Sengon Agung)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pager"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cendono"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangrejo (Karang Rejo)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumbersuko (Sumber Suko)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pucang Sari (Pucangsari)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kayoman"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukodermo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bakalan"
+    }
   ]
 }

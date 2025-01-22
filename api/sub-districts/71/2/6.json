@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kayuwatu",
-    "Wineru",
-    "Rinondor",
-    "Sendangan",
-    "Pahaleten",
-    "Talikuran",
-    "Tounelet",
-    "Paslaten",
-    "Kaweng",
-    "Toulimembet",
-    "Makalelon",
-    "Tumpaan",
-    "Mahembang"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayuwatu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wineru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rinondor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sendangan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pahaleten"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Talikuran"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tounelet"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Paslaten"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kaweng"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Toulimembet"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Makalelon"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tumpaan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Mahembang"
+    }
   ]
 }

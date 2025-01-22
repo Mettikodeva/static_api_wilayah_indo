@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sungairumpun (Sungai Rumpun)",
-    "Sungaisikai (Sungai Sikai)",
-    "Tangkil",
-    "Pelompek",
-    "Jernih Jaya",
-    "Bengkolan Duo (Bengkolan Dua)",
-    "Lubuk Pauh",
-    "Telun Berasap",
-    "Bumbun Duri",
-    "Pesisir Bukit",
-    "Pauh Tinggi",
-    "Sungaijernih (Sungai Jernih)",
-    "Pelompek Pasar Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungairumpun (Sungai Rumpun)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungaisikai (Sungai Sikai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tangkil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelompek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jernih Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bengkolan Duo (Bengkolan Dua)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Pauh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Telun Berasap"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumbun Duri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pesisir Bukit"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pauh Tinggi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungaijernih (Sungai Jernih)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pelompek Pasar Baru"
+    }
   ]
 }

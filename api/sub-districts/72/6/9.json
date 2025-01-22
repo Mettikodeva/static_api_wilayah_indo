@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Parilangke",
-    "Bahonsuai",
-    "Atananga",
-    "Pebatae",
-    "Umbele",
-    "Lambelu",
-    "Limbo Makmur",
-    "Beringin Jaya",
-    "Samarenda",
-    "Lasampi",
-    "Harapan Jaya",
-    "Pebotoa",
-    "Karaupa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parilangke"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bahonsuai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Atananga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pebatae"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umbele"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lambelu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Limbo Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Samarenda"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lasampi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pebotoa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karaupa"
+    }
   ]
 }

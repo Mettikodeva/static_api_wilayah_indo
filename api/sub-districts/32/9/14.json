@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sampiran",
-    "Ciperna",
-    "Kecomberan",
-    "Cirebon Girang (Cirebongirang)",
-    "Kerandon",
-    "Wanasaba Kidul",
-    "Wanasaba Lor",
-    "Cempaka",
-    "Kepongpongan",
-    "Sarwadadi",
-    "Kubang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sampiran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciperna"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kecomberan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cirebon Girang (Cirebongirang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kerandon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wanasaba Kidul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wanasaba Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kepongpongan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sarwadadi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kubang"
+    }
   ]
 }

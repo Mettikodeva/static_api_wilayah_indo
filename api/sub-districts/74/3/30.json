@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kafo Foo",
-    "Karoo",
-    "Kilambibito",
-    "Bahutara",
-    "Kontu Kowuna",
-    "Laghorio (Lahorio)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kafo Foo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karoo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kilambibito"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bahutara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kontu Kowuna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laghorio (Lahorio)"
+    }
   ]
 }

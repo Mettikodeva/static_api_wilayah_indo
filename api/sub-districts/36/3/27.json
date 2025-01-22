@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Benda",
-    "Sukamulya (Suka Mulya)",
-    "Kaliasin (Kali Asin)",
-    "Buniayu (Buni Ayu)",
-    "Parahu",
-    "Merak",
-    "Bunar",
-    "Kubang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Benda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukamulya (Suka Mulya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaliasin (Kali Asin)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buniayu (Buni Ayu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parahu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Merak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bunar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kubang"
+    }
   ]
 }

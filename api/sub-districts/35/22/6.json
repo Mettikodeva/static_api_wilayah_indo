@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Ngunut",
-    "Dander",
-    "Growok",
-    "Sumberarum (Sumber Arum)",
-    "Kunci",
-    "Jatiblimbing",
-    "Ngraseh",
-    "Mojoranu",
-    "Sendangrejo",
-    "Karangsono",
-    "Sumberagung (Sumber Agung)",
-    "Somodikaran (Sumodikaran)",
-    "Ngumpakdalem (Ngumpak Dalem)",
-    "Sumbertlaseh (Sumber Tlaseh)",
-    "Ngulanan",
-    "Ngablak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngunut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dander"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Growok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberarum (Sumber Arum)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kunci"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatiblimbing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngraseh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mojoranu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sendangrejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangsono"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Somodikaran (Sumodikaran)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngumpakdalem (Ngumpak Dalem)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumbertlaseh (Sumber Tlaseh)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ngulanan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngablak"
+    }
   ]
 }

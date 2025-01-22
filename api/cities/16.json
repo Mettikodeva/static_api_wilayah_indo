@@ -1,21 +1,72 @@
 {
   "cities": [
-    "Ogan Komering Ulu",
-    "Ogan Komering Ilir",
-    "Muara Enim",
-    "Lahat",
-    "Musi Rawas",
-    "Musi Banyuasin",
-    "Banyuasin",
-    "Ogan Komering Ulu Timur",
-    "Ogan Komering Ulu Selatan",
-    "Ogan Ilir",
-    "Empat Lawang",
-    "Penukal Abab Lematang Ilir",
-    "Musi Rawas Utara",
-    "Palembang",
-    "Pagar Alam",
-    "Lubuk Linggau",
-    "Prabumulih"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Ogan Komering Ulu"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Ogan Komering Ilir"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Muara Enim"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Lahat"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Musi Rawas"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Musi Banyuasin"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Banyuasin"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Ogan Komering Ulu Timur"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Ogan Komering Ulu Selatan"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Ogan Ilir"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Empat Lawang"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Penukal Abab Lematang Ilir"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Musi Rawas Utara"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Palembang"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Pagar Alam"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Lubuk Linggau"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Prabumulih"
+    }
   ]
 }

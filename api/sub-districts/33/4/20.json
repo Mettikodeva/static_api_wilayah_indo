@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pagedongan",
-    "Gunungjati",
-    "Twelagiri",
-    "Kebutuhduwur",
-    "Kebutuhjurang",
-    "Pesangkalan",
-    "Duren",
-    "Lebakwangi",
-    "Gentansari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagedongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunungjati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Twelagiri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kebutuhduwur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebutuhjurang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pesangkalan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lebakwangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gentansari"
+    }
   ]
 }

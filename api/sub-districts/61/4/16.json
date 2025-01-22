@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kantor",
-    "Tengah",
-    "Mulia Baru",
-    "Sampit",
-    "Suka Harja (Sukaharja)",
-    "Suka Bangun",
-    "Kali Nilam",
-    "Payah Kumang (Payak Kumang / Paya Kumang)",
-    "Suka Bangun Dalam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kantor"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mulia Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sampit"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Suka Harja (Sukaharja)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Bangun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kali Nilam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Payah Kumang (Payak Kumang / Paya Kumang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Bangun Dalam"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pangala' (Pangala)",
-    "Pangala' Utara (Pangala Utara)",
-    "Limbong Malting",
-    "Rindingallo",
-    "Mai'ting (Maiting)",
-    "Lo'ko' Uru (Lo Ko Uru Tanete Batu)",
-    "Ampang Batu (Appang)",
-    "Lempo Poton (Lempopoton)",
-    "Buntu Batu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pangala' (Pangala)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pangala' Utara (Pangala Utara)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Limbong Malting"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rindingallo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mai'ting (Maiting)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lo'ko' Uru (Lo Ko Uru Tanete Batu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ampang Batu (Appang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lempo Poton (Lempopoton)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buntu Batu"
+    }
   ]
 }

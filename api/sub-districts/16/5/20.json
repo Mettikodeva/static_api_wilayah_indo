@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Banpres",
-    "Jaya Tunggal",
-    "Sukamulya",
-    "Dharma/Darma Sakti",
-    "Jaya Bhakti (Jaya Bakti)",
-    "Remayu",
-    "Petunang",
-    "Lubuk Rumbai",
-    "Air Beliti",
-    "Leban Jaya (Lebanjaya)",
-    "Bamasco (Bamasko)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banpres"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jaya Tunggal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dharma/Darma Sakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jaya Bhakti (Jaya Bakti)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Remayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Petunang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Rumbai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Beliti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Leban Jaya (Lebanjaya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bamasco (Bamasko)"
+    }
   ]
 }

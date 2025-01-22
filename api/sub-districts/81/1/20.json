@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Saleman",
-    "Horale",
-    "Wailulu",
-    "Paa",
-    "Karlutu Kara",
-    "Pasanea",
-    "Labuan",
-    "Gale-gale",
-    "Latea",
-    "Lisabata Timur",
-    "Rumahwey",
-    "Warasiwa",
-    "Herlau Pauni"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saleman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Horale"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wailulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karlutu Kara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasanea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Labuan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gale-gale"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Latea"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lisabata Timur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rumahwey"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Warasiwa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Herlau Pauni"
+    }
   ]
 }

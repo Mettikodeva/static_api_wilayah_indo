@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Lotu",
-    "Sawo",
-    "Tuhemberua",
-    "Sitolu Ori",
-    "Namohalu Esiwa",
-    "Alasa Talumuzoi",
-    "Alasa",
-    "Tugala Oyo",
-    "Afulu",
-    "Lahewa",
-    "Lahewa Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Lotu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sawo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tuhemberua"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sitolu Ori"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Namohalu Esiwa"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Alasa Talumuzoi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Alasa"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tugala Oyo"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Afulu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Lahewa"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Lahewa Timur"
+    }
   ]
 }

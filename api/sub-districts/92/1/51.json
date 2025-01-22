@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Keladum/Maladuk",
-    "Klamono Olie (Klamono Oil)",
-    "Barros (Bar Ros)",
-    "Pusu Tiligum",
-    "Klawilibe (Klawili Be)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keladum/Maladuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klamono Olie (Klamono Oil)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barros (Bar Ros)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pusu Tiligum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klawilibe (Klawili Be)"
+    }
   ]
 }

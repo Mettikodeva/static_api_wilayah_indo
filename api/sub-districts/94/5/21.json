@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tuput",
-    "Wenggen'ambut",
-    "Wamiru",
-    "Piluwolu",
-    "Tenawi",
-    "Wanombut",
-    "Pumbanak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuput"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wenggen'ambut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wamiru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Piluwolu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tenawi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wanombut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pumbanak"
+    }
   ]
 }

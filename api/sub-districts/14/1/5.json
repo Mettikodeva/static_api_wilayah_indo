@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kuok",
-    "Merangin",
-    "Empat Balai",
-    "Pulau Jambu",
-    "Silam",
-    "Bukit Melintang",
-    "Pulau Terap (Pulautarap)",
-    "Lereng",
-    "Batulangka Kecil"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Merangin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Empat Balai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulau Jambu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Silam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Melintang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulau Terap (Pulautarap)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lereng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batulangka Kecil"
+    }
   ]
 }

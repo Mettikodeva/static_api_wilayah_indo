@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Praiwitu (Prai Witu)",
-    "Kakaha",
-    "Hambawutang (Hambautang / Hamba Wutang)",
-    "Kabanda",
-    "Prauraming"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Praiwitu (Prai Witu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kakaha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hambawutang (Hambautang / Hamba Wutang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kabanda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Prauraming"
+    }
   ]
 }

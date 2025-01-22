@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kona (Konda)",
-    "Kalpok",
-    "Seklak",
-    "Wetmuk",
-    "Kugun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kona (Konda)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalpok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Seklak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wetmuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kugun"
+    }
   ]
 }

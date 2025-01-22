@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gang Buntu",
-    "Sidodadi",
-    "Durian",
-    "Glugur Darat I",
-    "Glugur Darat II",
-    "P Berayan Darat I (Pulo Brayan Darat I)",
-    "P Berayan Darat II",
-    "P Berayan Bengkel (Pulo Brayan Bengkel)",
-    "PB Bengkel Baru (Pulo Brayan Bengkel Baru)",
-    "Perintis",
-    "Gaharu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gang Buntu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Glugur Darat I"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Glugur Darat II"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "P Berayan Darat I (Pulo Brayan Darat I)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "P Berayan Darat II"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "P Berayan Bengkel (Pulo Brayan Bengkel)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "PB Bengkel Baru (Pulo Brayan Bengkel Baru)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Perintis"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Gaharu"
+    }
   ]
 }

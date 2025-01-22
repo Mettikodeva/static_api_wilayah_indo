@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Kaimana",
-    "Buruway",
-    "Teluk Arguni Atas",
-    "Teluk Etna",
-    "Kambrau (Kambraw / Kamberau)",
-    "Teluk Arguni Bawah (Yerusi)",
-    "Yamor"
+    {
+      "district_id": 1,
+      "kecamatan": "Kaimana"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Buruway"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Teluk Arguni Atas"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Teluk Etna"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kambrau (Kambraw / Kamberau)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Teluk Arguni Bawah (Yerusi)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Yamor"
+    }
   ]
 }

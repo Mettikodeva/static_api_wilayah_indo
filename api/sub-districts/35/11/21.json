@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Taman",
-    "Gentong",
-    "Kemuningan",
-    "Trebungan",
-    "Sumberkokap",
-    "Paguan",
-    "Kretek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gentong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kemuningan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Trebungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberkokap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paguan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kretek"
+    }
   ]
 }

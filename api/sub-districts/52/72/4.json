@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Penaraga",
-    "Rontu",
-    "Penanae",
-    "Kendo",
-    "Ntobo",
-    "Nitu",
-    "Rabangodu Selatan",
-    "Rabadompu Timur",
-    "Rite",
-    "Rabadompu Barat",
-    "Rabangodu Utara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Penaraga"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rontu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Penanae"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kendo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ntobo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Nitu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rabangodu Selatan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rabadompu Timur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Rite"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Rabadompu Barat"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Rabangodu Utara"
+    }
   ]
 }

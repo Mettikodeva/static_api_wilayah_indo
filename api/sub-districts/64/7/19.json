@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tering Baru",
-    "Tering Lama",
-    "Linggang Tering Seberang (Tering Seberang)",
-    "Tukul",
-    "Linggang Kelubaq (Kelubaq)",
-    "Linggang Purworejo (Purworejo)",
-    "Linggang Jelemuq (Jelemuq)",
-    "Kelian Dalam",
-    "Linggang Muara Mujan (Muara Mujan)",
-    "Muyub Ulu",
-    "Muyub Aket",
-    "Linggang Muyub Ilir (Muyub Ilir)",
-    "Gabung Baru",
-    "Linggang Banjarejo (Banjarejo)",
-    "Tering Lama Ulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tering Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tering Lama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Linggang Tering Seberang (Tering Seberang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tukul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Linggang Kelubaq (Kelubaq)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Linggang Purworejo (Purworejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Linggang Jelemuq (Jelemuq)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kelian Dalam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Linggang Muara Mujan (Muara Mujan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muyub Ulu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muyub Aket"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Linggang Muyub Ilir (Muyub Ilir)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gabung Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Linggang Banjarejo (Banjarejo)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tering Lama Ulu"
+    }
   ]
 }

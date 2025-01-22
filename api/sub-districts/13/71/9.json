@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pasar Ambacang",
-    "Anduring",
-    "Lubuk Lintah",
-    "Ampang",
-    "Kalumbuk",
-    "Korong Gadang",
-    "Kuranji",
-    "Gunung Sarik",
-    "Sei/Sungai Sapih"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Ambacang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Anduring"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lubuk Lintah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ampang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kalumbuk"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Korong Gadang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kuranji"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gunung Sarik"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sei/Sungai Sapih"
+    }
   ]
 }

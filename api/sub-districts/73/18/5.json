@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bombongan",
-    "Batupapan (Batu Papan)",
-    "Tarongko",
-    "Lamunan",
-    "Manggau",
-    "Tondon Mamullu",
-    "Pantan",
-    "Buntu Burake",
-    "Kamali Pentalluan",
-    "Rante",
-    "Lapandan",
-    "Tampo Makale",
-    "Ariang",
-    "Botang",
-    "Lea"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bombongan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Batupapan (Batu Papan)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tarongko"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lamunan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Manggau"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tondon Mamullu"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Pantan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Buntu Burake"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Kamali Pentalluan"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Rante"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Lapandan"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Tampo Makale"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Ariang"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Botang"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lea"
+    }
   ]
 }

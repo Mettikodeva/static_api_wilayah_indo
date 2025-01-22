@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dayak Pitap",
-    "Tebing Tinggi",
-    "Sungsum",
-    "Ju'uh (Ju Uh)",
-    "Mayanau",
-    "Simpang Bumbuan",
-    "Auh",
-    "Gunung Batu",
-    "Langkap",
-    "Simpang Nadung/Nadong",
-    "Ajung",
-    "Kambiyain"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dayak Pitap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungsum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ju'uh (Ju Uh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mayanau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Bumbuan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Auh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Batu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langkap"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Nadung/Nadong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ajung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kambiyain"
+    }
   ]
 }

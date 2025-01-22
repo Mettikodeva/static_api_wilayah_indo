@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sidomulyo",
-    "Parungi",
-    "Diloniyohu",
-    "Sidodadi",
-    "Potanga",
-    "Motoduto",
-    "Iloheluma",
-    "Monggolito",
-    "Bandung Rejo",
-    "Dulohupa",
-    "Sidomulya Selatan (Sidomulyo Selatan)",
-    "Bongongoayu (Bongongayu)",
-    "Tolite"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parungi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Diloniyohu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Potanga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Motoduto"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Iloheluma"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Monggolito"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bandung Rejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dulohupa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sidomulya Selatan (Sidomulyo Selatan)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bongongoayu (Bongongayu)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tolite"
+    }
   ]
 }

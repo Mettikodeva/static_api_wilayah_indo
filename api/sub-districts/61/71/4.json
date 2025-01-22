@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Siantan Hulu",
-    "Siantan Tengah",
-    "Siantan Hilir",
-    "Batulayang (Batu Layang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Siantan Hulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Siantan Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Siantan Hilir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Batulayang (Batu Layang)"
+    }
   ]
 }

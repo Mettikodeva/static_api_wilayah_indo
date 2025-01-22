@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Paris",
-    "Helumo",
-    "Pilomonu",
-    "Satria",
-    "Karyamukti (Karya Mukti)",
-    "Talumopatu",
-    "Sidomukti (Sido Mukti)",
-    "Payu",
-    "Sukamaju (Suka Maju)",
-    "Huyula"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paris"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Helumo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pilomonu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Satria"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karyamukti (Karya Mukti)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talumopatu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidomukti (Sido Mukti)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Payu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukamaju (Suka Maju)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Huyula"
+    }
   ]
 }

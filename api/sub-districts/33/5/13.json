@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Logede",
-    "Kewayuhan (Kuwayuhan)",
-    "Kedawung",
-    "Pejagoan",
-    "Kebulusan",
-    "Aditirto",
-    "Karangpoh",
-    "Jemur",
-    "Prigi",
-    "Kebagoran",
-    "Pengaringan",
-    "Peniron",
-    "Watulawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Logede"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kewayuhan (Kuwayuhan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pejagoan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebulusan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aditirto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangpoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jemur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Prigi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kebagoran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pengaringan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Peniron"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Watulawang"
+    }
   ]
 }

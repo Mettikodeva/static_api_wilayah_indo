@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Julumate'ne",
-    "Bontolempangang (Bontolempangan)",
-    "Lassa Lassa",
-    "Bontoloe",
-    "Pa'ladingang",
-    "Paranglompoa (Parang Lampoa)",
-    "Bontotangnga",
-    "Ulujangang (Ulujangan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Julumate'ne"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bontolempangang (Bontolempangan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lassa Lassa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bontoloe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pa'ladingang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paranglompoa (Parang Lampoa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bontotangnga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ulujangang (Ulujangan)"
+    }
   ]
 }

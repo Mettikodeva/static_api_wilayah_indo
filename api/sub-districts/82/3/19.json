@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Salube",
-    "Dama",
-    "Dowonggila",
-    "Tuakara",
-    "Jikolamo",
-    "Dagasuli",
-    "Dedeta",
-    "Fitako",
-    "Tobo Tobo",
-    "Cera"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salube"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dowonggila"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuakara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jikolamo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dagasuli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dedeta"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Fitako"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tobo Tobo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cera"
+    }
   ]
 }

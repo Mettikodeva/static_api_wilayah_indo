@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Puundoho",
-    "Longori",
-    "Puubunga",
-    "Puulemo",
-    "Puubenua",
-    "Baula",
-    "Pewutaa",
-    "Watalara",
-    "Puuroda",
-    "Ulu Baula"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Puundoho"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Longori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puubunga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Puulemo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puubenua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baula"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pewutaa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watalara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puuroda"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ulu Baula"
+    }
   ]
 }

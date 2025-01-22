@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Padarincang",
-    "Bugel",
-    "Cibojong",
-    "Citasuk",
-    "Cisaat",
-    "Ciomas",
-    "Barugbug",
-    "Batu Kuwung (Batukuwung)",
-    "Kramatlaban",
-    "Kelumpang (Kalumpang)",
-    "Kadubeureum",
-    "Cipayung",
-    "Curug Goong",
-    "Kadu Kempong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padarincang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bugel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibojong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Citasuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cisaat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ciomas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Barugbug"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Kuwung (Batukuwung)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kramatlaban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kelumpang (Kalumpang)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kadubeureum"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cipayung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Curug Goong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kadu Kempong"
+    }
   ]
 }

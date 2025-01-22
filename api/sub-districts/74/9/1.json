@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Wanggudu",
-    "Asera",
-    "Wanggudu Raya",
-    "Walalindu",
-    "Tangguluri (Tanggaluri)",
-    "Amorome",
-    "Wawolimbue",
-    "Walasolo",
-    "Wunduhaka",
-    "Tapuwatu",
-    "Aseminunulai (Aseminulai)",
-    "Puunggomosi",
-    "Puuwanggudu",
-    "Longeo Utama",
-    "Kota Mulya",
-    "Amorome Utama",
-    "Andedao",
-    "Alaa Wanggudu",
-    "Oheo Trans"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wanggudu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Asera"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wanggudu Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Walalindu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tangguluri (Tanggaluri)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Amorome"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wawolimbue"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Walasolo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wunduhaka"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tapuwatu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Aseminunulai (Aseminulai)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Puunggomosi"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Puuwanggudu"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Longeo Utama"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Kota Mulya"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Amorome Utama"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Andedao"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Alaa Wanggudu"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Oheo Trans"
+    }
   ]
 }

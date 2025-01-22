@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Datarajan",
-    "Gunung Tiga (Gunungtiga)",
-    "Karang Rejo (Karangrejo)",
-    "Pagar Alam Ulu Belu (Pagaralam Ulubelu)",
-    "Muara Dua Ulu Belu",
-    "Ngarip",
-    "Penantian Ulubelu",
-    "Gunung Sari",
-    "Ulu Semong",
-    "Sirna Galih (Sirnagalih)",
-    "Rejo Sari (Rejosari)",
-    "Suka Maju",
-    "Tanjung Baru",
-    "Sinar Banten",
-    "Air Abang",
-    "Petay Kayu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Datarajan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Tiga (Gunungtiga)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Rejo (Karangrejo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagar Alam Ulu Belu (Pagaralam Ulubelu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Dua Ulu Belu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngarip"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penantian Ulubelu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Sari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulu Semong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirna Galih (Sirnagalih)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinar Banten"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Air Abang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Petay Kayu"
+    }
   ]
 }

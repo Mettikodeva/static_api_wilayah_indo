@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Bekasi Timur",
-    "Bekasi Barat",
-    "Bekasi Utara",
-    "Bekasi Selatan",
-    "Rawalumbu",
-    "Medansatria (Medan Satria)",
-    "Bantargebang (Bantar Gebang)",
-    "Pondokgede (Pondok Gede)",
-    "Jatiasih",
-    "Jatisampurna (Jati Sampurna)",
-    "Mustikajaya (Mustika Jaya)",
-    "Pondokmelati (Pondok Melati)"
+    {
+      "district_id": 1,
+      "kecamatan": "Bekasi Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bekasi Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bekasi Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bekasi Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Rawalumbu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Medansatria (Medan Satria)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bantargebang (Bantar Gebang)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pondokgede (Pondok Gede)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Jatiasih"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Jatisampurna (Jati Sampurna)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Mustikajaya (Mustika Jaya)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pondokmelati (Pondok Melati)"
+    }
   ]
 }

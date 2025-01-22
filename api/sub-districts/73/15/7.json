@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Taddokong (Tadokkong)",
-    "Betteng",
-    "Binanga Karaeng",
-    "Rajang",
-    "Letta",
-    "Ulu Saddang (Ulusaddang)",
-    "Suppirang",
-    "Basseang",
-    "Kariango",
-    "Benteng Paremba",
-    "Pakeng",
-    "Lembang Mesakada",
-    "Sali Sali",
-    "Sabbang Paru",
-    "Bakaru",
-    "Pangaparang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Taddokong (Tadokkong)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Betteng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Binanga Karaeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rajang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Letta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ulu Saddang (Ulusaddang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suppirang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Basseang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kariango"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Benteng Paremba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pakeng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lembang Mesakada"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sali Sali"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sabbang Paru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bakaru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pangaparang"
+    }
   ]
 }

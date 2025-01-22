@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ketsoblak",
-    "Masrum",
-    "Lodar El (Lodar Ell)",
-    "Tual",
-    "Taar"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ketsoblak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Masrum"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lodar El (Lodar Ell)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tual"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taar"
+    }
   ]
 }

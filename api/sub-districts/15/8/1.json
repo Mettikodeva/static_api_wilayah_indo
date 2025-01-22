@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pedukun",
-    "Lubuk Niur",
-    "Teluk Kecimbung",
-    "Tanah Tumbuh",
-    "Rambah",
-    "Tebing Tinggi Uleh",
-    "Bukit Kemang (Bukit Kemang Baru)",
-    "Panjang",
-    "Perenti Lueh/Luweh",
-    "Renah Jelmu",
-    "Koto Jayo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pedukun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Niur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Kecimbung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanah Tumbuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rambah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tebing Tinggi Uleh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Kemang (Bukit Kemang Baru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panjang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perenti Lueh/Luweh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Renah Jelmu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Koto Jayo"
+    }
   ]
 }

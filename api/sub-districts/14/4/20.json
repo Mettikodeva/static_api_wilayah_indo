@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Benteng",
-    "Benteng Utara",
-    "Pasenggerahan (Pesanggerahan / Pasenggarahan)",
-    "Kuala Sungai Batang",
-    "Kuala Patah Parang",
-    "Benteng Barat",
-    "Pandan Sari",
-    "Mugo Mulyo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benteng Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasenggerahan (Pesanggerahan / Pasenggarahan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala Sungai Batang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuala Patah Parang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benteng Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pandan Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mugo Mulyo"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Rate Rate",
-    "Tababu",
-    "Simbune",
-    "Poni Poniki",
-    "Tawainalu",
-    "Woiha",
-    "Tasahea",
-    "Lara",
-    "Tumbudadio",
-    "Orawa",
-    "Lalingato",
-    "Tirawuta",
-    "Roko Roko",
-    "Loka",
-    "Matabondu",
-    "Karemotingge"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rate Rate"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tababu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simbune"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Poni Poniki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tawainalu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Woiha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tasahea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbudadio"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Orawa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lalingato"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tirawuta"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Roko Roko"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Loka"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Matabondu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karemotingge"
+    }
   ]
 }

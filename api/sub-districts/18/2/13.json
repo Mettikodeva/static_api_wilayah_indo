@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gunung Batin Udik",
-    "Gunung Batin Ilir",
-    "Gunung Batin Baru",
-    "Gunung Agung",
-    "Bandar Agung",
-    "Bandar Sakti",
-    "Tanjung Anom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunung Batin Udik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Batin Ilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Batin Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandar Sakti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Anom"
+    }
   ]
 }

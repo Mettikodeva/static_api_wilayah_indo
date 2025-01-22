@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bamusbama",
-    "Bamuswaiman",
-    "Syarwom",
-    "Babak",
-    "Bano",
-    "Wormon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bamusbama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bamuswaiman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Syarwom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Babak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bano"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wormon"
+    }
   ]
 }

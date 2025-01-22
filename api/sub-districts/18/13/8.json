@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Balai Kencana",
-    "Way Suluh",
-    "Way Napal",
-    "Padang Haluan",
-    "Lintik",
-    "Walur",
-    "Pemerihan",
-    "Mandiri Sejati",
-    "Padang Raya",
-    "Suka Jadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balai Kencana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Way Suluh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Way Napal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Haluan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lintik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Walur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pemerihan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mandiri Sejati"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suka Jadi"
+    }
   ]
 }

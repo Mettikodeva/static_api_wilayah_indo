@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Kedurang",
-    "Seginim",
-    "Pino",
-    "Manna",
-    "Kota Manna",
-    "Pino Raya (Pinoraya)",
-    "Kedurang Ilir",
-    "Air Nipis",
-    "Ulu Manna",
-    "Bunga Mas",
-    "Pasar Manna"
+    {
+      "district_id": 1,
+      "kecamatan": "Kedurang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Seginim"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pino"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Manna"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kota Manna"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pino Raya (Pinoraya)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kedurang Ilir"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Air Nipis"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Ulu Manna"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bunga Mas"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pasar Manna"
+    }
   ]
 }

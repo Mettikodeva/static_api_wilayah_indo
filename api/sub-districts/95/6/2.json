@@ -1,54 +1,204 @@
 {
   "sub_districts": [
-    "Apalapsili",
-    "Hubliki",
-    "Kulet",
-    "Yarema (Yarema Satu)",
-    "Asiligma",
-    "Lambukmu",
-    "Suwewili (Suweli)",
-    "Yohul",
-    "Lilinsaluk",
-    "Natoksili",
-    "Hinanggoambut (Hinongkoambut)",
-    "Wiyukwilik",
-    "Fari",
-    "Wasalalo",
-    "Suerlihim (Suerelihim)",
-    "Orohon",
-    "Habalo",
-    "Sabilikalem",
-    "Wanamalo",
-    "Kundikele",
-    "Kelampurim",
-    "Holukalem (Holuokalem)",
-    "Yeptek (Yeftek)",
-    "Benyam",
-    "Temput (Tembut)",
-    "Sabualo",
-    "Nanahoruk",
-    "Kengkenbun (Kengggembun)",
-    "Sien",
-    "Kinhe",
-    "Humalem (Humalen)",
-    "Pipisim",
-    "Makrig",
-    "Ilirek",
-    "Filiahik (Filiyahik)",
-    "Kilat",
-    "Baptekma (Babtekma)",
-    "Nohonil",
-    "Asilikma",
-    "Tikano",
-    "Nasinema (Nasinena)",
-    "Eal",
-    "Hukalopunu",
-    "Alimuhuk",
-    "Pong",
-    "Molinggi (Moliyinggi)",
-    "Sobikambut",
-    "Wiralesili",
-    "Holuogalma (Holuaogalma)",
-    "Falukwalilo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Apalapsili"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hubliki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kulet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yarema (Yarema Satu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Asiligma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lambukmu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suwewili (Suweli)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yohul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lilinsaluk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Natoksili"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hinanggoambut (Hinongkoambut)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wiyukwilik"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Fari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wasalalo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suerlihim (Suerelihim)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Orohon"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Habalo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sabilikalem"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wanamalo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kundikele"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kelampurim"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Holukalem (Holuokalem)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Yeptek (Yeftek)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Benyam"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Temput (Tembut)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sabualo"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Nanahoruk"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kengkenbun (Kengggembun)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Sien"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Kinhe"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Humalem (Humalen)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pipisim"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Makrig"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Ilirek"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Filiahik (Filiyahik)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Kilat"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Baptekma (Babtekma)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Nohonil"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Asilikma"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Tikano"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Nasinema (Nasinena)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Eal"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Hukalopunu"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Alimuhuk"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Pong"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Molinggi (Moliyinggi)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Sobikambut"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Wiralesili"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Holuogalma (Holuaogalma)"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Falukwalilo"
+    }
   ]
 }

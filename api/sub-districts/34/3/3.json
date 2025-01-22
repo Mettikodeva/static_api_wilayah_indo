@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Banyusoco",
-    "Plembutan",
-    "Bleberan",
-    "Getas",
-    "Dengok",
-    "Ngunut",
-    "Playen",
-    "Ngawu",
-    "Bandung",
-    "Logandeng",
-    "Gading",
-    "Banaran",
-    "Ngleri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyusoco"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Plembutan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bleberan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Getas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dengok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngunut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Playen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngawu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Logandeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gading"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngleri"
+    }
   ]
 }

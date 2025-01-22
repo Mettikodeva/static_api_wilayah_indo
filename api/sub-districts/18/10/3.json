@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ambarawa",
-    "Ambarawa Barat",
-    "Kresno Mulyo (Kresnomulyo)",
-    "Sumber Agung",
-    "Tanjung Anom",
-    "Jati Agung",
-    "Margodadi",
-    "Ambarawa Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ambarawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ambarawa Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kresno Mulyo (Kresnomulyo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Anom"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jati Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margodadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ambarawa Timur"
+    }
   ]
 }

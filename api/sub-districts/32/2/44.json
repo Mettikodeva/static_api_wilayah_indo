@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Padasenang",
-    "Cidadap",
-    "Banjarsari",
-    "Hegarmulya",
-    "Tenjolaut",
-    "Mekartani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padasenang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cidadap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hegarmulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tenjolaut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekartani"
+    }
   ]
 }

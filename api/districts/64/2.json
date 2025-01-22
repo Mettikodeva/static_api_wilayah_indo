@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Muara Muntai",
-    "Loa Kulu",
-    "Loa Janan",
-    "Anggana",
-    "Muara Badak",
-    "Tenggarong",
-    "Sebulu",
-    "Kota Bangun",
-    "Kenohan",
-    "Kembang Janggut",
-    "Muara Kaman",
-    "Tabang",
-    "Samboja (Semboja)",
-    "Muara Jawa",
-    "Sanga Sanga",
-    "Tenggarong Seberang",
-    "Marang Kayu",
-    "Muara Wis",
-    "Kota Bangun Darat",
-    "Samboja Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Muara Muntai"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Loa Kulu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Loa Janan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Anggana"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Muara Badak"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tenggarong"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sebulu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kota Bangun"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kenohan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kembang Janggut"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Muara Kaman"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tabang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Samboja (Semboja)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Muara Jawa"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sanga Sanga"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tenggarong Seberang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Marang Kayu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Muara Wis"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kota Bangun Darat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Samboja Barat"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gosong Telaga Utara",
-    "Gosong Telaga Selatan",
-    "Kampung Baru",
-    "Ketapang Indah",
-    "Gosong Telaga Timur",
-    "Gosong Telaga Barat",
-    "Telaga Bakti (Telaga Sakti)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gosong Telaga Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gosong Telaga Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ketapang Indah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gosong Telaga Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gosong Telaga Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Telaga Bakti (Telaga Sakti)"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Loleng",
-    "Kota Bangun Ulu",
-    "Kota Bangun Ilir",
-    "Liang",
-    "Muhuran",
-    "Pela",
-    "Kedang Murung",
-    "Kota Bangun (Kota Bangun Seberang)",
-    "Liang Ulu",
-    "Sebelimbingan",
-    "Sangkuliman"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Loleng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Bangun Ulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Bangun Ilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Liang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muhuran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pela"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kedang Murung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kota Bangun (Kota Bangun Seberang)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Liang Ulu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sebelimbingan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sangkuliman"
+    }
   ]
 }

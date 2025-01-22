@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Majalaya",
-    "Ciranggon",
-    "Pasirjengkol",
-    "Sarijaya",
-    "Pasirmulya",
-    "Lemahmulya",
-    "Bangle (Bengle)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Majalaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciranggon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasirjengkol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sarijaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirmulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lemahmulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangle (Bengle)"
+    }
   ]
 }

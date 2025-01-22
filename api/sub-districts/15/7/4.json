@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bandar Jaya",
-    "Rantau Rasau I",
-    "Rantau Rasau II",
-    "Harapan Makmur",
-    "Bangun Karya",
-    "Rantau Jaya",
-    "Sungai Dusun",
-    "Karya Bakti",
-    "Marga Mulya",
-    "Pematang Mayan",
-    "Tri Mulya/Mulyo"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bandar Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Rasau I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Rasau II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Harapan Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangun Karya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Dusun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karya Bakti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pematang Mayan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tri Mulya/Mulyo"
+    }
   ]
 }

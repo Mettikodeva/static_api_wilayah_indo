@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Nanedakele",
-    "Nusa",
-    "Bukide",
-    "Bukide Timur",
-    "Nanusa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanedakele"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nusa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukide"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukide Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nanusa"
+    }
   ]
 }

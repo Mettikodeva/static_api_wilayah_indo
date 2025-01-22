@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kwangsan",
-    "Pepe",
-    "Buncitan",
-    "Kalanganyar",
-    "Tambakcemandi (Tambak Cemandi)",
-    "Gisikcemandi (Gisik Cemandi)",
-    "Cemandi",
-    "Pulungan",
-    "Betro",
-    "Sedatiagung (Sedati Agung)",
-    "Sedatigede (Sedati Gede)",
-    "Pabean",
-    "Semampir",
-    "Pranti",
-    "Segorotambak (Segoro Tambak)",
-    "Banjarkemuning (Banjar Kemuning)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kwangsan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pepe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buncitan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalanganyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambakcemandi (Tambak Cemandi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gisikcemandi (Gisik Cemandi)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cemandi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Betro"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sedatiagung (Sedati Agung)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sedatigede (Sedati Gede)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pabean"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Semampir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pranti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Segorotambak (Segoro Tambak)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Banjarkemuning (Banjar Kemuning)"
+    }
   ]
 }

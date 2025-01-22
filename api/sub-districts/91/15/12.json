@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wapoga",
-    "Pirare",
-    "Awera",
-    "Syewa Merare",
-    "Kamarisano",
-    "Waweri",
-    "Dokis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wapoga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pirare"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Awera"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Syewa Merare"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kamarisano"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waweri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dokis"
+    }
   ]
 }

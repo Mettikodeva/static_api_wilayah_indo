@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Rantau Kopar",
-    "Sungai Rangau (Sei Rangau)",
-    "Sekapas",
-    "Bagan Cempedak"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rantau Kopar"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sungai Rangau (Sei Rangau)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekapas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bagan Cempedak"
+    }
   ]
 }

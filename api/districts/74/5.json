@@ -1,29 +1,104 @@
 {
   "districts": [
-    "Tinanggea",
-    "Angata",
-    "Andoolo",
-    "Palangga",
-    "Landono",
-    "Lainea",
-    "Konda",
-    "Ranomeeto",
-    "Kolono",
-    "Moramo",
-    "Laonti",
-    "Lalembuu",
-    "Benua",
-    "Palangga Selatan",
-    "Mowila",
-    "Moramo Utara",
-    "Buke",
-    "Wolasi",
-    "Laeya",
-    "Baito",
-    "Basala",
-    "Ranomeeto Barat",
-    "Kolono Timur",
-    "Sabulakoa",
-    "Andoolo Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Tinanggea"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Angata"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Andoolo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Palangga"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Landono"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lainea"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Konda"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Ranomeeto"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kolono"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Moramo"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Laonti"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lalembuu"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Benua"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Palangga Selatan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Mowila"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Moramo Utara"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Buke"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Wolasi"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Laeya"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Baito"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Basala"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Ranomeeto Barat"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Kolono Timur"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Sabulakoa"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Andoolo Barat"
+    }
   ]
 }

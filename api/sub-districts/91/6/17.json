@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Yenbeba",
-    "Yenbebon (Yenbepon)",
-    "Saribi",
-    "Sub Mander (Supmander)",
-    "Rawar",
-    "Pakreki",
-    "Masyarah (Masyara)",
-    "Wansra",
-    "Manwor Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yenbeba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yenbebon (Yenbepon)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Saribi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sub Mander (Supmander)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rawar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pakreki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Masyarah (Masyara)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wansra"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manwor Indah"
+    }
   ]
 }

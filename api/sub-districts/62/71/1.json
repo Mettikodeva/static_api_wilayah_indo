@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pahandut",
-    "Panarung",
-    "Langkai",
-    "Tumbang Rungan",
-    "Pahandut Seberang",
-    "Tanjung Pinang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pahandut"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Panarung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Langkai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tumbang Rungan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pahandut Seberang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjung Pinang"
+    }
   ]
 }

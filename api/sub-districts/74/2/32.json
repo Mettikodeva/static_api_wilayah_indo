@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bungguosu",
-    "Tudaone",
-    "Konawe",
-    "Tawanga",
-    "Sanggona",
-    "Uelawu",
-    "Mokowu (Mekowu)",
-    "Uete",
-    "Hudoa",
-    "Wonua Mbae",
-    "Asinowowo",
-    "Puuwonua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bungguosu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tudaone"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Konawe"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tawanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sanggona"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uelawu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mokowu (Mekowu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Uete"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hudoa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonua Mbae"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Asinowowo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Puuwonua"
+    }
   ]
 }

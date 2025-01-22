@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Toabo",
-    "Papalang",
-    "Bonda",
-    "Topore (Topare / Tapore)",
-    "Salukayu (Salokayu)",
-    "Sukadamai",
-    "Boda-Boda",
-    "Sisango",
-    "Batu Ampa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Toabo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Papalang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Topore (Topare / Tapore)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salukayu (Salokayu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukadamai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Boda-Boda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sisango"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Ampa"
+    }
   ]
 }

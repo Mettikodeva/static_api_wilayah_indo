@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sidoharjo (Sido Harjo)",
-    "Sidomakmur (Sido Makmur)",
-    "Sidoreno (Sido Reno)",
-    "Bali Nuraga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidoharjo (Sido Harjo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidomakmur (Sido Makmur)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidoreno (Sido Reno)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bali Nuraga"
+    }
   ]
 }

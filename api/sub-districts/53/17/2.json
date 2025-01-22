@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Praimadeta",
-    "Pondok",
-    "Maderi",
-    "Anajiaka",
-    "Wairasa",
-    "Umbu Kawolu",
-    "Umbu Mamijuk",
-    "Umbu Pabal",
-    "Umbu Langang",
-    "Umbu Pabal Selatan",
-    "Umbu Jodu",
-    "Anapalu",
-    "Daha Elu",
-    "Dewa Tana",
-    "Mata Waikajawi"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Praimadeta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pondok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maderi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Anajiaka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wairasa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Umbu Kawolu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Umbu Mamijuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Umbu Pabal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Umbu Langang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Umbu Pabal Selatan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Umbu Jodu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Anapalu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Daha Elu"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Dewa Tana"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Mata Waikajawi"
+    }
   ]
 }

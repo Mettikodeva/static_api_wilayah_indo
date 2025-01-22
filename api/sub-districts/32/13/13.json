@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjungtiga",
-    "Muara",
-    "Blanakan",
-    "Rawameneng",
-    "Cilamayagirang (Cilamaya Girang)",
-    "Jayamukti",
-    "Cilamayahilir (Cilamaya Hilir)",
-    "Rawamekar",
-    "Langensari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungtiga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blanakan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawameneng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cilamayagirang (Cilamaya Girang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jayamukti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cilamayahilir (Cilamaya Hilir)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rawamekar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langensari"
+    }
   ]
 }

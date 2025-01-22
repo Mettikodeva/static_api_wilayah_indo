@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Birayang",
-    "Kias",
-    "Kapar",
-    "Tembuk Bahalang",
-    "Limbar",
-    "Lok Basar (Lok Besar)",
-    "Paya",
-    "Cukan Lipai",
-    "Birayang Surapati",
-    "Mahela",
-    "Rangas",
-    "Wawai Gardu",
-    "Labuhan",
-    "Birayang Timur",
-    "Tanah Habang",
-    "Banua Rantau",
-    "Anduhum",
-    "Wawai",
-    "Lunjuk"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Birayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kias"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kapar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tembuk Bahalang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limbar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lok Basar (Lok Besar)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cukan Lipai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Birayang Surapati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mahela"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rangas"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wawai Gardu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Labuhan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Birayang Timur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanah Habang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Banua Rantau"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Anduhum"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wawai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lunjuk"
+    }
   ]
 }

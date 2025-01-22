@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Borme",
-    "Omban",
-    "Sikibur",
-    "Onya",
-    "Arina",
-    "Bordamban",
-    "Aringgon",
-    "Bukam",
-    "Kwime",
-    "Kolgir",
-    "Cangdamban",
-    "Laydamban",
-    "Seban"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Borme"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Omban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sikibur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Onya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Arina"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bordamban"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Aringgon"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bukam"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kwime"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kolgir"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Cangdamban"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Laydamban"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Seban"
+    }
   ]
 }

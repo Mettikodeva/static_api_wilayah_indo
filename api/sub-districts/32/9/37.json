@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cikeusal",
-    "Palimanan Barat",
-    "Kedungbunder",
-    "Cupang",
-    "Gempol",
-    "Walahar",
-    "Kempek",
-    "Winong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikeusal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Palimanan Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungbunder"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cupang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gempol"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Walahar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kempek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Winong"
+    }
   ]
 }

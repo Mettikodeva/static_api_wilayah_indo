@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Darawolong",
-    "Tegalsari",
-    "Purwasari",
-    "Mekarjaya",
-    "Tamelang",
-    "Cengkong",
-    "Sukasari",
-    "Karangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Darawolong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamelang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cengkong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangsari"
+    }
   ]
 }

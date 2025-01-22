@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Merdey",
-    "Meryeb",
-    "Meyom",
-    "Menggerba",
-    "Anajero",
-    "Mogromus",
-    "Morombuy",
-    "Mekiesefeb",
-    "Meyetga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Merdey"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meryeb"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meyom"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Menggerba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Anajero"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mogromus"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Morombuy"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekiesefeb"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Meyetga"
+    }
   ]
 }

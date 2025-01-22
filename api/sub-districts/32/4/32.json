@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Baleendah",
-    "Andir",
-    "Manggahang",
-    "Jelekong",
-    "Wargamekar",
-    "Bojongmalaka",
-    "Rancamanyar",
-    "Malakasari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baleendah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Andir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Manggahang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jelekong"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Wargamekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojongmalaka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rancamanyar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malakasari"
+    }
   ]
 }

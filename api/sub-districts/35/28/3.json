@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tobungan",
-    "Konang",
-    "Pandan",
-    "Lembung",
-    "Galis",
-    "Bulay",
-    "Pagendingan",
-    "Ponteh",
-    "Polagan",
-    "Artodung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tobungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Konang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pandan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lembung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Galis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulay"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagendingan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ponteh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Polagan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Artodung"
+    }
   ]
 }

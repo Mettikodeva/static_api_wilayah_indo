@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pota",
-    "Nanga Baras",
-    "Ulung Baras",
-    "Golo Wangkung Utara",
-    "Nanga Mbaur",
-    "Nanga Mbaling",
-    "Lada Mese",
-    "Nampar Sepang",
-    "Kembang Mekar",
-    "Wela Lada"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pota"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Nanga Baras"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Ulung Baras"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Golo Wangkung Utara"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Mbaur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanga Mbaling"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lada Mese"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nampar Sepang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kembang Mekar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wela Lada"
+    }
   ]
 }

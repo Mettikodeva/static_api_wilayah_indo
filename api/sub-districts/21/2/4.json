@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Meral Kota",
-    "Baran Barat",
-    "Sungai Raya",
-    "Baran Timur",
-    "Sungai Pasir",
-    "Parit Benut (Pasir Benut)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Meral Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baran Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sungai Raya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Baran Timur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sungai Pasir"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Parit Benut (Pasir Benut)"
+    }
   ]
 }

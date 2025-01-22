@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sudimoroharjo",
-    "Wilangan",
-    "Ngadipiro",
-    "Mancon",
-    "Ngudikan",
-    "Sokoharjo (Sukoharjo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sudimoroharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wilangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngadipiro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mancon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngudikan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sokoharjo (Sukoharjo)"
+    }
   ]
 }

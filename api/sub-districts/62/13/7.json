@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Juru Banu",
-    "Telang Baru",
-    "Tampulangit",
-    "Telang (Telang Siong)",
-    "Maipe",
-    "Murutuwu",
-    "Balawa",
-    "Kali Napu",
-    "Siong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Juru Banu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telang Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tampulangit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telang (Telang Siong)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maipe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Murutuwu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balawa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kali Napu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siong"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kunangan",
-    "Talang Duku",
-    "Tebat Patah",
-    "Kemingking Dalam",
-    "Teluk Jambu",
-    "Dusun Mudo (Mudo)",
-    "Sekumbung",
-    "Kemingking Luar",
-    "Rukam",
-    "Manis Mato"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kunangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Duku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tebat Patah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kemingking Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Jambu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dusun Mudo (Mudo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sekumbung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kemingking Luar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rukam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Manis Mato"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sidodadi",
-    "Tempurejo",
-    "Andongrejo",
-    "Pondokrejo",
-    "Wonoasri",
-    "Curahnongko",
-    "Curahtakir",
-    "Sanenrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tempurejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Andongrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondokrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonoasri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Curahnongko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curahtakir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sanenrejo"
+    }
   ]
 }

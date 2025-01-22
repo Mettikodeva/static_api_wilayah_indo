@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bohol",
-    "Pringombo",
-    "Botodayakan (Botodayaan)",
-    "Petir",
-    "Pucanganom",
-    "Semugih",
-    "Melikan",
-    "Karangwuni"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bohol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pringombo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Botodayakan (Botodayaan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Petir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pucanganom"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Semugih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Melikan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangwuni"
+    }
   ]
 }

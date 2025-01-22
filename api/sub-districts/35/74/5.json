@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jrebeng Kulon",
-    "Kareng Lor",
-    "Sumber Wetan",
-    "Jrebeng Lor",
-    "Kedopok",
-    "Jrebeng Wetan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jrebeng Kulon"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kareng Lor"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sumber Wetan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jrebeng Lor"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kedopok"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jrebeng Wetan"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lomanis",
-    "Gunungsimping",
-    "Sidanegara",
-    "Donan",
-    "Kutawaru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lomanis"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gunungsimping"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidanegara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Donan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kutawaru"
+    }
   ]
 }

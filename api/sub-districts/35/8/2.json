@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sidomulyo",
-    "Pronojiwo",
-    "Tamanayu",
-    "Sumberurip",
-    "Oro Oro Ombo",
-    "Supiturang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pronojiwo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamanayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberurip"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oro Oro Ombo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Supiturang"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Palimbangan",
-    "Palimbangan Gusti",
-    "Palimbang Sari (Palimbangan Sari)",
-    "Bayur",
-    "Loksoga/Lok Suga",
-    "Sei/Sungai Limas",
-    "Pihaung",
-    "Sei/Sungai Binuang",
-    "Jingah Bujur",
-    "Haur Gading",
-    "Keramat/Karamat",
-    "Tambak Sari Panji",
-    "Pulantani/Polantani",
-    "Waringin",
-    "Tangkawang",
-    "Tuhuran",
-    "Taluk Haur (Teluk Haur)",
-    "Panawakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palimbangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Palimbangan Gusti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palimbang Sari (Palimbangan Sari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bayur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Loksoga/Lok Suga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Limas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pihaung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Binuang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jingah Bujur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Haur Gading"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keramat/Karamat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tambak Sari Panji"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulantani/Polantani"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Waringin"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tangkawang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tuhuran"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Taluk Haur (Teluk Haur)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Panawakan"
+    }
   ]
 }

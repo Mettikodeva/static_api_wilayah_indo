@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pulau",
-    "Ampukung",
-    "Telaga Itar (Telagaitar)",
-    "Sei/Sungai Buluh",
-    "Binturu",
-    "Pudak Setegal (Pudak Stegal)",
-    "Pasar Panas",
-    "Masintan",
-    "Takulat",
-    "Paliat",
-    "Karangan Putih",
-    "Bahungin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ampukung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telaga Itar (Telagaitar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binturu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pudak Setegal (Pudak Stegal)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasar Panas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Masintan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Takulat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paliat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karangan Putih"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bahungin"
+    }
   ]
 }

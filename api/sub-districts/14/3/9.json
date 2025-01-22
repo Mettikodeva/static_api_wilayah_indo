@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Air Jamban",
-    "Babussalam",
-    "Batang Serosa",
-    "Balik Alam",
-    "Duri Barat",
-    "Duri Timur",
-    "Gajah Sakti",
-    "Talang Mandi",
-    "Pematang Pudu",
-    "Harapan Baru",
-    "Bathin Betuah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Air Jamban"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Babussalam"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Batang Serosa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Balik Alam"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Duri Barat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Duri Timur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gajah Sakti"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Talang Mandi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pematang Pudu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Harapan Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bathin Betuah"
+    }
   ]
 }

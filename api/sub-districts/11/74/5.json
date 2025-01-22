@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Timbang Langsa",
-    "Alue Dua",
-    "Birem Puntong",
-    "Paya Bujok Seuleumak (Paya Bujuk Seuleumak)",
-    "Pondok Kelapa",
-    "Karang Anyar",
-    "Paya Bujok Tunong (Paya Bujuk Tunong)",
-    "Geudubang Jawa",
-    "Geudubang Aceh (Gedubang Aceh)",
-    "Alue Dua Bakaran Batee (Alue Dua Bakaran Bate)",
-    "Lengkong",
-    "Suka Jadi Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Timbang Langsa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alue Dua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Birem Puntong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paya Bujok Seuleumak (Paya Bujuk Seuleumak)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pondok Kelapa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paya Bujok Tunong (Paya Bujuk Tunong)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Geudubang Jawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Geudubang Aceh (Gedubang Aceh)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Alue Dua Bakaran Batee (Alue Dua Bakaran Bate)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Jadi Makmur"
+    }
   ]
 }

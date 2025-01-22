@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Laulua (Laolua)",
-    "Ambeua",
-    "Lagiwae",
-    "Buranga",
-    "Sombano",
-    "Samabahari",
-    "Ollo",
-    "Horuo (Haruo)",
-    "Balasuna",
-    "Mantigola Makmur (Mantigola / Mantingola)",
-    "Balasuna Selatan",
-    "Ollo Selatan",
-    "Waduri",
-    "Lefuto (Lewuto)",
-    "Ambeua Raya",
-    "Kalimas"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Laulua (Laolua)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ambeua"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lagiwae"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Buranga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sombano"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Samabahari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ollo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Horuo (Haruo)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Balasuna"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mantigola Makmur (Mantigola / Mantingola)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Balasuna Selatan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ollo Selatan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Waduri"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lefuto (Lewuto)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Ambeua Raya"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kalimas"
+    }
   ]
 }

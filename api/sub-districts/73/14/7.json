@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pangkajene",
-    "Lautang Benteng",
-    "Majjelling",
-    "Wala",
-    "Lekessi (Lakessi)",
-    "Rijang Pitu (Rijang Pittu)",
-    "Majjelling Watang (Majelling Watang)",
-    "Sereang",
-    "Kanie",
-    "Allakuang",
-    "Tanete",
-    "Tekkalasi (Takkalasi)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pangkajene"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lautang Benteng"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Majjelling"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wala"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lekessi (Lakessi)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rijang Pitu (Rijang Pittu)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Majjelling Watang (Majelling Watang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sereang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kanie"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Allakuang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanete"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tekkalasi (Takkalasi)"
+    }
   ]
 }

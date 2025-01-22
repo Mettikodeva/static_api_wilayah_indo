@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Helvetia",
-    "Manunggal",
-    "Pematang Johar",
-    "Karang Gading",
-    "Telaga Tujuh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Helvetia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manunggal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pematang Johar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Gading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Telaga Tujuh"
+    }
   ]
 }

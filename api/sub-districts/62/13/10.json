@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dayu",
-    "Wuran",
-    "Ipu Mea",
-    "Lagan",
-    "Putut Tawuluh",
-    "Simpang Naneng",
-    "Kandris"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dayu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wuran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ipu Mea"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lagan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Putut Tawuluh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Naneng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kandris"
+    }
   ]
 }

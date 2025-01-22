@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dampit",
-    "Sukodono",
-    "Sumbersuko",
-    "Srimulyo",
-    "Baturetno",
-    "Bumirejo",
-    "Amandanom (Amadanom)",
-    "Pamotan",
-    "Majangtengah",
-    "Rembun",
-    "Pojok",
-    "Jambangan"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dampit"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukodono"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumbersuko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Srimulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baturetno"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumirejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Amandanom (Amadanom)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pamotan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Majangtengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rembun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jambangan"
+    }
   ]
 }

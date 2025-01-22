@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sarongan",
-    "Pesanggaran",
-    "Sumberagung",
-    "Kandangan",
-    "Sumbermulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pesanggaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberagung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumbermulyo"
+    }
   ]
 }

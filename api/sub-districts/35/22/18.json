@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pelem",
-    "Ngrejeng",
-    "Tlatah",
-    "Kaliombo",
-    "Tinumpuk",
-    "Punggur",
-    "Sedahkidul",
-    "Pojok",
-    "Purwosari",
-    "Gapluk",
-    "Kuniran",
-    "Donan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngrejeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tlatah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaliombo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tinumpuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Punggur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sedahkidul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gapluk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kuniran"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Donan"
+    }
   ]
 }

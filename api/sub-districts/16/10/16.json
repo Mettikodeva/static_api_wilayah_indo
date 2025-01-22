@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Payaraman Barat",
-    "Payaraman Timur",
-    "Tebedak I",
-    "Lubuk Bandung",
-    "Talang Seleman",
-    "Tebedak II",
-    "Tanjung Lalang",
-    "Seri Kembang I",
-    "Rengas I",
-    "Paya Besar",
-    "Rengas II",
-    "Seri Kembang II",
-    "Seri Kembang III"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Payaraman Barat"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Payaraman Timur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tebedak I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Bandung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Seleman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tebedak II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Lalang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seri Kembang I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rengas I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paya Besar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rengas II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seri Kembang II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Seri Kembang III"
+    }
   ]
 }

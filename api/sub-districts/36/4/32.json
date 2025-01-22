@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mancak",
-    "Ciwarna",
-    "Angsana",
-    "Talaga",
-    "Cikedung",
-    "Sigedong",
-    "Sangiang",
-    "Pasirwaru",
-    "Waringin",
-    "Winong",
-    "Batukuda",
-    "Labuan (Labuhan)",
-    "Bale Kambang (Balekambang)",
-    "Bale Kencana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mancak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciwarna"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Angsana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talaga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikedung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sigedong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sangiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasirwaru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waringin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batukuda"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labuan (Labuhan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bale Kambang (Balekambang)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bale Kencana"
+    }
   ]
 }

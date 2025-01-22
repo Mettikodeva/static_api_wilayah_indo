@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pungkit",
-    "Berora",
-    "Lopok",
-    "Langam",
-    "Mamak (Mama)",
-    "Lopok Beru",
-    "Tatede"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pungkit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Berora"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lopok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mamak (Mama)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lopok Beru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tatede"
+    }
   ]
 }

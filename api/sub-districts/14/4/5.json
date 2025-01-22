@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sungaisalak (Sungai Salak)",
-    "Tempuling Jaya (Tempuling)",
-    "Tanjungpidada (Tanjung Pidada)",
-    "Pangkalan Tujuh",
-    "Telukkiambang (Teluk Kiambang)",
-    "Mumpa",
-    "Telukjira (Teluk Jira)",
-    "Karya Tunas Jaya",
-    "Harapan Jaya"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sungaisalak (Sungai Salak)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tempuling Jaya (Tempuling)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tanjungpidada (Tanjung Pidada)"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Pangkalan Tujuh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telukkiambang (Teluk Kiambang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mumpa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Telukjira (Teluk Jira)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karya Tunas Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Harapan Jaya"
+    }
   ]
 }

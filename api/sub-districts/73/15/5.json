@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Benteng",
-    "Teppo",
-    "Tonyamang",
-    "Maccirinna",
-    "Leppangang",
-    "Malimpung",
-    "Mattiroade (Mattiro Ade)",
-    "Sipatuo",
-    "Padang Loang",
-    "Pincara",
-    "Masolo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Teppo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tonyamang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Maccirinna"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Leppangang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malimpung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mattiroade (Mattiro Ade)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sipatuo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Loang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pincara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Masolo"
+    }
   ]
 }

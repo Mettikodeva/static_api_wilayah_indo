@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Wailiang",
-    "Komerda",
-    "Kampung Baru",
-    "Kampung Sawah",
-    "Pada Eweta",
-    "Maliti",
-    "Kodaka",
-    "Tebara",
-    "Kalembu Kuni",
-    "Soba Rade",
-    "Lapale",
-    "Modu Waimaringu",
-    "Puu Mawo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wailiang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Komerda"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kampung Sawah"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pada Eweta"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Maliti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kodaka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tebara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalembu Kuni"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Soba Rade"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lapale"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Modu Waimaringu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Puu Mawo"
+    }
   ]
 }

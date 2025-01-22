@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Atari Indah",
-    "Lambodi Jaya",
-    "Atari Jaya",
-    "Mokupa Jaya (Makupa Jaya)",
-    "Lambandia",
-    "Kapuwila",
-    "Puunangga",
-    "Teteinea (Teteinea Jaya)",
-    "Puurema Subur",
-    "Lelembu Jaya (Lalembu Jaya)",
-    "Sukamukti (Suka Mukti)",
-    "Potuho Jaya",
-    "Mondoke (Mandoke)",
-    "Sumber Jaya",
-    "Merongga Raya",
-    "Tombeleu",
-    "Padaleu",
-    "Lalouesamba"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Atari Indah"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambodi Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Atari Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mokupa Jaya (Makupa Jaya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lambandia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kapuwila"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puunangga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teteinea (Teteinea Jaya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puurema Subur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lelembu Jaya (Lalembu Jaya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukamukti (Suka Mukti)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Potuho Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mondoke (Mandoke)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Merongga Raya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tombeleu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Padaleu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lalouesamba"
+    }
   ]
 }

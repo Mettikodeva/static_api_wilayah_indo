@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Miomaffo Timur (Miomafo Timur)",
-    "Miomaffo Barat (Miomafo Barat)",
-    "Biboki Selatan",
-    "Noemuti",
-    "Kota Kefamenanu",
-    "Biboki Utara",
-    "Biboki Anleu",
-    "Insana",
-    "Insana Utara",
-    "Noemuti Timur",
-    "Miomaffo Tengah (Miomafo Tengah)",
-    "Musi",
-    "Mutis",
-    "Bikomi Selatan",
-    "Bikomi Tengah",
-    "Bikomi Nilulat",
-    "Bikomi Utara",
-    "Naibenu",
-    "Insana Fafinesu",
-    "Insana Barat",
-    "Insana Tengah",
-    "Biboki Tan Pah",
-    "Biboki Moenleu",
-    "Biboki Feotleu"
+    {
+      "district_id": 1,
+      "kecamatan": "Miomaffo Timur (Miomafo Timur)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Miomaffo Barat (Miomafo Barat)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Biboki Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Noemuti"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kota Kefamenanu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Biboki Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Biboki Anleu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Insana"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Insana Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Noemuti Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Miomaffo Tengah (Miomafo Tengah)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Musi"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Mutis"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bikomi Selatan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bikomi Tengah"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bikomi Nilulat"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bikomi Utara"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Naibenu"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Insana Fafinesu"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Insana Barat"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Insana Tengah"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Biboki Tan Pah"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Biboki Moenleu"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Biboki Feotleu"
+    }
   ]
 }

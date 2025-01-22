@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sukorejo",
-    "Bangun Rejo",
-    "Pagar Alam",
-    "Alun Dua",
-    "Selibar",
-    "Beringin Jaya",
-    "Dempio Makmur (Dempo Makmur)",
-    "Kusipan Babas (Kuripan Babas)",
-    "Bangun Jaya",
-    "Curup Jare"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bangun Rejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pagar Alam"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Alun Dua"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Selibar"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Dempio Makmur (Dempo Makmur)"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Kusipan Babas (Kuripan Babas)"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Curup Jare"
+    }
   ]
 }

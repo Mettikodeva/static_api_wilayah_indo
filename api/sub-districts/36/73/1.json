@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Serang",
-    "Cipare",
-    "Sumur Pecung (Sumurpecung)",
-    "Kota Baru (Kotabaru)",
-    "Lopang",
-    "Cimuncang",
-    "Unyur",
-    "Sukawana",
-    "Lontarbaru",
-    "Kaligandu",
-    "Terondol",
-    "Kagungan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Serang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cipare"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sumur Pecung (Sumurpecung)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kota Baru (Kotabaru)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lopang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cimuncang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Unyur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sukawana"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lontarbaru"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kaligandu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Terondol"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kagungan"
+    }
   ]
 }

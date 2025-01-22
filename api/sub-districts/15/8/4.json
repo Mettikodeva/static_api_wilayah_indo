@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Belit",
-    "Rantau Ikil",
-    "Pulau Jelmu",
-    "Sirih Sekapur",
-    "Ujung Tanjung",
-    "Jumbak",
-    "Rantau Panjang",
-    "Talang Pemesun (Pamesun)",
-    "Baru Balai Panjang",
-    "Sirih Sekapur Perkembangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Belit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Ikil"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Jelmu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sirih Sekapur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ujung Tanjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jumbak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Talang Pemesun (Pamesun)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baru Balai Panjang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sirih Sekapur Perkembangan"
+    }
   ]
 }

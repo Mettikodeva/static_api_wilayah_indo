@@ -1,30 +1,108 @@
 {
   "sub_districts": [
-    "Kupang",
-    "Tanjungkupang (Tanjung Kupang)",
-    "Tanjung Makmur",
-    "Pasar Tebing Tinggi",
-    "Jaya Loka",
-    "Kelumpang Jaya",
-    "Ujung Alih",
-    "Lubuk Gelanggang",
-    "Ulak Mengkudu",
-    "Batu Pance (Batu Panceh)",
-    "Aur Gading",
-    "Terusan Lama",
-    "Terusan Baru",
-    "Rantau Tenang",
-    "Seguring Kecil",
-    "Kemang Manis",
-    "Lampar Baru",
-    "Kota Gading",
-    "Batu Raja Baru",
-    "Batu Raja Lama",
-    "Sugi Waras",
-    "Mekar Jaya",
-    "Fajar/Pajar Bakti",
-    "Pancur Mas (Pancurmas / Unit Jaya)",
-    "Makarti Jaya (Mekarti Jaya)",
-    "Tanjung Kupang Baru"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kupang"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tanjungkupang (Tanjung Kupang)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tanjung Makmur"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Pasar Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 1033,
+      "desa_kelurahan": "Jaya Loka"
+    },
+    {
+      "sub_district_id": 1036,
+      "desa_kelurahan": "Kelumpang Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ujung Alih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Gelanggang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulak Mengkudu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Pance (Batu Panceh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aur Gading"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Terusan Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terusan Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rantau Tenang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seguring Kecil"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kemang Manis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lampar Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kota Gading"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Batu Raja Baru"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Batu Raja Lama"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sugi Waras"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Fajar/Pajar Bakti"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pancur Mas (Pancurmas / Unit Jaya)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Makarti Jaya (Mekarti Jaya)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Tanjung Kupang Baru"
+    }
   ]
 }

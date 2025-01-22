@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Puru",
-    "Wonokerto",
-    "Nglebo",
-    "Ngrandu",
-    "Gamping",
-    "Suruh",
-    "Mlinjon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nglebo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngrandu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gamping"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suruh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mlinjon"
+    }
   ]
 }

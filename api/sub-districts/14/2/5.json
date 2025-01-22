@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Peranap",
-    "Baturijal Hilir",
-    "Semelinang Tebing",
-    "Gumanti",
-    "Baturijal Hulu",
-    "Semelinang Darat (Semilinang Darat)",
-    "Pauh Ranap (Pauh Peranap)",
-    "Serai Wangi",
-    "Pandan Wangi",
-    "Katipo Pura (Ketipopura)",
-    "Batu Rijal Barat",
-    "Setako Jaya (Raya)"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Peranap"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Baturijal Hilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semelinang Tebing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gumanti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baturijal Hulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Semelinang Darat (Semilinang Darat)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pauh Ranap (Pauh Peranap)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Serai Wangi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pandan Wangi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Katipo Pura (Ketipopura)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Batu Rijal Barat"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Setako Jaya (Raya)"
+    }
   ]
 }

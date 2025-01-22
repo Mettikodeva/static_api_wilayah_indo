@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Amuri",
-    "Bawosalo'o Siwalawa (Bawosaloo Sowalawa)",
-    "Hilifadolo (Hili Fadolo)",
-    "Lolofaoso",
-    "Lolomoyo",
-    "Lolowau",
-    "Lolohowa",
-    "Sisarahili Ekholo",
-    "Tuhegafoa",
-    "Botohili",
-    "Hilikara",
-    "Samiri",
-    "Hilimbowo Siwalawa",
-    "Nituwu Boho"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Amuri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bawosalo'o Siwalawa (Bawosaloo Sowalawa)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hilifadolo (Hili Fadolo)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lolofaoso"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lolomoyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lolowau"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lolohowa"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sisarahili Ekholo"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Tuhegafoa"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Botohili"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Hilikara"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Samiri"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Hilimbowo Siwalawa"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Nituwu Boho"
+    }
   ]
 }

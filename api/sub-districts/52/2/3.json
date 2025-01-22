@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bujak",
-    "Selebung",
-    "Peresak",
-    "Mantang",
-    "Aik Darek",
-    "Tampak Siring",
-    "Barabali",
-    "Beber",
-    "Pagutan",
-    "Mekar Bersatu",
-    "Lendang Tampel"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bujak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selebung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Peresak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mantang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aik Darek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tampak Siring"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Barabali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beber"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pagutan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Bersatu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lendang Tampel"
+    }
   ]
 }

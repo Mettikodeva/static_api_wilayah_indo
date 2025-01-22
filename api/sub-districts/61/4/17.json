@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sei/Sungai Awan Kanan",
-    "Sei/Sungai Awan Kiri",
-    "Tempurukan",
-    "Ulak Medang",
-    "Tanjung Pura",
-    "Mayak",
-    "Tanjung Pasar",
-    "Suka Maju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Awan Kanan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Awan Kiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tempurukan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ulak Medang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Pura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mayak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Pasar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Maju"
+    }
   ]
 }

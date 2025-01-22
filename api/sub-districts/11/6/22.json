@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Layeun",
-    "Pulot",
-    "Lamsenia (Lamseunia)",
-    "Meunasah Mesjid (Mesjid Leupung)",
-    "Meunasah Bak U (Meunasah Bak Ue)",
-    "Dayah Mamplam (Deah Mamplam)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Layeun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulot"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamsenia (Lamseunia)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meunasah Mesjid (Mesjid Leupung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meunasah Bak U (Meunasah Bak Ue)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dayah Mamplam (Deah Mamplam)"
+    }
   ]
 }

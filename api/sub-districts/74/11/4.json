@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Poli-Polia",
-    "Wia Wia",
-    "Pangi-Pangi",
-    "Tokai",
-    "Andowengga",
-    "Taosu (Toasu)",
-    "Pole Maju Jaya",
-    "Polenga Jaya",
-    "Wundumbite",
-    "Hakambololi",
-    "Inotu Mewao",
-    "Puundokulo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Poli-Polia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wia Wia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangi-Pangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tokai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Andowengga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taosu (Toasu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pole Maju Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Polenga Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wundumbite"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hakambololi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Inotu Mewao"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Puundokulo"
+    }
   ]
 }

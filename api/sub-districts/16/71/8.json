@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Suka Maju (Sukamaju)",
-    "Sako",
-    "Sialang",
-    "Sako Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Suka Maju (Sukamaju)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sako"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sialang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sako Baru"
+    }
   ]
 }

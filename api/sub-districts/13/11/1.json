@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Lubuk Gadang",
-    "Lubuk Gadang Timur",
-    "Lubuk Gadang Selatan",
-    "Lubuk Gadang Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuk Gadang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Gadang Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Gadang Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Gadang Utara"
+    }
   ]
 }

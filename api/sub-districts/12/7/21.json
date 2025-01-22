@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lantasan Baru",
-    "Patumbak I (Patumbak Satu)",
-    "Patumbak II (Patumbak Dua)",
-    "Lantasan Lama",
-    "Sigara Gara",
-    "Marendal I (Marindal Satu)",
-    "Marindal II (Marindal Dua)",
-    "Patumbak Kampung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lantasan Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Patumbak I (Patumbak Satu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patumbak II (Patumbak Dua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lantasan Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sigara Gara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marendal I (Marindal Satu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marindal II (Marindal Dua)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patumbak Kampung"
+    }
   ]
 }

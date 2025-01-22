@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cigombong",
-    "Watesjaya",
-    "Ciburuy",
-    "Srogol",
-    "Cisalada",
-    "Tugujaya",
-    "Pasirjaya (Pasir Jaya)",
-    "Ciburayut",
-    "Ciadeg"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cigombong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Watesjaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciburuy"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Srogol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cisalada"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tugujaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasirjaya (Pasir Jaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciburayut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciadeg"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bahaur Basantan",
-    "Cemantan (Camatan / Cematan)",
-    "Sei/Sungai Barunai (Papuyu II)",
-    "Kiapak",
-    "Sei/Sungai Pasanan (Papuyu I)",
-    "Sei/Sungai Rungun",
-    "Bahaur Hilir",
-    "Bahaur Tengah",
-    "Bahaur Hulu",
-    "Sei/Sungai Pudak (Papuyu III)",
-    "Tanjung Perawan",
-    "Bahaur Hulu Permai",
-    "Bahaur Batu Raya"
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Bahaur Basantan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cemantan (Camatan / Cematan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Barunai (Papuyu II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kiapak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Pasanan (Papuyu I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Rungun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bahaur Hilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bahaur Tengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bahaur Hulu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sei/Sungai Pudak (Papuyu III)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjung Perawan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bahaur Hulu Permai"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bahaur Batu Raya"
+    }
   ]
 }

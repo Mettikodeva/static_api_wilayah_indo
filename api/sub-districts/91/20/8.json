@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Poiwai",
-    "Tamakuri",
-    "Bonoi",
-    "Sorabi",
-    "Rapambrei",
-    "Anasi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Poiwai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamakuri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonoi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sorabi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rapambrei"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anasi"
+    }
   ]
 }

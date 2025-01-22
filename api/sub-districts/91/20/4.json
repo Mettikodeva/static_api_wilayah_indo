@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kustra",
-    "Noyadi",
-    "Obogai",
-    "Biri",
-    "Wakeyadi",
-    "Eri",
-    "Towae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kustra"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Noyadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Obogai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Biri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wakeyadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Eri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Towae"
+    }
   ]
 }

@@ -1,25 +1,92 @@
 {
   "cities": [
-    "Kupang",
-    "Timor Tengah Selatan",
-    "Timor Tengah Utara",
-    "Belu",
-    "Alor",
-    "Flores Timur",
-    "Sikka",
-    "Ende",
-    "Ngada",
-    "Manggarai",
-    "Sumba Timur",
-    "Sumba Barat",
-    "Lembata",
-    "Rote Ndao",
-    "Manggarai Barat",
-    "Nagekeo",
-    "Sumba Tengah",
-    "Sumba Barat Daya",
-    "Manggarai Timur",
-    "Sabu Raijua",
-    "Malaka"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kupang"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Timor Tengah Selatan"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Timor Tengah Utara"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Belu"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Alor"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Flores Timur"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Sikka"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Ende"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Ngada"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Manggarai"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Sumba Timur"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Sumba Barat"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Lembata"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Rote Ndao"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Manggarai Barat"
+    },
+    {
+      "city_id": 16,
+      "kabupaten_kota": "Nagekeo"
+    },
+    {
+      "city_id": 17,
+      "kabupaten_kota": "Sumba Tengah"
+    },
+    {
+      "city_id": 18,
+      "kabupaten_kota": "Sumba Barat Daya"
+    },
+    {
+      "city_id": 19,
+      "kabupaten_kota": "Manggarai Timur"
+    },
+    {
+      "city_id": 20,
+      "kabupaten_kota": "Sabu Raijua"
+    },
+    {
+      "city_id": 21,
+      "kabupaten_kota": "Malaka"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Kupang"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Papawu",
-    "Anese",
-    "Bekenggasu",
-    "Watumokala",
-    "Mataupe",
-    "Bimamaroa",
-    "Wawobende",
-    "Lapoa Indah",
-    "Puundoho",
-    "Mataiwoi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Papawu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Anese"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bekenggasu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watumokala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mataupe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bimamaroa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wawobende"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lapoa Indah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puundoho"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mataiwoi"
+    }
   ]
 }

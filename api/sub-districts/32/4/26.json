@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Nagreg",
-    "Bojong",
-    "Ciaro",
-    "Ciherang",
-    "Citaman",
-    "Mandalawangi",
-    "Nagreg Kendan",
-    "Ganjar Sabar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nagreg"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciaro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciherang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Citaman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mandalawangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nagreg Kendan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ganjar Sabar"
+    }
   ]
 }

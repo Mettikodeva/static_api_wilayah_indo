@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kutorejo",
-    "Jogosari",
-    "Petungasri",
-    "Pandaan",
-    "Plintahan",
-    "Durensewu",
-    "Karangjati (Karang Jati)",
-    "Wedoro",
-    "Tunggulwulung (Tunggul Wulung)",
-    "Sumbergedang (Sumber Gedang)",
-    "Tawangrejo (Tawang Rejo)",
-    "Nogosari",
-    "Kebonwaris (Kebon Waris)",
-    "Sebani",
-    "Banjarsari",
-    "Banjarkejen (Banjar Kejen)",
-    "Kemirisewu (Kemiri Sewu)",
-    "Sumberrejo (Sumber Rejo)"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kutorejo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jogosari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Petungasri"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pandaan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Plintahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Durensewu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangjati (Karang Jati)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wedoro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunggulwulung (Tunggul Wulung)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumbergedang (Sumber Gedang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tawangrejo (Tawang Rejo)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nogosari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kebonwaris (Kebon Waris)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sebani"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Banjarkejen (Banjar Kejen)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kemirisewu (Kemiri Sewu)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sumberrejo (Sumber Rejo)"
+    }
   ]
 }

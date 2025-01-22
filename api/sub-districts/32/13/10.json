@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pusakaratu",
-    "Gempol",
-    "Kalentambo",
-    "Patimban",
-    "Rancadaka",
-    "Kotasari",
-    "Mundusari"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pusakaratu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gempol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalentambo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patimban"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rancadaka"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kotasari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mundusari"
+    }
   ]
 }

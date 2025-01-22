@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Genteng",
-    "Sunia",
-    "Darmalarang",
-    "Sindangpala",
-    "Banjaran",
-    "Kagok",
-    "Cimeong",
-    "Panyindangan",
-    "Kareo",
-    "Sangiang",
-    "Sunia Baru (Suniabaru)",
-    "Hegarmanah",
-    "Girimulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Genteng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sunia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Darmalarang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindangpala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kagok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cimeong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panyindangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kareo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sangiang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sunia Baru (Suniabaru)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Girimulya"
+    }
   ]
 }

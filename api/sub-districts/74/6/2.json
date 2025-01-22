@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bambaea",
-    "Puu Lemo",
-    "Teppoe",
-    "Biru",
-    "Mambo"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bambaea"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Puu Lemo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teppoe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Biru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mambo"
+    }
   ]
 }

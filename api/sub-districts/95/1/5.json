@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bolakme",
-    "Munak",
-    "Tononggame (Tenonggame)",
-    "Bandua",
-    "Lani Timur",
-    "Nunggarugum",
-    "Poitmos",
-    "Kugitero",
-    "Wenamela",
-    "Bimu",
-    "Tekani",
-    "Owagambak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bolakme"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Munak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tononggame (Tenonggame)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bandua"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lani Timur"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Nunggarugum"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Poitmos"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Kugitero"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Wenamela"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Bimu"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Tekani"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Owagambak"
+    }
   ]
 }

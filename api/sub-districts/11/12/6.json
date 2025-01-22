@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pante Rakyat",
-    "Ie Mirah",
-    "Gunung Samarinda",
-    "Alue Jeuruejak",
-    "Blang Dalam",
-    "Alue Peunawa",
-    "Pante Cermin",
-    "Blang Raja",
-    "Rukoen Dame",
-    "Simpang Gadeng",
-    "Teladan Jaya",
-    "Lhok Gayo",
-    "Alue Dawah",
-    "Cot Seumantok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pante Rakyat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ie Mirah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Samarinda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alue Jeuruejak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blang Dalam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alue Peunawa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pante Cermin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blang Raja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rukoen Dame"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Gadeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teladan Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lhok Gayo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Alue Dawah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cot Seumantok"
+    }
   ]
 }

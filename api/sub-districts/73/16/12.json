@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Baroko",
-    "Benteng Ala (Benteng Alla)",
-    "Benteng Alla Utara",
-    "Tongko",
-    "Patongloan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baroko"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benteng Ala (Benteng Alla)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benteng Alla Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tongko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patongloan"
+    }
   ]
 }

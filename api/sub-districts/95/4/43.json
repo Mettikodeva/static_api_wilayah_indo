@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bogonuk",
-    "Wisman",
-    "Paba",
-    "Ewan",
-    "Wumelak",
-    "Walelo",
-    "Laura",
-    "Talinamber",
-    "Aliduda",
-    "Andomak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bogonuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wisman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ewan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wumelak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Walelo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laura"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talinamber"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aliduda"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Andomak"
+    }
   ]
 }

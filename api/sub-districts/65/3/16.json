@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lubok Buat",
-    "Katul",
-    "Mambulu",
-    "Pagaluyon",
-    "Saduman",
-    "Tulang",
-    "Sabuluan",
-    "Pulau Keras",
-    "Liuk Bulu",
-    "Binanun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubok Buat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Katul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mambulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagaluyon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saduman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tulang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sabuluan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulau Keras"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Liuk Bulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Binanun"
+    }
   ]
 }

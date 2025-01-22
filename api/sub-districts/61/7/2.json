@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Samalantan",
-    "Sabau (Saba'u)",
-    "Tumiang",
-    "Babane",
-    "Pasti Jaya",
-    "Bukit Serayan",
-    "Marunsu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Samalantan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sabau (Saba'u)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumiang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Babane"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasti Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Serayan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marunsu"
+    }
   ]
 }

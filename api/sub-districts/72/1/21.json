@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kilongan",
-    "Kilongan Permai",
-    "Biak",
-    "Bunga",
-    "Kamumu",
-    "Salodik",
-    "Lenyek",
-    "Buon Mandiri",
-    "Boyou",
-    "Awu",
-    "Bumi Beringin"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kilongan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kilongan Permai"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bunga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kamumu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salodik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lenyek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buon Mandiri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Boyou"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Awu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumi Beringin"
+    }
   ]
 }

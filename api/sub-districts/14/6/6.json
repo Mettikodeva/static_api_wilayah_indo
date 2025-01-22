@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kota Lama",
-    "Kota Intan",
-    "Muara Dilam",
-    "Kota Raya",
-    "Kota Baru",
-    "Sungai Kuti",
-    "Pasir Indah",
-    "Pasir Luhur",
-    "Bukit Intan Makmur",
-    "Bagan Tujuh"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kota Lama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota Intan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Dilam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kota Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Kuti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasir Indah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasir Luhur"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bukit Intan Makmur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bagan Tujuh"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Alahan Panjang",
-    "Sungai Nanam",
-    "Salimpat",
-    "Aie Dingin (Aia Dingin)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alahan Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Nanam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salimpat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aie Dingin (Aia Dingin)"
+    }
   ]
 }

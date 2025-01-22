@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Bokasape",
-    "Bokasape Timur",
-    "Mbuliloo (Mbuli Loo)",
-    "Rindiwawo",
-    "Jopu",
-    "Wolokoli",
-    "Mbuliwaralau",
-    "Mbuliwaralau Utara",
-    "Lisedetu",
-    "Nualise",
-    "Wolosoko",
-    "Liselowobora (Lise Lowobora)",
-    "Likanaka",
-    "Nakambara",
-    "Niramesi (Niromesi)",
-    "Tana Lo'o",
-    "Lise Pu'u"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bokasape"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bokasape Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mbuliloo (Mbuli Loo)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rindiwawo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jopu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wolokoli"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mbuliwaralau"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mbuliwaralau Utara"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lisedetu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Nualise"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wolosoko"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Liselowobora (Lise Lowobora)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Likanaka"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Nakambara"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Niramesi (Niromesi)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tana Lo'o"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lise Pu'u"
+    }
   ]
 }

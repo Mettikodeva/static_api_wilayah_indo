@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sosor Dolok",
-    "Partungkonaginjang (Partungko Naginjang)",
-    "Hariara Pohan",
-    "Dolok Raja",
-    "Sampur Toba",
-    "Siparmahan",
-    "Turpuk Limbong",
-    "Turpuk Sagala",
-    "Turpuk Malau",
-    "Turpuk Sihotang",
-    "Janji Martahan",
-    "Hutagalung",
-    "Hariara Pintu (Hariarapintu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sosor Dolok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Partungkonaginjang (Partungko Naginjang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hariara Pohan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dolok Raja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sampur Toba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Siparmahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Turpuk Limbong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Turpuk Sagala"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Turpuk Malau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Turpuk Sihotang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Janji Martahan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hutagalung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Hariara Pintu (Hariarapintu)"
+    }
   ]
 }

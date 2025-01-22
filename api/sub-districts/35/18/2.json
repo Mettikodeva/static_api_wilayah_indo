@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kuncir",
-    "Kepel",
-    "Suru",
-    "Ngetos",
-    "Klodan",
-    "Mojoduwur",
-    "Kweden",
-    "Blongko",
-    "Oro-Oro Ombo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuncir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kepel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngetos"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klodan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mojoduwur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kweden"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blongko"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Oro-Oro Ombo"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Palasari",
-    "Cipadung",
-    "Pasir Biru (Pasirbiru)",
-    "Cisurupan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Palasari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cipadung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasir Biru (Pasirbiru)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cisurupan"
+    }
   ]
 }

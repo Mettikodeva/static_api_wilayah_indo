@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Moncong Loe (Moncongloe)",
-    "Moncong Loe Bulu (Moncongloe Bulu)",
-    "Moncong Loe Lappara (Moncongloe Lappara)",
-    "Bonto Bunga",
-    "Bonto Marannu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Moncong Loe (Moncongloe)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Moncong Loe Bulu (Moncongloe Bulu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Moncong Loe Lappara (Moncongloe Lappara)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bonto Bunga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonto Marannu"
+    }
   ]
 }

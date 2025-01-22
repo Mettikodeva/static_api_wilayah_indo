@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Jirak",
-    "Rukun Rahayu",
-    "Talang Simpang",
-    "Jembatan Gantung",
-    "Talang Mandung",
-    "Rejosari",
-    "Bangkit Jaya",
-    "Baru Jaya",
-    "Sinar Jaya",
-    "Setia Jaya",
-    "Mekar Jaya",
-    "Layan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jirak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rukun Rahayu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Simpang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jembatan Gantung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talang Mandung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangkit Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baru Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinar Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Setia Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Layan"
+    }
   ]
 }

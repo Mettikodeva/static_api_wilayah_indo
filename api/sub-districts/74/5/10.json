@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Lapuko",
-    "Amohola",
-    "Tambosupa",
-    "Marga Citta (Marga Cinta)",
-    "Moramo",
-    "Bakutara (Bakutaru)",
-    "Lakomea",
-    "Landipo",
-    "Lamboo",
-    "Pudaria Jaya",
-    "Sumber Sari",
-    "Ulusena",
-    "Penambea Barata",
-    "Wowosunggu (Wawosunggu)",
-    "Wawondengi",
-    "Watu Porambaa",
-    "Wonua Jaya",
-    "Bisikori",
-    "Ranooha Raya",
-    "Selabangga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lapuko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Amohola"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambosupa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Marga Citta (Marga Cinta)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Moramo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bakutara (Bakutaru)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lakomea"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Landipo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lamboo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pudaria Jaya"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ulusena"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Penambea Barata"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wowosunggu (Wawosunggu)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wawondengi"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Watu Porambaa"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wonua Jaya"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Bisikori"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Ranooha Raya"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Selabangga"
+    }
   ]
 }

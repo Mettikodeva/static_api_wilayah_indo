@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Penosan",
-    "Sekuelen",
-    "Akul",
-    "Gegarang",
-    "Peparik Gaib",
-    "Penosan Sepakat",
-    "Tingkem",
-    "Ketukah",
-    "Peparik Dekat",
-    "Blang Jerango"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penosan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekuelen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Akul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gegarang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peparik Gaib"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penosan Sepakat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tingkem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketukah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Peparik Dekat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Blang Jerango"
+    }
   ]
 }

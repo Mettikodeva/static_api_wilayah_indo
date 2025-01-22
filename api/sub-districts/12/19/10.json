@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Perkebunan Tanah Itam Ulu",
-    "Empat Negeri",
-    "Sumber Rejo",
-    "Lubuk Hulu",
-    "Lubuk Besar",
-    "Pulau Sejuk",
-    "Simpang Dolok",
-    "Air Hitam",
-    "Kwala Gunung",
-    "Cahaya Pardomuan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perkebunan Tanah Itam Ulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Empat Negeri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Hulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Besar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulau Sejuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang Dolok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kwala Gunung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cahaya Pardomuan"
+    }
   ]
 }

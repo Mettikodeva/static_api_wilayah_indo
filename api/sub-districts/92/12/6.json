@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Genyu",
-    "Ansum",
-    "Deurohu",
-    "Horeta",
-    "Ubeisa",
-    "Taige",
-    "Tridaga",
-    "Disura",
-    "Awigau",
-    "Siskedowo",
-    "Irbos"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Genyu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ansum"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deurohu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Horeta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ubeisa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taige"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tridaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Disura"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Awigau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siskedowo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Irbos"
+    }
   ]
 }

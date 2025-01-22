@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Beco",
-    "Yuni",
-    "Buetkawar",
-    "Manep",
-    "Simini",
-    "Fakan/Ani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beco"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yuni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buetkawar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manep"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simini"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fakan/Ani"
+    }
   ]
 }

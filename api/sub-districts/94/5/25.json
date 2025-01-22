@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Erelmakawia",
-    "Kalpamonora",
-    "Bomogin",
-    "Mamoldema",
-    "Wamagun",
-    "Amungkonin",
-    "Ipmangkop",
-    "Tamagun",
-    "Ai Arama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Erelmakawia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalpamonora"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bomogin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mamoldema"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wamagun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Amungkonin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ipmangkop"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamagun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ai Arama"
+    }
   ]
 }

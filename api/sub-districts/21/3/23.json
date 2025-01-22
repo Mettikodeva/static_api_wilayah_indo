@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Pulau Panjang",
-    "Pulau Kerdau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Kerdau"
+    }
   ]
 }

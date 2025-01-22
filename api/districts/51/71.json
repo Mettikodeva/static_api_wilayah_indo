@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Denpasar Selatan",
-    "Denpasar Timur",
-    "Denpasar Barat",
-    "Denpasar Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Denpasar Selatan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Denpasar Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Denpasar Barat"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Denpasar Utara"
+    }
   ]
 }

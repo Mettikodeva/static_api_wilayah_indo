@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Urai",
-    "Pasar Ketahun",
-    "Giri Kencana",
-    "Kualalangi (Kuala Langi/Lelangi)",
-    "Dusun Raja",
-    "Lubuk Mindai",
-    "Fajar Baru",
-    "Talang Baru",
-    "Melati Harjo",
-    "Bukit Indah",
-    "Bukit Tinggi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Urai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasar Ketahun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Giri Kencana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kualalangi (Kuala Langi/Lelangi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dusun Raja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lubuk Mindai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Fajar Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talang Baru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Melati Harjo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bukit Indah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bukit Tinggi"
+    }
   ]
 }

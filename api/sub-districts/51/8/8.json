@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tambakan",
-    "Pakisan",
-    "Bontihing",
-    "Tajun",
-    "Tunjung",
-    "Depeha",
-    "Tamblang",
-    "Bulian",
-    "Bila",
-    "Bengkala",
-    "Kubutambahan",
-    "Bukti",
-    "Mengening"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pakisan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bontihing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tajun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Depeha"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamblang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bila"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bengkala"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kubutambahan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukti"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mengening"
+    }
   ]
 }

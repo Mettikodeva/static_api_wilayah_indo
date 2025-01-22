@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cigugur",
-    "Cimindi",
-    "Pagerbumi",
-    "Kertajaya",
-    "Bunisari",
-    "Campaka",
-    "Harumandala (Harum Mandala)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cigugur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimindi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagerbumi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bunisari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Campaka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Harumandala (Harum Mandala)"
+    }
   ]
 }

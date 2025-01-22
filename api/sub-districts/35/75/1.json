@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Karangketug",
-    "Gentong",
-    "Sebani",
-    "Petahunan",
-    "Bukir",
-    "Randusari",
-    "Krapyakrejo",
-    "Gadingrejo'an (Gadingrejo)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karangketug"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gentong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sebani"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Petahunan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bukir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Randusari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Krapyakrejo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gadingrejo'an (Gadingrejo)"
+    }
   ]
 }

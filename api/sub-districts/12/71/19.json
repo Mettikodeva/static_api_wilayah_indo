@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Petisah Tengah",
-    "Sekip",
-    "Sei Sikambing D",
-    "Sei Putih Barat",
-    "Sei Putih Tengah",
-    "Sei Putih Timur I",
-    "Sei Putih Timur II"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Petisah Tengah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sekip"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sei Sikambing D"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sei Putih Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei Putih Tengah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sei Putih Timur I"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sei Putih Timur II"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bontobulaeng",
-    "Bontobaru",
-    "Bontomaling (Bontomalling)",
-    "Lembangbaji (Lembang Baji)",
-    "Bontojati",
-    "Ujung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bontobulaeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bontobaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bontomaling (Bontomalling)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lembangbaji (Lembang Baji)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bontojati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujung"
+    }
   ]
 }

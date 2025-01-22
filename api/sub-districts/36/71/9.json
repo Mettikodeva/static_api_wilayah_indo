@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cibodas",
-    "Cibodasari (Cibodas Sari)",
-    "Cibodas Baru",
-    "Panunggangan Barat",
-    "Uwung Jaya",
-    "Jatiuwung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cibodasari (Cibodas Sari)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cibodas Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panunggangan Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Uwung Jaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jatiuwung"
+    }
   ]
 }

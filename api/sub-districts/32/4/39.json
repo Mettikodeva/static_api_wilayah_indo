@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lebakmuncang",
-    "Ciwidey",
-    "Nengkelan",
-    "Panundaan",
-    "Panyocokan",
-    "Rawabogo",
-    "Sukawening"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebakmuncang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciwidey"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nengkelan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panundaan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panyocokan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawabogo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukawening"
+    }
   ]
 }

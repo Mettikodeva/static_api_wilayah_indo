@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pelem",
-    "Bendungan",
-    "Temon",
-    "Teter",
-    "Simo",
-    "Walen",
-    "Pentur",
-    "Gunung",
-    "Talakbroto",
-    "Kedunglengkong (Kedung Lengkong)",
-    "Blagung",
-    "Sumber",
-    "Wates"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bendungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Temon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teter"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Walen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pentur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talakbroto"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedunglengkong (Kedung Lengkong)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Blagung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wates"
+    }
   ]
 }

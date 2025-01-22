@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Labangka",
-    "Sekokat",
-    "Suka Mulya",
-    "Suka Damai",
-    "Jaya Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labangka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekokat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jaya Makmur"
+    }
   ]
 }

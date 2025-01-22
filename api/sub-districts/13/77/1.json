@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Karan Aur",
-    "Kampung Perak",
-    "Lohong",
-    "Pasir",
-    "Kampung Pondok",
-    "Pondok II (Kampung Pondok II)",
-    "Kampung Jawa I",
-    "Kampung Jawa II",
-    "Alai Gelombang (Alai Galombang)",
-    "Jawi-Jawi I",
-    "Jawi-Jawi II",
-    "Jalan Baru",
-    "Taratak",
-    "Jalan Kereta Api",
-    "Ujung Batung (Ujuang Batuang)",
-    "Jati Hilir (Jalan Hilia)",
-    "Pauah/Pauh Barat",
-    "Pauah/Pauh Timur",
-    "Rawang",
-    "Kampung/Kampuang Baru",
-    "Cimparuh (Cimparuah)",
-    "Jati Mudik / Mudiak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karan Aur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kampung Perak"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lohong"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Pondok"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pondok II (Kampung Pondok II)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kampung Jawa I"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kampung Jawa II"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Alai Gelombang (Alai Galombang)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Jawi-Jawi I"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Jawi-Jawi II"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Jalan Baru"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Taratak"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Jalan Kereta Api"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Ujung Batung (Ujuang Batuang)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Jati Hilir (Jalan Hilia)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pauah/Pauh Barat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pauah/Pauh Timur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Rawang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kampung/Kampuang Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cimparuh (Cimparuah)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Jati Mudik / Mudiak"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Wejim Barat",
-    "Wejim Timur",
-    "Satukurano",
-    "Pulau Tikus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wejim Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wejim Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Satukurano"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulau Tikus"
+    }
   ]
 }

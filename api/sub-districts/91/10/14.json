@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Arare",
-    "Wakde",
-    "Timron/Keder",
-    "Dabe",
-    "Nengke",
-    "Finyabor (Vinyabor)",
-    "Tambrawar (Tabrawar)",
-    "Keder Lama",
-    "Finyabor Dua",
-    "Dabe Dua (Dabe II)",
-    "Nengke Dua (Nengke II / Nengke Baru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arare"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wakde"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timron/Keder"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dabe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nengke"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Finyabor (Vinyabor)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tambrawar (Tabrawar)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Keder Lama"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Finyabor Dua"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dabe Dua (Dabe II)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nengke Dua (Nengke II / Nengke Baru)"
+    }
   ]
 }

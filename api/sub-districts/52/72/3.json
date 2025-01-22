@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Melayu",
-    "Jatiwangi",
-    "Jatibaru",
-    "Kolo",
-    "Jaibaru Timur",
-    "Ole"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Melayu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jatiwangi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jatibaru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kolo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jaibaru Timur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Ole"
+    }
   ]
 }

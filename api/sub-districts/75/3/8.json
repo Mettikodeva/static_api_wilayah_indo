@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Huangobotu",
-    "Molotabu (Molutabu)",
-    "Oluhuta",
-    "Olele",
-    "Botutonuo (Botutonua)",
-    "Modelomo",
-    "Biluango",
-    "Botubarani",
-    "Bintalahe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Huangobotu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Molotabu (Molutabu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oluhuta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Olele"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Botutonuo (Botutonua)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Modelomo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Biluango"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Botubarani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bintalahe"
+    }
   ]
 }

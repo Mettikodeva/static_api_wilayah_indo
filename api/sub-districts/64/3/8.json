@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Biduk-Biduk",
-    "Pantai Harapan",
-    "Tanjung Prepat (Tanjung Perepat)",
-    "Teluk Sumbang",
-    "Teluk Sulaiman",
-    "Giring-Giring"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biduk-Biduk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pantai Harapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Prepat (Tanjung Perepat)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Sumbang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Sulaiman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Giring-Giring"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bojongmanik",
-    "Harjawana",
-    "Kadurahayu",
-    "Cimayang",
-    "Parakanbeusi",
-    "Keboncau",
-    "Mekarmanik",
-    "Mekar Rahayu",
-    "Pasirbitung"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojongmanik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Harjawana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kadurahayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cimayang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Parakanbeusi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Keboncau"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekarmanik"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mekar Rahayu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pasirbitung"
+    }
   ]
 }

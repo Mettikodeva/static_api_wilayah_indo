@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lenek",
-    "Lenek Lauk",
-    "Lenek Daya",
-    "Lenek Baru",
-    "Lenek Kali Bambang",
-    "Lenek Pasiraman",
-    "Lenek Ramban Biak",
-    "Lenek Duren",
-    "Sukarema",
-    "Kalijaga Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lenek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lenek Lauk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lenek Daya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lenek Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lenek Kali Bambang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lenek Pasiraman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lenek Ramban Biak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lenek Duren"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukarema"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalijaga Baru"
+    }
   ]
 }

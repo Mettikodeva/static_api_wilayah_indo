@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Muara Kilis",
-    "Penapalan",
-    "Mengupeh",
-    "Rantau Api",
-    "Lubuk Mandarsah (Lubuk Mandarasah)",
-    "Lubuk Mandrasah Ulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Kilis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Penapalan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mengupeh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Api"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Mandarsah (Lubuk Mandarasah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Mandrasah Ulu"
+    }
   ]
 }

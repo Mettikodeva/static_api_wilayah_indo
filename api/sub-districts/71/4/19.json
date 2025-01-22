@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sambuara Satu",
-    "Sambuara",
-    "Ensem",
-    "Ensem I (Ensem Timur)",
-    "Batumbalango",
-    "Ambia",
-    "Ambia Utara",
-    "Kuma",
-    "Kuma Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sambuara Satu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambuara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ensem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ensem I (Ensem Timur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batumbalango"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ambia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ambia Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuma"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuma Selatan"
+    }
   ]
 }

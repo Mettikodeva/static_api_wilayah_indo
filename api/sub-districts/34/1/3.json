@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Garongan",
-    "Pleret",
-    "Bugel",
-    "Kanoman",
-    "Depok",
-    "Bojong",
-    "Tayuban",
-    "Gotakan",
-    "Panjatan",
-    "Cerme",
-    "Krembangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Garongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pleret"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bugel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kanoman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tayuban"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gotakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panjatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cerme"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Krembangan"
+    }
   ]
 }

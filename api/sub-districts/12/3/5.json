@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pasar Sipagimbar",
-    "Aek Simotung",
-    "Simangambat",
-    "Sidapdap Simanosor",
-    "Saut Banua Simanosor",
-    "Damparan Haunatas",
-    "Somba Debata Purba",
-    "Padang Mandailing Garugur",
-    "Ulu Mamis Situnggaling",
-    "Parau Sorat Sitabo Tabo",
-    "Pintu Padang Mandalasena",
-    "Sunge Sigiring Giring",
-    "Silangkitang Tambiski",
-    "Batang Parsuluman"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Sipagimbar"
+    },
+    {
+      "sub_district_id": 1080,
+      "desa_kelurahan": "Aek Simotung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Simangambat"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Sidapdap Simanosor"
+    },
+    {
+      "sub_district_id": 2070,
+      "desa_kelurahan": "Saut Banua Simanosor"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Damparan Haunatas"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Somba Debata Purba"
+    },
+    {
+      "sub_district_id": 2073,
+      "desa_kelurahan": "Padang Mandailing Garugur"
+    },
+    {
+      "sub_district_id": 2074,
+      "desa_kelurahan": "Ulu Mamis Situnggaling"
+    },
+    {
+      "sub_district_id": 2075,
+      "desa_kelurahan": "Parau Sorat Sitabo Tabo"
+    },
+    {
+      "sub_district_id": 2076,
+      "desa_kelurahan": "Pintu Padang Mandalasena"
+    },
+    {
+      "sub_district_id": 2077,
+      "desa_kelurahan": "Sunge Sigiring Giring"
+    },
+    {
+      "sub_district_id": 2078,
+      "desa_kelurahan": "Silangkitang Tambiski"
+    },
+    {
+      "sub_district_id": 2079,
+      "desa_kelurahan": "Batang Parsuluman"
+    }
   ]
 }

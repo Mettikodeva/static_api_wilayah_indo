@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sono",
-    "Tempelrejo",
-    "Trombol",
-    "Pare",
-    "Jekani",
-    "Kedawung",
-    "Jambangan",
-    "Gemantar",
-    "Sumberejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sono"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tempelrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Trombol"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pare"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jekani"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jambangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gemantar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberejo"
+    }
   ]
 }

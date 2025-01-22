@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pompanua",
-    "Pompanua Riattang (Salewangeng)",
-    "Welado",
-    "Pinceng Pute",
-    "Opo",
-    "Labissa",
-    "Timurung",
-    "Leppangeng",
-    "Allamungeng Patue",
-    "Amessangeng",
-    "Lebbae",
-    "Manciri",
-    "Telle",
-    "Pacciro"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pompanua"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pompanua Riattang (Salewangeng)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Welado"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pinceng Pute"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Opo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labissa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timurung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leppangeng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Allamungeng Patue"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Amessangeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lebbae"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Manciri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Telle"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pacciro"
+    }
   ]
 }

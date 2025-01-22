@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Perhentian Sungkai",
-    "Ibul",
-    "Muarapetai",
-    "Pangkalan",
-    "Sungaibesar",
-    "Setiang",
-    "Muaro Tiu Makmur",
-    "Muaratobek",
-    "Sungaibesar Hilir",
-    "Kampung Baru Ibul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perhentian Sungkai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ibul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muarapetai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaibesar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Setiang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muaro Tiu Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muaratobek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungaibesar Hilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kampung Baru Ibul"
+    }
   ]
 }

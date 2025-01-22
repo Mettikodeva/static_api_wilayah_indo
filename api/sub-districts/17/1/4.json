@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kayu Kunyit",
-    "Tanjung Raman",
-    "Tanjung Besar",
-    "Manggul",
-    "Terulung",
-    "Ketaping",
-    "Lubuk Sirih Ulu",
-    "Lubuk Sirih Ilir",
-    "Kota Padang",
-    "Mela'o (Melao)",
-    "Gunung Sakti",
-    "Jeranglah Rendah",
-    "Jeranglah Tinggi",
-    "Kembang Ayun",
-    "Tambangan",
-    "Padang Manis",
-    "Padang Pandan",
-    "Gunung Kembang"
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Kayu Kunyit"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Raman"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanjung Besar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Manggul"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Terulung"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ketaping"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lubuk Sirih Ulu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lubuk Sirih Ilir"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kota Padang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Mela'o (Melao)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Gunung Sakti"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Jeranglah Rendah"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Jeranglah Tinggi"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kembang Ayun"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Tambangan"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Padang Manis"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Padang Pandan"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Gunung Kembang"
+    }
   ]
 }

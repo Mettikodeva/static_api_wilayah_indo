@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Teluk Binjai",
-    "Tanjung Palas",
-    "Jaya Mukti",
-    "Buluh Kasap",
-    "Bukit Batrem"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Teluk Binjai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Palas"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jaya Mukti"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Buluh Kasap"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bukit Batrem"
+    }
   ]
 }

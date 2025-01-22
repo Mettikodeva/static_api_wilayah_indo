@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Teiraplu",
-    "Sinami / Sinani (Yuaban)",
-    "Maigame",
-    "Murme",
-    "Yuaban Satu",
-    "Yuaban Dua",
-    "Terapdei",
-    "Yitarget",
-    "Teriame",
-    "Bautme"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teiraplu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sinami / Sinani (Yuaban)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maigame"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Murme"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yuaban Satu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yuaban Dua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terapdei"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yitarget"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teriame"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bautme"
+    }
   ]
 }

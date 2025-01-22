@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Batulayar (Batu Layar)",
-    "Meninting",
-    "Sandik",
-    "Lembah Sari",
-    "Senteluk",
-    "Senggigi",
-    "Bengkaung",
-    "Pusuk Lestari",
-    "Batu Layar Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batulayar (Batu Layar)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meninting"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sandik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lembah Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Senteluk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senggigi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bengkaung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pusuk Lestari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Layar Barat"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sambiroto",
-    "Gebangkerep (Gebang Kerep)",
-    "Baron",
-    "Waung",
-    "Kemlokolegi",
-    "Kemaduh",
-    "Garu",
-    "Jekek",
-    "Katerban",
-    "Mabung",
-    "Jambi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sambiroto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gebangkerep (Gebang Kerep)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baron"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemlokolegi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kemaduh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Garu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jekek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Katerban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mabung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jambi"
+    }
   ]
 }

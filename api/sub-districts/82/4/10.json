@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Malapat",
-    "Bobawae",
-    "Ombawa",
-    "Tegono",
-    "Mateketen",
-    "Talapaon",
-    "Sebelei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malapat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bobawae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ombawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegono"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mateketen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talapaon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sebelei"
+    }
   ]
 }

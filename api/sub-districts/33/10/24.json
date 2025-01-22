@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Barenglor (Bareng Lor)",
-    "Gergunung",
-    "Sekarsuli",
-    "Karanganom",
-    "Ketandan",
-    "Belangwetan (Belang Wetan)",
-    "Jonggrangan",
-    "Jebugan"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Barenglor (Bareng Lor)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gergunung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekarsuli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanganom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ketandan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Belangwetan (Belang Wetan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jonggrangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jebugan"
+    }
   ]
 }

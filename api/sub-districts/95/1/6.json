@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Walelagama",
-    "Pugima",
-    "Itlay Halitopo",
-    "Kubulakma",
-    "Kulaken",
-    "Wamusage"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Walelagama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pugima"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Itlay Halitopo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kubulakma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kulaken"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wamusage"
+    }
   ]
 }

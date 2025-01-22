@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batu-Batu",
-    "Kaca",
-    "Attang Salo",
-    "Manorang Salo",
-    "Limpomajang",
-    "Bulue",
-    "Panincong",
-    "Patampanua",
-    "Tellulimpoe",
-    "Laringgi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batu-Batu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kaca"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Attang Salo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Manorang Salo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Limpomajang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulue"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panincong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patampanua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tellulimpoe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Laringgi"
+    }
   ]
 }

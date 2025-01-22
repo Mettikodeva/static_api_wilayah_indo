@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kawasen",
-    "Cicapar",
-    "Cibadak",
-    "Banjarsari",
-    "Sindanghayu",
-    "Sindangasih",
-    "Sindangsari",
-    "Ciherang",
-    "Purwasari",
-    "Ratawangi",
-    "Ciulu",
-    "Sukasari"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kawasen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cicapar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sindanghayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sindangasih"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ciherang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Purwasari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ratawangi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ciulu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sukasari"
+    }
   ]
 }

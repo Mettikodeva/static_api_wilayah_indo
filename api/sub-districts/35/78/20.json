@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Wiyung",
-    "Jajar Tunggal (Jajartunggal)",
-    "Babatan",
-    "Balas Klumprik"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wiyung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jajar Tunggal (Jajartunggal)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Babatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Balas Klumprik"
+    }
   ]
 }

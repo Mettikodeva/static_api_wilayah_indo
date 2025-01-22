@@ -1,10 +1,36 @@
 {
   "cities": [
-    "Pandeglang",
-    "Lebak",
-    "Tangerang",
-    "Serang",
-    "Cilegon",
-    "Tangerang Selatan"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Pandeglang"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Lebak"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Tangerang"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Serang"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Tangerang"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Cilegon"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Serang"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Tangerang Selatan"
+    }
   ]
 }

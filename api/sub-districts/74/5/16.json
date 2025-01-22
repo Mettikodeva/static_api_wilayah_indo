@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lalowaru",
-    "Puasana",
-    "Tanjung Tiram",
-    "Wawatu",
-    "Sanggula",
-    "Lombueya (Lombuea)",
-    "Mekar Jaya",
-    "Lamokula",
-    "Mata Watu-Watu",
-    "Mata Lamokula"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lalowaru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puasana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Tiram"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wawatu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sanggula"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lombueya (Lombuea)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamokula"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mata Watu-Watu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mata Lamokula"
+    }
   ]
 }

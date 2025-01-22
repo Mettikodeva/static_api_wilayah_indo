@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tebisaq",
-    "Kaliq",
-    "Tanah Mea (Tana Mea)",
-    "Sang Sang (Sansang)",
-    "Muhur",
-    "Muara Kelawit",
-    "Bentas",
-    "Betung",
-    "Kiaq",
-    "Tendiq",
-    "Penawang",
-    "Lendian Liang Nayuq (Nayuk / Nayung)",
-    "Kenyanyan",
-    "Rikong",
-    "Kendisiq",
-    "Muara Ponaq"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tebisaq"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaliq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanah Mea (Tana Mea)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sang Sang (Sansang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muhur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Kelawit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bentas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kiaq"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tendiq"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Penawang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lendian Liang Nayuq (Nayuk / Nayung)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kenyanyan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rikong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kendisiq"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Muara Ponaq"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Durian Luncuk",
-    "Muara Jangga",
-    "Jelutih",
-    "Olak Besar",
-    "Aur Gading",
-    "Paku Aji",
-    "Hajran",
-    "Mata Gual",
-    "Jangga",
-    "Koto Boyo",
-    "Simpang Karmeo",
-    "Karmeo",
-    "Jangga Baru",
-    "Terentang Baru",
-    "Bulian Baru",
-    "Simpang Jelutih",
-    "Simpang Aur Gading"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Durian Luncuk"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Muara Jangga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jelutih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Olak Besar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aur Gading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paku Aji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hajran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mata Gual"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jangga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Koto Boyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Karmeo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karmeo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jangga Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Terentang Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bulian Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Simpang Jelutih"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Simpang Aur Gading"
+    }
   ]
 }

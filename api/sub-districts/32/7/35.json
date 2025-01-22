@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bantardawa",
-    "Purwadadi",
-    "Purwajaya",
-    "Karangpaningal",
-    "Sidarahayu",
-    "Padaringan",
-    "Pasirlawang",
-    "Kutawaringin",
-    "Sukamulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bantardawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purwadadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwajaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangpaningal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidarahayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padaringan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasirlawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kutawaringin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukamulya"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Yomoth",
-    "Uwus",
-    "Asuwetsy",
-    "Bismam",
-    "Bis Agats",
-    "Per",
-    "Beriten",
-    "Mbait",
-    "Bou",
-    "Saw",
-    "Kaye",
-    "Suwru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yomoth"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uwus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asuwetsy"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bismam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bis Agats"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Per"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beriten"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mbait"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bou"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saw"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kaye"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suwru"
+    }
   ]
 }

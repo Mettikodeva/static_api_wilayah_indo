@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Batuatas Liwu",
-    "Batuatas Barat",
-    "Wacuala",
-    "Batu Atas Timur (Batuatas Timur)",
-    "Tolando Jaya",
-    "Taduasa",
-    "Wambongi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batuatas Liwu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batuatas Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wacuala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Atas Timur (Batuatas Timur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tolando Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taduasa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wambongi"
+    }
   ]
 }

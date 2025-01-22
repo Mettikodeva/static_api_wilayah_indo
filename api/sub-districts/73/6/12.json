@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Benteng Somba Opu",
-    "Lembang Parang (Lembangparang)",
-    "Kanjilo",
-    "Moncobalang",
-    "Tinggimae",
-    "Biringala",
-    "Tamanyeleng (Tamannyeleng)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Benteng Somba Opu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lembang Parang (Lembangparang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kanjilo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Moncobalang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tinggimae"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Biringala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamanyeleng (Tamannyeleng)"
+    }
   ]
 }

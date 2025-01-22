@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Penjaringan",
-    "Kamal Muara",
-    "Kapuk Muara",
-    "Pejagalan",
-    "Pluit"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Penjaringan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kamal Muara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kapuk Muara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pejagalan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pluit"
+    }
   ]
 }

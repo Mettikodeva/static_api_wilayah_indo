@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Blambangan Umpu",
-    "Kasui",
-    "Banjit",
-    "Baradatu",
-    "Bahuga",
-    "Pakuan Ratu",
-    "Negeri Agung",
-    "Way Tuba",
-    "Rebang Tangkas",
-    "Gunung Labuhan",
-    "Negara Batin",
-    "Negeri Besar",
-    "Buay Bahuga",
-    "Bumi Agung",
-    "Umpu Semenguk"
+    {
+      "district_id": 1,
+      "kecamatan": "Blambangan Umpu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kasui"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Banjit"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Baradatu"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bahuga"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pakuan Ratu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Negeri Agung"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Way Tuba"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Rebang Tangkas"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Gunung Labuhan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Negara Batin"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Negeri Besar"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Buay Bahuga"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bumi Agung"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Umpu Semenguk"
+    }
   ]
 }

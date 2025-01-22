@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Cengkareng",
-    "Grogol Petamburan",
-    "Taman Sari",
-    "Tambora",
-    "Kebon Jeruk",
-    "Kalideres",
-    "Pal Merah (Palmerah)",
-    "Kembangan"
+    {
+      "district_id": 1,
+      "kecamatan": "Cengkareng"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Grogol Petamburan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Taman Sari"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tambora"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kebon Jeruk"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kalideres"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pal Merah (Palmerah)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kembangan"
+    }
   ]
 }

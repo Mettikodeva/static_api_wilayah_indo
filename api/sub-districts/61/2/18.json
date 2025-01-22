@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pulau Pedalaman",
-    "Pasir Wan Salim",
-    "Antibar",
-    "Sejegi",
-    "Pasir Palembang",
-    "Pasir Panjang",
-    "Sei/Sungai Bakau Kecil",
-    "Parit Banjar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulau Pedalaman"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasir Wan Salim"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Antibar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sejegi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasir Palembang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir Panjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Bakau Kecil"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parit Banjar"
+    }
   ]
 }

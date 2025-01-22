@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Heuleut",
-    "Kadipaten",
-    "Babakananyar (Babakan Anyar)",
-    "Karangsambung",
-    "Liangjulang",
-    "Pagandon",
-    "Cipaku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Heuleut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kadipaten"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Babakananyar (Babakan Anyar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangsambung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Liangjulang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagandon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cipaku"
+    }
   ]
 }

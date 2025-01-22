@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Payung",
-    "Malik",
-    "Sengir",
-    "Pangkal Buluh (Pangkalbuluh)",
-    "Irat",
-    "Bedengung",
-    "Nadung",
-    "Ranggung",
-    "Paku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Payung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sengir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangkal Buluh (Pangkalbuluh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Irat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bedengung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nadung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ranggung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paku"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tiong Keranji (Tiong Keranjik)",
-    "Nanga Tikan",
-    "Beloyang",
-    "Nanga Raya",
-    "Junjung Permai",
-    "Keberak (Nanga Keberak)",
-    "Piawas",
-    "Kayu Bunga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tiong Keranji (Tiong Keranjik)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanga Tikan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beloyang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nanga Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Junjung Permai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keberak (Nanga Keberak)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Piawas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kayu Bunga"
+    }
   ]
 }

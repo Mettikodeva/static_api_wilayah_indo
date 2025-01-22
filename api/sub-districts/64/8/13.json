@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Teluk Pandan",
-    "Suka Rahmat",
-    "Suka Damai",
-    "Kandolo",
-    "Danau Redan",
-    "Martadinata"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Pandan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suka Rahmat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kandolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Danau Redan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Martadinata"
+    }
   ]
 }

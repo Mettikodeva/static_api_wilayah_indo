@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sungai Bakau (Sei Bakau)",
-    "Maluka Baulin (Maluka Bualin)",
-    "Bawah Layung",
-    "Tambak Sarinan/Sarinah",
-    "Kali Besar",
-    "Handil Negara",
-    "Padang Luas",
-    "Kurau",
-    "Tambak Karya",
-    "Raden",
-    "Sarikandi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Bakau (Sei Bakau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maluka Baulin (Maluka Bualin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bawah Layung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambak Sarinan/Sarinah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kali Besar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Handil Negara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padang Luas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kurau"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tambak Karya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Raden"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sarikandi"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Rantau Panjang Kiri",
-    "Teluknilap (Teluk Nilap)",
-    "Sungaimajo (Sei / Sungai Majo)",
-    "Sungaipinang (Sei / Sungai Pinang)",
-    "Sungaipanji-panji (Sei / Sungai Panji Panji)",
-    "Jojol",
-    "Pulauhalang Muka (Pulau Halang Muka)",
-    "Pulauhalang Belakang (Pulau Halang Belakang)",
-    "Rantau Panjang Kiri Hilir",
-    "Teluknilap Jaya (Teluk Nilap Jaya)",
-    "Sungaimajo Pusako",
-    "Pulauhalang Hulu (Pulau Halang Hulu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantau Panjang Kiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluknilap (Teluk Nilap)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaimajo (Sei / Sungai Majo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungaipinang (Sei / Sungai Pinang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaipanji-panji (Sei / Sungai Panji Panji)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jojol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulauhalang Muka (Pulau Halang Muka)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulauhalang Belakang (Pulau Halang Belakang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Panjang Kiri Hilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluknilap Jaya (Teluk Nilap Jaya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungaimajo Pusako"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pulauhalang Hulu (Pulau Halang Hulu)"
+    }
   ]
 }

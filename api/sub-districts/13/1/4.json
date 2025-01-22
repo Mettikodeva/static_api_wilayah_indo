@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "IV Koto Hilie",
-    "IV Koto Mudiek",
-    "Taluak",
-    "Koto Nan Duo IV Koto Hilie",
-    "Koto Nan Tigo IV Koto Hilie",
-    "Teratak Tempatih IV Koto Mudiek",
-    "Tuik IV Koto Mudiek",
-    "Sungai Nyalo IV Koto Mudiek (Sungainyalo)",
-    "Taluk Tigo Sakato"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "IV Koto Hilie"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "IV Koto Mudiek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taluak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koto Nan Duo IV Koto Hilie"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Nan Tigo IV Koto Hilie"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teratak Tempatih IV Koto Mudiek"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tuik IV Koto Mudiek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Nyalo IV Koto Mudiek (Sungainyalo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taluk Tigo Sakato"
+    }
   ]
 }

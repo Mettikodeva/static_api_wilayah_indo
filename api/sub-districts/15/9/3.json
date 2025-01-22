@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pulautemiang (Pulau Temiang)",
-    "Sungai Rambai",
-    "Pagar Puding",
-    "Teluk Kembang Jambu",
-    "Teluk Kasai Rambahan",
-    "Rantau Langkap",
-    "Tanjung Aur",
-    "Bungo Tanjung",
-    "Pulau Panjang",
-    "Lubuk Benteng",
-    "Teluk Kuali",
-    "Melako Intan (Malako Intan)",
-    "Jambu",
-    "Pulau Jelmu",
-    "Medan Seri Rambahan",
-    "Ulak Banjir Rambahan",
-    "Teluk Pandan Rambahan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulautemiang (Pulau Temiang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Rambai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Puding"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Kembang Jambu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Kasai Rambahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Langkap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Aur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bungo Tanjung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubuk Benteng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teluk Kuali"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Melako Intan (Malako Intan)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pulau Jelmu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Medan Seri Rambahan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ulak Banjir Rambahan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Teluk Pandan Rambahan"
+    }
   ]
 }

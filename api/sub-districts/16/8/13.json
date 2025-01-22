@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Banding Agung",
-    "Nikan",
-    "Surabaya",
-    "Wana Bakti",
-    "Batu Marta VI (Batumarta VI)",
-    "Karya Makmur",
-    "Bina Amarta",
-    "Suka Damai",
-    "Batu Marta X (Batumarta X)",
-    "Marta V Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banding Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nikan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Surabaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wana Bakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Marta VI (Batumarta VI)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karya Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bina Amarta"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Marta X (Batumarta X)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Marta V Jaya"
+    }
   ]
 }

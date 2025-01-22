@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ngasinan",
-    "Kutu Kulon",
-    "Kutu Wetan",
-    "Kradenan (Kradinan)",
-    "Mojomati",
-    "Coper",
-    "Mojorejo",
-    "Karanggebang",
-    "Jetis",
-    "Tegalsari",
-    "Wonoketro",
-    "Josari",
-    "Turi",
-    "Winong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngasinan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kutu Kulon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kutu Wetan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kradenan (Kradinan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mojomati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Coper"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mojorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karanggebang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonoketro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Josari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Turi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Winong"
+    }
   ]
 }

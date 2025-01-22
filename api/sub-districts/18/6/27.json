@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sukarama (Sukamara)",
-    "Sukanegara (Suka Negeri)",
-    "Banjar Masin",
-    "Suka Agung Barat",
-    "Suka Agung (Suka Agung Timur)",
-    "Gunung Terang",
-    "Napal",
-    "Sinar Petir (Sinarpetir)",
-    "Pematang Nebak",
-    "Tanjung Sari (Tanjungsari)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukarama (Sukamara)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukanegara (Suka Negeri)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjar Masin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Agung Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Agung (Suka Agung Timur)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Terang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Napal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinar Petir (Sinarpetir)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pematang Nebak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Sari (Tanjungsari)"
+    }
   ]
 }

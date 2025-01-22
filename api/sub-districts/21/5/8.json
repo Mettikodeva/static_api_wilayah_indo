@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Mubur",
-    "Piasan",
-    "Bayat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mubur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Piasan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bayat"
+    }
   ]
 }

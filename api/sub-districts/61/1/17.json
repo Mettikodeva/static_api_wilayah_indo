@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tangaran",
-    "Simpang Empat",
-    "Merabuan",
-    "Semata",
-    "Merpati",
-    "Pancur",
-    "Arung Parak",
-    "Arung Medang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tangaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Merabuan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Semata"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Merpati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pancur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Arung Parak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Arung Medang"
+    }
   ]
 }

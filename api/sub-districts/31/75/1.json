@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pisangan Baru",
-    "Utan Kayu Utara",
-    "Kayu Manis",
-    "Palmeriam (Pal Meriam)",
-    "Kebon Manggis",
-    "Utan Kayu Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pisangan Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Utan Kayu Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kayu Manis"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Palmeriam (Pal Meriam)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebon Manggis"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Utan Kayu Selatan"
+    }
   ]
 }

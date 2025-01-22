@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Enggal",
-    "Pelita",
-    "Tanjungkarang (Tanjung Karang)",
-    "Gunungsari (Gunung Sari)",
-    "Rawalaut (Rawa Laut)",
-    "Pahoman"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Enggal"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pelita"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjungkarang (Tanjung Karang)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gunungsari (Gunung Sari)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rawalaut (Rawa Laut)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pahoman"
+    }
   ]
 }

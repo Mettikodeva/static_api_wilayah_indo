@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wuna",
-    "Lafinde",
-    "Waulai",
-    "Walelei",
-    "Sawerigadi",
-    "Bungkolo",
-    "Barangka",
-    "Lapolea"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wuna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lafinde"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waulai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Walelei"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sawerigadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bungkolo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Barangka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lapolea"
+    }
   ]
 }

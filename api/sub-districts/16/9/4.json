@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Lawang Agung",
-    "Bayur Tengah",
-    "Tanjung Tebat",
-    "Sugihan",
-    "Penyandingan",
-    "Alun Dua",
-    "Bandar Alam Baru",
-    "Dusun Tengah",
-    "Ulak Agung Ilir",
-    "Gunung Gare",
-    "Ulak Agung Ulu",
-    "Muaradua Kisam (Muara Dua Kisam)",
-    "Sukananti",
-    "Pagar Dewa",
-    "Tanjung Beringin",
-    "Panantian (Penantian)",
-    "Sukaraja",
-    "Simpang Lubuk Dalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lawang Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bayur Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Tebat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sugihan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alun Dua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandar Alam Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dusun Tengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulak Agung Ilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Gare"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ulak Agung Ulu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Muaradua Kisam (Muara Dua Kisam)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sukananti"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Panantian (Penantian)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Simpang Lubuk Dalam"
+    }
   ]
 }

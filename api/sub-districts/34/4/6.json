@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sinduadi",
-    "Sendangadi",
-    "Tlogoadi",
-    "Tirtoadi",
-    "Sumberadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sinduadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sendangadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tlogoadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tirtoadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberadi"
+    }
   ]
 }

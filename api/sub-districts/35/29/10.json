@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bataal Barat",
-    "Bataal Timur",
-    "Rombiya Barat",
-    "Rombiya Timur",
-    "Talaga",
-    "Billapora Barat (Bilapora Barat)",
-    "Billapora Timur (Bilapora Timur)",
-    "Ganding",
-    "Gadu Timur",
-    "Gadu Barat",
-    "Ketawang Larangan",
-    "Ketawang Parebaan",
-    "Ketawang Daleman",
-    "Ketawang Karay"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bataal Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bataal Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rombiya Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rombiya Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talaga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Billapora Barat (Bilapora Barat)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Billapora Timur (Bilapora Timur)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ganding"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gadu Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gadu Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketawang Larangan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ketawang Parebaan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ketawang Daleman"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ketawang Karay"
+    }
   ]
 }

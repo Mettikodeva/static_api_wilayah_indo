@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Guwoterus",
-    "Nguluhan",
-    "Tanggulangin",
-    "Manjung",
-    "Talangkembar",
-    "Montongsekar",
-    "Pakel",
-    "Sumurgung",
-    "Bringin",
-    "Pucangan",
-    "Maindu",
-    "Jetak",
-    "Talun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Guwoterus"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nguluhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanggulangin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talangkembar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Montongsekar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumurgung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bringin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pucangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maindu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jetak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Talun"
+    }
   ]
 }

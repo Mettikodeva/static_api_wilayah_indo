@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sungaimempura (Sungai Mempura)",
-    "Kota Ringin",
-    "Paluh",
-    "Benteng Hilir",
-    "Benteng Hulu",
-    "Kampung Tengah",
-    "Merempan Hilir",
-    "Telukmerempan (Teluk Merempan)"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sungaimempura (Sungai Mempura)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kota Ringin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paluh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benteng Hilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Benteng Hulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kampung Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Merempan Hilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Telukmerempan (Teluk Merempan)"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Wateto",
-    "Gulo",
-    "Tunuo",
-    "Pediwang (Pidiwang)",
-    "Bori",
-    "Doro",
-    "Daru",
-    "Bobale",
-    "Gamlaha",
-    "Boulamo",
-    "Warudu",
-    "Dowongimaiti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wateto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gulo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tunuo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pediwang (Pidiwang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bori"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Doro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Daru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bobale"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gamlaha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Boulamo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Warudu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dowongimaiti"
+    }
   ]
 }

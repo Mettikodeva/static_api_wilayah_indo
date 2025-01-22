@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sumbul",
-    "Kentara",
-    "Lae Parira",
-    "Buluduri (Bulu Duri)",
-    "Sempung Polling",
-    "Lumban Sihite",
-    "Lumban Toruan",
-    "Pandiangan",
-    "Kaban Julu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumbul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kentara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lae Parira"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buluduri (Bulu Duri)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sempung Polling"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lumban Sihite"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumban Toruan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pandiangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaban Julu"
+    }
   ]
 }

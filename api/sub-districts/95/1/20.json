@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Siepkosi",
-    "Yumogima (Isibitlah)",
-    "Sekan",
-    "Noagalo",
-    "Manika",
-    "Sekan Dalam",
-    "Isawa Himan",
-    "Lunaima",
-    "Wekia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siepkosi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yumogima (Isibitlah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sekan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Noagalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manika"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sekan Dalam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Isawa Himan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lunaima"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wekia"
+    }
   ]
 }

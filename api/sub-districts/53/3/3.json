@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Up Faon (Upfaon)",
-    "Supun",
-    "Pantae",
-    "Oenaem",
-    "Tautpah",
-    "Tokbesi",
-    "Sainiup",
-    "Tunbaen"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Up Faon (Upfaon)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Supun"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pantae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oenaem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tautpah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tokbesi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sainiup"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tunbaen"
+    }
   ]
 }

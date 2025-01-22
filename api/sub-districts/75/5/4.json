@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bulontiyo Timur (Bulontio Timur)",
-    "Bulontiyo Barat (Bulontio Barat)",
-    "Buloila",
-    "Kasia",
-    "Kikia",
-    "Tumba",
-    "Mebongo",
-    "Lelato",
-    "Pulohenti",
-    "Puncak Mandiri",
-    "Hutakalo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulontiyo Timur (Bulontio Timur)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bulontiyo Barat (Bulontio Barat)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buloila"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kasia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kikia"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tumba"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mebongo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lelato"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pulohenti"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Puncak Mandiri"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Hutakalo"
+    }
   ]
 }

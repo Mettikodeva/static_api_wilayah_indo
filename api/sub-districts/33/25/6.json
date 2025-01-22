@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Sendang",
-    "Banteng",
-    "Sumurbanger",
-    "Margosono",
-    "Sidalang",
-    "Plosowangi",
-    "Wanar",
-    "Gondo",
-    "Rejosari Barat",
-    "Boja",
-    "Pujut",
-    "Tersono",
-    "Tanjungsari",
-    "Kebumen",
-    "Harjowinangun Barat",
-    "Tegalombo",
-    "Kranggan",
-    "Satriyan",
-    "Harjowinangun Timur",
-    "Rejosari Timur"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banteng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumurbanger"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margosono"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Plosowangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wanar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gondo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rejosari Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Boja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pujut"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tersono"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kebumen"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Harjowinangun Barat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tegalombo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kranggan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Satriyan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Harjowinangun Timur"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Rejosari Timur"
+    }
   ]
 }

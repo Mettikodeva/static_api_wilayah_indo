@@ -1,73 +1,280 @@
 {
   "sub_districts": [
-    "Meunasah Timu (Matang Glumpang II Meunasah Timur)",
-    "Keude Matang Glumpang Dua (II)",
-    "Meunasah Dayah (Matang Glumpang II)",
-    "Pante Gajah",
-    "Blang Asan",
-    "Paya Cut",
-    "Seuneubok Aceh",
-    "Panton Geulima",
-    "Neuheun (Neuheuen)",
-    "Matang Sagoe",
-    "Matang Mesjid",
-    "Matang Cot Paseh",
-    "Cot Panjoe",
-    "Paya Lipah",
-    "Paya Meuneng",
-    "Keude Tanjong",
-    "Tanjong Paya",
-    "Tanjong Nie",
-    "Tanjong Mesjid",
-    "Pante Cut",
-    "Blang Cut",
-    "Pulo Pisang",
-    "Pante Piyeu",
-    "Meunasah Nibong",
-    "Krueng Baro Babah Krueng",
-    "Krueng Baro Mesjid",
-    "Bayu",
-    "Gampong Putoh",
-    "Meunasah Meucap",
-    "Pante Ara",
-    "Gampong Raya Dagang",
-    "Gampong Raya Tambo",
-    "Kapa",
-    "Blang Panjoe",
-    "Pantee Lhong (Pante Lhong)",
-    "Asan Bideun",
-    "Cot Rabo Baroh",
-    "Cot Rabo Tunong",
-    "Cot Nga",
-    "Pulo Naleung",
-    "Mata Mamplam",
-    "Alue Glumpang (Alue Glumpang Ba)",
-    "Karieng",
-    "Krueng Dheu (Krueng Dheue)",
-    "Cot Ijue (Ieju)",
-    "Cot Buket",
-    "Nicah",
-    "Cot Keuranji",
-    "Paloh",
-    "Cot Bada Tunong",
-    "Cot Bada Baroh",
-    "Cot Girek",
-    "Cot Keumude (Cot Keumudee)",
-    "Sagoe",
-    "Kareueng",
-    "Cot Bada Barat",
-    "Tanoh Mirah",
-    "Seuneubok Rawa",
-    "Paya Aboe",
-    "Blang Rambong",
-    "Blang Geulanggang",
-    "Paya Reuhat",
-    "Uteun Bunta",
-    "Alue Udeng (Alue Udeung)",
-    "Alue Peuno",
-    "Cot Puuk",
-    "Pante Pisang",
-    "Gampong Baro (Gampong Baroh)",
-    "Blang Dalam"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meunasah Timu (Matang Glumpang II Meunasah Timur)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Keude Matang Glumpang Dua (II)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meunasah Dayah (Matang Glumpang II)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pante Gajah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blang Asan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paya Cut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seuneubok Aceh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Panton Geulima"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Neuheun (Neuheuen)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Matang Sagoe"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Matang Mesjid"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Matang Cot Paseh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cot Panjoe"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Paya Lipah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Paya Meuneng"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Keude Tanjong"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanjong Paya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjong Nie"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tanjong Mesjid"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pante Cut"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Blang Cut"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pulo Pisang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pante Piyeu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Meunasah Nibong"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Krueng Baro Babah Krueng"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Krueng Baro Mesjid"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Bayu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Gampong Putoh"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Meunasah Meucap"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pante Ara"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Gampong Raya Dagang"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Gampong Raya Tambo"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Kapa"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Blang Panjoe"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Pantee Lhong (Pante Lhong)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Asan Bideun"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Cot Rabo Baroh"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Cot Rabo Tunong"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Cot Nga"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Pulo Naleung"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Mata Mamplam"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Alue Glumpang (Alue Glumpang Ba)"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Karieng"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Krueng Dheu (Krueng Dheue)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Cot Ijue (Ieju)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Cot Buket"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Nicah"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Cot Keuranji"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Paloh"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Cot Bada Tunong"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Cot Bada Baroh"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Cot Girek"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Cot Keumude (Cot Keumudee)"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Sagoe"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Kareueng"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Cot Bada Barat"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Tanoh Mirah"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Seuneubok Rawa"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Paya Aboe"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Blang Rambong"
+    },
+    {
+      "sub_district_id": 2065,
+      "desa_kelurahan": "Blang Geulanggang"
+    },
+    {
+      "sub_district_id": 2066,
+      "desa_kelurahan": "Paya Reuhat"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Uteun Bunta"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Alue Udeng (Alue Udeung)"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Alue Peuno"
+    },
+    {
+      "sub_district_id": 2105,
+      "desa_kelurahan": "Cot Puuk"
+    },
+    {
+      "sub_district_id": 2106,
+      "desa_kelurahan": "Pante Pisang"
+    },
+    {
+      "sub_district_id": 2107,
+      "desa_kelurahan": "Gampong Baro (Gampong Baroh)"
+    },
+    {
+      "sub_district_id": 2108,
+      "desa_kelurahan": "Blang Dalam"
+    }
   ]
 }

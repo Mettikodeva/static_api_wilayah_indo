@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sinaboi Kota",
-    "Senaboi/Sinaboi",
-    "Sei/Sungai Bakau",
-    "Raja Bejamu",
-    "Sungai Nyamuk",
-    "Darussalam"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sinaboi Kota"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Senaboi/Sinaboi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Bakau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raja Bejamu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Nyamuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Darussalam"
+    }
   ]
 }

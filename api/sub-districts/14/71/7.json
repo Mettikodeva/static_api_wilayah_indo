@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Simpang Tiga",
-    "Tangkerang Selatan",
-    "Tangkerang Utara",
-    "Tangkerang Labuai",
-    "Airdingin"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tangkerang Selatan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tangkerang Utara"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tangkerang Labuai"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Airdingin"
+    }
   ]
 }

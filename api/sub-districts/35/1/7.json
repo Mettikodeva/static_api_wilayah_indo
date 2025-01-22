@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Gondang",
-    "Mujing",
-    "Sempu",
-    "Nawangan",
-    "Tokawi (Tokawai)",
-    "Jetis Lor (Jetislor)",
-    "Penggung",
-    "Pakis Baru (Pakisbaru)",
-    "Ngromo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mujing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sempu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nawangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tokawi (Tokawai)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jetis Lor (Jetislor)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penggung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pakis Baru (Pakisbaru)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngromo"
+    }
   ]
 }

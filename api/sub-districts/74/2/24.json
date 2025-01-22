@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Parauna",
-    "Anggaberi",
-    "Lawulo",
-    "Andabia",
-    "Unaasi",
-    "Toriki",
-    "Lerehoma",
-    "Wunduongohi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Parauna"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Anggaberi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lawulo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Andabia"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Unaasi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Toriki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lerehoma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wunduongohi"
+    }
   ]
 }

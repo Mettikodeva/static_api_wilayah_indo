@@ -1,35 +1,156 @@
 {
   "cities": [
-    "Pacitan",
-    "Ponorogo",
-    "Trenggalek",
-    "Tulungagung",
-    "Blitar",
-    "Kediri",
-    "Malang",
-    "Lumajang",
-    "Jember",
-    "Banyuwangi",
-    "Bondowoso",
-    "Situbondo",
-    "Probolinggo",
-    "Pasuruan",
-    "Sidoarjo",
-    "Mojokerto",
-    "Jombang",
-    "Nganjuk",
-    "Madiun",
-    "Magetan",
-    "Ngawi",
-    "Bojonegoro",
-    "Tuban",
-    "Lamongan",
-    "Gresik",
-    "Bangkalan",
-    "Sampang",
-    "Pamekasan",
-    "Sumenep",
-    "Surabaya",
-    "Batu"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Pacitan"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Ponorogo"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Trenggalek"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Tulungagung"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Blitar"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Kediri"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Malang"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Lumajang"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Jember"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Banyuwangi"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Bondowoso"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Situbondo"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Probolinggo"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Pasuruan"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Sidoarjo"
+    },
+    {
+      "city_id": 16,
+      "kabupaten_kota": "Mojokerto"
+    },
+    {
+      "city_id": 17,
+      "kabupaten_kota": "Jombang"
+    },
+    {
+      "city_id": 18,
+      "kabupaten_kota": "Nganjuk"
+    },
+    {
+      "city_id": 19,
+      "kabupaten_kota": "Madiun"
+    },
+    {
+      "city_id": 20,
+      "kabupaten_kota": "Magetan"
+    },
+    {
+      "city_id": 21,
+      "kabupaten_kota": "Ngawi"
+    },
+    {
+      "city_id": 22,
+      "kabupaten_kota": "Bojonegoro"
+    },
+    {
+      "city_id": 23,
+      "kabupaten_kota": "Tuban"
+    },
+    {
+      "city_id": 24,
+      "kabupaten_kota": "Lamongan"
+    },
+    {
+      "city_id": 25,
+      "kabupaten_kota": "Gresik"
+    },
+    {
+      "city_id": 26,
+      "kabupaten_kota": "Bangkalan"
+    },
+    {
+      "city_id": 27,
+      "kabupaten_kota": "Sampang"
+    },
+    {
+      "city_id": 28,
+      "kabupaten_kota": "Pamekasan"
+    },
+    {
+      "city_id": 29,
+      "kabupaten_kota": "Sumenep"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Kediri"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Blitar"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Malang"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Probolinggo"
+    },
+    {
+      "city_id": 75,
+      "kabupaten_kota": "Pasuruan"
+    },
+    {
+      "city_id": 76,
+      "kabupaten_kota": "Mojokerto"
+    },
+    {
+      "city_id": 77,
+      "kabupaten_kota": "Madiun"
+    },
+    {
+      "city_id": 78,
+      "kabupaten_kota": "Surabaya"
+    },
+    {
+      "city_id": 79,
+      "kabupaten_kota": "Batu"
+    }
   ]
 }

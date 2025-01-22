@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Candirejo",
-    "Genuk",
-    "Ungaran",
-    "Bandarjo",
-    "Langensari",
-    "Branjang",
-    "Kalisidi",
-    "Keji",
-    "Lerep",
-    "Nyatnyono",
-    "Gogik"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Candirejo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Genuk"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Ungaran"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bandarjo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Langensari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Branjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalisidi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keji"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lerep"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nyatnyono"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gogik"
+    }
   ]
 }

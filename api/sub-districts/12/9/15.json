@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bandar Pulau Pekan",
-    "Buntu Maraja",
-    "Gonting Malaha",
-    "Padang Pulau",
-    "Perkebunan Aek Tarum",
-    "Perkebunan Padang Pulau",
-    "Huta Rao",
-    "Aek Nagali",
-    "Gajah Sakti",
-    "Gunung Berkat"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Pulau Pekan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buntu Maraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gonting Malaha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padang Pulau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Perkebunan Aek Tarum"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Perkebunan Padang Pulau"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Huta Rao"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Aek Nagali"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Gajah Sakti"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Gunung Berkat"
+    }
   ]
 }

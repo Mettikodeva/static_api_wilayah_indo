@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Dorume",
-    "Apule (Apulea)",
-    "Asimiro (Asmiro)",
-    "Dotia (Doitia)",
-    "Ngajam",
-    "Kailupa",
-    "Gisik",
-    "Kapa Kapa",
-    "Pacao (Pocao)",
-    "Tate",
-    "Posi Posi",
-    "Supu",
-    "Igo",
-    "Galao",
-    "Teru-Teru",
-    "Wori Moi",
-    "Podol",
-    "Momojiu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dorume"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Apule (Apulea)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asimiro (Asmiro)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dotia (Doitia)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngajam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kailupa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gisik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kapa Kapa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pacao (Pocao)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tate"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Posi Posi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Supu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Igo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Galao"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Teru-Teru"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wori Moi"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Podol"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Momojiu"
+    }
   ]
 }

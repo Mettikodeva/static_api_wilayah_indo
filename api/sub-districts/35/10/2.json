@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukorejo",
-    "Sambirejo",
-    "Temurejo",
-    "Bangorejo",
-    "Kebondalem",
-    "Sambimulyo",
-    "Ringintelu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Temurejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sambimulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ringintelu"
+    }
   ]
 }

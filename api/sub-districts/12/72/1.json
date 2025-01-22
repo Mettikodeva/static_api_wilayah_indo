@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kebun Sayur",
-    "Tomuan",
-    "Pahlawan",
-    "Asuhan",
-    "Merdeka",
-    "Pardomuan",
-    "Siopat Suhu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kebun Sayur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tomuan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pahlawan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Asuhan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Merdeka"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Siopat Suhu"
+    }
   ]
 }

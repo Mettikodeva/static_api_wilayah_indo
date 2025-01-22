@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kebun Lada",
-    "Cempa",
-    "Batu Malenggang (Batu Melenggang)",
-    "Tamaran",
-    "Tanjung Mulya (Tanjung Mulia)",
-    "Muka Paya",
-    "Hinai Kanan",
-    "Suka Damai",
-    "Baru Pasar VIII (8)",
-    "Perkebunan Tanjung Beringin",
-    "Suka Jadi",
-    "Paya Rengas",
-    "Suka Damai Timur"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kebun Lada"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cempa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Malenggang (Batu Melenggang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Mulya (Tanjung Mulia)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muka Paya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hinai Kanan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baru Pasar VIII (8)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perkebunan Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Jadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paya Rengas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Damai Timur"
+    }
   ]
 }

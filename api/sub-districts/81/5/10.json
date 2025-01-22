@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Teor",
-    "Kartutin Kartenga",
-    "Ker Ker",
-    "Duryar Rumoy",
-    "Lapang Kampung Jawa",
-    "Kampung Tengah Wermaf",
-    "Kampung Baru",
-    "Mamur",
-    "Kiliwouw",
-    "Karlokin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kartutin Kartenga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ker Ker"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Duryar Rumoy"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lapang Kampung Jawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampung Tengah Wermaf"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mamur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kiliwouw"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karlokin"
+    }
   ]
 }

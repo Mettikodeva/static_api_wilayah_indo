@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Barombong",
-    "Maccini Sombala",
-    "Jongaya",
-    "Mangasa",
-    "Bongaya",
-    "Balang Baru",
-    "Mannuruki",
-    "Pa'baeng-Baeng (Pa Baeng-Baeng)",
-    "Parang Tambung",
-    "Tanjung Merdeka",
-    "Bonto Duri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Barombong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Maccini Sombala"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jongaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mangasa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bongaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Balang Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mannuruki"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pa'baeng-Baeng (Pa Baeng-Baeng)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Parang Tambung"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tanjung Merdeka"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bonto Duri"
+    }
   ]
 }

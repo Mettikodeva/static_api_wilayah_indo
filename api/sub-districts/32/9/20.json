@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kedungdawa",
-    "Kalikoa",
-    "Tuk",
-    "Kedungjaya",
-    "Kedawung",
-    "Kertawinangun",
-    "Sutawinangun",
-    "Pilangsari"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungdawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalikoa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedungjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kertawinangun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sutawinangun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pilangsari"
+    }
   ]
 }

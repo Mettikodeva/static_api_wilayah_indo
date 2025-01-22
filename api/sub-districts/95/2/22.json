@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Oklip",
-    "Okhim",
-    "Oktem",
-    "Okbumul",
-    "Okamin",
-    "Oktumi",
-    "Komok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oklip"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Okhim"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oktem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Okbumul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Okamin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oktumi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Komok"
+    }
   ]
 }

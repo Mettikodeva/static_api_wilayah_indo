@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Koyawas",
-    "Walewangko",
-    "Noongan (Noongan I)",
-    "Raringis",
-    "Ampreng",
-    "Tumaratas (Tumaratas I)",
-    "Paslateh (Paslaten)",
-    "Lowian",
-    "Tounelet",
-    "Kopiwangker",
-    "Noongan Dua (Noongan II)",
-    "Noongan Tiga (Noongan III)",
-    "Tumaratas Dua (Tumaratas II)",
-    "Raranon",
-    "Raringis Utara",
-    "Raringis Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koyawas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Walewangko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Noongan (Noongan I)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Raringis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ampreng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumaratas (Tumaratas I)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paslateh (Paslaten)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lowian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tounelet"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kopiwangker"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Noongan Dua (Noongan II)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Noongan Tiga (Noongan III)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tumaratas Dua (Tumaratas II)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Raranon"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Raringis Utara"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Raringis Selatan"
+    }
   ]
 }

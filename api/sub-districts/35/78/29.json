@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kedung Cowek",
-    "Kenjeran",
-    "Bulak",
-    "Sukolilo Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kedung Cowek"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kenjeran"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bulak"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukolilo Baru"
+    }
   ]
 }

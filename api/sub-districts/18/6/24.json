@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Badak",
-    "Kuripan",
-    "Padang Ratu",
-    "Tegineneng",
-    "Ketapang",
-    "Banjar Agung",
-    "Pekon Ampai",
-    "Pariaman",
-    "Atar Brak (Antarbrak / Antarberak)",
-    "Tanjung Siom",
-    "Tanjung Jaya (Tanjungjaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Badak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Ratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegineneng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjar Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pekon Ampai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pariaman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Atar Brak (Antarbrak / Antarberak)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Siom"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Jaya (Tanjungjaya)"
+    }
   ]
 }

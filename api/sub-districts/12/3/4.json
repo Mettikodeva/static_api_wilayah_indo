@@ -1,44 +1,164 @@
 {
   "sub_districts": [
-    "Pasar Sipirok",
-    "Hutasuhut",
-    "Baringin",
-    "Bunga Bondar",
-    "Parau Sorat",
-    "Sipirok Godang",
-    "Bagas Lombang",
-    "Batu Satail",
-    "Hasang Marsada",
-    "Janji Mauli",
-    "Paran Julu",
-    "Pangaribuan",
-    "Pargarutan",
-    "Panaungan",
-    "Padang Bujur",
-    "Paran Padang",
-    "Pangurabaan",
-    "Ramba Sihasur (Ramba Sihosur)",
-    "Tolang",
-    "Sampean",
-    "Simaninggir",
-    "Sibadoar",
-    "Sialagundi (Siala Gundi)",
-    "Bulu Mario",
-    "Barnang Koling",
-    "Dolok Sordang Julu",
-    "Situmba Julu",
-    "Situmba",
-    "Kilang Papan",
-    "Sialaman",
-    "Paran Dolok Mardomu",
-    "Batang Tura Julu",
-    "Batang Tura",
-    "Dolok Sordang",
-    "Pahae Aek Sagala",
-    "Marsada",
-    "Luat Lombang",
-    "Aek Batang Paya",
-    "Saba Batang Miha",
-    "Sarogodung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Sipirok"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Hutasuhut"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Baringin"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bunga Bondar"
+    },
+    {
+      "sub_district_id": 1061,
+      "desa_kelurahan": "Parau Sorat"
+    },
+    {
+      "sub_district_id": 1114,
+      "desa_kelurahan": "Sipirok Godang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bagas Lombang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batu Satail"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Hasang Marsada"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Janji Mauli"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Paran Julu"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Pangaribuan"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Pargarutan"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Panaungan"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Padang Bujur"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Paran Padang"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Pangurabaan"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Ramba Sihasur (Ramba Sihosur)"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Tolang"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Sampean"
+    },
+    {
+      "sub_district_id": 2075,
+      "desa_kelurahan": "Simaninggir"
+    },
+    {
+      "sub_district_id": 2076,
+      "desa_kelurahan": "Sibadoar"
+    },
+    {
+      "sub_district_id": 2085,
+      "desa_kelurahan": "Sialagundi (Siala Gundi)"
+    },
+    {
+      "sub_district_id": 2096,
+      "desa_kelurahan": "Bulu Mario"
+    },
+    {
+      "sub_district_id": 2097,
+      "desa_kelurahan": "Barnang Koling"
+    },
+    {
+      "sub_district_id": 2101,
+      "desa_kelurahan": "Dolok Sordang Julu"
+    },
+    {
+      "sub_district_id": 2102,
+      "desa_kelurahan": "Situmba Julu"
+    },
+    {
+      "sub_district_id": 2103,
+      "desa_kelurahan": "Situmba"
+    },
+    {
+      "sub_district_id": 2104,
+      "desa_kelurahan": "Kilang Papan"
+    },
+    {
+      "sub_district_id": 2105,
+      "desa_kelurahan": "Sialaman"
+    },
+    {
+      "sub_district_id": 2106,
+      "desa_kelurahan": "Paran Dolok Mardomu"
+    },
+    {
+      "sub_district_id": 2107,
+      "desa_kelurahan": "Batang Tura Julu"
+    },
+    {
+      "sub_district_id": 2108,
+      "desa_kelurahan": "Batang Tura"
+    },
+    {
+      "sub_district_id": 2109,
+      "desa_kelurahan": "Dolok Sordang"
+    },
+    {
+      "sub_district_id": 2110,
+      "desa_kelurahan": "Pahae Aek Sagala"
+    },
+    {
+      "sub_district_id": 2111,
+      "desa_kelurahan": "Marsada"
+    },
+    {
+      "sub_district_id": 2112,
+      "desa_kelurahan": "Luat Lombang"
+    },
+    {
+      "sub_district_id": 2113,
+      "desa_kelurahan": "Aek Batang Paya"
+    },
+    {
+      "sub_district_id": 2115,
+      "desa_kelurahan": "Saba Batang Miha"
+    },
+    {
+      "sub_district_id": 2116,
+      "desa_kelurahan": "Sarogodung"
+    }
   ]
 }

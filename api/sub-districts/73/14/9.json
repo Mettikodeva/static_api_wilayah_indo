@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanru Tedong",
-    "Salomalori",
-    "Kalosi",
-    "Padangloang",
-    "Kalosi Alau",
-    "Bila",
-    "Padangloang Alau",
-    "Salobukkang",
-    "Taccimpo",
-    "Kampale"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanru Tedong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Salomalori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalosi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padangloang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalosi Alau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bila"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padangloang Alau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salobukkang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taccimpo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kampale"
+    }
   ]
 }

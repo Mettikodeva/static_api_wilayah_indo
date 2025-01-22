@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Airmadidi Bawah",
-    "Rap-Rap",
-    "Saronsong I (Sarongsong Satu)",
-    "Airmadidi Atas",
-    "Sukur",
-    "Sarongsong II (Sarongsong Dua)",
-    "Tanggari",
-    "Sampiri",
-    "Sawangan"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Airmadidi Bawah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rap-Rap"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Saronsong I (Sarongsong Satu)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Airmadidi Atas"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sukur"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sarongsong II (Sarongsong Dua)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanggari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sampiri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sawangan"
+    }
   ]
 }

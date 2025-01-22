@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tule",
-    "Tule Tengah",
-    "Tule Utara",
-    "Bowombaru (Bawombaru)",
-    "Bowombaru Tengah",
-    "Bowombaru Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tule"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tule Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tule Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bowombaru (Bawombaru)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bowombaru Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bowombaru Utara"
+    }
   ]
 }

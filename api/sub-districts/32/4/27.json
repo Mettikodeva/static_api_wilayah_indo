@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mandalasari",
-    "Cikancung",
-    "Cikasungka",
-    "Cihanyir",
-    "Ciluluk",
-    "Hegarmanah",
-    "Mekarlaksana",
-    "Tanjunglaya",
-    "Srirahayu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mandalasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikancung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikasungka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cihanyir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ciluluk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekarlaksana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjunglaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Srirahayu"
+    }
   ]
 }

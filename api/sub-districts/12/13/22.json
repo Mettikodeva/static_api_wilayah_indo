@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sinunukan I",
-    "Sinunukan II",
-    "Sinunukan III",
-    "Sinunukan IV",
-    "Bintungan Bejangkar Baru",
-    "Banjar Aur Utara",
-    "Kampung Kapas II",
-    "Airapa",
-    "Sido Makmur",
-    "Wido Daren",
-    "Wono Sari",
-    "Suka Damai",
-    "Pasir Putih",
-    "Sinunukan I Central"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sinunukan I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sinunukan II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinunukan III"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sinunukan IV"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bintungan Bejangkar Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjar Aur Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Kapas II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Airapa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sido Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wido Daren"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wono Sari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinunukan I Central"
+    }
   ]
 }

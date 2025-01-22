@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lamahang",
-    "Waplau",
-    "Waeura",
-    "Samalagi",
-    "Namsina",
-    "Hatawano",
-    "Wailihang (Waelihang)",
-    "Waprea",
-    "Waepotih",
-    "Skikilale"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lamahang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waplau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waeura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Samalagi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Namsina"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hatawano"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wailihang (Waelihang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waprea"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waepotih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Skikilale"
+    }
   ]
 }

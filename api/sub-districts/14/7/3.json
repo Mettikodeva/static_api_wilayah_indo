@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sedinginan",
-    "Banjar XII",
-    "Cempedak Rahuk",
-    "Ujung Tanjung",
-    "Rantau Bais",
-    "Sekeladi",
-    "Teluk Mega",
-    "Putat",
-    "Sintong",
-    "Mumugo",
-    "Teluk Berembun",
-    "Menggala Sakti",
-    "Sekeladi Hilir",
-    "Menggala Sempurna",
-    "Sintong Pusaka",
-    "Sintong Bakti",
-    "Sintong Makmur"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sedinginan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Banjar XII"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Cempedak Rahuk"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ujung Tanjung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Bais"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sekeladi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk Mega"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Putat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sintong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mumugo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Teluk Berembun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Menggala Sakti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sekeladi Hilir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Menggala Sempurna"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sintong Pusaka"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sintong Bakti"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sintong Makmur"
+    }
   ]
 }

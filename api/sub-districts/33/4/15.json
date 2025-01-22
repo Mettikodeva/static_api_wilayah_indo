@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kalilunjar",
-    "Karangsari",
-    "Sarwodadi",
-    "Grogol",
-    "Giritirta",
-    "Biting",
-    "Tlahap",
-    "Darmayasa",
-    "Pejawaran",
-    "Penusupan (Panusupan)",
-    "Ratamba",
-    "Sidengok",
-    "Pegundungan",
-    "Beji",
-    "Semangkung",
-    "Condongcampur (Condong Campur)",
-    "Gembol"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalilunjar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sarwodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Giritirta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Biting"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tlahap"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Darmayasa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pejawaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Penusupan (Panusupan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ratamba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidengok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pegundungan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Semangkung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Condongcampur (Condong Campur)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gembol"
+    }
   ]
 }

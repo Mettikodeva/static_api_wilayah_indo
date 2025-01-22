@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Rabambang",
-    "Hujung Pata",
-    "Tumbang Jalemu Kajuei",
-    "Jalemu Raya",
-    "Jalemu Masulan",
-    "Mangkawuk",
-    "Tajah Antang Raya",
-    "Tumbang Kuayan",
-    "Tumbang Langgah",
-    "Tusang Raya",
-    "Tumbang Bahanei"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rabambang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hujung Pata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Jalemu Kajuei"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jalemu Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jalemu Masulan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mangkawuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tajah Antang Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Kuayan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tumbang Langgah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tusang Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumbang Bahanei"
+    }
   ]
 }

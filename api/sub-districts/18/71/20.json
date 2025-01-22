@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sukaraja",
-    "Bumi Waras",
-    "Garuntang",
-    "Bumi Raya",
-    "Kangkung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bumi Waras"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Garuntang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bumi Raya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kangkung"
+    }
   ]
 }

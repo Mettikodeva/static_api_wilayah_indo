@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lumbi-Lumbia",
-    "Kambani",
-    "Tatabau",
-    "Buko",
-    "Palapat",
-    "Labangun",
-    "Seano",
-    "Lelang Matamaling",
-    "Apal",
-    "Sapelang",
-    "Landonan Bebeau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lumbi-Lumbia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kambani"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tatabau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Palapat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labangun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seano"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lelang Matamaling"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Apal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sapelang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Landonan Bebeau"
+    }
   ]
 }

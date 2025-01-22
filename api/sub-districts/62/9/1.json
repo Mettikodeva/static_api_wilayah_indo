@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tapin Bini",
-    "Sungai Tuat",
-    "Tanjung Beringin",
-    "Cuhai",
-    "Kawa",
-    "Karang Taba",
-    "Penopa (Panopa)",
-    "Suja",
-    "Sekoban",
-    "Bakonsu",
-    "Samu Jaya"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tapin Bini"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Tuat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cuhai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Taba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penopa (Panopa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sekoban"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bakonsu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Samu Jaya"
+    }
   ]
 }

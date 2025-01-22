@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Munu",
-    "Obio",
-    "Pugun",
-    "Ujin",
-    "Yahufa",
-    "Jibak",
-    "Patin",
-    "Hom hom (Homhom)",
-    "Wendame",
-    "Kwakenoro",
-    "Busupa",
-    "Yagabo",
-    "Penigik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Munu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Obio"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pugun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ujin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yahufa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jibak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Patin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hom hom (Homhom)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wendame"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kwakenoro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Busupa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Yagabo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Penigik"
+    }
   ]
 }

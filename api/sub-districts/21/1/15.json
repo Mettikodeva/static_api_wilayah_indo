@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Teluk Lobam",
-    "Tanjung Permai",
-    "Busung",
-    "Teluk Sasah",
-    "Kuala Sempang"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Teluk Lobam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung Permai"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Busung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Sasah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala Sempang"
+    }
   ]
 }

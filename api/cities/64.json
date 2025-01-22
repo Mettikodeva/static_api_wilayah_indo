@@ -1,14 +1,44 @@
 {
   "cities": [
-    "Paser",
-    "Kutai Kartanegara",
-    "Berau",
-    "Kutai Barat",
-    "Kutai Timur",
-    "Penajam Paser Utara",
-    "Mahakam Ulu",
-    "Balikpapan",
-    "Samarinda",
-    "Bontang"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Paser"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Kutai Kartanegara"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Berau"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Kutai Barat"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Kutai Timur"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Penajam Paser Utara"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Mahakam Ulu"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Balikpapan"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Samarinda"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Bontang"
+    }
   ]
 }

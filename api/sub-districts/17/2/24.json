@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dataran Tapus",
-    "Bandung Marga",
-    "Pal Seratus/100",
-    "Pal VII/Tujuh",
-    "Pal VIII/Delapan",
-    "Tebat Tenong Luar",
-    "Bangun Jaya",
-    "Babakan Baru",
-    "Sumberejo Transad (Sumber Rejo Transad)",
-    "Air Bening"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dataran Tapus"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandung Marga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pal Seratus/100"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pal VII/Tujuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pal VIII/Delapan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tebat Tenong Luar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babakan Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberejo Transad (Sumber Rejo Transad)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Air Bening"
+    }
   ]
 }

@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Kandangserang",
-    "Paninggaran",
-    "Lebakbarang",
-    "Petungkriyono (Petungkriono)",
-    "Talun",
-    "Doro",
-    "Karanganyar",
-    "Kajen",
-    "Kesesi",
-    "Sragi",
-    "Bojong",
-    "Wonopringgo",
-    "Kedungwuni",
-    "Buaran",
-    "Tirto",
-    "Wiradesa",
-    "Siwalan",
-    "Karangdadap",
-    "Wonokerto"
+    {
+      "district_id": 1,
+      "kecamatan": "Kandangserang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Paninggaran"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Lebakbarang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Petungkriyono (Petungkriono)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Talun"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Doro"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Karanganyar"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kajen"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kesesi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sragi"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bojong"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Wonopringgo"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kedungwuni"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Buaran"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Tirto"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Wiradesa"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Siwalan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Karangdadap"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Wonokerto"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Jetakkidul (Jetak Kidul)",
-    "Sastrodirjan",
-    "Legokgunung (Legok Gunung)",
-    "Galangpengampon (Galang Pengampon Gede)",
-    "Kwagean",
-    "Getas",
-    "Rowokembu",
-    "Wonopringgo",
-    "Sampih",
-    "Wonorejo",
-    "Gondang",
-    "Jetaklengkong (Jetak Lengkong)",
-    "Pengadentengah (Pegaden Tengah)",
-    "Surobayan (Surabayan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jetakkidul (Jetak Kidul)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sastrodirjan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Legokgunung (Legok Gunung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Galangpengampon (Galang Pengampon Gede)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kwagean"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Getas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rowokembu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonopringgo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sampih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jetaklengkong (Jetak Lengkong)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pengadentengah (Pegaden Tengah)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Surobayan (Surabayan)"
+    }
   ]
 }

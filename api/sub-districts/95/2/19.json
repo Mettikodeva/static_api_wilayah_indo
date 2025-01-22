@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tarup",
-    "Marang Tiking",
-    "Imsin",
-    "Bitipding",
-    "Onkor",
-    "Beten Dua",
-    "Omor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tarup"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marang Tiking"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Imsin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bitipding"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Onkor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beten Dua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Omor"
+    }
   ]
 }

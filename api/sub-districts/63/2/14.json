@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Hampang",
-    "Cantung Kiri Hulu",
-    "Cantung Kanan",
-    "Muara Orie",
-    "Lalapin",
-    "Peramasan Dua Kali Sanga",
-    "Limbur",
-    "Hulu Sampanahan",
-    "Limbungan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hampang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cantung Kiri Hulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cantung Kanan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Orie"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lalapin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peramasan Dua Kali Sanga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Limbur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hulu Sampanahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Limbungan"
+    }
   ]
 }

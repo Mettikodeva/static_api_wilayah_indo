@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bone Pute (Bonepute)",
-    "Temboe",
-    "Sampano",
-    "Babang",
-    "La'loa (La Loa)",
-    "Batulappa (Batu Lappa)",
-    "Malewong",
-    "Salusana",
-    "Dadeko",
-    "Gandang Batu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bone Pute (Bonepute)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Temboe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sampano"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Babang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "La'loa (La Loa)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batulappa (Batu Lappa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malewong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salusana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dadeko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gandang Batu"
+    }
   ]
 }

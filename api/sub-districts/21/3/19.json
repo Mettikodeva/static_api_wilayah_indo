@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Arung Ayam",
-    "Air Nusa",
-    "Air Ringau",
-    "Payak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arung Ayam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Nusa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Ringau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Payak"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Waipure (Waepure)",
-    "Waimangit (Waemangit)",
-    "Air Buaya",
-    "Tanjung Karang",
-    "Bara",
-    "Selwadu",
-    "Wasbaka",
-    "Kampung Baru",
-    "Batlale",
-    "Awilinan"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waipure (Waepure)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waimangit (Waemangit)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Buaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Karang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Selwadu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wasbaka"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Batlale"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Awilinan"
+    }
   ]
 }

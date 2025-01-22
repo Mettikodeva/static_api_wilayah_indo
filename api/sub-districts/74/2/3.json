@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Wawotobi",
-    "Inalahi",
-    "Lalosabila",
-    "Hopa-Hopa",
-    "Kulahi",
-    "Ranoeya",
-    "Palarahi",
-    "Kasupute",
-    "Nohu Nohu",
-    "Inolobu",
-    "Bose Bose",
-    "Puusinauwi",
-    "Nario Indah",
-    "Anggotoa",
-    "Analahumbuti",
-    "Karandu",
-    "Korumba",
-    "Kasumewuho",
-    "Kukuluri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wawotobi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Inalahi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lalosabila"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Hopa-Hopa"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kulahi"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ranoeya"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Palarahi"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kasupute"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Nohu Nohu"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Inolobu"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Bose Bose"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Puusinauwi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nario Indah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Anggotoa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Analahumbuti"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Karandu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Korumba"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Kasumewuho"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Kukuluri"
+    }
   ]
 }

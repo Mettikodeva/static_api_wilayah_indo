@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lesabela",
-    "Semangat",
-    "Serangkat",
-    "Rodaya",
-    "Dayung",
-    "Jesape",
-    "Lomba Karya",
-    "Sidai",
-    "Seles",
-    "Tebuah Marong (Trans)",
-    "Suka Damai",
-    "Suka Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lesabela"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semangat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Serangkat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rodaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dayung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jesape"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lomba Karya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Seles"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tebuah Marong (Trans)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Suka Jaya"
+    }
   ]
 }

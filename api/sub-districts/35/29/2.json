@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pinggirpapas",
-    "Karanganyar (Karang Anyar)",
-    "Marengan Laok",
-    "Kertasada",
-    "Kalimook (Kalimo'ok)",
-    "Kalianget Barat",
-    "Kalianget Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pinggirpapas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karanganyar (Karang Anyar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marengan Laok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kertasada"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalimook (Kalimo'ok)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalianget Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalianget Timur"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Peneki",
-    "Bocco",
-    "Parigi",
-    "Manyilli (Manyili)",
-    "Soro",
-    "Ceppaga",
-    "Leweng",
-    "Ajuraja",
-    "Botto",
-    "Lagoari",
-    "Alupang (Aluppang)",
-    "Lamarua",
-    "Pantai Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Peneki"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bocco"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parigi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manyilli (Manyili)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Soro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ceppaga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Leweng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ajuraja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Botto"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lagoari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Alupang (Aluppang)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lamarua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pantai Timur"
+    }
   ]
 }

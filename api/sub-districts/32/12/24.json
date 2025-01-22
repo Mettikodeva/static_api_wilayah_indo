@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bogor",
-    "Sukra",
-    "Ujunggebang",
-    "Tagal Taman (Tegaltaman)",
-    "Sukrawetan",
-    "Sumuradem",
-    "Sumuradem Timur",
-    "Karang Layung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bogor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukra"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujunggebang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tagal Taman (Tegaltaman)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukrawetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumuradem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumuradem Timur"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Karang Layung"
+    }
   ]
 }

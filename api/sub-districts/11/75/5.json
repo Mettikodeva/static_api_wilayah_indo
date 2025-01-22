@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Longkib",
-    "Sepang",
-    "Panji",
-    "Lae Saga",
-    "Sikerabang",
-    "Rantau Panjang",
-    "Bukit Panjang",
-    "Darul Aman (Ginasing)",
-    "Bangun Sari",
-    "Darussalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Longkib"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sepang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panji"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lae Saga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sikerabang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Panjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Darul Aman (Ginasing)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bangun Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Darussalam"
+    }
   ]
 }

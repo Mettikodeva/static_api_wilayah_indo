@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Data Dian",
-    "Long Pipa",
-    "Long Sule",
-    "Sungai Anai",
-    "Long Metun (Long Metun II)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Data Dian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Pipa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Sule"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Anai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Long Metun (Long Metun II)"
+    }
   ]
 }

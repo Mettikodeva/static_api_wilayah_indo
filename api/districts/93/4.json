@@ -1,29 +1,104 @@
 {
   "districts": [
-    "Agats",
-    "Atsj (Atsy)",
-    "Sawa Erma",
-    "Akat",
-    "Fayit",
-    "Pantai Kasuari",
-    "Suator",
-    "Suru-suru",
-    "Kolf Braza",
-    "Unir Sirau",
-    "Joerat",
-    "Pulau Tiga",
-    "Jetsy",
-    "Der Koumur",
-    "Kopay",
-    "Safan",
-    "Sirets",
-    "Ayip",
-    "Betcbamu",
-    "Joutu",
-    "Aswi",
-    "Awyu",
-    "Koroway Buluanop",
-    "Tomor Birip",
-    "Sor Ep"
+    {
+      "district_id": 1,
+      "kecamatan": "Agats"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Atsj (Atsy)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sawa Erma"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Akat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Fayit"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pantai Kasuari"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Suator"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Suru-suru"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kolf Braza"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Unir Sirau"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Joerat"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pulau Tiga"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Jetsy"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Der Koumur"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kopay"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Safan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sirets"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Ayip"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Betcbamu"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Joutu"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Aswi"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Awyu"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Koroway Buluanop"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Tomor Birip"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Sor Ep"
+    }
   ]
 }

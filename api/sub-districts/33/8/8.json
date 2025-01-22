@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Muntilan",
-    "Tanjung",
-    "Sokorini",
-    "Sriwedari",
-    "Congkrang",
-    "Adikarto",
-    "Menayu",
-    "Keji",
-    "Ngawen",
-    "Gunungpring",
-    "Pucungrejo",
-    "Tamanagung",
-    "Gondosuli",
-    "Sedayu"
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Muntilan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sokorini"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sriwedari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Congkrang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Adikarto"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keji"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngawen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunungpring"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pucungrejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tamanagung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gondosuli"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sedayu"
+    }
   ]
 }

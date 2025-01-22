@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ciampel",
-    "Cigedog",
-    "Cikandang",
-    "Jagapura",
-    "Kemukten",
-    "Kradenan",
-    "Kersana",
-    "Kramatsampang",
-    "Kubangpari",
-    "Limbangan",
-    "Pende",
-    "Sindangjaya",
-    "Sutamaja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciampel"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cigedog"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikandang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jagapura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemukten"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kradenan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kersana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kramatsampang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kubangpari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Limbangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pende"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangjaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sutamaja"
+    }
   ]
 }

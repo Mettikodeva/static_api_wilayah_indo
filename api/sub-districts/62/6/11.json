@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Talingke",
-    "Hiang/Hiyang Bana",
-    "Petak Bahandang",
-    "Handiwung",
-    "Tumbang Panggo",
-    "Tewang Tampang",
-    "Luwuk Kanan",
-    "Luwuk Kiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talingke"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hiang/Hiyang Bana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Petak Bahandang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Handiwung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Panggo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tewang Tampang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Luwuk Kanan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Luwuk Kiri"
+    }
   ]
 }

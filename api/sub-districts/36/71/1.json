@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sukarasa",
-    "Sukaasih (Suka Asih)",
-    "Tanah Tinggi",
-    "Buaran Indah",
-    "Cikokol",
-    "Kelapa Indah",
-    "Sukasari",
-    "Babakan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukarasa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukaasih (Suka Asih)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanah Tinggi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Buaran Indah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cikokol"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kelapa Indah"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Babakan"
+    }
   ]
 }

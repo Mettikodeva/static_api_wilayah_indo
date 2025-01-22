@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Perkebunan Suka Raja",
-    "Perkebunan Hessa",
-    "Sei Dua Hulu",
-    "Sei/Sungai Lama",
-    "Silomlom",
-    "Simpang Empat",
-    "Sipaku Area",
-    "Anjung Ganjang (Anjung Gadang)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perkebunan Suka Raja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Hessa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei Dua Hulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Lama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Silomlom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sipaku Area"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Anjung Ganjang (Anjung Gadang)"
+    }
   ]
 }

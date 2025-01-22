@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kapi",
-    "As",
-    "Atat",
-    "Aou",
-    "Nakai",
-    "Esmapan",
-    "Eroko",
-    "Yakapis",
-    "Weo",
-    "Aoap",
-    "Fumereipits"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kapi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "As"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Atat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aou"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nakai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Esmapan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Eroko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yakapis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Weo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aoap"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Fumereipits"
+    }
   ]
 }

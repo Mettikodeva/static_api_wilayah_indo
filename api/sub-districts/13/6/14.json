@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Canduang Koto Laweh",
-    "Lasi",
-    "Bukik Batabuah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Canduang Koto Laweh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lasi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukik Batabuah"
+    }
   ]
 }

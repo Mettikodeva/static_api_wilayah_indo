@@ -1,35 +1,128 @@
 {
   "districts": [
-    "Jombang",
-    "Kencong",
-    "Sumberbaru (Sumber Baru)",
-    "Gumukmas (Gumuk Mas)",
-    "Umbulsari",
-    "Tanggul",
-    "Semboro",
-    "Puger",
-    "Bangsalsari",
-    "Balung",
-    "Wuluhan",
-    "Ambulu",
-    "Rambipuji",
-    "Panti",
-    "Sukorambi",
-    "Jenggawah",
-    "Ajung",
-    "Tempurejo",
-    "Kaliwates",
-    "Patrang",
-    "Sumbersari (Sumber Sari)",
-    "Arjasa",
-    "Mumbulsari",
-    "Pakusari",
-    "Jelbuk",
-    "Mayang",
-    "Kalisat",
-    "Ledokombo",
-    "Sukowono",
-    "Silo",
-    "Sumberjambe (Sumber Jambe)"
+    {
+      "district_id": 1,
+      "kecamatan": "Jombang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kencong"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sumberbaru (Sumber Baru)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Gumukmas (Gumuk Mas)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Umbulsari"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tanggul"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Semboro"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Puger"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bangsalsari"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Balung"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wuluhan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Ambulu"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Rambipuji"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Panti"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sukorambi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Jenggawah"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Ajung"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tempurejo"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kaliwates"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Patrang"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sumbersari (Sumber Sari)"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Arjasa"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Mumbulsari"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pakusari"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Jelbuk"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Mayang"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Kalisat"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Ledokombo"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Sukowono"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Silo"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Sumberjambe (Sumber Jambe)"
+    }
   ]
 }

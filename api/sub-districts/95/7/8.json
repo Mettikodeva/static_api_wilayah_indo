@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kuwobaga",
-    "Milinggame",
-    "Arigineri",
-    "Muleme",
-    "Arungwi",
-    "Ponuma",
-    "Gubulela",
-    "Kolari",
-    "Gumbo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuwobaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Milinggame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arigineri"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Muleme"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Arungwi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ponuma"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Gubulela"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kolari"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Gumbo"
+    }
   ]
 }

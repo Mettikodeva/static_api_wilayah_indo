@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tiu",
-    "Tontowea",
-    "Togo Mulyo (Togomulyo)",
-    "Maralee",
-    "Mondowe",
-    "Sampalowo",
-    "Moleono",
-    "Onepute",
-    "Ulu Laa",
-    "Tadaku Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tiu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tontowea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Togo Mulyo (Togomulyo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maralee"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mondowe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sampalowo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Moleono"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Onepute"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulu Laa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tadaku Jaya"
+    }
   ]
 }

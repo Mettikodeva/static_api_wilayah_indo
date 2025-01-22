@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kuala Maras",
-    "Ulu Maras",
-    "Bukit Padi",
-    "Genting Pulur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Maras"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ulu Maras"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Padi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Genting Pulur"
+    }
   ]
 }

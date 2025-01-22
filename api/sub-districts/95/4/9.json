@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Panaga",
-    "Ibunuh",
-    "Saksi Maler",
-    "Kutiom",
-    "Eragani",
-    "Pindanggun",
-    "Siak",
-    "Yandono",
-    "Paido"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ibunuh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saksi Maler"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kutiom"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Eragani"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pindanggun"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Siak"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Yandono"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Paido"
+    }
   ]
 }

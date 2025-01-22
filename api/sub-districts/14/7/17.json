@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bagan Sinembah Kota",
-    "Bagan Sinembah",
-    "Harapan Makmur Selatan",
-    "Harapan Makmur",
-    "Makmur Jaya",
-    "Salak",
-    "Panca Mukti",
-    "Bagan Sinembah Timur",
-    "Bagan Sinembah Utara",
-    "Bagan Sinembah Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bagan Sinembah Kota"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bagan Sinembah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Harapan Makmur Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Harapan Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makmur Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panca Mukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bagan Sinembah Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bagan Sinembah Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bagan Sinembah Barat"
+    }
   ]
 }

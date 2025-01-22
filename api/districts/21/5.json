@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Siantan",
-    "Palmatak",
-    "Siantan Timur",
-    "Siantan Selatan",
-    "Jemaja Timur",
-    "Jemaja",
-    "Siantan Tengah",
-    "Siantan Utara",
-    "Jemaja Barat",
-    "Kute Siantan"
+    {
+      "district_id": 1,
+      "kecamatan": "Siantan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Palmatak"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Siantan Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Siantan Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Jemaja Timur"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Jemaja"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Siantan Tengah"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Siantan Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Jemaja Barat"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kute Siantan"
+    }
   ]
 }

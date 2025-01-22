@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Linge",
-    "Silih Nara",
-    "Bebesen",
-    "Pegasing",
-    "Bintang",
-    "Ketol",
-    "Kebayakan",
-    "Kute Panang",
-    "Celala",
-    "Laut Tawar (Lut Tawar)",
-    "Atu Lintang",
-    "Jagong Jeget",
-    "Bies",
-    "Rusip Antara"
+    {
+      "district_id": 1,
+      "kecamatan": "Linge"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Silih Nara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bebesen"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pegasing"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bintang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ketol"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kebayakan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kute Panang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Celala"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Laut Tawar (Lut Tawar)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Atu Lintang"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Jagong Jeget"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Bies"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Rusip Antara"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mejasem",
-    "Wonosari",
-    "Tengengkulon",
-    "Tunjungsari",
-    "Pait",
-    "Tengengwetan (Tengeng Wetan)",
-    "Rembun",
-    "Yosorejo",
-    "Siwalan",
-    "Boyoteluk (Boyo Teluk)",
-    "Depok",
-    "Blacanan",
-    "Blimbingwuluh (Blimbing Wuluh)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mejasem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tengengkulon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunjungsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pait"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tengengwetan (Tengeng Wetan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rembun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yosorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siwalan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Boyoteluk (Boyo Teluk)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Blacanan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Blimbingwuluh (Blimbing Wuluh)"
+    }
   ]
 }

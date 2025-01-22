@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Okaitadi",
-    "Kito",
-    "Geiketago",
-    "Kadiyai",
-    "Uwodege",
-    "Digiyo Tuwataida",
-    "Itoka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Okaitadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kito"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Geiketago"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadiyai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uwodege"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Digiyo Tuwataida"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Itoka"
+    }
   ]
 }

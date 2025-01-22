@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Weduar",
-    "Nerong",
-    "Larat",
-    "Tamangil Nuhuten",
-    "Tamangil Nuhuyanat",
-    "Kilwat",
-    "Sathen (Sether/Sather)",
-    "Tutrean",
-    "Ohoirenan",
-    "Soindat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Weduar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nerong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Larat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamangil Nuhuten"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamangil Nuhuyanat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kilwat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sathen (Sether/Sather)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tutrean"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ohoirenan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Soindat"
+    }
   ]
 }

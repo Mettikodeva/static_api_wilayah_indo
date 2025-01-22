@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dusun Baru V Koto",
-    "Air Dikit",
-    "Pondok Lunang",
-    "Sari Bulan",
-    "Sari Makmur",
-    "Sumber Sari",
-    "Air Kasai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dusun Baru V Koto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Dikit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pondok Lunang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sari Bulan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sari Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Kasai"
+    }
   ]
 }

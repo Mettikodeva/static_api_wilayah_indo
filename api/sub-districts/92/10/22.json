@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Yaksoro",
-    "Awit",
-    "Sira",
-    "Eway",
-    "Erokwero",
-    "Sabun",
-    "Itigah",
-    "Sira Tee",
-    "Wrait 'U' (Wrait U)",
-    "Way 'U' (Way U)",
-    "Asnaif",
-    "Iroh Sohser",
-    "Framboh",
-    "Tohmri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yaksoro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Awit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sira"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Eway"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Erokwero"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sabun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Itigah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sira Tee"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wrait 'U' (Wrait U)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Way 'U' (Way U)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Asnaif"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Iroh Sohser"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Framboh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tohmri"
+    }
   ]
 }

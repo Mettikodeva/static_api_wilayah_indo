@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Simpang Rahmat",
-    "Gajah Putih",
-    "Gayo Setie",
-    "Umah Besi",
-    "Pante Karya",
-    "Meriah Jaya",
-    "Timang Gajah",
-    "Pantan Lues",
-    "Alam Jaya",
-    "Rerongga (Reronga)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Rahmat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gajah Putih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gayo Setie"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Umah Besi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pante Karya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Meriah Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timang Gajah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pantan Lues"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Alam Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rerongga (Reronga)"
+    }
   ]
 }

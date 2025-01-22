@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jenggrong",
-    "Meninjo",
-    "Tegalbangsri",
-    "Sumberpetung",
-    "Alun Alun",
-    "Ranubedali",
-    "Ranuyoso",
-    "Wonoayu",
-    "Penawungan",
-    "Wates Kulon",
-    "Wates Wetan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jenggrong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meninjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tegalbangsri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberpetung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alun Alun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ranubedali"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ranuyoso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonoayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Penawungan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wates Kulon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wates Wetan"
+    }
   ]
 }

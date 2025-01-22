@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Karangpedas (Kiarapedes)",
-    "Ciracas",
-    "Parakangarokgek (Parakan Garokgek)",
-    "Taringgullandeuh (Taringgul Landeuh)",
-    "Mekarjaya",
-    "Margaluyu",
-    "Gardu",
-    "Cibeber",
-    "Pusakamulya",
-    "Sumbersari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangpedas (Kiarapedes)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciracas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parakangarokgek (Parakan Garokgek)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taringgullandeuh (Taringgul Landeuh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gardu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibeber"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pusakamulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumbersari"
+    }
   ]
 }

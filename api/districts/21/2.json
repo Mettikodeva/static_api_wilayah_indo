@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Moro",
-    "Kundur",
-    "Karimun",
-    "Meral",
-    "Tebing",
-    "Buru",
-    "Kundur Utara",
-    "Kundur Barat",
-    "Durai",
-    "Meral Barat",
-    "Ungar",
-    "Belat",
-    "Selat Gelam",
-    "Sugie Besar"
+    {
+      "district_id": 1,
+      "kecamatan": "Moro"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kundur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Karimun"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Meral"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tebing"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Buru"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kundur Utara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kundur Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Durai"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Meral Barat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ungar"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Belat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Selat Gelam"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sugie Besar"
+    }
   ]
 }

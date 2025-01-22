@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Modoinding",
-    "Tompaso Baru",
-    "Ranoyapo",
-    "Motoling",
-    "Sinonsayang",
-    "Tenga",
-    "Amurang",
-    "Tumpaan",
-    "Tareran",
-    "Kumelembuai",
-    "Maesaan",
-    "Amurang Barat",
-    "Amurang Timur",
-    "Tatapaan",
-    "Motoling Barat",
-    "Motoling Timur",
-    "Suluun Tareran"
+    {
+      "district_id": 1,
+      "kecamatan": "Modoinding"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tompaso Baru"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ranoyapo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Motoling"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sinonsayang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tenga"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Amurang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tumpaan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tareran"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kumelembuai"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Maesaan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Amurang Barat"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Amurang Timur"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tatapaan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Motoling Barat"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Motoling Timur"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Suluun Tareran"
+    }
   ]
 }

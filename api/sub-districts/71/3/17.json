@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sawang Bendar",
-    "Soataloara I",
-    "Apengsembeka (Apeng Sembeka)",
-    "Mahena",
-    "Bungalawang",
-    "Santiago",
-    "Manente",
-    "Soataloara II"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sawang Bendar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Soataloara I"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Apengsembeka (Apeng Sembeka)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mahena"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Bungalawang"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Santiago"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Manente"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Soataloara II"
+    }
   ]
 }

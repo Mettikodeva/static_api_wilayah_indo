@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jambudipa",
-    "Cisarandi",
-    "Cikaroya",
-    "Bunikasih",
-    "Ciwalen",
-    "Tegallega",
-    "Sukawangi",
-    "Bunisari",
-    "Sukamulya",
-    "Cieundeur",
-    "Mekarwangi"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambudipa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cisarandi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikaroya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bunikasih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciwalen"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tegallega"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukawangi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bunisari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Cieundeur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mekarwangi"
+    }
   ]
 }

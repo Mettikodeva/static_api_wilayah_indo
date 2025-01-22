@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mayahan",
-    "Pulongrambe",
-    "Jono",
-    "Selo",
-    "Tawangharjo",
-    "Tarub",
-    "Pojok",
-    "Plosorejo",
-    "Godan",
-    "Kemadahbatur (Kemaduhbatur)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mayahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulongrambe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tawangharjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tarub"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Plosorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Godan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kemadahbatur (Kemaduhbatur)"
+    }
   ]
 }

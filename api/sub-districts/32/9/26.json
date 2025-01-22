@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Budur",
-    "Babakan",
-    "Ciwaringin",
-    "Gintungranjeng",
-    "Gintung Kidul",
-    "Gintung Tengah",
-    "Bringin",
-    "Galagamba"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Budur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ciwaringin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gintungranjeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gintung Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gintung Tengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bringin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Galagamba"
+    }
   ]
 }

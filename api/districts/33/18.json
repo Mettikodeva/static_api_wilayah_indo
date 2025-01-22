@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Sukolilo",
-    "Kayen",
-    "Tambakromo",
-    "Winong",
-    "Pucakwangi",
-    "Jaken",
-    "Batangan",
-    "Juwana",
-    "Jakenan",
-    "Pati",
-    "Gabus",
-    "Margorejo",
-    "Gembong",
-    "Tlogowungu",
-    "Wedarijaksa",
-    "Margoyoso",
-    "Gunungwungkal",
-    "Cluwak",
-    "Tayu",
-    "Dukuhseti",
-    "Trangkil"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukolilo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kayen"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tambakromo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Winong"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pucakwangi"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Jaken"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Batangan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Juwana"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Jakenan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pati"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Gabus"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Margorejo"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Gembong"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tlogowungu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Wedarijaksa"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Margoyoso"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Gunungwungkal"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Cluwak"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tayu"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Dukuhseti"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Trangkil"
+    }
   ]
 }

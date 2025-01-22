@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Goa",
-    "Belo",
-    "Beru",
-    "Dasan Anyar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Goa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dasan Anyar"
+    }
   ]
 }

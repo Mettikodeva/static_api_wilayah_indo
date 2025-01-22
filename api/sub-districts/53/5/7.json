@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lembur Barat",
-    "Lembur Tengah",
-    "Likwatang",
-    "Fungafeng",
-    "Fuisama",
-    "Nur Benlelang (Nurbenlelang)",
-    "Kafakbeka",
-    "Manetwati",
-    "Lakwati",
-    "Dapitau",
-    "Alim Mebung",
-    "Petleng",
-    "Welai Selatan",
-    "Tominuku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lembur Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lembur Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Likwatang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Fungafeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Fuisama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nur Benlelang (Nurbenlelang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kafakbeka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Manetwati"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lakwati"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dapitau"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Alim Mebung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Petleng"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Welai Selatan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tominuku"
+    }
   ]
 }

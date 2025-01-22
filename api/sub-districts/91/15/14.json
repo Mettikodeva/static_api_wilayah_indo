@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Odase",
-    "Wanda",
-    "Bakadaro",
-    "Moyufuri",
-    "Wonti Kai",
-    "Ghoiwi Samberi",
-    "Gheroi",
-    "Fimore",
-    "Sifuisera",
-    "Borumei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Odase"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bakadaro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Moyufuri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonti Kai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ghoiwi Samberi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gheroi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Fimore"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sifuisera"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Borumei"
+    }
   ]
 }

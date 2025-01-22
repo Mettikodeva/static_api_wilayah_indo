@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Muara Palantau",
-    "Ketab (Ketap)",
-    "Kupang Bersih",
-    "Tuyau",
-    "Pinang Tunggal",
-    "Nagaleah",
-    "Lampeong",
-    "Bararawa",
-    "Bambulung",
-    "Lebo",
-    "Muru Duyung",
-    "Tumpung Ulung",
-    "Sumber Rejo (Sumberejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Palantau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ketab (Ketap)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kupang Bersih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuyau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pinang Tunggal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nagaleah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lampeong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bararawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bambulung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lebo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muru Duyung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tumpung Ulung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumber Rejo (Sumberejo)"
+    }
   ]
 }

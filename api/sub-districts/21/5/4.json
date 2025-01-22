@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kiabu",
-    "Telaga",
-    "Mengkait",
-    "Tiangau",
-    "Telaga Kecil",
-    "Lingai",
-    "Air Bini"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kiabu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telaga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mengkait"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiangau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Telaga Kecil"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lingai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Bini"
+    }
   ]
 }

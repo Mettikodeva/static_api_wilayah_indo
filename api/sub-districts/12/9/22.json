@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rahuning",
-    "Perkebunan Gunung Melayu",
-    "Gunung Melayu",
-    "Batu Anam",
-    "Perkebunan Aek Nagaga",
-    "Rahuning I",
-    "Rahuning II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rahuning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perkebunan Gunung Melayu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Melayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Anam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Aek Nagaga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rahuning I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rahuning II"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kayen",
-    "Jati",
-    "Karangan",
-    "Kerjo",
-    "Kedungsigit",
-    "Salamrejo",
-    "Sukowetan",
-    "Ngentrong",
-    "Sumber",
-    "Buluagung",
-    "Sumberingin",
-    "Jatiprahu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kerjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedungsigit"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salamrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukowetan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngentrong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buluagung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberingin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jatiprahu"
+    }
   ]
 }

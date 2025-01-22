@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sawahan",
-    "Jati Baru",
-    "Jati",
-    "Sawahan Timur",
-    "Simpang Haru",
-    "Kubu Marapalam",
-    "Andalas",
-    "Kubu Dalam Parak Karakah",
-    "Parak Gadang Timur",
-    "Ganting Parak Gadang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jati Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sawahan Timur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Simpang Haru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kubu Marapalam"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Andalas"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kubu Dalam Parak Karakah"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Parak Gadang Timur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ganting Parak Gadang"
+    }
   ]
 }

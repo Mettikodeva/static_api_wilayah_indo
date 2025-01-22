@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Sukakarya",
-    "Sukajaya",
-    "Sukamakmue"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukakarya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sukajaya"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sukamakmue"
+    }
   ]
 }

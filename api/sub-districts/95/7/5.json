@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Dimba",
-    "Yugwa",
-    "Magegobak",
-    "Nongopnage",
-    "Wengenambur",
-    "Wawiragi",
-    "Mewilangun",
-    "Talibarenak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dimba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yugwa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Magegobak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nongopnage"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wengenambur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wawiragi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mewilangun"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talibarenak"
+    }
   ]
 }

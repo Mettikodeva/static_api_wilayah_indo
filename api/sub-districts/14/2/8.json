@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Siambul",
-    "Rantau Langsat",
-    "Sungai Akar",
-    "Usul",
-    "Seberida",
-    "Talang Lakat",
-    "Belimbing",
-    "Ringin",
-    "Penyaguan",
-    "Danau Rambai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siambul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Langsat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Akar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Usul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seberida"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Lakat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Belimbing"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ringin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Penyaguan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Danau Rambai"
+    }
   ]
 }

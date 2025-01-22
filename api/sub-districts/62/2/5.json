@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Baamang Hilir",
-    "Baamang Tengah",
-    "Baamang Hulu",
-    "Tanah Mas",
-    "Baamang Barat",
-    "Tinduk"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baamang Hilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baamang Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Baamang Hulu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanah Mas"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Baamang Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tinduk"
+    }
   ]
 }

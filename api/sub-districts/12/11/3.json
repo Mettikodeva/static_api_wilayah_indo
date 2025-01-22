@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sumbul Tengah",
-    "Ujung Teran",
-    "Juma Gerat",
-    "Sarintonu",
-    "Tigalingga (Tiga Lingga)",
-    "Palding/Polding",
-    "Lau Bagot",
-    "Bertungen Julu",
-    "Lau Molgap",
-    "Lau Pak-Pak (Lau Pakpak)",
-    "Sukandebi",
-    "Lau Mil",
-    "Lau Sireme",
-    "Palding/Polding Jaya Sumbul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumbul Tengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujung Teran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Juma Gerat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sarintonu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tigalingga (Tiga Lingga)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palding/Polding"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lau Bagot"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bertungen Julu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lau Molgap"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lau Pak-Pak (Lau Pakpak)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukandebi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lau Mil"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lau Sireme"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Palding/Polding Jaya Sumbul"
+    }
   ]
 }

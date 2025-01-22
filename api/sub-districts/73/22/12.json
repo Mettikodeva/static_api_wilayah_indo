@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bungapati",
-    "Bungadidi",
-    "Poreang",
-    "Sumberdadi",
-    "Patila",
-    "Sidobinangun",
-    "Rampoang",
-    "Karondang",
-    "Munte",
-    "Sidomakmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bungapati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bungadidi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Poreang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberdadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patila"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidobinangun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rampoang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karondang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Munte"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidomakmur"
+    }
   ]
 }

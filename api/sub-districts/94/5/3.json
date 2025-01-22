@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Yulukoma",
-    "Milawak",
-    "Tinggilbet",
-    "Ogamki",
-    "Dengkibuma",
-    "Dambet",
-    "Ondugi",
-    "Ambobera"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yulukoma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Milawak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tinggilbet"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ogamki"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dengkibuma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dambet"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ondugi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ambobera"
+    }
   ]
 }

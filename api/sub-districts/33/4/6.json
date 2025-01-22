@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Argasoka",
-    "Karangtengah",
-    "Wangon",
-    "Semampir",
-    "Sokanandi",
-    "Parakancanggah",
-    "Semarang",
-    "Krandegan",
-    "Kutabanjarnegara (Kuta Banjarnegara)",
-    "Ampelsari",
-    "Tlagawera",
-    "Cendana",
-    "Sokayasa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Argasoka"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wangon"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Semampir"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sokanandi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Parakancanggah"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Semarang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Krandegan"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kutabanjarnegara (Kuta Banjarnegara)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ampelsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tlagawera"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cendana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sokayasa"
+    }
   ]
 }

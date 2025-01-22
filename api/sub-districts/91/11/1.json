@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Banda",
-    "Pund",
-    "Kalifam",
-    "Yuwainda",
-    "Kalimala",
-    "Ampas",
-    "Bompai",
-    "Sack"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pund"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalifam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yuwainda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalimala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ampas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bompai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sack"
+    }
   ]
 }

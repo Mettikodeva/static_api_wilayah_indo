@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Lewoleba",
-    "Lewoleba Timur",
-    "Lewoleba Tengah",
-    "Lewoleba Utara",
-    "Selandoro",
-    "Lewoleba Selatan",
-    "Lewoleba Barat",
-    "Baolangu",
-    "Nubamado",
-    "Watokobu",
-    "Belobatang",
-    "Waijarang",
-    "Udak Melomata",
-    "Paubokol",
-    "Pada",
-    "Lite Ulu Mado",
-    "Bakalerek",
-    "Bour"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lewoleba"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lewoleba Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lewoleba Tengah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lewoleba Utara"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Selandoro"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Lewoleba Selatan"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Lewoleba Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baolangu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nubamado"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watokobu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Belobatang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waijarang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Udak Melomata"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paubokol"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pada"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lite Ulu Mado"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bakalerek"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bour"
+    }
   ]
 }

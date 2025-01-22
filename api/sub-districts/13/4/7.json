@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sungai Patai",
-    "Andaleh Baruh Bukik",
-    "Tanjung (Tanjuang)",
-    "Sungayang",
-    "Minang Kabau (Minangkabau)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Patai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Andaleh Baruh Bukik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung (Tanjuang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungayang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Minang Kabau (Minangkabau)"
+    }
   ]
 }

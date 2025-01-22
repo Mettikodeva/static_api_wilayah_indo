@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sapaya",
-    "Je'nebatu (Jenebatu)",
-    "Bontomanai",
-    "Buakkang",
-    "Bissoloro",
-    "Rannaloe",
-    "Mangempang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sapaya"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Je'nebatu (Jenebatu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bontomanai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buakkang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bissoloro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rannaloe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mangempang"
+    }
   ]
 }

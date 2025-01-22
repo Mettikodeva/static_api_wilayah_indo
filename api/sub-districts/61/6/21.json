@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kerangan Panjang",
-    "Mawan",
-    "Marta Dana (Martadana)",
-    "Buak Limbang",
-    "Riam Panjang",
-    "Permata (Permata Perda)",
-    "Hulu Pengkadan",
-    "Pinang Laka",
-    "Sasan",
-    "Pengkadan Hilir",
-    "Sira Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kerangan Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mawan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marta Dana (Martadana)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buak Limbang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Riam Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Permata (Permata Perda)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hulu Pengkadan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pinang Laka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sasan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pengkadan Hilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sira Jaya"
+    }
   ]
 }

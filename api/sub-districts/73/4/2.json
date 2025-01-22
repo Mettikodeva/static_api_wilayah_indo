@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bonto Tangnga (Bontotangnga)",
-    "Tonro Kassi (Tonrokassi)",
-    "Tonro Kassi Barat (Tonrokassi Barat)",
-    "Tonro Kassi Timur (Tonrokassi Timur)",
-    "Taman Roya",
-    "Manjangloe",
-    "Borongtala",
-    "Bontosunggu",
-    "Turatea",
-    "Karelayu",
-    "Bontojai",
-    "Turatea Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bonto Tangnga (Bontotangnga)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tonro Kassi (Tonrokassi)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tonro Kassi Barat (Tonrokassi Barat)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tonro Kassi Timur (Tonrokassi Timur)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Taman Roya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Manjangloe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Borongtala"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bontosunggu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Turatea"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karelayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bontojai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Turatea Timur"
+    }
   ]
 }

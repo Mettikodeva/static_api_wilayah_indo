@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Medewi",
-    "Pulukan",
-    "Asahduren",
-    "Pekutatan",
-    "Pangyangan",
-    "Gumbrih",
-    "Manggissari",
-    "Pengeragoan (Pengragoan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Medewi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulukan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asahduren"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pekutatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangyangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gumbrih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manggissari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pengeragoan (Pengragoan)"
+    }
   ]
 }

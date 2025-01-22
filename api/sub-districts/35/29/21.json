@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Nonggunong",
-    "Somber",
-    "Tanah Merah (Tanahmerah)",
-    "Sokaramme Timur (Sokarame Timur)",
-    "Sokarami Paseser (Sokarame Paseser)",
-    "Talaga",
-    "Rosong",
-    "Sonok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nonggunong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Somber"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanah Merah (Tanahmerah)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sokaramme Timur (Sokarame Timur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sokarami Paseser (Sokarame Paseser)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talaga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rosong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sonok"
+    }
   ]
 }

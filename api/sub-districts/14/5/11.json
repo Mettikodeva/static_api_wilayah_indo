@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sei Kijang",
-    "Lubuk Ogung",
-    "Simpang Beringin",
-    "Muda Setia",
-    "Kiab Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sei Kijang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Ogung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Beringin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muda Setia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kiab Jaya"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pasir Putih",
-    "Mansinam",
-    "Ayambori",
-    "Bakaro",
-    "Arowi",
-    "Aipiri",
-    "Susweni"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mansinam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ayambori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bakaro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arowi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aipiri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Susweni"
+    }
   ]
 }

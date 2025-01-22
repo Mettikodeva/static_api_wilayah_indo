@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pengkok",
-    "Celep",
-    "Karangpelem (Karang Pelem)",
-    "Mojodoyong",
-    "Jenggrik",
-    "Mojokerto",
-    "Wonorejo",
-    "Wonokerso",
-    "Kedawung",
-    "Bendungan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pengkok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Celep"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangpelem (Karang Pelem)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mojodoyong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jenggrik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mojokerto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonokerso"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bendungan"
+    }
   ]
 }

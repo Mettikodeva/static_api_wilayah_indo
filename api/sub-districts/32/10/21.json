@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bantaragung (Bantar Agung)",
-    "Padaherang",
-    "Lengkong Kulon (Lengkongkulon)",
-    "Jerukleueut",
-    "Sindangwangi",
-    "Buahkapas",
-    "Ujungberung",
-    "Balagedog",
-    "Leuwilaja",
-    "Lengkong Wetan (Lengkongwetan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bantaragung (Bantar Agung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padaherang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lengkong Kulon (Lengkongkulon)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jerukleueut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sindangwangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buahkapas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ujungberung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balagedog"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Leuwilaja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lengkong Wetan (Lengkongwetan)"
+    }
   ]
 }

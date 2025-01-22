@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lantan",
-    "Setiling",
-    "Tanak Beak",
-    "Aik Bukak (Bukaq)",
-    "Teratak",
-    "Aik Berik",
-    "Mas-mas (Mas Mas)",
-    "Karang Sidemen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lantan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Setiling"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanak Beak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aik Bukak (Bukaq)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teratak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aik Berik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mas-mas (Mas Mas)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karang Sidemen"
+    }
   ]
 }

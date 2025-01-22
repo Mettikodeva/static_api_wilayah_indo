@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Aek Songsongan",
-    "Perkebunan Bandar Selamat",
-    "Perkebunan Bandar Pulau",
-    "Aek Bamban",
-    "Marjanji Aceh",
-    "Lobu Rappa",
-    "Tangga",
-    "Situnjak",
-    "Mekar Marjanji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aek Songsongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perkebunan Bandar Selamat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Bandar Pulau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aek Bamban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marjanji Aceh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lobu Rappa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Situnjak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekar Marjanji"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Bangko Kanan",
-    "Bangko Kiri",
-    "Bangko Jaya",
-    "Bangko Sempurna",
-    "Bangko Bakti",
-    "Bangko Pusaka (Pusako)",
-    "Sungai Menasib (Sei Manasib)",
-    "Teluk Bano I",
-    "Bangko Makmur",
-    "Pematang Damar",
-    "Pematang Ibul",
-    "Bangko Permata",
-    "Bangko Mukti",
-    "Bangko Lestari",
-    "Bangko Balam",
-    "Bangko Mas Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bangko Kanan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bangko Kiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangko Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangko Sempurna"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangko Bakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangko Pusaka (Pusako)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Menasib (Sei Manasib)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Bano I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bangko Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pematang Damar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pematang Ibul"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bangko Permata"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bangko Mukti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bangko Lestari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bangko Balam"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bangko Mas Raya"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Senopi",
-    "Arapi",
-    "Srurem",
-    "Sumo",
-    "Ifat Mitu",
-    "Povokek Ania",
-    "Thomas",
-    "Tintum Araw",
-    "Hobiah"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Senopi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arapi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Srurem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ifat Mitu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Povokek Ania"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Thomas"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tintum Araw"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hobiah"
+    }
   ]
 }

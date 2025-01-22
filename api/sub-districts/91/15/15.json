@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mambai",
-    "Soyoi",
-    "Daimboa",
-    "Napani",
-    "Segha",
-    "Wainarisi",
-    "Fafarui",
-    "Dawoa",
-    "Sinabo",
-    "Woinui"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mambai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soyoi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Daimboa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Napani"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Segha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wainarisi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Fafarui"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dawoa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinabo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Woinui"
+    }
   ]
 }

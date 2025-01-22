@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kersamenak (Karsamenak)",
-    "Cilamajang",
-    "Gunung Tandala (Gunungtandala)",
-    "Urug",
-    "Tanjung",
-    "Cibeuti",
-    "Karanganyar",
-    "Talagasari",
-    "Leuwiliang",
-    "Gunung Gede (Gununggede)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kersamenak (Karsamenak)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cilamajang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gunung Tandala (Gunungtandala)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Urug"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cibeuti"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Talagasari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Leuwiliang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Gunung Gede (Gununggede)"
+    }
   ]
 }

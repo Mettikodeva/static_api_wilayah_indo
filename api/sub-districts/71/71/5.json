@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tikala Baru",
-    "Taas",
-    "Paal IV",
-    "Banjer",
-    "Tikala Ares"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tikala Baru"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Taas"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Paal IV"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Banjer"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tikala Ares"
+    }
   ]
 }

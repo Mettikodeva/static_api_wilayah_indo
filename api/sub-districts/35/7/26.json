@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bendosari",
-    "Sukomulyo",
-    "Pujon Kidul",
-    "Pandesari",
-    "Pujon Lor",
-    "Ngroto",
-    "Ngabab",
-    "Tawangsari",
-    "Madiredo",
-    "Wiyurejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bendosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukomulyo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pujon Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pandesari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pujon Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngroto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngabab"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Madiredo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wiyurejo"
+    }
   ]
 }

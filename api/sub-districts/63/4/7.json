@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sei/Sungai Pantai",
-    "Pindahan Baru",
-    "Sei/Sungai Gampa Asahi",
-    "Sei/Sungai Gampa",
-    "Sei/Sungai Sahurai",
-    "Simpang Arya (Simpang Arja)",
-    "Sinar Baru",
-    "Sei/Sungai Bamban",
-    "Danda Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Pantai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pindahan Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Gampa Asahi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Gampa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Sahurai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Arya (Simpang Arja)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinar Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Bamban"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Danda Jaya"
+    }
   ]
 }

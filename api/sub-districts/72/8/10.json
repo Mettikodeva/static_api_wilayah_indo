@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Tada",
-    "Sinei",
-    "Maninili",
-    "Sigenti",
-    "Malanggo",
-    "Silutung",
-    "Tada Selatan",
-    "Sigega Bersehati",
-    "Siaga",
-    "Khatulistiwa",
-    "Poly (Polly)",
-    "Sigenti Selatan",
-    "Tada Timur",
-    "Sigenti Barat",
-    "Malanggo Pesisir",
-    "Maninili Barat",
-    "Maninili Utara",
-    "Siney Tengah",
-    "Tada Utara",
-    "Oncone Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tada"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sinei"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maninili"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sigenti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malanggo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silutung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tada Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sigega Bersehati"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siaga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Khatulistiwa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Poly (Polly)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sigenti Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tada Timur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sigenti Barat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Malanggo Pesisir"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Maninili Barat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Maninili Utara"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Siney Tengah"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tada Utara"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Oncone Raya"
+    }
   ]
 }

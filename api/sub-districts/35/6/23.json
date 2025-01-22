@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ringinrejo",
-    "Batuaji",
-    "Deyeng",
-    "Dawung",
-    "Purwodadi",
-    "Sambi",
-    "Susuhbango",
-    "Selodono",
-    "Nambakan (Nambaan)",
-    "Srikaton",
-    "Jemekan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ringinrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batuaji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deyeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sambi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Susuhbango"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selodono"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nambakan (Nambaan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Srikaton"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jemekan"
+    }
   ]
 }

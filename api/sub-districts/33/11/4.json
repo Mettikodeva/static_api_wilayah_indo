@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kenep",
-    "Banmati",
-    "Mandan",
-    "Begajah",
-    "Gayam",
-    "Joho",
-    "Jetis",
-    "Combongan",
-    "Kriwen",
-    "Bulakan",
-    "Dukuh",
-    "Sukoharjo",
-    "Bulakrejo",
-    "Sonorejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kenep"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Banmati"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mandan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Begajah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gayam"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Joho"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Combongan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kriwen"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Bulakan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sukoharjo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bulakrejo"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Sonorejo"
+    }
   ]
 }

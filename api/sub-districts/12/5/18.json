@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tangkahan Durian",
-    "Pangkalan Batu",
-    "Sei/Sungai Tualang",
-    "Lubuk Kasih",
-    "Lubuk Kertang",
-    "Perlis",
-    "Kelantan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tangkahan Durian"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pangkalan Batu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Tualang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Kasih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Kertang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perlis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kelantan"
+    }
   ]
 }

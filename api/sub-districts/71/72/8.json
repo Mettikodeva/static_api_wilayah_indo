@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mawali",
-    "Pintukota",
-    "Binuang",
-    "Motto",
-    "Lirang",
-    "Posokan",
-    "Nusu",
-    "Kareko",
-    "Gunung Woka (Batu Woka)",
-    "Batukota"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mawali"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pintukota"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Binuang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Motto"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lirang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Posokan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Nusu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kareko"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gunung Woka (Batu Woka)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Batukota"
+    }
   ]
 }

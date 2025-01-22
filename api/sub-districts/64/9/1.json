@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Tanjung Tengah",
-    "Salo Loang (Saloloang)",
-    "Petung",
-    "Lawe Lawe",
-    "Pejala",
-    "Kampung Baru",
-    "Sesumpu",
-    "Sei/Sungai Parit",
-    "Nipah Nipah",
-    "Nenang",
-    "Penajam",
-    "Gunung Seteleng",
-    "Buluminung (Bulu Minung)",
-    "Sotek",
-    "Sepan",
-    "Riko",
-    "Gersik",
-    "Jenebora",
-    "Pantai Lango",
-    "Giri Mukti",
-    "Bukit Subur",
-    "Sidorejo",
-    "Giri Purwa (Giripurwa)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Tengah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Salo Loang (Saloloang)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Petung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lawe Lawe"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pejala"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sesumpu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sei/Sungai Parit"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Nipah Nipah"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Nenang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Penajam"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Gunung Seteleng"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Buluminung (Bulu Minung)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Sotek"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Sepan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Riko"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Gersik"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Jenebora"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Pantai Lango"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Giri Mukti"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bukit Subur"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Giri Purwa (Giripurwa)"
+    }
   ]
 }

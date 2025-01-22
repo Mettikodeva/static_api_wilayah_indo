@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mandonga",
-    "Korumba",
-    "Labibia",
-    "Wawombalata",
-    "Alolama",
-    "Anggilowu"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mandonga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Korumba"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Labibia"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Wawombalata"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Alolama"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Anggilowu"
+    }
   ]
 }

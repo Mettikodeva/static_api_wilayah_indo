@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kebonsari",
-    "Sumbersari",
-    "Kranjingan (Keranjingan)",
-    "Karangrejo",
-    "Tegalgede (Tegal Gede)",
-    "Wirolegi",
-    "Antirogo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kranjingan (Keranjingan)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tegalgede (Tegal Gede)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wirolegi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Antirogo"
+    }
   ]
 }

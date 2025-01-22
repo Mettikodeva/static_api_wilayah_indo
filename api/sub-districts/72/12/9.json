@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pandauke",
-    "Kolo Bawah",
-    "Kolo Atas",
-    "Momo",
-    "Tananagaya (Tanangaya)",
-    "Uepakatu (Uepaku)",
-    "Lijo",
-    "Tanasumpu",
-    "Parangisi",
-    "Girimulya",
-    "Winangobino (Winangabino)",
-    "Tambale",
-    "Sea",
-    "Menyo'e (Manyoe)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandauke"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kolo Bawah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kolo Atas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Momo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tananagaya (Tanangaya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uepakatu (Uepaku)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lijo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanasumpu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Parangisi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Girimulya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Winangobino (Winangabino)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tambale"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sea"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Menyo'e (Manyoe)"
+    }
   ]
 }

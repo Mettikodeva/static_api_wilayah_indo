@@ -1,43 +1,160 @@
 {
   "districts": [
-    "Cipatujah",
-    "Karangnunggal",
-    "Cikalong",
-    "Pancatengah",
-    "Cikatomas",
-    "Cibalong",
-    "Parungponteng",
-    "Bantarkalong",
-    "Bojongasih",
-    "Culamega",
-    "Bojonggambir",
-    "Sodonghilir",
-    "Taraju",
-    "Salawu",
-    "Puspahiang",
-    "Tanjungjaya",
-    "Sukaraja",
-    "Salopa",
-    "Jatiwaras",
-    "Cineam",
-    "Karangjaya (Karang Jaya)",
-    "Manonjaya",
-    "Gunungtanjung (Gunung Tanjung)",
-    "Singaparna",
-    "Mangunreja",
-    "Sukarame",
-    "Cigalontang",
-    "Leuwisari",
-    "Padakembang",
-    "Sariwangi",
-    "Sukaratu",
-    "Cisayong",
-    "Sukahening",
-    "Rajapolah",
-    "Jamanis",
-    "Ciawi",
-    "Kadipaten",
-    "Pagerageung",
-    "Sukaresik"
+    {
+      "district_id": 1,
+      "kecamatan": "Cipatujah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Karangnunggal"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Cikalong"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pancatengah"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cikatomas"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Cibalong"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Parungponteng"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bantarkalong"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bojongasih"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Culamega"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bojonggambir"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sodonghilir"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Taraju"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Salawu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Puspahiang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tanjungjaya"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sukaraja"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Salopa"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Jatiwaras"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Cineam"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Karangjaya (Karang Jaya)"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Manonjaya"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Gunungtanjung (Gunung Tanjung)"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Singaparna"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Mangunreja"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Sukarame"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Cigalontang"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Leuwisari"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Padakembang"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Sariwangi"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Sukaratu"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Cisayong"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Sukahening"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Rajapolah"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Jamanis"
+    },
+    {
+      "district_id": 36,
+      "kecamatan": "Ciawi"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Kadipaten"
+    },
+    {
+      "district_id": 38,
+      "kecamatan": "Pagerageung"
+    },
+    {
+      "district_id": 39,
+      "kecamatan": "Sukaresik"
+    }
   ]
 }

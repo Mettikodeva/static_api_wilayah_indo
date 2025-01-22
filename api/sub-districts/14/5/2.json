@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pangkalan Kerinci Barat",
-    "Pangkalan Kerinci Kota",
-    "Pangkalan Kerinci Timur Agung",
-    "Mekar Jaya",
-    "Kuala Terusan",
-    "Makmur",
-    "Rantau Baru"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pangkalan Kerinci Barat"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pangkalan Kerinci Kota"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pangkalan Kerinci Timur Agung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Terusan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Baru"
+    }
   ]
 }

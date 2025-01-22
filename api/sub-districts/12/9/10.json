@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Asahan Mati",
-    "Bagan Asahan",
-    "Bagan Asahan Baru",
-    "Bagan Asahan Pekan",
-    "Kapias Batu VIII",
-    "Pematang Sungai/Sei Baru",
-    "Sei/Sungai Apung",
-    "Sei/Sungai Apung Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Asahan Mati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bagan Asahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bagan Asahan Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bagan Asahan Pekan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kapias Batu VIII"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pematang Sungai/Sei Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Apung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Apung Jaya"
+    }
   ]
 }

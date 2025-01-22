@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Ngipik",
-    "Tlogo Pojok (Tlogopojok)",
-    "Karang Turi (Karangturi)",
-    "Tlogo Patut (Tlogopatut)",
-    "Sukorame",
-    "Lumpur",
-    "Karang Poh (Karangpoh)",
-    "Trate",
-    "Sido Kumpul (Sidokumpul)",
-    "Bedilan",
-    "Sukodono",
-    "Kemuteran",
-    "Pekelingan",
-    "Kroman",
-    "Kebungson",
-    "Pekauman",
-    "Tlogobendung",
-    "Gapuro Sukolilo (Gapurosukolilo)",
-    "Pulopancikan",
-    "Kramatinggil",
-    "Sidorukun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ngipik"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tlogo Pojok (Tlogopojok)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karang Turi (Karangturi)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tlogo Patut (Tlogopatut)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukorame"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lumpur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karang Poh (Karangpoh)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Trate"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sido Kumpul (Sidokumpul)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bedilan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sukodono"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kemuteran"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pekelingan"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kroman"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kebungson"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Pekauman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tlogobendung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gapuro Sukolilo (Gapurosukolilo)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pulopancikan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kramatinggil"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sidorukun"
+    }
   ]
 }

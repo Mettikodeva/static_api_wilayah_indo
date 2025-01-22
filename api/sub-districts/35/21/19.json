@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jatirejo",
-    "Cangakan",
-    "Karangmalang (Karang Malang)",
-    "Gunungsari",
-    "Kasreman",
-    "Legokulon (Lego Kulon)",
-    "Tawun",
-    "Kyonten (Kiyonten)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cangakan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangmalang (Karang Malang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kasreman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Legokulon (Lego Kulon)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tawun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kyonten (Kiyonten)"
+    }
   ]
 }

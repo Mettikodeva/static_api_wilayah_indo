@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Long Lake",
-    "Punan Mirau",
-    "Long Rat",
-    "Halanga",
-    "Metut",
-    "Long Jalan",
-    "Nahakramo (Nahakramo Baru)",
-    "Tanjung Nanga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Lake"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Punan Mirau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Rat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Halanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Metut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Long Jalan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nahakramo (Nahakramo Baru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Nanga"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kobi",
-    "Sariputih",
-    "Maneo Rendah",
-    "Kobimukti",
-    "Leaway",
-    "Samal",
-    "Morokai",
-    "Waimusi",
-    "Way Asih",
-    "Waitonipa",
-    "Marasahua",
-    "Kabauhari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kobi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sariputih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maneo Rendah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kobimukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Leaway"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Samal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Morokai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waimusi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Way Asih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waitonipa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Marasahua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kabauhari"
+    }
   ]
 }

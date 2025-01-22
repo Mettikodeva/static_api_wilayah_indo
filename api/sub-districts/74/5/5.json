@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Landono",
-    "Lalonggapu",
-    "Matabenua / Watawunua",
-    "Tridana Mulia",
-    "Landono Dua",
-    "Amotowo",
-    "Abenggi",
-    "Arongo",
-    "Endanga",
-    "Wonua Koa",
-    "Wonua Sangia",
-    "Lakomea",
-    "Morini Mulya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Landono"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lalonggapu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Matabenua / Watawunua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tridana Mulia"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Landono Dua"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Amotowo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Abenggi"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Arongo"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Endanga"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Wonua Koa"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Wonua Sangia"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Lakomea"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Morini Mulya"
+    }
   ]
 }

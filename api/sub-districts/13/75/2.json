@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Campago Guguk Bulek",
-    "Campago Ipuh",
-    "Puhun Tembok",
-    "Kubu Gulai Bancah",
-    "Puhun Pintu Kabun",
-    "Pulai Anak Air",
-    "Koto Selayan",
-    "Garegeh",
-    "Manggis Ganting"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Campago Guguk Bulek"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Campago Ipuh"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Puhun Tembok"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kubu Gulai Bancah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Puhun Pintu Kabun"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pulai Anak Air"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Koto Selayan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Garegeh"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Manggis Ganting"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Durian Payung",
-    "Gotong Royong",
-    "Palapa",
-    "Kaliawi",
-    "Kelapa Tiga",
-    "Pasir Gintung",
-    "Kaliawi Persada"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Durian Payung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gotong Royong"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Palapa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kaliawi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kelapa Tiga"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pasir Gintung"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kaliawi Persada"
+    }
   ]
 }

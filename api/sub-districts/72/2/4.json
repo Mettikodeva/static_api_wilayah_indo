@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tentena",
-    "Pamona",
-    "Sangele",
-    "Tonusu",
-    "Mayakeli",
-    "Buyumpondoli",
-    "Peura",
-    "Dulumai",
-    "Soe",
-    "Leboni",
-    "Wera"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tentena"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pamona"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sangele"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tonusu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mayakeli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buyumpondoli"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Peura"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dulumai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Soe"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Leboni"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wera"
+    }
   ]
 }

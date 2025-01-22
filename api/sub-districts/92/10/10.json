@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kambuaya",
-    "Huberita",
-    "Faitmajin",
-    "Ismayo (Ismayu)",
-    "Sefayit",
-    "Insas",
-    "Faitsiur",
-    "Keyum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kambuaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huberita"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Faitmajin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ismayo (Ismayu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sefayit"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Insas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Faitsiur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keyum"
+    }
   ]
 }

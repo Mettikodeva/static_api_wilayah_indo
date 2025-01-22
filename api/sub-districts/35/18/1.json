@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bendolo",
-    "Sawahan",
-    "Ngliman",
-    "Bareng",
-    "Sidorejo",
-    "Duren",
-    "Siwalan",
-    "Margopatut",
-    "Kebonagung (Kebon Agung)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bendolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngliman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bareng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Siwalan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Margopatut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kebonagung (Kebon Agung)"
+    }
   ]
 }

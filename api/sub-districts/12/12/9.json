@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lintong Julu",
-    "Hatinggian",
-    "Sibaruang",
-    "Jangga Toruan",
-    "Sionggang Selatan",
-    "Pasar Lumban Julu",
-    "Sionggang Utara",
-    "Sionggang Tengah",
-    "Jangga Dolok",
-    "Hutanamora",
-    "Jonggi Nihuta",
-    "Aek Natolu Jaya"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lintong Julu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hatinggian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sibaruang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jangga Toruan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sionggang Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasar Lumban Julu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sionggang Utara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sionggang Tengah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jangga Dolok"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hutanamora"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Jonggi Nihuta"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Aek Natolu Jaya"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sebetung",
-    "Seburuk Satu (Seburuk)",
-    "Sungai Tapah",
-    "Ijuk (Ijok)",
-    "Mengaret",
-    "Kumpang Ilong",
-    "Sungai Antu Hulu",
-    "Terduk Dampak",
-    "Pakit Mulau",
-    "Tabuk Hulu",
-    "Batuk Mulau",
-    "Balai Sepuak",
-    "Bukitrambat (Bukit Rambat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sebetung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Seburuk Satu (Seburuk)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Tapah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ijuk (Ijok)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mengaret"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kumpang Ilong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Antu Hulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terduk Dampak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pakit Mulau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tabuk Hulu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batuk Mulau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Balai Sepuak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukitrambat (Bukit Rambat)"
+    }
   ]
 }

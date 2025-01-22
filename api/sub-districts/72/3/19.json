@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wani Satu / I",
-    "Wani Dua / II",
-    "Nupa Bomba",
-    "Wombo",
-    "Guntarano",
-    "Bale",
-    "Wombo Mpanau (Panau)",
-    "Wombo Kalonggo",
-    "Wani Tiga",
-    "Wani Lumbumpetigo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wani Satu / I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wani Dua / II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nupa Bomba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wombo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Guntarano"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bale"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wombo Mpanau (Panau)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wombo Kalonggo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wani Tiga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wani Lumbumpetigo"
+    }
   ]
 }

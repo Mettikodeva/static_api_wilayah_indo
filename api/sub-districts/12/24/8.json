@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Te'olo",
-    "Siwawo",
-    "Fabaliwa Oyo",
-    "Ononazara",
-    "Humene Siheneasi",
-    "Gunung Tua",
-    "Botona'ai",
-    "Harefa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Te'olo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siwawo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fabaliwa Oyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ononazara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Humene Siheneasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Tua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Botona'ai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Harefa"
+    }
   ]
 }

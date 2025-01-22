@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Mondokan",
-    "Perbon",
-    "Latsari",
-    "Karangsari",
-    "Kingking",
-    "Ronggomulyo",
-    "Sidorejo",
-    "Doromukti",
-    "Sidomulyo",
-    "Kutorejo",
-    "Kebonsari",
-    "Sendangharjo",
-    "Baturetno",
-    "Sukolilo",
-    "Sumurgung",
-    "Sugiharjo",
-    "Kembangbilo"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mondokan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Perbon"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Latsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kingking"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ronggomulyo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Doromukti"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kutorejo"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Sendangharjo"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Baturetno"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Sukolilo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumurgung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sugiharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kembangbilo"
+    }
   ]
 }

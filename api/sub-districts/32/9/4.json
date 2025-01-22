@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pabedilan Kidul",
-    "Pabedilan Wetan",
-    "Pabedilan Kulon",
-    "Pabedilan Kaler",
-    "Silih Asih (Silihasih)",
-    "Tersana",
-    "Pasuruan",
-    "Dukuhwidara",
-    "Kalibuntu",
-    "Kalimukti",
-    "Sidaresmi",
-    "Babakan Losari",
-    "Babakan Losari Lor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pabedilan Kidul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pabedilan Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pabedilan Kulon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pabedilan Kaler"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Silih Asih (Silihasih)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tersana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasuruan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dukuhwidara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalibuntu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalimukti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidaresmi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Babakan Losari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Babakan Losari Lor"
+    }
   ]
 }

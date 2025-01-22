@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Lhoong",
-    "Lhoknga (Lho'nga)",
-    "Indrapuri",
-    "Seulimeum",
-    "Montasik (Mantasiek)",
-    "Sukamakmur (Suka Makmur)",
-    "Darul Imarah",
-    "Peukan Bada",
-    "Mesjid Raya",
-    "Ingin Jaya",
-    "Kuta Baro",
-    "Darussalam",
-    "Pulo Aceh",
-    "Lembah Seulawah",
-    "Kota Jantho",
-    "Kuta Cot Glie (Kota Cot Glie)",
-    "Kuta Malaka (Kota Malaka)",
-    "Simpang Tiga",
-    "Darul Kamal",
-    "Baitussalam",
-    "Krueng Barona Jaya",
-    "Leupung",
-    "Blang Bintang (Blank Bintang)"
+    {
+      "district_id": 1,
+      "kecamatan": "Lhoong"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Lhoknga (Lho'nga)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Indrapuri"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Seulimeum"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Montasik (Mantasiek)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sukamakmur (Suka Makmur)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Darul Imarah"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Peukan Bada"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mesjid Raya"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ingin Jaya"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kuta Baro"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Darussalam"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pulo Aceh"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Lembah Seulawah"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kota Jantho"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kuta Cot Glie (Kota Cot Glie)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kuta Malaka (Kota Malaka)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Simpang Tiga"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Darul Kamal"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Baitussalam"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Krueng Barona Jaya"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Leupung"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Blang Bintang (Blank Bintang)"
+    }
   ]
 }

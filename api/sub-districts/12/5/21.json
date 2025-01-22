@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Serapit",
-    "Gunung Tinggi",
-    "Sidorejo",
-    "Suka Pulung",
-    "Aman Damai/Dame",
-    "Tanjung Kariahan (Tanjung Keriahan / Keriahen)",
-    "Sebertung",
-    "Pulau Semikat",
-    "Sumber Jaya",
-    "Perkebunan Amaltani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serapit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Pulung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aman Damai/Dame"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Kariahan (Tanjung Keriahan / Keriahen)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sebertung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulau Semikat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perkebunan Amaltani"
+    }
   ]
 }

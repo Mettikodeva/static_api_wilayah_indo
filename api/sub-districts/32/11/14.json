@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cimanggung",
-    "Sindangpakuon",
-    "Tegalmanggung",
-    "Sindulang",
-    "Sindanggalih",
-    "Sawahdadap",
-    "Cikahuripan",
-    "Sukadana",
-    "Mangunarga",
-    "Cihanjuang",
-    "Pasirnanjung (Pasirnunjang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cimanggung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindangpakuon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tegalmanggung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindulang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sindanggalih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawahdadap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikahuripan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mangunarga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cihanjuang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasirnanjung (Pasirnunjang)"
+    }
   ]
 }

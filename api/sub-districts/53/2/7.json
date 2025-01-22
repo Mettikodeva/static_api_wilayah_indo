@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tublopo (Meometan)",
-    "Nule (Nulle)",
-    "Nusa",
-    "Mnelalete",
-    "Pusu",
-    "Tubuhue",
-    "Haumeni Baki (Haumenibaki)",
-    "Nifukani"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tublopo (Meometan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nule (Nulle)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nusa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mnelalete"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pusu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tubuhue"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Haumeni Baki (Haumenibaki)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nifukani"
+    }
   ]
 }

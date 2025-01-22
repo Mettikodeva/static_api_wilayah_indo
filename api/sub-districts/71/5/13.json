@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pinamorongan",
-    "Kaneyan",
-    "Koreng",
-    "Tumaluntung",
-    "Rumoong Atas (Romoong Atas)",
-    "Lansot",
-    "Wiau Lapi",
-    "Wuwuk",
-    "Rumoong Atas Dua (Romoong Atas Dua)",
-    "Lansot Timur",
-    "Wuwuk Barat",
-    "Tumaluntung Satu",
-    "Wiau Lapi Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pinamorongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaneyan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koreng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumaluntung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rumoong Atas (Romoong Atas)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lansot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wiau Lapi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wuwuk"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rumoong Atas Dua (Romoong Atas Dua)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lansot Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wuwuk Barat"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tumaluntung Satu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wiau Lapi Barat"
+    }
   ]
 }

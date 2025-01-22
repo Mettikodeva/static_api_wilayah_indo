@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Mulia",
-    "Pasar Mulia",
-    "Belakang Gedung",
-    "Gunung Mesir",
-    "Padang Sialang",
-    "Ketapang Besar",
-    "Pasar Bawah",
-    "Batu Kuning",
-    "Batu Lambang"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Mulia"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar Mulia"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Belakang Gedung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gunung Mesir"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Padang Sialang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Ketapang Besar"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pasar Bawah"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Kuning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Lambang"
+    }
   ]
 }

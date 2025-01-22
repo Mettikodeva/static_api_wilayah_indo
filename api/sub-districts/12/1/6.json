@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pasar Onan Hurlang",
-    "Kolang Nauli",
-    "Unte Mungkur IV",
-    "Unte Mungkur III",
-    "Unte Mungkur II",
-    "Unte Mungkur I",
-    "Satahi Nauli",
-    "Hurlang Muara Nauli",
-    "Sipakpahi Aek Lobu",
-    "Hodopa Nauli (Hudopa Nauli)",
-    "Makarti Nauli",
-    "Rawa Makmur",
-    "Simarpinggang",
-    "Pargaringan"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pasar Onan Hurlang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kolang Nauli"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Unte Mungkur IV"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Unte Mungkur III"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Unte Mungkur II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Unte Mungkur I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Satahi Nauli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hurlang Muara Nauli"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sipakpahi Aek Lobu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hodopa Nauli (Hudopa Nauli)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Makarti Nauli"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rawa Makmur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simarpinggang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pargaringan"
+    }
   ]
 }

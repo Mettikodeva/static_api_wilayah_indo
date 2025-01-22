@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Harapan Rejo",
-    "Endang Rejo",
-    "Dono Arum",
-    "Simpang Agung",
-    "Bumi Kencana",
-    "Gayau Sakti",
-    "Fajar Asri",
-    "Muji Rahayu",
-    "Sulusuban",
-    "Bumi Mas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Harapan Rejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Endang Rejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dono Arum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Kencana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gayau Sakti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Fajar Asri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muji Rahayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sulusuban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Mas"
+    }
   ]
 }

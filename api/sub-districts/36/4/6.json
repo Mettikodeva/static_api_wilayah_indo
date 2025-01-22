@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Waringinkurung",
-    "Talaga Luhur (Telaga Luhur)",
-    "Binangun",
-    "Melati",
-    "Sasahan",
-    "Suka Dalem (Sukadalem)",
-    "Sukabares",
-    "Sambilawang",
-    "Sampir",
-    "Cokopsulanjana",
-    "Kemuning"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waringinkurung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talaga Luhur (Telaga Luhur)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Melati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sasahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Dalem (Sukadalem)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukabares"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sambilawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sampir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cokopsulanjana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kemuning"
+    }
   ]
 }

@@ -1,28 +1,100 @@
 {
   "sub_districts": [
-    "Taman",
-    "Geluran",
-    "Kalijaten",
-    "Ketegan",
-    "Sepanjang",
-    "Bebekan",
-    "Wonocolo",
-    "Ngelom",
-    "Bohar",
-    "Wage",
-    "Kedungturi",
-    "Jemundo",
-    "Sadang",
-    "Sambibulu (Sambi Bulu)",
-    "Bringinbendo",
-    "Sidodadi",
-    "Kramatjegu (Kramat Jegu)",
-    "Trosobo",
-    "Pertapanmaduretno (Pertapan Maduretno)",
-    "Tawangsari",
-    "Gilang",
-    "Kletek",
-    "Tanjungsari",
-    "Krembangan"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Taman"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Geluran"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Kalijaten"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Ketegan"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Sepanjang"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Bebekan"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Wonocolo"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Ngelom"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bohar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wage"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungturi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jemundo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sadang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambibulu (Sambi Bulu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bringinbendo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kramatjegu (Kramat Jegu)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Trosobo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pertapanmaduretno (Pertapan Maduretno)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gilang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kletek"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Krembangan"
+    }
   ]
 }

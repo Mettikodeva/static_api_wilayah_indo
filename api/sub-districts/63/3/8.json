@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Paku",
-    "Simpang Empat",
-    "Lok Cantung (Lokcantung)",
-    "Tanah Intan",
-    "Sei/Sungai Raya",
-    "Sungkai",
-    "Sei/Sungai Langsat",
-    "Lawiran",
-    "Batu Balian",
-    "Cabi",
-    "Berkat Mulia (Berkat Mulya)",
-    "Sungai Baru (Sungkai Baru)",
-    "Paring Tali",
-    "Pasar Lama",
-    "Sei/Sungai Tabuk"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lok Cantung (Lokcantung)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanah Intan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungkai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei/Sungai Langsat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lawiran"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batu Balian"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cabi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Berkat Mulia (Berkat Mulya)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sungai Baru (Sungkai Baru)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Paring Tali"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pasar Lama"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sei/Sungai Tabuk"
+    }
   ]
 }

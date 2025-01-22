@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Simpang",
-    "Rantau Rasau Desa (Rantau Rasau)",
-    "Rantau Makmur",
-    "Sungai Rambut",
-    "Rawasari",
-    "Telaga Limo (Telaga Lima / Telago Limo)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Rasau Desa (Rantau Rasau)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rantau Makmur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Rambut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rawasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telaga Limo (Telaga Lima / Telago Limo)"
+    }
   ]
 }

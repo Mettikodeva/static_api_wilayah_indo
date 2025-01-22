@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sungguer",
-    "Unggi (Ungi)",
-    "Baldon (Boldon)",
-    "Sesor",
-    "Waigo",
-    "Bagraga (Bagaraga)",
-    "Wardik",
-    "Wayer"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungguer"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Unggi (Ungi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baldon (Boldon)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sesor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waigo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bagraga (Bagaraga)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wardik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wayer"
+    }
   ]
 }

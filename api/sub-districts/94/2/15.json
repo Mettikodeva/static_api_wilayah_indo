@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lumo",
-    "Kililumo",
-    "Gilibe",
-    "Ninggineri",
-    "Wurabak",
-    "Wuluma",
-    "Tigir",
-    "Gililome",
-    "Wuramburu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lumo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kililumo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gilibe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ninggineri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wurabak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wuluma"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tigir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gililome"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wuramburu"
+    }
   ]
 }

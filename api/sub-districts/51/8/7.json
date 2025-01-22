@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lemukih",
-    "Galungan",
-    "Sekumpul",
-    "Bebetin",
-    "Sudaji",
-    "Sawan",
-    "Menyali",
-    "Suwug",
-    "Jagaraga",
-    "Sinabun",
-    "Kerobokan",
-    "Sangsit",
-    "Bungkulan",
-    "Giri Emas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lemukih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Galungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sekumpul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bebetin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sudaji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Menyali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suwug"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jagaraga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sinabun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kerobokan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sangsit"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bungkulan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Giri Emas"
+    }
   ]
 }

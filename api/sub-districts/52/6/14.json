@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Labuhan Kenanga",
-    "Kawinda Nae",
-    "Kawinda Toi",
-    "Oi Panihi",
-    "Oi Bura",
-    "Oi Katupa",
-    "Rasabou"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuhan Kenanga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawinda Nae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kawinda Toi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oi Panihi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oi Bura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oi Katupa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rasabou"
+    }
   ]
 }

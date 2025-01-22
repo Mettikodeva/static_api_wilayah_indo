@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kembes II (Kembes Dua)",
-    "Kembes I (Kembes Satu)",
-    "Toumbuluan (Tombuluan)",
-    "Koka",
-    "Suluan",
-    "Kamangta",
-    "Sawangan",
-    "Rumengkor",
-    "Tikela",
-    "Rumengkor Satu",
-    "Rumengkor Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kembes II (Kembes Dua)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kembes I (Kembes Satu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toumbuluan (Tombuluan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suluan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kamangta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rumengkor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tikela"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rumengkor Satu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rumengkor Dua"
+    }
   ]
 }

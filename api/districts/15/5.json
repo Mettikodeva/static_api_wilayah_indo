@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Jambi Luar Kota",
-    "Sekernan",
-    "Kumpeh",
-    "Maro Sebo",
-    "Mestong",
-    "Kumpeh Ulu",
-    "Sungai Bahar",
-    "Sungai Gelam",
-    "Bahar Utara",
-    "Bahar Selatan",
-    "Taman Rajo"
+    {
+      "district_id": 1,
+      "kecamatan": "Jambi Luar Kota"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sekernan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kumpeh"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Maro Sebo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Mestong"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kumpeh Ulu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sungai Bahar"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sungai Gelam"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bahar Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bahar Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Taman Rajo"
+    }
   ]
 }

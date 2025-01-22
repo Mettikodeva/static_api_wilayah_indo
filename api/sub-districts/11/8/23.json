@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Keureutou (Keureutoau)",
-    "Lueng Baro",
-    "Merbo Jurong",
-    "Merbo Lama",
-    "Tanjung/Tanjong Dama",
-    "Geulanggang Baro",
-    "Matang Tunong",
-    "Keude Lapang",
-    "Matang Baroh",
-    "Kuala Kereuto (Kuala Kereutou)",
-    "Kuala Cangkoi/Cangkoy"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keureutou (Keureutoau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lueng Baro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Merbo Jurong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Merbo Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung/Tanjong Dama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Geulanggang Baro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matang Tunong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keude Lapang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Matang Baroh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kuala Kereuto (Kuala Kereutou)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kuala Cangkoi/Cangkoy"
+    }
   ]
 }

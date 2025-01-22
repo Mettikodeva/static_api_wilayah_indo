@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Banua Sibohou III",
-    "Harefanaese",
-    "Hilimbowo Kare",
-    "Laehuwa",
-    "Mazingo",
-    "Hilina'a (Hilina A)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banua Sibohou III"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Harefanaese"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hilimbowo Kare"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laehuwa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mazingo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hilina'a (Hilina A)"
+    }
   ]
 }

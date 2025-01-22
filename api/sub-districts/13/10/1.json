@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Koto Baru",
-    "Sialang Gaung",
-    "Ampang Kuranji",
-    "Koto Padang"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sialang Gaung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ampang Kuranji"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Padang"
+    }
   ]
 }

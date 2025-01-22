@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Rambah Hilir",
-    "Rambah Hilir Tengah",
-    "Rambah Hilir Timur",
-    "Pasir Utama",
-    "Pasir Jaya",
-    "Rambah Muda",
-    "Sungai Sitolang",
-    "Lubuk Krapat/Kerapat",
-    "Rambah",
-    "Serambau/Serombau Indah",
-    "Sungai Dua Indah",
-    "Muara Musu",
-    "Sejati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rambah Hilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rambah Hilir Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rambah Hilir Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasir Utama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasir Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rambah Muda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Sitolang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Krapat/Kerapat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rambah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Serambau/Serombau Indah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Dua Indah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muara Musu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sejati"
+    }
   ]
 }

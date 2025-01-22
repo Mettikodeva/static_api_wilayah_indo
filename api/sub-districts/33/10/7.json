@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gondang",
-    "Basin",
-    "Pluneng",
-    "Ngrundul",
-    "Malangjiwan",
-    "Karangduren",
-    "Menden"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Basin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pluneng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngrundul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malangjiwan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangduren"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Menden"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bolubur",
-    "Geneluk",
-    "Tirib",
-    "Beremo",
-    "Pirage",
-    "Koinggambu",
-    "Liwina",
-    "Eragani",
-    "Luki",
-    "Tioner",
-    "Logulo",
-    "Bawi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bolubur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Geneluk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tirib"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beremo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pirage"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koinggambu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Liwina"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Eragani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Luki"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tioner"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Logulo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bawi"
+    }
   ]
 }

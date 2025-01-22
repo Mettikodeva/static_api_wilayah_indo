@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Koranji",
-    "Banjarwangi",
-    "Sukasari",
-    "Karyawangi",
-    "Sukaraja",
-    "Kaduhejo",
-    "Banjarnegara",
-    "Sanghiangdengdek",
-    "Cilentung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koranji"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjarwangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karyawangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaduhejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjarnegara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sanghiangdengdek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cilentung"
+    }
   ]
 }

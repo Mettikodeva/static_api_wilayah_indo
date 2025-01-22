@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Murung A",
-    "Pagat",
-    "Kalibaru (Kali Baru)",
-    "Kahakan",
-    "Aluan Sumur",
-    "Aluan Besar",
-    "Paya Besar",
-    "Bakti",
-    "Aluan",
-    "Aluan Mati",
-    "Baru",
-    "Pantai Batung",
-    "Layuh",
-    "Haliau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Murung A"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalibaru (Kali Baru)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kahakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aluan Sumur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aluan Besar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paya Besar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aluan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aluan Mati"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pantai Batung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Layuh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Haliau"
+    }
   ]
 }

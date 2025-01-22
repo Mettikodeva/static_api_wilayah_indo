@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mali Mada",
-    "Wano Talla",
-    "Wee Paboba",
-    "Mata Loko (Mataloko)",
-    "Wee Namba",
-    "Puu Potto",
-    "Bodo Ponda",
-    "Reda Wano",
-    "Odi Paurata",
-    "Pandua Tana",
-    "Djela Manu",
-    "Mawo Maliti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mali Mada"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wano Talla"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wee Paboba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mata Loko (Mataloko)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wee Namba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puu Potto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bodo Ponda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Reda Wano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Odi Paurata"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pandua Tana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Djela Manu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mawo Maliti"
+    }
   ]
 }

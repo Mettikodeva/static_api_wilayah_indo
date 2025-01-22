@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Tapau",
-    "Harapan Jaya",
-    "Air Lengit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tapau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Lengit"
+    }
   ]
 }

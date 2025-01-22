@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Halunuk",
-    "Panggungan",
-    "Lumpangi",
-    "Malinau",
-    "Hulu Banyu",
-    "Tumingki",
-    "Kamawakan",
-    "Lok Lahung",
-    "Loksado",
-    "Haratai",
-    "Ulang (Muara Ulang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Halunuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panggungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lumpangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malinau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hulu Banyu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumingki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kamawakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lok Lahung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Loksado"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Haratai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ulang (Muara Ulang)"
+    }
   ]
 }

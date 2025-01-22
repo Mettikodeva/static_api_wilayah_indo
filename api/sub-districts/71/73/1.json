@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pinaras",
-    "Lahendong",
-    "Tondangow",
-    "Pangolombian",
-    "Tumatangtang",
-    "Kampung Jawa",
-    "Lansot",
-    "Walian",
-    "Uluindano",
-    "Walian Satu",
-    "Walian Dua",
-    "Tumatangtang Satu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pinaras"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lahendong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tondangow"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pangolombian"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tumatangtang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kampung Jawa"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lansot"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Walian"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Uluindano"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Walian Satu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Walian Dua"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tumatangtang Satu"
+    }
   ]
 }

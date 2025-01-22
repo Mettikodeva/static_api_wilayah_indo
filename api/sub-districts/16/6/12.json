@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Peninggalan",
-    "Suka Damai",
-    "Berlian Jaya",
-    "Simpang Tungkal",
-    "Pangkalan Tungkal",
-    "Sumber Harum",
-    "Sumber Sari",
-    "Sinar Harapan",
-    "Banjar Jaya",
-    "Beji Mulyo",
-    "Bero Jaya Timur (Berojaya Timur)",
-    "Pandan Sari",
-    "Margo Mulyo",
-    "Sri Mulyo (Srimulyo)",
-    "Sido Mulyo",
-    "Sinar Tungkal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peninggalan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Berlian Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Tungkal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangkalan Tungkal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Harum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinar Harapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjar Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Beji Mulyo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bero Jaya Timur (Berojaya Timur)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pandan Sari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Margo Mulyo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sri Mulyo (Srimulyo)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sido Mulyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sinar Tungkal"
+    }
   ]
 }

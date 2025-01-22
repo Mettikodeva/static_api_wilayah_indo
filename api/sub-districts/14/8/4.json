@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Perawang",
-    "Tualang",
-    "Pinang Sebatang",
-    "Meredan",
-    "Pinang Sebatang Timur",
-    "Pinang Sebatang Barat",
-    "Meredan Barat",
-    "Perawang Barat",
-    "Tualang Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Perawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tualang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pinang Sebatang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meredan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pinang Sebatang Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pinang Sebatang Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meredan Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perawang Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tualang Timur"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Rambu-Rambu",
-    "Lambangi",
-    "Tumbu-Tumbu Jaya",
-    "Ngapawali",
-    "Batuh Putih (Batu Putih)",
-    "Rumba-Rumba",
-    "Ampera",
-    "Amolengu",
-    "Ulunese",
-    "Langgapulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rambu-Rambu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lambangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbu-Tumbu Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngapawali"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batuh Putih (Batu Putih)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rumba-Rumba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ampera"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Amolengu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulunese"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Langgapulu"
+    }
   ]
 }

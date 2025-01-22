@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Serangan",
-    "Pedungan",
-    "Sesetan",
-    "Panjer",
-    "Renon",
-    "Sanur",
-    "Sidakarya",
-    "Pemogan",
-    "Sanur Kaja",
-    "Sanur Kauh"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Serangan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pedungan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sesetan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panjer"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Renon"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sanur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidakarya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pemogan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sanur Kaja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sanur Kauh"
+    }
   ]
 }

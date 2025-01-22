@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Jatirahayu (Jati Rahayu)",
-    "Jatiwarna",
-    "Jatimelati",
-    "Jatimurni"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jatirahayu (Jati Rahayu)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jatiwarna"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jatimelati"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jatimurni"
+    }
   ]
 }

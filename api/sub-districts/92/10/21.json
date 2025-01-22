@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Soroan (Sorowan)",
-    "Fanse",
-    "Chaliat",
-    "Sfacko",
-    "Sehu",
-    "Tbo",
-    "Sien",
-    "Sfaraka (Sfakraka)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Soroan (Sorowan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fanse"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Chaliat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sfacko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sehu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tbo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sien"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sfaraka (Sfakraka)"
+    }
   ]
 }

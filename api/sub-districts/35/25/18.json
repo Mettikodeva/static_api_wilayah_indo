@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gelam",
-    "Sukaoneng",
-    "Sukalela",
-    "Pekalongan",
-    "Tambak",
-    "Telukjatidawang (Teluk Jatidawang)",
-    "Klumpanggubug (Kelompang Gubug)",
-    "Grejeg",
-    "Tanjungori",
-    "Peromaan (Paromaan)",
-    "Diponggo",
-    "Kepuhteluk (Kepuh Teluk)",
-    "Kepuhlegundi (Kepuh Legundi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gelam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaoneng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukalela"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pekalongan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telukjatidawang (Teluk Jatidawang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klumpanggubug (Kelompang Gubug)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Grejeg"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjungori"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Peromaan (Paromaan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Diponggo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kepuhteluk (Kepuh Teluk)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kepuhlegundi (Kepuh Legundi)"
+    }
   ]
 }

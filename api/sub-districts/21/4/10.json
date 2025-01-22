@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Busung Panjang",
-    "Posek",
-    "Suak Buaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Busung Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Posek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suak Buaya"
+    }
   ]
 }

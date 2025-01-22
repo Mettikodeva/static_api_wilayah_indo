@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bukit Sangkal",
-    "Kalidoni",
-    "Sei Selayur",
-    "Sei Selincah",
-    "Sei Lais"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bukit Sangkal"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kalidoni"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sei Selayur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sei Selincah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei Lais"
+    }
   ]
 }

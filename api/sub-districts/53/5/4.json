@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kelaisi Timur",
-    "Kelaisi Barat",
-    "Sidabui",
-    "Padang Alang",
-    "Kuneman",
-    "Silaipui",
-    "Kelaisi Tengah",
-    "Kiraman",
-    "Maikang",
-    "Malaipea",
-    "Tamanapui",
-    "Lella",
-    "Manmas",
-    "Subo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kelaisi Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kelaisi Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidabui"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Alang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuneman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silaipui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kelaisi Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kiraman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maikang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Malaipea"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tamanapui"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lella"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Manmas"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Subo"
+    }
   ]
 }

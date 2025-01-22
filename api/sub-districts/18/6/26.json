@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Way Harong",
-    "Air Kubang",
-    "Karang Sari",
-    "Sidomulyo",
-    "Air Naningan",
-    "Datar Lebuay",
-    "Sinar Jawa",
-    "Batu Tegi",
-    "Sinar Sekampung",
-    "Margomulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Way Harong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Kubang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Naningan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Datar Lebuay"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinar Jawa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Tegi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinar Sekampung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Margomulyo"
+    }
   ]
 }

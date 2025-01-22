@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tukuneno",
-    "Naekasa",
-    "Lookeu",
-    "Derokfaturene (Derok Faturene)",
-    "Bakustulama",
-    "Rinbesihat",
-    "Naitimu",
-    "Lawalutolus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tukuneno"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Naekasa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lookeu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Derokfaturene (Derok Faturene)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bakustulama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rinbesihat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Naitimu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lawalutolus"
+    }
   ]
 }

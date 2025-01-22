@@ -1,10 +1,28 @@
 {
   "districts": [
-    "Sukadana",
-    "Simpang Hilir",
-    "Teluk Batang",
-    "Pulau Maya (Pulau Maya Karimata)",
-    "Seponti",
-    "Kepulauan Karimata"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukadana"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Simpang Hilir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Teluk Batang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pulau Maya (Pulau Maya Karimata)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Seponti"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kepulauan Karimata"
+    }
   ]
 }

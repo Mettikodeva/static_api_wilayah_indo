@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Watolo",
-    "Mawasangka",
-    "Oengkolaki",
-    "Banga",
-    "Tanailandu",
-    "Polindu",
-    "Kanapa Napa",
-    "Terapung",
-    "Wasilomata II",
-    "Wasilotama I (Wasilomata I)",
-    "Matara",
-    "Balobone",
-    "Napa",
-    "Wakambangura",
-    "Kancebungi",
-    "Gumanano",
-    "Dahiango",
-    "Air Bajo",
-    "Wakambangura II"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Watolo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mawasangka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oengkolaki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanailandu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Polindu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kanapa Napa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terapung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wasilomata II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wasilotama I (Wasilomata I)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Matara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Balobone"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Napa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wakambangura"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kancebungi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gumanano"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Dahiango"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Air Bajo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wakambangura II"
+    }
   ]
 }

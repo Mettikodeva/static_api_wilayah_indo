@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sindar Raya",
-    "Sambosar Raya",
-    "Panduman",
-    "Ambarokan Pane Raya (Amborokan Pane Raya)",
-    "Bah Tonang",
-    "Bah Bulian",
-    "Bangun Raya",
-    "Durian Banggal",
-    "Sorba Dolog",
-    "Gunung Datas",
-    "Puli Buah",
-    "Banu Raya",
-    "Marubun Siboras",
-    "Banjaran"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sindar Raya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sambosar Raya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panduman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ambarokan Pane Raya (Amborokan Pane Raya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bah Tonang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bah Bulian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangun Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Durian Banggal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sorba Dolog"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Datas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Puli Buah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banu Raya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Marubun Siboras"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banjaran"
+    }
   ]
 }

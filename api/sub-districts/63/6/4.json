@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bamban Utara",
-    "Bamban",
-    "Bamban Selatan",
-    "Kayu Abang",
-    "Angkinang",
-    "Telaga Sili Sili",
-    "Angkinang Selatan",
-    "Tawia",
-    "Taniran Kubah",
-    "Taniran Selatan",
-    "Bakarung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bamban Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bamban"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bamban Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kayu Abang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Angkinang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telaga Sili Sili"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Angkinang Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tawia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taniran Kubah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taniran Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bakarung"
+    }
   ]
 }

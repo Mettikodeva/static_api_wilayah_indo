@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kayu Tanam",
-    "Guguak",
-    "Anduring (Anduriang)",
-    "Kapalo Hilalang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayu Tanam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Guguak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Anduring (Anduriang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kapalo Hilalang"
+    }
   ]
 }

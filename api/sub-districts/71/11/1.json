@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Tangagah",
-    "Salongo",
-    "Toluaya (Toluayu)",
-    "Molibagu",
-    "Popodu",
-    "Tolondadu",
-    "Tabilaa",
-    "Sondana",
-    "Dudepo",
-    "Pinolantungan",
-    "Tolondadu I",
-    "Tolondadu II",
-    "Soguo",
-    "Pintadia",
-    "Salongo Timur",
-    "Salongo Barat",
-    "Dudepo Barat"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tangagah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salongo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Toluaya (Toluayu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Molibagu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Popodu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tolondadu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tabilaa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sondana"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dudepo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pinolantungan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tolondadu I"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tolondadu II"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Soguo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pintadia"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Salongo Timur"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Salongo Barat"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Dudepo Barat"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Malakaji",
-    "Cikoro",
-    "Garing",
-    "Datara",
-    "Rappolemba",
-    "Rappoala",
-    "Tanete",
-    "Bontobuddung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Malakaji"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cikoro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Garing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Datara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rappolemba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rappoala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanete"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bontobuddung"
+    }
   ]
 }

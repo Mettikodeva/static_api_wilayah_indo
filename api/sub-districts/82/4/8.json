@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Labuha",
-    "Amasing Kota",
-    "Amasing Kali",
-    "Tomori",
-    "Indomut",
-    "Belang Belang",
-    "Sumae",
-    "Kaputusan",
-    "Amasing Kota Barat",
-    "Amasing Kota Utara",
-    "Awanggoa",
-    "Suma Tinggi",
-    "Hidayat",
-    "Marabose"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuha"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Amasing Kota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amasing Kali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tomori"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Indomut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Belang Belang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sumae"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Kaputusan"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Amasing Kota Barat"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Amasing Kota Utara"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Awanggoa"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Suma Tinggi"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Hidayat"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Marabose"
+    }
   ]
 }

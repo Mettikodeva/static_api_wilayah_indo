@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Lhok Kruet",
-    "Pulo Raya",
-    "Meunasah Kulam",
-    "Crak Mong",
-    "Alue Gro",
-    "Kuala Ligan",
-    "Babah Nipah",
-    "Jeumpheuk",
-    "Cot Langsat",
-    "Mataie (Mata IE)",
-    "Blang Monlung",
-    "Krueng No",
-    "Seumantok",
-    "Ranto Sabon",
-    "Ligan",
-    "Ie Jeureungeh",
-    "Kuala Bakong",
-    "Cot Punti (Ex Upt V Patek)",
-    "Krueng Ayon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lhok Kruet"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulo Raya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meunasah Kulam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Crak Mong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alue Gro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuala Ligan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Babah Nipah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jeumpheuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cot Langsat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mataie (Mata IE)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Blang Monlung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Krueng No"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Seumantok"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ranto Sabon"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ligan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ie Jeureungeh"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kuala Bakong"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Cot Punti (Ex Upt V Patek)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Krueng Ayon"
+    }
   ]
 }

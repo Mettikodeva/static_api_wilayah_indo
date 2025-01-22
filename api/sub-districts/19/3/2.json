@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tanjunglabu (Tanjung Labu)",
-    "Tanjungsangkar (Tanjung Sangkar)",
-    "Kumbung",
-    "Penutuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjunglabu (Tanjung Labu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungsangkar (Tanjung Sangkar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kumbung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penutuk"
+    }
   ]
 }

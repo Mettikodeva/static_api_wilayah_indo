@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bumiharjo (Bumi Harjo)",
-    "Punjul Agung",
-    "Sritunggal (Sri Tunggal)",
-    "Suka Bumi (Sukabumi)",
-    "Suka Agung",
-    "Sukadana",
-    "Nuar Maju",
-    "Lebung Lawe",
-    "Way Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumiharjo (Bumi Harjo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Punjul Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sritunggal (Sri Tunggal)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Bumi (Sukabumi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nuar Maju"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lebung Lawe"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Way Agung"
+    }
   ]
 }

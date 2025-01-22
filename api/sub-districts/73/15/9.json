@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pammase",
-    "Marawi",
-    "Fakkie (Pakkie)",
-    "Tiroang",
-    "Mattiro Deceng",
-    "Samaturue"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pammase"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Marawi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Fakkie (Pakkie)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tiroang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mattiro Deceng"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Samaturue"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Balik Bukit",
-    "Sumber Jaya",
-    "Belalau",
-    "Way Tenong",
-    "Sekincau",
-    "Suoh",
-    "Batu Brak",
-    "Sukau",
-    "Gedung Surian",
-    "Kebun Tebu",
-    "Air Hitam",
-    "Pagar Dewa",
-    "Batu Ketulis",
-    "Lumbok Seminung",
-    "Bandar Negeri Suoh"
+    {
+      "district_id": 4,
+      "kecamatan": "Balik Bukit"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sumber Jaya"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Belalau"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Way Tenong"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sekincau"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Suoh"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Batu Brak"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sukau"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Gedung Surian"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kebun Tebu"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Air Hitam"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Pagar Dewa"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Batu Ketulis"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Lumbok Seminung"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Bandar Negeri Suoh"
+    }
   ]
 }

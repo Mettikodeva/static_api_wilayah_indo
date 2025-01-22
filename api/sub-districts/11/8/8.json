@@ -1,44 +1,164 @@
 {
   "sub_districts": [
-    "Pie (Gampong Pie)",
-    "Asan (Meunasah Asan)",
-    "Murong",
-    "Blang Kabu",
-    "Mancang",
-    "Keude Geudong",
-    "Blang Peuria",
-    "Teupin Ara",
-    "Teupin Beulangan",
-    "Krueng Baro Langgahan",
-    "Pusong",
-    "Tanjong Kleng",
-    "Gampong Baro",
-    "Beuringen",
-    "Kuta Krueng",
-    "Kuta Glumpang",
-    "Meucat",
-    "Krueng Baro Blang Mee (Krueng Baro Blang Me)",
-    "Ujong",
-    "Mesjid (Gampong Mesjid)",
-    "Teungoh (Gampong Teungoh)",
-    "Keude Blangmee Pulokat",
-    "Puuk",
-    "Lancang",
-    "Matang Ulim",
-    "Sawang",
-    "Laga Baro",
-    "Pulo",
-    "Matang Tunong",
-    "Matang Puntong",
-    "Blang Nibong",
-    "Tanjong Baroh (Gampong Tanjung Baroh)",
-    "Tanjung/Tanjong Hagu",
-    "Tanjong Reungkam (Tanjong Rengkam)",
-    "Tanjung/Tanjong Mesjid",
-    "Paya Terbang",
-    "Madan",
-    "Tanjong Awe (Gampong Tanjong Awe)",
-    "Kitou",
-    "Krueng Matee (Krueng Mate)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pie (Gampong Pie)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asan (Meunasah Asan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Murong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Blang Kabu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mancang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keude Geudong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blang Peuria"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teupin Ara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teupin Beulangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Krueng Baro Langgahan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pusong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjong Kleng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gampong Baro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Beuringen"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kuta Krueng"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kuta Glumpang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Meucat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Krueng Baro Blang Mee (Krueng Baro Blang Me)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ujong"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mesjid (Gampong Mesjid)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Teungoh (Gampong Teungoh)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Keude Blangmee Pulokat"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Puuk"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lancang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Matang Ulim"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sawang"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Laga Baro"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Pulo"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Matang Tunong"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Matang Puntong"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Blang Nibong"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Tanjong Baroh (Gampong Tanjung Baroh)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Tanjung/Tanjong Hagu"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Tanjong Reungkam (Tanjong Rengkam)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Tanjung/Tanjong Mesjid"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Paya Terbang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Madan"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Tanjong Awe (Gampong Tanjong Awe)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Kitou"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Krueng Matee (Krueng Mate)"
+    }
   ]
 }

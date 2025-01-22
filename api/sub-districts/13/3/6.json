@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sungai Lansek",
-    "Kamang",
-    "Muaro Takuang",
-    "Aia Amo",
-    "Sungai Batuang",
-    "Kunangan Parik Rantang",
-    "Tanjung Kaliang",
-    "Padang Tarok",
-    "Siaur",
-    "Lubuk Tarantang",
-    "Maloro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Lansek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kamang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muaro Takuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aia Amo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Batuang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kunangan Parik Rantang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Kaliang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padang Tarok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siaur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubuk Tarantang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maloro"
+    }
   ]
 }

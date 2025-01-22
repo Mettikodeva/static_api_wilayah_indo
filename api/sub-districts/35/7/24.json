@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pagentan",
-    "Losari",
-    "Candirenggo",
-    "Wonorejo",
-    "Dengkol",
-    "Baturetno",
-    "Watugede",
-    "Banjararum",
-    "Tunjungtirto",
-    "Lang - Lang (Langlang)",
-    "Purwoasri",
-    "Klampok",
-    "Gunungrejo",
-    "Tamanharjo",
-    "Ardimulyo",
-    "Toyomarto",
-    "Randuagung"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pagentan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Losari"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Candirenggo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dengkol"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baturetno"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watugede"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjararum"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunjungtirto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lang - Lang (Langlang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purwoasri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klampok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunungrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tamanharjo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ardimulyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Toyomarto"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Randuagung"
+    }
   ]
 }

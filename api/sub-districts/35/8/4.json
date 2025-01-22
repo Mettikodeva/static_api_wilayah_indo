@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gondoruso",
-    "Kalibendo",
-    "Bades",
-    "Bago",
-    "Selok Awar Awar",
-    "Condro",
-    "Madurejo",
-    "Pasirian",
-    "Sememu",
-    "Nguter",
-    "Selokanyar (Selok Anyar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gondoruso"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalibendo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bades"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bago"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Selok Awar Awar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Condro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Madurejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasirian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sememu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nguter"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Selokanyar (Selok Anyar)"
+    }
   ]
 }

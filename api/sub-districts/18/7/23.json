@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tambah Subur",
-    "Tanjung Qencono (Tanjung Kencono)",
-    "Tanjung Tirto",
-    "Toto Mulyo",
-    "Toto Projo",
-    "Taman Negeri",
-    "Tegal Ombo",
-    "Kali Pasir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambah Subur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Qencono (Tanjung Kencono)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Tirto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Toto Mulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toto Projo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taman Negeri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegal Ombo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kali Pasir"
+    }
   ]
 }

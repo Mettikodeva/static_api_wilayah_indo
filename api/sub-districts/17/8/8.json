@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Limbur Baru",
-    "Batu Kalung",
-    "Batu Bandung",
-    "Sosokan Baru",
-    "Sosokan Taba (Sosokan Tabah)",
-    "Talang Tige",
-    "Renah Kurung",
-    "Warung Pojok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Limbur Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Kalung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Bandung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sosokan Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sosokan Taba (Sosokan Tabah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Tige"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Renah Kurung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Warung Pojok"
+    }
   ]
 }

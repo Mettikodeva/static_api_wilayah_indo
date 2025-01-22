@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Firiwage",
-    "Karuwage",
-    "Waliburu",
-    "Kabuwage"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Firiwage"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karuwage"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waliburu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kabuwage"
+    }
   ]
 }

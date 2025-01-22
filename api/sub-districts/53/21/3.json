@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Halibasar",
-    "Weulun",
-    "Webriamata",
-    "Badarai",
-    "Weoe",
-    "Lorotolus",
-    "Seserai",
-    "Alkani",
-    "Lamea",
-    "Rabasa Biris",
-    "Biris",
-    "Weseben"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Halibasar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Weulun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Webriamata"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Badarai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Weoe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lorotolus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seserai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Alkani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamea"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rabasa Biris"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Biris"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Weseben"
+    }
   ]
 }

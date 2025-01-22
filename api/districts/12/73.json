@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Sibolga Utara",
-    "Sibolga Kota",
-    "Sibolga Selatan",
-    "Sibolga Sambas"
+    {
+      "district_id": 1,
+      "kecamatan": "Sibolga Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sibolga Kota"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sibolga Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sibolga Sambas"
+    }
   ]
 }

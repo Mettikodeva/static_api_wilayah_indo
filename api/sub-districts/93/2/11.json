@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kuken",
-    "Klofkamp (Kolopkam)",
-    "Awaken (Nyum)",
-    "Arimbit",
-    "Anyumka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuken"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klofkamp (Kolopkam)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Awaken (Nyum)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arimbit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Anyumka"
+    }
   ]
 }

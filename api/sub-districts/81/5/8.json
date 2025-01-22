@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Selor",
-    "Nekan",
-    "Afang Kota",
-    "Afang Defol",
-    "Kumelang",
-    "Undur",
-    "Kamar",
-    "Gunak",
-    "Sumbawa",
-    "Kilmury",
-    "Kilbon Kway",
-    "Mising",
-    "Bitorik",
-    "Taa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nekan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Afang Kota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Afang Defol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumelang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Undur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kamar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumbawa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kilmury"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kilbon Kway"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mising"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bitorik"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Taa"
+    }
   ]
 }

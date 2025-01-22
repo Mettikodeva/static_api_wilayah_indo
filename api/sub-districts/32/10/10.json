@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Parakan",
-    "Patuanan",
-    "Nanggerang",
-    "Lame",
-    "Mindi",
-    "Rajawangi",
-    "Leuwikujang",
-    "Mirat",
-    "Leuwimunding",
-    "Ciparay",
-    "Heuleut",
-    "Karangasem",
-    "Tanjungsari",
-    "Parungjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Patuanan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nanggerang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mindi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rajawangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Leuwikujang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mirat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Leuwimunding"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ciparay"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Heuleut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangasem"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Parungjaya"
+    }
   ]
 }

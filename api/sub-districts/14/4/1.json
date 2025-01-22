@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pulaukijang (Pulau Kijang)",
-    "Metro",
-    "Madani",
-    "Sanglar",
-    "Pulaukecil (Pulau Kecil)",
-    "Sungaiterap (Sungai Terab / Terap)",
-    "Sungaiundan (Sungai Undan)",
-    "Seberang Sanglar",
-    "Mekar Sari",
-    "Seberang Pulau Kijang",
-    "Sungaiasam (Sungai Asam)",
-    "Pulauruku (Pulau Ruku)",
-    "Tanjunglabuh (Tanjung Labuh)",
-    "Sungaimahang (Sungai Mahang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulaukijang (Pulau Kijang)"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Metro"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Madani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sanglar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulaukecil (Pulau Kecil)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungaiterap (Sungai Terab / Terap)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungaiundan (Sungai Undan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seberang Sanglar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Seberang Pulau Kijang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungaiasam (Sungai Asam)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pulauruku (Pulau Ruku)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanjunglabuh (Tanjung Labuh)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sungaimahang (Sungai Mahang)"
+    }
   ]
 }

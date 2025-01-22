@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Redisari",
-    "Kalisari",
-    "Pringtutul",
-    "Rowokele",
-    "Bumiagung",
-    "Jatiluhur",
-    "Kretek",
-    "Sukomulyo",
-    "Giyanti",
-    "Wonoharjo",
-    "Wagirpandan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Redisari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pringtutul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rowokele"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumiagung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatiluhur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kretek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Giyanti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonoharjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wagirpandan"
+    }
   ]
 }

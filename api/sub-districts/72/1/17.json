@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Beringin Jaya",
-    "Rantau Jaya",
-    "Koninis",
-    "Gonohop",
-    "Sumber Mulia",
-    "Doda Bunta",
-    "Simpang Satu",
-    "Simpang Dua",
-    "Dowiwi",
-    "Mantan A",
-    "Dwipa Karya",
-    "Lokait"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koninis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gonohop"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Mulia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Doda Bunta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang Satu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpang Dua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dowiwi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mantan A"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dwipa Karya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lokait"
+    }
   ]
 }

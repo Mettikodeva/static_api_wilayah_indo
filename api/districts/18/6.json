@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Kota Agung (Kota Agung Pusat)",
-    "Talang Padang",
-    "Wonosobo",
-    "Pulau Panggung",
-    "Cukuh Balak",
-    "Pugung",
-    "Semaka",
-    "Sumberejo (Sumber Rejo)",
-    "Ulu Belu (Ulubelu)",
-    "Pematang Sawa",
-    "Kelumbayan (Klumbayan)",
-    "Kota Agung Barat",
-    "Kota Agung Timur",
-    "Gisting",
-    "Gunung Alip",
-    "Limau",
-    "Bandar Negeri Semuong",
-    "Air Naningan",
-    "Bulok",
-    "Kelumbayan Barat (Klumbayan Barat)"
+    {
+      "district_id": 1,
+      "kecamatan": "Kota Agung (Kota Agung Pusat)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Talang Padang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wonosobo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pulau Panggung"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Cukuh Balak"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pugung"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Semaka"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Sumberejo (Sumber Rejo)"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Ulu Belu (Ulubelu)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pematang Sawa"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kelumbayan (Klumbayan)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kota Agung Barat"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kota Agung Timur"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Gisting"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Gunung Alip"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Limau"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Bandar Negeri Semuong"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Air Naningan"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Bulok"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Kelumbayan Barat (Klumbayan Barat)"
+    }
   ]
 }

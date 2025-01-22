@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Wosimi (Wosimo)",
-    "Sararti",
-    "Yabore",
-    "Oya (Oyaa)",
-    "Inyora",
-    "Undurara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wosimi (Wosimo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sararti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yabore"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oya (Oyaa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Inyora"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Undurara"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sungkung I",
-    "Siding",
-    "Hli Buei",
-    "Tangguh",
-    "Sungkung II",
-    "Sungkung III",
-    "Tamong",
-    "Tawang"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungkung I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siding"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hli Buei"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tangguh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungkung II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungkung III"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tamong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tawang"
+    }
   ]
 }

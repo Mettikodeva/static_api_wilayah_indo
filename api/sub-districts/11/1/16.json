@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pinto Rimba",
-    "Krueng Luas",
-    "Jambo Dalem",
-    "Kapa Sesak (Kapai Seusak)",
-    "Seuneubok Punto (Seuneubok Puntho)",
-    "Seuneubok Pusaka",
-    "Alur Bujok",
-    "Titi Poben"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pinto Rimba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Krueng Luas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jambo Dalem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kapa Sesak (Kapai Seusak)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seuneubok Punto (Seuneubok Puntho)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seuneubok Pusaka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Alur Bujok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Titi Poben"
+    }
   ]
 }

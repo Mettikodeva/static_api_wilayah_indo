@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Muara/Muaro Siberut",
-    "Maileppet/Maleppet",
-    "Muntei",
-    "Matotonan",
-    "Madobag (Madobak Ugai)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara/Muaro Siberut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maileppet/Maleppet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muntei"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matotonan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Madobag (Madobak Ugai)"
+    }
   ]
 }

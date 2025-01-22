@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sena",
-    "Tumpatan Nibung",
-    "Tanjung Sari",
-    "Baru (kampung Baru)",
-    "Batangkuis Pekan (Batang Kuis Pekan)",
-    "Sidodadi",
-    "Bintang Meriah",
-    "Bakaran Batu",
-    "Paya Gambar",
-    "Mesjid",
-    "Sugiharjo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sena"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumpatan Nibung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baru (kampung Baru)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batangkuis Pekan (Batang Kuis Pekan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bintang Meriah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakaran Batu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paya Gambar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mesjid"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sugiharjo"
+    }
   ]
 }

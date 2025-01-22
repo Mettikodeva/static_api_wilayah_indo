@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Seloharjo",
-    "Panjangrejo",
-    "Srihardono"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seloharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panjangrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Srihardono"
+    }
   ]
 }

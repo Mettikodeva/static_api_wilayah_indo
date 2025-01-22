@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Oelami",
-    "Tublopo",
-    "Kiusili",
-    "Naiola",
-    "Maurisu",
-    "Oetalus",
-    "Maurisu Utara",
-    "Maurisu Selatan",
-    "Maurisu Tengah",
-    "Naiola Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Oelami"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tublopo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kiusili"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Naiola"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maurisu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oetalus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maurisu Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maurisu Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maurisu Tengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Naiola Timur"
+    }
   ]
 }

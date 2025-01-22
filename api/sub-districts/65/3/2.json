@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Nunukan Timur",
-    "Nunukan Barat",
-    "Nunukan Utara",
-    "Nunukan Tengah",
-    "Binusan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Nunukan Timur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nunukan Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nunukan Utara"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nunukan Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Binusan"
+    }
   ]
 }

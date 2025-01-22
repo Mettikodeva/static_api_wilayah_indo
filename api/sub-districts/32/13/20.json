@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karyamukti",
-    "Cimayasari",
-    "Lengkong",
-    "Cipeundeuy",
-    "Wantilan",
-    "Kosar",
-    "Sawangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimayasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipeundeuy"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wantilan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kosar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawangan"
+    }
   ]
 }

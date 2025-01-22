@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wamena Kota",
-    "Sinapuk",
-    "Sinakma",
-    "Honelama",
-    "Hulekama / Hurekama",
-    "Batu Merah",
-    "Autakma",
-    "Honelama Dua",
-    "Honaima",
-    "Lanitipo",
-    "Wamaroma"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wamena Kota"
+    },
+    {
+      "sub_district_id": 1056,
+      "desa_kelurahan": "Sinapuk"
+    },
+    {
+      "sub_district_id": 1057,
+      "desa_kelurahan": "Sinakma"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Honelama"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Hulekama / Hurekama"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Batu Merah"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Autakma"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Honelama Dua"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Honaima"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Lanitipo"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Wamaroma"
+    }
   ]
 }

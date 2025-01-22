@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Galuhtimur (Galuh Timur)",
-    "Kalijurang",
-    "Karangjongkeng",
-    "Kutamendala",
-    "Kutayu",
-    "Linggapura",
-    "Negarayu",
-    "Pepedan",
-    "Purbayasa",
-    "Rajawetan",
-    "Purwodadi",
-    "Tanggeran",
-    "Tonjong",
-    "Watujaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Galuhtimur (Galuh Timur)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalijurang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangjongkeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kutamendala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Linggapura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Negarayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pepedan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purbayasa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rajawetan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanggeran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tonjong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Watujaya"
+    }
   ]
 }

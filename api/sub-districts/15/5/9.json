@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Talang Bukit",
-    "Talang Datar",
-    "Sumber Mulya",
-    "Mulya Jaya",
-    "Matra Manunggal",
-    "Bukit Mulya",
-    "Sumber Jaya",
-    "Pinang Tinggi",
-    "Markanding",
-    "Sungai Dayo",
-    "Bahar Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talang Bukit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Datar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mulya Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matra Manunggal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pinang Tinggi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Markanding"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Dayo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bahar Mulya"
+    }
   ]
 }

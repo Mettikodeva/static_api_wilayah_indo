@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ranjeng",
-    "Krimun",
-    "Puntang",
-    "Pegagan",
-    "Rajaiyang",
-    "Jangga",
-    "Jumbleng",
-    "Pangkalan",
-    "Losarang",
-    "Muntur",
-    "Santing",
-    "Cemara Kulon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ranjeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Krimun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puntang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pegagan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rajaiyang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jangga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jumbleng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Losarang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muntur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Santing"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cemara Kulon"
+    }
   ]
 }

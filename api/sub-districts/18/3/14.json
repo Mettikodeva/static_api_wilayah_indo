@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tatakarya (Tata Karya)",
-    "Bandar Abung (Bandar Agung)",
-    "Bangun Sari",
-    "Purba Sakti",
-    "Bumi Raharja",
-    "Bumi Restu",
-    "Bandar Sakti",
-    "Karya Sakti",
-    "Sukoharjo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tatakarya (Tata Karya)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandar Abung (Bandar Agung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangun Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purba Sakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Raharja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Restu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandar Sakti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Sakti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukoharjo"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Loyang",
-    "Amis",
-    "Jatisura",
-    "Jambak",
-    "Cikidung Kidul (Cikedung)",
-    "Cikedung Lor",
-    "Mundakjaya"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Loyang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatisura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jambak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikidung Kidul (Cikedung)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cikedung Lor"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mundakjaya"
+    }
   ]
 }

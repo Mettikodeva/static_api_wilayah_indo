@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Suka Maju",
-    "Titi Kuning",
-    "Kedai Durian",
-    "Pangkalan Mansur (Pangkalan Masyhur)",
-    "Gedung Johor",
-    "Kwala Bekala"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Titi Kuning"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedai Durian"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pangkalan Mansur (Pangkalan Masyhur)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gedung Johor"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kwala Bekala"
+    }
   ]
 }

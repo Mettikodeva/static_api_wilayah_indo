@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Horowura",
-    "Kokotobo",
-    "Lite",
-    "Kenotan",
-    "Nubalema",
-    "Wewit",
-    "Lewobele",
-    "Baya",
-    "Bidara",
-    "Oesayang (Oe Sayang)",
-    "Hoko Horowura",
-    "Lewopao",
-    "Nubalema Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Horowura"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kokotobo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lite"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenotan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nubalema"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wewit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lewobele"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bidara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Oesayang (Oe Sayang)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hoko Horowura"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lewopao"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nubalema Dua"
+    }
   ]
 }

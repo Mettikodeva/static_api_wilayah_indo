@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kopen",
-    "Doplang",
-    "Kadireso",
-    "Nepen",
-    "Sudimoro",
-    "Bangsalan",
-    "Salakan",
-    "Teras",
-    "Randusari",
-    "Mojolegi",
-    "Gumukrejo",
-    "Tawangsari",
-    "Krasak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kopen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Doplang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kadireso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nepen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sudimoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangsalan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teras"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Randusari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mojolegi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gumukrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Krasak"
+    }
   ]
 }

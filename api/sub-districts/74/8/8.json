@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lambai",
-    "Latawaro",
-    "Lapasi-Pasi",
-    "Raoda",
-    "Woise",
-    "Woitombo",
-    "Tebongeano (Tebagiano)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Latawaro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lapasi-Pasi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Raoda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Woise"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Woitombo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tebongeano (Tebagiano)"
+    }
   ]
 }

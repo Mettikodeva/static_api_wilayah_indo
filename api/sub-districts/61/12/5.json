@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tanjungberingin (Tanjung Beringin)",
-    "Batu Ampar",
-    "Teluknibung (Teluk Nibung)",
-    "Padang Tikar Satu (Padang Tikar I)",
-    "Padang Tikar Dua (Padang Tikar II)",
-    "Tasik Malaya",
-    "Sungaibesar (Sei / Sungai Besar)",
-    "Sungaijawi (Sei / Sungai Jawi)",
-    "Nipah Panjang",
-    "Ambarawa",
-    "Tanjungharapan (Tanjung Harapan)",
-    "Sungaikerawang (Sei / Sungai Kerawang)",
-    "Sumber Agung",
-    "Muara Tiga",
-    "Medan Mas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungberingin (Tanjung Beringin)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluknibung (Teluk Nibung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Tikar Satu (Padang Tikar I)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Tikar Dua (Padang Tikar II)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tasik Malaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungaibesar (Sei / Sungai Besar)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaijawi (Sei / Sungai Jawi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nipah Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ambarawa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjungharapan (Tanjung Harapan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungaikerawang (Sei / Sungai Kerawang)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muara Tiga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Medan Mas"
+    }
   ]
 }

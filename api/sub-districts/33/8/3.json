@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bligo",
-    "Pakunden",
-    "Somokaton",
-    "Ngluwar",
-    "Karangtalun",
-    "Jamuskauman",
-    "Plosogede",
-    "Blongkeng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bligo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pakunden"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Somokaton"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngluwar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangtalun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jamuskauman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Plosogede"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blongkeng"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pammana",
-    "Cina",
-    "Lempa",
-    "Patila",
-    "Kampiri",
-    "Lapauke",
-    "Lagosi",
-    "Pallawaruka",
-    "Wecudai",
-    "Lampulung",
-    "Watampanua",
-    "Tadangpalie",
-    "Simpursia",
-    "Tobatang",
-    "Abbanuangnge",
-    "Tonrong Tengnga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pammana"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cina"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lempa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Patila"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kampiri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lapauke"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lagosi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pallawaruka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wecudai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lampulung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Watampanua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tadangpalie"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simpursia"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tobatang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Abbanuangnge"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tonrong Tengnga"
+    }
   ]
 }

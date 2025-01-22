@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kayu Agung",
-    "Sumber Agung",
-    "Kotaraya",
-    "Mepanga",
-    "Ogotion",
-    "Mensung",
-    "Bugis",
-    "Moubang",
-    "Ogobayas",
-    "Kota Raya Timur (Kotaraya Timur)",
-    "Malalan",
-    "Kota Raya Selatan",
-    "Maranti",
-    "Ogomolos",
-    "Kotaraya Barat",
-    "Bugis Utara",
-    "Gurinda",
-    "Kotaraya Tenggara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayu Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kotaraya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mepanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ogotion"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mensung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bugis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Moubang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ogobayas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kota Raya Timur (Kotaraya Timur)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Malalan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kota Raya Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Maranti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ogomolos"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kotaraya Barat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bugis Utara"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gurinda"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kotaraya Tenggara"
+    }
   ]
 }

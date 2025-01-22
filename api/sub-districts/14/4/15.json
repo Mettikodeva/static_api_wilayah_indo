@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pelangiran",
-    "Rotan Semelur",
-    "Simpang Kateman",
-    "Tanjungsimpang (Tanjung Simpang)",
-    "Gaung/Baung Rejo Jaya",
-    "Tagagiri Tama Jaya",
-    "Pinang Jaya",
-    "Wonosari",
-    "Tegal Rejo",
-    "Intan Mulia/Mulya Jaya",
-    "Saka Palas Jaya",
-    "Catur Karya",
-    "Bagan Jaya",
-    "Telukbunian (Teluk Bunian)",
-    "Terusan Beringin Jaya",
-    "Hidayah"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pelangiran"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rotan Semelur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Kateman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungsimpang (Tanjung Simpang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gaung/Baung Rejo Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tagagiri Tama Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pinang Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegal Rejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Intan Mulia/Mulya Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saka Palas Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Catur Karya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bagan Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Telukbunian (Teluk Bunian)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Terusan Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hidayah"
+    }
   ]
 }

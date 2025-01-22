@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Babadan",
-    "Pohkonyal (Poh Konyal)",
-    "Sumber",
-    "Gandri",
-    "Pleset",
-    "Warutengah (Waruk Tengah)",
-    "Ngompro",
-    "Pangkur",
-    "Paras"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pohkonyal (Poh Konyal)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gandri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pleset"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Warutengah (Waruk Tengah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngompro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangkur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paras"
+    }
   ]
 }

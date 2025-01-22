@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kucur",
-    "Kalisongo",
-    "Karangwidoro",
-    "Petungsewu (Petung Sewu)",
-    "Selorejo",
-    "Tegalweru",
-    "Landungsari",
-    "Mulyoagung",
-    "Gadingkulon",
-    "Sumbersekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kucur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalisongo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangwidoro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Petungsewu (Petung Sewu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Selorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalweru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Landungsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mulyoagung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gadingkulon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumbersekar"
+    }
   ]
 }

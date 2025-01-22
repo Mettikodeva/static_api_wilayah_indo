@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wonodadi",
-    "Sendang",
-    "Baosan Kidul",
-    "Binade",
-    "Mrayan (Merayan)",
-    "Baosan Lor",
-    "Temon",
-    "Selur",
-    "Ngrayun (Ngerayun)",
-    "Cepoko",
-    "Gedangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonodadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baosan Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Binade"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mrayan (Merayan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baosan Lor"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Temon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngrayun (Ngerayun)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cepoko"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gedangan"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "districts": [
-    "Balikpapan Timur",
-    "Balikpapan Barat",
-    "Balikpapan Utara",
-    "Balikpapan Tengah",
-    "Balikpapan Selatan",
-    "Balikpapan Kota"
+    {
+      "district_id": 1,
+      "kecamatan": "Balikpapan Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Balikpapan Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Balikpapan Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Balikpapan Tengah"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Balikpapan Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Balikpapan Kota"
+    }
   ]
 }

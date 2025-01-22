@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jayamekar",
-    "Buanamekar",
-    "Cibugel",
-    "Sukaraja",
-    "Cipasang",
-    "Tamansari",
-    "Jayamandiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jayamekar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buanamekar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibugel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipasang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jayamandiri"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bonesompe",
-    "Kasintuwu",
-    "Lombogia (Lombugia)",
-    "Lawanga",
-    "Tegalrejo (Tegal Rejo)",
-    "Madale",
-    "Lawanga Tawongan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bonesompe"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kasintuwu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lombogia (Lombugia)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lawanga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tegalrejo (Tegal Rejo)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Madale"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lawanga Tawongan"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sidorejo",
-    "Ulak Lebar",
-    "Tapak Lebar",
-    "Bandung Kanan",
-    "Keputraan",
-    "Lubuklinggau Ilir (Lubuk Linggau Ilir)",
-    "Lubuklinggau Ulu (Lubuk Linggau Ulu)",
-    "Pasar Permiri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ulak Lebar"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tapak Lebar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bandung Kanan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Keputraan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lubuklinggau Ilir (Lubuk Linggau Ilir)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lubuklinggau Ulu (Lubuk Linggau Ulu)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasar Permiri"
+    }
   ]
 }

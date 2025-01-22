@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Klayili",
-    "Klawuluh",
-    "Malakobutu",
-    "Kwakeik",
-    "Klasowoh",
-    "Malalilis",
-    "Mlawer",
-    "Klatomok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klayili"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klawuluh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malakobutu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kwakeik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klasowoh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malalilis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mlawer"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Klatomok"
+    }
   ]
 }

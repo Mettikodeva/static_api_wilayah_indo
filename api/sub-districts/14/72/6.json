@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Laksamana",
-    "Rimba Sekampung",
-    "Dumai Kota",
-    "Bintan",
-    "Sukajadi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Laksamana"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rimba Sekampung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dumai Kota"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bintan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukajadi"
+    }
   ]
 }

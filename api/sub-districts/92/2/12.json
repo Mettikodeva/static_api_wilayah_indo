@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Manokwari Barat",
-    "Sanggeng",
-    "Wosi",
-    "Amban",
-    "Padarni",
-    "Manokwari Timur",
-    "Udopi",
-    "Ingramui (Inggramui)",
-    "Soribo",
-    "Tanah Merah Indah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Manokwari Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sanggeng"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wosi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Amban"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Padarni"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Manokwari Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Udopi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ingramui (Inggramui)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Soribo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanah Merah Indah"
+    }
   ]
 }

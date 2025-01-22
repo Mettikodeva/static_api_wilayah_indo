@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Aengmerah",
-    "Tengedan",
-    "Juruan Laok",
-    "Juruan Daya",
-    "Badur",
-    "Gedang Gedang",
-    "Batuputih Kenek",
-    "Batuputih Laok",
-    "Batuputih Daya",
-    "Bantelan",
-    "Larangan Barma",
-    "Larangan Kerta",
-    "Bulla'an (Bulaan / Bullaan)",
-    "Sergang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aengmerah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tengedan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Juruan Laok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Juruan Daya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Badur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedang Gedang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batuputih Kenek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batuputih Laok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batuputih Daya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bantelan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Larangan Barma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Larangan Kerta"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bulla'an (Bulaan / Bullaan)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sergang"
+    }
   ]
 }

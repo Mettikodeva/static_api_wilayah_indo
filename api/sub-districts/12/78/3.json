@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Afia",
-    "Lolo'ana'a Lolomoyo (Loloanaa)",
-    "Lasara Sowu",
-    "Telukbelukar (Teluk Belukar)",
-    "Tetehosi Afia",
-    "Hambawa",
-    "Gawu-Gawu Bo'uso (Gawu Gawu Bouso / Bauso)",
-    "Olora",
-    "Hilimbowo Olora",
-    "Hiligodu Ulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Afia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lolo'ana'a Lolomoyo (Loloanaa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lasara Sowu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telukbelukar (Teluk Belukar)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tetehosi Afia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hambawa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gawu-Gawu Bo'uso (Gawu Gawu Bouso / Bauso)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Olora"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hilimbowo Olora"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hiligodu Ulu"
+    }
   ]
 }

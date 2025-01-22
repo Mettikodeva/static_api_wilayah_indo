@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Galonta",
-    "Juppandang",
-    "Puserren",
-    "Lewaja",
-    "Leoran",
-    "Tuara",
-    "Ranga",
-    "Buttu Batu",
-    "Tokkonan",
-    "Karueng",
-    "Tallu Bamba",
-    "Tungka",
-    "Kaluppini",
-    "Tobalu",
-    "Cemba",
-    "Temban",
-    "Rosoan (Rossoan)",
-    "Lembang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Galonta"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Juppandang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Puserren"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lewaja"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Leoran"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tuara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ranga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buttu Batu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tokkonan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karueng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tallu Bamba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tungka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kaluppini"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tobalu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cemba"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Temban"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Rosoan (Rossoan)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lembang"
+    }
   ]
 }

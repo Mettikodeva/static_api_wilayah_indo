@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kemiri",
-    "Mojosongo",
-    "Madu",
-    "Singosari",
-    "Tambak",
-    "Manggis",
-    "Jurug",
-    "Karangnongko",
-    "Butuh",
-    "Kragilan",
-    "Brajan",
-    "Metuk",
-    "Dlingo"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mojosongo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Madu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Singosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manggis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jurug"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangnongko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Butuh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kragilan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Brajan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Metuk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dlingo"
+    }
   ]
 }

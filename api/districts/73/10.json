@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Liukang Tangaya",
-    "Liukang Kalmas (Kalukuang Masalima)",
-    "Liukang Tupabbiring",
-    "Pangkajene",
-    "Balocci",
-    "Bungoro",
-    "Labakkang",
-    "Marang (Ma Rang)",
-    "Segeri",
-    "Minasa Tene",
-    "Mandalle",
-    "Tondong Tallasa",
-    "Liukang Tupabbiring Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Liukang Tangaya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Liukang Kalmas (Kalukuang Masalima)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Liukang Tupabbiring"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pangkajene"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Balocci"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bungoro"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Labakkang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Marang (Ma Rang)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Segeri"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Minasa Tene"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Mandalle"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tondong Tallasa"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Liukang Tupabbiring Utara"
+    }
   ]
 }

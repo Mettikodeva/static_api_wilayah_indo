@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mehalaan",
-    "Botteng",
-    "Salukonta",
-    "Mesakada",
-    "Mehalaan Barat",
-    "Saluahok",
-    "Salubalo",
-    "Passembuk",
-    "Kondo",
-    "Leko Sukamaju",
-    "Ulumea"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mehalaan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Botteng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salukonta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mesakada"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mehalaan Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saluahok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salubalo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Passembuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kondo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Leko Sukamaju"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ulumea"
+    }
   ]
 }

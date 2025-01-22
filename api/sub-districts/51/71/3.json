@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Dauh Puri",
-    "Pemecutan",
-    "Padangsambian",
-    "Padangsambian Klod/Kelod",
-    "Pemecutan Klod/Kelod",
-    "Dauh Puri Kauh",
-    "Dauh Puri Klod/Kelod",
-    "Dauh Puri Kangin",
-    "Tegal Harum",
-    "Tegal Kertha",
-    "Padang Sambian Kaja (Padangsambian Kaja)"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Dauh Puri"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pemecutan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Padangsambian"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padangsambian Klod/Kelod"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pemecutan Klod/Kelod"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dauh Puri Kauh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dauh Puri Klod/Kelod"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dauh Puri Kangin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegal Harum"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegal Kertha"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Sambian Kaja (Padangsambian Kaja)"
+    }
   ]
 }

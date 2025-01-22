@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pasar Krui",
-    "Pasar Kota Krui (Kota Pasar Krui)",
-    "Way Redak",
-    "Serai / Seray",
-    "Kampung Jawa",
-    "Rawas",
-    "Suka Negara (Sukanegara)",
-    "Pahmungan"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pasar Krui"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasar Kota Krui (Kota Pasar Krui)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Way Redak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Serai / Seray"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Jawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Negara (Sukanegara)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pahmungan"
+    }
   ]
 }

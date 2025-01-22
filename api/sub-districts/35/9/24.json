@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Patemon",
-    "Bedadung",
-    "Sumberpinang (Sumber Pinang)",
-    "Subo",
-    "Kertosari",
-    "Jatian",
-    "Pakusari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bedadung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberpinang (Sumber Pinang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Subo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakusari"
+    }
   ]
 }

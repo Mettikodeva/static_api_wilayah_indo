@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pancoran",
-    "Kalibata",
-    "Rawajati (Rawa Jati)",
-    "Duren Tiga",
-    "Pengadegan",
-    "Cikoko"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pancoran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kalibata"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rawajati (Rawa Jati)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Duren Tiga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pengadegan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cikoko"
+    }
   ]
 }

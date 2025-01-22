@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Marabahan Kota",
-    "Ulu Benteng",
-    "Penghulu",
-    "Bagus",
-    "Baliuk",
-    "Antar Baru",
-    "Antar Jaya",
-    "Antar Raya",
-    "Sido Makmur (Sidomakmur)",
-    "Karya Maju"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Marabahan Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ulu Benteng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Penghulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bagus"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baliuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Antar Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Antar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Antar Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sido Makmur (Sidomakmur)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karya Maju"
+    }
   ]
 }

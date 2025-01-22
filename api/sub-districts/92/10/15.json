@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sauf",
-    "Sembaro",
-    "Koma Koma",
-    "Kanisabar",
-    "Sfarare",
-    "Saneh (Seneh)",
-    "Lemauk Klit",
-    "Hawioh",
-    "Simiyah",
-    "Sagrim"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sauf"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sembaro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koma Koma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kanisabar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sfarare"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saneh (Seneh)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lemauk Klit"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hawioh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simiyah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sagrim"
+    }
   ]
 }

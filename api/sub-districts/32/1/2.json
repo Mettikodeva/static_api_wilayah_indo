@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wanaherang",
-    "Bojong Kulur",
-    "Ciangsana",
-    "Gunung Putri",
-    "Bojong Nangka",
-    "Tlajung Udik",
-    "Cicadas",
-    "Cikeas Udik",
-    "Nagrak (Nagrag)",
-    "Karanggan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanaherang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojong Kulur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciangsana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Putri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojong Nangka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tlajung Udik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cicadas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikeas Udik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nagrak (Nagrag)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karanggan"
+    }
   ]
 }

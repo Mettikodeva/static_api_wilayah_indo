@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kumun Hilir",
-    "Kumun Mudik",
-    "Air Teluh (Air Teluk)",
-    "Sandaran Galeh",
-    "Debai",
-    "Pinggir Air",
-    "Renah Kayu Embun",
-    "Ulu Air",
-    "Muara Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kumun Hilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kumun Mudik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Teluh (Air Teluk)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sandaran Galeh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Debai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pinggir Air"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Renah Kayu Embun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ulu Air"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Jaya"
+    }
   ]
 }

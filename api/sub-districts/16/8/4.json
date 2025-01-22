@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gunung Batu",
-    "Ulak Baru",
-    "Gunung Jati",
-    "Kuripan",
-    "Negeri Sakti",
-    "Campang Tiga Hulu (Campang Tiga Ulu)",
-    "Sukaraja",
-    "Cempaka",
-    "Sukabumi",
-    "Campang Tiga Ilir",
-    "Maluai Indah (Meluai Indah)",
-    "Harisan Jaya",
-    "Campang Tiga Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunung Batu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ulak Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Jati"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Negeri Sakti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Campang Tiga Hulu (Campang Tiga Ulu)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sukabumi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Campang Tiga Ilir"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Maluai Indah (Meluai Indah)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Harisan Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Campang Tiga Jaya"
+    }
   ]
 }

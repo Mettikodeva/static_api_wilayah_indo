@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Nusaniwe (Kelurahan Nusaniwe)",
-    "Wainitu (Wainatu)",
-    "Benteng",
-    "Kudamati",
-    "Mangga Dua",
-    "Urimessing (Urimesing) Desa",
-    "Waihaong",
-    "Silale",
-    "Latuhalat",
-    "Seilale",
-    "Nusaniwe",
-    "Amahusu",
-    "Urimessing (Urimesing) Kelurahan"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Nusaniwe (Kelurahan Nusaniwe)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wainitu (Wainatu)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kudamati"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mangga Dua"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Urimessing (Urimesing) Desa"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Waihaong"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Silale"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Latuhalat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Seilale"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nusaniwe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amahusu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Urimessing (Urimesing) Kelurahan"
+    }
   ]
 }

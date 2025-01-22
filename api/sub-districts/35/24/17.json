@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Siwalanrejo",
-    "Kebonsari",
-    "Sukolilo",
-    "Pajangan",
-    "Kadungrembug",
-    "Sumberagung",
-    "Sukodadi",
-    "Sumberaji",
-    "Menongo",
-    "Madulegi",
-    "Banjarejo",
-    "Plumpang",
-    "Bandungsari",
-    "Sidogembul",
-    "Balungtawun (Balongtawun)",
-    "Gedangan",
-    "Tlogorejo",
-    "Baturono",
-    "Surabayan",
-    "Sugihrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siwalanrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukolilo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pajangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadungrembug"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberagung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukodadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberaji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Menongo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Madulegi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banjarejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Plumpang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bandungsari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sidogembul"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Balungtawun (Balongtawun)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gedangan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tlogorejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Baturono"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Surabayan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sugihrejo"
+    }
   ]
 }

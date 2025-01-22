@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pasar Atas (Pasar Atas Bangko)",
-    "Pasar Bangko",
-    "Dusun Bangko",
-    "Pematang Kandis",
-    "Kungkai",
-    "Mudo (Dusun Mudo)",
-    "Langling",
-    "Sungai Kapas"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pasar Atas (Pasar Atas Bangko)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pasar Bangko"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Dusun Bangko"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pematang Kandis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kungkai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mudo (Dusun Mudo)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Langling"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sungai Kapas"
+    }
   ]
 }

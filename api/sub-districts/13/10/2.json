@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sungai Dareh",
-    "Tebing Tinggi",
-    "Empat Koto Pulau Punjung",
-    "Sungai Kambut",
-    "Gunung Selasih",
-    "Sikabau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Dareh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Empat Koto Pulau Punjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Kambut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Selasih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sikabau"
+    }
   ]
 }

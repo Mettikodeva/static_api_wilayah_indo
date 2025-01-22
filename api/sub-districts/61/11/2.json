@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Telukmelano (Teluk Melano)",
-    "Nipah Kuning",
-    "Pemangkat",
-    "Padu Banjar",
-    "Penjalaan (Penjalaan Hilir)",
-    "Sei/Sungai Mata Mata",
-    "Batu Barat",
-    "Pulaukumbang (Pulau Kumbang)",
-    "Rantau Panjang",
-    "Matan Jaya",
-    "Medan Jaya",
-    "Lubuk Batu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Telukmelano (Teluk Melano)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nipah Kuning"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pemangkat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padu Banjar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penjalaan (Penjalaan Hilir)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Mata Mata"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batu Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulaukumbang (Pulau Kumbang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Matan Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Medan Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lubuk Batu"
+    }
   ]
 }

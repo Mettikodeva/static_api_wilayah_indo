@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Lubuk Pakam I-II",
-    "Lubuk Pakam III (Lubuk Pakam Tiga)",
-    "Paluh Kemiri",
-    "Cemara",
-    "Syahmad",
-    "Petapahan",
-    "Lubuk Pakam Pekan",
-    "Sekip",
-    "Pagar Jati",
-    "Tanjung Garbus I (Tanjung Garbus)",
-    "Pasar Melintang",
-    "Pagar Merbau III (Pagar Merbau Tiga)",
-    "Bakaran Batu"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lubuk Pakam I-II"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lubuk Pakam III (Lubuk Pakam Tiga)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Paluh Kemiri"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Cemara"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Syahmad"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Petapahan"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Lubuk Pakam Pekan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekip"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagar Jati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Garbus I (Tanjung Garbus)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar Melintang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagar Merbau III (Pagar Merbau Tiga)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakaran Batu"
+    }
   ]
 }

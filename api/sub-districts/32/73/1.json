@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sukarasa",
-    "Gegerkalong (Geger Kalong)",
-    "Isola",
-    "Sarijadi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukarasa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gegerkalong (Geger Kalong)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Isola"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sarijadi"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Makimi",
-    "Nifasi",
-    "Biha",
-    "Lagari Jaya (Legari Jaya)",
-    "Maidei",
-    "Manunggal Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Makimi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nifasi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lagari Jaya (Legari Jaya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maidei"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manunggal Jaya"
+    }
   ]
 }

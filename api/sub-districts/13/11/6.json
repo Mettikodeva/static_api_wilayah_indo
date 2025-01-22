@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Alam Pauh Duo",
-    "Kapau Alam Pauh Duo",
-    "Luak Kapau Alam Pauh Duo",
-    "Pauh Duo Nan Batigo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alam Pauh Duo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kapau Alam Pauh Duo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Luak Kapau Alam Pauh Duo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pauh Duo Nan Batigo"
+    }
   ]
 }

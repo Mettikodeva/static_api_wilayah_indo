@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Betung",
-    "Rimba Asam",
-    "Betung Selatan",
-    "Pulau Rajak",
-    "Bukit",
-    "Sri Kembang",
-    "Lubuk Karet",
-    "Taja Mulya (Talang Jaya Mulya)",
-    "Taja Raya I (Talang Jaya Raya 1)",
-    "Taja Indah (Talang Jaya Indah)",
-    "Taja Raya II (Talang Jaya Raya II)",
-    "Suka Mulya"
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Rimba Asam"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Betung Selatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Rajak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sri Kembang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Karet"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Taja Mulya (Talang Jaya Mulya)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Taja Raya I (Talang Jaya Raya 1)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Taja Indah (Talang Jaya Indah)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Taja Raya II (Talang Jaya Raya II)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Suka Mulya"
+    }
   ]
 }

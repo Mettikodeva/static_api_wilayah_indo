@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sendangrejo",
-    "Sarirejo",
-    "Kalangdosari",
-    "Kalanglundo",
-    "Truwolu",
-    "Pendem",
-    "Bandungsari",
-    "Ngaringan",
-    "Ngarap-arap (Ngaraparap)",
-    "Belor",
-    "Tanjungharjo",
-    "Sumberagung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sendangrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sarirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalangdosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalanglundo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Truwolu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pendem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandungsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngaringan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngarap-arap (Ngaraparap)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Belor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjungharjo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumberagung"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pasehkidul (Paseh Kidul)",
-    "Paseh Kaler",
-    "Legok Kidul",
-    "Legok Kaler",
-    "Bongkok",
-    "Padanan (Padanaan)",
-    "Pasirreungit (Pasireungit)",
-    "Cijambe",
-    "Haurkuning",
-    "Citepok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasehkidul (Paseh Kidul)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paseh Kaler"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Legok Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Legok Kaler"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bongkok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padanan (Padanaan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasirreungit (Pasireungit)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cijambe"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Haurkuning"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Citepok"
+    }
   ]
 }

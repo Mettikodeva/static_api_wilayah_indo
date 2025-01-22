@@ -1,33 +1,120 @@
 {
   "districts": [
-    "Kramatwatu",
-    "Waringinkurung (Waringin Kurung)",
-    "Bojonegara",
-    "Pulo Ampel",
-    "Ciruas",
-    "Kragilan",
-    "Pontang",
-    "Tirtayasa",
-    "Tanara",
-    "Cikande",
-    "Kibin",
-    "Carenang (Cerenang)",
-    "Binuang",
-    "Petir",
-    "Tunjung Teja",
-    "Baros",
-    "Cikeusal",
-    "Pamarayan",
-    "Kopo",
-    "Jawilan",
-    "Ciomas",
-    "Pabuaran",
-    "Padarincang",
-    "Anyar",
-    "Cinangka",
-    "Mancak",
-    "Gunungsari (Gunung Sari)",
-    "Bandung",
-    "Lebak Wangi"
+    {
+      "district_id": 5,
+      "kecamatan": "Kramatwatu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Waringinkurung (Waringin Kurung)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bojonegara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pulo Ampel"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Ciruas"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kragilan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pontang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tirtayasa"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tanara"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Cikande"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kibin"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Carenang (Cerenang)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Binuang"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Petir"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Tunjung Teja"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Baros"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Cikeusal"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pamarayan"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Kopo"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Jawilan"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Ciomas"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Pabuaran"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Padarincang"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Anyar"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Cinangka"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Mancak"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Gunungsari (Gunung Sari)"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Bandung"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Lebak Wangi"
+    }
   ]
 }

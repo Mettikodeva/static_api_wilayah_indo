@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ngerjo",
-    "Kedungsari (Kedungasri)",
-    "Kedunggading",
-    "Ringinarum",
-    "Ngawensari",
-    "Tejorejo",
-    "Wungurejo",
-    "Rowobranten",
-    "Caruban",
-    "Mojo",
-    "Purworejo",
-    "Pegerdawung (Pagerdawung)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngerjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungsari (Kedungasri)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedunggading"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ringinarum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngawensari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tejorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wungurejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rowobranten"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Caruban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mojo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pegerdawung (Pagerdawung)"
+    }
   ]
 }

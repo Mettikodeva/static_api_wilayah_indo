@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Sigalangan",
-    "Pintu Padang I (Pintu Padang Raya Dua)",
-    "Pintu Padang II (Pintu Padang Raya Satu)",
-    "Bangun Purba",
-    "Aek Nauli",
-    "Sidadi I (Sidadi Julu Satu)",
-    "Janji Manaon",
-    "Sitampa Simatoras (Sitampa)",
-    "Pasar Lamo/Lama",
-    "Benteng Huraba",
-    "Padang Kahombu",
-    "Sorik",
-    "Sibulele Muara (Sibulele)",
-    "Bargot Topong",
-    "Sigulang Losung",
-    "Hurase / Hurare",
-    "Sori Madingin Pp",
-    "Huta Padang",
-    "Tahalak Ujung Gading (Tahalak Ujung)",
-    "Sidadi II (Sidadi Dua)",
-    "Aek Gunung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sigalangan"
+    },
+    {
+      "sub_district_id": 1060,
+      "desa_kelurahan": "Pintu Padang I (Pintu Padang Raya Dua)"
+    },
+    {
+      "sub_district_id": 1061,
+      "desa_kelurahan": "Pintu Padang II (Pintu Padang Raya Satu)"
+    },
+    {
+      "sub_district_id": 1068,
+      "desa_kelurahan": "Bangun Purba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aek Nauli"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sidadi I (Sidadi Julu Satu)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Janji Manaon"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sitampa Simatoras (Sitampa)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pasar Lamo/Lama"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Benteng Huraba"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Padang Kahombu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sorik"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Sibulele Muara (Sibulele)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Bargot Topong"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Sigulang Losung"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Hurase / Hurare"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Sori Madingin Pp"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Huta Padang"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Tahalak Ujung Gading (Tahalak Ujung)"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Sidadi II (Sidadi Dua)"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Aek Gunung"
+    }
   ]
 }

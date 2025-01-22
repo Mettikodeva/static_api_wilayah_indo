@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Mokallang",
-    "Masoso",
-    "Saluassing",
-    "Salubulo",
-    "Salukadi",
-    "Salukepopok",
-    "Ulumambi Barat",
-    "Limbadebata",
-    "Tanete Tomba",
-    "Bambang",
-    "Rantelemo",
-    "Saludengen",
-    "Ulumambi",
-    "Bambang Timur",
-    "Minanga",
-    "Sikamase",
-    "Rantetarima",
-    "Salururu",
-    "Salutabang",
-    "Balatana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mokallang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Masoso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Saluassing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salubulo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salukadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salukepopok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ulumambi Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Limbadebata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanete Tomba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bambang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rantelemo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Saludengen"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ulumambi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bambang Timur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Minanga"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sikamase"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rantetarima"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Salururu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Salutabang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Balatana"
+    }
   ]
 }

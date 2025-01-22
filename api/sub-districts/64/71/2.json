@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Baru Ilir",
-    "Baru Tengah",
-    "Baru Ulu",
-    "Kariangau",
-    "Margo Mulyo",
-    "Marga Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baru Ilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baru Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Baru Ulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kariangau"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Margo Mulyo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Marga Sari"
+    }
   ]
 }

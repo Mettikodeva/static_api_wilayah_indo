@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Gombong",
-    "Wonokriyo",
-    "Kalitengah",
-    "Kemukus",
-    "Banjarsari",
-    "Panjangsari",
-    "Patemon",
-    "Kedungpuji",
-    "Wero",
-    "Semondo",
-    "Semanding",
-    "Sidayu",
-    "Wonosigro",
-    "Klopogodo"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gombong"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Wonokriyo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalitengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemukus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panjangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedungpuji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wero"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Semondo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Semanding"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidayu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonosigro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Klopogodo"
+    }
   ]
 }

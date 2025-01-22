@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jatinagara",
-    "Sukanagara",
-    "Cintanagara",
-    "Dayeuhluhur",
-    "Mulyasari",
-    "Bayasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatinagara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukanagara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cintanagara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dayeuhluhur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bayasari"
+    }
   ]
 }

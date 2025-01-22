@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sukamanah",
-    "Bojongkaso",
-    "Bunisari",
-    "Wanasari",
-    "Sinarlaut",
-    "Neglasari",
-    "Karangsari",
-    "Mulyasari",
-    "Tanjung Sari (Tanjungsari)",
-    "Mekarsari",
-    "Wangunjaya"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojongkaso"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bunisari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sinarlaut"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjung Sari (Tanjungsari)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wangunjaya"
+    }
   ]
 }

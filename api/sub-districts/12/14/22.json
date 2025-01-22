@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Fadoro Ewo (Fadoro'ewo)",
-    "Soroma'asi",
-    "Lauso (La'uso)",
-    "Sisarahili Oyo",
-    "Sisobahili Huruna",
-    "Onohazumba",
-    "Hiliweto",
-    "Orahili Huruna",
-    "Tetehosi",
-    "Helefanikha"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fadoro Ewo (Fadoro'ewo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soroma'asi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lauso (La'uso)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sisarahili Oyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sisobahili Huruna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Onohazumba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hiliweto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Orahili Huruna"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tetehosi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Helefanikha"
+    }
   ]
 }

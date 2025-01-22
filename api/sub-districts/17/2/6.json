@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kota Padang",
-    "Bedeng SS",
-    "Dusun Baru",
-    "Derati",
-    "Taba Anyar",
-    "Suka Rami",
-    "Lubuk Mumpo",
-    "Durian Mas",
-    "Kota Padang Baru",
-    "Tanjung Gelang"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kota Padang"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Bedeng SS"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Dusun Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Derati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taba Anyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Rami"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Mumpo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Durian Mas"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kota Padang Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjung Gelang"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pandanwangi",
-    "Sumberjati",
-    "Tempeh Kidul",
-    "Lempeni",
-    "Tempeh Tengah",
-    "Kaliwungu",
-    "Tempeh Lor",
-    "Besuk",
-    "Jatisari",
-    "Pulo",
-    "Gesang",
-    "Jokarto",
-    "Pandanarum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandanwangi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberjati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tempeh Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lempeni"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tempeh Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaliwungu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tempeh Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Besuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gesang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jokarto"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pandanarum"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Polagan",
-    "Banyuanyar",
-    "Rongtengah (Rong Tengah)",
-    "Karang Dalam (Karang Dalem)",
-    "Gunung Sekar",
-    "Dalpenang",
-    "Pulau Mandangin (Mandingan)",
-    "Aengsareh (Aeng Sareh)",
-    "Gunung Maddah",
-    "Panggung",
-    "Taman Sareh",
-    "Pekalongan (Pakalongan)",
-    "Tanggumong",
-    "Kamuning (Kamoning)",
-    "Banyumas",
-    "Pangelen",
-    "Paseyan",
-    "Baruh"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Polagan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Banyuanyar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rongtengah (Rong Tengah)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karang Dalam (Karang Dalem)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gunung Sekar"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Dalpenang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Mandangin (Mandingan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aengsareh (Aeng Sareh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Maddah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Panggung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Taman Sareh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pekalongan (Pakalongan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanggumong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kamuning (Kamoning)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banyumas"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pangelen"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Paseyan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Baruh"
+    }
   ]
 }

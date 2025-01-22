@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sumentobol",
-    "Nantukidan",
-    "Labang",
-    "Sumantipal",
-    "Ngawol",
-    "Bululaun Hilir (Bulu Laun Hilir)",
-    "Lagas",
-    "Panas",
-    "Langgason",
-    "Tantalujuk",
-    "Tambalang Hulu (Tambalang Ulu)",
-    "Kuyo",
-    "Bokok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumentobol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nantukidan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumantipal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngawol"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bululaun Hilir (Bulu Laun Hilir)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lagas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langgason"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tantalujuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambalang Hulu (Tambalang Ulu)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bokok"
+    }
   ]
 }

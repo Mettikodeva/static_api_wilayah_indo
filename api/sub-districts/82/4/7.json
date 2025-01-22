@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Babang",
-    "Bori",
-    "Nyonyifi",
-    "Sabatang",
-    "Goro Goro",
-    "Sali Kecil",
-    "Timlonga",
-    "Sayoang",
-    "Wayamiga",
-    "Kaireu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bori"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nyonyifi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sabatang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Goro Goro"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sali Kecil"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Timlonga"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sayoang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wayamiga"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kaireu"
+    }
   ]
 }

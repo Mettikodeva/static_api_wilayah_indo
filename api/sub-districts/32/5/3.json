@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Wanaraja",
-    "Wanamekar",
-    "Cinunuk",
-    "Sukamenak",
-    "Sindangratu",
-    "Wanajaya",
-    "Sindangmekar",
-    "Wanasari",
-    "Sindangprabu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanaraja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanamekar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cinunuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamenak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindangratu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wanajaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sindangmekar"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sindangprabu"
+    }
   ]
 }

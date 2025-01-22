@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Rendang",
-    "Sidemen",
-    "Manggis",
-    "Karangasem (Karang Asem)",
-    "Abang",
-    "Bebandem",
-    "Selat",
-    "Kubu"
+    {
+      "district_id": 1,
+      "kecamatan": "Rendang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sidemen"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Manggis"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Karangasem (Karang Asem)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Abang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bebandem"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Selat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kubu"
+    }
   ]
 }

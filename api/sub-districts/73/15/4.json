@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jaya",
-    "Sawito (Sawitto)",
-    "Maccorawalie",
-    "Penrang",
-    "Salo",
-    "Bentengnge",
-    "Sipatokkong",
-    "Siparappe"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jaya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sawito (Sawitto)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Maccorawalie"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Penrang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Salo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bentengnge"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sipatokkong"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Siparappe"
+    }
   ]
 }

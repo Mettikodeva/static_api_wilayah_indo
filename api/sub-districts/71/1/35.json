@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ibolian",
-    "Ibolian Satu / I",
-    "Kinomaligan (Kinomalingan)",
-    "Kosio",
-    "Kosio Timur",
-    "Kasio Barat",
-    "Werdhi Agung",
-    "Werdhi Agung Selatan",
-    "Werdhi Agung Utara",
-    "Werdhi Agung Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ibolian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ibolian Satu / I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kinomaligan (Kinomalingan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kosio"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kosio Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kasio Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Werdhi Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Werdhi Agung Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Werdhi Agung Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Werdhi Agung Timur"
+    }
   ]
 }

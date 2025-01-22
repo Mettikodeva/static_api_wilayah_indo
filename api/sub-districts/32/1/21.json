@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Malasari",
-    "Curugbitung (Curug Bitung)",
-    "Cisarua",
-    "Bantarkaret (Bantar Karet)",
-    "Hambaro",
-    "Kalongliud (Kalong Liud)",
-    "Nanggung",
-    "Parakanmuncang (Parakan Muncang)",
-    "Pangkaljaya (Pangkal Jaya)",
-    "Sukaluyu",
-    "Batu Tulis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Curugbitung (Curug Bitung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bantarkaret (Bantar Karet)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hambaro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalongliud (Kalong Liud)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nanggung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parakanmuncang (Parakan Muncang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangkaljaya (Pangkal Jaya)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukaluyu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Tulis"
+    }
   ]
 }

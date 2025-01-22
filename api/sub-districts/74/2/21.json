@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Laosu",
-    "Pebunooha",
-    "Lalonggalaku (Lalonggaluku)",
-    "Diolo",
-    "Pebunooha Dalam",
-    "Rumbia",
-    "Rambu Kongga",
-    "Laosu Jaya",
-    "Langgaluku Timur (Lalonggaluku Timur)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Laosu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pebunooha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lalonggalaku (Lalonggaluku)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Diolo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pebunooha Dalam"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Rumbia"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Rambu Kongga"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Laosu Jaya"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Langgaluku Timur (Lalonggaluku Timur)"
+    }
   ]
 }

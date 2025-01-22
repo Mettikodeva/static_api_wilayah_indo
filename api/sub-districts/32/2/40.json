@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gegerbitung",
-    "Cijurey",
-    "Ciengang",
-    "Karangjaya",
-    "Caringin",
-    "Sukamanah",
-    "Buniwangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gegerbitung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cijurey"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciengang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangjaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buniwangi"
+    }
   ]
 }

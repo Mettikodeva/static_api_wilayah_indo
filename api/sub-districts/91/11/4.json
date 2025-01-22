@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Dubu",
-    "Umuraf (Umuaf)",
-    "Semografi",
-    "Embi",
-    "Yamraf Dua",
-    "Tatakra"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dubu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Umuraf (Umuaf)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semografi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Embi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Yamraf Dua"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tatakra"
+    }
   ]
 }

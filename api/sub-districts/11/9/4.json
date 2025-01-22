@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Suak Buluh",
-    "Air Dingin",
-    "Ameria Bahagia",
-    "Suka Jaya",
-    "Suka Maju",
-    "Suka Karya",
-    "Sinabang",
-    "Amaiteng Mulia",
-    "Lugu",
-    "Sefoyan",
-    "Ganting",
-    "Kuala Makmur",
-    "Ujung Tinggi",
-    "Air Pinang",
-    "Pulau Siumat",
-    "Kota Batu",
-    "Linggi"
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suak Buluh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Air Dingin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ameria Bahagia"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Suka Karya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sinabang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Amaiteng Mulia"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lugu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sefoyan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ganting"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kuala Makmur"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Ujung Tinggi"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Air Pinang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pulau Siumat"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kota Batu"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Linggi"
+    }
   ]
 }

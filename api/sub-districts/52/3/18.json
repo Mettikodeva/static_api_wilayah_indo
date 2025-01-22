@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gelanggang",
-    "Surabaya",
-    "Lepak",
-    "Gereneng",
-    "Montong Tangi (Montongtangi)",
-    "Menceh",
-    "Lepak Timur",
-    "Surabaya Utara",
-    "Gereneng Timur",
-    "Lenting"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gelanggang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Surabaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lepak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gereneng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Montong Tangi (Montongtangi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menceh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lepak Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Surabaya Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gereneng Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lenting"
+    }
   ]
 }

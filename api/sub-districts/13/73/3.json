@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Silungkang Duo",
-    "Silungkang Oso",
-    "Silungkang Tigo",
-    "Muaro Kalaban",
-    "Taratak Bancah/Boncah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silungkang Duo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silungkang Oso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Silungkang Tigo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muaro Kalaban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taratak Bancah/Boncah"
+    }
   ]
 }

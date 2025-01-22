@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wanggarasi (Wonggarasi Timur)",
-    "Bukit Harapan",
-    "Bohusami",
-    "Lembah Permai (Lembah Malango II)",
-    "Limbula",
-    "Yipilo",
-    "Tuweya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanggarasi (Wonggarasi Timur)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bohusami"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lembah Permai (Lembah Malango II)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limbula"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yipilo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tuweya"
+    }
   ]
 }

@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Bedalewun",
-    "Lebanuba",
-    "Riawale/Rianwale",
-    "Bungalawan",
-    "Lamawolo",
-    "Helanlangowuyo",
-    "Lewopao",
-    "Nelereren (Nelerereng)",
-    "Boleng",
-    "Neleblolong",
-    "Duablolong",
-    "Lewokeleng (Lewo Keleng)",
-    "Nelelamawangi (Nele Lamawangi)",
-    "Harubala",
-    "Nelelamadike (Nelelamadiken)",
-    "Lamabayung",
-    "Lewat",
-    "Dokeng",
-    "Bayuntaa",
-    "Nobo",
-    "Nelelamawangi Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bedalewun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lebanuba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Riawale/Rianwale"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bungalawan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamawolo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Helanlangowuyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lewopao"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nelereren (Nelerereng)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Boleng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Neleblolong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Duablolong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lewokeleng (Lewo Keleng)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nelelamawangi (Nele Lamawangi)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Harubala"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nelelamadike (Nelelamadiken)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lamabayung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lewat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dokeng"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bayuntaa"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Nobo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Nelelamawangi Dua"
+    }
   ]
 }

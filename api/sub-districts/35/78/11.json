@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Simokerto",
-    "Kapasan",
-    "Sidodadi",
-    "Simolawang",
-    "Tambakrejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simokerto"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kapasan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Simolawang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tambakrejo"
+    }
   ]
 }

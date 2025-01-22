@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Fef",
-    "Wayo",
-    "Syubun",
-    "Sikor",
-    "Ibe",
-    "Syunam",
-    "Banfot",
-    "Iwin",
-    "Esyum",
-    "Imor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fef"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wayo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Syubun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sikor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ibe"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Syunam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banfot"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Iwin"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Esyum"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Imor"
+    }
   ]
 }

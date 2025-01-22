@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Patengan",
-    "Sukaresmi",
-    "Indragiri",
-    "Cipelah",
-    "Alamendah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Patengan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaresmi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Indragiri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipelah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alamendah"
+    }
   ]
 }

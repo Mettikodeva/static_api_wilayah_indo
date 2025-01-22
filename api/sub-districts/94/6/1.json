@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ikebo (Moanemani)",
-    "Mauwa",
-    "Ekemanida (Ekemenida)",
-    "Bukapa (Bugapa)",
-    "Kimipugi (Kimupugi)",
-    "Dikiyouwo (Dikiyouwa / Dikiyouma / Tokapo)",
-    "Idakotu",
-    "Putapa (Uputapa)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ikebo (Moanemani)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mauwa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ekemanida (Ekemenida)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukapa (Bugapa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kimipugi (Kimupugi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dikiyouwo (Dikiyouwa / Dikiyouma / Tokapo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Idakotu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Putapa (Uputapa)"
+    }
   ]
 }

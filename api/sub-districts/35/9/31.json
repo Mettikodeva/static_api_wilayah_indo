@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Plerean (Plereyan)",
-    "Sumberpakem (Sumber Pakem)",
-    "Pringgondani",
-    "Randuagung (Randu Agung)",
-    "Cumedak",
-    "Sumberjambe",
-    "Gunungmalang (Gunung Malang)",
-    "Jambearum (Jambe Arum)",
-    "Rowosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Plerean (Plereyan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberpakem (Sumber Pakem)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pringgondani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Randuagung (Randu Agung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cumedak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberjambe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunungmalang (Gunung Malang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambearum (Jambe Arum)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rowosari"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Kobakma",
-    "Kelila",
-    "Eragayam",
-    "Megambilis",
-    "Ilugwa"
+    {
+      "district_id": 1,
+      "kecamatan": "Kobakma"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kelila"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Eragayam"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Megambilis"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Ilugwa"
+    }
   ]
 }

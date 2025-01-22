@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sadai",
-    "Tukak",
-    "Pasir Putih",
-    "Tiram",
-    "Bukit Terap"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sadai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tukak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiram"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukit Terap"
+    }
   ]
 }

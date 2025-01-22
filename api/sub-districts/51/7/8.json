@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ban",
-    "Dukuh",
-    "Kubu",
-    "Tianyar (Tianyar Timur)",
-    "Tianyar Barat",
-    "Tianyar Tengah",
-    "Tulamben",
-    "Baturinggit (Batu Ringgit)",
-    "Sukadana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ban"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kubu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tianyar (Tianyar Timur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tianyar Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tianyar Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tulamben"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baturinggit (Batu Ringgit)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukadana"
+    }
   ]
 }

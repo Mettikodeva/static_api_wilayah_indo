@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Angsana",
-    "Padaherang",
-    "Padamulya",
-    "Karangsari",
-    "Cikayas",
-    "Sumurlaban",
-    "Kadubadak",
-    "Cipinang",
-    "Kramatmanik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Angsana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padaherang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padamulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikayas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumurlaban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kadubadak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cipinang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kramatmanik"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kampung Laut",
-    "Tanjungsolok (Tanjung Solok)",
-    "Teluk Majelis",
-    "Kuala Lagan",
-    "Majelis Hidayah",
-    "Manunggal Makmur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Laut"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjungsolok (Tanjung Solok)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Majelis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala Lagan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Majelis Hidayah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manunggal Makmur"
+    }
   ]
 }

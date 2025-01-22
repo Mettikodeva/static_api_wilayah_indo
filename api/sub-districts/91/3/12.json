@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ebungfa",
-    "Abar (Atabar)",
-    "Babrongko (Ifar Bobrongko)",
-    "Khameyoka (Khameyaka / Kameyoka / Khamaeka)",
-    "Simporo (Babo/Yosiba/Homf)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ebungfa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Abar (Atabar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Babrongko (Ifar Bobrongko)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Khameyoka (Khameyaka / Kameyoka / Khamaeka)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simporo (Babo/Yosiba/Homf)"
+    }
   ]
 }

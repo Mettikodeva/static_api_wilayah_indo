@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Pondidaha",
-    "Hongoa",
-    "Mumundowu",
-    "Ahuawatu",
-    "Tirawuta",
-    "Ambuulanu (Ambulanu)",
-    "Belatu",
-    "Amesiu",
-    "Puumbinisi",
-    "Wawolemo",
-    "Sulemandara",
-    "Lalodangge",
-    "Wawolahumbuti",
-    "Laloika",
-    "Lalonggotomi",
-    "Wonua Mandara",
-    "Wonua Monapa",
-    "Lahonggumbi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pondidaha"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hongoa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mumundowu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ahuawatu"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Tirawuta"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Ambuulanu (Ambulanu)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Belatu"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Amesiu"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Puumbinisi"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Wawolemo"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Sulemandara"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Lalodangge"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Wawolahumbuti"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Laloika"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Lalonggotomi"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Wonua Mandara"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Wonua Monapa"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Lahonggumbi"
+    }
   ]
 }

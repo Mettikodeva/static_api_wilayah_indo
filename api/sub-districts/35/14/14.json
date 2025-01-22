@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Kolursari",
-    "Kiduldalem (Kidul Dalem)",
-    "Pogar",
-    "Kauman",
-    "Bendomungal (Bendo Mungal)",
-    "Kersikan",
-    "Gempeng",
-    "Dermo",
-    "Latek",
-    "Kalianyar",
-    "Kalirejo",
-    "Masangan",
-    "Raci",
-    "Manaruwi",
-    "Tambakan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kolursari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kiduldalem (Kidul Dalem)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pogar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bendomungal (Bendo Mungal)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kersikan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gempeng"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Dermo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Latek"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kalianyar"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Masangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Raci"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Manaruwi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tambakan"
+    }
   ]
 }

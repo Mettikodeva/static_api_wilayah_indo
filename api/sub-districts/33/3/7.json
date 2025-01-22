@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Karanglewas",
-    "Munjul",
-    "Sumingkir",
-    "Meri",
-    "Kutasari",
-    "Karangklesem",
-    "Karangreja",
-    "Karangaren",
-    "Limbangan",
-    "Cendana",
-    "Candiwulan",
-    "Karangcegak",
-    "Candinata",
-    "Karangjengkol"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karanglewas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Munjul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumingkir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangklesem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangreja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangaren"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Limbangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cendana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Candiwulan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangcegak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Candinata"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangjengkol"
+    }
   ]
 }

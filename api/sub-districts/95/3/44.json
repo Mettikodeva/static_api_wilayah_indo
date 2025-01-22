@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kabianggama",
-    "Sohobma",
-    "Sohal",
-    "Bahabolma (Bahbolma)",
-    "Subayo",
-    "Buahun",
-    "Domul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kabianggama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sohobma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sohal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bahabolma (Bahbolma)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Subayo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buahun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Domul"
+    }
   ]
 }

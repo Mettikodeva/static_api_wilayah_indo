@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Ngulak I",
-    "Ngulak",
-    "Air Balui",
-    "Nganti",
-    "Jud I",
-    "Jud II",
-    "Penggage",
-    "Ngunang",
-    "Ngulak II",
-    "Ngulak III",
-    "Ulak Embacang",
-    "Terusan",
-    "Kemang",
-    "Tanjung Raya",
-    "Air Itam",
-    "Keban I",
-    "Keban II",
-    "Panai",
-    "Macang Sakti"
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Ngulak I"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Ngulak"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Balui"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nganti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jud I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jud II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penggage"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngunang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngulak II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngulak III"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulak Embacang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Terusan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kemang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Air Itam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Keban I"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Keban II"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Panai"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Macang Sakti"
+    }
   ]
 }

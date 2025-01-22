@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Srengseng",
-    "Rajegwesi",
-    "Sidamulya (Sido Mulyo)",
-    "Mulyoharjo",
-    "Semboja",
-    "Randusari",
-    "Jatiwangi",
-    "Pagerbarang",
-    "Karanganyar",
-    "Kertaharja",
-    "Kedungsugih",
-    "Surokidul",
-    "Pesarean"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Srengseng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rajegwesi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidamulya (Sido Mulyo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mulyoharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semboja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Randusari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatiwangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagerbarang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertaharja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedungsugih"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Surokidul"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pesarean"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kebirangga",
-    "Kebirangga Selatan",
-    "Kamumbheka/Kamubheka",
-    "Magekapa",
-    "Boafeo",
-    "Nabe",
-    "Kobaleba",
-    "Mundinggasa",
-    "Kolikapa (Kolipaka)",
-    "Kebirangga Tengah",
-    "Natanangge"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebirangga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebirangga Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kamumbheka/Kamubheka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Magekapa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Boafeo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nabe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kobaleba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mundinggasa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kolikapa (Kolipaka)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kebirangga Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Natanangge"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Suka Marga",
-    "Sumber Agung",
-    "Tuguratu (Tugu Ratu)",
-    "Banding Agung",
-    "Roworejo",
-    "Sidorejo",
-    "Ringin Sari"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Marga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuguratu (Tugu Ratu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banding Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Roworejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ringin Sari"
+    }
   ]
 }

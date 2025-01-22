@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Oneputeh Jaya",
-    "Bahomotefe",
-    "Bahomoahi",
-    "Ululere",
-    "Kolono",
-    "Geresa",
-    "Laroue",
-    "Nambo",
-    "Unsongi",
-    "Lahuafu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oneputeh Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bahomotefe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bahomoahi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ululere"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kolono"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Geresa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laroue"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nambo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Unsongi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lahuafu"
+    }
   ]
 }

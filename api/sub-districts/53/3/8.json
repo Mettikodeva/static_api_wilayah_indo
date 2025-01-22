@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Ainiut",
-    "Nunmafo",
-    "Manunain A",
-    "Fatoin",
-    "Bitauni",
-    "Nansean",
-    "Susulaku",
-    "Loeram",
-    "Manunain B",
-    "Tapenpah",
-    "Sekon",
-    "Oenbit",
-    "Susulaku B",
-    "Keun",
-    "Fatu'ana",
-    "Botof",
-    "Nansean Timur"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Ainiut"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Nunmafo"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Manunain A"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Fatoin"
+    },
+    {
+      "sub_district_id": 1029,
+      "desa_kelurahan": "Bitauni"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nansean"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Susulaku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Loeram"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manunain B"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tapenpah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sekon"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Oenbit"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Susulaku B"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Keun"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Fatu'ana"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Botof"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Nansean Timur"
+    }
   ]
 }

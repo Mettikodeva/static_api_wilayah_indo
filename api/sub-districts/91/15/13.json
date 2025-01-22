@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Urato",
-    "Mayaghaido",
-    "Aniboi",
-    "Tetui",
-    "Demba",
-    "Fafai",
-    "Wudokuri",
-    "Aiwa",
-    "Biati",
-    "Ronarai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Urato"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mayaghaido"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aniboi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tetui"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Demba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Fafai"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wudokuri"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Aiwa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Biati"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ronarai"
+    }
   ]
 }

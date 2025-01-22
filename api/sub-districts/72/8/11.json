@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lemusa",
-    "Olobaru",
-    "Boyantongo",
-    "Dolago",
-    "Masari",
-    "Sumbersari",
-    "Nambaru",
-    "Tindaki",
-    "Gangga",
-    "Dolago Padang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lemusa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Olobaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Boyantongo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dolago"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Masari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nambaru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tindaki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gangga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dolago Padang"
+    }
   ]
 }

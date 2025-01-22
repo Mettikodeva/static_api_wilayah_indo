@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Salem",
-    "Bantarkawung",
-    "Bumiayu",
-    "Paguyangan",
-    "Sirampog",
-    "Tonjong",
-    "Jatibarang",
-    "Wanasari",
-    "Brebes",
-    "Songgom",
-    "Kersana",
-    "Losari",
-    "Tanjung",
-    "Bulakamba",
-    "Larangan",
-    "Ketanggungan",
-    "Banjarharjo"
+    {
+      "district_id": 1,
+      "kecamatan": "Salem"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bantarkawung"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bumiayu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Paguyangan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sirampog"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tonjong"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Jatibarang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Wanasari"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Brebes"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Songgom"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kersana"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Losari"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tanjung"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bulakamba"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Larangan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Ketanggungan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Banjarharjo"
+    }
   ]
 }

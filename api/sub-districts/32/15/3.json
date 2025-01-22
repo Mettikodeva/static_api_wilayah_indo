@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Telukjambe",
-    "Sukaharja",
-    "Sirnabaya",
-    "Puseurjaya",
-    "Sukaluyu",
-    "Wadas",
-    "Purwadana",
-    "Sukamakmur",
-    "Pinayungan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Telukjambe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaharja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sirnabaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Puseurjaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaluyu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wadas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purwadana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukamakmur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pinayungan"
+    }
   ]
 }

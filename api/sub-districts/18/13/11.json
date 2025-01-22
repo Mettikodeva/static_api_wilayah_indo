@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pagar Bukit",
-    "Tanjung Kemala",
-    "Suka Marga",
-    "Kota Jawa",
-    "Penyandingan",
-    "Bandar Dalam",
-    "Way Haru",
-    "Pemerihan",
-    "Suka Negeri",
-    "Sumberejo",
-    "Siring Gading",
-    "Way Tias",
-    "Tanjung Rejo",
-    "Pagar Bukit Induk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagar Bukit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Kemala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Marga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kota Jawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandar Dalam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Way Haru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pemerihan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Negeri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Siring Gading"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Way Tias"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Rejo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pagar Bukit Induk"
+    }
   ]
 }

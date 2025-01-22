@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ratatotok Satu",
-    "Ratatotok Dua",
-    "Ratatotok Selatan",
-    "Ratatotok Timur",
-    "Basaan",
-    "Basaan Satu",
-    "Morea (Moreah)",
-    "Morea Satu (Moreah Satu)",
-    "Soyoan (Soyowan)",
-    "Basaan Dua",
-    "Ratatotok Utara",
-    "Ratatotok Tenggara",
-    "Ratatotok Tengah",
-    "Ratatotok",
-    "Ratatotok Muara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ratatotok Satu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ratatotok Dua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ratatotok Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ratatotok Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Basaan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Basaan Satu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Morea (Moreah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Morea Satu (Moreah Satu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Soyoan (Soyowan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Basaan Dua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ratatotok Utara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ratatotok Tenggara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ratatotok Tengah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ratatotok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ratatotok Muara"
+    }
   ]
 }

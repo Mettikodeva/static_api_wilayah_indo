@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Temia",
-    "Anegara (Anegera)",
-    "Elabukama",
-    "Siapma",
-    "Hamuhi",
-    "Kosihave",
-    "Mulupalek",
-    "Pumasili",
-    "Abulukmo",
-    "Yumugima"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Temia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Anegara (Anegera)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Elabukama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siapma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hamuhi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kosihave"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulupalek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pumasili"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Abulukmo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yumugima"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lembar",
-    "Jembatan Kembar",
-    "Mareje",
-    "Sekotong Timur",
-    "Labuan Tereng",
-    "Jembatan Gantung",
-    "Lembar Selatan",
-    "Mareje Timur",
-    "Jembatan Kembar Timur",
-    "Eyat Mayang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lembar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jembatan Kembar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mareje"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sekotong Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labuan Tereng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jembatan Gantung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lembar Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mareje Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jembatan Kembar Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Eyat Mayang"
+    }
   ]
 }

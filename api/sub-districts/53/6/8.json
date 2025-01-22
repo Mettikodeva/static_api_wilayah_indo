@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Duanur (Duwanur)",
-    "Bukit Seburi I",
-    "Waiwadan",
-    "Danibao",
-    "Pajinian",
-    "Ile Pati (Ilepati)",
-    "Wureh",
-    "Tonuwotan",
-    "Hurung",
-    "Bungalima (Bugalima)",
-    "Homa",
-    "Bukit Seburi II",
-    "Kimakamak (Kima Kamak)",
-    "Watobaya (Wato Baya)",
-    "Nimun Danibao (Nimun Dani Bao)",
-    "Waitukan (Wai Tukan)",
-    "Wolokibang",
-    "Riangpadu"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Duanur (Duwanur)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Seburi I"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Waiwadan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Danibao"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pajinian"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ile Pati (Ilepati)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wureh"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tonuwotan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Hurung"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bungalima (Bugalima)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Homa"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bukit Seburi II"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kimakamak (Kima Kamak)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Watobaya (Wato Baya)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Nimun Danibao (Nimun Dani Bao)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Waitukan (Wai Tukan)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Wolokibang"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Riangpadu"
+    }
   ]
 }

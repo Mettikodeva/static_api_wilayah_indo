@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sarbe",
-    "Wagura",
-    "Refideso",
-    "Naramasa",
-    "Obo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarbe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wagura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Refideso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Naramasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Obo"
+    }
   ]
 }

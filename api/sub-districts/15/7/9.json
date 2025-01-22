@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Simpang Tuan",
-    "Pematang Rahim",
-    "Sungai Toman",
-    "Bukit Tempurung",
-    "Sinar Wajo",
-    "Sungai Beras",
-    "Mencolok"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simpang Tuan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pematang Rahim"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Toman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Tempurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sinar Wajo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Beras"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mencolok"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ngablak",
-    "Kedungpilang",
-    "Kalinanas",
-    "Gilirejo",
-    "Jatilawang",
-    "Garangan",
-    "Bercak",
-    "Bengle",
-    "Gunungsari",
-    "Repaking"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngablak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungpilang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalinanas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gilirejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatilawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Garangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bercak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bengle"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Repaking"
+    }
   ]
 }

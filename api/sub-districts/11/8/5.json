@@ -1,53 +1,200 @@
 {
   "sub_districts": [
-    "Keude Matangkuli",
-    "Ude",
-    "Blang Matangkuli",
-    "Rayeuk Matangkuli",
-    "Tumpok Perlak",
-    "Ujong Kulam",
-    "Tanjong Teungku Ali",
-    "Rayeuk Glang Glong",
-    "Punti Geulumpang VII (Punti Glumpang VII)",
-    "Geulumpang VII (Glumpang VII)",
-    "Teungoh Glumpang VII",
-    "Aron Geulumpang VII (Aron Glumpang VII)",
-    "Matang Munye (Matang Menye)",
-    "Parang Sikureung",
-    "Baro",
-    "Mee",
-    "Tanjong Babah Krueng",
-    "Punti Matangkuli",
-    "Teupin Keubue",
-    "Trieng Teupin Keubue",
-    "Matang Mee (Matang Me)",
-    "Jeumpa Geulumpang VII (Jeumpa Glumpang VII)",
-    "Tumpok Barat",
-    "Meuria Matangkuli (Meuriya Matangkuli)",
-    "Hagu",
-    "Alue Tho",
-    "Ceubrek Pirak (Ceubreuk Pirak)",
-    "Rayeuk Pirak",
-    "Aron Pirak",
-    "Lawang",
-    "Tanjong Haji Muda",
-    "Siren",
-    "Meunye Pirak (Munye Pirak)",
-    "Beuringen Pirak (Beuringin)",
-    "Teungoh Pirak",
-    "Mesjid Pirak",
-    "Matang Peusangan",
-    "Pante Pirak (Pantee Pirak)",
-    "Leubok Pirak (Leubok)",
-    "Blang Kuta",
-    "Blang Supeng",
-    "Beurancan Pirak",
-    "Alue Entok",
-    "Tanjong Teungku Kari",
-    "Teungoh Seuleumak",
-    "Seuriweuk",
-    "Dayah Baro",
-    "Kunyet Mulee (Kunyet Mule)",
-    "Tutong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Matangkuli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ude"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blang Matangkuli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rayeuk Matangkuli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumpok Perlak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujong Kulam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjong Teungku Ali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rayeuk Glang Glong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Punti Geulumpang VII (Punti Glumpang VII)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Geulumpang VII (Glumpang VII)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teungoh Glumpang VII"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Aron Geulumpang VII (Aron Glumpang VII)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Matang Munye (Matang Menye)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Parang Sikureung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Baro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mee"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjong Babah Krueng"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Punti Matangkuli"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Teupin Keubue"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Trieng Teupin Keubue"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Matang Mee (Matang Me)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Jeumpa Geulumpang VII (Jeumpa Glumpang VII)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Tumpok Barat"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Meuria Matangkuli (Meuriya Matangkuli)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Hagu"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Alue Tho"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Ceubrek Pirak (Ceubreuk Pirak)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Rayeuk Pirak"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Aron Pirak"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Lawang"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Tanjong Haji Muda"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Siren"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Meunye Pirak (Munye Pirak)"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Beuringen Pirak (Beuringin)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Teungoh Pirak"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Mesjid Pirak"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Matang Peusangan"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Pante Pirak (Pantee Pirak)"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Leubok Pirak (Leubok)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Blang Kuta"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Blang Supeng"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Beurancan Pirak"
+    },
+    {
+      "sub_district_id": 2066,
+      "desa_kelurahan": "Alue Entok"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Tanjong Teungku Kari"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Teungoh Seuleumak"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Seuriweuk"
+    },
+    {
+      "sub_district_id": 2070,
+      "desa_kelurahan": "Dayah Baro"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Kunyet Mulee (Kunyet Mule)"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Tutong"
+    }
   ]
 }

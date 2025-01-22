@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Manjung",
-    "Gatak",
-    "Duwet",
-    "Senden",
-    "Ngawen",
-    "Kahuman",
-    "Pepe",
-    "Manjungan",
-    "Kwaren",
-    "Mayungan",
-    "Tempursari",
-    "Candirejo (Candi Rejo)",
-    "Drono"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manjung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gatak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Duwet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Senden"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngawen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kahuman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pepe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manjungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kwaren"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mayungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tempursari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Candirejo (Candi Rejo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Drono"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pettuadae",
-    "Bori Bellaya",
-    "Alliri Tengae (Alliritengae)",
-    "Turikale",
-    "Taroada",
-    "Raya",
-    "Adatongeng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pettuadae"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bori Bellaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Alliri Tengae (Alliritengae)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Turikale"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Taroada"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Raya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Adatongeng"
+    }
   ]
 }

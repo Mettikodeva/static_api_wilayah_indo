@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Gondanglegi",
-    "Singkalanyar (Singkal Anyar)",
-    "Mojoagung (Mojo Agung)",
-    "Bandung",
-    "Nglawak",
-    "Baleturi",
-    "Tegaron",
-    "Tanjungtani (Tanjung Tani)",
-    "Sanggrahan",
-    "Rowoharjo",
-    "Sugihwaras",
-    "Watudandang (Watu Dandang)",
-    "Sono Ageng",
-    "Kurungrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gondanglegi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Singkalanyar (Singkal Anyar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mojoagung (Mojo Agung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nglawak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baleturi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegaron"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungtani (Tanjung Tani)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sanggrahan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rowoharjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sugihwaras"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watudandang (Watu Dandang)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sono Ageng"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kurungrejo"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "III Koto Aur Malintang",
-    "III Koto Aur Malintang Utara",
-    "III Koto Aur Malintang Timur",
-    "III Koto Aur Malintang Selatan",
-    "Balai Baiak Malai III Koto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "III Koto Aur Malintang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "III Koto Aur Malintang Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "III Koto Aur Malintang Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "III Koto Aur Malintang Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balai Baiak Malai III Koto"
+    }
   ]
 }

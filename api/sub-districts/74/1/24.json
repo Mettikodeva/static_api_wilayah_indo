@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ranomentaa",
-    "Toari",
-    "Lakito",
-    "Anawua",
-    "Wowoli",
-    "Rano jaya",
-    "Rahabite",
-    "Wonua Raya",
-    "Rano Sangia",
-    "Horongkuli"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ranomentaa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Toari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lakito"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Anawua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wowoli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rano jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rahabite"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonua Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rano Sangia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Horongkuli"
+    }
   ]
 }

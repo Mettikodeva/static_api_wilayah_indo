@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lembengan",
-    "Suren",
-    "Karangpaiton (Karang Paiton)",
-    "Sumberanget (Sumber Anget)",
-    "Sukogidri",
-    "Ledokombo",
-    "Sumberlesung (Sumber Lesung)",
-    "Sumbersalak (Sumber Salak)",
-    "Slateng",
-    "Sumberbulus (Sumber Bulus)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lembengan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangpaiton (Karang Paiton)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberanget (Sumber Anget)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukogidri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ledokombo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberlesung (Sumber Lesung)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumbersalak (Sumber Salak)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Slateng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumberbulus (Sumber Bulus)"
+    }
   ]
 }

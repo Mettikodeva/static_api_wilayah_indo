@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jatimulyo",
-    "Jatirejo",
-    "Jatigono",
-    "Sukorejo",
-    "Sukosari",
-    "Kunir Kidul",
-    "Kunir Lor",
-    "Kedungmoro",
-    "Karanglo",
-    "Kabuaran",
-    "Dorogowok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatimulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatigono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kunir Kidul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kunir Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedungmoro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karanglo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kabuaran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dorogowok"
+    }
   ]
 }

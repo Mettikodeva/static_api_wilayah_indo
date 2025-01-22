@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sukamulya",
-    "Sukahurip",
-    "Cijulang",
-    "Sukamaju",
-    "Sukasetia",
-    "Sumberjaya",
-    "Cihaurbeuti",
-    "Pasirtamiang",
-    "Padamulya",
-    "Pamokolan",
-    "Sukahaji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukahurip"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cijulang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukasetia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cihaurbeuti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasirtamiang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padamulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pamokolan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukahaji"
+    }
   ]
 }

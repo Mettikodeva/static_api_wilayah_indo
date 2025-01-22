@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Soriutu",
-    "Banggo",
-    "Kwangko",
-    "Lanci Jaya",
-    "Suka Damai",
-    "Nusa Jaya",
-    "Doromelo",
-    "Nangatumpu",
-    "Kampasi Meci",
-    "Teka Sire",
-    "Anamina",
-    "Tanju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Soriutu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banggo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kwangko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lanci Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nusa Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Doromelo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nangatumpu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kampasi Meci"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teka Sire"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anamina"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanju"
+    }
   ]
 }

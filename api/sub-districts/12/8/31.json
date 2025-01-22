@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ujung Saribu",
-    "Silimakuta Barat",
-    "Siboras",
-    "Mardingding (Mardinding)",
-    "Naga Saribu",
-    "Saribu Jandi",
-    "Sinar Naga Mariah",
-    "Ujung Mariah",
-    "Bandar Saribu",
-    "Naga Bosar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ujung Saribu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silimakuta Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siboras"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mardingding (Mardinding)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naga Saribu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Saribu Jandi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinar Naga Mariah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ujung Mariah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bandar Saribu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Naga Bosar"
+    }
   ]
 }

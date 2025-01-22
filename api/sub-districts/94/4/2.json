@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kiliarma",
-    "Amungun",
-    "Aramsolki",
-    "Fakafuku",
-    "Masasimamo",
-    "Emogoma",
-    "Emkoma Halama",
-    "Hinat Untung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kiliarma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Amungun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aramsolki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fakafuku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Masasimamo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Emogoma"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Emkoma Halama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hinat Untung"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Jagong",
-    "Mappa Saile (Mappasaile)",
-    "Pabundukang",
-    "Anrong Appaka",
-    "Sibatua",
-    "Padoang Doangan (Paddoang Doangan)",
-    "Tumampua",
-    "Tekolabbua",
-    "Bonto Perak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jagong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mappa Saile (Mappasaile)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pabundukang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Anrong Appaka"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sibatua"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Padoang Doangan (Paddoang Doangan)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tumampua"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tekolabbua"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bonto Perak"
+    }
   ]
 }

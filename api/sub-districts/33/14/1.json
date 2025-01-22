@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Keden",
-    "Trobayan",
-    "Kalimacan",
-    "Jetiskarangpung (Jetis Karangpung)",
-    "Krikilan",
-    "Bukuran",
-    "Ngebung",
-    "Tegalombo",
-    "Banaran",
-    "Karangjati",
-    "Saren",
-    "Sambirembe (Samberembe)",
-    "Donoyudan",
-    "Wonorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keden"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Trobayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalimacan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jetiskarangpung (Jetis Karangpung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Krikilan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukuran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngebung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegalombo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangjati"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saren"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sambirembe (Samberembe)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Donoyudan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wonorejo"
+    }
   ]
 }

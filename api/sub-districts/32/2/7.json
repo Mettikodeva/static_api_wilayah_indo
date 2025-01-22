@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lengkong",
-    "Cilangkap",
-    "Tegallega",
-    "Neglasari",
-    "Langkapjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilangkap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tegallega"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langkapjaya"
+    }
   ]
 }

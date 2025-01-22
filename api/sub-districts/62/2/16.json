@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Luwuk Sampun",
-    "Tumbang Mujam",
-    "Merah",
-    "Tanjung Jorong",
-    "Sebungsu",
-    "Bukit Makmur",
-    "Wonosari",
-    "Mekar Sari",
-    "Damar Makmur",
-    "Cempaka Putih",
-    "Jati Waringin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Luwuk Sampun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Mujam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Merah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Jorong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebungsu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Damar Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cempaka Putih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jati Waringin"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sirnasari",
-    "Tarikolot",
-    "Pawenang",
-    "Sarimekar",
-    "Banjarsari",
-    "Kirisik",
-    "Sukamanah",
-    "Cipeundeuy",
-    "Cimanintin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sirnasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tarikolot"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pawenang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sarimekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kirisik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cipeundeuy"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cimanintin"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kuratao",
-    "Landiwo",
-    "Kolosua",
-    "Laumoso",
-    "Hialu Utama",
-    "Polo polora",
-    "Tambakua",
-    "Matabaho",
-    "Landawe Utama",
-    "Mata Benua",
-    "Hialu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuratao"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Landiwo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kolosua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laumoso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hialu Utama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Polo polora"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tambakua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Matabaho"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Landawe Utama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mata Benua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hialu"
+    }
   ]
 }

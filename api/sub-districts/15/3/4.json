@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pauh",
-    "Pangidaran (Pengidaran)",
-    "Karang Mendapo",
-    "Batu Ampar",
-    "Batu Kucing",
-    "Semaran",
-    "Kasang Melintang",
-    "Pangkal Bulian",
-    "Lubuk Napal",
-    "Sepintun",
-    "Lamban Sigatal",
-    "Seko Besar",
-    "Taman Bandung",
-    "Danau Serdang"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pauh"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangidaran (Pengidaran)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Mendapo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Kucing"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Semaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kasang Melintang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangkal Bulian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk Napal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sepintun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lamban Sigatal"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Seko Besar"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Taman Bandung"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Danau Serdang"
+    }
   ]
 }

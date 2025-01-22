@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kapiraya (Komauto)",
-    "Mogodagi",
-    "Yamouwitina",
-    "Idego",
-    "Uwe Onagei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kapiraya (Komauto)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mogodagi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yamouwitina"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Idego"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uwe Onagei"
+    }
   ]
 }

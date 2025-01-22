@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kaliombo",
-    "Karangrandu",
-    "Gerdu",
-    "Pecangaan Kulon",
-    "Rengging",
-    "Troso",
-    "Ngeling",
-    "Pulodarat",
-    "Lebuawu",
-    "Gemulung",
-    "Pecangaan Wetan",
-    "Krasak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaliombo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangrandu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gerdu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pecangaan Kulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rengging"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Troso"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngeling"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulodarat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lebuawu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gemulung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pecangaan Wetan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Krasak"
+    }
   ]
 }

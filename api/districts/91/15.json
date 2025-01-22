@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Waropen Bawah",
-    "Masirei",
-    "Risei Sayati",
-    "Urei Faisei",
-    "Inggerus",
-    "Kirihi",
-    "Oudate",
-    "Wapoga",
-    "Demba",
-    "Wonti",
-    "Soyoi Mambai"
+    {
+      "district_id": 1,
+      "kecamatan": "Waropen Bawah"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Masirei"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Risei Sayati"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Urei Faisei"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Inggerus"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kirihi"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Oudate"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Wapoga"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Demba"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Wonti"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Soyoi Mambai"
+    }
   ]
 }

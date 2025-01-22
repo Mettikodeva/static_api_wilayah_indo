@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanjung",
-    "Tengah",
-    "Terusan",
-    "Sengkubang",
-    "Penibung (Penibungan)",
-    "Pasir",
-    "Kuala Secapah",
-    "Malikian"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tengah"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Terusan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sengkubang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Penibung (Penibungan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasir"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kuala Secapah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Malikian"
+    }
   ]
 }

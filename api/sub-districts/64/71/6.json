@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Prapatan",
-    "Telaga Sari",
-    "Klandasan Ulu",
-    "Klandasan Ilir",
-    "Damai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Prapatan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Telaga Sari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klandasan Ulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Klandasan Ilir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Damai"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ilangata",
-    "Tolongio",
-    "Tolango",
-    "Popalo",
-    "Dudepo",
-    "Mootilango",
-    "Langge",
-    "Tutuwoto",
-    "Hiyalooile",
-    "Ibarat",
-    "Iloheluma",
-    "Ilodulunga",
-    "Putiana",
-    "Heluma (Helumo)",
-    "Datahu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ilangata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tolongio"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tolango"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Popalo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dudepo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mootilango"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Langge"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tutuwoto"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hiyalooile"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ibarat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Iloheluma"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ilodulunga"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Putiana"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Heluma (Helumo)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Datahu"
+    }
   ]
 }

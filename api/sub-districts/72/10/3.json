@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kamarora A",
-    "Kamarora B",
-    "Kadidia",
-    "Sopu",
-    "Bulili"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kamarora A"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kamarora B"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kadidia"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sopu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulili"
+    }
   ]
 }

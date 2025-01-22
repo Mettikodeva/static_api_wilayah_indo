@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Balai Jaring",
-    "Padang Alai Bodi",
-    "Padang Tangah Payobadar",
-    "Sicincin",
-    "Padang Tiakar",
-    "Payobasung",
-    "Koto Panjang",
-    "Koto Baru",
-    "Tiakar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Balai Jaring"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Padang Alai Bodi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Padang Tangah Payobadar"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sicincin"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Padang Tiakar"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Payobasung"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Koto Panjang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Koto Baru"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Tiakar"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kawengan",
-    "Wonocolo",
-    "Hargomulyo",
-    "Kedewan",
-    "Beji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kawengan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonocolo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hargomulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedewan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beji"
+    }
   ]
 }

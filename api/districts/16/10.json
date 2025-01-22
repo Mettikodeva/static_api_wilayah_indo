@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Muara Kuang",
-    "Tanjung Batu",
-    "Tanjung Raja",
-    "Indralaya",
-    "Pemulutan",
-    "Rantau Alai",
-    "Indralaya Utara",
-    "Indralaya Selatan",
-    "Pemulutan Selatan",
-    "Pemulutan Barat",
-    "Rantau Panjang",
-    "Sungai Pinang",
-    "Kandis",
-    "Rambang Kuang",
-    "Lubuk Keliat",
-    "Payaraman"
+    {
+      "district_id": 1,
+      "kecamatan": "Muara Kuang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Batu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tanjung Raja"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Indralaya"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pemulutan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Rantau Alai"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Indralaya Utara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Indralaya Selatan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pemulutan Selatan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pemulutan Barat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Rantau Panjang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sungai Pinang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kandis"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Rambang Kuang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Lubuk Keliat"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Payaraman"
+    }
   ]
 }

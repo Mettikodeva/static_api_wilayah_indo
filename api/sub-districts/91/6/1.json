@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Sorido",
-    "Waupnor",
-    "Saramon (Saramom)",
-    "Burokup (Burokub)",
-    "Fandoi",
-    "Mandala",
-    "Yenures",
-    "Mnubabo (Ambroben)",
-    "Swapodibo",
-    "Mokmer",
-    "Inggiri",
-    "Paray (Parai)",
-    "Samau",
-    "Insrom",
-    "Anggraidi",
-    "Manswam (Manswan)",
-    "Sanumi",
-    "Manggandisapi",
-    "Karyendi",
-    "Kababur",
-    "Babrinbo",
-    "Inggupi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sorido"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Waupnor"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Saramon (Saramom)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Burokup (Burokub)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Fandoi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Yenures"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mnubabo (Ambroben)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Swapodibo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mokmer"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Inggiri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Paray (Parai)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Samau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Insrom"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Anggraidi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Manswam (Manswan)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sanumi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Manggandisapi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Karyendi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kababur"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Babrinbo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Inggupi"
+    }
   ]
 }

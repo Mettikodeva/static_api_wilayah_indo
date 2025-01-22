@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bonawang",
-    "Tapadaka Satu / I",
-    "Tapadaka Utara",
-    "Tapadaka Timur",
-    "Konarom",
-    "Konarom Barat",
-    "Konarom Utara",
-    "Osion",
-    "Ikuna",
-    "Dumara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapadaka Satu / I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tapadaka Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapadaka Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Konarom"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Konarom Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Konarom Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Osion"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ikuna"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dumara"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sekancing (Sei Kancing)",
-    "Sekancing Ilir",
-    "Beringin Sanggul",
-    "Baru Bukit Punjung",
-    "Rantau Limau Kapas",
-    "Baru Sungai Sakai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekancing (Sei Kancing)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekancing Ilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beringin Sanggul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baru Bukit Punjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Limau Kapas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baru Sungai Sakai"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Menteng",
-    "Pegangsaan",
-    "Cikini",
-    "Gondangdia",
-    "Kebon Sirih"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Menteng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pegangsaan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cikini"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gondangdia"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebon Sirih"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Malagai",
-    "Oka",
-    "Bagi",
-    "Ganume",
-    "Binilani",
-    "Gumban",
-    "Lowanom",
-    "Nambu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malagai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bagi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ganume"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Binilani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gumban"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lowanom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nambu"
+    }
   ]
 }

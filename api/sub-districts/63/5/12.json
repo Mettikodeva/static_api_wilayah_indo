@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tarungin",
-    "Matang Batas",
-    "Hatungun",
-    "Burakai",
-    "Batu Hapu",
-    "Kambang Kuning",
-    "Asam Randah",
-    "Bagak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tarungin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matang Batas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hatungun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Burakai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Hapu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kambang Kuning"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Asam Randah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bagak"
+    }
   ]
 }

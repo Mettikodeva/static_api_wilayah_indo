@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pagar",
-    "Blambangan",
-    "Jagang",
-    "Tanjung Iman (Tanjungiman)",
-    "Tulung Singkip",
-    "Pagar Gading",
-    "Buring Kencana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Blambangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jagang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Iman (Tanjungiman)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tulung Singkip"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagar Gading"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buring Kencana"
+    }
   ]
 }

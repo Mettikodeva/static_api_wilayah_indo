@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Kampung Baru",
-    "Tungkaran Pangeran",
-    "Sari Gadung",
-    "Mekar Sari",
-    "Sungaidua (Sungai Dua)",
-    "Batu Ampar",
-    "Gunungbesar (Gunung Besar)",
-    "Pulau Burung",
-    "Baroqah",
-    "Bersujud",
-    "Sejahtera",
-    "Gunungantasari (Gunung Antasari)",
-    "Hidayah Makmur",
-    "Plajau Mulia",
-    "Kupang Berkah Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tungkaran Pangeran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sari Gadung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaidua (Sungai Dua)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunungbesar (Gunung Besar)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulau Burung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baroqah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bersujud"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sejahtera"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gunungantasari (Gunung Antasari)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hidayah Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Plajau Mulia"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kupang Berkah Jaya"
+    }
   ]
 }

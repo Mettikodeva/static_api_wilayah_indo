@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sebabi",
-    "Sandul",
-    "Kalang",
-    "Derawa",
-    "Wana Tirta",
-    "Suka Mulya",
-    "Durian Kait",
-    "Sehabu (Sahabu/Sebabu)",
-    "Batu Menangis (Batu Manangis)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sebabi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sandul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Derawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wana Tirta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Durian Kait"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sehabu (Sahabu/Sebabu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Menangis (Batu Manangis)"
+    }
   ]
 }

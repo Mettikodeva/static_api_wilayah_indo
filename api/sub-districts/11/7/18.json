@@ -1,56 +1,212 @@
 {
   "sub_districts": [
-    "Meunasah Raya Paya",
-    "Mesjid Bungie",
-    "Liliep (Liliep Bungie)",
-    "Ujong Baroh",
-    "Peukan Sot",
-    "Sukon",
-    "Raya Paleue",
-    "Lambideng",
-    "Cot Paleu (Cot Paleue)",
-    "Seukee",
-    "Cebrek",
-    "Linggong Sagoe",
-    "Kulam Baro",
-    "Empeh (Meunasah Empeh)",
-    "Nien",
-    "Ceureucok Timur (Curucok Timur)",
-    "Ceureukcok Barat (Curucok Barat)",
-    "Jaja Baroh",
-    "Jaja Tunong",
-    "Mesjid Gigieng",
-    "Gong (Meunasah Gong)",
-    "Pulo Raya",
-    "Pulo Blang",
-    "Mamplam",
-    "Meunasah Lhee",
-    "Pante",
-    "Kupula",
-    "Mantak Raya",
-    "Peukan Tuha",
-    "Dayah Lampoh Awe",
-    "Meunasah Blang",
-    "Pulo Gajah Mate",
-    "Seuk Ceukok (Seuk Cukok)",
-    "Pulo Tu",
-    "Jurong (Meunasah Jurong)",
-    "Kampong Blang (Kampung Blang)",
-    "Padang",
-    "Cot Ara",
-    "Dayah Bale Cut (Dayah Blang Cut)",
-    "Teungoh Mangki",
-    "Dayah Blang",
-    "Madika",
-    "Sagoe",
-    "Cereucok sagoe (Curucok Sagoe)",
-    "Bunien",
-    "Paloh Tok Due (Paloh Tok Dhue)",
-    "Mesjid Tungoe (Mesjid Tungue)",
-    "Blang Leuen",
-    "Ujong Gampong",
-    "Cot Jaja",
-    "Lheue",
-    "Ulee Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meunasah Raya Paya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mesjid Bungie"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Liliep (Liliep Bungie)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ujong Baroh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peukan Sot"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Raya Paleue"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lambideng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cot Paleu (Cot Paleue)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seukee"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cebrek"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Linggong Sagoe"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kulam Baro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Empeh (Meunasah Empeh)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nien"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ceureucok Timur (Curucok Timur)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ceureukcok Barat (Curucok Barat)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jaja Baroh"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Jaja Tunong"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mesjid Gigieng"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Gong (Meunasah Gong)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pulo Raya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pulo Blang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Mamplam"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Meunasah Lhee"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pante"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Kupula"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Mantak Raya"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Peukan Tuha"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Dayah Lampoh Awe"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Meunasah Blang"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pulo Gajah Mate"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Seuk Ceukok (Seuk Cukok)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Pulo Tu"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Jurong (Meunasah Jurong)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Kampong Blang (Kampung Blang)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Cot Ara"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Dayah Bale Cut (Dayah Blang Cut)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Teungoh Mangki"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Dayah Blang"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Madika"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Sagoe"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Cereucok sagoe (Curucok Sagoe)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Bunien"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Paloh Tok Due (Paloh Tok Dhue)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Mesjid Tungoe (Mesjid Tungue)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Blang Leuen"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Ujong Gampong"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Cot Jaja"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Lheue"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Ulee Barat"
+    }
   ]
 }

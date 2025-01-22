@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kemijen",
-    "Rejomulyo",
-    "Mlatibaru",
-    "Kebonagung",
-    "Mlatiharjo",
-    "Bugangan",
-    "Sarirejo",
-    "Rejosari",
-    "Karangturi",
-    "Karangtempel"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kemijen"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rejomulyo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mlatibaru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mlatiharjo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bugangan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sarirejo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Karangturi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Karangtempel"
+    }
   ]
 }

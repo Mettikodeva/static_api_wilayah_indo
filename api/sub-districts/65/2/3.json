@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Long Pujungan",
-    "Long Ketaman",
-    "Long Pua",
-    "Long Lame (Lame)",
-    "Long Jelet",
-    "Long Aran",
-    "Long Peliran (Long Paliran)",
-    "Long Bena",
-    "Long Belaka Pitau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Pujungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Ketaman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Pua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Long Lame (Lame)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Long Jelet"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Long Aran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Long Peliran (Long Paliran)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Long Bena"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Long Belaka Pitau"
+    }
   ]
 }

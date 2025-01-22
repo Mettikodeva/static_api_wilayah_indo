@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banyupelle",
-    "Rek Kerrek",
-    "Angsanah",
-    "Akkor",
-    "Larangan Badung",
-    "Panaan",
-    "Patoan Laok (Potoan Laok)",
-    "Patoan Dajah (Potoan Daja)",
-    "Kacok",
-    "Rombuh",
-    "Palengaan Laok",
-    "Palengaan Dajah (Palengaan Daja)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyupelle"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rek Kerrek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Angsanah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Akkor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Larangan Badung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panaan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Patoan Laok (Potoan Laok)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patoan Dajah (Potoan Daja)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kacok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rombuh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Palengaan Laok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Palengaan Dajah (Palengaan Daja)"
+    }
   ]
 }

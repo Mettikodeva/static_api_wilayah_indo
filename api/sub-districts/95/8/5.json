@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Geselma (Geselema)",
-    "Talem",
-    "Kosolpem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Geselma (Geselema)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kosolpem"
+    }
   ]
 }

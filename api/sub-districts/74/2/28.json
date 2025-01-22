@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Amunggedo Baru",
-    "Anahinunu",
-    "Ulu Benua",
-    "Puuasana (Puasana)",
-    "Watulawu",
-    "Lalonona",
-    "Amonggedo",
-    "Dunggua",
-    "Benua",
-    "Matabura",
-    "Wawohine",
-    "Mendikonu",
-    "Amandete (Warandete)",
-    "Mataiwoi",
-    "Lalombonda"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Amunggedo Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Anahinunu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ulu Benua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puuasana (Puasana)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watulawu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lalonona"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Amonggedo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dunggua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Benua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Matabura"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wawohine"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mendikonu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Amandete (Warandete)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mataiwoi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lalombonda"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tanah Sareal",
-    "Kebon Pedes",
-    "Kedung Badak",
-    "Sukaresmi",
-    "Kedung Waringin",
-    "Kedung Jaya",
-    "Sukadamai",
-    "Mekar Wangi (Mekarwangi)",
-    "Kencana",
-    "Kayu Manis (Kayumanis)",
-    "Cibadak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Sareal"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kebon Pedes"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedung Badak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukaresmi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kedung Waringin"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kedung Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukadamai"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mekar Wangi (Mekarwangi)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kencana"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kayu Manis (Kayumanis)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Cibadak"
+    }
   ]
 }

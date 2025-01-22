@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kahu",
-    "Watang Cani (Watangcani)",
-    "Pattuku",
-    "Bonto Jai (Bontojai)",
-    "Bana",
-    "Pammusureng",
-    "Langi",
-    "Erecinnong (Ere Cinnong)",
-    "Bulu Sirua (Bulusirua)",
-    "Lamoncong",
-    "Mattiro Walie"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kahu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Watang Cani (Watangcani)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pattuku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bonto Jai (Bontojai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pammusureng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Erecinnong (Ere Cinnong)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulu Sirua (Bulusirua)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lamoncong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mattiro Walie"
+    }
   ]
 }

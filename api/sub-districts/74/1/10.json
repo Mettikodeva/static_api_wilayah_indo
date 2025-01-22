@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Wolo",
-    "Ulu Wolo",
-    "Donggala",
-    "Ululapao-pao (Ulu Lapao-Pao)",
-    "Tolowe Ponrewaru",
-    "Lapao-Pao",
-    "Langgomali",
-    "Lalonaha",
-    "Lana",
-    "Lalonggopi",
-    "Muara Lapao Pao",
-    "Samaenre",
-    "Iwoimopuro",
-    "Ulu Rina"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wolo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ulu Wolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Donggala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ululapao-pao (Ulu Lapao-Pao)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tolowe Ponrewaru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lapao-Pao"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Langgomali"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lalonaha"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lalonggopi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Muara Lapao Pao"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Samaenre"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Iwoimopuro"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ulu Rina"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mangunan",
-    "Muntuk",
-    "Dlingo",
-    "Temuwuh",
-    "Terong",
-    "Jatimulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mangunan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muntuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dlingo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Temuwuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Terong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatimulyo"
+    }
   ]
 }

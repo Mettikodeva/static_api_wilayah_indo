@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tiwingan (Tiwingan Lama)",
-    "Kala'an (Kalaan)",
-    "Benua Riam",
-    "Bunglai",
-    "Apuai",
-    "Rantau Bujur",
-    "Artain",
-    "Rantau Balai",
-    "Tiwingan Baru",
-    "Belangian",
-    "Aranio",
-    "Pa'au (Paau)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tiwingan (Tiwingan Lama)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kala'an (Kalaan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benua Riam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bunglai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Apuai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Bujur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Artain"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rantau Balai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tiwingan Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Belangian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aranio"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pa'au (Paau)"
+    }
   ]
 }

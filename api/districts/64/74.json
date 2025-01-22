@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Bontang Utara",
-    "Bontang Selatan",
-    "Bontang Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Bontang Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bontang Selatan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bontang Barat"
+    }
   ]
 }

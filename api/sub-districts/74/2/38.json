@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Atodopi",
-    "Matahori",
-    "Sambaosu",
-    "Matanggorai",
-    "Alosika",
-    "Mekar Jaya",
-    "Langgea",
-    "Aleuti",
-    "Garuda",
-    "Padangguni",
-    "Padang Mekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Atodopi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matahori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sambaosu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Matanggorai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alosika"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langgea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aleuti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Garuda"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padangguni"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Mekar"
+    }
   ]
 }

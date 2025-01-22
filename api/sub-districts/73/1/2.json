@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Putabangung (Putabangun)",
-    "Bontobangung (Bontobangun)",
-    "Bontosunggu",
-    "Bontoborusu",
-    "Bontolebang",
-    "Bontotangnga",
-    "Kahu-Kahu",
-    "Kalepadang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Putabangung (Putabangun)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bontobangung (Bontobangun)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bontosunggu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bontoborusu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bontolebang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bontotangnga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kahu-Kahu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalepadang"
+    }
   ]
 }

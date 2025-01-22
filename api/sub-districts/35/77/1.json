@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Oro Oro Ombo",
-    "Sukosari",
-    "Klegen",
-    "Rejomulyo",
-    "Pilangbango",
-    "Tawangrejo",
-    "Kanigoro",
-    "Kartoharjo",
-    "Kelun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Oro Oro Ombo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukosari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klegen"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rejomulyo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pilangbango"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tawangrejo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kanigoro"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kartoharjo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kelun"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Sang Tombolang",
-    "Dumoga Barat",
-    "Dumoga Timur",
-    "Dumoga Utara",
-    "Lolak",
-    "Bolaang",
-    "Lolayan",
-    "Passi Barat",
-    "Poigar",
-    "Passi Timur",
-    "Bolaang Timur",
-    "Bilalang",
-    "Dumoga",
-    "Dumoga Tenggara",
-    "Dumoga Tengah"
+    {
+      "district_id": 5,
+      "kecamatan": "Sang Tombolang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Dumoga Barat"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Dumoga Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Dumoga Utara"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lolak"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Bolaang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Lolayan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Passi Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Poigar"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Passi Timur"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Bolaang Timur"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Bilalang"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Dumoga"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Dumoga Tenggara"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Dumoga Tengah"
+    }
   ]
 }

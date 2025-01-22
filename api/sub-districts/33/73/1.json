@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Blotongan",
-    "Sidorejo Lor",
-    "Salatiga",
-    "Bugel",
-    "Kauman Kidul",
-    "Pulutan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Blotongan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sidorejo Lor"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Salatiga"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bugel"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kauman Kidul"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pulutan"
+    }
   ]
 }

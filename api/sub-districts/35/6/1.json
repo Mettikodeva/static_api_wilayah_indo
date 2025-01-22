@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bulu",
-    "Sidomulyo",
-    "Puhrubuh",
-    "Selopanggung",
-    "Kanyoran",
-    "Puhsarang",
-    "Bobang",
-    "Semen",
-    "Titik",
-    "Kedak",
-    "Pagung",
-    "Joho"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puhrubuh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selopanggung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kanyoran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puhsarang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bobang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Semen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Titik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pagung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Joho"
+    }
   ]
 }

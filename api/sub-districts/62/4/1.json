@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Rantau Kujang",
-    "Tampulang",
-    "Rantau Bahuang",
-    "Rangga Ilung",
-    "Tabatan"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rantau Kujang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tampulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Bahuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rangga Ilung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabatan"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ayula Selatan",
-    "Huntu Utara",
-    "Ayula Utara",
-    "Huntu Selatan",
-    "Ayula Tilango",
-    "Ayula Timur",
-    "Lamahu",
-    "Tinelo Ayula",
-    "Sejahtera",
-    "Huntu Barat (Mekar Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ayula Selatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huntu Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ayula Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Huntu Selatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ayula Tilango"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ayula Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamahu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tinelo Ayula"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sejahtera"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Huntu Barat (Mekar Jaya)"
+    }
   ]
 }

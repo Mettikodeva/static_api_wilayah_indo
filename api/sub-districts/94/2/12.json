@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kulirik",
-    "Doligobak",
-    "Yalinggua",
-    "Talilome",
-    "Muara",
-    "Karubate",
-    "Dologobak",
-    "Yambidugun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kulirik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Doligobak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yalinggua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talilome"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karubate"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dologobak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yambidugun"
+    }
   ]
 }

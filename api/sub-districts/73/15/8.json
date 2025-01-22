@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cempa",
-    "Mangki",
-    "Matunru Tunrue (Mattunru Tunrue)",
-    "Sikkuale",
-    "Tadangpalie (Tadang Palie)",
-    "Salipolo",
-    "Tanra Tuo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cempa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matunru Tunrue (Mattunru Tunrue)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sikkuale"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tadangpalie (Tadang Palie)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salipolo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanra Tuo"
+    }
   ]
 }

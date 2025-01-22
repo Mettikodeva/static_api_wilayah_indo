@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Pelapis",
-    "Betok Jaya",
-    "Padang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelapis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betok Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang"
+    }
   ]
 }

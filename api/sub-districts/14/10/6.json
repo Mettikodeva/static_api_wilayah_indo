@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kuala Merbau",
-    "Renak Dungun",
-    "Baran Melintang",
-    "Teluk Ketapang",
-    "Semukut",
-    "Centai",
-    "Tanjungbunga",
-    "Batang Meranti",
-    "Pangkalan Balai",
-    "Padang Kamal",
-    "Ketapang Permai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Merbau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Renak Dungun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baran Melintang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Ketapang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semukut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Centai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungbunga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batang Meranti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangkalan Balai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padang Kamal"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketapang Permai"
+    }
   ]
 }

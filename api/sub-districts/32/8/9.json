@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Citangtu",
-    "Kuningan",
-    "Winduhaji",
-    "Windusengkahan",
-    "Cijoho",
-    "Purwawinangun",
-    "Cigintung",
-    "Cirendang",
-    "Ciporang",
-    "Awirarangan",
-    "Cibinuang",
-    "Karangtawang",
-    "Kedungarum",
-    "Ancaran",
-    "Kasturi",
-    "Padarek"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Citangtu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kuningan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Winduhaji"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Windusengkahan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cijoho"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Purwawinangun"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cigintung"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cirendang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ciporang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Awirarangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cibinuang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangtawang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kedungarum"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ancaran"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kasturi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Padarek"
+    }
   ]
 }

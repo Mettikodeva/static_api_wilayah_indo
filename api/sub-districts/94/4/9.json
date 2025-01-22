@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kuala Kencana",
-    "Karang Senang",
-    "Utikini Baru",
-    "Bhintuka",
-    "Tioka Kencana",
-    "Mimika Gunung",
-    "Karya Kencana",
-    "Utikini Dua",
-    "Utikini Tiga",
-    "Jimbi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kuala Kencana"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Karang Senang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Utikini Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bhintuka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tioka Kencana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mimika Gunung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karya Kencana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Utikini Dua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Utikini Tiga"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jimbi"
+    }
   ]
 }

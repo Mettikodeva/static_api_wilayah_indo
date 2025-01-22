@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Girsang",
-    "Parapat",
-    "Tiga Raja",
-    "Sipangan Bolon",
-    "Sabaganding (Sibaganding)",
-    "Sipangan Bolon Mekar"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Girsang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Parapat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tiga Raja"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sipangan Bolon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sabaganding (Sibaganding)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sipangan Bolon Mekar"
+    }
   ]
 }

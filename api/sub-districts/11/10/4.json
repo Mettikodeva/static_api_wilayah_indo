@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pasar (Pasar Singkil)",
-    "Ujung",
-    "Pulo Sarok",
-    "Kilangan",
-    "Kuta Simboling (Kota Simboling)",
-    "Teluk Ambun",
-    "Rantau Gedang",
-    "Teluk Rumbia",
-    "Pea Bumbung (Paya Bumbung)",
-    "Pemuka",
-    "Takal Pasir",
-    "Selok Aceh",
-    "Suka Makmur",
-    "Ujung Bawang",
-    "Siti Ambia",
-    "Suka Damai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasar (Pasar Singkil)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulo Sarok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kilangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuta Simboling (Kota Simboling)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluk Ambun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rantau Gedang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teluk Rumbia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pea Bumbung (Paya Bumbung)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pemuka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Takal Pasir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Selok Aceh"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ujung Bawang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Siti Ambia"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Suka Damai"
+    }
   ]
 }

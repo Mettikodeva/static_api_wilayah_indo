@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanah Tinggi",
-    "Dataran Tinggi",
-    "Timbang Langkat",
-    "Mencirim",
-    "Tunggurono",
-    "Sumber Mulyorejo (Sumber Mulyo Rejo)",
-    "Sumber Karya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Tinggi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dataran Tinggi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Timbang Langkat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mencirim"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tunggurono"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sumber Mulyorejo (Sumber Mulyo Rejo)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sumber Karya"
+    }
   ]
 }

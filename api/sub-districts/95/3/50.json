@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kayo",
-    "Molama",
-    "Sebu",
-    "Walet",
-    "Hombesaloma",
-    "Alhai",
-    "Uase"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Molama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Walet"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hombesaloma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alhai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uase"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sabisa",
-    "Dubandoga (Dubasiga)",
-    "Debasiga",
-    "Debasiga Dua",
-    "Isandoga",
-    "Mogalo",
-    "Jae",
-    "Mbugulo",
-    "Hulapuga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sabisa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dubandoga (Dubasiga)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Debasiga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Debasiga Dua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Isandoga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mogalo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jae"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mbugulo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hulapuga"
+    }
   ]
 }

@@ -1,43 +1,160 @@
 {
   "sub_districts": [
-    "Mata Ie",
-    "Gampong Baroh",
-    "Lampaseh Lhok",
-    "Lampaseh Krueng",
-    "Lamnga (Lam Nga)",
-    "Dayah Daboh",
-    "Weulhok (Wue Lhok)",
-    "Kp. Alue",
-    "Weu Krueng",
-    "Seuban Cot",
-    "Bak Dilib",
-    "Ulee Lhat",
-    "Lamraya (Lam Raya)",
-    "Lamme Garot",
-    "Weu Bada",
-    "Meunasah Tutong",
-    "Empee Tanong (Empee Tunong)",
-    "Bak Cirih",
-    "Warabo",
-    "Teubang Phui Mesjid",
-    "Teubang Phui Baro",
-    "Bira Cot",
-    "Bira Lhok",
-    "Bung Tujoh (Bung Tujuh)",
-    "Peurumping",
-    "Atong",
-    "Reudeup",
-    "Seubam Lhok (Seuban Lhok)",
-    "Seumet (Seumeut)",
-    "Cot Seunong",
-    "Mon Ara",
-    "Cot Lhok",
-    "Cot Lampoh Soh",
-    "Bueng Raya (Bung Raya)",
-    "Piyeung Lhang",
-    "Piyeung Manee",
-    "Bueng Daroh (Bung Daroh)",
-    "Kuweu (Piyeng Kuweu)",
-    "Peyeung Datu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mata Ie"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gampong Baroh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lampaseh Lhok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lampaseh Krueng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamnga (Lam Nga)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dayah Daboh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Weulhok (Wue Lhok)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kp. Alue"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Weu Krueng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seuban Cot"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bak Dilib"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ulee Lhat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lamraya (Lam Raya)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lamme Garot"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Weu Bada"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Meunasah Tutong"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Empee Tanong (Empee Tunong)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bak Cirih"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Warabo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Teubang Phui Mesjid"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Teubang Phui Baro"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bira Cot"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Bira Lhok"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Bung Tujoh (Bung Tujuh)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Peurumping"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Atong"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Reudeup"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Seubam Lhok (Seuban Lhok)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Seumet (Seumeut)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Cot Seunong"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Mon Ara"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Cot Lhok"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Cot Lampoh Soh"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Bueng Raya (Bung Raya)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Piyeung Lhang"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Piyeung Manee"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Bueng Daroh (Bung Daroh)"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Kuweu (Piyeng Kuweu)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Peyeung Datu"
+    }
   ]
 }

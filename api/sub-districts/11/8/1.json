@@ -1,61 +1,232 @@
 {
   "sub_districts": [
-    "Keude Alue Ie Puteh",
-    "Meunasah Alue Ie Puteh (Mnsh Alue I Puteh)",
-    "Pucok Alue",
-    "Alue Anoe Timu (Alue Anou Timu)",
-    "Alue Anoe Barat (Alue Anou Barat)",
-    "Pulo Seukee (Pulo Seuke)",
-    "Alue Serdang",
-    "Cot Mane",
-    "Cot Kumbang",
-    "Matang Kumbang",
-    "Matang Kareung",
-    "Cot Ulaya",
-    "Alue Geudong",
-    "Tanjong Glumpang",
-    "Matang Raya Timu",
-    "Matang Raya Barat",
-    "Matang Kelayu",
-    "Alue Buya",
-    "Matang Cut",
-    "Keude Panteu Breuh (Keude Panteu Brueh)",
-    "Meudang Ara",
-    "Meunasah Bujok",
-    "Alue Dama",
-    "Cot Ara",
-    "Rambong Dalam",
-    "Meunasah Geudong",
-    "Alue Keutapang",
-    "Krueng Lingka Barat",
-    "Krueng Lingka Timu",
-    "Alue Jamok (Alue Jambok)",
-    "Alue Bili Geulumpang",
-    "Lhok Seutuy",
-    "Alue Bili Rayeuk",
-    "Keude Menjee IV (Keude Menyee IV)",
-    "Glumpang Bungkok (Geulumpang Bungkok)",
-    "Matang Rawa",
-    "Glumpang Samlakoe",
-    "Arongan Lise",
-    "Matang Reudeup (Matang Reudep)",
-    "Matang Manyam",
-    "Matang Ulim",
-    "Matang Beuringen (Matang Beringin)",
-    "Cot Manyang",
-    "Alue Ie Tarek",
-    "Alue Rambong",
-    "Matang Linya",
-    "Matang Lawang",
-    "Glumpang payong",
-    "Mon Sukon",
-    "Lueng Bata",
-    "Ceumpeudak",
-    "Buket Dara Baro",
-    "Matang Pineung",
-    "Matang Baro",
-    "Ujong Dama",
-    "Babussalam",
-    "Cinta Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Alue Ie Puteh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meunasah Alue Ie Puteh (Mnsh Alue I Puteh)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pucok Alue"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alue Anoe Timu (Alue Anou Timu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alue Anoe Barat (Alue Anou Barat)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulo Seukee (Pulo Seuke)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alue Serdang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cot Mane"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cot Kumbang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Matang Kumbang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Matang Kareung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cot Ulaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Alue Geudong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjong Glumpang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Matang Raya Timu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Matang Raya Barat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Matang Kelayu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Alue Buya"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Matang Cut"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Keude Panteu Breuh (Keude Panteu Brueh)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Meudang Ara"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Meunasah Bujok"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Alue Dama"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Cot Ara"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Rambong Dalam"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Meunasah Geudong"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Alue Keutapang"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Krueng Lingka Barat"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Krueng Lingka Timu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Alue Jamok (Alue Jambok)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Alue Bili Geulumpang"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Lhok Seutuy"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Alue Bili Rayeuk"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Keude Menjee IV (Keude Menyee IV)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Glumpang Bungkok (Geulumpang Bungkok)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Matang Rawa"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Glumpang Samlakoe"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Arongan Lise"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Matang Reudeup (Matang Reudep)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Matang Manyam"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Matang Ulim"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Matang Beuringen (Matang Beringin)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Cot Manyang"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Alue Ie Tarek"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Alue Rambong"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Matang Linya"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Matang Lawang"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Glumpang payong"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Mon Sukon"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Lueng Bata"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Ceumpeudak"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Buket Dara Baro"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Matang Pineung"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Matang Baro"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Ujong Dama"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Babussalam"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Cinta Makmur"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Ruota",
-    "Tirawonua (Tira Wonua)",
-    "Parudongka",
-    "Walandawe",
-    "Puuwiwirano",
-    "Tanggola",
-    "Lalomerui"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ruota"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tirawonua (Tira Wonua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parudongka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Walandawe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puuwiwirano"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanggola"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lalomerui"
+    }
   ]
 }

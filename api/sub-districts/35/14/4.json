@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Wonorejo",
-    "Banjarimbo",
-    "Welulang",
-    "Watu Lumbung (Watulumbung)",
-    "Panditan",
-    "Bulu Kandang (Bulukandang)",
-    "Lumbang",
-    "Pancur",
-    "Kronto",
-    "Karang Asem",
-    "Cukur Guling (Cukurguling)",
-    "Karang Jati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjarimbo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Welulang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watu Lumbung (Watulumbung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panditan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulu Kandang (Bulukandang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumbang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pancur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kronto"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karang Asem"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cukur Guling (Cukurguling)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karang Jati"
+    }
   ]
 }

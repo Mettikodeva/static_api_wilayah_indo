@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Serang",
-    "Kutabawa",
-    "Siwarak",
-    "Tlahab Lor",
-    "Tlahab Kidul",
-    "Karangreja",
-    "Gondang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kutabawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siwarak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tlahab Lor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tlahab Kidul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangreja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gondang"
+    }
   ]
 }

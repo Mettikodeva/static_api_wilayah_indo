@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Masarang",
-    "Rinegetan",
-    "Roong",
-    "Tuutu",
-    "Tounkuramber",
-    "Wawalintouan",
-    "Rerewokan",
-    "Watulambot",
-    "Wewelan (Wewelen)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Masarang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rinegetan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Roong"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tuutu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tounkuramber"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Wawalintouan"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Rerewokan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Watulambot"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Wewelan (Wewelen)"
+    }
   ]
 }

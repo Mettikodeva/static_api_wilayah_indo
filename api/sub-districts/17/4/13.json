@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Datar Lebar",
-    "Tanjung Bunian",
-    "Sinar Bulan",
-    "Sukananti (Suka Nanti)",
-    "Lawang Agung",
-    "Tanjung Kurung",
-    "Senak (Senak Perda)",
-    "Datar Lebar II",
-    "Aur Gading"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Datar Lebar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Bunian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinar Bulan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukananti (Suka Nanti)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lawang Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Kurung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Senak (Senak Perda)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Datar Lebar II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aur Gading"
+    }
   ]
 }

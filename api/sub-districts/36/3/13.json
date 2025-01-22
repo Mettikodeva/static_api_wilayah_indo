@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Teluknaga (Teluk Naga)",
-    "Bojong Renged",
-    "Babakan Asem",
-    "Keboncau (Kebon Cau)",
-    "Pangkalan",
-    "Kampung Melayu Timur",
-    "Kampung Melayu Barat",
-    "Muara",
-    "Lemo",
-    "Tanjung Pasir",
-    "Tegal Angus",
-    "Tanjung Burung",
-    "Kampung Besar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluknaga (Teluk Naga)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojong Renged"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Babakan Asem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Keboncau (Kebon Cau)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampung Melayu Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Melayu Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lemo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Pasir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tegal Angus"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Burung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kampung Besar"
+    }
   ]
 }

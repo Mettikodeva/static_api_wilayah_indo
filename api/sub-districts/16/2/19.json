@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Deling",
-    "Pangkalan Lampan (Pangkalan Lampam)",
-    "Lirik",
-    "Lebung Batang",
-    "Sungai Bungin",
-    "Sukaraja (Suka Raja)",
-    "Darat",
-    "Pulauan (Pulawan)",
-    "Riding",
-    "Sunggutan",
-    "Suka Damai (Sukadamai)",
-    "Air Pedara",
-    "Rimba Samak",
-    "Talang Daya",
-    "Air Rumbai",
-    "Rambai",
-    "Perigi",
-    "Bukit Batu",
-    "Rawa Tenam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Deling"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkalan Lampan (Pangkalan Lampam)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lirik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lebung Batang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Bungin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukaraja (Suka Raja)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Darat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulauan (Pulawan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Riding"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sunggutan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Damai (Sukadamai)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Air Pedara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rimba Samak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talang Daya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Air Rumbai"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rambai"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Perigi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bukit Batu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Rawa Tenam"
+    }
   ]
 }

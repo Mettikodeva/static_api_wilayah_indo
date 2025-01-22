@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cikole",
-    "Selabatu",
-    "Gunungparang (Gunung Parang)",
-    "Kebonjati",
-    "Cisarua",
-    "Subangjaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cikole"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Selabatu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gunungparang (Gunung Parang)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kebonjati"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Subangjaya"
+    }
   ]
 }

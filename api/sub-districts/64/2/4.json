@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sepatin",
-    "Muara Pantuan",
-    "Tani Baru",
-    "Kutai Lama",
-    "Anggana",
-    "Sungai Meriam",
-    "Sidomulyo",
-    "Handil Terusan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepatin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Pantuan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tani Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kutai Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Anggana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Meriam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Handil Terusan"
+    }
   ]
 }

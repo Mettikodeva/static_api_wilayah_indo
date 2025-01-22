@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Karawaci",
-    "Bojong Jaya",
-    "Karawaci Baru",
-    "Nusa Jaya",
-    "Cimone",
-    "Cimone Jaya",
-    "Pabuaran",
-    "Sumur Pancing (Pacing)",
-    "Bugel",
-    "Margasari (Marga Sari)",
-    "Pabuaran Tumpeng",
-    "Nambo Jaya",
-    "Gerendeng",
-    "Sukajadi (Suka Jadi)",
-    "Pasar Baru",
-    "Koang Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karawaci"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bojong Jaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karawaci Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nusa Jaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cimone"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cimone Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sumur Pancing (Pacing)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bugel"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Margasari (Marga Sari)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pabuaran Tumpeng"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Nambo Jaya"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Gerendeng"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Sukajadi (Suka Jadi)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Koang Jaya"
+    }
   ]
 }

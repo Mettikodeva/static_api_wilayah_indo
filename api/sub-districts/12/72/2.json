@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Dwikora",
-    "Proklamasi",
-    "Bantan",
-    "Timbang Galung",
-    "Simarito",
-    "Sipinggolpinggol (Sipinggol Pinggol)",
-    "Banjar",
-    "Teladan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dwikora"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Proklamasi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bantan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Timbang Galung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Simarito"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sipinggolpinggol (Sipinggol Pinggol)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Teladan"
+    }
   ]
 }

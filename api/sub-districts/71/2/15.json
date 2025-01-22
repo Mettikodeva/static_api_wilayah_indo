@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kumu",
-    "Teling",
-    "Poopoh",
-    "Ranowangko",
-    "Senduk",
-    "Pinasungkulan",
-    "Mokupa",
-    "Sarani Matani",
-    "Borgo",
-    "Tambala"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kumu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teling"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Poopoh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranowangko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Senduk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pinasungkulan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mokupa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sarani Matani"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Borgo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tambala"
+    }
   ]
 }

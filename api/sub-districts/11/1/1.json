@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Keude Bakongan",
-    "Ujong Mangki (Ujung Mangki)",
-    "Ujong Padang (Ujung Padang)",
-    "Gampong Drien (Kampung Drien)",
-    "Darul Ikhsan",
-    "Padang Beurahan (Padang Berahan)",
-    "Gampong Baro (Kampung Baru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Bakongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujong Mangki (Ujung Mangki)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujong Padang (Ujung Padang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gampong Drien (Kampung Drien)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Darul Ikhsan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Padang Beurahan (Padang Berahan)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gampong Baro (Kampung Baru)"
+    }
   ]
 }

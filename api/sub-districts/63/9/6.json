@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Belimbing Raya",
-    "Belimbing",
-    "Sulingan",
-    "Mabu'un (Mabuun)",
-    "Pembataan",
-    "Maburai",
-    "Kasiau",
-    "Kapar",
-    "Masukau",
-    "Kasiau Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Belimbing Raya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Belimbing"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sulingan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mabu'un (Mabuun)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pembataan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maburai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kasiau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kapar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Masukau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kasiau Raya"
+    }
   ]
 }

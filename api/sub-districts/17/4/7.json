@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Muara Dua",
-    "Gedung Menung",
-    "Ulak Pandan",
-    "Merpas",
-    "Tanjung Betuah",
-    "Air Palawan",
-    "Tebing Rambutan",
-    "Batu Lungun",
-    "Sumber Harapan",
-    "Suku Tiga",
-    "Bukit Indah",
-    "Suka Jaya",
-    "Pasar Baru",
-    "Tri Jaya",
-    "Air Batang",
-    "Sinar Banten",
-    "Pasar Jum'at (Pasar Jumat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Dua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gedung Menung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulak Pandan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Merpas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Betuah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Palawan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tebing Rambutan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Lungun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Harapan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suku Tiga"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukit Indah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tri Jaya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Air Batang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sinar Banten"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pasar Jum'at (Pasar Jumat)"
+    }
   ]
 }

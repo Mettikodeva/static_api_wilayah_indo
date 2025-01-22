@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cipacing",
-    "Pagerageung",
-    "Sukamaju",
-    "Tanjungkerta",
-    "Puteran",
-    "Guranteng",
-    "Nanggewer",
-    "Sukapada",
-    "Pagersari",
-    "Sukadana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipacing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagerageung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungkerta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puteran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Guranteng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nanggewer"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukapada"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pagersari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukadana"
+    }
   ]
 }

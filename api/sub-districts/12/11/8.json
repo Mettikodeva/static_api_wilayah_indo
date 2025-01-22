@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lae Itam",
-    "Lae Luhung",
-    "Pardomuan",
-    "Lae Markelang",
-    "Jambur Indonesia",
-    "Simungun",
-    "Janji",
-    "Sopo Butar (Sopobutar)",
-    "Lae Sering (Lae Saring)",
-    "Lae Haporas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lae Itam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lae Luhung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lae Markelang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jambur Indonesia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simungun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Janji"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sopo Butar (Sopobutar)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lae Sering (Lae Saring)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lae Haporas"
+    }
   ]
 }

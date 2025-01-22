@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Malasigit",
-    "Klagulu",
-    "Klamugun",
-    "Malajapa",
-    "Klasman",
-    "Malamoja",
-    "Magatarum",
-    "Tanah Tinggi",
-    "Marik May"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malasigit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klagulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klamugun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malajapa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klasman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malamoja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Magatarum"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanah Tinggi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marik May"
+    }
   ]
 }

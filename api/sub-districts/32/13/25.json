@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjungrasa",
-    "Wanajaya",
-    "Gardumukti",
-    "Mariuk",
-    "Kertajaya",
-    "Tambakdahan",
-    "Rancaudik",
-    "Bojongkeding",
-    "Bojonegara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungrasa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gardumukti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mariuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambakdahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rancaudik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojongkeding"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bojonegara"
+    }
   ]
 }

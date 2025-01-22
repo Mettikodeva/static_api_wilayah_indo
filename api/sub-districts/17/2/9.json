@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Dwi Tunggal",
-    "Air Putih Lama",
-    "Adirejo",
-    "Air Rambai",
-    "Pasar Baru",
-    "Pasar Tengah",
-    "Jalan Baru",
-    "Talang Benih",
-    "Timbul Rejo"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Dwi Tunggal"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Air Putih Lama"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Adirejo"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Air Rambai"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Pasar Tengah"
+    },
+    {
+      "sub_district_id": 1031,
+      "desa_kelurahan": "Jalan Baru"
+    },
+    {
+      "sub_district_id": 1033,
+      "desa_kelurahan": "Talang Benih"
+    },
+    {
+      "sub_district_id": 1047,
+      "desa_kelurahan": "Timbul Rejo"
+    }
   ]
 }

@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Kolono",
-    "Sawa",
-    "Langgowala",
-    "Waworano",
-    "Matandahi",
-    "Puupi",
-    "Mataiwoi",
-    "Tiraosu",
-    "Mondoe Jaya",
-    "Ulusena Jaya",
-    "Lamotau",
-    "Awunio",
-    "Meletumbo",
-    "Roda",
-    "Lamapu",
-    "Andinete",
-    "Wawoosu",
-    "Alosi",
-    "Silea",
-    "Puudongi",
-    "Sarandua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kolono"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Langgowala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waworano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matandahi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puupi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mataiwoi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tiraosu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mondoe Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ulusena Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lamotau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Awunio"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Meletumbo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Roda"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lamapu"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Andinete"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wawoosu"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Alosi"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Silea"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Puudongi"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Sarandua"
+    }
   ]
 }

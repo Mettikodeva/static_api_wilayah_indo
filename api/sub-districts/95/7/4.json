@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Gamelia",
-    "Pirawun",
-    "Wupi",
-    "Gawiwarak",
-    "Meyagale",
-    "Wulaipas",
-    "Gunagewak",
-    "Wunume"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gamelia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pirawun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wupi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gawiwarak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Meyagale"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wulaipas"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gunagewak"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wunume"
+    }
   ]
 }

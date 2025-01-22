@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sukosari",
-    "Karang Melok (Karangmelok)",
-    "Mengen",
-    "Kemirian",
-    "Tamanan",
-    "Wonosuko",
-    "Kalianyar",
-    "Sumber Kemuning (Sumberkemuning)",
-    "Sumber Anom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Melok (Karangmelok)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mengen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kemirian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamanan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wonosuko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalianyar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Kemuning (Sumberkemuning)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumber Anom"
+    }
   ]
 }

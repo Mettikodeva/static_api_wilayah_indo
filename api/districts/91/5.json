@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Yapen Selatan",
-    "Yapen Barat",
-    "Yapen Timur",
-    "Angkaisera",
-    "Poom",
-    "Kosiwo",
-    "Yapen Utara",
-    "Raimbawi",
-    "Teluk Ampimoi",
-    "Kepulauan Ambai",
-    "Wonawa",
-    "Windesi",
-    "Pulau Kurudu",
-    "Pulau Yerui",
-    "Anotaurei",
-    "Yawakukat",
-    "Nusawani"
+    {
+      "district_id": 1,
+      "kecamatan": "Yapen Selatan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Yapen Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Yapen Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Angkaisera"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Poom"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kosiwo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Yapen Utara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Raimbawi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Teluk Ampimoi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kepulauan Ambai"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wonawa"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Windesi"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pulau Kurudu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Pulau Yerui"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Anotaurei"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Yawakukat"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Nusawani"
+    }
   ]
 }

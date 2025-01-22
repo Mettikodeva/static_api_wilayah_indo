@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Tirta Mulya",
-    "Suka Mulya",
-    "Jadi Mulya",
-    "Marga Tani",
-    "Bandar Jaya",
-    "Mukti Jaya",
-    "Srijaya Baru (Serijaya Baru)",
-    "Nusantara",
-    "Kerta Mukti",
-    "Nusakerta",
-    "Banyu Biru",
-    "Pangkalan Damai",
-    "Negeri Sakti",
-    "Rantau Karya",
-    "Pangkalan Sakti",
-    "Simpang Heran",
-    "Rengas Abang",
-    "Bukit Batu",
-    "Sungai Batang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tirta Mulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suka Mulya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jadi Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marga Tani"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandar Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mukti Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Srijaya Baru (Serijaya Baru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nusantara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kerta Mukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nusakerta"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banyu Biru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pangkalan Damai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Negeri Sakti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rantau Karya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pangkalan Sakti"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Simpang Heran"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rengas Abang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bukit Batu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sungai Batang"
+    }
   ]
 }

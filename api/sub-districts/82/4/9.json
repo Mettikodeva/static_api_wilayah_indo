@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Indari",
-    "Tawabi",
-    "Wiring",
-    "Nondang",
-    "Kusubibi",
-    "Nang",
-    "Kokotu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Indari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tawabi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wiring"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nondang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kusubibi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nang"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Kokotu"
+    }
   ]
 }

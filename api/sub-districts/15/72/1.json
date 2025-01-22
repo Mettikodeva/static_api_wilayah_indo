@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sungai Penuh",
-    "Pasar Sungai Penuh",
-    "Pasar Baru",
-    "Gedang",
-    "Amar Sakti"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Penuh"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasar Sungai Penuh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Amar Sakti"
+    }
   ]
 }

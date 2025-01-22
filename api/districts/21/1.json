@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Gunung Kijang",
-    "Bintan Timur",
-    "Bintan Utara",
-    "Teluk Bintan",
-    "Tambelan",
-    "Telok Sebong (Teluk Sebong)",
-    "Toapaya",
-    "Mantang",
-    "Bintan Pesisir",
-    "Seri Kuala Lobam (Sri)"
+    {
+      "district_id": 4,
+      "kecamatan": "Gunung Kijang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bintan Timur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bintan Utara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Teluk Bintan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tambelan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Telok Sebong (Teluk Sebong)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Toapaya"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Mantang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bintan Pesisir"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Seri Kuala Lobam (Sri)"
+    }
   ]
 }

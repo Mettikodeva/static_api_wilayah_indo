@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Primapun",
-    "Aworket",
-    "Saman",
-    "Bayun",
-    "Semendoro",
-    "Tareo",
-    "Kayirim",
-    "Santambor",
-    "Yaptambor",
-    "Simsagar",
-    "Itersok (Jitorsok)",
-    "Emene"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Primapun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aworket"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Saman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bayun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semendoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tareo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kayirim"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Santambor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yaptambor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simsagar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Itersok (Jitorsok)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Emene"
+    }
   ]
 }

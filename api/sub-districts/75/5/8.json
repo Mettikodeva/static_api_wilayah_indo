@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Ponelo",
-    "Malambe",
-    "Otiola",
-    "Tihengo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ponelo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malambe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Otiola"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tihengo"
+    }
   ]
 }

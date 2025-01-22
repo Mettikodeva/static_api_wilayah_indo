@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sungaiempat (Sungai Empat)",
-    "Telukpinang (Teluk Pinang)",
-    "Tanjungharapan (Tanjung Harapan)",
-    "Kuala Gaung",
-    "Telukpantaian (Teluk Pantaian)",
-    "Teluksungka (Teluk Sungka)",
-    "Sungaiiliran (Sungai Iliran)",
-    "Teluktuasan (Teluk Tuasan)",
-    "Rambaian",
-    "Harapan Makmur",
-    "Kelumpang",
-    "Idaman"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sungaiempat (Sungai Empat)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Telukpinang (Teluk Pinang)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tanjungharapan (Tanjung Harapan)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Gaung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telukpantaian (Teluk Pantaian)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluksungka (Teluk Sungka)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungaiiliran (Sungai Iliran)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluktuasan (Teluk Tuasan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rambaian"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Harapan Makmur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kelumpang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Idaman"
+    }
   ]
 }

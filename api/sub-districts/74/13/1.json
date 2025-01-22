@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wakoila",
-    "Waukuni",
-    "Kampobalano",
-    "Maperaha",
-    "Nihi",
-    "Marobea",
-    "Ondoke",
-    "Lakalamba",
-    "Lawada Jaya",
-    "Lombu Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wakoila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waukuni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampobalano"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maperaha"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nihi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marobea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ondoke"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lakalamba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lawada Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lombu Jaya"
+    }
   ]
 }

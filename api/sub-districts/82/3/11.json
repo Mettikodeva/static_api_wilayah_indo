@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Upa",
-    "Pitu",
-    "Wosi (Wosia)",
-    "WKO",
-    "Kalipitu",
-    "Kali Upa",
-    "Lina Ino",
-    "Mahia (Wosi/Wosia Tengah)",
-    "Tanjung Niara (Wosi/Wosia Selatan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Upa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pitu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wosi (Wosia)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "WKO"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalipitu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kali Upa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lina Ino"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mahia (Wosi/Wosia Tengah)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Niara (Wosi/Wosia Selatan)"
+    }
   ]
 }

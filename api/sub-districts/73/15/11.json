@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pacongang",
-    "Macinnae",
-    "Temmassarangnge",
-    "Mamminasae",
-    "Laleng Bata",
-    "Benteng Sawito (Benteng Sawitto)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pacongang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Macinnae"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Temmassarangnge"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mamminasae"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Laleng Bata"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Benteng Sawito (Benteng Sawitto)"
+    }
   ]
 }

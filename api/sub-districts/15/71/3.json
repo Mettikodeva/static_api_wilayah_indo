@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sijenjang (Sijinjang)",
-    "Kasang Jaya",
-    "Talang Banjar",
-    "Budiman",
-    "Sulanjana (Sulan Jana)",
-    "Kasang",
-    "Tanjung Sari",
-    "Rajawali",
-    "Tanjung Pinang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sijenjang (Sijinjang)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kasang Jaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Talang Banjar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Budiman"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sulanjana (Sulan Jana)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kasang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rajawali"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tanjung Pinang"
+    }
   ]
 }

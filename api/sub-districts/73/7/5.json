@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Biringere",
-    "Lamatti Rilau",
-    "Balangnipa",
-    "Lappa",
-    "Bongki",
-    "Alehanuae (Alewanuae)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Biringere"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lamatti Rilau"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Balangnipa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lappa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bongki"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Alehanuae (Alewanuae)"
+    }
   ]
 }

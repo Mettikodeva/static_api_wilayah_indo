@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kerumutan",
-    "Pangkalan Panduk",
-    "Pangkalan Tampoi/Tampui",
-    "Bukit Lembah Subur",
-    "Banjar Panjang",
-    "Beringin Makmur",
-    "Pematang Tinggi",
-    "Tanjung Air Hitam",
-    "Mak Teduh",
-    "Lipai Bulan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kerumutan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkalan Panduk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangkalan Tampoi/Tampui"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Lembah Subur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjar Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beringin Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pematang Tinggi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Air Hitam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mak Teduh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lipai Bulan"
+    }
   ]
 }

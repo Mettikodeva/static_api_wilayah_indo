@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Serpong",
-    "Serpong Utara",
-    "Pondok Aren",
-    "Ciputat",
-    "Ciputat Timur",
-    "Pamulang",
-    "Setu"
+    {
+      "district_id": 1,
+      "kecamatan": "Serpong"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Serpong Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pondok Aren"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ciputat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Ciputat Timur"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pamulang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Setu"
+    }
   ]
 }

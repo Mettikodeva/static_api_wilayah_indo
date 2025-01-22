@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tumani",
-    "Lowian",
-    "Kinaweruan",
-    "Liningaan",
-    "Bojonegoro",
-    "Tambelang",
-    "Kinamang",
-    "Temboan",
-    "Kinamang Satu (Kinamang I)",
-    "Lowian Satu",
-    "Tumani Utara",
-    "Tumani Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lowian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kinaweruan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Liningaan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojonegoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambelang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kinamang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Temboan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kinamang Satu (Kinamang I)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lowian Satu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumani Utara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tumani Selatan"
+    }
   ]
 }

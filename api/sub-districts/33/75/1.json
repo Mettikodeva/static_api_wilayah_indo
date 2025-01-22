@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Medono",
-    "Podosugih",
-    "Sapuro Kebulen",
-    "Bendan Kergon",
-    "Pasirkratonkramat",
-    "Tirto",
-    "Pringrejo"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Medono"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Podosugih"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sapuro Kebulen"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bendan Kergon"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasirkratonkramat"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tirto"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pringrejo"
+    }
   ]
 }

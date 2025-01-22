@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Seget",
-    "Malabam (Malaban)",
-    "Pulau Kasim",
-    "Kasimle",
-    "Wewenagu",
-    "Wasingsan",
-    "Klayas",
-    "Wayenkede",
-    "Mobi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seget"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malabam (Malaban)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Kasim"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kasimle"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wewenagu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wasingsan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Klayas"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wayenkede"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mobi"
+    }
   ]
 }

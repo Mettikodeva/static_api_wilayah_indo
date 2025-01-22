@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ulumerah (Ulu Merah)",
-    "Pardomuan",
-    "Silima Kuta",
-    "Lae Langge Namuseng",
-    "Cikaok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ulumerah (Ulu Merah)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Silima Kuta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lae Langge Namuseng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikaok"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Parungponteng",
-    "Cigunung",
-    "Cibanteng",
-    "Barumekar",
-    "Cibungur",
-    "Burujuljaya",
-    "Girikencana",
-    "Karyabakti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parungponteng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cigunung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibanteng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Barumekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibungur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Burujuljaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Girikencana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karyabakti"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Anreapi",
-    "Duampanua",
-    "Kelapa Dua",
-    "Papandangan (Pappandangan)",
-    "Kunyi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Anreapi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Duampanua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kelapa Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Papandangan (Pappandangan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kunyi"
+    }
   ]
 }

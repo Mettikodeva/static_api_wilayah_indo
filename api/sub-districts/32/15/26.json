@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Karawang Wetan",
-    "Adiarsa Timur",
-    "Palumbonsari",
-    "Plawad (Palawad)",
-    "Margasari",
-    "Warungbambu",
-    "Kondangjaya",
-    "Tegal Sawah (Tegalsawah)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karawang Wetan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Adiarsa Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Palumbonsari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Plawad (Palawad)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Warungbambu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kondangjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegal Sawah (Tegalsawah)"
+    }
   ]
 }

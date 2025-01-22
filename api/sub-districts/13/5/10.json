@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tapakih",
-    "Ulakan",
-    "Padang Toboh Ulakan",
-    "Sungai Gimba Ulakan",
-    "Seulayat Ulakan",
-    "Manggopoh Palak Gadang Ulakan",
-    "Sandi Ulakan",
-    "Kampuang Gelapuang Ulakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tapakih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ulakan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Toboh Ulakan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Gimba Ulakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seulayat Ulakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manggopoh Palak Gadang Ulakan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sandi Ulakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampuang Gelapuang Ulakan"
+    }
   ]
 }

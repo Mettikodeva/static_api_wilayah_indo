@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Hoat",
-    "Ngafan",
-    "Feer",
-    "Rerean",
-    "Ngurko",
-    "Hoko",
-    "Weduar Fer (Weduar Feer)",
-    "Uat",
-    "Ngan",
-    "Watkidat",
-    "Ohoilean",
-    "Wafol",
-    "Rahangiar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hoat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngafan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Feer"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rerean"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngurko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hoko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Weduar Fer (Weduar Feer)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Uat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Watkidat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ohoilean"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wafol"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rahangiar"
+    }
   ]
 }

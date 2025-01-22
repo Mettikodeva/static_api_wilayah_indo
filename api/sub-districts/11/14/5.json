@@ -1,38 +1,140 @@
 {
   "sub_districts": [
-    "Pante Cermin",
-    "Sabet",
-    "Sango",
-    "Mareu",
-    "Lam Asan (Lamasan)",
-    "Alue Rayeuk",
-    "Sapek",
-    "Lambaroh",
-    "Meudheun",
-    "Babah Ie",
-    "Ujong Sedheun (Ujong Sudeun)",
-    "Krueng Tunong",
-    "Jambo Masi",
-    "Lam Tui (Lamtui)",
-    "Pasar Lamno",
-    "Meunasah Weh",
-    "Bak Paoh",
-    "Babah Krueng",
-    "Cot Dulang",
-    "Lam Durian",
-    "Putue",
-    "Gle Putoh",
-    "Pante Keutapang",
-    "Lam Me (Lamme)",
-    "Meunasah Serba",
-    "Leupe",
-    "Meutara",
-    "Lhuet",
-    "Gle Jong",
-    "Darat",
-    "Gampong Baro",
-    "Panton Makmur",
-    "Rumpet",
-    "Nusa"
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pante Cermin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sabet"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sango"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mareu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lam Asan (Lamasan)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Alue Rayeuk"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sapek"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lambaroh"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Meudheun"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Babah Ie"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ujong Sedheun (Ujong Sudeun)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Krueng Tunong"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Jambo Masi"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lam Tui (Lamtui)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pasar Lamno"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Meunasah Weh"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Bak Paoh"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Babah Krueng"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Cot Dulang"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Lam Durian"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Putue"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Gle Putoh"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Pante Keutapang"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Lam Me (Lamme)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Meunasah Serba"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Leupe"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Meutara"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Lhuet"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Gle Jong"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Darat"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Gampong Baro"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Panton Makmur"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Rumpet"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Nusa"
+    }
   ]
 }

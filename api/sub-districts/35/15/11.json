@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Kemasan",
-    "Tambakkemerakan (Tambak Kemerakan)",
-    "Krian",
-    "Tropodo",
-    "Sedenganmijen (Sedengan Mijen)",
-    "Katerungan (Katrungan)",
-    "Jerukgamping (Jeruk Gamping)",
-    "Gamping",
-    "Terik",
-    "Junwangi",
-    "Terungkulon (Terung Kulon)",
-    "Terungwetan (Terung Wetan)",
-    "Jatikalang",
-    "Keboharan",
-    "Ponokawan",
-    "Sidomojo",
-    "Kraton",
-    "Sidomulyo",
-    "Tempel",
-    "Watugolong",
-    "Barengkrajan",
-    "Sidorejo"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kemasan"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Tambakkemerakan (Tambak Kemerakan)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Krian"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tropodo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sedenganmijen (Sedengan Mijen)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Katerungan (Katrungan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jerukgamping (Jeruk Gamping)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gamping"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Terik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Junwangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terungkulon (Terung Kulon)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Terungwetan (Terung Wetan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatikalang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keboharan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ponokawan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sidomojo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kraton"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tempel"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Watugolong"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Barengkrajan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sidorejo"
+    }
   ]
 }

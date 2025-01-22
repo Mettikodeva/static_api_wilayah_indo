@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sagu",
-    "Sungai Palah",
-    "Galing",
-    "Tempapan Kuala",
-    "Tempapan Hulu",
-    "Ratu Sepudak",
-    "Tri Kembang",
-    "Tri Gadu (Tri Gaduh)",
-    "Teluk Pandan",
-    "Sijang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sagu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Palah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Galing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tempapan Kuala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tempapan Hulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ratu Sepudak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tri Kembang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tri Gadu (Tri Gaduh)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teluk Pandan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sijang"
+    }
   ]
 }

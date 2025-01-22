@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Cinnong",
-    "Lilina Ajangale",
-    "Cani Sirenreng",
-    "Ulaweng Cinnong",
-    "Pallawa Rukka",
-    "Jompie",
-    "Sappewalie (Sappe Walie)",
-    "Lamakkaraseng",
-    "Mula Menree",
-    "Tea Musu (Teamusu)",
-    "Tea Malala",
-    "Galung",
-    "Tadang Palie",
-    "Timusu",
-    "Manurunge"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cinnong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lilina Ajangale"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cani Sirenreng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ulaweng Cinnong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pallawa Rukka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jompie"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sappewalie (Sappe Walie)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamakkaraseng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mula Menree"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tea Musu (Teamusu)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tea Malala"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Galung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tadang Palie"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Timusu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Manurunge"
+    }
   ]
 }

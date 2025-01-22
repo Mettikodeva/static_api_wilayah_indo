@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanjung Ratu Ilir",
-    "Candi Rejo",
-    "Banjar Ratu",
-    "Banjar Kertahayu",
-    "Lempuyang Bandar",
-    "Purnama Tunggal",
-    "Banjar Rejo",
-    "Putra Lempuyang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Ratu Ilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Candi Rejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjar Ratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banjar Kertahayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lempuyang Bandar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purnama Tunggal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjar Rejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Putra Lempuyang"
+    }
   ]
 }

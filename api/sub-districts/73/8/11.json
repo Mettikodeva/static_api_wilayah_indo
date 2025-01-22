@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mappe Sangka (Mappesangka)",
-    "Salebba",
-    "Matampae (Mattampae)",
-    "Pattimpa",
-    "Telu Boccoe (Tellu Boccoe)",
-    "Turu Adae",
-    "Salampe",
-    "Poleonro",
-    "Bolli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mappe Sangka (Mappesangka)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salebba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matampae (Mattampae)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pattimpa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Telu Boccoe (Tellu Boccoe)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Turu Adae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salampe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Poleonro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bolli"
+    }
   ]
 }

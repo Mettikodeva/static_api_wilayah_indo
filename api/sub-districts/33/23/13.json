@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kranggan",
-    "Badran",
-    "Bengkal",
-    "Pare",
-    "Nguwet",
-    "Ngropoh",
-    "Pendowo",
-    "Sanggrahan",
-    "Klepu",
-    "Kemloko",
-    "Gentan",
-    "Kramat",
-    "Purwosari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kranggan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Badran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bengkal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pare"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nguwet"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngropoh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pendowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sanggrahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klepu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kemloko"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gentan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Purwosari"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kebonagung",
-    "Pekuwon",
-    "Rengel",
-    "Maibit",
-    "Bulurejo",
-    "Karangtinoto",
-    "Sawahan",
-    "Kanorejo",
-    "Tambakrejo",
-    "Ngadirejo",
-    "Sumberejo",
-    "Punggulrejo",
-    "Campurejo",
-    "Banjaragung",
-    "Banjararum",
-    "Prambonwetan (Prambon Wetan)"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pekuwon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rengel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maibit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulurejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangtinoto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kanorejo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tambakrejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Punggulrejo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Campurejo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Banjaragung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Banjararum"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Prambonwetan (Prambon Wetan)"
+    }
   ]
 }

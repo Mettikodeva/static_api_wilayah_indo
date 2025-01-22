@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Aliyan",
-    "Mangir",
-    "Gladag",
-    "Bubuk",
-    "Lemahbangdewo (Lemahbang Dewo)",
-    "Gitik",
-    "Karangbendo (Karang Bendo)",
-    "Rogojampi",
-    "Pengatigan (Pengantigan)",
-    "Kedaleman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aliyan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gladag"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bubuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lemahbangdewo (Lemahbang Dewo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gitik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangbendo (Karang Bendo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rogojampi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pengatigan (Pengantigan)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kedaleman"
+    }
   ]
 }

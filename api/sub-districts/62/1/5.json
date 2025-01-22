@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pangkalan Tiga",
-    "Pandu Sanjaya",
-    "Lada Mandala Jaya",
-    "Makarti Jaya",
-    "Sumber Agung",
-    "Purbasari",
-    "Sei/Sungai Rangit Jaya",
-    "Pangkalan Dewa",
-    "Kadipi Atas",
-    "Sei/Sungai Melawen",
-    "Pangkalan Durin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangkalan Tiga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pandu Sanjaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lada Mandala Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Makarti Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purbasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Rangit Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangkalan Dewa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kadipi Atas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei/Sungai Melawen"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pangkalan Durin"
+    }
   ]
 }

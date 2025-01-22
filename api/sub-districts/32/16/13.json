@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kertasari",
-    "Karangharja (Karang Harja)",
-    "Karangsegar",
-    "Sumberurip",
-    "Sumbereja (Sumberreja)",
-    "Karangreja",
-    "Karangjaya",
-    "Sumbersari",
-    "Karangpatri",
-    "Karanghaur",
-    "Kertajaya",
-    "Bantarsari",
-    "Bantarjaya"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kertasari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangharja (Karang Harja)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangsegar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberurip"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumbereja (Sumberreja)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangreja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangpatri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karanghaur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bantarsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bantarjaya"
+    }
   ]
 }

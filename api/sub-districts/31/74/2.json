@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Setia Budi (Setiabudi)",
-    "Karet Semanggi",
-    "Karet Kuningan",
-    "Karet",
-    "Menteng Atas",
-    "Pasar Manggis",
-    "Guntur",
-    "Kuningan Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Setia Budi (Setiabudi)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karet Semanggi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karet Kuningan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karet"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Menteng Atas"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pasar Manggis"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Guntur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kuningan Timur"
+    }
   ]
 }

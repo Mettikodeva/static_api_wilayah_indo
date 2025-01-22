@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pasirjambu",
-    "Cibodas",
-    "Cikoneng",
-    "Cukanggenteng",
-    "Cisondari",
-    "Margamulya",
-    "Mekarsari",
-    "Mekarmaju",
-    "Sugihmukti",
-    "Tenjolaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasirjambu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikoneng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cukanggenteng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cisondari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margamulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarmaju"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sugihmukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tenjolaya"
+    }
   ]
 }

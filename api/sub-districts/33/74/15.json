@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gondoriyo",
-    "Podorejo",
-    "Beringin (Bringin)",
-    "Purwoyoso",
-    "Kalipancur",
-    "Bambankerep",
-    "Ngaliyan",
-    "Tambakaji",
-    "Wonosari",
-    "Wates"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gondoriyo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Podorejo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Beringin (Bringin)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Purwoyoso"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kalipancur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bambankerep"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ngaliyan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tambakaji"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Wates"
+    }
   ]
 }

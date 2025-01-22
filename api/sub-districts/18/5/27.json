@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sidomukti (Sido Mukti)",
-    "Mesir Dwi Jaya",
-    "Makartitama (Makarti Tama)",
-    "Suka Bhakti",
-    "Batu Ampar",
-    "Setia Tama",
-    "Sumber Jaya",
-    "Mekar Asri",
-    "Sidomekar (Sido Mekar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidomukti (Sido Mukti)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mesir Dwi Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Makartitama (Makarti Tama)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Bhakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Setia Tama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Asri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomekar (Sido Mekar)"
+    }
   ]
 }

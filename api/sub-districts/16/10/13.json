@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lubuk Rukam",
-    "Tanjung Alai",
-    "Kandis I",
-    "Kumbang Ulu",
-    "Kumbang Ilir",
-    "Miji",
-    "Santapan Barat",
-    "Pandan Arang",
-    "Muara Kumbang",
-    "Kandis II",
-    "Santapan Timur",
-    "Lubuk Segonang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuk Rukam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Alai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kandis I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kumbang Ulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumbang Ilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Miji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Santapan Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pandan Arang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Kumbang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kandis II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Santapan Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lubuk Segonang"
+    }
   ]
 }

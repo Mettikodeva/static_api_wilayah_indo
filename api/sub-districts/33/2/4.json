@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Losari",
-    "Menganti",
-    "Banjarparakan",
-    "Rawalo",
-    "Tambaknegara",
-    "Sidamulih",
-    "Pesawahan",
-    "Tipar",
-    "Sanggreman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Losari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Menganti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjarparakan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambaknegara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidamulih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pesawahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tipar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sanggreman"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Semandang Kanan",
-    "Gema",
-    "Mekar Raya",
-    "Kampar Sebomban",
-    "Batu Daya",
-    "Kamora"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Semandang Kanan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gema"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekar Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampar Sebomban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Daya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kamora"
+    }
   ]
 }

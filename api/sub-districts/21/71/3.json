@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sungai Harapan",
-    "Tanjung Pinggir",
-    "Tanjung Riau",
-    "Tiban Indah",
-    "Tiban Baru",
-    "Tiban Lama",
-    "Patam Lestari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Harapan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Pinggir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Riau"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tiban Indah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tiban Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tiban Lama"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Patam Lestari"
+    }
   ]
 }

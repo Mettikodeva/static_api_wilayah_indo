@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "35 Ilir",
-    "32 Ilir",
-    "30 Ilir",
-    "29 Ilir",
-    "28 Ilir",
-    "27 Ilir",
-    "Kemang Manis"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "35 Ilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "32 Ilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "30 Ilir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "29 Ilir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "28 Ilir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "27 Ilir"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kemang Manis"
+    }
   ]
 }

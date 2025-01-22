@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Talang Jauh",
-    "Cempaka Putih",
-    "Kebun Handil",
-    "Lebak Bandung",
-    "Payo Lebar",
-    "Jelutung",
-    "Handil Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Talang Jauh"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cempaka Putih"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kebun Handil"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lebak Bandung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Payo Lebar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jelutung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Handil Jaya"
+    }
   ]
 }

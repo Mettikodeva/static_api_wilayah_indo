@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kalirungkut (Kali Rungkut)",
-    "Rungkut Kidul",
-    "Kedung Baruk",
-    "Penjaringansari (Penjaringan Sari)",
-    "Wonorejo",
-    "Medokan Ayu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kalirungkut (Kali Rungkut)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rungkut Kidul"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedung Baruk"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Penjaringansari (Penjaringan Sari)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Medokan Ayu"
+    }
   ]
 }

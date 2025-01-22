@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sungai Lilin",
-    "Sungai Lilin Jaya",
-    "Sri Gunung (Srigunung)",
-    "Sumber Rejeki",
-    "Linggo Sari",
-    "Mulyo Rejo (Mulyorejo / Mulya Asih)",
-    "Suka Damai Baru (Sukadamai Baru)",
-    "Cinta Damai",
-    "Berlian Makmur",
-    "Bumi Kencana",
-    "Mekar Jadi",
-    "Nusa Serasan",
-    "Pinang Banjar",
-    "Panca Tunggal",
-    "Bukit Jaya"
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Sungai Lilin"
+    },
+    {
+      "sub_district_id": 1030,
+      "desa_kelurahan": "Sungai Lilin Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sri Gunung (Srigunung)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumber Rejeki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Linggo Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulyo Rejo (Mulyorejo / Mulya Asih)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Damai Baru (Sukadamai Baru)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cinta Damai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Berlian Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bumi Kencana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mekar Jadi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nusa Serasan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pinang Banjar"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Panca Tunggal"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bukit Jaya"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kalumpang",
-    "Karataun",
-    "Karama",
-    "Siraun",
-    "Tumoga (Tumonga)",
-    "Salumakki",
-    "Polio (Ba'san)",
-    "Limbong",
-    "Sandapang",
-    "Kondo Bulo",
-    "Makkaliki",
-    "Batu Makkada",
-    "Lasa' (Lasa)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalumpang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karataun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siraun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumoga (Tumonga)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Salumakki"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Polio (Ba'san)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Limbong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sandapang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kondo Bulo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Makkaliki"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Batu Makkada"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lasa' (Lasa)"
+    }
   ]
 }

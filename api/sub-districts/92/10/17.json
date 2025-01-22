@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Faitsimar",
-    "Asses",
-    "Fait Nigre (Fait Nggre)",
-    "Sufu",
-    "Arus",
-    "Kofait",
-    "Isnum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Faitsimar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asses"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fait Nigre (Fait Nggre)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sufu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kofait"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Isnum"
+    }
   ]
 }

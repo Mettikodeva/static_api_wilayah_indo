@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Labessi",
-    "Tettikenrarae (Tettikengrarae)",
-    "Gattareng",
-    "Watu",
-    "Goarie",
-    "Barae",
-    "Marioriaja (Mario Riaja)",
-    "Marioritengnga (Mario Rittengnga)",
-    "Mariorilau (Mario Rilau)",
-    "Watu Toa (Watutoa)",
-    "Congko",
-    "Gattareng Toa",
-    "Soga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Labessi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tettikenrarae (Tettikengrarae)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gattareng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Goarie"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Barae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marioriaja (Mario Riaja)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Marioritengnga (Mario Rittengnga)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mariorilau (Mario Rilau)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Watu Toa (Watutoa)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Congko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gattareng Toa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Soga"
+    }
   ]
 }

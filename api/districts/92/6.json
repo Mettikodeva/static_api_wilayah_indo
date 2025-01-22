@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Bintuni",
-    "Merdey",
-    "Babo",
-    "Aranday",
-    "Moskona Selatan",
-    "Moskona Utara",
-    "Wamesa (Idoor)",
-    "Fafurwar (Irorutu)",
-    "Tembuni",
-    "Kuri",
-    "Manimeri",
-    "Tuhiba",
-    "Dataran Beimes",
-    "Sumuri (Simuri)",
-    "Kaitaro",
-    "Aroba",
-    "Masyeta",
-    "Biscoop",
-    "Tomu",
-    "Kamundan",
-    "Weriagar",
-    "Moskona Barat",
-    "Meyado (Mayado)",
-    "Moskona Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Bintuni"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Merdey"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Babo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Aranday"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Moskona Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Moskona Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wamesa (Idoor)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Fafurwar (Irorutu)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tembuni"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kuri"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Manimeri"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tuhiba"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Dataran Beimes"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sumuri (Simuri)"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kaitaro"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Aroba"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Masyeta"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Biscoop"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tomu"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kamundan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Weriagar"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Moskona Barat"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Meyado (Mayado)"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Moskona Timur"
+    }
   ]
 }

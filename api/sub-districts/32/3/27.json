@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bangbayang",
-    "Songgom",
-    "Sukaratu",
-    "Cikancana",
-    "Kebonpeuteuy",
-    "Gekbrong",
-    "Cikahuripan",
-    "Cintaasih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangbayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Songgom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukaratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikancana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebonpeuteuy"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gekbrong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikahuripan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cintaasih"
+    }
   ]
 }

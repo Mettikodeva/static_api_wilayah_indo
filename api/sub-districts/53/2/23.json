@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lotas",
-    "Sabnala (Sapnala)",
-    "Koloto",
-    "Niti",
-    "Obaki",
-    "Benahe (Benehe)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lotas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sabnala (Sapnala)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koloto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Niti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Obaki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benahe (Benehe)"
+    }
   ]
 }

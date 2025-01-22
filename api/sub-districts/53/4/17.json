@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lasiolat",
-    "Maneikun",
-    "Lakan Mau (Lakanmau)",
-    "Dualasi Rai Ulun (Raiulun)",
-    "Dualasi",
-    "Fatulotu",
-    "Baudaok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lasiolat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maneikun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lakan Mau (Lakanmau)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dualasi Rai Ulun (Raiulun)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dualasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fatulotu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baudaok"
+    }
   ]
 }

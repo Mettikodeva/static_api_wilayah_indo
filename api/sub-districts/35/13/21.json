@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sumberbendo",
-    "Jangur",
-    "Muneng",
-    "Munengkidul (Muneng Kidul)",
-    "Pohsangitleres (Pohsangit Leres)",
-    "Laweyan",
-    "Sumurmati",
-    "Mentor",
-    "Ambulu",
-    "Banjarsari",
-    "Lemahkembar",
-    "Pesisir",
-    "Giliketapang (Gili Ketapang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberbendo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jangur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muneng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Munengkidul (Muneng Kidul)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pohsangitleres (Pohsangit Leres)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laweyan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumurmati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mentor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ambulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lemahkembar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pesisir"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Giliketapang (Gili Ketapang)"
+    }
   ]
 }

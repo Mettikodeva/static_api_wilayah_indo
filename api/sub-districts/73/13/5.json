@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Paria",
-    "Limpomajang (Limpo Majang)",
-    "Macanang",
-    "Uraiyang (Uraiang)",
-    "Tosora",
-    "Cinong Tabi (Cinnong Tabi)",
-    "Rumpia",
-    "Laerung",
-    "Lamiku",
-    "Bottobenteng (Botto Benteng)",
-    "Bottotanre (Botto Tanre)",
-    "Tua",
-    "Tajo",
-    "Tengnga",
-    "Liu",
-    "Tellulimpoe (Tellu Limpoe)",
-    "Bottopenno (Botto Penno)",
-    "Watanrumpia (Watan Rumpia)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Paria"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Limpomajang (Limpo Majang)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Macanang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Uraiyang (Uraiang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tosora"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cinong Tabi (Cinnong Tabi)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rumpia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Laerung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamiku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bottobenteng (Botto Benteng)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bottotanre (Botto Tanre)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tajo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tengnga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Liu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tellulimpoe (Tellu Limpoe)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bottopenno (Botto Penno)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Watanrumpia (Watan Rumpia)"
+    }
   ]
 }

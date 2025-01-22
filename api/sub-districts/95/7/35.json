@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kelulome",
-    "Wiyagi",
-    "Talogi",
-    "Wiringgame",
-    "Wegenpura",
-    "Ilunggijime",
-    "Juyiga",
-    "Peragime",
-    "Muluneri",
-    "Lewinagi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kelulome"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wiyagi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talogi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wiringgame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wegenpura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ilunggijime"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Juyiga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Peragime"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muluneri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lewinagi"
+    }
   ]
 }

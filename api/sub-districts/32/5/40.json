@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Cipareuan",
-    "Cibiuk Kaler",
-    "Cibiuk Kidul",
-    "Majasari",
-    "Lingkungpasir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipareuan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibiuk Kaler"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibiuk Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Majasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lingkungpasir"
+    }
   ]
 }

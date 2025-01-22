@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sri Binangun",
-    "Sri Bawono",
-    "Sri Budaya",
-    "Suko Binangun",
-    "Sri Busono",
-    "Sangga Buana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sri Binangun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sri Bawono"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sri Budaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suko Binangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sri Busono"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sangga Buana"
+    }
   ]
 }

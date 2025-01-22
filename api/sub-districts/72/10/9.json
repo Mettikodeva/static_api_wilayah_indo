@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bangga",
-    "Walatana",
-    "Bulubete",
-    "Baluase",
-    "Rogo",
-    "Pulu",
-    "Balongga",
-    "Sambo",
-    "Wisolo",
-    "Jono",
-    "Poi",
-    "Ramba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Walatana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bulubete"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baluase"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rogo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balongga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sambo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wisolo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jono"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Poi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ramba"
+    }
   ]
 }

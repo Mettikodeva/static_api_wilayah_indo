@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ambalutu",
-    "Buntu Pane",
-    "Lestari",
-    "Prapat Janji",
-    "Sei Silau Timur",
-    "Sionggang",
-    "Mekar Sari",
-    "Perkebunan Sei Silau",
-    "Karya Ambalutu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ambalutu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buntu Pane"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lestari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Prapat Janji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei Silau Timur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sionggang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Perkebunan Sei Silau"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Karya Ambalutu"
+    }
   ]
 }

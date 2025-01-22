@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pebihingan",
-    "Lalang Panjang",
-    "Semayok Baru",
-    "Muara Gerunggang",
-    "Usaha Baru",
-    "Kerta Baru",
-    "Muara Semayok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pebihingan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lalang Panjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semayok Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Gerunggang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Usaha Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kerta Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Semayok"
+    }
   ]
 }

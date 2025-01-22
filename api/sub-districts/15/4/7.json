@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bajubang",
-    "Bungku",
-    "Pompa Air",
-    "Ladang Peris",
-    "Penerokan",
-    "Petajen",
-    "Batin",
-    "Mekar Jaya",
-    "Sungkai",
-    "Mekar Sari Nes"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bajubang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bungku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pompa Air"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ladang Peris"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penerokan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Petajen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungkai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Sari Nes"
+    }
   ]
 }

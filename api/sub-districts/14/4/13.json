@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tembilahan Hulu",
-    "Tembilahan Barat",
-    "Pekan Kamis",
-    "Pulaupalas (Pulau Palas)",
-    "Sialang Panjang",
-    "Sungaiintan (Sungai Intan)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tembilahan Hulu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tembilahan Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pekan Kamis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulaupalas (Pulau Palas)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sialang Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungaiintan (Sungai Intan)"
+    }
   ]
 }

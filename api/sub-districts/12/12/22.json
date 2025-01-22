@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lintong Nihuta",
-    "Tarabunga (Tara Bunga)",
-    "Meat",
-    "Gukguk/Gurgur Aek Raja",
-    "Tangga Batu Barat",
-    "Tangga Batu Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lintong Nihuta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tarabunga (Tara Bunga)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gukguk/Gurgur Aek Raja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tangga Batu Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tangga Batu Timur"
+    }
   ]
 }

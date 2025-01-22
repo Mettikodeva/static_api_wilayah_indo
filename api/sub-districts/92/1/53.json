@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Waliam",
-    "Manfanim",
-    "Waibin",
-    "Waiman",
-    "Sakapul",
-    "Maralol",
-    "Batbiro",
-    "Duriankari (Durian Kari)",
-    "Meyaup",
-    "Sailen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waliam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manfanim"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waibin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waiman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sakapul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maralol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batbiro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Duriankari (Durian Kari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meyaup"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sailen"
+    }
   ]
 }

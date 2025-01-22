@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mompang Jae",
-    "Beringin Jaya",
-    "Huta damai (Huta Dame)",
-    "Jambur Padang Matinggi",
-    "Kampung Baru",
-    "Mompang Julu",
-    "Rumbio",
-    "Suka Ramai",
-    "Sopo Sorik",
-    "Simanondong",
-    "Torbanua Raja",
-    "Tanjung Mompang"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Mompang Jae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Huta damai (Huta Dame)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambur Padang Matinggi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mompang Julu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rumbio"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suka Ramai"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sopo Sorik"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Simanondong"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Torbanua Raja"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjung Mompang"
+    }
   ]
 }

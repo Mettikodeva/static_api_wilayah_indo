@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Jokbujoker",
-    "Kranfotsu",
-    "Syuau",
-    "Kwesefo",
-    "Batdey",
-    "Syumbi",
-    "Bao",
-    "Donan",
-    "Dombron"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jokbujoker"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kranfotsu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Syuau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kwesefo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batdey"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Syumbi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bao"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Donan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dombron"
+    }
   ]
 }

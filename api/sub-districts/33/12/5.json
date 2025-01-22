@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tirtomoyo",
-    "Ngarjosari",
-    "Hargosari",
-    "Dlepih",
-    "Wiroko",
-    "Sukoharjo",
-    "Hargorejo",
-    "Sidorejo",
-    "Genengharjo",
-    "Girirejo",
-    "Hargantoro",
-    "Banyakprodo",
-    "Sendangmulyo",
-    "Tanjungsari"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tirtomoyo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Ngarjosari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hargosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dlepih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wiroko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukoharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hargorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Genengharjo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Girirejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hargantoro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banyakprodo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sendangmulyo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjungsari"
+    }
   ]
 }

@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Tawangsari",
-    "Mlipak",
-    "Jaraksari",
-    "Kramatan",
-    "Bumiroso (Bumireso)",
-    "Rojoimo",
-    "Pagerkukuh",
-    "Sambek",
-    "Kejiwan",
-    "Kalianget",
-    "Jlamprang",
-    "Wonosobo Barat",
-    "Wonosobo Timur",
-    "Wonolelo",
-    "Jogoyitnan",
-    "Pancurwening",
-    "Wonosari",
-    "Bomerto",
-    "Sariyoso",
-    "Tlogojati"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mlipak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jaraksari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kramatan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bumiroso (Bumireso)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Rojoimo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pagerkukuh"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sambek"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kejiwan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kalianget"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Jlamprang"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Wonosobo Barat"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Wonosobo Timur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonolelo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jogoyitnan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pancurwening"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bomerto"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sariyoso"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tlogojati"
+    }
   ]
 }

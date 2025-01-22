@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Abena",
-    "Nogobumbu",
-    "Bilubaga",
-    "Gabunggobak",
-    "Wulurik",
-    "Wanggulam",
-    "Bitillabur",
-    "Windik",
-    "Yibalo",
-    "Wania",
-    "Arelam",
-    "Gelalo",
-    "Duma",
-    "Yinama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Abena"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nogobumbu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bilubaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gabunggobak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wulurik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wanggulam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bitillabur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Windik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yibalo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wania"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Arelam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gelalo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Duma"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yinama"
+    }
   ]
 }

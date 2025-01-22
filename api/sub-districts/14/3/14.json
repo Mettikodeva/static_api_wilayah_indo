@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Parit I Api Api (Paritsatuapi Api)",
-    "Temiang",
-    "Api Api",
-    "Tenggayun",
-    "Sepahat",
-    "Bukitkerikil (Bukit Kerikil)",
-    "Tanjungleban (Tanjung Leban)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parit I Api Api (Paritsatuapi Api)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Temiang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Api Api"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tenggayun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sepahat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukitkerikil (Bukit Kerikil)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungleban (Tanjung Leban)"
+    }
   ]
 }

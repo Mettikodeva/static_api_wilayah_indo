@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pangkalan Pisang",
-    "Kuala Gasib",
-    "Teluk Rimba",
-    "Buatan I",
-    "Buatan II",
-    "Sengkemang",
-    "Rantau Panjang",
-    "Empang Pandan",
-    "Keranji Guguh",
-    "Sri Gemilang",
-    "Tasik Seminai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangkalan Pisang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Gasib"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Rimba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buatan I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buatan II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sengkemang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Empang Pandan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keranji Guguh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sri Gemilang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tasik Seminai"
+    }
   ]
 }

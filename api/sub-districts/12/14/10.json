@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Hilisimaetano",
-    "Bawogosali",
-    "Hilifalawu",
-    "Samadaya Hilisimaetano",
-    "Idala Jaya Hilisimaetano (Idala Jaya)",
-    "Pekan Hilisimaetano",
-    "Bonia Hilisimaetano",
-    "Ndraso Hilisimaetano",
-    "Faomasi Hilisimaetano",
-    "Eho Hilisimaetano",
-    "Soto'o Hilisimaetano",
-    "Hiliaurifa Hilisimaetano",
-    "Bawohosi Maniamolo",
-    "Bawosaodano"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bawogosali"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hilifalawu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Samadaya Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Idala Jaya Hilisimaetano (Idala Jaya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pekan Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonia Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ndraso Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Faomasi Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Eho Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Soto'o Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hiliaurifa Hilisimaetano"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bawohosi Maniamolo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bawosaodano"
+    }
   ]
 }

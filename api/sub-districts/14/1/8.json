@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sungai Pagar",
-    "Mentulik",
-    "Sungai Simpang Dua",
-    "Sungai Bunga/Bungo",
-    "Rantau Kasih",
-    "Sungai Petai",
-    "Gading Permai",
-    "Bangun Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Pagar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mentulik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Simpang Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Bunga/Bungo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Kasih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Petai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gading Permai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangun Sari"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Walantakan",
-    "Taraitak",
-    "Karumenga",
-    "Toraget",
-    "Tempang (Tempang I)",
-    "Tempang II",
-    "Tempang III",
-    "Taraitak Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Walantakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taraitak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karumenga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Toraget"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tempang (Tempang I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tempang II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tempang III"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Taraitak Satu"
+    }
   ]
 }

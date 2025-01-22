@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Poto",
-    "Nuataus",
-    "Kalali",
-    "Tuakau",
-    "Naitae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Poto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nuataus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuakau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naitae"
+    }
   ]
 }

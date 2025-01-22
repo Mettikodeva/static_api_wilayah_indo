@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Pekan Bahorok",
-    "Lau Damak",
-    "Timbang Lawan",
-    "Sampe Raya",
-    "Tanjung Lenggang",
-    "Suka Rakyat (Sukarayat)",
-    "Perkebunan Turangi",
-    "Perkebunan Bungara",
-    "Perkebunan Bukit Lawang",
-    "Empus",
-    "Simpang Pulo Rambung (Simpang Pulau Rambung)",
-    "Perkebunan Sei Musam",
-    "Batu Jong - Jong",
-    "Sematar",
-    "Perkebunan Pulo Rambung (Pulau Rambung)",
-    "Sei Musam Kendit",
-    "Timbang Jaya",
-    "Musam Pembangunan",
-    "Ujung Bandar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pekan Bahorok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lau Damak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timbang Lawan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sampe Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Lenggang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Rakyat (Sukarayat)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Perkebunan Turangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perkebunan Bungara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perkebunan Bukit Lawang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Empus"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Simpang Pulo Rambung (Simpang Pulau Rambung)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Perkebunan Sei Musam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batu Jong - Jong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sematar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Perkebunan Pulo Rambung (Pulau Rambung)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sei Musam Kendit"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Timbang Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Musam Pembangunan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Ujung Bandar"
+    }
   ]
 }

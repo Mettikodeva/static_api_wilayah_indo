@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dairi",
-    "Spoiri",
-    "Sooh",
-    "Dirou",
-    "Diwah (Diwa)",
-    "Kuaisa",
-    "Aru Antu (Antu Aru)",
-    "Foira (Poira)",
-    "Kawari",
-    "Wafuka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dairi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Spoiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sooh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dirou"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Diwah (Diwa)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuaisa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aru Antu (Antu Aru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Foira (Poira)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kawari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wafuka"
+    }
   ]
 }

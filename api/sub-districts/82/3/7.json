@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kao",
-    "Jati",
-    "Kusu",
-    "Waringin Lelewi",
-    "Soa Sangaji Dim-Dim (Soasangaji Dim Dim)",
-    "Sasur",
-    "Popon",
-    "Biang",
-    "Patang",
-    "Kukumutuk",
-    "Waringin Lamo",
-    "Goruang",
-    "Kusu Lofra",
-    "Sumber Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kao"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kusu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waringin Lelewi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Soa Sangaji Dim-Dim (Soasangaji Dim Dim)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sasur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Popon"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Biang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Patang"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Kukumutuk"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Waringin Lamo"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Goruang"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Kusu Lofra"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Sumber Agung"
+    }
   ]
 }

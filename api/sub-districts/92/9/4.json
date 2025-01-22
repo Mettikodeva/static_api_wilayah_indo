@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kwoor",
-    "Hopmare",
-    "Orwen",
-    "Barar",
-    "Esmambo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kwoor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hopmare"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Orwen"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Barar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Esmambo"
+    }
   ]
 }

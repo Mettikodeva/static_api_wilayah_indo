@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pagar Dewa",
-    "Sukarami",
-    "Pekan Sabtu",
-    "Bumu Ayu (Bumi Ayu)",
-    "Betungan",
-    "Sumur Dewa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukarami"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pekan Sabtu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bumu Ayu (Bumi Ayu)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Betungan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sumur Dewa"
+    }
   ]
 }

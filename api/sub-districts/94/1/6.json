@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Unipa (Siriwo / Unipo)",
-    "Aibone (Aibore)",
-    "Epomani",
-    "Tibai",
-    "Mabua / Mabou",
-    "Ugida"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Unipa (Siriwo / Unipo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aibone (Aibore)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Epomani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tibai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mabua / Mabou"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ugida"
+    }
   ]
 }

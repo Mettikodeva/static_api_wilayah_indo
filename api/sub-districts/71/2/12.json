@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sendangan",
-    "Kinali",
-    "Sendangan Selatan",
-    "Sendangan Tengah",
-    "Uner Satu",
-    "Kinali Satu",
-    "Tondegesan",
-    "Kanonang Tiga",
-    "Tondegesan I",
-    "Tondegesan II"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sendangan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kinali"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Sendangan Selatan"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Sendangan Tengah"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Uner Satu"
+    },
+    {
+      "sub_district_id": 1029,
+      "desa_kelurahan": "Kinali Satu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tondegesan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kanonang Tiga"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Tondegesan I"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Tondegesan II"
+    }
   ]
 }

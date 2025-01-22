@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Panggreh",
-    "Trompoasri",
-    "Kedungrejo",
-    "Semambung",
-    "Kedungpandan",
-    "Kupang",
-    "Tambakkalisogo (Tambak Kalisogo)",
-    "Balongtani",
-    "Jemirahan",
-    "Dukuhsari",
-    "Kedungcangkring",
-    "Keboguyang",
-    "Permisan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panggreh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Trompoasri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Semambung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedungpandan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kupang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tambakkalisogo (Tambak Kalisogo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balongtani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jemirahan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dukuhsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedungcangkring"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Keboguyang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Permisan"
+    }
   ]
 }

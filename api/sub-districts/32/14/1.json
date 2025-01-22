@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Nagri Kidul (Nagrikidul)",
-    "Nagri Kaler (Nagrikaler)",
-    "Nagri Tengah (Nagritengah)",
-    "Sindangkasih",
-    "Cipaisan",
-    "Purwamekar",
-    "Ciseureuh",
-    "Tegalmuncul (Tegalmunjul)",
-    "Munjuljaya",
-    "Citalang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Nagri Kidul (Nagrikidul)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nagri Kaler (Nagrikaler)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nagri Tengah (Nagritengah)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sindangkasih"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cipaisan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Purwamekar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ciseureuh"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tegalmuncul (Tegalmunjul)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Munjuljaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Citalang"
+    }
   ]
 }

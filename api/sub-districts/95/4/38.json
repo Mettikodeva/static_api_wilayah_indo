@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wugi",
-    "Loma",
-    "Gitar",
-    "Gilime",
-    "Lena",
-    "Timoneri",
-    "Kuagembur",
-    "Wuronggi",
-    "Buangludah",
-    "Pindelo",
-    "Koli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wugi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Loma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gitar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gilime"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lena"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Timoneri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuagembur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wuronggi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buangludah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pindelo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Koli"
+    }
   ]
 }

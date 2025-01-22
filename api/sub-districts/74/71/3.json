@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Baruga",
-    "Lepo Lepo",
-    "Watubangga",
-    "Wundudopi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baruga"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lepo Lepo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Watubangga"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Wundudopi"
+    }
   ]
 }

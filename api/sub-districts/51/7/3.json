@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gegelang",
-    "Antiga",
-    "Ulakan",
-    "Manggis",
-    "Nyuh Tebel",
-    "Tenganan",
-    "Ngis",
-    "Selumbung",
-    "Padangbai",
-    "Antiga Kelod",
-    "Pasedahan (Pesedahan)",
-    "Sengkidu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gegelang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Antiga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulakan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manggis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nyuh Tebel"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tenganan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selumbung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padangbai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Antiga Kelod"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasedahan (Pesedahan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sengkidu"
+    }
   ]
 }

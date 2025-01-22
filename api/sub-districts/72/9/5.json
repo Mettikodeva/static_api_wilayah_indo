@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Malotong",
-    "Bailo",
-    "Ampana",
-    "Bone Rato",
-    "Bailo Baru",
-    "Labiabae",
-    "Sansarino",
-    "Padang Tumbuo",
-    "Saluaba",
-    "Buntongi"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Malotong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bailo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ampana"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bone Rato"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bailo Baru"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Labiabae"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sansarino"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Tumbuo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Saluaba"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Buntongi"
+    }
   ]
 }

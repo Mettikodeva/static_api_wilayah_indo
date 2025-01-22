@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Wesey",
-    "Haitimuk",
-    "Laleten",
-    "Kleseleon",
-    "Angkaes",
-    "Wederok",
-    "Lamudur",
-    "Forekmodok",
-    "Umalawain",
-    "Lakulo",
-    "Leunklot",
-    "Haliklaran",
-    "Bonetasea",
-    "Taaba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wesey"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Haitimuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laleten"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kleseleon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Angkaes"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wederok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lamudur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Forekmodok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Umalawain"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lakulo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Leunklot"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Haliklaran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bonetasea"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Taaba"
+    }
   ]
 }

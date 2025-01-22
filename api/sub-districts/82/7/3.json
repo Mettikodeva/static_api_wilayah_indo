@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pangeo",
-    "Sopi",
-    "Bere Bere Kecil",
-    "Titigogoli",
-    "Hapo",
-    "Libano",
-    "Aru",
-    "Towara",
-    "Cendana",
-    "Podimor Padange",
-    "Sopi Majiko",
-    "Gorugo",
-    "Loleo",
-    "Cempaka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangeo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sopi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bere Bere Kecil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Titigogoli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hapo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Libano"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Towara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cendana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Podimor Padange"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sopi Majiko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gorugo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Loleo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cempaka"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Olo-Oloho (Olo-Olaha)",
-    "Kosali",
-    "Mikuasi",
-    "Kasumeeto",
-    "Lalombundi",
-    "Toaha",
-    "Kondara",
-    "Sipakainge",
-    "Seuwwa",
-    "Alipato",
-    "Lalume"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Olo-Oloho (Olo-Olaha)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kosali"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mikuasi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kasumeeto"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lalombundi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Toaha"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kondara"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sipakainge"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Seuwwa"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Alipato"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lalume"
+    }
   ]
 }

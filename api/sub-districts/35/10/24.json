@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Gumuk",
-    "Jelun",
-    "Licin",
-    "Banjar",
-    "Segobang",
-    "Pakel",
-    "Kluncing",
-    "Tamansari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gumuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jelun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Licin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Segobang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pakel"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kluncing"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamansari"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Hilifalago",
-    "Hilimondregeraya",
-    "Hilinamozaua",
-    "Hilifarono",
-    "Hilionaha",
-    "Hilikara",
-    "Hilialito Saua",
-    "Hilinamozaua Raya",
-    "Hilifalago Raya",
-    "Hilisanekhehosi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hilifalago"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilimondregeraya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hilinamozaua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hilifarono"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hilionaha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hilikara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilialito Saua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hilinamozaua Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hilifalago Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hilisanekhehosi"
+    }
   ]
 }

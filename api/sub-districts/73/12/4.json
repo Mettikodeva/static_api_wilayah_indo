@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lalabata Rilau",
-    "Ompo",
-    "Botto",
-    "Lemba",
-    "Bila",
-    "Lapajung",
-    "Salokaraja (Salo Karaja)",
-    "Maccile",
-    "Umpungenga (Umpungeng)",
-    "Mattabulu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lalabata Rilau"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ompo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Botto"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lemba"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bila"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lapajung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Salokaraja (Salo Karaja)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maccile"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Umpungenga (Umpungeng)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mattabulu"
+    }
   ]
 }

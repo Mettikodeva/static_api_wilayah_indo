@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jerakah",
-    "Tugurejo",
-    "Karanganyar",
-    "Randugarut (Randu Garut)",
-    "Mangkang Wetan",
-    "Mangkang Kulon",
-    "Mangunharjo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jerakah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tugurejo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Randugarut (Randu Garut)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mangkang Wetan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mangkang Kulon"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mangunharjo"
+    }
   ]
 }

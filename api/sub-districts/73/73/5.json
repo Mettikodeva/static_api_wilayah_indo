@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Surutanga (Sarutanga)",
-    "Benteng",
-    "Pontap",
-    "Malatuntung (Malatunrung)",
-    "Salekoe",
-    "Salotellue",
-    "Ponjalae"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Surutanga (Sarutanga)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pontap"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Malatuntung (Malatunrung)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Salekoe"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Salotellue"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ponjalae"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kediri",
-    "Montong Are",
-    "Jagaraga Indah",
-    "Gelogor",
-    "Rumak",
-    "Banyumulek",
-    "Ombe Baru",
-    "Dasan Baru",
-    "Kediri Selatan",
-    "Lelede"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kediri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Montong Are"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jagaraga Indah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gelogor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rumak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banyumulek"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ombe Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dasan Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kediri Selatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lelede"
+    }
   ]
 }

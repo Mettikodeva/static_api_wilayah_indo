@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pengarengan",
-    "Kalikarung",
-    "Dempel",
-    "Karangsambung",
-    "Tempurejo",
-    "Mergolangu",
-    "Depok",
-    "Kalialang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pengarengan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalikarung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dempel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangsambung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tempurejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mergolangu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalialang"
+    }
   ]
 }

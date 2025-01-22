@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Muntoi (Muntoi Induk / Muntoy)",
-    "Poyuyanan",
-    "Lobong",
-    "Passi (Passi 1)",
-    "Bintau",
-    "Bulud",
-    "Otam",
-    "Wangga",
-    "Inuai",
-    "Passi II (Passi 2)",
-    "Muntoi Timur",
-    "Otam Barat",
-    "Wangga Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muntoi (Muntoi Induk / Muntoy)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Poyuyanan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lobong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Passi (Passi 1)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bintau"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bulud"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Otam"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wangga"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Inuai"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Passi II (Passi 2)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Muntoi Timur"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Otam Barat"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wangga Satu"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sikeli",
-    "Baliara",
-    "Rahantari",
-    "Baliara Kepulauan",
-    "Baliara Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sikeli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baliara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rahantari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baliara Kepulauan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baliara Selatan"
+    }
   ]
 }

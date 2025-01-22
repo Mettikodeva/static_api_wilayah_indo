@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tiakur",
-    "Klis",
-    "Patti",
-    "Wakarleli",
-    "Kaiwatu",
-    "Werwaru",
-    "Tounwawan",
-    "Moain"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tiakur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Patti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wakarleli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaiwatu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Werwaru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tounwawan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Moain"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Matungkas",
-    "Laikit",
-    "Klabat",
-    "Pinilih",
-    "Tatelu",
-    "Warukapas",
-    "Tetey",
-    "Wasian",
-    "Lumpias",
-    "Dimembe",
-    "Tatelu Rondor"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matungkas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laikit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klabat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pinilih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tatelu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Warukapas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tetey"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wasian"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lumpias"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dimembe"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tatelu Rondor"
+    }
   ]
 }

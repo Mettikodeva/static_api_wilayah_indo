@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tomosiga",
-    "Bigasiga",
-    "Dapiaga",
-    "Pewesiga",
-    "Hegenagai",
-    "Gaimigi",
-    "Jawasiga",
-    "Duginggobo",
-    "Sugulubagala"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tomosiga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bigasiga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dapiaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pewesiga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hegenagai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gaimigi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jawasiga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Duginggobo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sugulubagala"
+    }
   ]
 }

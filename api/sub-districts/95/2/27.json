@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Merpasikne",
-    "Taramlu",
-    "Weime",
-    "Meryang",
-    "Limrepasikne",
-    "Youlban (Yolban)",
-    "Mekdamgon",
-    "Daluban",
-    "Nomteren"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Merpasikne"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taramlu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Weime"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meryang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limrepasikne"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Youlban (Yolban)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekdamgon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Daluban"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nomteren"
+    }
   ]
 }

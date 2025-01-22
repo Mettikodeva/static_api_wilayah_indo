@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Aek Kanopan",
-    "Aek Kanopan Timur",
-    "Kuala Beringin",
-    "Parpaudangan",
-    "Pulo Dogom",
-    "Londut (Perkebunan Londut)",
-    "Perkebunan Kanopan Ulu",
-    "Perkebunan Mambang/Membang Muda",
-    "Perkebunan Labuhan Haji",
-    "Perkebunan Hanna",
-    "Sonomartani (Sono Martani)",
-    "Sukarame (Suka Rame)",
-    "Sukarame Baru (Suka Rame Baru)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Aek Kanopan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Aek Kanopan Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuala Beringin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parpaudangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulo Dogom"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Londut (Perkebunan Londut)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Perkebunan Kanopan Ulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perkebunan Mambang/Membang Muda"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perkebunan Labuhan Haji"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perkebunan Hanna"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sonomartani (Sono Martani)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukarame (Suka Rame)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukarame Baru (Suka Rame Baru)"
+    }
   ]
 }

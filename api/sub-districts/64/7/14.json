@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Randa Empas",
-    "Tuquk/Tukuq",
-    "Tende",
-    "Sambung",
-    "Anan Jaya",
-    "Jelmu Sibak",
-    "Suakong",
-    "Penarung",
-    "Dilang Puti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Randa Empas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tuquk/Tukuq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tende"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sambung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Anan Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jelmu Sibak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suakong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penarung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dilang Puti"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bulo",
-    "Pulliwa",
-    "Tapambanua (Patambanua)",
-    "Karombang",
-    "Daala Timur",
-    "Lenggo",
-    "Sabura",
-    "Sepporraki",
-    "Ihing"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulliwa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tapambanua (Patambanua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karombang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Daala Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lenggo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sabura"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sepporraki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ihing"
+    }
   ]
 }

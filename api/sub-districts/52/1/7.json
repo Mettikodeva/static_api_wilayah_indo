@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sekotong Tengah",
-    "Sekotong Barat",
-    "Pelangan",
-    "Buwun Mas",
-    "Kedaro",
-    "Batu Putih",
-    "Gili Gede Indah",
-    "Cendi Manik",
-    "Taman Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekotong Tengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekotong Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pelangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buwun Mas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedaro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gili Gede Indah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cendi Manik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taman Baru"
+    }
   ]
 }

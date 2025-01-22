@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kota Baru",
-    "Berakit",
-    "Ekang Anculai",
-    "Pengudang",
-    "Sebung/Sebong Lagoi",
-    "Sebung/Sebong Pereh",
-    "Sri Bintan"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Berakit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ekang Anculai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pengudang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sebung/Sebong Lagoi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebung/Sebong Pereh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sri Bintan"
+    }
   ]
 }

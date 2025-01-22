@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Warmare",
-    "Prafi",
-    "Masni",
-    "Manokwari Barat",
-    "Manokwari Timur",
-    "Manokwari Utara",
-    "Manokwari Selatan",
-    "Tanah Rubuh",
-    "Sidey"
+    {
+      "district_id": 3,
+      "kecamatan": "Warmare"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Prafi"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Masni"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Manokwari Barat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Manokwari Timur"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Manokwari Utara"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Manokwari Selatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tanah Rubuh"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sidey"
+    }
   ]
 }

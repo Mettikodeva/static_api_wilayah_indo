@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Kinal",
-    "Tanjung Kemuning",
-    "Kaur Utara",
-    "Kaur Tengah",
-    "Kaur Selatan",
-    "Maje",
-    "Nasal",
-    "Semidang Gumay / Gumai",
-    "Kelam Tengah",
-    "Luas",
-    "Muara Sahung",
-    "Tetap (Muara Tetap)",
-    "Lungkang Kule",
-    "Padang Guci Hilir",
-    "Padang Guci Hulu"
+    {
+      "district_id": 1,
+      "kecamatan": "Kinal"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Kemuning"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kaur Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kaur Tengah"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kaur Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Maje"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Nasal"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Semidang Gumay / Gumai"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kelam Tengah"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Luas"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Muara Sahung"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tetap (Muara Tetap)"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Lungkang Kule"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Padang Guci Hilir"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Padang Guci Hulu"
+    }
   ]
 }

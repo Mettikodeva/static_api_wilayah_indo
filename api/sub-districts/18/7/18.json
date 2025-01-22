@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Negeri Agung",
-    "Pempen",
-    "Way Mili (Wai Mili)",
-    "Pelindung Jaya",
-    "Nibung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pempen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Way Mili (Wai Mili)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelindung Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nibung"
+    }
   ]
 }

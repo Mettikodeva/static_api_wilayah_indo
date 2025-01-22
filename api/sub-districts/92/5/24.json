@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Abidon",
-    "Rutum",
-    "Reni",
-    "Meosbekwan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Abidon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rutum"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Reni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meosbekwan"
+    }
   ]
 }

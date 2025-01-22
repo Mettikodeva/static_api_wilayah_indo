@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pasir Putih",
-    "Batu Belerang",
-    "Biji Nangka",
-    "Barambang",
-    "Bonto Sinala",
-    "Kassi Buleng",
-    "Bonto Katute",
-    "Bonto Tengnga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Belerang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biji Nangka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Barambang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonto Sinala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kassi Buleng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bonto Katute"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonto Tengnga"
+    }
   ]
 }

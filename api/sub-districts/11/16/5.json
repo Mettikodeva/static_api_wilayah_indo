@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kota Kualasimpang (Kota Kuala Simpang)",
-    "Perdamaian",
-    "Sriwijaya",
-    "Bukit Tempurung",
-    "Kota Lintang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kota Kualasimpang (Kota Kuala Simpang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perdamaian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sriwijaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Tempurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Lintang"
+    }
   ]
 }

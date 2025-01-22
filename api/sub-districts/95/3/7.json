@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dekai",
-    "Kuaserama",
-    "Maruku",
-    "Massi",
-    "Keikey",
-    "Kuari",
-    "Muara",
-    "Kiribun",
-    "Kokamu",
-    "Tomon I (Toman I)",
-    "Sokamu",
-    "Tomon II (Toman II)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dekai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuaserama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maruku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Massi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keikey"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kiribun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kokamu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tomon I (Toman I)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sokamu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tomon II (Toman II)"
+    }
   ]
 }

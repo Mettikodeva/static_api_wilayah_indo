@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Belakang Padang",
-    "Batu Ampar",
-    "Sekupang",
-    "Nongsa",
-    "Bulang",
-    "Lubuk Baja",
-    "Sei Beduk (Sungai Beduk)",
-    "Galang",
-    "Bengkong",
-    "Batam Kota",
-    "Sagulung",
-    "Batu Aji"
+    {
+      "district_id": 1,
+      "kecamatan": "Belakang Padang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Batu Ampar"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sekupang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Nongsa"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bulang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lubuk Baja"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sei Beduk (Sungai Beduk)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Galang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bengkong"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Batam Kota"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sagulung"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Batu Aji"
+    }
   ]
 }

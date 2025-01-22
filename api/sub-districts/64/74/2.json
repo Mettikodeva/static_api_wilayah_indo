@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tanjung Laut",
-    "Berebas Tengah (Berbas Tengah)",
-    "Berebas Pantai (Berbas Pantai)",
-    "Satimpo",
-    "Bontang Lestari",
-    "Tanjung Laut Indah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Laut"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Berebas Tengah (Berbas Tengah)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Berebas Pantai (Berbas Pantai)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Satimpo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bontang Lestari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjung Laut Indah"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pagal",
-    "Nenu",
-    "Rado",
-    "Wudi",
-    "Welu",
-    "Golo",
-    "Barang",
-    "Perak",
-    "Bea Mese",
-    "Langkas",
-    "Ladur",
-    "Kentol",
-    "Riung",
-    "Pinggang",
-    "Lando",
-    "Gapong",
-    "Golo Ncuang"
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Pagal"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nenu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rado"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wudi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Welu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Barang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bea Mese"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Langkas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ladur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kentol"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Riung"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pinggang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lando"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Gapong"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Golo Ncuang"
+    }
   ]
 }

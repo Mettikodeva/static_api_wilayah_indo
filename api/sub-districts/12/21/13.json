@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Hasahatan Julu",
-    "Hasahatan Jae",
-    "Sabahotang",
-    "Sigorbus Julu",
-    "Sigorbus Jae",
-    "Mompang",
-    "Sitarolo Julu",
-    "Siolip",
-    "Saba Rimba/Riba",
-    "Limbong",
-    "Simaninggir",
-    "Binabo Julu",
-    "Binabo Jae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hasahatan Julu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hasahatan Jae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sabahotang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sigorbus Julu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sigorbus Jae"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mompang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sitarolo Julu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siolip"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Saba Rimba/Riba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Limbong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simaninggir"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binabo Julu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Binabo Jae"
+    }
   ]
 }

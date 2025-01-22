@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Wonreli",
-    "Lekloor",
-    "Kota Lama",
-    "Abusur",
-    "Oirata Timur",
-    "Oirata Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonreli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lekloor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Abusur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oirata Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oirata Barat"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lamara",
-    "Puosu (Puuosu)",
-    "Benua Utama",
-    "Horodopi",
-    "Benua",
-    "Palawewu (Palowewu)",
-    "Puunggawu Kawu (Punggawukawu)",
-    "Uelawa",
-    "Tetehaka",
-    "Awalo",
-    "Kosambi",
-    "Puuwehuko"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lamara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Puosu (Puuosu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benua Utama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Horodopi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palawewu (Palowewu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puunggawu Kawu (Punggawukawu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Uelawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tetehaka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Awalo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kosambi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Puuwehuko"
+    }
   ]
 }

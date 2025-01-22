@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karanganyar (Karang Anyar)",
-    "Mengger",
-    "Gembol",
-    "Sriwedari (Sri Wedari)",
-    "Bangunrejo",
-    "Pandean",
-    "Sekarjati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karanganyar (Karang Anyar)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mengger"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gembol"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sriwedari (Sri Wedari)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangunrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pandean"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sekarjati"
+    }
   ]
 }

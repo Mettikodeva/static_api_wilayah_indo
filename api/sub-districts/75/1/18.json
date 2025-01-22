@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tualango",
-    "Dulomo",
-    "Tilote",
-    "Tabumela",
-    "Ilotidea (Ilotideaa)",
-    "Lauwonu",
-    "Tenggela",
-    "Tinelo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tualango"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dulomo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tilote"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tabumela"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ilotidea (Ilotideaa)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lauwonu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tenggela"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tinelo"
+    }
   ]
 }

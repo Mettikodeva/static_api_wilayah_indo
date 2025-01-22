@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Datarcae",
-    "Cirinten",
-    "Karangnunggal",
-    "Kadudamas",
-    "Badur",
-    "Parakanlima",
-    "Nanggerang (Nangerang)",
-    "Cempaka",
-    "Karoya",
-    "Cibarani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Datarcae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cirinten"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangnunggal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadudamas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Badur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parakanlima"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nanggerang (Nangerang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karoya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cibarani"
+    }
   ]
 }

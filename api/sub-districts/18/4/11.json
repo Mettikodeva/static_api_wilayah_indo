@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Raya",
-    "Hanakau",
-    "Buay Nyerupa",
-    "Tapak Siring",
-    "Jaga Raga",
-    "Pagar Dewa",
-    "Suka Mulya",
-    "Bandar Baru",
-    "Bumi Jaya",
-    "Teba Pering Jaya (Teba Pering Raya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hanakau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buay Nyerupa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapak Siring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jaga Raga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Mulya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bandar Baru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bumi Jaya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Teba Pering Jaya (Teba Pering Raya)"
+    }
   ]
 }

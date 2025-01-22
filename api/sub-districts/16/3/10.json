@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Tiga",
-    "Cahaya Alam",
-    "Datar Lebar",
-    "Segamit",
-    "Siring Agung",
-    "Aremantai",
-    "Tanjung Agung",
-    "Pajar Bulan",
-    "Pelakat",
-    "Danau Gerak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Tiga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cahaya Alam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Datar Lebar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Segamit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siring Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aremantai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pajar Bulan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelakat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Danau Gerak"
+    }
   ]
 }

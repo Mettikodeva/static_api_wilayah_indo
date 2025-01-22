@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Lakudo",
-    "Gu Timur",
-    "Boneoge",
-    "Metere",
-    "Lolibu",
-    "Wajogu",
-    "Moko",
-    "Mone",
-    "Matawine",
-    "Nepa Mekar",
-    "Madongka",
-    "Waraa (Wara)",
-    "Wongko Lakudo",
-    "One Waara",
-    "Teluk Lasongko"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lakudo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gu Timur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Boneoge"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Metere"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lolibu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wajogu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Moko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mone"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Matawine"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nepa Mekar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Madongka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waraa (Wara)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wongko Lakudo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "One Waara"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Teluk Lasongko"
+    }
   ]
 }

@@ -1,61 +1,232 @@
 {
   "sub_districts": [
-    "Ngentak",
-    "Girirejo",
-    "Wero",
-    "Pagak",
-    "Malang",
-    "Depokrejo",
-    "Keburuhan",
-    "Awu-awu (Awuawu)",
-    "Kumpulsari",
-    "Kesidan",
-    "Wonoroto",
-    "Pejagran",
-    "Wonosari",
-    "Wonosri",
-    "Jeruken",
-    "Tanjungrejo",
-    "Kalitanjung",
-    "Kuwukan",
-    "Kedondong",
-    "Rasukan",
-    "Laban",
-    "Wasiat",
-    "Tunjungan",
-    "Ringgit",
-    "Kaliwungukidul (Kaliwungu Kidul)",
-    "Kaliwungulor (Kaliwungu Lor)",
-    "Cokroyasan",
-    "Bojong",
-    "Karangtalun",
-    "Susuk",
-    "Klandaran",
-    "Briyan",
-    "Ngombol",
-    "Joso",
-    "Candi",
-    "Pulutan",
-    "Walikoro",
-    "Sruwoh",
-    "Wonoboyo",
-    "Kembangkuning",
-    "Jombang",
-    "Mendiro",
-    "Wunut",
-    "Sumberrejo (Sumberejo)",
-    "Wingkosigromulyo (Wingko Sigromulyo)",
-    "Wingkoharjo",
-    "Singkilkulon (Singkil Kulon)",
-    "Singkilwetan (Singkil Wetan)",
-    "Tumenggungan",
-    "Curug",
-    "Wingkosanggrahan (Wingko Sanggrahan)",
-    "Wingkomulyo",
-    "Wingkotinumpuk (Wingko Tinumpuk)",
-    "Piyono",
-    "Tanjung",
-    "Secang",
-    "Seboropasar (Seboro Pasar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngentak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Girirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wero"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Depokrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keburuhan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Awu-awu (Awuawu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kumpulsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kesidan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonoroto"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pejagran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wonosri"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jeruken"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanjungrejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kalitanjung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kuwukan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kedondong"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Rasukan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Laban"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wasiat"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tunjungan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ringgit"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Kaliwungukidul (Kaliwungu Kidul)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kaliwungulor (Kaliwungu Lor)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Cokroyasan"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Karangtalun"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Susuk"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Klandaran"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Briyan"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Ngombol"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Joso"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Pulutan"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Walikoro"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Sruwoh"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Wonoboyo"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Kembangkuning"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Jombang"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Mendiro"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Wunut"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Sumberrejo (Sumberejo)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Wingkosigromulyo (Wingko Sigromulyo)"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Wingkoharjo"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Singkilkulon (Singkil Kulon)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Singkilwetan (Singkil Wetan)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Tumenggungan"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Wingkosanggrahan (Wingko Sanggrahan)"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Wingkomulyo"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Wingkotinumpuk (Wingko Tinumpuk)"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Piyono"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Secang"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Seboropasar (Seboro Pasar)"
+    }
   ]
 }

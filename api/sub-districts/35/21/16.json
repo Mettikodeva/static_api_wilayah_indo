@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kalang",
-    "Pitu",
-    "Dumplengan",
-    "Selopuro",
-    "Karanggeneng",
-    "Ngancar",
-    "Cantel",
-    "Papungan",
-    "Banjarbanggi",
-    "Bangunrejo Lor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pitu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dumplengan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selopuro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanggeneng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngancar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cantel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Papungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjarbanggi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bangunrejo Lor"
+    }
   ]
 }

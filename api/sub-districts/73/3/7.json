@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Gantarang Keke (Gantarangkeke)",
-    "Tanah Loe (Tanahloe)",
-    "Layoa",
-    "Bajiminasa",
-    "Tombolo",
-    "Kaloling"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gantarang Keke (Gantarangkeke)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanah Loe (Tanahloe)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Layoa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bajiminasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tombolo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaloling"
+    }
   ]
 }

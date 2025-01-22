@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Tanjung Niaga",
-    "Paal",
-    "Sidomulyo (Sido Mulyo)",
-    "Tembawang Panjang",
-    "Poring",
-    "Nanga Kebebu",
-    "Nanga Kayan",
-    "Baru",
-    "Tanjung Sari",
-    "Tanjung Lay",
-    "Labai Mandiri",
-    "Nusa Pandau",
-    "Kelakik",
-    "Semadin Lengkong",
-    "Tebing Karangan",
-    "Kenual",
-    "Tanjung Tengang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Niaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidomulyo (Sido Mulyo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tembawang Panjang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Poring"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nanga Kebebu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nanga Kayan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanjung Lay"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Labai Mandiri"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Nusa Pandau"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Kelakik"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Semadin Lengkong"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Tebing Karangan"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Kenual"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Tanjung Tengang"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Camplong I",
-    "Camplong II",
-    "Naunnu (Naunu)",
-    "Oebola",
-    "Sillu",
-    "Ekateta",
-    "Kuimasi",
-    "Tolnaku (Tulnaku)",
-    "Oebola Dalam",
-    "Kiuoni"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Camplong I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Camplong II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Naunnu (Naunu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Oebola"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sillu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ekateta"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuimasi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tolnaku (Tulnaku)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Oebola Dalam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kiuoni"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Seriwa'u (Seriwau)",
-    "Ombolata Sawo",
-    "Sanawuyu",
-    "Onozitoli Sawo",
-    "Sifahandro",
-    "Sisarahili Teluk Siabang",
-    "Lasara Sawo",
-    "Sawo",
-    "Hiliduruwa",
-    "Teluk Bengkuang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seriwa'u (Seriwau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ombolata Sawo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sanawuyu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Onozitoli Sawo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sifahandro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sisarahili Teluk Siabang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lasara Sawo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sawo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hiliduruwa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk Bengkuang"
+    }
   ]
 }

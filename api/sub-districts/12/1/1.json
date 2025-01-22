@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pasar Batu Gerigis",
-    "Padang Masiang",
-    "Kampung Solok",
-    "Pasar Terandam",
-    "Sigambo Gambo",
-    "Ujung Batu",
-    "Kinali",
-    "Kampung Mudik",
-    "Aek Dakka",
-    "Patupangan",
-    "Gabungan Hasang",
-    "Bungo Tanjung",
-    "Kedai Gedang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Batu Gerigis"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Padang Masiang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Solok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar Terandam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sigambo Gambo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujung Batu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kinali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampung Mudik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aek Dakka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Patupangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gabungan Hasang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bungo Tanjung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kedai Gedang"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Teluk Lingga",
-    "Sangatta Utara",
-    "Singa Gembara",
-    "Swarga Bara"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Teluk Lingga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sangatta Utara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Singa Gembara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Swarga Bara"
+    }
   ]
 }

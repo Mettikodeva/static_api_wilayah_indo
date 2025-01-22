@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Gurabesi",
-    "Bayangkara (Bhayangkara)",
-    "Trikora",
-    "Imbi",
-    "Tanjung Ria",
-    "Mandala",
-    "Angkasapura",
-    "Kayo Batu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gurabesi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bayangkara (Bhayangkara)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Trikora"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Imbi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung Ria"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Angkasapura"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kayo Batu"
+    }
   ]
 }

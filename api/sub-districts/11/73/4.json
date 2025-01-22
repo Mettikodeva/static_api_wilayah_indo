@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Batu Phat Barat",
-    "Blang Panyang",
-    "Meunasah Dayah",
-    "Paloh Punti",
-    "Blang Pulo",
-    "Batu Phat Timur",
-    "Blang Naleung Mameh",
-    "Cot Trieng",
-    "Padang Sakti",
-    "Meuria Paloh",
-    "Ujong Pacu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Phat Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Blang Panyang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meunasah Dayah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paloh Punti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blang Pulo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu Phat Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blang Naleung Mameh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cot Trieng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Sakti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meuria Paloh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ujong Pacu"
+    }
   ]
 }

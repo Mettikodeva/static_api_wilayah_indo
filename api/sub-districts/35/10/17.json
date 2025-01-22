@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Boyolangu",
-    "Mojopanggung",
-    "Penataban",
-    "Giri",
-    "Jambesari",
-    "Grogol"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Boyolangu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mojopanggung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Penataban"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Giri"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jambesari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Grogol"
+    }
   ]
 }

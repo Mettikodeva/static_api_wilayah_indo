@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Apuan",
-    "Demulih",
-    "Abuan",
-    "Susut",
-    "Sulahan",
-    "Penglumbaran",
-    "Tiga",
-    "Selat",
-    "Pengiangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Apuan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Demulih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Abuan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Susut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sulahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penglumbaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tiga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pengiangan"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Aboy",
-    "Luban",
-    "Jubly",
-    "Armise",
-    "Woro",
-    "Pipal",
-    "Lulis Wii"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aboy"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Luban"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jubly"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Armise"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Woro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pipal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lulis Wii"
+    }
   ]
 }

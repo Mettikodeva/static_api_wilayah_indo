@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Poncosari",
-    "Trimurti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Poncosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Trimurti"
+    }
   ]
 }

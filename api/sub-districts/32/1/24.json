@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cileungsi",
-    "Citapen",
-    "Cibedug",
-    "Jambuluwuk (Jambu Luwuk)",
-    "Banjarsari (Banjar Sari)",
-    "Teluk Pinang",
-    "Banjar Waru",
-    "Bendungan",
-    "Pandan Sari (Pandansari)",
-    "Bojong Murni",
-    "Banjar Wangi",
-    "Ciawi",
-    "Bitungsari (Bitung Sari)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cileungsi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Citapen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibedug"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jambuluwuk (Jambu Luwuk)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjarsari (Banjar Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk Pinang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjar Waru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bendungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pandan Sari (Pandansari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bojong Murni"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banjar Wangi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ciawi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bitungsari (Bitung Sari)"
+    }
   ]
 }

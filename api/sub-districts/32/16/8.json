@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Telaga Asih",
-    "Telagamurni (Telaga Murni)",
-    "Mekarwangi (Mekar Wangi)",
-    "Jatiwangi",
-    "Danau Indah",
-    "Gandamekar",
-    "Gandasari",
-    "Sukadanau",
-    "Kalijaya (Kali Jaya)",
-    "Telajung",
-    "Cikedokan"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Telaga Asih"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Telagamurni (Telaga Murni)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mekarwangi (Mekar Wangi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatiwangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Danau Indah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gandamekar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gandasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukadanau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalijaya (Kali Jaya)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Telajung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cikedokan"
+    }
   ]
 }

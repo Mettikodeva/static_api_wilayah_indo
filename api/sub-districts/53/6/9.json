@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Wailebe",
-    "Wotanulumado",
-    "Nayubaya",
-    "Oyangbarang",
-    "Kawela",
-    "Klukengnuking",
-    "Pandai",
-    "Bliko",
-    "Samsoge",
-    "Tobilota",
-    "Tana Tukan",
-    "Demondei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wailebe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wotanulumado"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nayubaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oyangbarang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kawela"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klukengnuking"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pandai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bliko"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Samsoge"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tobilota"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tana Tukan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Demondei"
+    }
   ]
 }

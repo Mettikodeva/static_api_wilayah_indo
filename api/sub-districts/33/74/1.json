@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Miroto",
-    "Brumbungan",
-    "Jagalan",
-    "Kranggan",
-    "Gabahan",
-    "Kembangsari",
-    "Sekayu",
-    "Pandansari",
-    "Bangunharjo",
-    "Kauman",
-    "Purwodinatan",
-    "Karang Kidul (Karangkidul)",
-    "Pekunden",
-    "Pindrikan Kidul (Pendrikan Kidul)",
-    "Pindrikan Lor (Pendrikan Lor)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Miroto"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Brumbungan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jagalan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kranggan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gabahan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kembangsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sekayu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pandansari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bangunharjo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Purwodinatan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Karang Kidul (Karangkidul)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pekunden"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pindrikan Kidul (Pendrikan Kidul)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Pindrikan Lor (Pendrikan Lor)"
+    }
   ]
 }

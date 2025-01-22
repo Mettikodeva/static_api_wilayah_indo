@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banjaransari",
-    "Bendo",
-    "Tambakromo",
-    "Tungkulrejo",
-    "Bintoyo",
-    "Sukowiyono",
-    "Munggut",
-    "Pacing",
-    "Padas",
-    "Kedungprahu (Kedung Prahu)",
-    "Sambiroto",
-    "Kwadungan Lor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjaransari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambakromo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tungkulrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bintoyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukowiyono"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Munggut"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pacing"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kedungprahu (Kedung Prahu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sambiroto"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kwadungan Lor"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ciptasari",
-    "Tamanmekar",
-    "Tamansari",
-    "Jatilaksana",
-    "Cintaasih",
-    "Kertasari",
-    "Mulangsari",
-    "Medalsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciptasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamanmekar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatilaksana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cintaasih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulangsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Medalsari"
+    }
   ]
 }

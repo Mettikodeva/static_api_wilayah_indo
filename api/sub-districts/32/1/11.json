@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cidokom",
-    "Padurenan",
-    "Pengasinan",
-    "Curug",
-    "Gunungsindur (Gunung Sindur)",
-    "Jampang",
-    "Cibadung",
-    "Cibinong",
-    "Rawakalong",
-    "Pabuaran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cidokom"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padurenan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pengasinan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunungsindur (Gunung Sindur)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jampang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cibadung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibinong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rawakalong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pabuaran"
+    }
   ]
 }

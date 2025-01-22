@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Babakan",
-    "Sumber",
-    "Perbutulan",
-    "Kaliwadas",
-    "Pasalakan",
-    "Watubelah",
-    "Pejambon",
-    "Gegunung",
-    "Kemantren",
-    "Sendang",
-    "Tukmudal",
-    "Kenanga",
-    "Matangaji",
-    "Sidawangi"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Perbutulan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kaliwadas"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pasalakan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Watubelah"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pejambon"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Gegunung"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kemantren"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tukmudal"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kenanga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Matangaji"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidawangi"
+    }
   ]
 }

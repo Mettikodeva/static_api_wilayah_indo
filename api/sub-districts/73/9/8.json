@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Temmapaduae (Temappadduae)",
-    "Nisombalia",
-    "Tellum Poccoe (Tellumpoccoe)",
-    "Ma'rumpa",
-    "Bonto Mate'ne",
-    "Abulosibatang",
-    "Pa'bentengang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Temmapaduae (Temappadduae)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nisombalia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tellum Poccoe (Tellumpoccoe)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ma'rumpa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonto Mate'ne"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Abulosibatang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pa'bentengang"
+    }
   ]
 }

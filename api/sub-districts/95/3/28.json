@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wanan (Wanam)",
-    "Hereki (Hereky)",
-    "Membaham (Mimbaham)",
-    "Wisomy (Wisomi)",
-    "Talambela (Talempela)",
-    "Sehelu",
-    "Ubalihion",
-    "Walahan",
-    "Salakma",
-    "Samiyul",
-    "Letfet"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanan (Wanam)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hereki (Hereky)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Membaham (Mimbaham)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wisomy (Wisomi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talambela (Talempela)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sehelu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ubalihion"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Walahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Salakma"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Samiyul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Letfet"
+    }
   ]
 }

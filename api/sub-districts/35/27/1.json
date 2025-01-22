@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Noreh",
-    "Labuhan",
-    "Taman",
-    "Sreseh",
-    "Disanah",
-    "Marparan",
-    "Klobur",
-    "Labang",
-    "Bundah",
-    "Bangsah",
-    "Plasah",
-    "Junuk (Junok)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Noreh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sreseh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Disanah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marparan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klobur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Labang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bundah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bangsah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Plasah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Junuk (Junok)"
+    }
   ]
 }

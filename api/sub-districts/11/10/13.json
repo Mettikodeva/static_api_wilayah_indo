@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Singkohor",
-    "Lae Sipola",
-    "Lae Pinang",
-    "Mukti Jaya (Mukti Harapan)",
-    "Sri Kayu",
-    "Pea Jambu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Singkohor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lae Sipola"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lae Pinang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mukti Jaya (Mukti Harapan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sri Kayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pea Jambu"
+    }
   ]
 }

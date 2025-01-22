@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Panyindangan Kulon",
-    "Rambatan Wetan",
-    "Panyindangan Wetan",
-    "Kenanga",
-    "Terusan",
-    "Dermayu",
-    "Sindang",
-    "Penganjang",
-    "Babadan",
-    "Wanantara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panyindangan Kulon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rambatan Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panyindangan Wetan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Terusan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dermayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penganjang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wanantara"
+    }
   ]
 }

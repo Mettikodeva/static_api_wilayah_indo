@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bareng",
-    "Bunder",
-    "Gombolirang",
-    "Benelanlor (Benelan Lor)",
-    "Labanasem",
-    "Pakistaji",
-    "Pondoknongko",
-    "Dadapan",
-    "Kedayunan",
-    "Kabat",
-    "Macan Putih",
-    "Tambong",
-    "Pendarungan",
-    "Kalirejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bareng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bunder"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gombolirang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Benelanlor (Benelan Lor)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labanasem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pakistaji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pondoknongko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dadapan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedayunan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kabat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Macan Putih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tambong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pendarungan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kalirejo"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Purwodadi",
-    "Gunung Alam",
-    "Tanjung Raman",
-    "Lubuk Saung/Sahung",
-    "Kuro Tidur",
-    "Karang Suci",
-    "Rama Agung",
-    "Talang Denau",
-    "Gunung Selam / Selan",
-    "Datar Ruyung",
-    "Senali",
-    "Gunung Agung",
-    "Sido Urip",
-    "Karang Anyar I (Karang Anyar)",
-    "Taba Tembilang",
-    "Karang Anyar II (Karang Anyar Ilir)"
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Gunung Alam"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Raman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Saung/Sahung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuro Tidur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Suci"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rama Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talang Denau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Selam / Selan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Datar Ruyung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Senali"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gunung Agung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sido Urip"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karang Anyar I (Karang Anyar)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Taba Tembilang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Karang Anyar II (Karang Anyar Ilir)"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bada",
-    "Bali",
-    "Potu",
-    "Karijawa",
-    "Dora Tangga",
-    "Kandai I",
-    "O'o",
-    "Katua",
-    "Karamabura",
-    "Mbawi",
-    "Dore Bara",
-    "Kareke",
-    "Mangge Nae",
-    "Manggeasi",
-    "Sori Sakolo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bada"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bali"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Potu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karijawa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Dora Tangga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kandai I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "O'o"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Katua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karamabura"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mbawi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dore Bara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kareke"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mangge Nae"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Manggeasi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sori Sakolo"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sinar Tebudak",
-    "Kamuh",
-    "Bengkilu",
-    "Pisak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sinar Tebudak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kamuh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bengkilu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pisak"
+    }
   ]
 }

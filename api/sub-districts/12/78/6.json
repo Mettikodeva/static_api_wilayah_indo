@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tumori",
-    "Tumori Balohili",
-    "Orahili Tumori",
-    "Gada",
-    "Lolomoyo Tuhemberua",
-    "Sihare'o Siwahili (Sihareo Siwahili)",
-    "Hilinakhe",
-    "Onozikho",
-    "Ononamolo II Lot (Ononamolo II)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumori"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumori Balohili"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Orahili Tumori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gada"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lolomoyo Tuhemberua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sihare'o Siwahili (Sihareo Siwahili)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilinakhe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Onozikho"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ononamolo II Lot (Ononamolo II)"
+    }
   ]
 }

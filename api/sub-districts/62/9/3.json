@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Nanga Bulik",
-    "Sungai Mentawa",
-    "Guci",
-    "Batu Kotam",
-    "Kujan",
-    "Bunut",
-    "Beruta (Baruta)",
-    "Tamiang",
-    "Bumi Agung",
-    "Sumber Mulya",
-    "Bukit Indah",
-    "Arga Mulya (Argo Mulyo)",
-    "Perigi Raya",
-    "Nanga Pamalontian"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nanga Bulik"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Mentawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Guci"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Kotam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kujan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bunut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beruta (Baruta)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamiang"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Bumi Agung"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Sumber Mulya"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Bukit Indah"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Arga Mulya (Argo Mulyo)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Perigi Raya"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Nanga Pamalontian"
+    }
   ]
 }

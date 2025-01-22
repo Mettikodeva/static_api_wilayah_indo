@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Umagi",
-    "Yali",
-    "Nambu",
-    "Nolopur",
-    "Yaleme",
-    "Gatini",
-    "Mino",
-    "Gurin",
-    "Piriluk",
-    "Pagongga",
-    "Warna",
-    "Popaga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Umagi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nambu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nolopur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yaleme"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gatini"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mino"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gurin"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Piriluk"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pagongga"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Warna"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Popaga"
+    }
   ]
 }

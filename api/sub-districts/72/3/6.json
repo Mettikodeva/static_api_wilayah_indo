@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kembayang (Kambayang)",
-    "Talaga",
-    "Sabang",
-    "Sioyong",
-    "Pani'i (Panii)",
-    "Ponggerang",
-    "Rerang",
-    "Budi Mukti (Budimukti)",
-    "Lembah Mukti (Lemba Mukti)",
-    "Malonas",
-    "Parisan Agung",
-    "Karya Mukti (Karyamukti)",
-    "Long"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kembayang (Kambayang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talaga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sabang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sioyong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pani'i (Panii)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ponggerang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rerang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Budi Mukti (Budimukti)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lembah Mukti (Lemba Mukti)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Malonas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Parisan Agung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karya Mukti (Karyamukti)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Long"
+    }
   ]
 }

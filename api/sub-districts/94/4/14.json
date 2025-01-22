@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Hoya",
-    "Mamontoga",
-    "Jinonin",
-    "Kulama Ogom",
-    "Puti (Puti Semula)",
-    "Jawa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hoya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mamontoga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jinonin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kulama Ogom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puti (Puti Semula)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jawa"
+    }
   ]
 }

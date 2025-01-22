@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Samirejo",
-    "Cendono",
-    "Margorejo",
-    "Rejosari",
-    "Kandangmas",
-    "Glagah Kulon",
-    "Tergo",
-    "Cranggang",
-    "Lau",
-    "Piji",
-    "Puyoh",
-    "Soco",
-    "Ternadi",
-    "Kajar",
-    "Kuwukan",
-    "Dukuhwaringin",
-    "Japan",
-    "Colo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Samirejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cendono"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kandangmas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Glagah Kulon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tergo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cranggang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Piji"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puyoh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Soco"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ternadi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kajar"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kuwukan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dukuhwaringin"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Japan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Colo"
+    }
   ]
 }

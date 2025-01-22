@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Perak",
-    "Gudo",
-    "Ngoro",
-    "Bareng",
-    "Wonosalam",
-    "Mojoagung",
-    "Mojowarno",
-    "Diwek",
-    "Jombang",
-    "Peterongan",
-    "Sumobito",
-    "Kesamben",
-    "Tembelang",
-    "Ploso",
-    "Plandaan",
-    "Kabuh",
-    "Kudu",
-    "Bandarkedungmulyo (Bandar Kedung Mulyo)",
-    "Jogoroto",
-    "Megaluh",
-    "Ngusikan"
+    {
+      "district_id": 1,
+      "kecamatan": "Perak"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Gudo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ngoro"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bareng"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wonosalam"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mojoagung"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mojowarno"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Diwek"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Jombang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Peterongan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sumobito"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kesamben"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tembelang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Ploso"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Plandaan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kabuh"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kudu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Bandarkedungmulyo (Bandar Kedung Mulyo)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Jogoroto"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Megaluh"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Ngusikan"
+    }
   ]
 }

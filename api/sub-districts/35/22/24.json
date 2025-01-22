@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Semawot",
-    "Kalicilik",
-    "Sukosewu",
-    "Klepek",
-    "Tegalkodo",
-    "Sitiaji",
-    "Purwoasri",
-    "Pacing",
-    "Jumput",
-    "Duyungan",
-    "Semenkidul (Semen Kidul)",
-    "Sidodadi",
-    "Sidorejo",
-    "Sumberejo Kidul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Semawot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalicilik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukosewu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klepek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegalkodo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sitiaji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purwoasri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pacing"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jumput"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Duyungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Semenkidul (Semen Kidul)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumberejo Kidul"
+    }
   ]
 }

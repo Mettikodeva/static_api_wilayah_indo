@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pasar Pulaupisang (Pasar Pulau Pisang)",
-    "Labuhan",
-    "Bandar Dalam",
-    "Pekon Lok",
-    "Sukadana",
-    "Suka Marga (Sukamarga)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasar Pulaupisang (Pasar Pulau Pisang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Dalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pekon Lok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Marga (Sukamarga)"
+    }
   ]
 }

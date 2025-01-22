@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sidokarto (Sidokerto)",
-    "Gemawang",
-    "Waleng",
-    "Doho",
-    "Girimarto",
-    "Jendi",
-    "Nungkulan",
-    "Tambakmerang",
-    "Jatirejo",
-    "Giriwarno",
-    "Selorejo",
-    "Semagar (Semagarduwur)",
-    "Sanan",
-    "Bubakan"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidokarto (Sidokerto)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gemawang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waleng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Doho"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Girimarto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jendi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nungkulan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambakmerang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Giriwarno"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Selorejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Semagar (Semagarduwur)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sanan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bubakan"
+    }
   ]
 }

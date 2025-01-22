@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Soa Sio",
-    "Pune",
-    "Mamuya",
-    "Toweka",
-    "Simau",
-    "Barataku",
-    "Towara (Torawa)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Soa Sio"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pune"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mamuya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Toweka"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Simau"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Barataku"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Towara (Torawa)"
+    }
   ]
 }

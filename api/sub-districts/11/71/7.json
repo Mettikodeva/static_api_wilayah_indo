@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Geuceu Komplek",
-    "Lamlagang (Lam Lagang)",
-    "Geuceu Iniem",
-    "Geuceu Kayee Jato",
-    "Lam Ara",
-    "Lhong Raya",
-    "Mibo",
-    "Peunyerat (Peunyeurat)",
-    "Lhong Cut",
-    "Lampeout (Lampuot)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Geuceu Komplek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lamlagang (Lam Lagang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Geuceu Iniem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Geuceu Kayee Jato"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lam Ara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lhong Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mibo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Peunyerat (Peunyeurat)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lhong Cut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lampeout (Lampuot)"
+    }
   ]
 }

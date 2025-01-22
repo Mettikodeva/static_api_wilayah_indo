@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Krapyak",
-    "Kandang Panjang",
-    "Panjang Wetan",
-    "Padukuhan Kraton",
-    "Degayu",
-    "Bandengan",
-    "Panjang Baru"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Krapyak"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kandang Panjang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panjang Wetan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Padukuhan Kraton"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Degayu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bandengan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Panjang Baru"
+    }
   ]
 }

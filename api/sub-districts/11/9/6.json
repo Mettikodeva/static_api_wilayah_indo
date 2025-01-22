@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Layabaung",
-    "Sembilan",
-    "Sigulai",
-    "Sinar Bahagia",
-    "Lamamek",
-    "Batu Ragi",
-    "Malasin",
-    "Babul Makmur",
-    "Amabaan",
-    "Miteum",
-    "Lhok Bikhau (Lhok Bikhao)",
-    "Ujung Harapan",
-    "Sanggiran",
-    "Lhok Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Layabaung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sembilan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sigulai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sinar Bahagia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamamek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu Ragi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malasin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babul Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Amabaan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Miteum"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lhok Bikhau (Lhok Bikhao)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ujung Harapan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sanggiran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lhok Makmur"
+    }
   ]
 }

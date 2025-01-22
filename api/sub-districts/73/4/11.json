@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pao",
-    "Bontorappo",
-    "Tarowang",
-    "Allu Tarowang (Allu Taroang)",
-    "Balangbaru (Balang Baru)",
-    "Balangloe Tarowang (Balang Loe Tarowang)",
-    "Bonto Ujung",
-    "Tino"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pao"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bontorappo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tarowang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Allu Tarowang (Allu Taroang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balangbaru (Balang Baru)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balangloe Tarowang (Balang Loe Tarowang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bonto Ujung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tino"
+    }
   ]
 }

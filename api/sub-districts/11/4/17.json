@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Takengon Timur",
-    "Asir-Asir",
-    "Asir-Asir Asia",
-    "Bale Atu",
-    "Bujang",
-    "Gunung Suku",
-    "Hakim Bale Bujang",
-    "Kenawat",
-    "Kuteni Reje (Kute Nireje / Kuteni Raja)",
-    "Pedemun One-One",
-    "Rawe",
-    "Takengon Barat",
-    "Toweren Antara",
-    "Toweran Toa (Toweren Toa)",
-    "Toweren Uken",
-    "Teluk One-One",
-    "Merah Mersa",
-    "Waq Toweren"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Takengon Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asir-Asir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asir-Asir Asia"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bale Atu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bujang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Suku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hakim Bale Bujang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kenawat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuteni Reje (Kute Nireje / Kuteni Raja)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pedemun One-One"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rawe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Takengon Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Toweren Antara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Toweran Toa (Toweren Toa)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Toweren Uken"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Teluk One-One"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Merah Mersa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Waq Toweren"
+    }
   ]
 }

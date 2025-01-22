@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Jati",
-    "Randublatung",
-    "Kradenan",
-    "Kedungtuban",
-    "Cepu",
-    "Sambong",
-    "Jiken",
-    "Jepon",
-    "Blora (Blora kota)",
-    "Tunjungan",
-    "Banjarejo",
-    "Ngawen",
-    "Kunduran",
-    "Todanan",
-    "Bogorejo",
-    "Japah"
+    {
+      "district_id": 1,
+      "kecamatan": "Jati"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Randublatung"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kradenan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kedungtuban"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cepu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sambong"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Jiken"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Jepon"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Blora (Blora kota)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tunjungan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Banjarejo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Ngawen"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kunduran"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Todanan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bogorejo"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Japah"
+    }
   ]
 }

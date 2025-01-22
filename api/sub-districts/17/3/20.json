@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Padang Kala",
-    "Kembang Manis",
-    "Teluk Ajang",
-    "Balam",
-    "Suka Rami (Sukarami)",
-    "Mesigit",
-    "Retes",
-    "Lubuk Mumpo",
-    "Talang Ulu",
-    "Tanjung Aur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padang Kala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kembang Manis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Ajang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Rami (Sukarami)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mesigit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Retes"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Mumpo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talang Ulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Aur"
+    }
   ]
 }

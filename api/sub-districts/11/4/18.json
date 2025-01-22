@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Atu Lintang",
-    "Merah Mege",
-    "Merah Pupuk",
-    "Merah Muyang/Mayang",
-    "Gayo Murni",
-    "Kepala Akal",
-    "Tanoh Abu",
-    "Bintang Kekelip",
-    "Merah Jernang",
-    "Damar Mulyo (Damar Mulia)",
-    "Pantan Damar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Atu Lintang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Merah Mege"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Merah Pupuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Merah Muyang/Mayang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gayo Murni"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kepala Akal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanoh Abu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bintang Kekelip"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Merah Jernang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Damar Mulyo (Damar Mulia)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pantan Damar"
+    }
   ]
 }

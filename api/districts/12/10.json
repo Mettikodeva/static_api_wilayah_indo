@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Rantau Utara",
-    "Rantau Selatan",
-    "Bilah Barat",
-    "Bilah Hilir",
-    "Bilah Hulu",
-    "Pangkatan",
-    "Panai Tengah",
-    "Panai Hilir",
-    "Panai Hulu"
+    {
+      "district_id": 1,
+      "kecamatan": "Rantau Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Rantau Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bilah Barat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bilah Hilir"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bilah Hulu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Pangkatan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Panai Tengah"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Panai Hilir"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Panai Hulu"
+    }
   ]
 }

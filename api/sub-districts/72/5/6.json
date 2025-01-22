@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Buol",
-    "Kali",
-    "Leok II",
-    "Leok I",
-    "Kumaligon",
-    "Kulango",
-    "Bugis"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Buol"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kali"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Leok II"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Leok I"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kumaligon"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kulango"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bugis"
+    }
   ]
 }

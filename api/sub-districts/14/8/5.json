@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Muara Kelantan",
-    "Teluk Lancang",
-    "Sungai Selodang (Sungai Lodang)",
-    "Olak",
-    "Lubuk Jering",
-    "Muara Bungkal",
-    "Lubuk Umbut",
-    "Bencah Umbai",
-    "Tasik Betung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Kelantan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Lancang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Selodang (Sungai Lodang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Olak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Jering"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Bungkal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Umbut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bencah Umbai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tasik Betung"
+    }
   ]
 }

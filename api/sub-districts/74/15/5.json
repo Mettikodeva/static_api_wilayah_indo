@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Molona",
-    "Mbanua",
-    "Lalole",
-    "Watuampara",
-    "Katampe",
-    "Lamaninggara",
-    "Kamoali",
-    "Mokobeau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Molona"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mbanua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lalole"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watuampara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Katampe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamaninggara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kamoali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mokobeau"
+    }
   ]
 }

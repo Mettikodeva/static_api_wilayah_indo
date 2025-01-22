@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Holbung",
-    "Janji Raja",
-    "Sabulan",
-    "Buntu Mauli",
-    "Tamba Dolok",
-    "Cinta Maju",
-    "Parsaoran",
-    "Janji Maria"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Holbung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Janji Raja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sabulan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buntu Mauli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamba Dolok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cinta Maju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parsaoran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Janji Maria"
+    }
   ]
 }

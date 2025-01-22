@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ayamaru",
-    "Framu",
-    "Mefkajim II",
-    "Fraharo",
-    "Smusswioh (Smusuwioh)",
-    "Twer",
-    "Afes",
-    "Tuso"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ayamaru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Framu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mefkajim II"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Fraharo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Smusswioh (Smusuwioh)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Twer"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Afes"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tuso"
+    }
   ]
 }

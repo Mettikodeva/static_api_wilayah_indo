@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kawem",
-    "Hahare",
-    "Aikut",
-    "Sanem",
-    "Kaipom",
-    "Airo Sapem (Sapen)",
-    "Simipit",
-    "Heiyaram",
-    "Wagasu",
-    "Sasime"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kawem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hahare"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aikut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sanem"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaipom"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Airo Sapem (Sapen)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simipit"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Heiyaram"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wagasu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sasime"
+    }
   ]
 }

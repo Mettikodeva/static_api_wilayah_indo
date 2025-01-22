@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Taram",
-    "Solok Bio-Bio",
-    "Tarantang",
-    "Bukik Limbuku",
-    "Harau",
-    "Batu Balang",
-    "Sarilamak",
-    "Gurun",
-    "Lubuak Batingkok",
-    "Koto Tuo",
-    "Pilubang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taram"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Solok Bio-Bio"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tarantang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukik Limbuku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Harau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu Balang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sarilamak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gurun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuak Batingkok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Tuo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pilubang"
+    }
   ]
 }

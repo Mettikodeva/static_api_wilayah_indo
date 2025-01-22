@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Beusa Seberang",
-    "Mon Geudong",
-    "Paya Seungat",
-    "Teumpeun",
-    "Alue Bu Tuha",
-    "Alue Bu Jalan",
-    "Tanjong Tualang (Tanjung Tualang)",
-    "Beringen (Beuringin)",
-    "Kebon Tempeun (Kebun Teumpeun)",
-    "Paya Gajah",
-    "Kabu",
-    "Paya Biek",
-    "Beusa Baroh",
-    "Alue Bu Jalan Baroh",
-    "Alue Bu Tunong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beusa Seberang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mon Geudong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paya Seungat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teumpeun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alue Bu Tuha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alue Bu Jalan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjong Tualang (Tanjung Tualang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beringen (Beuringin)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kebon Tempeun (Kebun Teumpeun)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paya Gajah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kabu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paya Biek"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Beusa Baroh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Alue Bu Jalan Baroh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Alue Bu Tunong"
+    }
   ]
 }

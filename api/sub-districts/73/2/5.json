@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanuntung",
-    "Bonto Kamase",
-    "Karassing",
-    "Singa",
-    "Gunturu",
-    "Borong",
-    "Tugondeng",
-    "Pataro"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanuntung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bonto Kamase"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karassing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Singa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunturu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Borong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tugondeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pataro"
+    }
   ]
 }

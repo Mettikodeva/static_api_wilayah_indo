@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Duren",
-    "Pancawati",
-    "Walahar",
-    "Kiarapayung",
-    "Sumurkondang",
-    "Cibalongsari",
-    "Klari",
-    "Belendung",
-    "Anggadita",
-    "Gintungkerta",
-    "Curug",
-    "Karanganyar",
-    "Cimahi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pancawati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Walahar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kiarapayung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumurkondang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibalongsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belendung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Anggadita"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gintungkerta"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Cimahi"
+    }
   ]
 }

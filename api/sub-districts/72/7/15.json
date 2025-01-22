@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kalumbatan",
-    "Tonuson",
-    "Tobungku",
-    "Nulion",
-    "Peley",
-    "Kanali",
-    "Mata",
-    "Lobuton"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalumbatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tonuson"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tobungku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nulion"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peley"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kanali"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mata"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lobuton"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Avolua",
-    "Toboli",
-    "Toboli Barat",
-    "Pangi",
-    "Sakinah Jaya (Sakina Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Avolua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toboli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toboli Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sakinah Jaya (Sakina Jaya)"
+    }
   ]
 }

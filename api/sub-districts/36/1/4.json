@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tanjungan",
-    "Sumurbatu",
-    "Sukawaris",
-    "Rancaseneng",
-    "Parungkokosan",
-    "Nanggala",
-    "Cikeusik",
-    "Cikadongdong",
-    "Curugciung",
-    "Leuwibalang",
-    "Sukaseneng",
-    "Sukamulya",
-    "Umbulan",
-    "Cikiruhwetan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumurbatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukawaris"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rancaseneng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parungkokosan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nanggala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikeusik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikadongdong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Curugciung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Leuwibalang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukaseneng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Umbulan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cikiruhwetan"
+    }
   ]
 }

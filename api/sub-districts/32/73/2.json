@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cipaganti",
-    "Lebakgede (Lebak Gede)",
-    "Sadangserang (Sadang Serang)",
-    "Dago",
-    "Sekeloa",
-    "Lebak Siliwangi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cipaganti"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lebakgede (Lebak Gede)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sadangserang (Sadang Serang)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Dago"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sekeloa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lebak Siliwangi"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sumurbarang",
-    "Cibogo",
-    "Cinangsi",
-    "Padaasih",
-    "Sadawarna",
-    "Majasari",
-    "Cisaga",
-    "Belendung (Balendung)",
-    "Cibalandong Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumurbarang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibogo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cinangsi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padaasih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sadawarna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Majasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cisaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belendung (Balendung)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cibalandong Jaya"
+    }
   ]
 }

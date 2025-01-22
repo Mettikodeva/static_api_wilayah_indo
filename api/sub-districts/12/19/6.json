@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjungtiram",
-    "Bagan Arya",
-    "Guntung",
-    "Bagan Dalam",
-    "Bogak",
-    "Suka Maju",
-    "Suka Jaya",
-    "Pahlawan",
-    "Bandar Rahmat",
-    "Kampung Lalang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjungtiram"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Bagan Arya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Guntung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bagan Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bogak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pahlawan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bandar Rahmat"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kampung Lalang"
+    }
   ]
 }

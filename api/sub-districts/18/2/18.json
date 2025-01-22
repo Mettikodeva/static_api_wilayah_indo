@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sriwijaya Mataram",
-    "Uman Agung Mataram",
-    "Terbanggi Ilir (Terbanggi Besar)",
-    "Jatidatar Mataram (Jati Datar Mataram)",
-    "Sendang Agung Mataram",
-    "Mataram Udik",
-    "Terbanggi Mulya",
-    "Mataram Jaya",
-    "Sumber Rejeki Mataram"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sriwijaya Mataram"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uman Agung Mataram"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Terbanggi Ilir (Terbanggi Besar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatidatar Mataram (Jati Datar Mataram)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sendang Agung Mataram"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mataram Udik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terbanggi Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mataram Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Rejeki Mataram"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Citalahab",
-    "Kadulimus",
-    "Bandung",
-    "Mogana",
-    "Banjar",
-    "Gunungputri",
-    "Cibodas",
-    "Kadubale",
-    "Cibeureum",
-    "Kadumaneuh",
-    "Pasirawi"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Citalahab"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadulimus"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mogana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunungputri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kadubale"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cibeureum"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kadumaneuh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pasirawi"
+    }
   ]
 }

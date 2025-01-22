@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Boeara",
-    "Kastarib",
-    "Boepinang",
-    "Boepinang Barat",
-    "Barangka (Barangga)",
-    "Kasabolo",
-    "Pukurumba (Pokorumba)",
-    "Pallimae",
-    "Salosa",
-    "Matiro Walie"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Boeara"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kastarib"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Boepinang"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Boepinang Barat"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Barangka (Barangga)"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Kasabolo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pukurumba (Pokorumba)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pallimae"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Salosa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Matiro Walie"
+    }
   ]
 }

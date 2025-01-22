@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Alam Kenanga",
-    "Alam Pelita",
-    "Jikohai (Jikohay)",
-    "Manatahan",
-    "Soa Sangaji (Soasangaji)",
-    "Tapa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alam Kenanga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alam Pelita"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jikohai (Jikohay)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manatahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Soa Sangaji (Soasangaji)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tapa"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tigaraksa",
-    "Kadu Agung",
-    "Pasir Bolang",
-    "Matagara (Mata Gara)",
-    "Pasir Nangka",
-    "Pete",
-    "Tegalsari",
-    "Pematang",
-    "Cisereh",
-    "Margasari (Marga Sari)",
-    "Cileles",
-    "Sodong",
-    "Tapos",
-    "Bantar Panjang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tigaraksa"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kadu Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasir Bolang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matagara (Mata Gara)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasir Nangka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pete"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pematang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cisereh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Margasari (Marga Sari)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cileles"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sodong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tapos"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bantar Panjang"
+    }
   ]
 }

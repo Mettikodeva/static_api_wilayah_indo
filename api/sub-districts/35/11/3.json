@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kembang",
-    "Gunosari",
-    "Trotosari",
-    "Jebung Kidul",
-    "Sulek",
-    "Tlogosari",
-    "Pakisan",
-    "Patemon",
-    "Jebung Lor",
-    "Brambang Darussalam (Brambang Darussolah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kembang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Trotosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jebung Kidul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sulek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tlogosari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakisan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jebung Lor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Brambang Darussalam (Brambang Darussolah)"
+    }
   ]
 }

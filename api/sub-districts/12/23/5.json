@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Marbau",
-    "Perkebunan Pernantian",
-    "Perkebunan Marbau Selatan",
-    "Perkebunan Milano",
-    "Perkebunan Brussel",
-    "Pulo Bargot",
-    "Sipare Pare Tengah",
-    "Sipare Pare Hilir",
-    "Tubiran",
-    "Belongkut",
-    "Simpang Empat",
-    "Babussalam",
-    "Marbau Selatan",
-    "Aek Tapa",
-    "Lobu Rampah",
-    "Bulung Gihit (Bulungihit)",
-    "Aek Hitetoras",
-    "Sumber Mulyo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Marbau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perkebunan Pernantian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Marbau Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Milano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Brussel"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulo Bargot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sipare Pare Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sipare Pare Hilir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tubiran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Belongkut"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Babussalam"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Marbau Selatan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Aek Tapa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lobu Rampah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bulung Gihit (Bulungihit)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Aek Hitetoras"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sumber Mulyo"
+    }
   ]
 }

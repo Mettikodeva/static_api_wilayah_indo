@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Olafulihaa",
-    "Nusakdale",
-    "Batulilok",
-    "Lenupetu",
-    "Sonimanu",
-    "Oebau",
-    "Oeledo",
-    "Keoen",
-    "Edalode",
-    "Tungganamo",
-    "Tesa Bela (Tesabela)",
-    "Lekona",
-    "Oenggae",
-    "Fatelilo",
-    "Ofalangga"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Olafulihaa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nusakdale"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batulilok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lenupetu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sonimanu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oebau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oeledo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keoen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Edalode"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tungganamo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tesa Bela (Tesabela)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lekona"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Oenggae"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Fatelilo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ofalangga"
+    }
   ]
 }

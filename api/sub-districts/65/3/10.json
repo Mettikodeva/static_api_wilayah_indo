@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sungai Nyamuk",
-    "Tanjung Harapan",
-    "Bukit Aru Indah",
-    "Tanjung Aru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Nyamuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Aru Indah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Aru"
+    }
   ]
 }

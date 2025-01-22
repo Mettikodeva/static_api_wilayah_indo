@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kupang Rejo",
-    "Sei/Sungai Pinang",
-    "Kahelaan",
-    "Rantau Nangka",
-    "Rantau Bakula",
-    "Belimbing Lama",
-    "Sumber Baru",
-    "Belimbing Baru",
-    "Pakutik",
-    "Sumber Harapan",
-    "Hakim Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kupang Rejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Pinang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kahelaan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Nangka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Bakula"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belimbing Lama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Belimbing Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pakutik"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumber Harapan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Hakim Makmur"
+    }
   ]
 }

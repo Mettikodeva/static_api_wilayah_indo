@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cisolok",
-    "Pasir Baru",
-    "Cikahuripan",
-    "Cikelat",
-    "Caringin",
-    "Gunungkaramat",
-    "Gunungtanjung",
-    "Karangpapak",
-    "Sirnaresmi",
-    "Cicadas",
-    "Wanajaya",
-    "Wangunsari",
-    "Sukarame"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisolok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasir Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikahuripan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikelat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunungkaramat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunungtanjung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangpapak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sirnaresmi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cicadas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wanajaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wangunsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukarame"
+    }
   ]
 }

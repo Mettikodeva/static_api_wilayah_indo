@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Batu Begigi",
-    "Loka Jaya",
-    "Suka Maju",
-    "Bina Jaya",
-    "Bina Karya",
-    "Madong Jaya (Madong Raya)",
-    "Bata Luar",
-    "Maris Permai",
-    "Pelita Kenaya (Pelita Kanaya)",
-    "Tanjung Beringin Raya",
-    "Tanjung Gunung",
-    "Keranjik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Begigi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Loka Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bina Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bina Karya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Madong Jaya (Madong Raya)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bata Luar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Maris Permai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pelita Kenaya (Pelita Kanaya)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjung Beringin Raya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tanjung Gunung"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Keranjik"
+    }
   ]
 }

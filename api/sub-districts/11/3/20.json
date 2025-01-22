@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Simpang Jernih",
-    "Batu Sumbang",
-    "Pante Kera",
-    "Rantau Panjang",
-    "Melidi",
-    "Tampor/Tampur Paloh",
-    "Tampor/Tampur Boor",
-    "Hti Ranto Naro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Jernih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Sumbang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pante Kera"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Melidi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tampor/Tampur Paloh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tampor/Tampur Boor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hti Ranto Naro"
+    }
   ]
 }

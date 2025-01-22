@@ -1,11 +1,32 @@
 {
   "cities": [
-    "Bintan",
-    "Karimun",
-    "Natuna",
-    "Lingga",
-    "Kepulauan Anambas",
-    "Batam",
-    "Tanjung Pinang"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Bintan"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Karimun"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Natuna"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Lingga"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Kepulauan Anambas"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Batam"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Tanjung Pinang"
+    }
   ]
 }

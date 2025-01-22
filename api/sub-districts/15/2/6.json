@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pamenang",
-    "Jelatang",
-    "Tanjung Gedang",
-    "Empang Benao",
-    "Rejo Sari (Rejosari)",
-    "Keroya",
-    "Muara/Muaro Belengo",
-    "Karang Berahi/Birahi",
-    "Pauh Menang",
-    "Pematang Kancil",
-    "Tanah Abang",
-    "Sialang",
-    "Sungai Udang",
-    "Pelakar Jaya"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pamenang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jelatang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Gedang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Empang Benao"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keroya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara/Muaro Belengo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karang Berahi/Birahi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pauh Menang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pematang Kancil"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanah Abang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sialang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sungai Udang"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Pelakar Jaya"
+    }
   ]
 }

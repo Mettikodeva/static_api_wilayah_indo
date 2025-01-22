@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Luar",
-    "Baru",
-    "Kalimango",
-    "Marente (Marenteh)",
-    "Juran Alas (Juranalas)",
-    "Dalam",
-    "Pulau Bungin",
-    "Labuhan Alas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Luar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalimango"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marente (Marenteh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Juran Alas (Juranalas)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dalam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulau Bungin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labuhan Alas"
+    }
   ]
 }

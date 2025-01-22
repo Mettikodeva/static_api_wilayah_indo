@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Maleku",
-    "Wonorejo",
-    "Margolembo",
-    "Teromu",
-    "Manggala",
-    "Kasintuwu",
-    "Balai Kembang",
-    "Panca Karsa",
-    "Sindu Agung",
-    "Wonorejo Timur",
-    "Koroncia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maleku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margolembo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teromu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manggala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kasintuwu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Balai Kembang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Panca Karsa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sindu Agung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wonorejo Timur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Koroncia"
+    }
   ]
 }

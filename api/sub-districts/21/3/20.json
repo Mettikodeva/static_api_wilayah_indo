@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Batubi Jaya",
-    "Gunung Putri",
-    "Sedarat Baru",
-    "Sedanau Timur",
-    "Semedang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batubi Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Putri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sedarat Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sedanau Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semedang"
+    }
   ]
 }

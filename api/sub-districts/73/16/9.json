@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Malua",
-    "Bonto",
-    "Tallung Tondok",
-    "Rante Mario",
-    "Tangru",
-    "Kolai",
-    "Dulang",
-    "Buntu Batuan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Malua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bonto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tallung Tondok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rante Mario"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tangru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kolai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dulang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buntu Batuan"
+    }
   ]
 }

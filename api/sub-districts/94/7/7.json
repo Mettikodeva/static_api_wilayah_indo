@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ugimba",
-    "Bunaopa",
-    "Pigabu",
-    "Teteopa",
-    "Dukendopa",
-    "Nggamagae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ugimba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bunaopa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pigabu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teteopa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dukendopa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nggamagae"
+    }
   ]
 }

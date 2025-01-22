@@ -1,44 +1,164 @@
 {
   "sub_districts": [
-    "Keude Lapang",
-    "Lapang Barat",
-    "Lingka Kuta",
-    "Lapang Timu (Lapang Timur)",
-    "Teupin Siron",
-    "Ie Rhop (Ie Rhob)",
-    "Ceubo",
-    "Paloh Me",
-    "Lhok Mambang",
-    "Samuti Krueng",
-    "Cot Mane",
-    "Samuti Makmur",
-    "Samuti Rayeuk",
-    "Cot Puuk",
-    "Samuti Aman",
-    "Alue Mangki",
-    "Mon Keulayu",
-    "Geurugok",
-    "Blang Kede (Blang Keude)",
-    "Cot Tufah/Tupah",
-    "Cot Tunong",
-    "Paya Baro",
-    "Paloh Kaye Kunyet (Paloh Kayee Kunyet)",
-    "Cot Jabet",
-    "Cot Tube/Teubee",
-    "Pante Sikeumbong (Sikumbong)",
-    "Blang Guron",
-    "Dama Kawan",
-    "Paya Seupat",
-    "Cot Rambat",
-    "Paya Kareung",
-    "Mon Jeurujak (Mon Jeureujak)",
-    "Tanjong Raya",
-    "Tanjong Mesjid",
-    "Blang Kubu",
-    "Tanjong Bungong",
-    "Pulo Gisa",
-    "Ujong Bayu",
-    "Mon Jambe (Mon Jambee)",
-    "Blang Rheue"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Lapang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lapang Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lingka Kuta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lapang Timu (Lapang Timur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teupin Siron"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ie Rhop (Ie Rhob)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ceubo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paloh Me"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lhok Mambang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Samuti Krueng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cot Mane"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Samuti Makmur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Samuti Rayeuk"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cot Puuk"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Samuti Aman"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Alue Mangki"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mon Keulayu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Geurugok"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Blang Kede (Blang Keude)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Cot Tufah/Tupah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cot Tunong"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Paya Baro"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Paloh Kaye Kunyet (Paloh Kayee Kunyet)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Cot Jabet"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Cot Tube/Teubee"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pante Sikeumbong (Sikumbong)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Blang Guron"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Dama Kawan"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Paya Seupat"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Cot Rambat"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Paya Kareung"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Mon Jeurujak (Mon Jeureujak)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Tanjong Raya"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Tanjong Mesjid"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Blang Kubu"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tanjong Bungong"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Pulo Gisa"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Ujong Bayu"
+    },
+    {
+      "sub_district_id": 2078,
+      "desa_kelurahan": "Mon Jambe (Mon Jambee)"
+    },
+    {
+      "sub_district_id": 2079,
+      "desa_kelurahan": "Blang Rheue"
+    }
   ]
 }

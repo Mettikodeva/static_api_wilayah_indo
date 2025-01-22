@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sanggaran Agung",
-    "Kota Baru Sanggaran",
-    "Pendung Talang (Pendung Talang Genting)",
-    "Seleman",
-    "Tebing Tinggi",
-    "Cupak",
-    "Tanjungtanah (Tanjung Tanah)",
-    "Koto Tengah",
-    "Simpang Empat",
-    "Talang Kemulun",
-    "Dusun Baru Tanjung",
-    "Pasar Sore Seleman",
-    "Tanjungharapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sanggaran Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kota Baru Sanggaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pendung Talang (Pendung Talang Genting)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seleman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cupak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungtanah (Tanjung Tanah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Tengah"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talang Kemulun"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dusun Baru Tanjung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pasar Sore Seleman"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjungharapan"
+    }
   ]
 }

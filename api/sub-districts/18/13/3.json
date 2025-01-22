@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanjung Jati",
-    "Tanjung Sakti",
-    "Way Batang",
-    "Lemong",
-    "Cahaya Negeri",
-    "Malaya",
-    "Bambang",
-    "Pagar Dalam",
-    "Bandar Pugung",
-    "Penengahan (Pengehan)",
-    "Rata Agung",
-    "Sukamulya (Suka Mulya)",
-    "Parda Haga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Jati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Sakti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Way Batang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lemong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cahaya Negeri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bambang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagar Dalam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandar Pugung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Penengahan (Pengehan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rata Agung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukamulya (Suka Mulya)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Parda Haga"
+    }
   ]
 }

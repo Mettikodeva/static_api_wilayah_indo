@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sidodadi",
-    "Karangmalang (Karang Malang)",
-    "Krebet",
-    "Sepat",
-    "Jirapan",
-    "Gebang",
-    "Dawungan",
-    "Masaran",
-    "Jati",
-    "Kliwonan",
-    "Pilang",
-    "Pringanom",
-    "Krikilan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangmalang (Karang Malang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Krebet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sepat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jirapan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dawungan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Masaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kliwonan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pilang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pringanom"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Krikilan"
+    }
   ]
 }

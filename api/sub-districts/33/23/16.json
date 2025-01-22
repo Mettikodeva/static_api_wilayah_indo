@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bansari",
-    "Mojosari",
-    "Rejosari",
-    "Gunungsari",
-    "Balesari",
-    "Purborejo",
-    "Tlogowero",
-    "Mranggen Kidul",
-    "Mranggen Tengah",
-    "Candisari",
-    "Campuranom",
-    "Gentingsari",
-    "Tanurejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bansari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mojosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balesari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purborejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tlogowero"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mranggen Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mranggen Tengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Candisari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Campuranom"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gentingsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanurejo"
+    }
   ]
 }

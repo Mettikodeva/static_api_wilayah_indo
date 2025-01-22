@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bomo",
-    "Sooka",
-    "Punung",
-    "Mendolo Kidul",
-    "Piton",
-    "Kendal",
-    "Wareng",
-    "Mantren",
-    "Mendolo Lor",
-    "Ploso",
-    "Gondosari",
-    "Kebonsari",
-    "Tinatar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bomo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sooka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Punung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mendolo Kidul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Piton"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kendal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wareng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mantren"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mendolo Lor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ploso"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gondosari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tinatar"
+    }
   ]
 }

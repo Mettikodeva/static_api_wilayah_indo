@@ -1,25 +1,112 @@
 {
   "cities": [
-    "Bogor",
-    "Sukabumi",
-    "Cianjur",
-    "Bandung",
-    "Garut",
-    "Tasikmalaya",
-    "Ciamis",
-    "Kuningan",
-    "Cirebon",
-    "Majalengka",
-    "Sumedang",
-    "Indramayu",
-    "Subang",
-    "Purwakarta",
-    "Karawang",
-    "Bekasi",
-    "Bandung Barat",
-    "Pangandaran",
-    "Depok",
-    "Cimahi",
-    "Banjar"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Bogor"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Sukabumi"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Cianjur"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Bandung"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Garut"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Tasikmalaya"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Ciamis"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Kuningan"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Cirebon"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Majalengka"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Sumedang"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Indramayu"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Subang"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Purwakarta"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Karawang"
+    },
+    {
+      "city_id": 16,
+      "kabupaten_kota": "Bekasi"
+    },
+    {
+      "city_id": 17,
+      "kabupaten_kota": "Bandung Barat"
+    },
+    {
+      "city_id": 18,
+      "kabupaten_kota": "Pangandaran"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Bogor"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Sukabumi"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Bandung"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Cirebon"
+    },
+    {
+      "city_id": 75,
+      "kabupaten_kota": "Bekasi"
+    },
+    {
+      "city_id": 76,
+      "kabupaten_kota": "Depok"
+    },
+    {
+      "city_id": 77,
+      "kabupaten_kota": "Cimahi"
+    },
+    {
+      "city_id": 78,
+      "kabupaten_kota": "Tasikmalaya"
+    },
+    {
+      "city_id": 79,
+      "kabupaten_kota": "Banjar"
+    }
   ]
 }

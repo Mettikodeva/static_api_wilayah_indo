@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Marindi",
-    "Wirang",
-    "Bongkang",
-    "Nawin",
-    "Halong",
-    "Hayup",
-    "Kembang Kuning (Kembangkuning)",
-    "Seradang",
-    "Mahe Pasar",
-    "Lok Batu",
-    "Suput",
-    "Surian",
-    "Catur Karya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marindi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wirang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bongkang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nawin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Halong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hayup"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kembang Kuning (Kembangkuning)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Seradang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mahe Pasar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lok Batu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suput"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Surian"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Catur Karya"
+    }
   ]
 }

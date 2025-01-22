@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Metro",
-    "Hadimulyo Timur",
-    "Imopuro",
-    "Hadimulyo Barat",
-    "Yosomulyo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Metro"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Hadimulyo Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Imopuro"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Hadimulyo Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Yosomulyo"
+    }
   ]
 }

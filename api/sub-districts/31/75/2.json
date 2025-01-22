@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pulo Gadung",
-    "Pisangan Timur",
-    "Cipinang",
-    "Jatinegara Kaum",
-    "Rawamangun",
-    "Kayu Putih",
-    "Jati"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulo Gadung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pisangan Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cipinang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jatinegara Kaum"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rawamangun"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kayu Putih"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jati"
+    }
   ]
 }

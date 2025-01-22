@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Piramid",
-    "Yonggime",
-    "Perabaga",
-    "Algonik",
-    "Yalinggume",
-    "Aboneri",
-    "Gobalimo",
-    "Balima",
-    "Yumbun",
-    "Beam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Piramid"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yonggime"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perabaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Algonik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yalinggume"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aboneri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gobalimo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balima"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yumbun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Beam"
+    }
   ]
 }

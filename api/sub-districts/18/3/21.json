@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sinar Harapan",
-    "Kubu Hitu (Kubuhitu)",
-    "Negeri Sakti",
-    "Tanjung Jaya",
-    "Gunung Raja",
-    "Cahaya Mas",
-    "Comok Sinar Jaya",
-    "Way Isem",
-    "Gunung Maknibai",
-    "Negeri Batin Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sinar Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kubu Hitu (Kubuhitu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Negeri Sakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Raja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cahaya Mas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Comok Sinar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Way Isem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Maknibai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Negeri Batin Jaya"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bunut",
-    "Bunut Seberang",
-    "Wates Way Ratai",
-    "Ceringin Asri (Ceringin Sari)",
-    "Sumber Jaya",
-    "Mulyo Sari",
-    "Poncorejo",
-    "Gunung Rejo",
-    "Pesawaran Indah",
-    "Harapan Jaya",
-    "Kalirejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bunut Seberang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wates Way Ratai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ceringin Asri (Ceringin Sari)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulyo Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Poncorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Rejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pesawaran Indah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalirejo"
+    }
   ]
 }

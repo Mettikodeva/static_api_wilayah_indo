@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bonebone (Bone-Bone)",
-    "Tarafu",
-    "Wameo",
-    "Kaobula",
-    "Lanto",
-    "Nganganaumala"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bonebone (Bone-Bone)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tarafu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wameo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kaobula"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lanto"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Nganganaumala"
+    }
   ]
 }

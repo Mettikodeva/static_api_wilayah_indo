@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tegalrejo",
-    "Bulurejo",
-    "Purorejo",
-    "Tempurejo (Tempurrejo)",
-    "Tempursari",
-    "Pundungsari",
-    "Kaliuling"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tegalrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bulurejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tempurejo (Tempurrejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tempursari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pundungsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaliuling"
+    }
   ]
 }

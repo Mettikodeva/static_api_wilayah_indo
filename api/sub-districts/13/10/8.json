@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tiumang",
-    "Sei/Sungai Langkok",
-    "Koto Beringin (Koto Baringin)",
-    "Sipangkur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tiumang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Langkok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Beringin (Koto Baringin)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sipangkur"
+    }
   ]
 }

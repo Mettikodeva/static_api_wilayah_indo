@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Negeri Ratu Ngaras",
-    "Kota Batu",
-    "Mulang Maya",
-    "Rajabasa",
-    "Pardasuka",
-    "Padang Alam",
-    "Suka Maju",
-    "Sukarame",
-    "Bandar Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Ratu Ngaras"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mulang Maya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rajabasa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pardasuka"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Padang Alam"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bandar Jaya"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sumarorong",
-    "Tabone",
-    "Batang Uru",
-    "Sasakan",
-    "Tadisi",
-    "Sibanawa",
-    "Batangnguru Timur",
-    "Salubalo",
-    "Banea",
-    "Rante Kamase"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sumarorong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tabone"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batang Uru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sasakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tadisi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sibanawa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batangnguru Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salubalo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banea"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rante Kamase"
+    }
   ]
 }

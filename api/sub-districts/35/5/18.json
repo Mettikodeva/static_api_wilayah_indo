@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Slorok",
-    "Suru",
-    "Plumbangan",
-    "Sumberurip (Sumber Urip)",
-    "Genengan",
-    "Doko",
-    "Jambepawon",
-    "Sidorejo",
-    "Resapombo",
-    "Kalimanis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Slorok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Plumbangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberurip (Sumber Urip)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Genengan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Doko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jambepawon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Resapombo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalimanis"
+    }
   ]
 }

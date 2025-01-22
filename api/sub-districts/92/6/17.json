@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Masyeta",
-    "Maestofu (Mestofu)",
-    "Kalibiru",
-    "Mesomda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Masyeta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maestofu (Mestofu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalibiru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mesomda"
+    }
   ]
 }

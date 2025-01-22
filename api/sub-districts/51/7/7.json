@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Muncan",
-    "Selat",
-    "Duda",
-    "Sebudi",
-    "Duda Utara",
-    "Duda Timur",
-    "Pering Sari",
-    "Amerta Bhuana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muncan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Duda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sebudi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Duda Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Duda Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pering Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Amerta Bhuana"
+    }
   ]
 }

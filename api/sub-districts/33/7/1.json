@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Wadaslintang (Wadas Lintang)",
-    "Kaligowong",
-    "Sumbersari",
-    "Sumberejo",
-    "Erorejo",
-    "Karanganyar (Karang Anyar)",
-    "Panerusan",
-    "Plunjaran",
-    "Kumejing",
-    "Lancar",
-    "Somogede",
-    "Trimulyo",
-    "Tirip",
-    "Besuki",
-    "Gumelar",
-    "Ngalian",
-    "Kalidadap"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wadaslintang (Wadas Lintang)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaligowong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Erorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanganyar (Karang Anyar)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panerusan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Plunjaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kumejing"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lancar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Somogede"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Trimulyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tirip"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Besuki"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gumelar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngalian"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kalidadap"
+    }
   ]
 }

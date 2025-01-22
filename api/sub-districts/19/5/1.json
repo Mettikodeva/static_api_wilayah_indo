@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung",
-    "Sungai Daeng",
-    "Sungai Baru",
-    "Keranggan",
-    "Menjelang",
-    "Air Putih",
-    "Air Belo",
-    "Belo Laut (Belolaut)",
-    "Air Limau"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sungai Daeng"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sungai Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Keranggan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Menjelang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Putih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Belo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belo Laut (Belolaut)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Limau"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Berua",
-    "Esiwa",
-    "Dahana Hiligodu",
-    "Hilibanua",
-    "Sisarahili",
-    "Sisobahili",
-    "Lasara",
-    "Namohalu",
-    "Tuhenakhe I",
-    "Orahili",
-    "Banua Sibohou"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Berua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Esiwa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dahana Hiligodu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hilibanua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sisarahili"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sisobahili"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lasara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Namohalu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tuhenakhe I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Orahili"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banua Sibohou"
+    }
   ]
 }

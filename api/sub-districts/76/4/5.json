@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Taramanu",
-    "Ambopadang (Ambo Padang)",
-    "Tubbi",
-    "Ratte",
-    "Besoangin",
-    "Piriang Tapiko",
-    "Peburru",
-    "Taloba",
-    "Pollewani",
-    "Arabua",
-    "Besoangin Utara",
-    "Poda",
-    "Taramanu Tua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Taramanu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ambopadang (Ambo Padang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tubbi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ratte"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Besoangin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Piriang Tapiko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Peburru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Taloba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pollewani"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Arabua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Besoangin Utara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Poda"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Taramanu Tua"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Maospati",
-    "Kraton",
-    "Mranggen",
-    "Sugihwaras",
-    "Tanjungsepreh",
-    "Gulun",
-    "Malang",
-    "Klagen Gambiran",
-    "Pandeyan",
-    "Suratmajan",
-    "Ronowijayan",
-    "Ngujung",
-    "Sumberejo",
-    "Pesu",
-    "Sempol"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Maospati"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kraton"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Mranggen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sugihwaras"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungsepreh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gulun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klagen Gambiran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pandeyan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suratmajan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ronowijayan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngujung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pesu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sempol"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Perlak",
-    "Rerebe",
-    "Pasir",
-    "Setul",
-    "UPT. Paya Kumer (Paya Kumer)",
-    "UPT. Pantan Kela (Pantan Kela)",
-    "Buntul Musara",
-    "Kuala Jernih",
-    "Uyem Beriring",
-    "Pulo Gelime"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perlak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rerebe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Setul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "UPT. Paya Kumer (Paya Kumer)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "UPT. Pantan Kela (Pantan Kela)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buntul Musara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuala Jernih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uyem Beriring"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulo Gelime"
+    }
   ]
 }

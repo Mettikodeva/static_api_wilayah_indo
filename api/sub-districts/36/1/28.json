@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Banjarmasin",
-    "Carita",
-    "Sukarame",
-    "Sukanegara (Sukanagara)",
-    "Cinoyong",
-    "Pejamben",
-    "Sukajadi",
-    "Kawoyang",
-    "Tembong",
-    "Sindanglaut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjarmasin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Carita"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukanegara (Sukanagara)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cinoyong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pejamben"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kawoyang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tembong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sindanglaut"
+    }
   ]
 }

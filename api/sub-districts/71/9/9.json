@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Salili",
-    "Beong",
-    "Lai",
-    "Dompase"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salili"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dompase"
+    }
   ]
 }

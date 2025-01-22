@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bulu-Bulu",
-    "Gareccing",
-    "Biccoing",
-    "Ujunge",
-    "Libureng",
-    "Rappa",
-    "Bacu",
-    "Muara",
-    "Bone Pute (Bonepute)",
-    "Padatuo",
-    "Samaenre"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulu-Bulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gareccing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biccoing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ujunge"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Libureng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rappa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bacu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bone Pute (Bonepute)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padatuo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Samaenre"
+    }
   ]
 }

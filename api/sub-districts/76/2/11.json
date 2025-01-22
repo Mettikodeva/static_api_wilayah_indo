@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tommo",
-    "Campaloga",
-    "Buana Sakti",
-    "Tamemongga",
-    "Tamejarra (Tammejarra)",
-    "Rantemario (Rante Mario)",
-    "Malino",
-    "Kakullasang (Kakulasang / Kakullasan)",
-    "Leling",
-    "Kalepu",
-    "Sandana",
-    "Leling Barat",
-    "Leling Utara",
-    "Saludengen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tommo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Campaloga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buana Sakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tamemongga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamejarra (Tammejarra)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantemario (Rante Mario)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malino"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kakullasang (Kakulasang / Kakullasan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Leling"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalepu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sandana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Leling Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Leling Utara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Saludengen"
+    }
   ]
 }

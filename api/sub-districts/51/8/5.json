@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sukasada",
-    "Pancasari",
-    "Wanagiri",
-    "Ambengan",
-    "Gitgit",
-    "Pegayaman",
-    "Silangjana",
-    "Pegadungan",
-    "Padangbulia",
-    "Sambangan",
-    "Panji",
-    "Panji Anom",
-    "Tegallinggah (Tegal Linggah / Tegalinggah)",
-    "Selat",
-    "Kayu Putih (Kayuputih)"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sukasada"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pancasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanagiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ambengan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gitgit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pegayaman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silangjana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pegadungan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padangbulia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sambangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panji"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Panji Anom"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tegallinggah (Tegal Linggah / Tegalinggah)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Selat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kayu Putih (Kayuputih)"
+    }
   ]
 }

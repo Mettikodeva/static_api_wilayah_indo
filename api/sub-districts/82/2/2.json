@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wailegi",
-    "Kipai",
-    "Yeisowo",
-    "Yondeliu",
-    "Baka Jaya"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wailegi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kipai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yeisowo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Yondeliu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Baka Jaya"
+    }
   ]
 }

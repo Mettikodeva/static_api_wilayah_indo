@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Karasak",
-    "Nyengseret",
-    "Karanganyar",
-    "Panjunan",
-    "Cibadak",
-    "Pelindung Hewan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karasak"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nyengseret"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panjunan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pelindung Hewan"
+    }
   ]
 }

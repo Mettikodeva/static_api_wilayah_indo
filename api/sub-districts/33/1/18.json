@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Caruy",
-    "Segaralangu",
-    "Pegadingan",
-    "Cisuru",
-    "Cipari",
-    "Serang",
-    "Mulyadadi",
-    "Mekarsari",
-    "Kutasari",
-    "Karangreja",
-    "Sidasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Caruy"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Segaralangu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pegadingan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cisuru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Serang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulyadadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kutasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangreja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidasari"
+    }
   ]
 }

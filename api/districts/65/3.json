@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Sebatik",
-    "Nunukan",
-    "Sembakung",
-    "Lumbis",
-    "Krayan",
-    "Sebuku",
-    "Krayan Selatan",
-    "Sebatik Barat",
-    "Nunukan Selatan",
-    "Sebatik Timur",
-    "Sebatik Utara",
-    "Sebatik Tengah",
-    "Sei Menggaris",
-    "Tulin Onsoi",
-    "Lumbis Ogong",
-    "Sembakung Atulai",
-    "Krayan Tengah",
-    "Krayan Timur",
-    "Krayan Barat",
-    "Lumbis Pansiangan",
-    "Lumbis Hulu"
+    {
+      "district_id": 1,
+      "kecamatan": "Sebatik"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Nunukan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sembakung"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lumbis"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Krayan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sebuku"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Krayan Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sebatik Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Nunukan Selatan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sebatik Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sebatik Utara"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sebatik Tengah"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Sei Menggaris"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tulin Onsoi"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Lumbis Ogong"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Sembakung Atulai"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Krayan Tengah"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Krayan Timur"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Krayan Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Lumbis Pansiangan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Lumbis Hulu"
+    }
   ]
 }

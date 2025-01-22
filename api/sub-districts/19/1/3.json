@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batu Rusa (Baturusa)",
-    "Balun Ijuk",
-    "Riding Panjang",
-    "Jurung",
-    "Kimak",
-    "Pagarawan",
-    "Merawang",
-    "Air Anyir",
-    "Dwi Makmur",
-    "Jada Bahrin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Rusa (Baturusa)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balun Ijuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Riding Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kimak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagarawan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Merawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Anyir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dwi Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jada Bahrin"
+    }
   ]
 }

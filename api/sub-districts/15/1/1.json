@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lempur Tengah",
-    "Selam Paung (Selampaung)",
-    "Air Mumu",
-    "Lempur Mudik",
-    "Masgo",
-    "Lempur Hilir",
-    "Kebun Baru",
-    "Perikan Tengah",
-    "Dusun Baru Lempur",
-    "Sungaihangat (Sungai Hangat)",
-    "Manjunto Lempur",
-    "Kebun Lima"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lempur Tengah"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selam Paung (Selampaung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Mumu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lempur Mudik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Masgo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lempur Hilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kebun Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Perikan Tengah"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dusun Baru Lempur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sungaihangat (Sungai Hangat)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Manjunto Lempur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kebun Lima"
+    }
   ]
 }

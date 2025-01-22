@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Alastuwo",
-    "Poncol",
-    "Gonggang",
-    "Janggan",
-    "Genilangit",
-    "Plangkrongan",
-    "Cileng",
-    "Sombo"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Alastuwo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Poncol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gonggang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Janggan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Genilangit"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Plangkrongan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cileng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sombo"
+    }
   ]
 }

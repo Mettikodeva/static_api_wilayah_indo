@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bangkeh",
-    "Pucok",
-    "Leupu",
-    "Pulo Loih/Lhoh",
-    "Keune"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangkeh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pucok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Leupu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulo Loih/Lhoh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keune"
+    }
   ]
 }

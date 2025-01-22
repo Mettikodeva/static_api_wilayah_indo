@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kresikan",
-    "Jengglungharjo",
-    "Ngrejo",
-    "Tanggunggunung",
-    "Ngepoh",
-    "Tenggarejo",
-    "Pakisrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kresikan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jengglungharjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanggunggunung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngepoh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tenggarejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakisrejo"
+    }
   ]
 }

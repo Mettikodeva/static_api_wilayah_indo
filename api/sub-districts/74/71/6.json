@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Puday (Pudai)",
-    "Lapulu",
-    "Abeli",
-    "Benuanirae (Benua Nirae)",
-    "Anggalomelai (Anggolomelai)",
-    "Talia",
-    "Poasia"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Puday (Pudai)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lapulu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Abeli"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Benuanirae (Benua Nirae)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Anggalomelai (Anggolomelai)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Talia"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Poasia"
+    }
   ]
 }

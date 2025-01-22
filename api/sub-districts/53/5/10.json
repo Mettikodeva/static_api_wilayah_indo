@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kabola",
-    "Kopidil",
-    "Pante Deere",
-    "Lawahing",
-    "Alila Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kabola"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kopidil"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pante Deere"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lawahing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alila Timur"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Palintuma",
-    "Gimpubia",
-    "Dangara'a (Dangaraa)",
-    "Bambakanini",
-    "Bambakaenu",
-    "Tomodo (Tamodo)",
-    "Kanagalongga",
-    "Karavia",
-    "Tavanggeli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palintuma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gimpubia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dangara'a (Dangaraa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bambakanini"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bambakaenu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tomodo (Tamodo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kanagalongga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karavia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tavanggeli"
+    }
   ]
 }

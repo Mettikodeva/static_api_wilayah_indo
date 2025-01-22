@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lalang Luas",
-    "Resno (Rasno)",
-    "Pondok Panjang",
-    "Talang Petai",
-    "Sungai Lintang",
-    "Pondok Tengah",
-    "Talang Sakti",
-    "Talang Sepakat",
-    "Lubuk Cabau",
-    "Sungai Rengas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lalang Luas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Resno (Rasno)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pondok Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Petai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Lintang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pondok Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Sakti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talang Sepakat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk Cabau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Rengas"
+    }
   ]
 }

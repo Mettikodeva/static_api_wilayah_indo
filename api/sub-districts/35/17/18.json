@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bandarkedungmulyo (Bandar Kedung Mulyo)",
-    "Mojokambang",
-    "Barongsawahan (Barong Sawahan)",
-    "Kayen",
-    "Gondangmanis (Gondang Manis)",
-    "Brodot",
-    "Pucangsimo (Pucang Simo)",
-    "Banjarsari (Banjar Sari)",
-    "Brangkal",
-    "Karangdagangan (Karang Dagangan)",
-    "Tinggar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandarkedungmulyo (Bandar Kedung Mulyo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mojokambang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barongsawahan (Barong Sawahan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kayen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gondangmanis (Gondang Manis)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Brodot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pucangsimo (Pucang Simo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjarsari (Banjar Sari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Brangkal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangdagangan (Karang Dagangan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tinggar"
+    }
   ]
 }

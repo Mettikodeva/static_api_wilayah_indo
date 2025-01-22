@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Poopo",
-    "Ranoyapo (Ranoiapo)",
-    "Mopolo",
-    "Beringin",
-    "Powalutan",
-    "Lompad",
-    "Lompad Baru",
-    "Pontak",
-    "Poopo Utara",
-    "Poopo Barat",
-    "Pontak Satu",
-    "Mopolo Esa"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Poopo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ranoyapo (Ranoiapo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mopolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Powalutan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lompad"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lompad Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pontak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Poopo Utara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Poopo Barat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pontak Satu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mopolo Esa"
+    }
   ]
 }

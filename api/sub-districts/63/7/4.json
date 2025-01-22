@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Parumahan (Perumahan)",
-    "Kasarangan",
-    "Banua Kupang",
-    "Ranatu Kaminting (Rantau Keminting)",
-    "Pemangkih",
-    "Pemangkih Seberang",
-    "Binjai Pemangkih",
-    "Samhurang (Kupang Samhurang)",
-    "Pahalatan",
-    "Mantaas",
-    "Sei/Sungai Buluh",
-    "Kadundung",
-    "Tungkup",
-    "Tabat",
-    "Rantau Bujur",
-    "Binjai Pirua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parumahan (Perumahan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kasarangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banua Kupang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranatu Kaminting (Rantau Keminting)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pemangkih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pemangkih Seberang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Binjai Pemangkih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Samhurang (Kupang Samhurang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pahalatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mantaas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei/Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kadundung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tungkup"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tabat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rantau Bujur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Binjai Pirua"
+    }
   ]
 }

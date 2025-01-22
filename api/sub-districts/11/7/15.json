@@ -1,52 +1,196 @@
 {
   "sub_districts": [
-    "Dua Paya",
-    "Cot Meulu",
-    "Dayah Bubue",
-    "Tanjong Hagu",
-    "Sumboe Buga",
-    "Rambayan Kupula",
-    "Rambayan Lueng",
-    "Cempala Kuneng",
-    "Peunayong",
-    "Leuhop",
-    "Kumbang waido",
-    "Gampong waido",
-    "Mee Krukon",
-    "Mee Lampoh Saka",
-    "Lueng Guci Rumpong",
-    "Dayah Seumideun",
-    "Mesjid Guci Rumpong",
-    "Reuba Waido",
-    "Dayah Tungku",
-    "Jurong Raya",
-    "Balee Restong",
-    "Lueng Mesjid",
-    "Teungoh Baroh",
-    "Mee Hagu",
-    "Dayah Sukon",
-    "Blang Raya",
-    "Balee Pineung (Balee)",
-    "Menje Mesjid",
-    "Me Tanoh",
-    "Sialet-Alet",
-    "Bluek Arab (Bluk Arab)",
-    "Puuk",
-    "Dayah Muara",
-    "Sawiet",
-    "Ulee Tutue",
-    "Jim",
-    "Keutapang",
-    "Meuleuweuk",
-    "Jurong",
-    "Raya Krueng Seumideun",
-    "Sukon Krueng Seumideun",
-    "Mee Krueng Seumideun",
-    "Blang Krueng Seumideun",
-    "Keurumbok",
-    "Ulee Cot Seupeng",
-    "Kabat",
-    "Blang Seupeng (Kampong Blang Seupeng)",
-    "Gampong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dua Paya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cot Meulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dayah Bubue"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjong Hagu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumboe Buga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rambayan Kupula"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rambayan Lueng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cempala Kuneng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Peunayong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Leuhop"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kumbang waido"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gampong waido"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mee Krukon"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mee Lampoh Saka"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lueng Guci Rumpong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dayah Seumideun"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mesjid Guci Rumpong"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Reuba Waido"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dayah Tungku"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Jurong Raya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Balee Restong"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lueng Mesjid"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Teungoh Baroh"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Mee Hagu"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Dayah Sukon"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Blang Raya"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Balee Pineung (Balee)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Menje Mesjid"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Me Tanoh"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sialet-Alet"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Bluek Arab (Bluk Arab)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Puuk"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Dayah Muara"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Sawiet"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Ulee Tutue"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Jim"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Keutapang"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Meuleuweuk"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Jurong"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Raya Krueng Seumideun"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Sukon Krueng Seumideun"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Mee Krueng Seumideun"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Blang Krueng Seumideun"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Keurumbok"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Ulee Cot Seupeng"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Kabat"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Blang Seupeng (Kampong Blang Seupeng)"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Gampong"
+    }
   ]
 }

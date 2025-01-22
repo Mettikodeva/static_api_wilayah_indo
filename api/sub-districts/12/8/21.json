@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kerasaan I",
-    "Pematang Bandar",
-    "Purwosari",
-    "Talun Madear",
-    "Mariah Bandar",
-    "Kandangan",
-    "Pardomuan Nauli",
-    "Purba Ganda",
-    "Kerasaan II",
-    "Bandar Manis",
-    "Wana Rejo",
-    "Talun Rejo",
-    "Purwodadi"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kerasaan I"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pematang Bandar"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talun Madear"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mariah Bandar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pardomuan Nauli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purba Ganda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kerasaan II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bandar Manis"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wana Rejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Talun Rejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Purwodadi"
+    }
   ]
 }

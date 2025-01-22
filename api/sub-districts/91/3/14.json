@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sarmai Atas",
-    "Sarmai Bawah",
-    "Sanggai",
-    "Yakasib (Yakasip/Yokasib)",
-    "Besum",
-    "Imestum (Imustum)",
-    "Karya Bumi",
-    "Hanggaiy Hamong",
-    "Sumbe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarmai Atas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sarmai Bawah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sanggai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yakasib (Yakasip/Yokasib)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Besum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Imestum (Imustum)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Bumi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hanggaiy Hamong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumbe"
+    }
   ]
 }

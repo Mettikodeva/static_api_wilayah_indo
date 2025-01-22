@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tampawulu (Tanpabulu)",
-    "Tanah Poleang",
-    "Karya Baru",
-    "Toburi",
-    "Rompu Rompu",
-    "Pulau Ea (Es)",
-    "Lawatu Ea (Es)",
-    "Wambarema"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tampawulu (Tanpabulu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanah Poleang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karya Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Toburi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rompu Rompu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulau Ea (Es)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lawatu Ea (Es)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wambarema"
+    }
   ]
 }

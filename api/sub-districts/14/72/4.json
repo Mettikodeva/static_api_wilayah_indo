@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lubuk Gaung",
-    "Tanjung Penyebal (Tanjung Penyembal)",
-    "Bangsal Aceh",
-    "Basilam Baru",
-    "Batu Teritip",
-    "Sungai Geniot"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lubuk Gaung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Penyebal (Tanjung Penyembal)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bangsal Aceh"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Basilam Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Batu Teritip"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sungai Geniot"
+    }
   ]
 }

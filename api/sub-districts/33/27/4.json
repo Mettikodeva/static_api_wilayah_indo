@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tlagasana",
-    "Tundagan",
-    "Bongas",
-    "Cikadu",
-    "Cawet",
-    "Medayu",
-    "Pagelaran",
-    "Bodas",
-    "Jojogan",
-    "Majalangu",
-    "Tambi",
-    "Watukumpul",
-    "Gapura",
-    "Majakerta",
-    "Wisnu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tlagasana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tundagan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bongas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikadu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cawet"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Medayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagelaran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bodas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jojogan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Majalangu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watukumpul"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gapura"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Majakerta"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wisnu"
+    }
   ]
 }

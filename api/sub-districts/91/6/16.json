@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sandou (Sandau)",
-    "Bruyadori",
-    "Dafi",
-    "Amberparem (Amperem)",
-    "Mandori",
-    "Duai",
-    "Mandori Sup",
-    "Kamumi",
-    "Arimi Jaya",
-    "Warbukor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sandou (Sandau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bruyadori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dafi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amberparem (Amperem)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mandori"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Duai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mandori Sup"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kamumi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Arimi Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Warbukor"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Padang Mas",
-    "Lau Cimba",
-    "Gung Leto",
-    "Gung Negeri",
-    "Kampung Dalam",
-    "Rumah Kabanjahe",
-    "Kaban",
-    "Ketaren",
-    "Samura",
-    "Lau Simomo (Lausimono)",
-    "Sumber Mufakat",
-    "Kandibata",
-    "Kacaribu"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Padang Mas"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lau Cimba"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Gung Leto"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Gung Negeri"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kampung Dalam"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rumah Kabanjahe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaban"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ketaren"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Samura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lau Simomo (Lausimono)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Mufakat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kandibata"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kacaribu"
+    }
   ]
 }

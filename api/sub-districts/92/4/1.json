@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kaibus",
-    "Kohoin",
-    "Wersar",
-    "Wehali",
-    "Aibobor",
-    "Wermit",
-    "Keyen",
-    "Siribau",
-    "Magis",
-    "Tegirolo",
-    "Wernas",
-    "Tapiri",
-    "Gorolo",
-    "Nambro",
-    "Seyolo",
-    "Ani Sesna"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kaibus"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kohoin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wersar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wehali"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aibobor"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wermit"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Keyen"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Siribau"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Magis"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tegirolo"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Wernas"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Tapiri"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Gorolo"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Nambro"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Seyolo"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Ani Sesna"
+    }
   ]
 }

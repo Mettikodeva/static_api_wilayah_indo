@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasar Liwa",
-    "Way Mengaku",
-    "Kubu Perahu",
-    "Padang Cahya",
-    "Sebarus",
-    "Way Empulau Ulu",
-    "Gunung Sugih",
-    "Wates (Watas)",
-    "Padang Dalom",
-    "Sukarame",
-    "Bahway",
-    "Sedampah Indah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Liwa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Way Mengaku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kubu Perahu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Cahya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebarus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Way Empulau Ulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Sugih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wates (Watas)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Dalom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bahway"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sedampah Indah"
+    }
   ]
 }

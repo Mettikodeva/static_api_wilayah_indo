@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Simpang Belutu",
-    "Telaga Sam-Sam",
-    "Kandis Kota",
-    "Belutu",
-    "Kandis",
-    "Sam Sam",
-    "Bekalar",
-    "Jambai Makmur",
-    "Sungai Gondang",
-    "Pencing Bekuto",
-    "Libo Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simpang Belutu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Telaga Sam-Sam"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kandis Kota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belutu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kandis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sam Sam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bekalar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambai Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Gondang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pencing Bekuto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Libo Jaya"
+    }
   ]
 }

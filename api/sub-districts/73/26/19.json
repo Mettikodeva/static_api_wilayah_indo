@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Suloara'",
-    "Sesean Matalo (Sesean Matallo)",
-    "Landorundun",
-    "Tonga Riu",
-    "Lempo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suloara'"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sesean Matalo (Sesean Matallo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Landorundun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tonga Riu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lempo"
+    }
   ]
 }

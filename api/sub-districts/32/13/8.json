@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cicadas",
-    "Kihiyang",
-    "Binong",
-    "Kediri",
-    "Citrajaya",
-    "Mulyasari",
-    "Karangsari",
-    "Karangwangi",
-    "Nanggerang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cicadas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kihiyang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Binong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kediri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Citrajaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Karangwangi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nanggerang"
+    }
   ]
 }

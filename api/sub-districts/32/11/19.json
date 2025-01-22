@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ganeas",
-    "Dayeuhluhur",
-    "Cikoneng",
-    "Sukaluyu",
-    "Sukawening",
-    "Tanjunghurip",
-    "Cikondang",
-    "Cikonengkulon (Cikoneng Kulon)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ganeas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dayeuhluhur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikoneng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukaluyu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukawening"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjunghurip"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikondang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikonengkulon (Cikoneng Kulon)"
+    }
   ]
 }

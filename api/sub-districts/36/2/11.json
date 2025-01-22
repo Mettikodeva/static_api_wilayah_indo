@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sarageni",
-    "Gununganten (Gunung Anten)",
-    "Sudamanik",
-    "Tambak",
-    "Cimarga",
-    "Karyajaya (Karya Jaya)",
-    "Margajaya (Marga Jaya)",
-    "Jayamanik",
-    "Margaluyu",
-    "Margatirta",
-    "Intenjaya (Inten Jaya)",
-    "Mekarjaya (Mekar Jaya)",
-    "Jayasari",
-    "Girimukti",
-    "Sangkanmanik (Sangkan Manik)",
-    "Sangiangjaya (Sangiang Jaya)",
-    "Mekarmulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarageni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gununganten (Gunung Anten)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sudamanik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cimarga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karyajaya (Karya Jaya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margajaya (Marga Jaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jayamanik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Margatirta"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Intenjaya (Inten Jaya)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekarjaya (Mekar Jaya)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jayasari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sangkanmanik (Sangkan Manik)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sangiangjaya (Sangiang Jaya)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mekarmulya"
+    }
   ]
 }

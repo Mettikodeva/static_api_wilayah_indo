@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Air Tawar Timur",
-    "Air Tawar Barat",
-    "Ulak Karang Utara",
-    "Ulak Karang Selatan",
-    "Lolong Belanti",
-    "Alai Parak Kopi",
-    "Gunung Pangilun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Air Tawar Timur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Air Tawar Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ulak Karang Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ulak Karang Selatan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lolong Belanti"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Alai Parak Kopi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gunung Pangilun"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gerantung",
-    "Monterado",
-    "Goa Boma",
-    "Nek Ginap",
-    "Beringin Baru",
-    "Sendoreng",
-    "Rantau",
-    "Mekar Baru",
-    "Jahandung",
-    "Serindu",
-    "Siaga (Nyempen)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gerantung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Monterado"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Goa Boma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nek Ginap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beringin Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sendoreng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jahandung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Serindu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Siaga (Nyempen)"
+    }
   ]
 }

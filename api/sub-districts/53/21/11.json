@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Babulu",
-    "Babulu Selatan",
-    "Sisi",
-    "Rainawe",
-    "Litamali",
-    "Lakekun Utara",
-    "Lakekun",
-    "Lakekun Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babulu Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sisi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rainawe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Litamali"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lakekun Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lakekun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lakekun Barat"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Maibo",
-    "Malaflon",
-    "Kabanmolo",
-    "Kagiwala (Klatok)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maibo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malaflon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kabanmolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kagiwala (Klatok)"
+    }
   ]
 }

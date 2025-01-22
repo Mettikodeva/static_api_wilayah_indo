@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Juata Laut",
-    "Juata Permai",
-    "Juata Krikil/Kerikil"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Juata Laut"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Juata Permai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Juata Krikil/Kerikil"
+    }
   ]
 }

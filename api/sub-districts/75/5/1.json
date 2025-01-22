@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Imana",
-    "Bintana",
-    "Buata",
-    "Pinontoyonga",
-    "Monggupo",
-    "Kotajin (Kota Jin)",
-    "Inomata (Ilomata)",
-    "Iloheluma",
-    "Wapalo",
-    "Posono",
-    "Sigaso",
-    "Tombulilato",
-    "Kotajin Utara",
-    "Oluhuta"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Imana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bintana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buata"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pinontoyonga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Monggupo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kotajin (Kota Jin)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Inomata (Ilomata)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Iloheluma"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wapalo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Posono"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sigaso"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tombulilato"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kotajin Utara"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Oluhuta"
+    }
   ]
 }

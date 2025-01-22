@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Wumialo",
-    "Dulalowo",
-    "Liluwo",
-    "Pulubala",
-    "Paguyaman",
-    "Dulalowo Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wumialo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dulalowo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Liluwo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pulubala"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Paguyaman"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Dulalowo Timur"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Walompo",
-    "Matanauwe",
-    "Sampuabalo",
-    "Kuraa",
-    "Kumbewaha",
-    "Sumber Sari",
-    "Labuandiri",
-    "Karya Jaya",
-    "Manuru",
-    "Gunungjaya (Gunung Jaya)",
-    "Bahari Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Walompo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matanauwe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sampuabalo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuraa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumbewaha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Labuandiri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manuru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunungjaya (Gunung Jaya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bahari Makmur"
+    }
   ]
 }

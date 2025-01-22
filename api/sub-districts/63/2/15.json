@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Buluh Kuning",
-    "Gendang Timburu",
-    "Manunggul Lama",
-    "Rantau Buda (Rantau Budha)",
-    "Manunggul Baru",
-    "Terombong Sari (Terobong Sari)",
-    "Rantau Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buluh Kuning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gendang Timburu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manunggul Lama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Buda (Rantau Budha)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manunggul Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terombong Sari (Terobong Sari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Jaya"
+    }
   ]
 }

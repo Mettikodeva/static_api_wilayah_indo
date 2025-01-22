@@ -1,32 +1,116 @@
 {
   "sub_districts": [
-    "Beran",
-    "Bangkle",
-    "Kedungjenar (Kedung Jenar)",
-    "Mlangsen",
-    "Jetis",
-    "Tambahrejo",
-    "Kauman",
-    "Sonorejo",
-    "Kunden",
-    "Tempelan",
-    "Tegalgunung",
-    "Karangjati",
-    "Jepangrejo",
-    "Kamolan",
-    "Pelem",
-    "Purworejo",
-    "Andongrejo",
-    "Jejeruk",
-    "Temurejo",
-    "Tempurejo",
-    "Patalan",
-    "Tambaksari",
-    "Purwosari",
-    "Ngadipurwo",
-    "Sendangharjo",
-    "Tempuran",
-    "Plantungan",
-    "Ngampel"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Beran"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bangkle"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kedungjenar (Kedung Jenar)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mlangsen"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tambahrejo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Sonorejo"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kunden"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tempelan"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tegalgunung"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Karangjati"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jepangrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kamolan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pelem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Andongrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jejeruk"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Temurejo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tempurejo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Patalan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tambaksari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ngadipurwo"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sendangharjo"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Plantungan"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Ngampel"
+    }
   ]
 }

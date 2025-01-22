@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rambangaru",
-    "Praibakul",
-    "Wunga",
-    "Kadahang",
-    "Napu",
-    "Mbatapuhu (Mbata Puhu)",
-    "Kalamba"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rambangaru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Praibakul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wunga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kadahang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Napu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mbatapuhu (Mbata Puhu)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalamba"
+    }
   ]
 }

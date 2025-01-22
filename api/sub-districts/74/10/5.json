@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kurolabu",
-    "Tombia (Torombia / Torumbia)",
-    "Lamoahi",
-    "Laanosangia (Lanosangia)",
-    "Pebaoa",
-    "Petetea'a (Peteteaa)",
-    "Lelamo",
-    "Waodeburi (Waode Buri)",
-    "Ulunambo",
-    "Bira",
-    "E'erinere",
-    "Labelete",
-    "Wamboule",
-    "Wowonga Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kurolabu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tombia (Torombia / Torumbia)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamoahi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laanosangia (Lanosangia)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pebaoa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Petetea'a (Peteteaa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lelamo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waodeburi (Waode Buri)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulunambo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bira"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "E'erinere"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labelete"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wamboule"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wowonga Jaya"
+    }
   ]
 }

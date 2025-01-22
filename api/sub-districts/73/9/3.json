@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kalabbirang",
-    "Leang Leang (Leang-Leang)",
-    "Alatengae",
-    "Minasa Baji",
-    "Tukamasea",
-    "Mattoanging (Mattoangin)",
-    "Mangeloreng",
-    "Baruga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kalabbirang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Leang Leang (Leang-Leang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alatengae"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Minasa Baji"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tukamasea"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mattoanging (Mattoangin)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mangeloreng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baruga"
+    }
   ]
 }

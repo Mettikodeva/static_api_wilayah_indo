@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Amasu (Amazu)",
-    "Imembi",
-    "Yemu",
-    "Fomu",
-    "Tiau",
-    "Binerbis",
-    "Tayau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Amasu (Amazu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Imembi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yemu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fomu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tiau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Binerbis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tayau"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sari Mulya",
-    "Sungailoban (Sungai Loban)",
-    "Sebamban Lama",
-    "Sebamban Baru",
-    "Sungaidua Laut (Sungai Dua Laut)",
-    "Marga Mulya",
-    "Sari Utama",
-    "Tri Mulya",
-    "Dwi Marga Utama",
-    "Kerta Buana",
-    "Batu Meranti",
-    "Tri Martani",
-    "Sumber Makmur",
-    "Biduri Bersujud",
-    "Sumber Sari",
-    "Wanasari",
-    "Damar Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sari Mulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungailoban (Sungai Loban)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebamban Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sebamban Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaidua Laut (Sungai Dua Laut)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sari Utama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tri Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dwi Marga Utama"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kerta Buana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batu Meranti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tri Martani"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Biduri Bersujud"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Damar Indah"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Iraiweri",
-    "Igembai",
-    "Imbai",
-    "Suteibey",
-    "Susi",
-    "Ullong",
-    "Mentubey",
-    "Ayaubey",
-    "Testega Pamaha",
-    "Pamaha",
-    "Uper",
-    "Hungku",
-    "Srubey"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Iraiweri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Igembai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Imbai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suteibey"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Susi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ullong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mentubey"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ayaubey"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Testega Pamaha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pamaha"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Uper"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hungku"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Srubey"
+    }
   ]
 }

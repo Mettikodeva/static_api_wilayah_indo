@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Alue Dua (Gampong Alue Dua)",
-    "Seumirah (Gampong Seumirah)",
-    "Darussalam (Gampong Darussalam)",
-    "Alue Papeun (Gampong Alue Papeun)",
-    "Blang Jrat (Gampong Blang Jrat)",
-    "Blang Pohroh (Gampong Blang Pohroh)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alue Dua (Gampong Alue Dua)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Seumirah (Gampong Seumirah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Darussalam (Gampong Darussalam)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alue Papeun (Gampong Alue Papeun)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blang Jrat (Gampong Blang Jrat)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blang Pohroh (Gampong Blang Pohroh)"
+    }
   ]
 }

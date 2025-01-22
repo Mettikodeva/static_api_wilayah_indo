@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tanjung Barulak",
-    "Saruaso",
-    "Koto Tangah",
-    "Pagaruyung (Pagaruyuang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Barulak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Saruaso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Tangah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagaruyung (Pagaruyuang)"
+    }
   ]
 }

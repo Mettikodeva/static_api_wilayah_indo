@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sumberharjo (Sumber Harjo)",
-    "Wukirharjo (Wukir Harjo)",
-    "Gayamharjo (Gayam Harjo)",
-    "Sambirejo (Sambi Rejo)",
-    "Madurejo (Madu Rejo)",
-    "Bokoharjo (Boko Harjo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberharjo (Sumber Harjo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wukirharjo (Wukir Harjo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gayamharjo (Gayam Harjo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sambirejo (Sambi Rejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Madurejo (Madu Rejo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bokoharjo (Boko Harjo)"
+    }
   ]
 }

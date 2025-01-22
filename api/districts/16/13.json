@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Rupit",
-    "Rawas Ulu",
-    "Nibung",
-    "Rawas Ilir",
-    "Karang Dapo",
-    "Karang Jaya",
-    "Ulu Rawas"
+    {
+      "district_id": 1,
+      "kecamatan": "Rupit"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Rawas Ulu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Nibung"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Rawas Ilir"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Karang Dapo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Karang Jaya"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Ulu Rawas"
+    }
   ]
 }

@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Detusoko",
-    "Detusoko Barat",
-    "Wolotolo",
-    "Wolotolo Tengah",
-    "Roa",
-    "Saga",
-    "Niowula",
-    "Wolofeo",
-    "Nuaone",
-    "Wologai",
-    "Wologai Tengah",
-    "Wolomage",
-    "Randoria",
-    "Wolomasi",
-    "Rateroru",
-    "Dile",
-    "Ndito",
-    "Sipijena",
-    "Golulada",
-    "Ranga",
-    "Turunalu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Detusoko"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Detusoko Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wolotolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wolotolo Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Roa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Niowula"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wolofeo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nuaone"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wologai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wologai Tengah"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wolomage"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Randoria"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wolomasi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rateroru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dile"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ndito"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sipijena"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Golulada"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Ranga"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Turunalu"
+    }
   ]
 }

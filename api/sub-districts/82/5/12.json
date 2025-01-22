@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kaporo",
-    "Waikafia",
-    "Buya",
-    "Auponhia",
-    "Wailab"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaporo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waikafia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Auponhia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wailab"
+    }
   ]
 }

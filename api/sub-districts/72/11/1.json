@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lompio",
-    "Tano Bununungan (Tano Bonunungan)",
-    "Dodung",
-    "Lambako",
-    "Kokini",
-    "Lampa",
-    "Tinakin Laut",
-    "Potil Pololoba",
-    "Dangkalan",
-    "Pasir Putih"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lompio"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tano Bununungan (Tano Bonunungan)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dodung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambako"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kokini"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lampa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tinakin Laut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Potil Pololoba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dangkalan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Putih"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tebing Tinggi",
-    "Purwodadi",
-    "Suka Damai (Sukadamai)",
-    "Adi Jaya",
-    "Kelagian",
-    "Telukpengkah",
-    "Talang Makmur",
-    "Sungaikeruh",
-    "Dataran Kempas",
-    "Delima"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Damai (Sukadamai)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Adi Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kelagian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telukpengkah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaikeruh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dataran Kempas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Delima"
+    }
   ]
 }

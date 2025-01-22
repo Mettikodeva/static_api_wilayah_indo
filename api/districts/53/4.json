@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Lamaknen",
-    "Tasifeto Timur",
-    "Raihat",
-    "Tasifeto Barat",
-    "Kakuluk Mesak",
-    "Kota Atambua (Atambua Kota)",
-    "Raimanuk",
-    "Lasiolat",
-    "Lamaknen Selatan",
-    "Atambua Barat",
-    "Atambua Selatan",
-    "Nanaet Duabesi"
+    {
+      "district_id": 1,
+      "kecamatan": "Lamaknen"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tasifeto Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Raihat"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tasifeto Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kakuluk Mesak"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kota Atambua (Atambua Kota)"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Raimanuk"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Lasiolat"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Lamaknen Selatan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Atambua Barat"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Atambua Selatan"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Nanaet Duabesi"
+    }
   ]
 }

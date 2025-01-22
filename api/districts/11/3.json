@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Darul Aman",
-    "Julok",
-    "Idi Rayeuk",
-    "Birem Bayeun",
-    "Serbajadi",
-    "Nurussalam",
-    "Peureulak",
-    "Rantau Selamat",
-    "Simpang Ulim",
-    "Rantau Peureulak (Ranto Peureulak)",
-    "Pante Bidari",
-    "Madat",
-    "Indra Makmu (Indra Makmur)",
-    "Idi Tunong",
-    "Banda Alam",
-    "Peudawa",
-    "Peureulak Timur",
-    "Peureulak Barat",
-    "Sungai Raya",
-    "Simpang Jernih",
-    "Darul Ihsan (Iksan)",
-    "Darul Falah",
-    "Idi Timur",
-    "Peunaron"
+    {
+      "district_id": 1,
+      "kecamatan": "Darul Aman"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Julok"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Idi Rayeuk"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Birem Bayeun"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Serbajadi"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Nurussalam"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Peureulak"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Rantau Selamat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Simpang Ulim"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Rantau Peureulak (Ranto Peureulak)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pante Bidari"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Madat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Indra Makmu (Indra Makmur)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Idi Tunong"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Banda Alam"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Peudawa"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Peureulak Timur"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Peureulak Barat"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Sungai Raya"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Simpang Jernih"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Darul Ihsan (Iksan)"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Darul Falah"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Idi Timur"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Peunaron"
+    }
   ]
 }

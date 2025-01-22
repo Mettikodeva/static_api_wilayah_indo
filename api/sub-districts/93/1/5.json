@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Matara",
-    "Waninggap Nanggo",
-    "Urumb",
-    "Sido Mulyo (Sidomulyo)",
-    "Kuprik",
-    "Kuper",
-    "Semangga Jaya (Semanggi Jaya)",
-    "Marga Mulya",
-    "Muram Sari (Muramsari)",
-    "Waninggap Kai/Kay"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Matara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waninggap Nanggo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urumb"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sido Mulyo (Sidomulyo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuprik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuper"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semangga Jaya (Semanggi Jaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muram Sari (Muramsari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waninggap Kai/Kay"
+    }
   ]
 }

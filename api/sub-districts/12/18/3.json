@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sei/Sungai Buluh",
-    "Liberia",
-    "Mata Pao (Matapao)",
-    "Pematang Setrak (Pematang Seterak / Strak)",
-    "Makmur",
-    "Pasar Baru",
-    "Pekan Sialang Buah",
-    "Pematang Guntung",
-    "Sialang Buah",
-    "Sentang",
-    "Bogak Besar",
-    "Pematang Kuala"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Liberia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mata Pao (Matapao)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang Setrak (Pematang Seterak / Strak)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pekan Sialang Buah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pematang Guntung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sialang Buah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sentang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bogak Besar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pematang Kuala"
+    }
   ]
 }

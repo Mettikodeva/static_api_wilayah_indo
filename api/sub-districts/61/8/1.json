@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Hilir Kantor",
-    "Hilir Tengah",
-    "Raja",
-    "Mungguk (Munggu)",
-    "Amboyo Utara",
-    "Sungai Keli",
-    "Rasan",
-    "Mu'un (Muun)",
-    "Ambarang",
-    "Engkadu",
-    "Amang",
-    "Penyahu Dangku (Penyaho Dangku)",
-    "Antan Rayan",
-    "Amboyo Inti",
-    "Tebedak",
-    "Temiang Sawi",
-    "Amboyo Selatan",
-    "Sebirang",
-    "Pak Mayam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hilir Kantor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilir Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mungguk (Munggu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Amboyo Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Keli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rasan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mu'un (Muun)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ambarang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Engkadu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Amang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Penyahu Dangku (Penyaho Dangku)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Antan Rayan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Amboyo Inti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tebedak"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Temiang Sawi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Amboyo Selatan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sebirang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pak Mayam"
+    }
   ]
 }

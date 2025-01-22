@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Selindung (Selindung Lama)",
-    "Selindung Baru",
-    "Gabek Satu",
-    "Gabek Dua",
-    "Air Salemba",
-    "Jerambah Gantung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Selindung (Selindung Lama)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Selindung Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gabek Satu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gabek Dua"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Air Salemba"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jerambah Gantung"
+    }
   ]
 }

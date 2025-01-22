@@ -1,31 +1,112 @@
 {
   "districts": [
-    "Kota Sumenep",
-    "Kalianget",
-    "Manding",
-    "Talango",
-    "Bluto",
-    "Saronggi",
-    "Lenteng",
-    "Giliginting (Gili Ginting)",
-    "Guluk-Guluk (Guluk Guluk)",
-    "Ganding",
-    "Pragaan",
-    "Ambunten",
-    "Pasongsongan",
-    "Dasuk",
-    "Rubaru",
-    "Batang Batang",
-    "Batuputih",
-    "Dungkek",
-    "Gapura",
-    "Gayam",
-    "Nonggunong",
-    "Ra'as (Raas)",
-    "Masalembu",
-    "Arjasa",
-    "Sapeken",
-    "Batuan",
-    "Kangayan"
+    {
+      "district_id": 1,
+      "kecamatan": "Kota Sumenep"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kalianget"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Manding"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Talango"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bluto"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Saronggi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lenteng"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Giliginting (Gili Ginting)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Guluk-Guluk (Guluk Guluk)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ganding"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pragaan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Ambunten"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pasongsongan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Dasuk"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Rubaru"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Batang Batang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Batuputih"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Dungkek"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Gapura"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Gayam"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Nonggunong"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Ra'as (Raas)"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Masalembu"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Arjasa"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Sapeken"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Batuan"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Kangayan"
+    }
   ]
 }

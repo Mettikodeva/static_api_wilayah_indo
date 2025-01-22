@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Neglasari",
-    "Karang Sari",
-    "Selapajang Jaya",
-    "Kedaung Wetan",
-    "Mekarsari (Mekar Sari)",
-    "Karang Anyar",
-    "Kedaung Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karang Sari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Selapajang Jaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kedaung Wetan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mekarsari (Mekar Sari)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kedaung Baru"
+    }
   ]
 }

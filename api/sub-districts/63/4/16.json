@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kolam Kiri",
-    "Roham Raya",
-    "Simpang Jaya",
-    "Tumih",
-    "Pinang Habang",
-    "Waringin Kencana",
-    "Babat Raya",
-    "Kolam Kanan",
-    "Sidomulyo (Sido Mulyo)",
-    "Kolam Makmur",
-    "Surya Kanta",
-    "Sumber Rahayu",
-    "Dwipasari (Dwi Pasari)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kolam Kiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Roham Raya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pinang Habang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waringin Kencana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Babat Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kolam Kanan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomulyo (Sido Mulyo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kolam Makmur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Surya Kanta"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Rahayu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dwipasari (Dwi Pasari)"
+    }
   ]
 }

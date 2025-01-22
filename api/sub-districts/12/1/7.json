@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tapian Nauli II",
-    "Tapian Nauli I",
-    "Tapian Nauli III",
-    "Tapian Nauli IV",
-    "Aloban Bair (Aloban)",
-    "Mela Dolok",
-    "Mela I",
-    "Mela II",
-    "Bair"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tapian Nauli II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapian Nauli I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tapian Nauli III"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapian Nauli IV"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aloban Bair (Aloban)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mela Dolok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mela I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mela II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bair"
+    }
   ]
 }

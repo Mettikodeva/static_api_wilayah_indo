@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Winowanga",
-    "Maholo",
-    "Tamadue",
-    "Mekarsari",
-    "Kalemago"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Winowanga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maholo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamadue"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalemago"
+    }
   ]
 }

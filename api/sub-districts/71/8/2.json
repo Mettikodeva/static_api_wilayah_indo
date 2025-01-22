@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Bintauna",
-    "Huntuk",
-    "Mome",
-    "Kuhanga",
-    "Padang",
-    "Pimpi",
-    "Bunia",
-    "Talaga",
-    "Batulintik",
-    "Bintauna Pantai/Pante",
-    "Minanga",
-    "Kopi",
-    "Voa'a (Voa A)",
-    "Bunong",
-    "Padang Barat",
-    "Vahuta"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bintauna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huntuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mome"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuhanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pimpi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bunia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batulintik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bintauna Pantai/Pante"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Minanga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kopi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Voa'a (Voa A)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bunong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Padang Barat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Vahuta"
+    }
   ]
 }

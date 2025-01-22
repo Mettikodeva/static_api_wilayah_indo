@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Popayato",
-    "Lemito",
-    "Randangan",
-    "Marisa",
-    "Paguat",
-    "Patilanggio",
-    "Taluditi (Taluduti)",
-    "Dengilo",
-    "Buntulia",
-    "Duhiadaa",
-    "Wanggarasi",
-    "Popayato Timur",
-    "Popayato Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Popayato"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Lemito"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Randangan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Marisa"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Paguat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Patilanggio"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Taluditi (Taluduti)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Dengilo"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Buntulia"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Duhiadaa"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wanggarasi"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Popayato Timur"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Popayato Barat"
+    }
   ]
 }

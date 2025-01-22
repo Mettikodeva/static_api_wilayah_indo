@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tulap",
-    "Lalumpe",
-    "Kayubesi (Kayu Besi)",
-    "Ranowangko II (Ranowangko Dua)",
-    "Kombi",
-    "Sawangan",
-    "Kolongan",
-    "Rerer",
-    "Kinaselon (Kinaleosan)",
-    "Makalisung",
-    "Kalawiran",
-    "Kolongan I",
-    "Rerer I"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tulap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lalumpe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayubesi (Kayu Besi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranowangko II (Ranowangko Dua)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kombi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kolongan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rerer"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kinaselon (Kinaleosan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Makalisung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalawiran"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kolongan I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rerer I"
+    }
   ]
 }

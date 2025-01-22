@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bolatena",
-    "Lifuleo",
-    "Sotimori",
-    "Daeurendale",
-    "Daiama",
-    "Pukuafu",
-    "Tena Lai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bolatena"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lifuleo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sotimori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Daeurendale"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Daiama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pukuafu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tena Lai"
+    }
   ]
 }

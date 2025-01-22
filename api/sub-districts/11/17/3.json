@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Blang Panu",
-    "Gerpa",
-    "Goneng",
-    "Kerlang (Kerlah)",
-    "Kutelah Lane",
-    "Pasir Putih",
-    "Payung",
-    "Rusip",
-    "Tembolon",
-    "Uning",
-    "Wehni Durin (Wihni Durin)",
-    "Rata Mulie",
-    "Tempen Baru",
-    "Geruti Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Blang Panu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gerpa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Goneng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kerlang (Kerlah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kutelah Lane"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Payung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rusip"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tembolon"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Uning"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wehni Durin (Wihni Durin)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rata Mulie"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tempen Baru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Geruti Jaya"
+    }
   ]
 }

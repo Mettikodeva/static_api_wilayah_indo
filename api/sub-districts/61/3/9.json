@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pusat Damai",
-    "Maju Karya",
-    "Sebara",
-    "Pandu Raya",
-    "Embala",
-    "Hibun",
-    "Maringin Jaya (Marigin Jaya)",
-    "Suka Mulya",
-    "Palem Jaya",
-    "Rahayu",
-    "Dosan",
-    "Suka Gerundi (Suka Grundi)",
-    "Gunam",
-    "Marita"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pusat Damai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maju Karya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pandu Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Embala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hibun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maringin Jaya (Marigin Jaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Mulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palem Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rahayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dosan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Gerundi (Suka Grundi)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gunam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Marita"
+    }
   ]
 }

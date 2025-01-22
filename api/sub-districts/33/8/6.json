@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ketunggeng",
-    "Wates",
-    "Ngadipuro",
-    "Banyubiru",
-    "Banyudono",
-    "Dukun",
-    "Kalibening",
-    "Ngargomulyo",
-    "Sumber",
-    "Mangunsoko",
-    "Sewukan",
-    "Sengi",
-    "Paten",
-    "Krinjing",
-    "Keningar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ketunggeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngadipuro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banyubiru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyudono"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dukun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalibening"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngargomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mangunsoko"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sewukan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sengi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Paten"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Krinjing"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Keningar"
+    }
   ]
 }

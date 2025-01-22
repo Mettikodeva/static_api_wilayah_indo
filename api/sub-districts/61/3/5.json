@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bonti",
-    "Sami",
-    "Bahta",
-    "Upe",
-    "Tunggul Boyok",
-    "Empodis",
-    "Kampuh",
-    "Bantai",
-    "Majel"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sami"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bahta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Upe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunggul Boyok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Empodis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampuh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bantai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Majel"
+    }
   ]
 }

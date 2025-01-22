@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kedungsoko",
-    "Tertek",
-    "Karangwaru",
-    "Tamanan",
-    "Jepun",
-    "Bago",
-    "Kepatihan",
-    "Kenayan",
-    "Kampungdalem",
-    "Kauman",
-    "Kutoanyar",
-    "Sembung",
-    "Panggungrejo",
-    "Botoran"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kedungsoko"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tertek"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karangwaru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tamanan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jepun"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bago"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kenayan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kampungdalem"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kutoanyar"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sembung"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Panggungrejo"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Botoran"
+    }
   ]
 }

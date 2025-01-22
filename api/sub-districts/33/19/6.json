@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sadang",
-    "Bulungcangkring",
-    "Bulung Kulon",
-    "Sidomulyo",
-    "Gondoharum",
-    "Terban",
-    "Pladen",
-    "Klaling",
-    "Jekulo",
-    "Hadipolo",
-    "Honggosoco",
-    "Tanjungrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sadang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bulungcangkring"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bulung Kulon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gondoharum"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Terban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pladen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Klaling"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jekulo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hadipolo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Honggosoco"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungrejo"
+    }
   ]
 }

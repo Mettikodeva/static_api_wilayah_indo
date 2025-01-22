@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Beji",
-    "Kukusan",
-    "Tanah Baru",
-    "Kemiri Muka",
-    "Pondok Cina",
-    "Beji Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kukusan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanah Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kemiri Muka"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pondok Cina"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Beji Timur"
+    }
   ]
 }

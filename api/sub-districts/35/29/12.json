@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ambunten Barat",
-    "Ambunten Tengah",
-    "Ambunten Timur",
-    "Tambaagung Barat",
-    "Tambaagung Tengah",
-    "Tambaagung Ares",
-    "Sogian",
-    "Tambaagung Timur",
-    "Bukabu",
-    "Campor Barat",
-    "Keles",
-    "Campor Timur",
-    "Belluk Ares (Beluk Ares)",
-    "Belluk Kenek (Beluk Kenek)",
-    "Belluk Raja (Beluk Raja)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ambunten Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ambunten Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ambunten Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambaagung Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambaagung Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambaagung Ares"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sogian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambaagung Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bukabu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Campor Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keles"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Campor Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Belluk Ares (Beluk Ares)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Belluk Kenek (Beluk Kenek)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Belluk Raja (Beluk Raja)"
+    }
   ]
 }

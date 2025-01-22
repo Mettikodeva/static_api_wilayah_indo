@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Parak",
-    "Barugaiya",
-    "Jambuiya",
-    "Mare Mare",
-    "Polebunging (Polebungin)",
-    "Bonea Makmur",
-    "Bontomarannu",
-    "Bonea Timur",
-    "Bontokoraang",
-    "Kaburu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barugaiya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jambuiya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mare Mare"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Polebunging (Polebungin)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bonea Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bontomarannu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonea Timur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bontokoraang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kaburu"
+    }
   ]
 }

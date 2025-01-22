@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Gentinggunung (Genting Gunung)",
-    "Bringinsari",
-    "Purwosari (Purwo Sari)",
-    "Ngargosari",
-    "Pesaren",
-    "Tamanrejo (Taman Rejo)",
-    "Harjodowo",
-    "Peron",
-    "Damarjati",
-    "Mulyosari",
-    "Kalipakis",
-    "Trimulyo",
-    "Selokaton",
-    "Ngadiwarno",
-    "Tampingwinarno (Tamping Winarno)",
-    "Kebumen",
-    "Sukorejo",
-    "Kalibogor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gentinggunung (Genting Gunung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bringinsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwosari (Purwo Sari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngargosari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pesaren"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamanrejo (Taman Rejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Harjodowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Peron"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Damarjati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulyosari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalipakis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Trimulyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Selokaton"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ngadiwarno"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tampingwinarno (Tamping Winarno)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kebumen"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kalibogor"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Puunggaluku (Punggaluku)",
-    "Ambalodangge",
-    "Aepodu",
-    "Rambu-Rambu",
-    "Ombu-Ombu Jaya",
-    "Lamong Jaya",
-    "Lerepako",
-    "Ambesea",
-    "Laeya",
-    "Labokeo",
-    "Torobulu",
-    "Anduna",
-    "Ambakumina (Ambukumina)",
-    "Lambakara",
-    "Anggoroboti",
-    "Wonua Kongga",
-    "Puuwulo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Puunggaluku (Punggaluku)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ambalodangge"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aepodu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rambu-Rambu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ombu-Ombu Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamong Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lerepako"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ambesea"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Laeya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labokeo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Torobulu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Anduna"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ambakumina (Ambukumina)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lambakara"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Anggoroboti"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wonua Kongga"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Puuwulo"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tanjung Balai Kota I (Tanjungbalai Kota I)",
-    "Tanjung Balai Kota II (Tanjungbalai Kota II)",
-    "Perwira",
-    "Karya",
-    "Pantai Burung",
-    "Indra Sakti"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Balai Kota I (Tanjungbalai Kota I)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Balai Kota II (Tanjungbalai Kota II)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Perwira"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pantai Burung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Indra Sakti"
+    }
   ]
 }

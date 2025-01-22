@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bunut",
-    "Bunut Barat",
-    "Dadimulyo (Dadi Mulyo)",
-    "Kisaran Barat",
-    "Kisaran Baru",
-    "Kisaran Kota",
-    "Mekar Baru",
-    "Sei Renggas",
-    "Sendang Sari",
-    "Sidodadi",
-    "Sidomukti",
-    "Tebing Kisaran",
-    "Tegal Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bunut"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bunut Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dadimulyo (Dadi Mulyo)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kisaran Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kisaran Baru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kisaran Kota"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mekar Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sei Renggas"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sendang Sari"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tebing Kisaran"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tegal Sari"
+    }
   ]
 }

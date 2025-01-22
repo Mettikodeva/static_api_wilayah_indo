@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Labuhan Deli",
-    "Rengas Pulau",
-    "Terjun",
-    "Tanah Enam Ratus",
-    "Paya Pasir"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Labuhan Deli"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rengas Pulau"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Terjun"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanah Enam Ratus"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Paya Pasir"
+    }
   ]
 }

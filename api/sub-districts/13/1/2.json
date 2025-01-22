@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pelangai",
-    "Sungai Tunu",
-    "Sungai Tunu Utara (Sungaitunu Utara)",
-    "Sungai Tunu Barat (Sungaitunu Barat)",
-    "Nyiur Melambai Pelangai (Nyiur Malambai Pelangai)",
-    "Sungai Liku Pelangai (Sungailiku Pelangai)",
-    "Koto VIII Pelangai",
-    "Pelangai Gadang (Palangai Gadang)",
-    "Pelangai Kaciak",
-    "Pasia Pelangai (Pasia Palangai)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelangai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Tunu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Tunu Utara (Sungaitunu Utara)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Tunu Barat (Sungaitunu Barat)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nyiur Melambai Pelangai (Nyiur Malambai Pelangai)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Liku Pelangai (Sungailiku Pelangai)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto VIII Pelangai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pelangai Gadang (Palangai Gadang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelangai Kaciak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasia Pelangai (Pasia Palangai)"
+    }
   ]
 }

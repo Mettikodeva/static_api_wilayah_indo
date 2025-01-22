@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kaburbur",
-    "Ubadari",
-    "Homorkokma",
-    "Pattukar",
-    "Kayuni",
-    "Kuagas",
-    "Rangkendak",
-    "Mananmur",
-    "Warpa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaburbur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ubadari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Homorkokma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pattukar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kayuni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuagas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rangkendak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mananmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Warpa"
+    }
   ]
 }

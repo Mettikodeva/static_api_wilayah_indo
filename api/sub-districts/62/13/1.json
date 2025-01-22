@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Tamianglayang (Tamiang Layang)",
-    "Pulau Patai",
-    "Sarapat (Ex. Harara)",
-    "Magantis",
-    "Jaar",
-    "Matabu",
-    "Dorong",
-    "Didi",
-    "Karang Langit",
-    "Haringen",
-    "Jaweten",
-    "Matarah",
-    "Maragut",
-    "Mangkarap (angkarap)",
-    "Gumpa",
-    "Sumur",
-    "Harara"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tamianglayang (Tamiang Layang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Patai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sarapat (Ex. Harara)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Magantis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jaar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matabu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dorong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Didi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karang Langit"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Haringen"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jaweten"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Matarah"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Maragut"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mangkarap (angkarap)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Gumpa"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sumur"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Harara"
+    }
   ]
 }

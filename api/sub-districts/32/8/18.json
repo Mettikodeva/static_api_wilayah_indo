@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cigugur",
-    "Cigadung",
-    "Winduherang",
-    "Sukamulya",
-    "Cipari",
-    "Cileuleuy",
-    "Puncak",
-    "Gunungkeling",
-    "Cisantana",
-    "Babakanmulya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cigugur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cigadung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Winduherang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cipari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cileuleuy"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puncak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunungkeling"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cisantana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Babakanmulya"
+    }
   ]
 }

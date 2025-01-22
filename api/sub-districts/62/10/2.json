@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tumbang Anjir",
-    "Kurun (Kuala Kurun)",
-    "Petak Bahandang",
-    "Tanjung Riu",
-    "Teluk Nyatu",
-    "Tumbang Lampaung/Lampahung",
-    "Tewang Pajangan",
-    "Tumbang Tariak",
-    "Tumbang Miwan",
-    "Hurung Bunut",
-    "Tumbang Hakau",
-    "Pilang Munduk",
-    "Tumbang Manyangan",
-    "Penda Pilang",
-    "Tumbang Tambirah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tumbang Anjir"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kurun (Kuala Kurun)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Petak Bahandang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Riu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Nyatu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Lampaung/Lampahung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tewang Pajangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Tariak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Miwan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hurung Bunut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tumbang Hakau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pilang Munduk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tumbang Manyangan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Penda Pilang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tumbang Tambirah"
+    }
   ]
 }

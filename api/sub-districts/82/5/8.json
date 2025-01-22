@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Waigoiyofa",
-    "Baleha",
-    "Fatkauyon",
-    "Wailia",
-    "Sama",
-    "Waisepa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waigoiyofa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baleha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fatkauyon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wailia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waisepa"
+    }
   ]
 }

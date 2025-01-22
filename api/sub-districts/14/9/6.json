@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Benai",
-    "Banjar Benai",
-    "Talontom",
-    "Gunungkesiangan",
-    "Pulaukalimanting",
-    "Banjar Lopak",
-    "Tanjungsimandolak",
-    "Siberakun",
-    "Pulautongah",
-    "Ujung Tanjung",
-    "Pulauingu",
-    "Simandolak",
-    "Tebing Tinggi",
-    "Pulaulancang",
-    "Benai Kecil",
-    "Koto Benai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Benai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjar Benai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talontom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunungkesiangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulaukalimanting"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjar Lopak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungsimandolak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siberakun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulautongah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ujung Tanjung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pulauingu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simandolak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pulaulancang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Benai Kecil"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Koto Benai"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lokodidi",
-    "Matinan",
-    "Taat",
-    "Lokodoka",
-    "Labuton",
-    "Bulagidun",
-    "Diapati (Diapatih)",
-    "Nandu",
-    "Lipubogu",
-    "Bulogidon Tanjung (Bulagidun Tanjung)",
-    "Pandangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lokodidi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matinan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lokodoka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labuton"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulagidun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Diapati (Diapatih)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nandu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lipubogu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bulogidon Tanjung (Bulagidun Tanjung)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pandangan"
+    }
   ]
 }

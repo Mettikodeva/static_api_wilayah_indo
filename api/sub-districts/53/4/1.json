@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kewar",
-    "Fulur",
-    "Duarato",
-    "Makir",
-    "Lamaksenulu",
-    "Dirun",
-    "Leowalu",
-    "Maudemu",
-    "Mahuitas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kewar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fulur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Duarato"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamaksenulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dirun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Leowalu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Maudemu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mahuitas"
+    }
   ]
 }

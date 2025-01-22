@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tarof",
-    "Negeri Besar",
-    "Siwatori",
-    "Kasuweri",
-    "Migori",
-    "Tambani",
-    "Daubak",
-    "Totona",
-    "Nayakore",
-    "Arbasina",
-    "Birawaku",
-    "Korewatara",
-    "Tapas",
-    "Topdan",
-    "Migrito",
-    "Daimar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tarof"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Negeri Besar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siwatori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kasuweri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Migori"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambani"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Daubak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Totona"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nayakore"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Arbasina"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Birawaku"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Korewatara"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tapas"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Topdan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Migrito"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Daimar"
+    }
   ]
 }

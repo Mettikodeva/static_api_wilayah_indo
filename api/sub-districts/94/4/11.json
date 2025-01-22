@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Potowai Buru (Potowayburu / Potowaiburu)",
-    "Yapkoka (Yapakopa)",
-    "Aiduna (Aindua)",
-    "Tapomai (Tapormai)",
-    "Umar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Potowai Buru (Potowayburu / Potowaiburu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yapkoka (Yapakopa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aiduna (Aindua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapomai (Tapormai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umar"
+    }
   ]
 }

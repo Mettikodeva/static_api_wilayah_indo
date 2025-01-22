@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pulaumungkur (Pulau Mungkur)",
-    "Telukberingin (Teluk Beringin)",
-    "Pulaurumput (Pulau Rumput)",
-    "Seberang Gunung",
-    "Teberau Panjang",
-    "Koto Gunung",
-    "Gunung",
-    "Toar",
-    "Petapahan",
-    "Kampung Baru",
-    "Pisang Berebus",
-    "Lubuk Terentang (Lubuk Terantang)",
-    "Siberobah",
-    "Seberang Sungai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulaumungkur (Pulau Mungkur)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telukberingin (Teluk Beringin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulaurumput (Pulau Rumput)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seberang Gunung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teberau Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koto Gunung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Toar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Petapahan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pisang Berebus"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lubuk Terentang (Lubuk Terantang)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Siberobah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Seberang Sungai"
+    }
   ]
 }

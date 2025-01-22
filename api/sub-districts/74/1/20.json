@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Tosiba",
-    "Tonganapo",
-    "Konaweha",
-    "Kaloloa",
-    "Tamboli",
-    "Lambolemo",
-    "Amamutu (Amomutu)",
-    "Lawulo",
-    "Awa",
-    "Latuo",
-    "Wawo Tambali",
-    "Malaha",
-    "Sani Sani",
-    "Ulu Konaweha",
-    "Puu Tamboli",
-    "Ulaweng",
-    "Puu Lawulo",
-    "Liku",
-    "Meura"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tosiba"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tonganapo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Konaweha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaloloa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tamboli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lambolemo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Amamutu (Amomutu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lawulo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Awa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Latuo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wawo Tambali"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Malaha"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sani Sani"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ulu Konaweha"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Puu Tamboli"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ulaweng"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Puu Lawulo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Liku"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Meura"
+    }
   ]
 }

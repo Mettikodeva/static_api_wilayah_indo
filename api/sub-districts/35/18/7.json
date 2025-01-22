@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cengkok",
-    "Tanjungkalang (Tanjung Kalang)",
-    "Juwet",
-    "Kelutan",
-    "Ngronggot",
-    "Mojokendil",
-    "Betet",
-    "Kaloran",
-    "Banjarsari (Banjar Sari)",
-    "Dadapan",
-    "Trayang",
-    "Kalianyar (Kali Anyar)",
-    "Klurahan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cengkok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungkalang (Tanjung Kalang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Juwet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kelutan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngronggot"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mojokendil"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Betet"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaloran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjarsari (Banjar Sari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dadapan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Trayang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalianyar (Kali Anyar)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Klurahan"
+    }
   ]
 }

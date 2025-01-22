@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Meunasah Papeun",
-    "Meunasah Baktrieng",
-    "Leung Ie (Lueng Ie)",
-    "Lampermai (Lampermei / Lampermee)",
-    "Gle Deyah (Gla Deyah)",
-    "Miruk",
-    "Lam Gapang",
-    "Meunasah Manyang",
-    "Meunasah Baet",
-    "Meunasah Intan",
-    "Rumpet",
-    "Gla Meunasah Baro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meunasah Papeun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meunasah Baktrieng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Leung Ie (Lueng Ie)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lampermai (Lampermei / Lampermee)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gle Deyah (Gla Deyah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Miruk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lam Gapang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meunasah Manyang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meunasah Baet"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meunasah Intan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rumpet"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gla Meunasah Baro"
+    }
   ]
 }

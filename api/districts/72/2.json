@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Poso Kota",
-    "Poso Pesisir",
-    "Lage",
-    "Pamona Puselemba",
-    "Pamona Timur",
-    "Pamona Selatan",
-    "Lore Utara",
-    "Lore Tengah",
-    "Lore Selatan",
-    "Poso Pesisir Utara",
-    "Poso Pesisir Selatan",
-    "Pamona Barat",
-    "Poso Kota Selatan",
-    "Poso Kota Utara",
-    "Lore Barat",
-    "Lore Timur",
-    "Lore Piore",
-    "Pamona Tenggara",
-    "Pamona Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Poso Kota"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Poso Pesisir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Lage"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pamona Puselemba"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pamona Timur"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pamona Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lore Utara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Lore Tengah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lore Selatan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Poso Pesisir Utara"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Poso Pesisir Selatan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Pamona Barat"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Poso Kota Selatan"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Poso Kota Utara"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Lore Barat"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Lore Timur"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Lore Piore"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Pamona Tenggara"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Pamona Utara"
+    }
   ]
 }

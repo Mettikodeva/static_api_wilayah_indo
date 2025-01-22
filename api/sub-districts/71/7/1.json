@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tosuraya",
-    "Wawali",
-    "Lowu Dua",
-    "Lowu Satu",
-    "Lowu Utara",
-    "Nataan",
-    "Tosuraya Barat",
-    "Tosuraya Selatan",
-    "Wawali Pasan",
-    "Rasi",
-    "Rasi Satu"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tosuraya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wawali"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lowu Dua"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lowu Satu"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Lowu Utara"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Nataan"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Tosuraya Barat"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Tosuraya Selatan"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Wawali Pasan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rasi"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Rasi Satu"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Jawai Laut",
-    "Jelu Air",
-    "Matang Terap",
-    "Suah Api",
-    "Sari Laba A (Sarilaba A)",
-    "Sari Laba B (Sarilaba B)",
-    "Semperiuk A",
-    "Semperiuk B",
-    "Sabaran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jawai Laut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jelu Air"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matang Terap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suah Api"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sari Laba A (Sarilaba A)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sari Laba B (Sarilaba B)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semperiuk A"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Semperiuk B"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sabaran"
+    }
   ]
 }

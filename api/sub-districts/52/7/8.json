@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Maluk",
-    "Benete",
-    "Bukit Damai",
-    "Mantun",
-    "Pasir Putih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maluk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benete"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Damai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mantun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasir Putih"
+    }
   ]
 }

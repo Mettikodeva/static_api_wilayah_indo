@@ -1,43 +1,160 @@
 {
   "sub_districts": [
-    "Meunasah Blang Ara",
-    "Meunasah Buket/Bukit",
-    "Blang Talon",
-    "Cot Rheu (Cot Rheue)",
-    "Krueng Manyang",
-    "Bayu",
-    "Blang Ado",
-    "Dayah Meunara (Meunasah Dayah Meunara / Mon Ara)",
-    "Meunasah Kumbang",
-    "Meunyecut Bahagia",
-    "Lhok Jok",
-    "Alue Rambee (Alue Rambe)",
-    "Blang Riek",
-    "Cempeudak (Ceumpeudak)",
-    "Seuneubok Drien",
-    "Cot Merbo (Cot Merbo / Meureubo)",
-    "Keude Blang Ara",
-    "Keude Krueng",
-    "Krueng Seunong",
-    "Pulo Iboh/Iboih",
-    "Blang Gurah",
-    "Guha Ulue (Guha Uleue)",
-    "Ceumeucet (Cot Meunye Cut)",
-    "Pulo Barat",
-    "Pulo Rayeuk/Rayek",
-    "Cot Seutui",
-    "Langkuta (Lang Kuta)",
-    "Saweuk",
-    "Meuria (Meuriya)",
-    "Meunasah Kulam",
-    "Cot Seumiyong (Cot Seuminyong / Sumiyong)",
-    "Keureusek",
-    "Krueng Seupeng",
-    "Mulieng/Muling Manyang",
-    "Mulieng/Muling Meucat",
-    "Babah Lueng",
-    "Panton Rayeuk I",
-    "Panton Rayeuk II",
-    "Sido Muliyo (Sido Mulyo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meunasah Blang Ara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meunasah Buket/Bukit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blang Talon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cot Rheu (Cot Rheue)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Krueng Manyang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blang Ado"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dayah Meunara (Meunasah Dayah Meunara / Mon Ara)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meunasah Kumbang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meunyecut Bahagia"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lhok Jok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Alue Rambee (Alue Rambe)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Blang Riek"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cempeudak (Ceumpeudak)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Seuneubok Drien"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cot Merbo (Cot Merbo / Meureubo)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Keude Blang Ara"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Keude Krueng"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Krueng Seunong"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pulo Iboh/Iboih"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Blang Gurah"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Guha Ulue (Guha Uleue)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Ceumeucet (Cot Meunye Cut)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pulo Barat"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pulo Rayeuk/Rayek"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Cot Seutui"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Langkuta (Lang Kuta)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Saweuk"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Meuria (Meuriya)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Meunasah Kulam"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Cot Seumiyong (Cot Seuminyong / Sumiyong)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Keureusek"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Krueng Seupeng"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Mulieng/Muling Manyang"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Mulieng/Muling Meucat"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Babah Lueng"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Panton Rayeuk I"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Panton Rayeuk II"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Sido Muliyo (Sido Mulyo)"
+    }
   ]
 }

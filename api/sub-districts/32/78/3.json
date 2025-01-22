@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tawangsari",
-    "Empangsari",
-    "Lengkongsari",
-    "Cikalang",
-    "Kahuripan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Empangsari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lengkongsari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cikalang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kahuripan"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "cities": [
-    "Bengkulu Selatan",
-    "Rejang Lebong",
-    "Bengkulu Utara",
-    "Kaur",
-    "Seluma",
-    "Muko Muko",
-    "Lebong",
-    "Kepahiang",
-    "Bengkulu Tengah",
-    "Bengkulu"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Bengkulu Selatan"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Rejang Lebong"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Bengkulu Utara"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Kaur"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Seluma"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Muko Muko"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Lebong"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Kepahiang"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Bengkulu Tengah"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Bengkulu"
+    }
   ]
 }

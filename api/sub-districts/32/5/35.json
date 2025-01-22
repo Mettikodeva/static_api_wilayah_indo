@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cisewu",
-    "Girimukti",
-    "Pamalayan",
-    "Cikarang",
-    "Sukajaya",
-    "Nyalindung",
-    "Karangsewu",
-    "Mekarsewu",
-    "Panggalih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisewu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pamalayan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikarang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nyalindung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangsewu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsewu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panggalih"
+    }
   ]
 }

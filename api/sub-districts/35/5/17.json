@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Beru",
-    "Babadan",
-    "Tangkil",
-    "Wlingi",
-    "Klemunan",
-    "Tembalang",
-    "Ngadirenggo",
-    "Tegalasri",
-    "Balerejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Beru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tangkil"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wlingi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Klemunan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tembalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngadirenggo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegalasri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Balerejo"
+    }
   ]
 }

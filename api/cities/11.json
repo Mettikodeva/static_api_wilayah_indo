@@ -1,27 +1,96 @@
 {
   "cities": [
-    "Aceh Selatan",
-    "Aceh Tenggara",
-    "Aceh Timur",
-    "Aceh Tengah",
-    "Aceh Barat",
-    "Aceh Besar",
-    "Pidie",
-    "Aceh Utara",
-    "Simeulue",
-    "Aceh Singkil",
-    "Bireuen",
-    "Aceh Barat Daya",
-    "Gayo Lues",
-    "Aceh Jaya",
-    "Nagan Raya",
-    "Aceh Tamiang",
-    "Bener Meriah",
-    "Pidie Jaya",
-    "Banda Aceh",
-    "Sabang",
-    "Lhokseumawe",
-    "Langsa",
-    "Subulussalam"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Aceh Selatan"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Aceh Tenggara"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Aceh Timur"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Aceh Tengah"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Aceh Barat"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Aceh Besar"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Pidie"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Aceh Utara"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Simeulue"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Aceh Singkil"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Bireuen"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Aceh Barat Daya"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Gayo Lues"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Aceh Jaya"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Nagan Raya"
+    },
+    {
+      "city_id": 16,
+      "kabupaten_kota": "Aceh Tamiang"
+    },
+    {
+      "city_id": 17,
+      "kabupaten_kota": "Bener Meriah"
+    },
+    {
+      "city_id": 18,
+      "kabupaten_kota": "Pidie Jaya"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Banda Aceh"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Sabang"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Lhokseumawe"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Langsa"
+    },
+    {
+      "city_id": 75,
+      "kabupaten_kota": "Subulussalam"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kecupak I",
-    "Kecupak II",
-    "Aornakan I",
-    "Simerpara",
-    "Aornakan II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kecupak I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kecupak II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aornakan I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simerpara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aornakan II"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Alas Sumur (Alassumur)",
-    "Kejayan",
-    "Mangli",
-    "Maskuning Kulon",
-    "Maskuning Wetan",
-    "Mengok",
-    "Padasan",
-    "Randu Cangkring (Randucangkring)",
-    "Suko Kerto (Sukokerto)",
-    "Sukowono",
-    "Sukodono"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alas Sumur (Alassumur)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kejayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maskuning Kulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maskuning Wetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mengok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padasan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Randu Cangkring (Randucangkring)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suko Kerto (Sukokerto)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukowono"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukodono"
+    }
   ]
 }

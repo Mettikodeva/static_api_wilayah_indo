@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Dei",
-    "Obaiyoweta",
-    "Bubugiwo",
-    "Yimouto",
-    "Tamugauwo",
-    "Dagouto",
-    "Kopabutu",
-    "Boutai",
-    "Buka Duwata"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dei"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Obaiyoweta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bubugiwo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yimouto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamugauwo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dagouto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kopabutu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Boutai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buka Duwata"
+    }
   ]
 }

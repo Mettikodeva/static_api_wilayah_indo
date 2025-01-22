@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kabalsiang",
-    "Benjuring",
-    "Batulei (Batuley)",
-    "Kumul",
-    "Waria",
-    "Sewer",
-    "Jursiang",
-    "Kompane",
-    "Kobamar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kabalsiang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benjuring"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batulei (Batuley)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kumul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waria"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sewer"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jursiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kompane"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kobamar"
+    }
   ]
 }

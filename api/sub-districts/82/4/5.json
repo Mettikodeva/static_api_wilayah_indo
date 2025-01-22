@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wayaloar",
-    "Fluk",
-    "Bobo",
-    "Mano",
-    "Loleo",
-    "Soligi",
-    "Gambaru",
-    "Ocimaloleo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wayaloar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fluk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bobo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Loleo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Soligi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gambaru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ocimaloleo"
+    }
   ]
 }

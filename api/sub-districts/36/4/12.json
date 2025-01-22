@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pontang",
-    "Sukanegara",
-    "Linduk",
-    "Pulokencana (Pulo Kencana)",
-    "Kelapian (Kalapian)",
-    "Kubang Puji",
-    "Domas",
-    "Singarajan",
-    "Kaserangan (Keserangan)",
-    "Wanayasa",
-    "Suka Jaya (Sukajaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pontang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukanegara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Linduk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulokencana (Pulo Kencana)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelapian (Kalapian)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kubang Puji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Domas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Singarajan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kaserangan (Keserangan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wanayasa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Jaya (Sukajaya)"
+    }
   ]
 }

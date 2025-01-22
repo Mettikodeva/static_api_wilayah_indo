@@ -1,10 +1,28 @@
 {
   "districts": [
-    "Padangsidimpuan Utara",
-    "Padangsidimpuan Selatan",
-    "Padangsidimpuan Batunadua",
-    "Padangsidimpuan Hutaimbaru",
-    "Padangsidimpuan Tenggara",
-    "Padangsidimpuan Angkola Julu"
+    {
+      "district_id": 1,
+      "kecamatan": "Padangsidimpuan Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Padangsidimpuan Selatan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Padangsidimpuan Batunadua"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Padangsidimpuan Hutaimbaru"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Padangsidimpuan Tenggara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Padangsidimpuan Angkola Julu"
+    }
   ]
 }

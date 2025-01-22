@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Nanga Ansar",
-    "Padak",
-    "Setuntung",
-    "Belitang Satu",
-    "Belitang Dua",
-    "Menua Prama",
-    "Maboh Permai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Ansar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Setuntung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belitang Satu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Belitang Dua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menua Prama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maboh Permai"
+    }
   ]
 }

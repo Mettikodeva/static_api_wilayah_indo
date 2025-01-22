@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wuyukwi (Kelurahan Wuyukwi)",
-    "Pagaleme",
-    "Pruleme",
-    "Wuyukwi",
-    "Wuyuneri",
-    "Pepera",
-    "Muliagambut",
-    "Trikora",
-    "Towogi",
-    "Birak Ambut",
-    "Usir"
+    {
+      "sub_district_id": 1059,
+      "desa_kelurahan": "Wuyukwi (Kelurahan Wuyukwi)"
+    },
+    {
+      "sub_district_id": 1060,
+      "desa_kelurahan": "Pagaleme"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pruleme"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wuyukwi"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wuyuneri"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Pepera"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Muliagambut"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Trikora"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Towogi"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Birak Ambut"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Usir"
+    }
   ]
 }

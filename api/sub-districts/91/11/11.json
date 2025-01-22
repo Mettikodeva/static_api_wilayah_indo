@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kaisenar",
-    "Kiambra",
-    "Liket",
-    "Onam",
-    "Tefanma Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaisenar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kiambra"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Liket"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Onam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tefanma Satu"
+    }
   ]
 }

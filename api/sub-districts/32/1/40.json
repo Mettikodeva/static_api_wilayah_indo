@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tapos I",
-    "Tapos II",
-    "Cibitung Tengah",
-    "Situdaun",
-    "Cinangneng",
-    "Gunung Malang (Gunungmalang)",
-    "Gunung Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tapos I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapos II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibitung Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Situdaun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cinangneng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Malang (Gunungmalang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Mulya"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Patukuki",
-    "Balombong",
-    "Kolak",
-    "Koyobunga",
-    "Alakasing",
-    "Tombos",
-    "Luk",
-    "Labibi",
-    "Popisi",
-    "Tolulos",
-    "Tunggaling"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Patukuki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balombong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kolak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koyobunga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alakasing"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tombos"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Luk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Labibi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Popisi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tolulos"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tunggaling"
+    }
   ]
 }

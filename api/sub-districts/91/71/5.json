@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Hedam",
-    "Waena",
-    "Yabansai",
-    "Yoka",
-    "Waena II"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Hedam"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Waena"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Yabansai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yoka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waena II"
+    }
   ]
 }

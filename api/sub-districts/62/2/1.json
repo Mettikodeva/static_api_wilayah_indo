@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kota Besi Hulu",
-    "Kota Besi Hilir",
-    "Palangan",
-    "Hanjalipan",
-    "Simpur",
-    "Pamalian",
-    "Camba",
-    "Kandan",
-    "Bajarum",
-    "Rasau Tumbuh",
-    "Soren"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kota Besi Hulu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kota Besi Hilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hanjalipan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pamalian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Camba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kandan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bajarum"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rasau Tumbuh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Soren"
+    }
   ]
 }

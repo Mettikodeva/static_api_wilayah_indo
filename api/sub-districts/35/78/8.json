@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Gubeng",
-    "Mojo",
-    "Airlangga",
-    "Kertajaya",
-    "Baratajaya",
-    "Pucang Sewu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gubeng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mojo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Airlangga"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Baratajaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pucang Sewu"
+    }
   ]
 }

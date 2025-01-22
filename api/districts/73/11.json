@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Tanete Riaja",
-    "Tanete Rilau",
-    "Barru",
-    "Soppeng Riaja",
-    "Mallusetasi",
-    "Pujananting",
-    "Balusu"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanete Riaja"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanete Rilau"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Barru"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Soppeng Riaja"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Mallusetasi"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pujananting"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Balusu"
+    }
   ]
 }

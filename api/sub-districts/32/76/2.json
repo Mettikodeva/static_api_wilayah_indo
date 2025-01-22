@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Harjamukti",
-    "Curug",
-    "Tugu",
-    "Mekarsari",
-    "Pasir Gunung Selatan",
-    "Cisalak Pasar"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Harjamukti"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tugu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pasir Gunung Selatan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Cisalak Pasar"
+    }
   ]
 }

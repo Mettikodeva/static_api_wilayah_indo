@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Air Mundu",
-    "Tebat Tenong Dalam",
-    "Baru Manis",
-    "Kampung Melayu",
-    "Sentral Baru",
-    "Kampung Sajad",
-    "Suka Rami",
-    "Pagar Gunung",
-    "Selamat Sudiarjo",
-    "Purwodadi",
-    "Air Pikat",
-    "Tebat Pulau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Mundu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebat Tenong Dalam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baru Manis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kampung Melayu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sentral Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kampung Sajad"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Suka Rami"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pagar Gunung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Selamat Sudiarjo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Air Pikat"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tebat Pulau"
+    }
   ]
 }

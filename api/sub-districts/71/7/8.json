@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Silian",
-    "Silian Utara",
-    "Silian Satu",
-    "Silian Selatan",
-    "Silian Dua",
-    "Silian Tengah",
-    "Silian Tiga",
-    "Silian Barat",
-    "Silian Kota",
-    "Silian Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silian Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Silian Satu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Silian Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Silian Dua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silian Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Silian Tiga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Silian Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Silian Kota"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Silian Timur"
+    }
   ]
 }

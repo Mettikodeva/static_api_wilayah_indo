@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Suka Cinta",
-    "Gunung Agung",
-    "Tanjung Pinang",
-    "Suka Marga",
-    "Payo",
-    "Karang Endah",
-    "Tanjung Telang",
-    "Lubuk Kepayang",
-    "Muara Temiang",
-    "Ulak Pandan",
-    "Negeri Agung",
-    "Lebak Budi",
-    "Tanjung Baru",
-    "Kebur",
-    "Telatang",
-    "Muara Maung",
-    "Merapi",
-    "Purwosari (Purwa Sari)",
-    "Karang Rejo"
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suka Cinta"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Agung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Pinang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Marga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Payo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karang Endah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanjung Telang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lubuk Kepayang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Muara Temiang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ulak Pandan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Negeri Agung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lebak Budi"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kebur"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Telatang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Muara Maung"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Merapi"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Purwosari (Purwa Sari)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Karang Rejo"
+    }
   ]
 }

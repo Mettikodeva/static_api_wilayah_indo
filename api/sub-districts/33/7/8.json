@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Wringinanom",
-    "Kertek",
-    "Sudungdewo",
-    "Bejiarum",
-    "Ngadikusuman",
-    "Bojasari",
-    "Surengede",
-    "Sindupaten",
-    "Sumberdalem",
-    "Purwojati",
-    "Karangluhur",
-    "Tlogodalem",
-    "Banjar",
-    "Damarkasiyan",
-    "Tlogomulyo",
-    "Pagerejo",
-    "Candimulyo",
-    "Purbosono",
-    "Candiyasan",
-    "Kapencar",
-    "Reco"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wringinanom"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kertek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sudungdewo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bejiarum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngadikusuman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Surengede"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindupaten"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberdalem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purwojati"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karangluhur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tlogodalem"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Damarkasiyan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tlogomulyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pagerejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Candimulyo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Purbosono"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Candiyasan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kapencar"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Reco"
+    }
   ]
 }

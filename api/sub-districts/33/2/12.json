@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Wlahar Kulon",
-    "Sokawera (Sokawera Kidul)",
-    "Pegalongan",
-    "Patikraja",
-    "Notog",
-    "Karangendep",
-    "Sawangan Wetan",
-    "Kedungwuluh Kidul",
-    "Kedungrandu",
-    "Kedungwuluh Lor",
-    "Karanganyar",
-    "Sidabowa",
-    "Kedungwringin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wlahar Kulon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sokawera (Sokawera Kidul)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pegalongan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Patikraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Notog"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangendep"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawangan Wetan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedungwuluh Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungrandu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedungwuluh Lor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidabowa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kedungwringin"
+    }
   ]
 }

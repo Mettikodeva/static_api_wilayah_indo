@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kayutanyo",
-    "Pohi",
-    "Hunduhon",
-    "Baya",
-    "Uwedikan",
-    "Bantayan",
-    "Lauwon",
-    "Boitan",
-    "Molino",
-    "Louk",
-    "Lontos",
-    "Indang Sari",
-    "Bukit Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayutanyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pohi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hunduhon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uwedikan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bantayan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lauwon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Boitan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Molino"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Louk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lontos"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Indang Sari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukit Mulya"
+    }
   ]
 }

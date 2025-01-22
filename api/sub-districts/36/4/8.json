@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pulo Ampel",
-    "Sumuranja",
-    "Mangunreja",
-    "Gedung Soka (Kedung Soka)",
-    "Salira",
-    "Argawana",
-    "Banyuwangi",
-    "Margasari",
-    "Pulo Panjang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulo Ampel"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumuranja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangunreja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gedung Soka (Kedung Soka)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salira"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Argawana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banyuwangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Margasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulo Panjang"
+    }
   ]
 }

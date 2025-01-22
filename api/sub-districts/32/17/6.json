@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ngamprah",
-    "Cimareme",
-    "Cilame",
-    "Tanimulya",
-    "Cimanggu",
-    "Bojongkoneng",
-    "Margajaya",
-    "Mekarsari",
-    "Gadobangkong",
-    "Sukatani",
-    "Pakuhaji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngamprah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimareme"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cilame"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanimulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cimanggu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojongkoneng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margajaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gadobangkong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pakuhaji"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jangkar Mas",
-    "Bumi Agung",
-    "Muara Siban",
-    "Agung Lawongan (Agung Lawangan)",
-    "Pagar Wangi",
-    "Burung Dinang",
-    "Reba Tinggi"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jangkar Mas"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bumi Agung"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Muara Siban"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Agung Lawongan (Agung Lawangan)"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Pagar Wangi"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Burung Dinang"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Reba Tinggi"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pasir Sakti",
-    "Mulyo Sari",
-    "Purworejo",
-    "Rejo Mulyo",
-    "Kedung Ringin",
-    "Labuhan Ratu",
-    "Sumur Kucing",
-    "Mekar Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Sakti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mulyo Sari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rejo Mulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedung Ringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labuhan Ratu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumur Kucing"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Sari"
+    }
   ]
 }

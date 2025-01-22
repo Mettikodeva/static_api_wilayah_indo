@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Menala",
-    "Kuang",
-    "Bugis",
-    "Dalam",
-    "Sampir",
-    "Telaga Bertong",
-    "Arab Kenangan",
-    "Labuhan Lalar (Labuan Lalar)",
-    "Lalar Liang (Lalang Liang)",
-    "Labuhan Kertasari (Labuan Kertasari)",
-    "Seloto",
-    "Tamekan",
-    "Banjar",
-    "Batu Putih",
-    "Sermong",
-    "Lamunga"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Menala"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kuang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bugis"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dalam"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sampir"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Telaga Bertong"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Arab Kenangan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuhan Lalar (Labuan Lalar)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lalar Liang (Lalang Liang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuhan Kertasari (Labuan Kertasari)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Seloto"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tamekan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sermong"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lamunga"
+    }
   ]
 }

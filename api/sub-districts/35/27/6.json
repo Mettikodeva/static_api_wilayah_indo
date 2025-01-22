@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Banyukapah",
-    "Rabasan",
-    "Rohayu",
-    "Kedungdung",
-    "Komis",
-    "Bajrasoka (Bajrasokah)",
-    "Kramat",
-    "Nyeloh",
-    "Banjar",
-    "Ombul",
-    "Pajeruan",
-    "Muktesareh (Moktesareh)",
-    "Batoporo Barat",
-    "Batoporo Timur",
-    "Gunungeleh (Gunung Eleh)",
-    "Daleman",
-    "Pasarenan",
-    "Palenggiyan (Palenggian)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyukapah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rabasan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rohayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungdung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Komis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bajrasoka (Bajrasokah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nyeloh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ombul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pajeruan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muktesareh (Moktesareh)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batoporo Barat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batoporo Timur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gunungeleh (Gunung Eleh)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Daleman"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pasarenan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Palenggiyan (Palenggian)"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sepahat",
-    "Lamoanak (Lamo Anak)",
-    "Bengkawe",
-    "Tempoak",
-    "Re'es (Rees)",
-    "Raba",
-    "Nangka",
-    "Menjalin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepahat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lamoanak (Lamo Anak)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bengkawe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tempoak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Re'es (Rees)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Raba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nangka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Menjalin"
+    }
   ]
 }

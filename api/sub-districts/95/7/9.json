@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kuyawage",
-    "Wupaga",
-    "Luarem",
-    "Tumbupur",
-    "Uwome",
-    "Tunikele",
-    "Peko",
-    "Yugunomba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuyawage"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wupaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Luarem"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumbupur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Uwome"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tunikele"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Peko"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Yugunomba"
+    }
   ]
 }

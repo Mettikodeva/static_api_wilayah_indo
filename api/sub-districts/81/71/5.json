@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Hukurila",
-    "Ema",
-    "Kilang",
-    "Naku",
-    "Hatalai",
-    "Hutumury (Hutumuri)",
-    "Rutong",
-    "Leahari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hukurila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ema"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kilang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Naku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hatalai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hutumury (Hutumuri)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rutong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leahari"
+    }
   ]
 }

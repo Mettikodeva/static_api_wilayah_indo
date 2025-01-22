@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Limboto",
-    "Telaga",
-    "Batudaa",
-    "Tibawa",
-    "Batudaa Pantai",
-    "Boliyohuto (Boliohuto)",
-    "Telaga Biru",
-    "Bongomeme",
-    "Tolangohula",
-    "Mootilango",
-    "Pulubala",
-    "Limboto Barat",
-    "Tilango",
-    "Tabongo",
-    "Biluhu",
-    "Asparaga",
-    "Talaga Jaya (Telaga Jaya)",
-    "Bilato",
-    "Dungaliyo"
+    {
+      "district_id": 1,
+      "kecamatan": "Limboto"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Telaga"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Batudaa"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tibawa"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Batudaa Pantai"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Boliyohuto (Boliohuto)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Telaga Biru"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bongomeme"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tolangohula"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Mootilango"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pulubala"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Limboto Barat"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tilango"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tabongo"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Biluhu"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Asparaga"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Talaga Jaya (Telaga Jaya)"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Bilato"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Dungaliyo"
+    }
   ]
 }

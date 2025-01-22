@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Dabo",
-    "Dabo Lama",
-    "Sungailumpur",
-    "Batu Berdaun",
-    "Tanjung Harapan",
-    "Batu Kacang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dabo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dabo Lama"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sungailumpur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Berdaun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Kacang"
+    }
   ]
 }

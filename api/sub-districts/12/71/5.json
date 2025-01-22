@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kesawan",
-    "Silalas",
-    "Glugur Kota",
-    "Pulo Berayan Kota (Pulo Brayan Kota)",
-    "Sei Agul",
-    "Karang Berombak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kesawan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Silalas"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Glugur Kota"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pulo Berayan Kota (Pulo Brayan Kota)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei Agul"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang Berombak"
+    }
   ]
 }

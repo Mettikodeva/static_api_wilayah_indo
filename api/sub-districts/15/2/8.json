@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sungai Sahut",
-    "Bungo Antoi (Bunga Antoi)",
-    "Muara Delang",
-    "Sinar Gading",
-    "Bungo Tanjung (Bunga Tanjung)",
-    "Rawa Jaya",
-    "Gading Jaya",
-    "Mekar Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Sahut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bungo Antoi (Bunga Antoi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Delang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sinar Gading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bungo Tanjung (Bunga Tanjung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawa Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gading Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Jaya"
+    }
   ]
 }

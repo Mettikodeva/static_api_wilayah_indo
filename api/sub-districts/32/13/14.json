@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Buniara",
-    "Tanjungsiang",
-    "Cimeuhmal",
-    "Sirap",
-    "Kawungluwuk",
-    "Cibuluh",
-    "Sindanglaya",
-    "Rancamanggung",
-    "Cikawung",
-    "Gandasoli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buniara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungsiang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cimeuhmal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sirap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kawungluwuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibuluh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindanglaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rancamanggung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cikawung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gandasoli"
+    }
   ]
 }

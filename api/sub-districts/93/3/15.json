@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sagis",
-    "Kumaban",
-    "Tugumau",
-    "Basman",
-    "Merokima",
-    "Mu",
-    "Pier",
-    "Tarwa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sagis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kumaban"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tugumau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Basman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Merokima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pier"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tarwa"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Biwar Laut",
-    "Atambuts",
-    "Omanesep",
-    "Warkai",
-    "You",
-    "Pirpis",
-    "Desep"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biwar Laut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Atambuts"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Omanesep"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Warkai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "You"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pirpis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Desep"
+    }
   ]
 }

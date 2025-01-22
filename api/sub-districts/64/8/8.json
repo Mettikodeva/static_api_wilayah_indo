@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Makmur Jaya",
-    "Marga Mulya (Marga Mulia)",
-    "Sukamaju (Suka Maju)",
-    "Sidomulyo",
-    "Sri Pantun",
-    "Kombeng Indah (Kongbeng Indah)",
-    "Miau Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Makmur Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marga Mulya (Marga Mulia)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamaju (Suka Maju)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sri Pantun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kombeng Indah (Kongbeng Indah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Miau Baru"
+    }
   ]
 }

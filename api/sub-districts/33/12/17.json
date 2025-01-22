@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tegalrejo",
-    "Purwantoro",
-    "Biting",
-    "Bangsri",
-    "Sumber",
-    "Joho",
-    "Miricinde",
-    "Gondang",
-    "Kepyar",
-    "Bakalan",
-    "Ploso",
-    "Kenteng",
-    "Sendang",
-    "Talesan",
-    "Sukomangu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tegalrejo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Purwantoro"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biting"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangsri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Joho"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Miricinde"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kepyar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bakalan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ploso"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kenteng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talesan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sukomangu"
+    }
   ]
 }

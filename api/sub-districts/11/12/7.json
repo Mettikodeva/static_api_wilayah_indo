@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lhang",
-    "Rambong",
-    "Pisang",
-    "Ujong Tanoh (Ujung Tanah)",
-    "Alue Dama",
-    "Tangan Tangan Cut",
-    "Mon Mameh (Pesisir Mon Mameh)",
-    "Cinta Makmur",
-    "Kuta Murni"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lhang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rambong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pisang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ujong Tanoh (Ujung Tanah)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alue Dama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangan Tangan Cut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mon Mameh (Pesisir Mon Mameh)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cinta Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kuta Murni"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Buang",
-    "Karungo",
-    "Lamanggo",
-    "Dalinsaheng",
-    "Tope"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karungo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamanggo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dalinsaheng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tope"
+    }
   ]
 }

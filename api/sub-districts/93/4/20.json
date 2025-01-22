@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bor",
-    "Daikot",
-    "Somnak",
-    "Wabak",
-    "Vakam",
-    "Vakam Dua",
-    "Dekamer"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Daikot"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Somnak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wabak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Vakam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Vakam Dua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dekamer"
+    }
   ]
 }

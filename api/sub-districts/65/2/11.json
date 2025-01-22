@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Long Uli",
-    "Long Alango",
-    "Long Berini (Long Berini Mararian)",
-    "Long Tabulo/Tebulo",
-    "Apau Ping (Apau Ping Mading)",
-    "Long Kemuat (Long Atua)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Uli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Alango"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Berini (Long Berini Mararian)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Long Tabulo/Tebulo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Apau Ping (Apau Ping Mading)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Long Kemuat (Long Atua)"
+    }
   ]
 }

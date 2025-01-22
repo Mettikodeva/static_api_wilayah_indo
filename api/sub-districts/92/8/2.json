@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kambala",
-    "Yarona",
-    "Edor",
-    "Tairi",
-    "Gaka",
-    "Guriasa",
-    "Adi Jaya (Adijaya)",
-    "Nusaulan (Nusaulan Jaya)",
-    "Esania",
-    "Hia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kambala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yarona"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Edor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tairi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gaka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Guriasa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Adi Jaya (Adijaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nusaulan (Nusaulan Jaya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Esania"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hia"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sailolof",
-    "Kotlol (Klotlol)",
-    "Dulbatan",
-    "Manoket",
-    "Payapop",
-    "Masmapop (Masmaspop)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sailolof"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kotlol (Klotlol)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dulbatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manoket"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Payapop"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Masmapop (Masmaspop)"
+    }
   ]
 }

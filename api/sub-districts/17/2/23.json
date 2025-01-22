@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Merantau",
-    "Periang",
-    "Balai Buntar/Butar",
-    "Lubuk Tanjung/Tunjung",
-    "Lubuk Belimbing I",
-    "Lubuk Belimbing II",
-    "Lubuk Bingin Baru",
-    "Sari Pulau",
-    "Suka Merindu",
-    "Suka karya (Sukakarya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Merantau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Periang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balai Buntar/Butar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Tanjung/Tunjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Belimbing I"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Belimbing II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Bingin Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sari Pulau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Merindu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suka karya (Sukakarya)"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Fak-Fak (Fakfak)",
-    "Fak-Fak Barat (Fakfak Barat)",
-    "Fak-Fak Timur (Fakfak Timur)",
-    "Kokas",
-    "Fak-Fak Tengah (Fakfak Tengah)",
-    "Karas",
-    "Bomberay",
-    "Kramongmongga",
-    "Teluk Patipi",
-    "Pariwari",
-    "Wartutin",
-    "Fakfak Timur Tengah",
-    "Arguni",
-    "Mbahamdandara",
-    "Kayauni",
-    "Furwagi",
-    "Tomage"
+    {
+      "district_id": 1,
+      "kecamatan": "Fak-Fak (Fakfak)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Fak-Fak Barat (Fakfak Barat)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Fak-Fak Timur (Fakfak Timur)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kokas"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Fak-Fak Tengah (Fakfak Tengah)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Karas"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bomberay"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kramongmongga"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Teluk Patipi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pariwari"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wartutin"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Fakfak Timur Tengah"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Arguni"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Mbahamdandara"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kayauni"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Furwagi"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tomage"
+    }
   ]
 }

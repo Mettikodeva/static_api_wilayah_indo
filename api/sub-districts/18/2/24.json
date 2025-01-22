@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sri Kencono",
-    "Bumi Nabung Ilir",
-    "Bumi Nabung Utara",
-    "Bumi Nabung Selatan",
-    "Bumi Nabung Timur",
-    "Bumi Nabung Baru",
-    "Sri Kenanga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sri Kencono"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bumi Nabung Ilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bumi Nabung Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bumi Nabung Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Nabung Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Nabung Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sri Kenanga"
+    }
   ]
 }

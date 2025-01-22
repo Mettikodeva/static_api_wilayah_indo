@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Muara Jernih",
-    "Kapuk",
-    "Pulau Aro",
-    "Rantau Ngarau / Ngaro",
-    "Medan Baru",
-    "Muaro Seketuk (Muara Seketuk)"
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Jernih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kapuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulau Aro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rantau Ngarau / Ngaro"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Medan Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muaro Seketuk (Muara Seketuk)"
+    }
   ]
 }

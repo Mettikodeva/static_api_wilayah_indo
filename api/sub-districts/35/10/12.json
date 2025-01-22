@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gambor",
-    "Alasmalang (Alas Malang)",
-    "Benelan Kidul",
-    "Lemahbang Kulon",
-    "Singojuruh",
-    "Gumirih",
-    "Cantuk",
-    "Padang",
-    "Singolatren",
-    "Kemiri",
-    "Sumberbaru (Sumber Baru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gambor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alasmalang (Alas Malang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benelan Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lemahbang Kulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Singojuruh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gumirih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cantuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Singolatren"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberbaru (Sumber Baru)"
+    }
   ]
 }

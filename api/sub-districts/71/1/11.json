@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tumokang Baru",
-    "Mopugad Utara",
-    "Mopugad Selatan",
-    "Mopuya Utara",
-    "Mopuya Selatan",
-    "Dondomon",
-    "Mopugad Utara Satu",
-    "Mopugad Utara Dua",
-    "Mopugad Selatan Satu",
-    "Mopuya Utara Satu",
-    "Mopuya Utara Dua",
-    "Mopuya Selatan Satu",
-    "Mopuya Selatan Dua",
-    "Dondomon Utara",
-    "Dondomon Selatan",
-    "Tumokang Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumokang Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mopugad Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mopugad Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mopuya Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mopuya Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dondomon"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mopugad Utara Satu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mopugad Utara Dua"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mopugad Selatan Satu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mopuya Utara Satu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mopuya Utara Dua"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mopuya Selatan Satu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mopuya Selatan Dua"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Dondomon Utara"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Dondomon Selatan"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tumokang Timur"
+    }
   ]
 }

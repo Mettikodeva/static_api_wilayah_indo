@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Cinta Manis Baru",
-    "Sido Makmur",
-    "Sidomulyo",
-    "Nusa Makmur",
-    "Rimba Jaya",
-    "Teluktenggirik (Teluk Tenggirik)",
-    "Sebubus",
-    "Padang Rejo",
-    "Kumbang Padang Permata",
-    "Muara Baru (Muarabaru)",
-    "Tirta Makmur",
-    "Panca Mulya",
-    "Budi Mulya (Budi Mulyo)",
-    "Panca Desa",
-    "Air Kumbang Bakti",
-    "Sebokor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cinta Manis Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sido Makmur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nusa Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rimba Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluktenggirik (Teluk Tenggirik)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sebubus"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padang Rejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kumbang Padang Permata"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara Baru (Muarabaru)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tirta Makmur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Panca Mulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Budi Mulya (Budi Mulyo)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Panca Desa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Air Kumbang Bakti"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sebokor"
+    }
   ]
 }

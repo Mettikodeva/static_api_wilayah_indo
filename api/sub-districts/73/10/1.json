@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sapuka",
-    "Sabaru",
-    "Balo Baloang",
-    "Sabalana",
-    "Tampaang",
-    "Sailus",
-    "Satanger",
-    "Kapoposan Bali",
-    "Poleonro"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sapuka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sabaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balo Baloang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sabalana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tampaang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sailus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Satanger"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kapoposan Bali"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Poleonro"
+    }
   ]
 }

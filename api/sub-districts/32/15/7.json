@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Waluya",
-    "Mulyajaya",
-    "Kutakarya",
-    "Kutagandok",
-    "Kutamukti",
-    "Kutajaya",
-    "Sampalan",
-    "Sindangmulya",
-    "Sindangmukti",
-    "Kutaraja",
-    "Sindangsari",
-    "Sindangkarya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waluya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mulyajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kutakarya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kutagandok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutamukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kutajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sampalan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindangmulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sindangmukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kutaraja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangkarya"
+    }
   ]
 }

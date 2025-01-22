@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tiolome",
-    "Belabaga",
-    "Mewut",
-    "Maloinggen",
-    "Wanume"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tiolome"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belabaga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mewut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maloinggen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wanume"
+    }
   ]
 }

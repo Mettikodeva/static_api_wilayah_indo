@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Maiwa",
-    "Enrekang",
-    "Baraka",
-    "Anggeraja",
-    "Alla",
-    "Bungin",
-    "Cendana",
-    "Curio",
-    "Malua",
-    "Buntu Batu",
-    "Masalle",
-    "Baroko"
+    {
+      "district_id": 1,
+      "kecamatan": "Maiwa"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Enrekang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Baraka"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Anggeraja"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Alla"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bungin"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Cendana"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Curio"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Malua"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Buntu Batu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Masalle"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Baroko"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bukur",
-    "Sambirejo (Samberejo)",
-    "Metesih",
-    "Jiwan",
-    "Sukolilo",
-    "Kincang Wetan",
-    "Kwangsen",
-    "Grobogan",
-    "Wayut",
-    "Klagenserut (Klagen Serut)",
-    "Teguhan",
-    "Ngetrep",
-    "Bedoho",
-    "Bibrik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambirejo (Samberejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Metesih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jiwan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukolilo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kincang Wetan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kwangsen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Grobogan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wayut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Klagenserut (Klagen Serut)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teguhan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngetrep"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bedoho"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bibrik"
+    }
   ]
 }

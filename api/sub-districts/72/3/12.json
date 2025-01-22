@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Labean",
-    "Lombonga",
-    "Meli",
-    "Tambu",
-    "Siweli",
-    "Sibualong",
-    "Sibayu",
-    "Malino",
-    "Mapane Tambu",
-    "Tovia Tambu",
-    "Sipure",
-    "Kampung Baru Sibayu",
-    "Simagaya"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labean"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lombonga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meli"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tambu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siweli"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sibualong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sibayu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Malino"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mapane Tambu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tovia Tambu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sipure"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kampung Baru Sibayu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Simagaya"
+    }
   ]
 }

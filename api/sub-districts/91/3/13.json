@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dondai (Donday)",
-    "Doyo Lama",
-    "Kwadeware (Kanda)",
-    "Yakonde",
-    "Sosiri",
-    "Doyo Baru",
-    "Bambar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dondai (Donday)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Doyo Lama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kwadeware (Kanda)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yakonde"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sosiri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Doyo Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bambar"
+    }
   ]
 }

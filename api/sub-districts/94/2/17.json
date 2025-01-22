@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Dokome",
-    "Purbalo",
-    "Wurage",
-    "Nowoneri",
-    "Nowome",
-    "Imulineri",
-    "Molobak",
-    "Kimibut",
-    "Nungwawi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dokome"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purbalo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wurage"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nowoneri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nowome"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Imulineri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Molobak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kimibut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nungwawi"
+    }
   ]
 }

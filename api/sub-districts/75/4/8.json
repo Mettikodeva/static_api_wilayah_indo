@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Popaya",
-    "Karya Baru",
-    "Karangetan (Karangetang)",
-    "Padengo",
-    "Hutamoputi (Huta Moputi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Popaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karya Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangetan (Karangetang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padengo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hutamoputi (Huta Moputi)"
+    }
   ]
 }

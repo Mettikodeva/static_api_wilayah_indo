@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wamesa Tengah",
-    "Yopmeos (Yopmios)",
-    "Sombokoro",
-    "Windesi",
-    "Sandey"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wamesa Tengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yopmeos (Yopmios)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sombokoro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Windesi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sandey"
+    }
   ]
 }

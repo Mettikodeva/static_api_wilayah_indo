@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tumbang Gaei",
-    "Tumbang Kataei",
-    "Tumbang Karuei",
-    "Tumbang Dahuei",
-    "Rantau Pandan",
-    "Rangan Rondan (Rongan Rondan)",
-    "Rangan Bahekang",
-    "Tumbang Kajamei",
-    "Tumbang Kaburai",
-    "Tanjung Batik",
-    "Penda Nange"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbang Gaei"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Kataei"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbang Karuei"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumbang Dahuei"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Pandan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rangan Rondan (Rongan Rondan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rangan Bahekang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Kajamei"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tumbang Kaburai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Batik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Penda Nange"
+    }
   ]
 }

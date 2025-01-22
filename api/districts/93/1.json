@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Merauke",
-    "Muting",
-    "Okaba",
-    "Kimaam",
-    "Semangga",
-    "Tanah Miring",
-    "Jagebob",
-    "Sota",
-    "Ulilin",
-    "Elikobal",
-    "Kurik",
-    "Naukenjerai",
-    "Animha",
-    "Malind",
-    "Tubang",
-    "Ngguti",
-    "Kaptel",
-    "Tabonji",
-    "Waan",
-    "Ilwayab (Ilyawab)",
-    "Padua",
-    "Kontuar"
+    {
+      "district_id": 1,
+      "kecamatan": "Merauke"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Muting"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Okaba"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kimaam"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Semangga"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tanah Miring"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Jagebob"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sota"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Ulilin"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Elikobal"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kurik"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Naukenjerai"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Animha"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Malind"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Tubang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Ngguti"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kaptel"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tabonji"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Waan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Ilwayab (Ilyawab)"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Padua"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Kontuar"
+    }
   ]
 }

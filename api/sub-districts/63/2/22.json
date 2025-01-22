@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Baharu Selatan",
-    "Kotabaru Tengah",
-    "Kotabaru Hilir",
-    "Sebatung",
-    "Hilir Muara",
-    "Batuah",
-    "Baharu Utara",
-    "Tirawan",
-    "Gedambaan",
-    "Sarang Tiung",
-    "Sigam"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Baharu Selatan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kotabaru Tengah"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kotabaru Hilir"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sebatung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilir Muara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batuah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baharu Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tirawan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedambaan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sarang Tiung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sigam"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sengonwetan",
-    "Sambongbangi",
-    "Banjardowo",
-    "Kradenan",
-    "Rejosari",
-    "Bago",
-    "Simo",
-    "Pakis",
-    "Crewek",
-    "Banjarsari",
-    "Kalisari",
-    "Kuwu",
-    "Grabagan",
-    "Tanjungsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sengonwetan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambongbangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjardowo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kradenan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bago"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pakis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Crewek"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuwu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Grabagan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjungsari"
+    }
   ]
 }

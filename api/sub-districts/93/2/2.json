@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mindiptana",
-    "Umap",
-    "Awayanka",
-    "Wanggatkibi (Wanggat Kibi)",
-    "Epsembit",
-    "Andobit (Andopbit)",
-    "Niyimbang",
-    "Anggumbit",
-    "Imko",
-    "Kamka",
-    "Osso",
-    "Tinggam",
-    "Kakuna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mindiptana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Umap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Awayanka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wanggatkibi (Wanggat Kibi)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Epsembit"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Andobit (Andopbit)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Niyimbang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Anggumbit"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Imko"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kamka"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Osso"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tinggam"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kakuna"
+    }
   ]
 }

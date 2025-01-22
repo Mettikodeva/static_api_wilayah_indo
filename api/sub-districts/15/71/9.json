@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kenali Besar",
-    "Rawa Sari",
-    "Mayang Mangurai",
-    "Bagan Pete",
-    "Beliung",
-    "Simpang Rimbo",
-    "Pinang Merah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kenali Besar"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rawa Sari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mayang Mangurai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bagan Pete"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Beliung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Simpang Rimbo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pinang Merah"
+    }
   ]
 }

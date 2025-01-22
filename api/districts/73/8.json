@@ -1,31 +1,112 @@
 {
   "districts": [
-    "Bontocani",
-    "Kahu",
-    "Kajuara",
-    "Salomekko",
-    "Tonra",
-    "Libureng",
-    "Mare",
-    "Sibulue",
-    "Barebbo",
-    "Cina",
-    "Ponre",
-    "Lappariaja",
-    "Lamuru",
-    "Ulaweng",
-    "Palakka",
-    "Awangpone",
-    "Tellu Siattinge",
-    "Ajangale",
-    "Dua Boccoe",
-    "Cenrana",
-    "Tanete Riattang",
-    "Tanete Riattang Barat",
-    "Tanete Riattang Timur",
-    "Amali",
-    "Tellulimpoe (Tellu Limpoe)",
-    "Bengo",
-    "Patimpeng"
+    {
+      "district_id": 1,
+      "kecamatan": "Bontocani"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kahu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kajuara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Salomekko"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tonra"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Libureng"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mare"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sibulue"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Barebbo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Cina"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ponre"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lappariaja"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Lamuru"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Ulaweng"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Palakka"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Awangpone"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tellu Siattinge"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Ajangale"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Dua Boccoe"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Cenrana"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Tanete Riattang"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Tanete Riattang Barat"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Tanete Riattang Timur"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Amali"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Tellulimpoe (Tellu Limpoe)"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Bengo"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Patimpeng"
+    }
   ]
 }

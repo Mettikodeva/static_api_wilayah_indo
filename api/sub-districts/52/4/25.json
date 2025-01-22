@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bantulante",
-    "Labuhan Bontong",
-    "Labuhan Aji",
-    "Labuhan Jambu",
-    "Mata",
-    "Tolo Oi",
-    "Banda",
-    "Labuhan Pidang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bantulante"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuhan Bontong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labuhan Aji"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labuhan Jambu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mata"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tolo Oi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Labuhan Pidang"
+    }
   ]
 }

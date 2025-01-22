@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sumber Agung",
-    "Ulok Mukti",
-    "Negeri Ratu Ngambur",
-    "Pekon Mon",
-    "Gedung Cahya Kuningan",
-    "Suka Banjar",
-    "Suka Negara (Negara)",
-    "Muara Tembulih (Mauara Tembulih)",
-    "Bumi Ratu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ulok Mukti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Negeri Ratu Ngambur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pekon Mon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gedung Cahya Kuningan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Banjar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Negara (Negara)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Tembulih (Mauara Tembulih)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumi Ratu"
+    }
   ]
 }

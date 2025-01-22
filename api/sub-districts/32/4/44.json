@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cangkuang",
-    "Ciluncat",
-    "Nagrak",
-    "Bandasari",
-    "Pananjung",
-    "Jatisari",
-    "Tanjungsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cangkuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciluncat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nagrak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pananjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungsari"
+    }
   ]
 }

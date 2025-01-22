@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Semaki",
-    "Muja Muju",
-    "Tahunan",
-    "Warungboto",
-    "Pandeyan",
-    "Sorosutan",
-    "Giwangan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Semaki"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Muja Muju"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tahunan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Warungboto"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pandeyan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sorosutan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Giwangan"
+    }
   ]
 }

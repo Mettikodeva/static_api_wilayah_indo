@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ledu-Ledu",
-    "Kawata",
-    "Tabarano",
-    "Wasuponda",
-    "Parumpanai",
-    "Balambano"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ledu-Ledu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tabarano"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wasuponda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parumpanai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balambano"
+    }
   ]
 }

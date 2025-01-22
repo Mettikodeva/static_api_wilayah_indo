@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Mangoli Timur",
-    "Sanana",
-    "Sulabesi Barat",
-    "Mangoli Barat",
-    "Sulabesi Tengah",
-    "Sulabesi Timur",
-    "Sulabesi Selatan",
-    "Mangoli Utara Timur",
-    "Mangoli Tengah",
-    "Mangoli Selatan",
-    "Mangoli Utara",
-    "Sanana Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Mangoli Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sanana"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sulabesi Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mangoli Barat"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sulabesi Tengah"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sulabesi Timur"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sulabesi Selatan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Mangoli Utara Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Mangoli Tengah"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mangoli Selatan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Mangoli Utara"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sanana Utara"
+    }
   ]
 }

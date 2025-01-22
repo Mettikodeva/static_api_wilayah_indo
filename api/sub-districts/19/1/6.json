@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bakam",
-    "Kapuk",
-    "Dalil",
-    "Neknang",
-    "Tiang Tarah (Tiang Tara)",
-    "Mangka",
-    "Mabat",
-    "Bukit Layang",
-    "Maras Senang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bakam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kapuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dalil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Neknang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tiang Tarah (Tiang Tara)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mabat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Layang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maras Senang"
+    }
   ]
 }

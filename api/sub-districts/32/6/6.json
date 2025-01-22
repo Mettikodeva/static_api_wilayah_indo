@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cisempur",
-    "Setiawaras",
-    "Eureunpalay",
-    "Cibalong",
-    "Singajaya",
-    "Parung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisempur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Setiawaras"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Eureunpalay"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibalong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Singajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parung"
+    }
   ]
 }

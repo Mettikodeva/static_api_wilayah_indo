@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Lendang Are",
-    "Monggas",
-    "Muncan",
-    "Bebuak",
-    "Kopang Rembiga",
-    "Dasan Baru",
-    "Montong Gamang",
-    "Darmaji",
-    "Wajageseng",
-    "Aik Bual",
-    "Semparu",
-    "Berinding",
-    "Pajangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lendang Are"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Monggas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muncan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bebuak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kopang Rembiga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dasan Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Montong Gamang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Darmaji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wajageseng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aik Bual"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Semparu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Berinding"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pajangan"
+    }
   ]
 }

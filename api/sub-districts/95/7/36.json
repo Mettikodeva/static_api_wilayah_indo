@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Wanggagome",
-    "Langgime",
-    "Wulawa",
-    "Pindalo",
-    "Kotorambur",
-    "Ambime",
-    "Wumbanakme",
-    "Yimiribaga",
-    "Elubaga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanggagome"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Langgime"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wulawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pindalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kotorambur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ambime"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wumbanakme"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yimiribaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Elubaga"
+    }
   ]
 }

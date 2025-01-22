@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Nggesa",
-    "Detukeli",
-    "Kebesani",
-    "Wolomuku",
-    "Watunggere",
-    "Nida",
-    "Maurole Selatan",
-    "Detumbewa",
-    "Kanganara",
-    "Unggu",
-    "Nggesabiri",
-    "Watunggere Marilonga",
-    "Jeo Du'a"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nggesa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Detukeli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kebesani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wolomuku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watunggere"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nida"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maurole Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Detumbewa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kanganara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Unggu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nggesabiri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Watunggere Marilonga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jeo Du'a"
+    }
   ]
 }

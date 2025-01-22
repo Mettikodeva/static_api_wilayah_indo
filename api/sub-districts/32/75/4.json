@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pekayonjaya (Pekayon Jaya)",
-    "Margajaya",
-    "Jakamulya (Jaka Mulya)",
-    "Jakasetia (Jaka Setia)",
-    "Kayuringinjaya (Kayuringin Jaya)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pekayonjaya (Pekayon Jaya)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Margajaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jakamulya (Jaka Mulya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jakasetia (Jaka Setia)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kayuringinjaya (Kayuringin Jaya)"
+    }
   ]
 }

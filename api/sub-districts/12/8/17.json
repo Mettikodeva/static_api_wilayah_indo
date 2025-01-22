@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Serbelawan",
-    "Aman Sari",
-    "Silenduk",
-    "Bah Tobu",
-    "Bandar Selamat",
-    "Dolok Ilir I",
-    "Dolok Ilir II",
-    "Bahung Kahean",
-    "Dolok Mainu",
-    "Dolok Merangir I",
-    "Dolok Merangir II",
-    "Kahean",
-    "Dolok Tenera",
-    "Dolok Kataran",
-    "Padang Mainu",
-    "Bahung Huluan"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Serbelawan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Aman Sari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silenduk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bah Tobu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Selamat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dolok Ilir I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dolok Ilir II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bahung Kahean"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dolok Mainu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dolok Merangir I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dolok Merangir II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kahean"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dolok Tenera"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dolok Kataran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Padang Mainu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bahung Huluan"
+    }
   ]
 }

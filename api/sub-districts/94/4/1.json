@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Koperapoka",
-    "Kwamki",
-    "Timika Jaya",
-    "Sempan",
-    "Pasar Sentral",
-    "Wanagon",
-    "Kebun Sirih",
-    "Otomona",
-    "Perintis",
-    "Dingo Narama",
-    "Timika Indah",
-    "Nayaro",
-    "Minabua",
-    "Hangaitji"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Koperapoka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kwamki"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Timika Jaya"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Sempan"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Pasar Sentral"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Wanagon"
+    },
+    {
+      "sub_district_id": 1029,
+      "desa_kelurahan": "Kebun Sirih"
+    },
+    {
+      "sub_district_id": 1030,
+      "desa_kelurahan": "Otomona"
+    },
+    {
+      "sub_district_id": 1031,
+      "desa_kelurahan": "Perintis"
+    },
+    {
+      "sub_district_id": 1032,
+      "desa_kelurahan": "Dingo Narama"
+    },
+    {
+      "sub_district_id": 1033,
+      "desa_kelurahan": "Timika Indah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nayaro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Minabua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hangaitji"
+    }
   ]
 }

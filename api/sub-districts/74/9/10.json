@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bende",
-    "Tondowatu",
-    "Matandahi",
-    "Banggina",
-    "Motui",
-    "Wawoluri",
-    "Lambuluo",
-    "Poni Poniki",
-    "Puuwonggia",
-    "Punggulahi",
-    "Sama Subur",
-    "Ranombupulu",
-    "Tobimeita",
-    "Kapolano",
-    "Sambasule"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bende"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tondowatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matandahi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banggina"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Motui"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wawoluri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lambuluo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Poni Poniki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puuwonggia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Punggulahi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sama Subur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ranombupulu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tobimeita"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kapolano"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sambasule"
+    }
   ]
 }

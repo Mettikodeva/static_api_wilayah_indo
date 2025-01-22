@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Bandar Bintuhan",
-    "Sekunyit",
-    "Suka Bandung",
-    "Air Dingin",
-    "Pasar Baru",
-    "Pasar Lama",
-    "Gedung Sako",
-    "Jembatan Dua",
-    "Tanjung Besar",
-    "Pengubaian",
-    "Pahlawan Ratu",
-    "Pasar Saoh",
-    "Kepala Pasar",
-    "Padang Petron",
-    "Sawah Jangkung",
-    "Selasih",
-    "Padang Genting",
-    "Gedung Sako II",
-    "Sinar Pagi"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bandar Bintuhan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sekunyit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suka Bandung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Air Dingin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pasar Lama"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gedung Sako"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jembatan Dua"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjung Besar"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pengubaian"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pahlawan Ratu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pasar Saoh"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kepala Pasar"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Padang Petron"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sawah Jangkung"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Selasih"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Padang Genting"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Gedung Sako II"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sinar Pagi"
+    }
   ]
 }

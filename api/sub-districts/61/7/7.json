@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jagoi",
-    "Kumba",
-    "Sekida (Jagoi Sekida)",
-    "Gersik",
-    "Semunying Jaya (Semunyin Jaya)",
-    "Sinar Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jagoi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kumba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sekida (Jagoi Sekida)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gersik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Semunying Jaya (Semunyin Jaya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinar Baru"
+    }
   ]
 }

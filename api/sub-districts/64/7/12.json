@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Gerungung (Gerunggung)",
-    "Pereng Taliq (Pereng Talik)",
-    "Tanjung Soke",
-    "Deraya",
-    "Lemper",
-    "Muara Siram",
-    "Resak",
-    "Jambuk",
-    "Muara Gusik",
-    "Penawai",
-    "Muara Kedang",
-    "Jambuk Makmur",
-    "Muaram Siram I (Siram Makmur)",
-    "Muaram Siram II (Siram Jaya)",
-    "Bukit Harapan",
-    "Tanjung Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gerungung (Gerunggung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pereng Taliq (Pereng Talik)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Soke"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Deraya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lemper"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Siram"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Resak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Gusik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Penawai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Kedang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jambuk Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muaram Siram I (Siram Makmur)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Muaram Siram II (Siram Jaya)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanjung Sari"
+    }
   ]
 }

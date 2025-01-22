@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanah Periuk (Tanah Priuk)",
-    "Simpang Periuk (Simpang Priuk)",
-    "Karang Ketuan",
-    "Siring Agung",
-    "Eka Marga",
-    "Marga Mulya",
-    "Marga Rahayu",
-    "Taba Pingin",
-    "Moneng Sepati"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Periuk (Tanah Priuk)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Simpang Periuk (Simpang Priuk)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karang Ketuan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Siring Agung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Eka Marga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Marga Rahayu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Taba Pingin"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Moneng Sepati"
+    }
   ]
 }

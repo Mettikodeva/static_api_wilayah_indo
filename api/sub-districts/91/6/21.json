@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wopes",
-    "Wandos",
-    "Doubo",
-    "Syurdori",
-    "Sansundi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wopes"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wandos"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Doubo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Syurdori"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sansundi"
+    }
   ]
 }

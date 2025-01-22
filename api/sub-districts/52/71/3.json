@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cakranegara Selatan",
-    "Cakranegara Barat",
-    "Cakranegara Timur",
-    "Cakranegara Utara",
-    "Sayang Sayang",
-    "Cakranegara Selatan Baru",
-    "Sapta Marga",
-    "Cilinaya",
-    "Mayura",
-    "Karang Taliwang"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cakranegara Selatan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cakranegara Barat"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cakranegara Timur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cakranegara Utara"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sayang Sayang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Cakranegara Selatan Baru"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sapta Marga"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Cilinaya"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Mayura"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Karang Taliwang"
+    }
   ]
 }

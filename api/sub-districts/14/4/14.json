@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Selensen",
-    "Batu Ampar",
-    "Keritang",
-    "Air Balui",
-    "Tuk Jimun (Dusun Tuk Jimun)",
-    "Kemuning Tua",
-    "Kemuning Muda",
-    "Limau Manis",
-    "Lubuk Besar",
-    "Sekara",
-    "Talang Jangkang",
-    "Sekayan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Selensen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keritang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Balui"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuk Jimun (Dusun Tuk Jimun)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kemuning Tua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kemuning Muda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Limau Manis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk Besar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sekara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Talang Jangkang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sekayan"
+    }
   ]
 }

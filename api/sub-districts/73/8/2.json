@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Palattae",
-    "Nusa",
-    "Pasaka",
-    "Labuaja",
-    "Cakkela",
-    "Balle",
-    "Matajang",
-    "Cenrana",
-    "Sanrego",
-    "Biru",
-    "Palakka",
-    "Tompong Patu",
-    "Hulo",
-    "Cammilo",
-    "Carima",
-    "Mattoanging",
-    "Arallae",
-    "Bonto Padang",
-    "Lallepo (Lalepo)",
-    "Maggenrang (Manggenrang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Palattae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nusa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasaka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labuaja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cakkela"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balle"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matajang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cenrana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sanrego"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Biru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Palakka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tompong Patu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hulo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cammilo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Carima"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mattoanging"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Arallae"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bonto Padang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lallepo (Lalepo)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Maggenrang (Manggenrang)"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Oknanggul",
-    "Kukihil",
-    "Kiwi",
-    "Berusaha",
-    "Pelebib",
-    "Sopamikma",
-    "Asua",
-    "Lolim",
-    "Pomding",
-    "Diip",
-    "Delpem",
-    "Mangoldoki"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oknanggul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kukihil"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kiwi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Berusaha"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pelebib"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sopamikma"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Asua"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lolim"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pomding"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Diip"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Delpem"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Mangoldoki"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kambiolangi",
-    "Kalosi",
-    "Buntu Sugi",
-    "Mata Allo",
-    "Sumillan",
-    "Pana",
-    "Taulo",
-    "Bolang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kambiolangi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kalosi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Buntu Sugi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mata Allo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumillan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pana"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Taulo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bolang"
+    }
   ]
 }

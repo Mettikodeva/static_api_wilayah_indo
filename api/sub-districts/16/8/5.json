@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Negeri Pakuan",
-    "Negeri Agung",
-    "Banu Mas (Banumas)",
-    "Banu Ayu (Banuayu)",
-    "Pulau Negara",
-    "Saung Dadi",
-    "Terantang/Trantang Sakti",
-    "Pemetung Besuki (Pemetung Basuki)",
-    "Pahang Asri",
-    "Bantan",
-    "Bandar Jaya",
-    "Negeri Agung Jaya",
-    "Bantan Pelita"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Pakuan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Negeri Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banu Mas (Banumas)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banu Ayu (Banuayu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Negara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saung Dadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terantang/Trantang Sakti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pemetung Besuki (Pemetung Basuki)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pahang Asri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bantan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bandar Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Negeri Agung Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bantan Pelita"
+    }
   ]
 }

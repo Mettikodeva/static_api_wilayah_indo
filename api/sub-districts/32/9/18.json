@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Cempaka",
-    "Pamijahan",
-    "Lurah",
-    "Marikangen",
-    "Bode Lor",
-    "Bodesari",
-    "Gombang",
-    "Karangmulya",
-    "Karangasem",
-    "Plumbon",
-    "Purbawinangun",
-    "Kebarepan",
-    "Pasanggrahan",
-    "Kedungsana",
-    "Danamulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pamijahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lurah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marikangen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bode Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bodesari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gombang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangmulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangasem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Plumbon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purbawinangun"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kebarepan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasanggrahan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kedungsana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Danamulya"
+    }
   ]
 }

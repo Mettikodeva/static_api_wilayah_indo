@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lanipa-Nipa",
-    "Ujung Tobaku (Tobako)",
-    "Katoi",
-    "Simbula",
-    "Maruge",
-    "Lambuno"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lanipa-Nipa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujung Tobaku (Tobako)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Katoi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simbula"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maruge"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lambuno"
+    }
   ]
 }

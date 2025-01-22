@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kenteng",
-    "Potronayan",
-    "Sembungan",
-    "Jeron",
-    "Ketitang",
-    "Rembun",
-    "Guli",
-    "Tegalgiri",
-    "Bendo",
-    "Keyongan",
-    "Pojok",
-    "Glonggong",
-    "Pulutan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kenteng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Potronayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sembungan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jeron"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ketitang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rembun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Guli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegalgiri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keyongan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Glonggong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulutan"
+    }
   ]
 }

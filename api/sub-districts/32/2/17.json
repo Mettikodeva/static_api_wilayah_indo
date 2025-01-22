@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pondokaso Tonggoh (Pondok Kaso Tonggoh)",
-    "Babakanpari (Babakan Pari)",
-    "Pondokaso Tengah (Pondok Kaso Tengah)",
-    "Cidahu",
-    "Tangkil",
-    "Jayabakti",
-    "Girijaya",
-    "Pasirdoton"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pondokaso Tonggoh (Pondok Kaso Tonggoh)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babakanpari (Babakan Pari)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pondokaso Tengah (Pondok Kaso Tengah)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cidahu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tangkil"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jayabakti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Girijaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasirdoton"
+    }
   ]
 }

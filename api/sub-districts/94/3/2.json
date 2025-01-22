@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Obano",
-    "Kegouda",
-    "Totiyo",
-    "Beko",
-    "Tipakotu",
-    "Epo Obano",
-    "Towauwo",
-    "Wiyogei",
-    "Ekinauwo",
-    "Kigodide",
-    "Putakogopa",
-    "Waukotopa",
-    "Digiugii"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Obano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kegouda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Totiyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tipakotu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Epo Obano"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Towauwo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wiyogei"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ekinauwo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kigodide"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Putakogopa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waukotopa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Digiugii"
+    }
   ]
 }

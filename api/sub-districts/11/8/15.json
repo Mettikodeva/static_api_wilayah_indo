@@ -1,43 +1,160 @@
 {
   "sub_districts": [
-    "Lagang",
-    "Abeuk Reuling",
-    "Lhok Krek",
-    "Lhok Merbo (Meureubo)",
-    "Gle Dagang (Glee Dagang)",
-    "Kuta Meuligoe",
-    "Gampong Teungoh",
-    "Babah Buloh",
-    "Meunasah Pulo",
-    "Punteuet (Punteut)",
-    "Pante Jaloh",
-    "Lhok Kuyun",
-    "Blang Reuling",
-    "Lhok Gajah",
-    "Teupin Rusep/Reusep",
-    "Ulee Geudong",
-    "Tanjong Keumala",
-    "Cot Kumuneng/Keumuning",
-    "Cot Lambideng",
-    "Paya Gaboh",
-    "Paya Rabo Lhok",
-    "Paya Rabo Timu (Paya Rabo Timur)",
-    "Lancok",
-    "Rambong Payong",
-    "Lhok Bayu",
-    "Krueng Baro",
-    "Babah Krueng",
-    "Jurong",
-    "Blang Manyak",
-    "Lhok Jok",
-    "Blang Teurakan",
-    "Sawang (Gampong Sawang)",
-    "Riseh Baroh",
-    "Riseh Teungoh",
-    "Riseh Tunong",
-    "Gunci",
-    "Kubu",
-    "Blang Cut",
-    "Lhok Cut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lagang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Abeuk Reuling"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lhok Krek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lhok Merbo (Meureubo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gle Dagang (Glee Dagang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuta Meuligoe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gampong Teungoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babah Buloh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meunasah Pulo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Punteuet (Punteut)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pante Jaloh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lhok Kuyun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Blang Reuling"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lhok Gajah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Teupin Rusep/Reusep"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ulee Geudong"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjong Keumala"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cot Kumuneng/Keumuning"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cot Lambideng"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Paya Gaboh"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Paya Rabo Lhok"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Paya Rabo Timu (Paya Rabo Timur)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lancok"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Rambong Payong"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Lhok Bayu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Krueng Baro"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Babah Krueng"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Jurong"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Blang Manyak"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Lhok Jok"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Blang Teurakan"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Sawang (Gampong Sawang)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Riseh Baroh"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Riseh Teungoh"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Riseh Tunong"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Gunci"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Kubu"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Blang Cut"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Lhok Cut"
+    }
   ]
 }

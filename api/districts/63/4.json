@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Tabunganen",
-    "Tamban",
-    "Anjir Pasar",
-    "Anjir Muara",
-    "Alalak",
-    "Mandastana",
-    "Rantau Badauh",
-    "Belawang",
-    "Cerbon",
-    "Bakumpai",
-    "Kuripan",
-    "Tabukan",
-    "Mekarsari (Mekar Sari)",
-    "Barambai",
-    "Marabahan",
-    "Wanaraya",
-    "Jejangkit"
+    {
+      "district_id": 1,
+      "kecamatan": "Tabunganen"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tamban"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Anjir Pasar"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Anjir Muara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Alalak"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mandastana"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Rantau Badauh"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Belawang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Cerbon"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bakumpai"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kuripan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tabukan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Mekarsari (Mekar Sari)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Barambai"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Marabahan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Wanaraya"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Jejangkit"
+    }
   ]
 }

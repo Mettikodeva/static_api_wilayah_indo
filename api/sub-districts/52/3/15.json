@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sembalun Bumbung",
-    "Sembalun Lawang",
-    "Sajang",
-    "Bilok Petung",
-    "Sembalun",
-    "Sembalun Timba Gading"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sembalun Bumbung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sembalun Lawang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sajang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bilok Petung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sembalun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sembalun Timba Gading"
+    }
   ]
 }

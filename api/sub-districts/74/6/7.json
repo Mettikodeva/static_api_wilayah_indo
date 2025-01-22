@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Babamolingku (Baba Molingku)",
-    "Toari Bombana (Toari Buton)",
-    "Timbala",
-    "Ranokomea (Rano Komea)",
-    "Rakadua",
-    "Lameong-Meong",
-    "Pabiring",
-    "Balasari",
-    "Bulumanai",
-    "Matabundu",
-    "Analere"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babamolingku (Baba Molingku)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toari Bombana (Toari Buton)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timbala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranokomea (Rano Komea)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rakadua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lameong-Meong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pabiring"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulumanai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Matabundu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Analere"
+    }
   ]
 }

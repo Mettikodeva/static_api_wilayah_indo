@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Suruhkalang",
-    "Jati",
-    "Jaten",
-    "Dagen",
-    "Ngringo",
-    "Jetis",
-    "Sroyo",
-    "Brujul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suruhkalang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jaten"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dagen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngringo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sroyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Brujul"
+    }
   ]
 }

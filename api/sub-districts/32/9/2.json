@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Leuweunggajah",
-    "Tenjomaya",
-    "Damarguna",
-    "Jatiseeng",
-    "Jatiseeng Kidul",
-    "Ciledug Kulon",
-    "Ciledug Wetan",
-    "Ciledug Lor",
-    "Ciledug Tengah",
-    "Bojongnegara"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leuweunggajah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tenjomaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Damarguna"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jatiseeng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jatiseeng Kidul"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ciledug Kulon"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ciledug Wetan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ciledug Lor"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ciledug Tengah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bojongnegara"
+    }
   ]
 }

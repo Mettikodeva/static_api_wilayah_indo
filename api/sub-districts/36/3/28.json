@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kelapa Dua",
-    "Bencongan",
-    "Bencongan Indah",
-    "Pakulonan Barat",
-    "Bojong Nangka",
-    "Curug Sangerang (Curug Sangereng)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kelapa Dua"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bencongan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bencongan Indah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pakulonan Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bojong Nangka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Curug Sangerang (Curug Sangereng)"
+    }
   ]
 }

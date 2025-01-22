@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bunta",
-    "Tompira",
-    "Bungintimbe",
-    "Towara",
-    "Molino (Malino)",
-    "Mohoni",
-    "Ungkea",
-    "Bimor Jaya",
-    "Molores",
-    "Keuno",
-    "Towara Pantai",
-    "Peboa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tompira"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bungintimbe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Towara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Molino (Malino)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mohoni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ungkea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bimor Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Molores"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keuno"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Towara Pantai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Peboa"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pulauburung (Pulau Burung)",
-    "Teluknibung (Teluk Nibung)",
-    "Sungaidanai (Sungai Danai)",
-    "Mayang Sari Jaya",
-    "Bukit Sari Intan Jaya",
-    "Manunggal Jaya",
-    "Bangun Harjo Jaya",
-    "Ringin Jaya (Beringin Jaya)",
-    "Sri Damai",
-    "Sapta Jaya",
-    "Keramat Jaya",
-    "Binagun Jaya",
-    "Suka Jaya",
-    "Sukaharjo Jaya (Suko Harjo Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulauburung (Pulau Burung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluknibung (Teluk Nibung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaidanai (Sungai Danai)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mayang Sari Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukit Sari Intan Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manunggal Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangun Harjo Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ringin Jaya (Beringin Jaya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sri Damai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sapta Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keramat Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binagun Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukaharjo Jaya (Suko Harjo Jaya)"
+    }
   ]
 }

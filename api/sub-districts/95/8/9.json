@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kroptak (Koroptak)",
-    "Miniem",
-    "Golparek",
-    "Pesat",
-    "Komoroam",
-    "Gol (Go)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kroptak (Koroptak)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Miniem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Golparek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pesat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Komoroam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gol (Go)"
+    }
   ]
 }

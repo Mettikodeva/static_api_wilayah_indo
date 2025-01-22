@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Sungai Raya",
-    "Samalantan",
-    "Ledo",
-    "Bengkayang",
-    "Seluas",
-    "Sanggau Ledo",
-    "Jagoi Babang",
-    "Monterado",
-    "Teriak",
-    "Suti Semarang",
-    "Capkala",
-    "Siding",
-    "Lumar",
-    "Sungai Betung",
-    "Sungai Raya Kepulauan",
-    "Lembah Bawang",
-    "Tujuh Belas"
+    {
+      "district_id": 1,
+      "kecamatan": "Sungai Raya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Samalantan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ledo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bengkayang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Seluas"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sanggau Ledo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Jagoi Babang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Monterado"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Teriak"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Suti Semarang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Capkala"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Siding"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Lumar"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sungai Betung"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sungai Raya Kepulauan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Lembah Bawang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tujuh Belas"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Manyeti",
-    "Rawalele",
-    "Sukasari",
-    "Situsari",
-    "Dawuan Kaler",
-    "Dawuan Kidul",
-    "Cisampih",
-    "Margasari",
-    "Batusari",
-    "Jambelaer"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manyeti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rawalele"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Situsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dawuan Kaler"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dawuan Kidul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cisampih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Margasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batusari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jambelaer"
+    }
   ]
 }

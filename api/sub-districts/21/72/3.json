@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tanjung Pinang Kota",
-    "Senggarang",
-    "Penyengat",
-    "Kampung Bugis"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Pinang Kota"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Senggarang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Penyengat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Bugis"
+    }
   ]
 }

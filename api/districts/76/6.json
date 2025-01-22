@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Tobadak",
-    "Pangale",
-    "Budong-Budong",
-    "Topoyo",
-    "Karossa"
+    {
+      "district_id": 1,
+      "kecamatan": "Tobadak"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pangale"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Budong-Budong"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Topoyo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Karossa"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Binjai Serbangan",
-    "Air Joman",
-    "Air Joman Baru",
-    "Banjar",
-    "Pasar Lembu",
-    "Punggulan",
-    "Subur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Binjai Serbangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Joman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Joman Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasar Lembu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Punggulan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Subur"
+    }
   ]
 }

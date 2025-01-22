@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tulo",
-    "Langleso (Langaleso)",
-    "Watubula",
-    "Soulowe",
-    "Karawana",
-    "Kotapulu (Kota Pulu)",
-    "Kotarindau",
-    "Panturabate (Waturalele)",
-    "Maku",
-    "Potoya",
-    "Kabobona"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tulo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Langleso (Langaleso)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Watubula"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Soulowe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karawana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kotapulu (Kota Pulu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kotarindau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panturabate (Waturalele)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Potoya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kabobona"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sibagindar",
-    "Napatalun Perlambuken",
-    "Lae Mbentar",
-    "Pagindar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sibagindar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Napatalun Perlambuken"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lae Mbentar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagindar"
+    }
   ]
 }

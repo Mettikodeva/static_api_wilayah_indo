@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tinggipura",
-    "Yeyugu",
-    "Yugume",
-    "Baliempura",
-    "Denomagi",
-    "Magame",
-    "Lorea",
-    "Anggumabume"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tinggipura"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yeyugu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yugume"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baliempura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Denomagi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Magame"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lorea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Anggumabume"
+    }
   ]
 }

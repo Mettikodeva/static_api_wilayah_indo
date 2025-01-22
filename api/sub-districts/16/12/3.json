@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Purun",
-    "Gunung Menang",
-    "Mangkunegara",
-    "Raja Jaya",
-    "Air Itam",
-    "Gunung Raja",
-    "Air Itam Timur",
-    "Sungai Langan",
-    "Spantan Jaya",
-    "Babat",
-    "Suka Raja",
-    "Purun Timur",
-    "Mangkunegara Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Menang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangkunegara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Raja Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Itam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Raja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Itam Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Langan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Spantan Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Babat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Raja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Purun Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mangkunegara Timur"
+    }
   ]
 }

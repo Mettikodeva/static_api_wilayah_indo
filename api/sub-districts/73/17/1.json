@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kanna",
-    "Kanna Utara",
-    "Tabi",
-    "Bolu",
-    "Lange",
-    "Sinaji",
-    "Mappetajang",
-    "Andulan",
-    "Buntu Batu",
-    "Ledan",
-    "Lissaga",
-    "To'long (To Long)"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kanna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kanna Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tabi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bolu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lange"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sinaji"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mappetajang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Andulan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Buntu Batu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ledan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lissaga"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "To'long (To Long)"
+    }
   ]
 }

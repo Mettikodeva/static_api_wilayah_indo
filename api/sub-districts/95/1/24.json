@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wadangku",
-    "Agulimo",
-    "Musiem",
-    "Yomosimo",
-    "Luku-luku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wadangku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Agulimo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Musiem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yomosimo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Luku-luku"
+    }
   ]
 }

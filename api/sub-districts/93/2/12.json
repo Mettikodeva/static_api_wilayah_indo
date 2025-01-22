@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Manggelum",
-    "Burunggop",
-    "Bayanggop",
-    "Gaguop",
-    "Kewam",
-    "Mangga Tiga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manggelum"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Burunggop"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bayanggop"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gaguop"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kewam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangga Tiga"
+    }
   ]
 }

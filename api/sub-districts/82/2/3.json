@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kapaleo",
-    "Kacepi",
-    "Sanafi",
-    "Umera",
-    "Umiyal",
-    "Sonof Kacepo",
-    "Elfanun",
-    "Yang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kapaleo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kacepi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sanafi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Umera"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umiyal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sonof Kacepo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Elfanun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yang"
+    }
   ]
 }

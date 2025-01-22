@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sei/Sungai Tabukan",
-    "Nelayan",
-    "Galagah Hulu",
-    "Galagah",
-    "Teluk Cati",
-    "Pematang Benteng",
-    "Pematang Benteng Hilir",
-    "Pasar Sabtu",
-    "Sei/Sungai Haji",
-    "Hilir Mesjid",
-    "Gampa Raya",
-    "Banua Hanyar",
-    "Rantau Bujur Hulu",
-    "Rantau Bujur Tengah",
-    "Rantau Bujur Hilir",
-    "Rantau Bujur Darat",
-    "Tembalang Raya (Tambalang Raya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Tabukan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nelayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Galagah Hulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Galagah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Cati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pematang Benteng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pematang Benteng Hilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasar Sabtu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Haji"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hilir Mesjid"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gampa Raya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banua Hanyar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rantau Bujur Hulu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rantau Bujur Tengah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rantau Bujur Hilir"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rantau Bujur Darat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tembalang Raya (Tambalang Raya)"
+    }
   ]
 }

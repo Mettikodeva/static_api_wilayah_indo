@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Martapura",
-    "Buay Madang",
-    "Belitang",
-    "Cempaka",
-    "Buay Pemuka Peliung",
-    "Madang Suku II",
-    "Madang Suku I",
-    "Semendawai Suku III",
-    "Belitang II",
-    "Belitang III",
-    "Bunga Mayang",
-    "Buay Madang Timur",
-    "Madang Suku III",
-    "Semendawai Barat",
-    "Semendawai Timur",
-    "Jayapura",
-    "Belitang Jaya",
-    "Belitang Madang Raya",
-    "Belitang Mulya",
-    "Buay Pemuka Bangsa Raja"
+    {
+      "district_id": 1,
+      "kecamatan": "Martapura"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Buay Madang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Belitang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Cempaka"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Buay Pemuka Peliung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Madang Suku II"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Madang Suku I"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Semendawai Suku III"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Belitang II"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Belitang III"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bunga Mayang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Buay Madang Timur"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Madang Suku III"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Semendawai Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Semendawai Timur"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Jayapura"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Belitang Jaya"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Belitang Madang Raya"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Belitang Mulya"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Buay Pemuka Bangsa Raja"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Buar",
-    "Benteng Tubi",
-    "Compang Dari",
-    "Dimpong",
-    "Bangka Ajang",
-    "Liang Bua",
-    "Tengku Lese",
-    "Golo Langkok",
-    "Pong Lengor",
-    "Manong",
-    "Bangka Ruang",
-    "Wae Mantang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benteng Tubi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Compang Dari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dimpong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangka Ajang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Liang Bua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tengku Lese"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golo Langkok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pong Lengor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Manong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangka Ruang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wae Mantang"
+    }
   ]
 }

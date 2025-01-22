@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Dekatagung",
-    "Kumalasa",
-    "Suwari",
-    "Pudakitbarat (Pudakit Barat)",
-    "Pudakittimur (Pudakit Timur)",
-    "Lebak",
-    "Bululanjang",
-    "Patarselamat",
-    "Kotakusuma (Kota Kusuma)",
-    "Sungaiteluk (Sungai Teluk)",
-    "Gunungteguh",
-    "Sawahmulya",
-    "Sungairujing (Sungai Rujing)",
-    "Balikterus",
-    "Kebontelukdalam (Kebon Teluk Dalam)",
-    "Sidogedungbatu (Sidogedung Batu)",
-    "Daun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dekatagung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kumalasa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suwari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pudakitbarat (Pudakit Barat)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pudakittimur (Pudakit Timur)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bululanjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patarselamat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kotakusuma (Kota Kusuma)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungaiteluk (Sungai Teluk)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunungteguh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawahmulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungairujing (Sungai Rujing)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Balikterus"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kebontelukdalam (Kebon Teluk Dalam)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sidogedungbatu (Sidogedung Batu)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Daun"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Raya",
-    "Bakong",
-    "Kuala Raya",
-    "Marok Tua",
-    "Sungai Buluh",
-    "Sungai Raya",
-    "Sungai Harapan",
-    "Jagoh (Jaqoh)",
-    "Tinjul",
-    "Langkap",
-    "Tanjung Irat",
-    "Bukit Belah"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Raya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bakong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Raya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marok Tua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Harapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jagoh (Jaqoh)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tinjul"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Langkap"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjung Irat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bukit Belah"
+    }
   ]
 }

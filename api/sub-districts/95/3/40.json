@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bomela",
-    "Yalmabi",
-    "Kitikni",
-    "Sombat",
-    "Kubialat",
-    "Palamdua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bomela"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yalmabi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kitikni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sombat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kubialat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palamdua"
+    }
   ]
 }

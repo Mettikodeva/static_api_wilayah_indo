@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Yenbekwan (Yembekwan)",
-    "Kapisawar",
-    "Sawinggrai",
-    "Yenwaupnoor (Yenwaupnor)",
-    "Arborek",
-    "Yenbuba",
-    "Kabuy (Kabui)",
-    "Kurkapa",
-    "Sawandarek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yenbekwan (Yembekwan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kapisawar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sawinggrai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yenwaupnoor (Yenwaupnor)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arborek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yenbuba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kabuy (Kabui)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kurkapa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sawandarek"
+    }
   ]
 }

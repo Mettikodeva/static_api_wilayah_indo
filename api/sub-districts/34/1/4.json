@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Banaran",
-    "Kranggan",
-    "Nomporejo",
-    "Karangsewu (Karang Sewu)",
-    "Tirtorahayu (Tirta Rahayu)",
-    "Pandowan",
-    "Brosot"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kranggan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nomporejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangsewu (Karang Sewu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tirtorahayu (Tirta Rahayu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pandowan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Brosot"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Galung",
-    "Kasambang",
-    "Dayanginna",
-    "Orobatu",
-    "Takandeang",
-    "Bela",
-    "Taan (Taang / Ta'an)",
-    "Tampalang",
-    "Rantedoda",
-    "Kopeang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Galung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kasambang"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Dayanginna"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Orobatu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Takandeang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bela"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taan (Taang / Ta'an)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tampalang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rantedoda"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kopeang"
+    }
   ]
 }

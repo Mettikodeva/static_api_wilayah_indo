@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Serang",
-    "Kalitengah",
-    "Margomulyo (Margo Mulyo)",
-    "Panggungrejo (Panggung Rejo)",
-    "Sumbersih",
-    "Kaligambir (Kali Gambir)",
-    "Bumiayu",
-    "Panggungasri (Panggung Asri)",
-    "Sumberagung (Sumber Agung)",
-    "Balerejo (Bale Rejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalitengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margomulyo (Margo Mulyo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panggungrejo (Panggung Rejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumbersih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaligambir (Kali Gambir)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bumiayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panggungasri (Panggung Asri)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balerejo (Bale Rejo)"
+    }
   ]
 }

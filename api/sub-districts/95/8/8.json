@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tribit (Tribid)",
-    "Gearek",
-    "Kibid",
-    "Weneworarosa",
-    "Gebem",
-    "Bomegi",
-    "Gilingga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tribit (Tribid)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gearek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kibid"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Weneworarosa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gebem"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bomegi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gilingga"
+    }
   ]
 }

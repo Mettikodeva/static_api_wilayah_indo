@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sarinagen",
-    "Baranangsiang",
-    "Citalem",
-    "Cijenuk",
-    "Cijambu",
-    "Cibenda",
-    "Cintaasih",
-    "Cicangkanghilir (Cicangkang Hilir)",
-    "Girimukti",
-    "Karangsari",
-    "Mekarsari",
-    "Neglasari",
-    "Sirnagalih",
-    "Sukamulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarinagen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baranangsiang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Citalem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cijenuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cijambu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibenda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cintaasih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cicangkanghilir (Cicangkang Hilir)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sirnagalih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukamulya"
+    }
   ]
 }

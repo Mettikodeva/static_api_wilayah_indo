@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tanjung Medan",
-    "Tanjung Medan Utara",
-    "Tanjung Medan Barat",
-    "Sei Meranti",
-    "Sei Meranti Darussalam",
-    "Akar Belingkar",
-    "Tangga Batu",
-    "Perkebunan Tanjung Medan",
-    "Sri Kayangan",
-    "Pondok Kresek",
-    "Sungai Tapah",
-    "Tanjung Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Medan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Medan Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Medan Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Meranti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Meranti Darussalam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Akar Belingkar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangga Batu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perkebunan Tanjung Medan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sri Kayangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pondok Kresek"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Tapah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Sari"
+    }
   ]
 }

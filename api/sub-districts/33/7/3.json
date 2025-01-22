@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sapuran",
-    "Bogoran",
-    "Karangsari",
-    "Pecekelan",
-    "Glagah",
-    "Surojoyo",
-    "Talunombo",
-    "Tempursari",
-    "Jolontoro",
-    "Sedayu",
-    "Ngadisalam",
-    "Tempuranduwur",
-    "Marongsari",
-    "Batursari",
-    "Banyumudal",
-    "Ngadikerso",
-    "Rimpak"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sapuran"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bogoran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pecekelan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Glagah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Surojoyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talunombo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tempursari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jolontoro"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sedayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ngadisalam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tempuranduwur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Marongsari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batursari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banyumudal"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngadikerso"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rimpak"
+    }
   ]
 }

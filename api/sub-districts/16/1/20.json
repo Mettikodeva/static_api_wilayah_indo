@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kelumpang",
-    "Gunung Tiga",
-    "Mendingin",
-    "Ulak Lebar",
-    "Pedataran",
-    "Sukajadi",
-    "Belandang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kelumpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Tiga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mendingin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ulak Lebar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pedataran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Belandang"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tiga Balata",
-    "Kasindir",
-    "Sibunga Bunga",
-    "Jorlang Hataran",
-    "Bah Sampuran",
-    "Bah Birong Ulu",
-    "Pinang Ratus",
-    "Dolok Marlawan",
-    "Panombean Hutaurung (Panombean Huta Urung)",
-    "Dipar Hataran",
-    "Pagar Pinang",
-    "Dolok Parriasan",
-    "Parmonangan"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tiga Balata"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kasindir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sibunga Bunga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jorlang Hataran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bah Sampuran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bah Birong Ulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pinang Ratus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dolok Marlawan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panombean Hutaurung (Panombean Huta Urung)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dipar Hataran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pagar Pinang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dolok Parriasan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Parmonangan"
+    }
   ]
 }

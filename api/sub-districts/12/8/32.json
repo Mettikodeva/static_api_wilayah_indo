@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Raya Huluan",
-    "Dolog Huluan",
-    "Bintang Mariah",
-    "Bah Bolon",
-    "Raya Usang",
-    "Bangun Pane",
-    "Parjalangan",
-    "Partuahan",
-    "Sinaman Labah",
-    "Pamatang Sinaman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Raya Huluan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dolog Huluan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bintang Mariah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bah Bolon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Raya Usang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangun Pane"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parjalangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Partuahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinaman Labah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pamatang Sinaman"
+    }
   ]
 }

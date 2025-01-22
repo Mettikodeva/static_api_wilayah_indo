@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Porame",
-    "Balane",
-    "Uwemanje",
-    "Rondingo",
-    "Bolobia",
-    "Doda",
-    "Kalora",
-    "Kanuna",
-    "Daenggune",
-    "Kayumpia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Porame"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balane"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Uwemanje"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rondingo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bolobia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Doda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalora"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kanuna"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Daenggune"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kayumpia"
+    }
   ]
 }

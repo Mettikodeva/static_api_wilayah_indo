@@ -1,29 +1,104 @@
 {
   "sub_districts": [
-    "Temanggung I",
-    "Temanggung II",
-    "Butuh",
-    "Jampiroso",
-    "Jampirejo",
-    "Kertosari",
-    "Banyuurip",
-    "Kowangan",
-    "Jurang",
-    "Tlogorejo",
-    "Kebonsari",
-    "Manding",
-    "Mungseng",
-    "Purworejo",
-    "Giyanti",
-    "Madureso",
-    "Sidorejo",
-    "Walitelon Utara",
-    "Walitelon Selatan",
-    "Joho",
-    "Guntur",
-    "Lungge",
-    "Mudal",
-    "Gilingsari",
-    "Nampirejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Temanggung I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Temanggung II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Butuh"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jampiroso"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jampirejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kertosari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Banyuurip"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kowangan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Jurang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tlogorejo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Manding"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Mungseng"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Giyanti"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Madureso"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Walitelon Utara"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Walitelon Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Joho"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Guntur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lungge"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mudal"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Gilingsari"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Nampirejo"
+    }
   ]
 }

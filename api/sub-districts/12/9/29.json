@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rawang Lama",
-    "Rawang Baru",
-    "Rawang Pasar IV",
-    "Rawang Pasar V",
-    "Pondok Bungur",
-    "Panca Arga",
-    "Rawang Pasar VI"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rawang Lama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rawang Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rawang Pasar IV"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawang Pasar V"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pondok Bungur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panca Arga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawang Pasar VI"
+    }
   ]
 }

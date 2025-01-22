@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kempo",
-    "Ta'a",
-    "Soro",
-    "Konte",
-    "Tolo Kalo",
-    "Songgaja",
-    "Doro Kobo",
-    "Soro Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kempo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ta'a"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Soro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Konte"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tolo Kalo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Songgaja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Doro Kobo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Soro Barat"
+    }
   ]
 }

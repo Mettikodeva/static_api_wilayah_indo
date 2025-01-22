@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batu Tungku",
-    "Panyipatan",
-    "Kandangan Baru",
-    "Kandangan Lama",
-    "Batakan",
-    "Kuringkit",
-    "Tanjung Dewa",
-    "Suka Ramah",
-    "Batu Mulya",
-    "Bumi Asih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Tungku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panyipatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kandangan Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kandangan Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuringkit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Dewa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Ramah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Asih"
+    }
   ]
 }

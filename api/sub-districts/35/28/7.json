@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Plakpak",
-    "Palesanggar",
-    "Pegantenan (Pagantenan)",
-    "Bulangan Branta",
-    "Bulangan Barat",
-    "Bulangan Haji",
-    "Tlagah (Talagah)",
-    "Bulangan Timur",
-    "Tebul Timur",
-    "Tebul Barat",
-    "Ambender",
-    "Pasanggar",
-    "Tanjung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Plakpak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Palesanggar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pegantenan (Pagantenan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulangan Branta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulangan Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulangan Haji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tlagah (Talagah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulangan Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tebul Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tebul Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ambender"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasanggar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung"
+    }
   ]
 }

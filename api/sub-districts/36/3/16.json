@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sepatan",
-    "Karet",
-    "Kayu Agung",
-    "Kayu Bongkok",
-    "Pondok Jaya",
-    "Pisangan Jaya",
-    "Mekar Jaya",
-    "Sarakan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sepatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karet"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayu Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kayu Bongkok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pondok Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pisangan Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sarakan"
+    }
   ]
 }

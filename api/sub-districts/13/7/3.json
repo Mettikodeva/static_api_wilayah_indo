@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Koto Baru Simalanggang",
-    "Taeh Bukik",
-    "Simalanggang",
-    "Sungai Beringin",
-    "Piobang",
-    "Taeh Baruah",
-    "Koto Tangah Simalanggang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Baru Simalanggang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taeh Bukik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simalanggang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Beringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Piobang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taeh Baruah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto Tangah Simalanggang"
+    }
   ]
 }

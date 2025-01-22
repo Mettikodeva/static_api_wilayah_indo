@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wonokromo",
-    "Pleret",
-    "Segoroyoso",
-    "Bawuran",
-    "Wonolelo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonokromo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pleret"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Segoroyoso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bawuran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonolelo"
+    }
   ]
 }

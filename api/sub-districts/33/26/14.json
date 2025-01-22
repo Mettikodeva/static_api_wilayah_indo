@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sapugarut",
-    "Bligo",
-    "Simbangkulon (Simbang Kulon)",
-    "Coprayan",
-    "Wonoyoso",
-    "Pakumbulan",
-    "Watusalam",
-    "Simbangwetan (Simbang Wetan)",
-    "Kertijayan",
-    "Paweden"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sapugarut"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bligo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Simbangkulon (Simbang Kulon)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Coprayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wonoyoso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pakumbulan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Watusalam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simbangwetan (Simbang Wetan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kertijayan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paweden"
+    }
   ]
 }

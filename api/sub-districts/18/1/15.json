@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kuala Sekampung",
-    "Baktirasa (Bakti Rasa)",
-    "Mandala Sari (Mandalasari)",
-    "Sukapura",
-    "Sumber Agung",
-    "Marga Jasa (Margajasa)",
-    "Sumber Sari",
-    "Bandar Agung",
-    "Kedaung",
-    "Margasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Sekampung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baktirasa (Bakti Rasa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mandala Sari (Mandalasari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukapura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marga Jasa (Margajasa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedaung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Margasari"
+    }
   ]
 }

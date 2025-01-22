@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Murung Baru",
-    "Lukbayur (Luk Bayur)",
-    "Walangkir",
-    "Warukin",
-    "Barimbun",
-    "Mangkusip",
-    "Pamarangan Kanan",
-    "Pulau Kuu (Pulau Ku,U / Kuu)",
-    "Tanta",
-    "Padang Panjang",
-    "Puain Kanan",
-    "Padangin",
-    "Tamiyang",
-    "Tanta Hulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Murung Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lukbayur (Luk Bayur)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Walangkir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Warukin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Barimbun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangkusip"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pamarangan Kanan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulau Kuu (Pulau Ku,U / Kuu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanta"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padang Panjang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puain Kanan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padangin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tamiyang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanta Hulu"
+    }
   ]
 }

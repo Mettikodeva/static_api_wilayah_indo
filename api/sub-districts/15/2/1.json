@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Renah Kemumu",
-    "Tanjung Kasri",
-    "Lubuk Mentilin",
-    "Rantau Kermas",
-    "Renah Alai",
-    "Pulau Tengah",
-    "Lubuk Pungguk",
-    "Koto Renah",
-    "Muara Madras (Muara Manderas)",
-    "Renah Pelaan",
-    "Koto Rawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Renah Kemumu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Kasri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Mentilin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Kermas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Renah Alai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulau Tengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk Pungguk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Renah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Madras (Muara Manderas)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Renah Pelaan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Koto Rawang"
+    }
   ]
 }

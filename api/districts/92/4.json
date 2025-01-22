@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Teminabuan",
-    "Inanwatan",
-    "Sawiat",
-    "Kokoda",
-    "Moswaren",
-    "Seremuk",
-    "Wayer",
-    "Kais",
-    "Konda",
-    "Matemani",
-    "Kokoda Utara",
-    "Saifi",
-    "Fokour",
-    "Salkma",
-    "Kais Darat"
+    {
+      "district_id": 1,
+      "kecamatan": "Teminabuan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Inanwatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sawiat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kokoda"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Moswaren"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Seremuk"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Wayer"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kais"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Konda"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Matemani"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kokoda Utara"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Saifi"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Fokour"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Salkma"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Kais Darat"
+    }
   ]
 }

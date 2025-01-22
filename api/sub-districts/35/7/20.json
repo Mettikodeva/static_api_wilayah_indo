@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ngajum",
-    "Palaan",
-    "Ngasem",
-    "Banjarsari",
-    "Kranggan",
-    "Kesamben",
-    "Babadan",
-    "Balesari",
-    "Maguan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngajum"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Palaan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngasem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kranggan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kesamben"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balesari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maguan"
+    }
   ]
 }

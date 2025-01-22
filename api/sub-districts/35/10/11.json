@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kalibarukulon (Kalibaru Kulon)",
-    "Kalibarumanis (Kalibaru Manis)",
-    "Kalibaruwetan (Kalibaru Wetan)",
-    "Kajarharjo",
-    "Banyuanyar",
-    "Kebonrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalibarukulon (Kalibaru Kulon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalibarumanis (Kalibaru Manis)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalibaruwetan (Kalibaru Wetan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kajarharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyuanyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebonrejo"
+    }
   ]
 }

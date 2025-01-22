@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Abuki",
-    "Sambeani",
-    "Asolu",
-    "Punggaluku",
-    "Walay",
-    "Epeea (Epeeya)",
-    "Kumapo",
-    "Unaasi Jaya",
-    "Kasuwura Indah",
-    "Arubia Jaya",
-    "Padangguni Utama",
-    "Anggoro"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Abuki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambeani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Asolu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Punggaluku"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Walay"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Epeea (Epeeya)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kumapo"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Unaasi Jaya"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Kasuwura Indah"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Arubia Jaya"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Padangguni Utama"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Anggoro"
+    }
   ]
 }

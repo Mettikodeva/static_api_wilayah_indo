@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Salak I",
-    "Salak II",
-    "Boangmanalu (Boangmanalu Salak)",
-    "Sibongkaras",
-    "Kuta Tinggi",
-    "Penanggalan Binanga Boang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salak I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salak II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Boangmanalu (Boangmanalu Salak)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sibongkaras"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kuta Tinggi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Penanggalan Binanga Boang"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Kaliwungu",
-    "Kota Kudus (Kudus Kota)",
-    "Jati",
-    "Undaan",
-    "Mejobo",
-    "Jekulo",
-    "Bae",
-    "Gebog",
-    "Dawe"
+    {
+      "district_id": 1,
+      "kecamatan": "Kaliwungu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kota Kudus (Kudus Kota)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Jati"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Undaan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Mejobo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Jekulo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bae"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gebog"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Dawe"
+    }
   ]
 }

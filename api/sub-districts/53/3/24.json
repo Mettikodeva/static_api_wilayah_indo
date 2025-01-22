@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Naku",
-    "Birunatun",
-    "Makun",
-    "Manumean",
-    "Kuluan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Naku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Birunatun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Makun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manumean"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuluan"
+    }
   ]
 }

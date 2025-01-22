@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Sitelu Tali Urang Jehe (Sitellu)",
-    "Kerajaan",
-    "Salak",
-    "Sitelu Tali Urang Julu (Sitellu)",
-    "Pergetteng Getteng Sengkut",
-    "Pagindar",
-    "Tinada",
-    "Siempat Rube"
+    {
+      "district_id": 1,
+      "kecamatan": "Sitelu Tali Urang Jehe (Sitellu)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kerajaan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Salak"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sitelu Tali Urang Julu (Sitellu)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pergetteng Getteng Sengkut"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pagindar"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tinada"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Siempat Rube"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Silantai",
-    "Sisawah",
-    "Unggan",
-    "Tanjung Bonai Aur",
-    "Sumpur Kudus",
-    "Tamparungo",
-    "Kumanis",
-    "Mangganti",
-    "Sumpur Kudus Selatan",
-    "Tanjung Labuah (Tanjuang Labuah)",
-    "Tanjung Bonai Aur Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silantai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sisawah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Unggan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Bonai Aur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumpur Kudus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamparungo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kumanis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mangganti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumpur Kudus Selatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Labuah (Tanjuang Labuah)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Bonai Aur Selatan"
+    }
   ]
 }

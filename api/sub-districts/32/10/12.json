@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gandu",
-    "Dawuan",
-    "Genteng",
-    "Mandapa",
-    "Balida",
-    "Karanganyar",
-    "Salawana",
-    "Bojongcideres",
-    "Sinarjati",
-    "Pasirmalati",
-    "Baturuyuk"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gandu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dawuan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Genteng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mandapa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Balida"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Salawana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bojongcideres"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sinarjati"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pasirmalati"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Baturuyuk"
+    }
   ]
 }

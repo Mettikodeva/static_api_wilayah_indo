@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sihonongan",
-    "Paranginan Selatan",
-    "Paranginan Utara",
-    "Lumban Sialaman",
-    "Pearung",
-    "Lobutolong (Lobu Tolong)",
-    "Lumban Barat",
-    "Siboru Torop",
-    "Pearung Silali",
-    "Lumban Sianturi",
-    "Lobutolong Habinsaran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sihonongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paranginan Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paranginan Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lumban Sialaman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pearung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lobutolong (Lobu Tolong)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumban Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siboru Torop"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pearung Silali"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lumban Sianturi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lobutolong Habinsaran"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Tlanakan",
-    "Pademawu",
-    "Galis",
-    "Pamekasan",
-    "Proppo",
-    "Palengaan (Palenggaan, Palenga'an)",
-    "Pegantenan",
-    "Larangan",
-    "Pakong",
-    "Waru",
-    "Batumarmar",
-    "Kadur",
-    "Pasean"
+    {
+      "district_id": 1,
+      "kecamatan": "Tlanakan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pademawu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Galis"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pamekasan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Proppo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Palengaan (Palenggaan, Palenga'an)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pegantenan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Larangan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pakong"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Waru"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Batumarmar"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kadur"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pasean"
+    }
   ]
 }

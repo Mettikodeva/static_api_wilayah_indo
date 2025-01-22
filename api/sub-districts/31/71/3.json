@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kemayoran",
-    "Kebon Kosong",
-    "Harapan Mulia (Harapan Mulya)",
-    "Serdang",
-    "Gunung Sahari Selatan",
-    "Cempaka Baru",
-    "Sumur Batu",
-    "Utan Panjang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kemayoran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kebon Kosong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Harapan Mulia (Harapan Mulya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Serdang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gunung Sahari Selatan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cempaka Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sumur Batu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Utan Panjang"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Golo Ndaring",
-    "Golo Kempo",
-    "Golo Manting",
-    "Matawae",
-    "Nampar Macing",
-    "Wae Sano",
-    "Golo Mbu",
-    "Golo Leleng",
-    "Sano Nggoang",
-    "Wae Lolos",
-    "Golo Sengang",
-    "Watu Panggal",
-    "Golo Kondeng",
-    "Poco Golo Kempo",
-    "Pulau Nuncung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Golo Ndaring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Golo Kempo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golo Manting"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Matawae"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nampar Macing"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wae Sano"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Golo Mbu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Golo Leleng"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sano Nggoang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wae Lolos"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Golo Sengang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Watu Panggal"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Golo Kondeng"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Poco Golo Kempo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Pulau Nuncung"
+    }
   ]
 }

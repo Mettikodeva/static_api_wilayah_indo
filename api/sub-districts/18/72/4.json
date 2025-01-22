@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Yosodadi",
-    "Tejosari (Tejo Sari)",
-    "Iring Mulyo (Iringmulyo)",
-    "Yosorejo",
-    "Tejo Agung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Yosodadi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tejosari (Tejo Sari)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Iring Mulyo (Iringmulyo)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Yosorejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tejo Agung"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Singa Raya (Singaraya)",
-    "Semparuk",
-    "Sepinggan",
-    "Sepadu",
-    "Seburing"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Singa Raya (Singaraya)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semparuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sepinggan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sepadu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seburing"
+    }
   ]
 }

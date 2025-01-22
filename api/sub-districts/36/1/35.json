@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cimanis",
-    "Teluklada",
-    "Kertaraharja",
-    "Bojen",
-    "Kutamekar",
-    "Sobang",
-    "Pangkalan",
-    "Bojenwetan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cimanis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluklada"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertaraharja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutamekar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sobang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojenwetan"
+    }
   ]
 }

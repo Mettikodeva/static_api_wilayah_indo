@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bunglai",
-    "Kedaton",
-    "Kampai",
-    "Rantau Panjang",
-    "Kedaton Timur",
-    "Suka Pindah",
-    "Sinar Kedaton",
-    "Lubuk Kemiling"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunglai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedaton"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedaton Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Pindah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinar Kedaton"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Kemiling"
+    }
   ]
 }

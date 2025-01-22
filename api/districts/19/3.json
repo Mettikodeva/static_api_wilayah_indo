@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Toboali",
-    "Lepar (Lepar Pongok)",
-    "Airgegas (Air Gegas)",
-    "Simpang Rimba",
-    "Payung",
-    "Tukak Sadai",
-    "Pulau Besar (Pulaubesar)",
-    "Kepulauan Pongok"
+    {
+      "district_id": 1,
+      "kecamatan": "Toboali"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Lepar (Lepar Pongok)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Airgegas (Air Gegas)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Simpang Rimba"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Payung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tukak Sadai"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pulau Besar (Pulaubesar)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kepulauan Pongok"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tolo",
-    "Tolo Utara",
-    "Tolo Selatan",
-    "Tolo Timur",
-    "Tolo Barat",
-    "Gantarang",
-    "Bontolebang",
-    "Bontonompo (Bonto Nompo)",
-    "Samataring",
-    "Tombolo (Tombo)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tolo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tolo Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tolo Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tolo Timur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tolo Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gantarang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bontolebang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bontonompo (Bonto Nompo)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Samataring"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tombolo (Tombo)"
+    }
   ]
 }

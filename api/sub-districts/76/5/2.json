@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Lalampanua",
-    "Sirindu",
-    "Adolang",
-    "Bababulo",
-    "Bonde",
-    "Betteng",
-    "Simbang",
-    "Bonde Utara",
-    "Bababulo Utara",
-    "Buttu Pamboang",
-    "Banua Adolang",
-    "Adolang Dhua",
-    "Tinambung",
-    "Pesuloang",
-    "Balombong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lalampanua"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sirindu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Adolang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bababulo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonde"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Betteng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simbang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonde Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bababulo Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buttu Pamboang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banua Adolang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Adolang Dhua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tinambung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pesuloang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Balombong"
+    }
   ]
 }

@@ -1,68 +1,260 @@
 {
   "sub_districts": [
-    "Mesjid Kunyet",
-    "Piala Kunyet",
-    "Hagu Kunyet (Hagu)",
-    "Baro Kunyet",
-    "Dayah Tanoh Kunyet (Dayah Tanoh)",
-    "Kambuk Nicah Kunyet (Kambuk Nicah)",
-    "Kambuk Payapi Kunyet (Kambuk Payapi)",
-    "Seunadeu Kunyet (Seunadeu)",
-    "Blang Guci Kunyet (Blang Guci)",
-    "Dayah Baroh Kunyet",
-    "Blang Geuleudieng",
-    "Geulumpang Geuleudieng (Geulumpang)",
-    "Mesjid Geuleudieng",
-    "Sukon Peudaya (Sukon)",
-    "Mesjid Peudaya",
-    "Cut Peudaya (Cut)",
-    "Buloh Peudaya (Buloh Buni)",
-    "Perlak Peudaya (Perlak)",
-    "Dayah Baroh Peudaya",
-    "Teungoh Peudaya (Teungoh)",
-    "Tuha Peudaya (Tuha)",
-    "Tunong Peudaya",
-    "Buni Reulieng Peudaya (Buni Reuleung)",
-    "Trieng Paloh (Trieng)",
-    "Leuhob Paloh (Leuhob)",
-    "Cut Paloh",
-    "Suyo Paloh (Suyo)",
-    "Kreet Paloh",
-    "Capa Paloh (Capa)",
-    "Jurong Anoe Paloh (Jurong Anoe)",
-    "Balee Paloh (Balee)",
-    "Siron Paloh (Siron)",
-    "Jurong Gampong Cut Paloh (Gurong Cot)",
-    "Pante Cermen Paloh (Pante Cermen)",
-    "Pasar Paloh (Pasar)",
-    "Mesjid Paloh",
-    "Meuke Beurabo",
-    "Mesjid Beurabo",
-    "Seukembrok Beurabo (Sekeumbrok)",
-    "Baro Beurabo",
-    "Adang Beurabo (Adang)",
-    "Paloh Jeurat Beurabo (Paloh Jeurat)",
-    "Seuleunggieng Beurabo (Seuleunggieng)",
-    "Teungoh Drien Gogo (Teungoh Drien)",
-    "Kumbang Gogo (Kumbang)",
-    "Mesjid Gogo",
-    "Tuha Gogo",
-    "Glee Gogo",
-    "Meuke Gogo",
-    "Raya Gogo (Raya)",
-    "Grong-Grong Gogo (Grong Grong)",
-    "Aron Bunot Gogo (Aron Beunot)",
-    "Buloh Gogo (Buloh)",
-    "Tunong Tanjong",
-    "Keupula Tanjong",
-    "Jok Tanjong (Jok)",
-    "Leun Tanjong (Leuen)",
-    "Pante Crung Tanjong",
-    "Cot Keutapang Tanjong (Cot Keutapang)",
-    "Siron Tanjong",
-    "Mesjid Tanjong",
-    "Khang Tanjong",
-    "Meuriya Tanjong (Meurinya)",
-    "Pulo Hagu Tanjong (Pulo Hagu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mesjid Kunyet"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Piala Kunyet"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hagu Kunyet (Hagu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baro Kunyet"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dayah Tanoh Kunyet (Dayah Tanoh)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kambuk Nicah Kunyet (Kambuk Nicah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kambuk Payapi Kunyet (Kambuk Payapi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Seunadeu Kunyet (Seunadeu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Blang Guci Kunyet (Blang Guci)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dayah Baroh Kunyet"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Blang Geuleudieng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Geulumpang Geuleudieng (Geulumpang)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mesjid Geuleudieng"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukon Peudaya (Sukon)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mesjid Peudaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cut Peudaya (Cut)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Buloh Peudaya (Buloh Buni)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Perlak Peudaya (Perlak)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dayah Baroh Peudaya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Teungoh Peudaya (Teungoh)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tuha Peudaya (Tuha)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tunong Peudaya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Buni Reulieng Peudaya (Buni Reuleung)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Trieng Paloh (Trieng)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Leuhob Paloh (Leuhob)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Cut Paloh"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Suyo Paloh (Suyo)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kreet Paloh"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Capa Paloh (Capa)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Jurong Anoe Paloh (Jurong Anoe)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Balee Paloh (Balee)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Siron Paloh (Siron)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Jurong Gampong Cut Paloh (Gurong Cot)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Pante Cermen Paloh (Pante Cermen)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Pasar Paloh (Pasar)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Mesjid Paloh"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Meuke Beurabo"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Mesjid Beurabo"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Seukembrok Beurabo (Sekeumbrok)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Baro Beurabo"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Adang Beurabo (Adang)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Paloh Jeurat Beurabo (Paloh Jeurat)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Seuleunggieng Beurabo (Seuleunggieng)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Teungoh Drien Gogo (Teungoh Drien)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Kumbang Gogo (Kumbang)"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Mesjid Gogo"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Tuha Gogo"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Glee Gogo"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Meuke Gogo"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Raya Gogo (Raya)"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Grong-Grong Gogo (Grong Grong)"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Aron Bunot Gogo (Aron Beunot)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Buloh Gogo (Buloh)"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Tunong Tanjong"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Keupula Tanjong"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Jok Tanjong (Jok)"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Leun Tanjong (Leuen)"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Pante Crung Tanjong"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Cot Keutapang Tanjong (Cot Keutapang)"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Siron Tanjong"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Mesjid Tanjong"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Khang Tanjong"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Meuriya Tanjong (Meurinya)"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Pulo Hagu Tanjong (Pulo Hagu)"
+    }
   ]
 }

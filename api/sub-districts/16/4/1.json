@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kembang Ayun",
-    "Gunung Meraksa",
-    "Tanjung Alam",
-    "Batu Rancing",
-    "Suban",
-    "Genting/Genteng",
-    "Gunung Ayu",
-    "Ujung Pulau",
-    "Muara Cawang",
-    "Kepala Siring",
-    "Simpang III Pumu (Simpang Tiga Pomo / Pumu)",
-    "Gunung Raya",
-    "Talang Tinggi",
-    "Karang Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kembang Ayun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Meraksa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Alam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Rancing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suban"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Genting/Genteng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Ayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ujung Pulau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Cawang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kepala Siring"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simpang III Pumu (Simpang Tiga Pomo / Pumu)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gunung Raya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Talang Tinggi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karang Agung"
+    }
   ]
 }

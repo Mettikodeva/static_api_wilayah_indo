@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tirobali",
-    "Malimongan",
-    "Tanamakaleang (Tanama Kaleang)",
-    "Padang Balua",
-    "Padang Raya",
-    "Embonatana (Embonatanah)",
-    "Wono",
-    "Beroppa",
-    "Lodang",
-    "Taloto",
-    "Hoyane",
-    "Marante"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tirobali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malimongan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanamakaleang (Tanama Kaleang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Balua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Embonatana (Embonatanah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wono"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beroppa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lodang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taloto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hoyane"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Marante"
+    }
   ]
 }

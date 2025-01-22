@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Palamba",
-    "Atep",
-    "Manembo",
-    "Temboan",
-    "Rumbia",
-    "Winebetan",
-    "Kaayuran Atas",
-    "Kaayuran Bawah",
-    "Kawatak",
-    "Atep Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palamba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Atep"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manembo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Temboan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rumbia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Winebetan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaayuran Atas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaayuran Bawah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kawatak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Atep Satu"
+    }
   ]
 }

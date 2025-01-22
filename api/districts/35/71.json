@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Mojoroto",
-    "Kota (Kediri Kota)",
-    "Pesantren"
+    {
+      "district_id": 1,
+      "kecamatan": "Mojoroto"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kota (Kediri Kota)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pesantren"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kemaraya",
-    "Watu-Watu",
-    "Tipulu",
-    "Punggaloba",
-    "Benu Benua",
-    "Sodohoa (Sodoha)",
-    "Sanua",
-    "Dapu Dapura",
-    "Lahundape"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kemaraya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Watu-Watu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tipulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Punggaloba"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Benu Benua"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sodohoa (Sodoha)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sanua"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Dapu Dapura"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lahundape"
+    }
   ]
 }

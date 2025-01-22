@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Della (Dela)",
-    "Malayauw (Megame)",
-    "Klasbon (Kaladum)",
-    "Klasei",
-    "Klabili"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Della (Dela)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malayauw (Megame)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klasbon (Kaladum)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klasei"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klabili"
+    }
   ]
 }

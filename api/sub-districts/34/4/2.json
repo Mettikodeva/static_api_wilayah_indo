@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sidorejo",
-    "Sidoluhur",
-    "Sidomulyo",
-    "Sidoagung",
-    "Sidokarto",
-    "Sidoarum",
-    "Sidomoyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidoluhur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidoagung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidokarto"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidoarum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidomoyo"
+    }
   ]
 }

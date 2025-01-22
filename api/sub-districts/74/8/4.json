@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rante Angin",
-    "Rante Baru",
-    "Pohu",
-    "Torotuo (Torotua)",
-    "Maroko",
-    "Landolia",
-    "Lawekara"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rante Angin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rante Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pohu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Torotuo (Torotua)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Maroko"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Landolia"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lawekara"
+    }
   ]
 }

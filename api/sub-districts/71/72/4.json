@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Peteten Satu (I)",
-    "Winenet Satu (I)",
-    "Aertembaga Satu (I)",
-    "Tandurusa (Tandu Rusa)",
-    "Makawidey",
-    "Pinangunian",
-    "Peteten Dua (II)",
-    "Winenet Dua (II)",
-    "Kasawari",
-    "Aertembaga Dua (II)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Peteten Satu (I)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Winenet Satu (I)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Aertembaga Satu (I)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tandurusa (Tandu Rusa)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Makawidey"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pinangunian"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Peteten Dua (II)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Winenet Dua (II)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kasawari"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Aertembaga Dua (II)"
+    }
   ]
 }

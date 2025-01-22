@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tungkal",
-    "Pasar II Muara Enim (Pasar II)",
-    "Pasar III Muara Enim (Pasar III)",
-    "Pasar I Muara Enim (Pasar I)",
-    "Muara Enim",
-    "Air Lintang",
-    "Tanjung Raja",
-    "Karang Raja",
-    "Muara Lawai",
-    "Tanjung Jati",
-    "Lubuk Emplas (Lubuk Empelas)",
-    "Kepur",
-    "Tanjung Serian",
-    "Muara Harapan",
-    "Saka Jaya",
-    "Harapan Jaya"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tungkal"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pasar II Muara Enim (Pasar II)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasar III Muara Enim (Pasar III)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pasar I Muara Enim (Pasar I)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Muara Enim"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Air Lintang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Raja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Raja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Lawai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Jati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Emplas (Lubuk Empelas)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kepur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Serian"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muara Harapan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Saka Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Harapan Jaya"
+    }
   ]
 }

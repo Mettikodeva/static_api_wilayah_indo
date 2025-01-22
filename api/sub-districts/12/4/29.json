@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sisobawino I",
-    "I'odano (Iodano)",
-    "Huno (Hino)",
-    "Sisaratandrawa",
-    "Somolo-Molo",
-    "Lewuoguru I",
-    "Sifaoro Asi (Sifaoroasi)",
-    "Lewuombanua",
-    "Hiligodu Somolo-Molo",
-    "Hiliborodano",
-    "So'ewali"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sisobawino I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "I'odano (Iodano)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Huno (Hino)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sisaratandrawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Somolo-Molo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lewuoguru I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sifaoro Asi (Sifaoroasi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lewuombanua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hiligodu Somolo-Molo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hiliborodano"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "So'ewali"
+    }
   ]
 }

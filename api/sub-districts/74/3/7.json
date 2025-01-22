@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Langkoroni",
-    "Latompa",
-    "Raimuna",
-    "Maligano",
-    "Lapole",
-    "Poharua (Pohorua)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Langkoroni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Latompa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raimuna"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maligano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lapole"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Poharua (Pohorua)"
+    }
   ]
 }

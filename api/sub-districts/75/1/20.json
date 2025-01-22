@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Biluhu Barat",
-    "Lobuto",
-    "Biluhu Tengah",
-    "Luluo",
-    "Huwongo",
-    "Lobuto Timur",
-    "Botu Boluo (Botubolu'o / Botuboluo)",
-    "Olimeyala"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biluhu Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lobuto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biluhu Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Luluo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Huwongo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lobuto Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Botu Boluo (Botubolu'o / Botuboluo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Olimeyala"
+    }
   ]
 }

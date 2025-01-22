@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kepala Curup",
-    "Kampung Jeruk",
-    "Simpang Beliti",
-    "Taba Padang",
-    "Air Apo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kepala Curup"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kampung Jeruk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Beliti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taba Padang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Apo"
+    }
   ]
 }

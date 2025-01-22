@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pandau Hilir",
-    "Pahlawan",
-    "Sei Kera Hilir I (Sei Kerah Hilir I)",
-    "Sei Kera Hilir II (Sei Kerah Hilir II)",
-    "Sei Kera Hulu",
-    "Sidorame Timur",
-    "Sidorame Barat I",
-    "Sidorame Barat II",
-    "Tegalrejo (Tegal Rejo)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pandau Hilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pahlawan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sei Kera Hilir I (Sei Kerah Hilir I)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sei Kera Hilir II (Sei Kerah Hilir II)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei Kera Hulu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sidorame Timur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sidorame Barat I"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sidorame Barat II"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tegalrejo (Tegal Rejo)"
+    }
   ]
 }

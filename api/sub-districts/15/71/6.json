@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pasir Panjang",
-    "Tanjung Raden",
-    "Olak Kemang",
-    "Tanjung Pasir",
-    "Ulu Gedong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasir Panjang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Raden"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Olak Kemang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung Pasir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ulu Gedong"
+    }
   ]
 }

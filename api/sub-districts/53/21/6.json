@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Biau",
-    "Kufeu",
-    "Tunmat",
-    "Tunabesi",
-    "Bani-Bani",
-    "Fatoin",
-    "Ikan Tuanbeis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kufeu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tunmat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunabesi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bani-Bani"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fatoin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ikan Tuanbeis"
+    }
   ]
 }

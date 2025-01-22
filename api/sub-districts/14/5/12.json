@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Rawang Empat",
-    "Kuala Semundam",
-    "Tambun",
-    "Terbangiang",
-    "Lubuk Terap",
-    "Angkasa",
-    "Sialang Godang",
-    "Lubuk Raja",
-    "Lubuk Keranji Timur",
-    "Airterjun (Air Terjun)",
-    "Sialang Bungkuk"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rawang Empat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Semundam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Terbangiang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Terap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Angkasa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sialang Godang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Raja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk Keranji Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Airterjun (Air Terjun)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sialang Bungkuk"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "cities": [
-    "Kotawaringin Barat",
-    "Kotawaringin Timur",
-    "Kapuas",
-    "Barito Selatan",
-    "Barito Utara",
-    "Katingan",
-    "Seruyan",
-    "Sukamara",
-    "Lamandau",
-    "Gunung Mas",
-    "Pulang Pisau",
-    "Murung Raya",
-    "Barito Timur",
-    "Palangkaraya"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kotawaringin Barat"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Kotawaringin Timur"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Kapuas"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Barito Selatan"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Barito Utara"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Katingan"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Seruyan"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Sukamara"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Lamandau"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Gunung Mas"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Pulang Pisau"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Murung Raya"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Barito Timur"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Palangkaraya"
+    }
   ]
 }

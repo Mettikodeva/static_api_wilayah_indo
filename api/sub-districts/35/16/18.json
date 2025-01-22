@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sadartengah",
-    "Lengkong",
-    "Kepuhanyar",
-    "Sumberjati",
-    "Gebangmalang",
-    "Jabon",
-    "Ngarjo",
-    "Wunut",
-    "Kwedenkembar",
-    "Jumeneng",
-    "Kwatu",
-    "Gayaman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sadartengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kepuhanyar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberjati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gebangmalang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jabon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngarjo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wunut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kwedenkembar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jumeneng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kwatu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gayaman"
+    }
   ]
 }

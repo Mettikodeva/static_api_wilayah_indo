@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kaiga",
-    "Bawi",
-    "Tina",
-    "Kurbaya",
-    "Wiyangger",
-    "Again",
-    "Piraleme",
-    "Tunggunale",
-    "Kotorambur",
-    "Wolu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaiga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bawi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tina"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kurbaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wiyangger"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Again"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Piraleme"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tunggunale"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kotorambur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wolu"
+    }
   ]
 }

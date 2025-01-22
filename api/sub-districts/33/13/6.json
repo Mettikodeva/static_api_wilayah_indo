@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Blumbang",
-    "Kalisoro",
-    "Tawangmangu",
-    "Gondosuli",
-    "Sepanjang",
-    "Bandardawung",
-    "Karanglo",
-    "Nglebak",
-    "Plumbon",
-    "Tengklik"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Blumbang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kalisoro"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tawangmangu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gondosuli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sepanjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandardawung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karanglo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nglebak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Plumbon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tengklik"
+    }
   ]
 }

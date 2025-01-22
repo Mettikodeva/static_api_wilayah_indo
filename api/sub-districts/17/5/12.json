@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pering Baru",
-    "Talang Padang",
-    "Suka Merindu",
-    "Napalan",
-    "Taba",
-    "Bakal Dalam",
-    "Lubuk Lagan",
-    "Sungai Petai",
-    "Suka Bulan",
-    "Tebat Sibun",
-    "Batu Balai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pering Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Padang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Merindu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Napalan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakal Dalam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Lagan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Petai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Bulan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tebat Sibun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Balai"
+    }
   ]
 }

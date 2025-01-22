@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lampar",
-    "Dragan",
-    "Karanganyar",
-    "Jemowo",
-    "Sumur",
-    "Sangup",
-    "Mriyan",
-    "Lanjaran",
-    "Karangkendal",
-    "Keposong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lampar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dragan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jemowo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sangup"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mriyan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lanjaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangkendal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keposong"
+    }
   ]
 }

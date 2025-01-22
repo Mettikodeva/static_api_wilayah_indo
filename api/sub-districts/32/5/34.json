@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pakenjeng",
-    "Garumukti",
-    "Panawa",
-    "Pananjung",
-    "Linggarjati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakenjeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Garumukti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pananjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Linggarjati"
+    }
   ]
 }

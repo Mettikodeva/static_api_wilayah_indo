@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Karang Mumus",
-    "Pelabuhan",
-    "Pasar Pagi",
-    "Bugis",
-    "Sungai Pinang Luar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karang Mumus"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pelabuhan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasar Pagi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bugis"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sungai Pinang Luar"
+    }
   ]
 }

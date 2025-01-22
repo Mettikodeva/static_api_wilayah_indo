@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Padasuka",
-    "Cibeunying",
-    "Cimenyan",
-    "Mandalamekar",
-    "Cikadut",
-    "Ciburial",
-    "Sindanglaya",
-    "Mekarsaluyu",
-    "Mekarmanik"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cibeunying"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cimenyan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mandalamekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikadut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ciburial"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindanglaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsaluyu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekarmanik"
+    }
   ]
 }

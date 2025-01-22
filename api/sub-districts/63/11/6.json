@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Paringin Timur",
-    "Paringin Kota",
-    "Balang",
-    "Kalahiang",
-    "Lasung Batu",
-    "Paran",
-    "Layap",
-    "Murung Ilung",
-    "Mangkayahu",
-    "Lok Batung",
-    "Lamida Bawah",
-    "Dahai",
-    "Hujan Mas",
-    "Babayau",
-    "Balida",
-    "Sungai Ketapi"
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Paringin Timur"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Paringin Kota"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalahiang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lasung Batu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Layap"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Murung Ilung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mangkayahu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lok Batung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lamida Bawah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Dahai"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Hujan Mas"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Babayau"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Balida"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Sungai Ketapi"
+    }
   ]
 }

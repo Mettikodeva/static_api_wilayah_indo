@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Menawi",
-    "Wadapi",
-    "Kainui I",
-    "Aitiri",
-    "Wawuti",
-    "Roipi",
-    "Ransarnoni",
-    "Kainui II",
-    "Wanampompi",
-    "Mananayam",
-    "Roipi Dua"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Menawi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wadapi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kainui I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aitiri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wawuti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Roipi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ransarnoni"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kainui II"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Wanampompi"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Mananayam"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Roipi Dua"
+    }
   ]
 }

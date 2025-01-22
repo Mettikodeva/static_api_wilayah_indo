@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Nggumbelaka",
-    "Mukureku",
-    "Wologai Timur",
-    "Kuru",
-    "Ndenggarongge (Ndengga Rongge)",
-    "Ndikosapu",
-    "Taniwoda",
-    "Tanalangi",
-    "Detuara",
-    "Tiwusora",
-    "Lisekuru (Lise Kuru)",
-    "Rutujeja (Rutu Jeja)",
-    "Mukureku Sa'ate (Mukureku Sa Ate)",
-    "Kurusare (Kuru Sare)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nggumbelaka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mukureku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wologai Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ndenggarongge (Ndengga Rongge)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ndikosapu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taniwoda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanalangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Detuara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tiwusora"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lisekuru (Lise Kuru)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rutujeja (Rutu Jeja)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mukureku Sa'ate (Mukureku Sa Ate)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kurusare (Kuru Sare)"
+    }
   ]
 }

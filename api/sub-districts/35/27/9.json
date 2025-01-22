@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Olor",
-    "Planggaran Barat",
-    "Planggaran Timur",
-    "Tolang",
-    "Lar Lar",
-    "Tlagah",
-    "Nagasareh",
-    "Trapang",
-    "Terosan",
-    "Asem Jaran",
-    "Kembang Jeruk",
-    "Morbatoh",
-    "Montor",
-    "Tebanah",
-    "Nepa",
-    "Batioh",
-    "Masaran",
-    "Banyuates",
-    "Jatra Timur",
-    "Tapaan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Olor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Planggaran Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Planggaran Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tolang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lar Lar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tlagah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nagasareh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Trapang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Terosan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Asem Jaran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kembang Jeruk"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Morbatoh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Montor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tebanah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nepa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Batioh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Masaran"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Banyuates"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Jatra Timur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tapaan"
+    }
   ]
 }

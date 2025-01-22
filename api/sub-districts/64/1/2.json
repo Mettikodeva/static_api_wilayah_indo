@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Keladen",
-    "Tanjung Aru",
-    "Labuangkallo (Labuangkalo)",
-    "Lori",
-    "Selengot",
-    "Random",
-    "Senipah"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Keladen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Aru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Labuangkallo (Labuangkalo)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lori"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Selengot"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Random"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Senipah"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lele",
-    "Bahu",
-    "Jiko (Jeko)",
-    "Galala",
-    "Tabalema",
-    "Yoyok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lele"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bahu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jiko (Jeko)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Galala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabalema"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yoyok"
+    }
   ]
 }

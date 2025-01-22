@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Atang Senjaya",
-    "Bojong",
-    "Parakanjaya (Parakan Jaya)",
-    "Kemang",
-    "Pabuaran",
-    "Semplak Barat",
-    "Jampang",
-    "Pondok Udik",
-    "Tegal"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Atang Senjaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Parakanjaya (Parakan Jaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kemang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semplak Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jampang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pondok Udik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegal"
+    }
   ]
 }

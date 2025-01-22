@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kutatengah (Kuta Tengah)",
-    "Tigapancur (Tiga Pancur)",
-    "Pintumbesi (Pintu Besi)",
-    "Gamber",
-    "Sirumbia (Serumbia)",
-    "Ndokumsiroga (Ndokum Siroga)",
-    "Linggajulu (Lingga Julu)",
-    "Gajah",
-    "Lingga",
-    "Nangbelawan (Nang Belawan)",
-    "Beganding",
-    "Torong",
-    "Berastepu",
-    "Surbakti",
-    "Jeraya",
-    "Perteguhen",
-    "Bulanbaru (Bulan Baru)"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutatengah (Kuta Tengah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tigapancur (Tiga Pancur)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pintumbesi (Pintu Besi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gamber"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sirumbia (Serumbia)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ndokumsiroga (Ndokum Siroga)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Linggajulu (Lingga Julu)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Gajah"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lingga"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Nangbelawan (Nang Belawan)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Beganding"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Torong"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Berastepu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Surbakti"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Jeraya"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Perteguhen"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Bulanbaru (Bulan Baru)"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Obaipugaida",
-    "Eyagitaida",
-    "Momageida",
-    "Ekauwiya",
-    "Debakebouda",
-    "Kaidoutadi",
-    "Pogeidimi",
-    "Okonobaida",
-    "Gakokotu",
-    "Kegama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Obaipugaida"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Eyagitaida"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Momageida"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ekauwiya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Debakebouda"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaidoutadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pogeidimi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Okonobaida"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gakokotu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kegama"
+    }
   ]
 }

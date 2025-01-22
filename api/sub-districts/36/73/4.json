@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Curug",
-    "Tinggar",
-    "Kemanisan (Kamanisan)",
-    "Cipete",
-    "Cilaku",
-    "Pancalaksana",
-    "Sukawana",
-    "Sukalaksana",
-    "Curug Manis (Curugmanis)",
-    "Sukajaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tinggar"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kemanisan (Kamanisan)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cipete"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cilaku"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pancalaksana"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukawana"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sukalaksana"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Curug Manis (Curugmanis)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sukajaya"
+    }
   ]
 }

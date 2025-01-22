@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Timbuolo",
-    "Panggulo",
-    "Luwohu",
-    "Buata",
-    "Timbuolo Timur",
-    "Tanah Putih",
-    "Panggula Barat (Panggulo Barat)",
-    "Timbuolo Tengah",
-    "Sukma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Timbuolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panggulo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Luwohu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buata"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Timbuolo Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanah Putih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panggula Barat (Panggulo Barat)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Timbuolo Tengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukma"
+    }
   ]
 }

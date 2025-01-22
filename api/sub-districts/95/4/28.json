@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Onggokme",
-    "Kubur",
-    "Weu",
-    "Liwese",
-    "Wenduri",
-    "Tabo Wanimbo",
-    "Lenggup",
-    "Tinger"
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Onggokme"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kubur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Weu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Liwese"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wenduri"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tabo Wanimbo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lenggup"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tinger"
+    }
   ]
 }

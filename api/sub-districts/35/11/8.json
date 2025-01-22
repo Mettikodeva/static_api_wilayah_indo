@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tenggarang",
-    "Kesemek (Kasemek)",
-    "Lojajar",
-    "Pekalangan",
-    "Kajar",
-    "Sumber Salam (Sumbersalam)",
-    "Koncer Kidul",
-    "Bataan",
-    "Gebang",
-    "Dawuhan",
-    "Tangsil Kulon",
-    "Koncer Darul Aman (Koncer Darul Alam)"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tenggarang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kesemek (Kasemek)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lojajar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pekalangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kajar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Salam (Sumbersalam)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koncer Kidul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bataan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dawuhan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tangsil Kulon"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Koncer Darul Aman (Koncer Darul Alam)"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lontar Selatan",
-    "Lontar Timur",
-    "Sebanti",
-    "Sepagar",
-    "Semaras",
-    "Terangkih (Terangkeh)",
-    "Gemuruh",
-    "Tapian Balai (Tepian Balai)",
-    "Lontar Utara",
-    "Sumber Sari",
-    "Subur Makmur"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lontar Selatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lontar Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sebanti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sepagar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Semaras"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Terangkih (Terangkeh)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gemuruh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tapian Balai (Tepian Balai)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lontar Utara"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Subur Makmur"
+    }
   ]
 }

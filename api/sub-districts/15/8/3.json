@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tanjung Gedang",
-    "Bungo Timur",
-    "Bungo Barat",
-    "Jaya Setia",
-    "Batang Bungo"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjung Gedang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bungo Timur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bungo Barat"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Jaya Setia"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Batang Bungo"
+    }
   ]
 }

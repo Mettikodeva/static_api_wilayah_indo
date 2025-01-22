@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tagaraja (Tegaraja)",
-    "Amal Bakti",
-    "Bandar Sri Gemilang",
-    "Kuala Selat",
-    "Sungaisimbar (Sungai Simbar)",
-    "Penjuru",
-    "Sari Mulia/Mulya",
-    "Air Tawar",
-    "Tanjungraja (Tanjung Raja)",
-    "Sungaiteritip (Sungai Teritip)",
-    "Makmur Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tagaraja (Tegaraja)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Amal Bakti"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Bandar Sri Gemilang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Selat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaisimbar (Sungai Simbar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Penjuru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sari Mulia/Mulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Tawar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungraja (Tanjung Raja)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaiteritip (Sungai Teritip)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Makmur Jaya"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lembur Timur",
-    "Luba",
-    "Talwai",
-    "Tulleng",
-    "Waimi",
-    "Tasi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lembur Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Luba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talwai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tulleng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waimi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tasi"
+    }
   ]
 }

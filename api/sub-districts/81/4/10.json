@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ilath",
-    "Batu Jungku",
-    "Pela",
-    "Waemorat",
-    "Namlea Ilath"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ilath"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Jungku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pela"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waemorat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Namlea Ilath"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Plumbungan",
-    "Kroyo",
-    "Kedungwaduk (Kedung Waduk)",
-    "Jurangjero",
-    "Saradan",
-    "Plosokerep",
-    "Guworejo",
-    "Puro",
-    "Mojorejo",
-    "Pelemgadung (Pelem Gadung)"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Plumbungan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kroyo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungwaduk (Kedung Waduk)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jurangjero"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Saradan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Plosokerep"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Guworejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mojorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pelemgadung (Pelem Gadung)"
+    }
   ]
 }

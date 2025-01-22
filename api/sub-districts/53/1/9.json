@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Nonbes",
-    "Oesena",
-    "Ponain",
-    "Kotabes",
-    "Tesbatan",
-    "Oenoni",
-    "Apren",
-    "Oenoni II (Oenoni dua)",
-    "Tesbatan II"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nonbes"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oesena"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ponain"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kotabes"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tesbatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oenoni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Apren"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oenoni II (Oenoni dua)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tesbatan II"
+    }
   ]
 }

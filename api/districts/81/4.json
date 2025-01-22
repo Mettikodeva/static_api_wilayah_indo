@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Namlea",
-    "Air Buaya (Airbuaya)",
-    "Waeapo",
-    "Waplau",
-    "Batabual",
-    "Lolong Guba",
-    "Waelata",
-    "Fena Leisela",
-    "Teluk Kaiely",
-    "Lilialy"
+    {
+      "district_id": 1,
+      "kecamatan": "Namlea"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Air Buaya (Airbuaya)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Waeapo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Waplau"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Batabual"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Lolong Guba"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Waelata"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Fena Leisela"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Teluk Kaiely"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Lilialy"
+    }
   ]
 }

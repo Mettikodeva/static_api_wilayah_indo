@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dembe I",
-    "Lekobalo",
-    "Pilolodaa",
-    "Buliide",
-    "Tenilo",
-    "Molosifat W (Molosipat W)",
-    "Buladu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dembe I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lekobalo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pilolodaa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Buliide"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tenilo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Molosifat W (Molosipat W)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Buladu"
+    }
   ]
 }

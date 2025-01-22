@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tembarak",
-    "Menggoro",
-    "Purwodadi",
-    "Wonokerso",
-    "Kemloko",
-    "Gandu",
-    "Botoputih",
-    "Tawangsari",
-    "Greges",
-    "Krajan",
-    "Jragan",
-    "Drono",
-    "Banaran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tembarak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Menggoro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonokerso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemloko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gandu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Botoputih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Greges"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Krajan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jragan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Drono"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banaran"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Nambume",
-    "Indawa",
-    "Eyuni",
-    "Yugumia",
-    "Dolinggame",
-    "Tinggira",
-    "Wumuak",
-    "Andiaput",
-    "Wuragabur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nambume"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Indawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Eyuni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yugumia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dolinggame"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tinggira"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wumuak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Andiaput"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wuragabur"
+    }
   ]
 }

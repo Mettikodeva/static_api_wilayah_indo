@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kuala Jelai",
-    "Pulau Nibung",
-    "Sei/Sungai Baru",
-    "Sei/Sungai Bundung",
-    "Sei/Sungai Raja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kuala Jelai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Nibung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Bundung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Raja"
+    }
   ]
 }

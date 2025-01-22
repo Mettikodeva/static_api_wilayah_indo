@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kebonrejo",
-    "Kampungbaru",
-    "Besowo",
-    "Siman",
-    "Brumbung",
-    "Kepung",
-    "Krenceng",
-    "Kencong",
-    "Keling",
-    "Damarwulan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebonrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kampungbaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Besowo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Brumbung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kepung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Krenceng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kencong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keling"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Damarwulan"
+    }
   ]
 }

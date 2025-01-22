@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukapura",
-    "Kebun Jayanti",
-    "Babakan Surabaya",
-    "Cicaheum",
-    "Babakansari (Babakan Sari)",
-    "Kebon Kangkung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukapura"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kebun Jayanti"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Babakan Surabaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cicaheum"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Babakansari (Babakan Sari)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kebon Kangkung"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Penajam",
-    "Waru",
-    "Babulu",
-    "Sepaku"
+    {
+      "district_id": 1,
+      "kecamatan": "Penajam"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Waru"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Babulu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sepaku"
+    }
   ]
 }

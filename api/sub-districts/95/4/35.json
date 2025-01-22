@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Telenggeme",
-    "Aukuni",
-    "Tenek",
-    "Kimunuk",
-    "Kimugu",
-    "Yagagobak",
-    "Linggira",
-    "Wekaru",
-    "Dolunggun",
-    "Kagi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Telenggeme"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aukuni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tenek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kimunuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kimugu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yagagobak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Linggira"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wekaru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dolunggun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kagi"
+    }
   ]
 }

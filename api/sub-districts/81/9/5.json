@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Waemulang",
-    "Waeturen",
-    "Waehaka",
-    "Waemala",
-    "Erwiri (Ewiri)",
-    "Tifu",
-    "Mepa",
-    "Leksula",
-    "Nalbessy",
-    "Kase",
-    "Neath",
-    "Liang",
-    "Slealale",
-    "Walunhelat (Walunghelat)",
-    "Wahaolon",
-    "Waewali (Wewali)",
-    "Waenamaolon",
-    "Grahwaen",
-    "Terkuri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waemulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waeturen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waehaka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waemala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Erwiri (Ewiri)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tifu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mepa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leksula"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nalbessy"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kase"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Neath"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Liang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Slealale"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Walunhelat (Walunghelat)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Wahaolon"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Waewali (Wewali)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Waenamaolon"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Grahwaen"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Terkuri"
+    }
   ]
 }

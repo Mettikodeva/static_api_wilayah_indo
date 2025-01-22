@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Giriwinangun",
-    "Sidorejo (Sido Rejo)",
-    "Pulung Rejo",
-    "Karang Dadi",
-    "Giri Purno",
-    "Sumber Agung",
-    "Sarimulya (Sari Mulyo / Mulya)",
-    "Sepakat Bersatu",
-    "Rantau Kembang",
-    "Giri Mulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Giriwinangun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidorejo (Sido Rejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulung Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Dadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Giri Purno"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sarimulya (Sari Mulyo / Mulya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sepakat Bersatu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Kembang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Giri Mulyo"
+    }
   ]
 }

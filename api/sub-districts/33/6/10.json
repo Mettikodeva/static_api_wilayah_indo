@@ -1,45 +1,168 @@
 {
   "sub_districts": [
-    "Kedungmulyo",
-    "Mangunjayan",
-    "Karanganom",
-    "Tanjunganom",
-    "Sidomulyo",
-    "Sumbersari",
-    "Langenrejo",
-    "Tamansari",
-    "Wareng",
-    "Ketug",
-    "Rowodadi",
-    "Kedungsari",
-    "Sruwohdukuh (Sruwoh Dukuh)",
-    "Wonodadi",
-    "Wonorejowetan (Wonorejo Wetan)",
-    "Wonorejokulon (Wonorejo Kulon)",
-    "Kunirejokulon (Kunirejo Kulon)",
-    "Kunirejowetan (Kunirejo Wetan)",
-    "Kedungsri",
-    "Kedungagung",
-    "Sruwohrejo",
-    "Lugurejo",
-    "Lugu",
-    "Kunir",
-    "Lubangdukuh (Lubang Dukuh)",
-    "Tlogorejo",
-    "Polomarto",
-    "Tegalgondo",
-    "Lubanglor (Lubang Lor)",
-    "Lubangindangan (Lubang Indangan)",
-    "Lubangkidul (Lubang Kidul)",
-    "Lubangsampang (Lubang Sampang)",
-    "Dlangu",
-    "Andong",
-    "Kaliwatubumi",
-    "Kaliwatukranggan",
-    "Panggeldlangu (Panggeldlanggu)",
-    "Binangun",
-    "Butuh",
-    "Klepu",
-    "Wironatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungmulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangunjayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanganom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjunganom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langenrejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wareng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ketug"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rowodadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kedungsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sruwohdukuh (Sruwoh Dukuh)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wonodadi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wonorejowetan (Wonorejo Wetan)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wonorejokulon (Wonorejo Kulon)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kunirejokulon (Kunirejo Kulon)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kunirejowetan (Kunirejo Wetan)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kedungsri"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kedungagung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sruwohrejo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lugurejo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lugu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kunir"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Lubangdukuh (Lubang Dukuh)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tlogorejo"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Polomarto"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tegalgondo"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Lubanglor (Lubang Lor)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Lubangindangan (Lubang Indangan)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Lubangkidul (Lubang Kidul)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Lubangsampang (Lubang Sampang)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Dlangu"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Andong"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Kaliwatubumi"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Kaliwatukranggan"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Panggeldlangu (Panggeldlanggu)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Butuh"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Klepu"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Wironatan"
+    }
   ]
 }

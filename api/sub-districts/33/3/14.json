@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Brobot",
-    "Gembong",
-    "Galuh",
-    "Banjaran",
-    "Patemon",
-    "Bojongsari",
-    "Kajongan",
-    "Karangbanjar",
-    "Beji",
-    "Pagedangan",
-    "Pekalongan",
-    "Metenggeng",
-    "Bumisari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Brobot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gembong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Galuh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banjaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kajongan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangbanjar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagedangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pekalongan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Metenggeng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bumisari"
+    }
   ]
 }

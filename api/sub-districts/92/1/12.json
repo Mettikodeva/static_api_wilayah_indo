@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Segun",
-    "Gisim",
-    "Waimon",
-    "Klasegun",
-    "Waimlabat",
-    "Majemau",
-    "Klasin",
-    "Klajaring",
-    "Malamas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Segun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gisim"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waimon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klasegun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waimlabat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Majemau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Klasin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klajaring"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Malamas"
+    }
   ]
 }

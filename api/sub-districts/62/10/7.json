@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kampuri",
-    "Tuyun",
-    "Tumbang Empas",
-    "Rangan Tate",
-    "Dahian Tambuk",
-    "Tumbang Danau"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampuri"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuyun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Empas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rangan Tate"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dahian Tambuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Danau"
+    }
   ]
 }

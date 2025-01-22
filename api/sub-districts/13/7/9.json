@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Labuah Gunuang",
-    "Batu Payuang (Batu Payung)",
-    "Ampalu",
-    "Bukik Sikumpa",
-    "Balai Panjang",
-    "Halaban",
-    "Tanjung/Tanjuang Gadang",
-    "Sitanang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuah Gunuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Payuang (Batu Payung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ampalu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukik Sikumpa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balai Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Halaban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung/Tanjuang Gadang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sitanang"
+    }
   ]
 }

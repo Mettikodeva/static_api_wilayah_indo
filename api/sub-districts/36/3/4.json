@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sukamanah (Suka Manah)",
-    "Jambe",
-    "Tipar Raya (Tipar Jaya / Tiparraya)",
-    "Taban",
-    "Daru",
-    "Kutruk",
-    "Ranca Buaya (Rancabuaya)",
-    "Mekarsari",
-    "Ancol Pasir",
-    "Pasir Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukamanah (Suka Manah)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tipar Raya (Tipar Jaya / Tiparraya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Daru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kutruk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ranca Buaya (Rancabuaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ancol Pasir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Barat"
+    }
   ]
 }

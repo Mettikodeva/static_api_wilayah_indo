@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Jagiro",
-    "Meyenda",
-    "Rawara",
-    "Barma Barat",
-    "Inggof"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jagiro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meyenda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rawara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Barma Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Inggof"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tatengesan",
-    "Wiau",
-    "Bentenan",
-    "Tumbak",
-    "Makalu",
-    "Minanga",
-    "Minanga Satu",
-    "Bentenan Indah",
-    "Minanga Timur",
-    "Minanga Dua",
-    "Minanga Tiga",
-    "Makalu Selatan",
-    "Tatengesan Satu",
-    "Bentenan Satu",
-    "Tumbak Madani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tatengesan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wiau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bentenan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumbak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makalu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Minanga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Minanga Satu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bentenan Indah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Minanga Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Minanga Dua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Minanga Tiga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Makalu Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tatengesan Satu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bentenan Satu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tumbak Madani"
+    }
   ]
 }

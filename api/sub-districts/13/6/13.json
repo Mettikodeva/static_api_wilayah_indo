@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Batu Kambing",
-    "Sitalang",
-    "Bawan",
-    "Sitanang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Kambing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sitalang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bawan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sitanang"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bumi Saniari",
-    "Banjar Ausoy",
-    "Waraitama",
-    "Atibo Manimeri",
-    "Pasamai",
-    "Korano Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumi Saniari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjar Ausoy"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waraitama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Atibo Manimeri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasamai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Korano Jaya"
+    }
   ]
 }

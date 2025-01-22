@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Margaasih",
-    "Lagadar",
-    "Nanjung",
-    "Mekarrahayu (Mekar Rahayu)",
-    "Rahayu",
-    "Cigondewah Hilir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Margaasih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lagadar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nanjung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarrahayu (Mekar Rahayu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rahayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cigondewah Hilir"
+    }
   ]
 }

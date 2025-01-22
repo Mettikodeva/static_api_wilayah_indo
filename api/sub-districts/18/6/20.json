@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Banjar Manis (Banjarmanis)",
-    "Campang",
-    "Kuta Dalom (Kota Dalom / Dalam)",
-    "Purwodadi",
-    "Gisting Bawah",
-    "Gisting Atas",
-    "Sidokaton",
-    "Landbaw (Landbraw)",
-    "Gisting Permai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjar Manis (Banjarmanis)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Campang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuta Dalom (Kota Dalom / Dalam)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gisting Bawah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gisting Atas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidokaton"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Landbaw (Landbraw)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gisting Permai"
+    }
   ]
 }

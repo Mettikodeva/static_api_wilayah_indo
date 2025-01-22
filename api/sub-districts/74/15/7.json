@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Waonu",
-    "Kaofe",
-    "Uwemaasi",
-    "Lipu",
-    "Kapoa",
-    "Banabungi",
-    "Mawambunga",
-    "Banabungi Selatan",
-    "Marawali",
-    "Kapoa Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waonu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaofe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Uwemaasi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lipu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kapoa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banabungi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mawambunga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banabungi Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marawali"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kapoa Barat"
+    }
   ]
 }

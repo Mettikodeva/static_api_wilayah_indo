@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Rancateureup",
-    "Labuan",
-    "Banyubiru",
-    "Caringin",
-    "Teluk",
-    "Cigondang",
-    "Kalanganyar",
-    "Sukamaju",
-    "Banyumekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rancateureup"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banyubiru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cigondang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kalanganyar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banyumekar"
+    }
   ]
 }

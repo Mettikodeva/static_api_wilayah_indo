@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Manggis",
-    "Bungo Taman Agung",
-    "Sungai Binjai",
-    "Lubuk Benteng",
-    "Air Gemuruh",
-    "Purwo Bakti",
-    "Sarana Jaya",
-    "Teluk Panjang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Manggis"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bungo Taman Agung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sungai Binjai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Benteng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Gemuruh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwo Bakti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sarana Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Panjang"
+    }
   ]
 }

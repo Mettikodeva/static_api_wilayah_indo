@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cimungkal",
-    "Ganjaresik",
-    "Cilengkrang",
-    "Cikareo Selatan",
-    "Cikareo Utara",
-    "Wado",
-    "Mulyajaya",
-    "Sukajadi",
-    "Cisurat",
-    "Sukapura"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cimungkal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ganjaresik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cilengkrang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikareo Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikareo Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wado"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulyajaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cisurat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukapura"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Batu Sopang",
-    "Tanjung Harapan",
-    "Paser Belengkong (Pasir Belengkong)",
-    "Tanah Grogot",
-    "Kuaro",
-    "Long Ikis",
-    "Muara Komam",
-    "Long Kali",
-    "Batu Engau",
-    "Muara Samu"
+    {
+      "district_id": 1,
+      "kecamatan": "Batu Sopang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Harapan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Paser Belengkong (Pasir Belengkong)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tanah Grogot"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kuaro"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Long Ikis"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Muara Komam"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Long Kali"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Batu Engau"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Muara Samu"
+    }
   ]
 }

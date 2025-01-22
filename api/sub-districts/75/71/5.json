@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Heledulaa Utara",
-    "Heledulaa Selatan",
-    "Ipilo",
-    "Moodu",
-    "Padebuolo",
-    "Tamalate"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Heledulaa Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Heledulaa Selatan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ipilo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Moodu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Padebuolo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tamalate"
+    }
   ]
 }

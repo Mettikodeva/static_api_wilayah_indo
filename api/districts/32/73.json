@@ -1,34 +1,124 @@
 {
   "districts": [
-    "Sukasari",
-    "Coblong",
-    "Babakan Ciparay",
-    "Bojongloa Kaler",
-    "Andir",
-    "Cicendo",
-    "Sukajadi",
-    "Cidadap",
-    "Bandung Wetan",
-    "Astana Anyar",
-    "Regol",
-    "Batununggal",
-    "Lengkong",
-    "Cibeunying Kidul",
-    "Bandung Kulon",
-    "Kiaracondong",
-    "Bojongloa Kidul",
-    "Cibeunying Kaler",
-    "Sumur Bandung",
-    "Antapani (Cicadas)",
-    "Bandung Kidul",
-    "Buahbatu",
-    "Rancasari",
-    "Arcamanik",
-    "Cibiru",
-    "Ujungberung (Ujung Berung)",
-    "Gedebage",
-    "Panyileukan",
-    "Cinambo",
-    "Mandalajati"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukasari"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Coblong"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Babakan Ciparay"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bojongloa Kaler"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Andir"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Cicendo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sukajadi"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Cidadap"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bandung Wetan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Astana Anyar"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Regol"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Batununggal"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Lengkong"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Cibeunying Kidul"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bandung Kulon"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kiaracondong"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bojongloa Kidul"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Cibeunying Kaler"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Sumur Bandung"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Antapani (Cicadas)"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Bandung Kidul"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Buahbatu"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Rancasari"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Arcamanik"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Cibiru"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Ujungberung (Ujung Berung)"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Gedebage"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Panyileukan"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Cinambo"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Mandalajati"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Palas Ulu/Hulu",
-    "Tanjung Palas Tengah",
-    "Tanjung Palas Ilir/Hilir",
-    "Karang Anyar",
-    "Gunung Putih",
-    "Pejalin",
-    "Antutan",
-    "Teras Baru",
-    "Teras Nawang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Palas Ulu/Hulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Palas Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Palas Ilir/Hilir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Putih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pejalin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Antutan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teras Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teras Nawang"
+    }
   ]
 }

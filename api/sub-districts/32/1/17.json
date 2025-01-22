@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Purwabakti",
-    "Cibunian",
-    "Cibitungwetan (Cibitung Wetan)",
-    "Gunungmenyan (Gunung Menyan)",
-    "Gunungbunder II (Gunung Bunder 2)",
-    "Pasarean",
-    "Cimayang",
-    "Pamijahan",
-    "Cibening",
-    "Gunungbunder I (Gunung Bunder 1)",
-    "Cibitung Kulon",
-    "Gunung Picung",
-    "Ciasihan",
-    "Gunungsari (Gunung Sari)",
-    "Ciasmara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwabakti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibunian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibitungwetan (Cibitung Wetan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungmenyan (Gunung Menyan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunungbunder II (Gunung Bunder 2)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasarean"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cimayang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pamijahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cibening"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunungbunder I (Gunung Bunder 1)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cibitung Kulon"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gunung Picung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ciasihan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunungsari (Gunung Sari)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ciasmara"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Simpang Empat",
-    "Sumahilang (Suma Hilang)",
-    "Tanah Datar",
-    "Kota Baru",
-    "Sukaramai (Suka Ramai)",
-    "Kota Tinggi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sumahilang (Suma Hilang)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanah Datar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukaramai (Suka Ramai)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kota Tinggi"
+    }
   ]
 }

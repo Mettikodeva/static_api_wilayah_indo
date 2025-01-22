@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tegal Mijin (Tegalmijin)",
-    "Pekauman",
-    "Sumber Pandan (Sumberpandan)",
-    "Wanisodo",
-    "Kabuaran",
-    "Wonosari",
-    "Dadapan",
-    "Dawuhan",
-    "Taman",
-    "Grujugan Kidul",
-    "Kejawan"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tegal Mijin (Tegalmijin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pekauman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Pandan (Sumberpandan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wanisodo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kabuaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dadapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dawuhan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Grujugan Kidul"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kejawan"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Selaawi",
-    "Putrajawa",
-    "Cigawir",
-    "Pelitaasih (Pelita Asih)",
-    "Cirapuhan",
-    "Mekarsari",
-    "Samida"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selaawi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Putrajawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cigawir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelitaasih (Pelita Asih)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cirapuhan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Samida"
+    }
   ]
 }

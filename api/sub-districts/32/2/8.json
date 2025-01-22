@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jampangtengah (Jampang Tengah)",
-    "Padabeunghar",
-    "Bantarpanjang",
-    "Bojongjengkol (Bojong Jengkol)",
-    "Nangerang",
-    "Tanjungsari",
-    "Sindangresmi",
-    "Panumbangan",
-    "Cijulang",
-    "Bantaragung (Bantar Agung)",
-    "Bojongtipar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jampangtengah (Jampang Tengah)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padabeunghar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bantarpanjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojongjengkol (Bojong Jengkol)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nangerang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindangresmi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panumbangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cijulang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bantaragung (Bantar Agung)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bojongtipar"
+    }
   ]
 }

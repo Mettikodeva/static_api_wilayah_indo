@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Krepkuri",
-    "Alguru",
-    "Sagapusatu",
-    "Mumugu",
-    "Ginid",
-    "Banggabeak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Krepkuri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alguru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sagapusatu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mumugu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ginid"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banggabeak"
+    }
   ]
 }

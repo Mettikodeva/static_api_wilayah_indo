@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Magani",
-    "Nuha",
-    "Nekkel (Nikkel)",
-    "Matano",
-    "Sorowako (Soroako / Soroaku)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Magani"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nuha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nekkel (Nikkel)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sorowako (Soroako / Soroaku)"
+    }
   ]
 }

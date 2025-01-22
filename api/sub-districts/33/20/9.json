@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tempur",
-    "Damarwulan",
-    "Kunir",
-    "Watuaji",
-    "Klepu",
-    "Tunahan",
-    "Kaligarang",
-    "Keling",
-    "Gelang",
-    "Jlegong",
-    "Kelet",
-    "Bumiharjo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tempur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Damarwulan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kunir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watuaji"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klepu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaligarang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keling"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gelang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jlegong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kelet"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bumiharjo"
+    }
   ]
 }

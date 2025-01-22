@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lugwi",
-    "Yaliwak",
-    "Teropme",
-    "Yigonime",
-    "Mome",
-    "Bugum",
-    "Pagona",
-    "Wunabu",
-    "Wilileme",
-    "Yangguni"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lugwi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yaliwak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teropme"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Yigonime"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mome"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bugum"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Pagona"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Wunabu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Wilileme"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Yangguni"
+    }
   ]
 }

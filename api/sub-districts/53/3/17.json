@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Faenake (Faennake)",
-    "Banain A",
-    "Banain B",
-    "Banain C",
-    "Sainoni",
-    "Tes",
-    "Napan",
-    "Haumeni",
-    "Baas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Faenake (Faennake)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banain A"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banain B"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banain C"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sainoni"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tes"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Napan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Haumeni"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baas"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Plaosan",
-    "Sarangan",
-    "Ngancar",
-    "Plumpung",
-    "Puntukdoro",
-    "Bulugunung",
-    "Bogoarum",
-    "Randugede",
-    "Sumberagung",
-    "Nitikan",
-    "Sidomukti",
-    "Buluharjo",
-    "Dadi",
-    "Pacalan",
-    "Sendangagung"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Plaosan"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sarangan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngancar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Plumpung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puntukdoro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulugunung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bogoarum"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Randugede"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberagung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nitikan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buluharjo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dadi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pacalan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sendangagung"
+    }
   ]
 }

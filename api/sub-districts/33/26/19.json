@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pesanggrahan",
-    "Sijambe",
-    "Bebel",
-    "Werdi",
-    "Rowoyoso",
-    "Semut",
-    "Tratebang",
-    "Wonokertokulon (Wonokerto Kulon)",
-    "Wonokertowetan (Wonokerto Wetan)",
-    "Api-Api",
-    "Pecakaran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pesanggrahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sijambe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bebel"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Werdi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rowoyoso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Semut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tratebang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonokertokulon (Wonokerto Kulon)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonokertowetan (Wonokerto Wetan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Api-Api"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pecakaran"
+    }
   ]
 }

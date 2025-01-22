@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cipeujeuh",
-    "Cikitu",
-    "Cananggela (Cinanggela)",
-    "Maruyung",
-    "Sukarame",
-    "Nagrak",
-    "Cikawao",
-    "Mekarjaya",
-    "Pangauban",
-    "Mandalahaji",
-    "Girimulya",
-    "Tanjungwangi",
-    "Mekarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipeujeuh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikitu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cananggela (Cinanggela)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maruyung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nagrak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikawao"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangauban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mandalahaji"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Girimulya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungwangi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekarsari"
+    }
   ]
 }

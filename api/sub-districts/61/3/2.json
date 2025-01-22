@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kedukul",
-    "Semuntai",
-    "Engkode",
-    "Sei/Sungai Mawang",
-    "Inggis",
-    "Layak Omang",
-    "Semanggis Raya",
-    "Tri Mulya (Trimulya)",
-    "Serambai Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedukul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semuntai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Engkode"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Mawang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Inggis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Layak Omang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semanggis Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tri Mulya (Trimulya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Serambai Jaya"
+    }
   ]
 }

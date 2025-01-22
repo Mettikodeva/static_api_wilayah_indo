@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Karang Are",
-    "Padang Titiran",
-    "Kembahang Lama",
-    "Pasar Tanjung Padang",
-    "Macang Manis",
-    "Lubuk Buntak",
-    "Talang Durian",
-    "Talang Padang",
-    "Kembahang Baru",
-    "Canggu",
-    "Remantai",
-    "Ulak Dabuk (Ulak Babuk)",
-    "Lampar Baru Talang Padang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karang Are"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang Titiran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kembahang Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar Tanjung Padang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Macang Manis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Buntak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Durian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talang Padang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kembahang Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Canggu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Remantai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ulak Dabuk (Ulak Babuk)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lampar Baru Talang Padang"
+    }
   ]
 }

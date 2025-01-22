@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bintuni Timur",
-    "Bintuni Barat",
-    "Tuasai",
-    "Argosigemerai",
-    "Beimes",
-    "Iguriji",
-    "Masina",
-    "Wesiri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bintuni Timur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bintuni Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuasai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Argosigemerai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Beimes"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Iguriji"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Masina"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wesiri"
+    }
   ]
 }

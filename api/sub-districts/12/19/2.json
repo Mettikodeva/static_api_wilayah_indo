@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Perkebunan Sipare-Pare",
-    "Sei Suka Deras",
-    "Simodong",
-    "Pematang Jering",
-    "Pematang Kuning",
-    "Kwala/Kuala Indah",
-    "Kwala/Kuala Tanjung",
-    "Tanjunggading",
-    "Simpang Kopi",
-    "Brohol"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Perkebunan Sipare-Pare"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei Suka Deras"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simodong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pematang Jering"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pematang Kuning"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kwala/Kuala Indah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kwala/Kuala Tanjung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjunggading"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Simpang Kopi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Brohol"
+    }
   ]
 }

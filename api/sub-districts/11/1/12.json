@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tutong",
-    "Teungoh Iboh (Tengah Lboh / Iboh)",
-    "Peulokan",
-    "Kuta Lboh/Iboh",
-    "Ujung Padang",
-    "Blang Baru",
-    "Blang Poroh",
-    "Pulo Ie",
-    "Suak Lokan",
-    "Iku Lhueng (Iku Lhung)",
-    "Kuta Trieng",
-    "Pante Geulima",
-    "Panton Pawoh",
-    "Batee Meucanang",
-    "Panton Rubek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tutong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teungoh Iboh (Tengah Lboh / Iboh)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Peulokan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuta Lboh/Iboh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ujung Padang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blang Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blang Poroh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulo Ie"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suak Lokan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Iku Lhueng (Iku Lhung)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kuta Trieng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pante Geulima"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Panton Pawoh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batee Meucanang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Panton Rubek"
+    }
   ]
 }

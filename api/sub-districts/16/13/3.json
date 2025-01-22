@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karya Makmur",
-    "Tebing Tinggi",
-    "Jadi Mulya",
-    "Mulya Jaya",
-    "Sumber Makmur",
-    "Sri Jaya Makmur (Srijaya Makmur)",
-    "Kelumpang Jaya",
-    "Bumi Makmur",
-    "Sumber Sari",
-    "Krani Jaya (Kerani Jaya)",
-    "Jadi Mulya I"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karya Makmur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jadi Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mulya Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sri Jaya Makmur (Srijaya Makmur)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kelumpang Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bumi Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Krani Jaya (Kerani Jaya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jadi Mulya I"
+    }
   ]
 }

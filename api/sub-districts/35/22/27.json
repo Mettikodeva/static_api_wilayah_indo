@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bobol",
-    "Miyono",
-    "Sekar",
-    "Klino",
-    "Deling",
-    "Bareng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bobol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Miyono"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klino"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Deling"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bareng"
+    }
   ]
 }

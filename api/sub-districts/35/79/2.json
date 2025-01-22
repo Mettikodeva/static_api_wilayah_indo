@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Punten",
-    "Gunungsari (Gunung Sari)",
-    "Tulungrejo (Tulung Rejo)",
-    "Sumbergondo (Sumber Gondo)",
-    "Pandanrejo (Pandan Rejo)",
-    "Bumiaji",
-    "Giripurno",
-    "Bulukerto",
-    "Sumberbrantas (Sumber Brantas)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Punten"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunungsari (Gunung Sari)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tulungrejo (Tulung Rejo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumbergondo (Sumber Gondo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pandanrejo (Pandan Rejo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumiaji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Giripurno"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulukerto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberbrantas (Sumber Brantas)"
+    }
   ]
 }

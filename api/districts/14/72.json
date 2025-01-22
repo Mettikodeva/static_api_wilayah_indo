@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Dumai Barat",
-    "Dumai Timur",
-    "Bukit Kapur",
-    "Sungai Sembilan",
-    "Medang Kampai",
-    "Dumai Kota",
-    "Dumai Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Dumai Barat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Dumai Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bukit Kapur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sungai Sembilan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Medang Kampai"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Dumai Kota"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Dumai Selatan"
+    }
   ]
 }

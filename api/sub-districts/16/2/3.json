@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pedamaran VI",
-    "Pedamaran V",
-    "Pedamaran IV",
-    "Pedamaran III",
-    "Pedamaran II",
-    "Pedamaran I",
-    "Cinta Jaya",
-    "Sukadamai",
-    "Serinanti",
-    "Sukaraja",
-    "Burnai Timur",
-    "Suka Pulih",
-    "Menang Raya",
-    "Lebuh Rarak"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pedamaran VI"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pedamaran V"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pedamaran IV"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pedamaran III"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pedamaran II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pedamaran I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cinta Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukadamai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Serinanti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Burnai Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Suka Pulih"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Menang Raya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lebuh Rarak"
+    }
   ]
 }

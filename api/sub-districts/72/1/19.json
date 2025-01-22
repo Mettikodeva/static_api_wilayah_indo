@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kampangar",
-    "Kuntang",
-    "Pulau Dua",
-    "Teku",
-    "Ondoliang",
-    "Batu Simpang",
-    "Batu Mandi",
-    "Pangkalaseang",
-    "Pangkalaseang Baru",
-    "Toweer"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kampangar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuntang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ondoliang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu Simpang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batu Mandi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangkalaseang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangkalaseang Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Toweer"
+    }
   ]
 }

@@ -1,112 +1,436 @@
 {
   "sub_districts": [
-    "Abenaho",
-    "Wambalfak",
-    "Landikma",
-    "Dombomi",
-    "Dosumo",
-    "Wambo",
-    "Sombule",
-    "Hubliki",
-    "Hulikma",
-    "Sebi",
-    "Suminaikma",
-    "Ulun",
-    "Fuahe",
-    "Wutlarin",
-    "Kolaima",
-    "Wanggibo",
-    "Walagima",
-    "Tagabaga",
-    "Bohum",
-    "Jinggiwi",
-    "Hurualma",
-    "Humalma",
-    "Yahatma",
-    "Sohombunu",
-    "Bumbum",
-    "Burim",
-    "Dahonaikma",
-    "Musanahikma",
-    "Abagima",
-    "Waghasilimo",
-    "Wileroma",
-    "Obabin",
-    "Babin",
-    "Elesim",
-    "Wanwal (Wanmal)",
-    "Sabilironggo",
-    "Yanamik",
-    "Lakongkong (Langongkok)",
-    "Helaksili",
-    "Bukurik",
-    "Kewi",
-    "Yambaikma",
-    "Hubualma (Hobualma)",
-    "Yuktanggo (Yutanggo)",
-    "Wambal",
-    "Lilimuhuk (Lilinmuhuk)",
-    "Hulhule",
-    "Mahiyal (Mahial)",
-    "Alugi",
-    "Sahikma",
-    "Bonahik",
-    "Eliyekma (Eliekma)",
-    "Yabusup",
-    "Arikbalek",
-    "Yawan",
-    "Fuim",
-    "Witlanggo (Wiltlanggo)",
-    "Worowi (Worol)",
-    "Bonggi",
-    "Wilak",
-    "Wanggun (Wangkun)",
-    "Hombanma (Hombanman)",
-    "Yama",
-    "Halifur",
-    "Beim",
-    "Ulusi",
-    "Salo",
-    "Moban",
-    "Mulip",
-    "Ulukhumi",
-    "Halisek",
-    "Lohomabel",
-    "Kule",
-    "Kandibung",
-    "Gefido (Gefindo)",
-    "Sapiwarek",
-    "Fialem",
-    "Horakia",
-    "Suahe",
-    "Uluhufuk",
-    "Waroham",
-    "Sohi",
-    "Akris",
-    "Pirikalem",
-    "Sumbul",
-    "Hundilip",
-    "Amuki",
-    "Wamhor",
-    "Kesuwi",
-    "Pamumu",
-    "Wafuhuk",
-    "Lilluikma (Lilukikma)",
-    "Noholuok",
-    "Wanam",
-    "Nenomani",
-    "Wilofing",
-    "Salohe",
-    "Dama",
-    "Kelesu (Klesu)",
-    "Kaboholik (Kawokholik)",
-    "Horenikma",
-    "Lasikma",
-    "Suele",
-    "Heahobak",
-    "Maleo",
-    "Usabiye",
-    "Wiwulik",
-    "Somohi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Abenaho"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wambalfak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Landikma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dombomi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dosumo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wambo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sombule"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hubliki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hulikma"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sebi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suminaikma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ulun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Fuahe"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wutlarin"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kolaima"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wanggibo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Walagima"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tagabaga"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bohum"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Jinggiwi"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Hurualma"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Humalma"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Yahatma"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sohombunu"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Bumbum"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Burim"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Dahonaikma"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Musanahikma"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Abagima"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Waghasilimo"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Wileroma"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Obabin"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Babin"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Elesim"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Wanwal (Wanmal)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Sabilironggo"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Yanamik"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Lakongkong (Langongkok)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Helaksili"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Bukurik"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Kewi"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Yambaikma"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Hubualma (Hobualma)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Yuktanggo (Yutanggo)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Wambal"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Lilimuhuk (Lilinmuhuk)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Hulhule"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Mahiyal (Mahial)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Alugi"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Sahikma"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Bonahik"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Eliyekma (Eliekma)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Yabusup"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Arikbalek"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Yawan"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Fuim"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Witlanggo (Wiltlanggo)"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Worowi (Worol)"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Bonggi"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Wilak"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Wanggun (Wangkun)"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Hombanma (Hombanman)"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Yama"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Halifur"
+    },
+    {
+      "sub_district_id": 2065,
+      "desa_kelurahan": "Beim"
+    },
+    {
+      "sub_district_id": 2066,
+      "desa_kelurahan": "Ulusi"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Salo"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Moban"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Mulip"
+    },
+    {
+      "sub_district_id": 2070,
+      "desa_kelurahan": "Ulukhumi"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Halisek"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Lohomabel"
+    },
+    {
+      "sub_district_id": 2073,
+      "desa_kelurahan": "Kule"
+    },
+    {
+      "sub_district_id": 2074,
+      "desa_kelurahan": "Kandibung"
+    },
+    {
+      "sub_district_id": 2075,
+      "desa_kelurahan": "Gefido (Gefindo)"
+    },
+    {
+      "sub_district_id": 2076,
+      "desa_kelurahan": "Sapiwarek"
+    },
+    {
+      "sub_district_id": 2077,
+      "desa_kelurahan": "Fialem"
+    },
+    {
+      "sub_district_id": 2078,
+      "desa_kelurahan": "Horakia"
+    },
+    {
+      "sub_district_id": 2079,
+      "desa_kelurahan": "Suahe"
+    },
+    {
+      "sub_district_id": 2080,
+      "desa_kelurahan": "Uluhufuk"
+    },
+    {
+      "sub_district_id": 2081,
+      "desa_kelurahan": "Waroham"
+    },
+    {
+      "sub_district_id": 2082,
+      "desa_kelurahan": "Sohi"
+    },
+    {
+      "sub_district_id": 2083,
+      "desa_kelurahan": "Akris"
+    },
+    {
+      "sub_district_id": 2084,
+      "desa_kelurahan": "Pirikalem"
+    },
+    {
+      "sub_district_id": 2085,
+      "desa_kelurahan": "Sumbul"
+    },
+    {
+      "sub_district_id": 2086,
+      "desa_kelurahan": "Hundilip"
+    },
+    {
+      "sub_district_id": 2087,
+      "desa_kelurahan": "Amuki"
+    },
+    {
+      "sub_district_id": 2088,
+      "desa_kelurahan": "Wamhor"
+    },
+    {
+      "sub_district_id": 2089,
+      "desa_kelurahan": "Kesuwi"
+    },
+    {
+      "sub_district_id": 2090,
+      "desa_kelurahan": "Pamumu"
+    },
+    {
+      "sub_district_id": 2091,
+      "desa_kelurahan": "Wafuhuk"
+    },
+    {
+      "sub_district_id": 2092,
+      "desa_kelurahan": "Lilluikma (Lilukikma)"
+    },
+    {
+      "sub_district_id": 2093,
+      "desa_kelurahan": "Noholuok"
+    },
+    {
+      "sub_district_id": 2094,
+      "desa_kelurahan": "Wanam"
+    },
+    {
+      "sub_district_id": 2095,
+      "desa_kelurahan": "Nenomani"
+    },
+    {
+      "sub_district_id": 2096,
+      "desa_kelurahan": "Wilofing"
+    },
+    {
+      "sub_district_id": 2097,
+      "desa_kelurahan": "Salohe"
+    },
+    {
+      "sub_district_id": 2098,
+      "desa_kelurahan": "Dama"
+    },
+    {
+      "sub_district_id": 2099,
+      "desa_kelurahan": "Kelesu (Klesu)"
+    },
+    {
+      "sub_district_id": 2100,
+      "desa_kelurahan": "Kaboholik (Kawokholik)"
+    },
+    {
+      "sub_district_id": 2101,
+      "desa_kelurahan": "Horenikma"
+    },
+    {
+      "sub_district_id": 2102,
+      "desa_kelurahan": "Lasikma"
+    },
+    {
+      "sub_district_id": 2103,
+      "desa_kelurahan": "Suele"
+    },
+    {
+      "sub_district_id": 2104,
+      "desa_kelurahan": "Heahobak"
+    },
+    {
+      "sub_district_id": 2105,
+      "desa_kelurahan": "Maleo"
+    },
+    {
+      "sub_district_id": 2106,
+      "desa_kelurahan": "Usabiye"
+    },
+    {
+      "sub_district_id": 2107,
+      "desa_kelurahan": "Wiwulik"
+    },
+    {
+      "sub_district_id": 2108,
+      "desa_kelurahan": "Somohi"
+    }
   ]
 }

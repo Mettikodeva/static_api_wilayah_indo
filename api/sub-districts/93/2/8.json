@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Langgoan",
-    "Tetop",
-    "Wariktop (Wariktoop)",
-    "Autriop",
-    "Ogenatan (Ogenetan / Ogenathan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Langgoan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tetop"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wariktop (Wariktoop)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Autriop"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ogenatan (Ogenetan / Ogenathan)"
+    }
   ]
 }

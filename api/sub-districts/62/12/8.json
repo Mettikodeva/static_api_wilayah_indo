@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Batu Mirau",
-    "Tambelum",
-    "Tumbang Bantian",
-    "Tumbang Saan",
-    "Tumbang Kolon",
-    "Tumbang Apat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Mirau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tambelum"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbang Bantian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumbang Saan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Kolon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Apat"
+    }
   ]
 }

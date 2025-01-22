@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Karang Agung",
-    "Pimping",
-    "Panca Agung",
-    "Ruhui Rahayu",
-    "Ardi Mulyo (Ardi Mulya)",
-    "Kelubir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karang Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pimping"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panca Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ruhui Rahayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ardi Mulyo (Ardi Mulya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelubir"
+    }
   ]
 }

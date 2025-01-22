@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dempelrejo",
-    "Putatgede",
-    "Jatirejo",
-    "Winong",
-    "Rejosari",
-    "Sumbersari",
-    "Bojonggede",
-    "Kebonagung",
-    "Ngampel Kulon",
-    "Ngampel Wetan",
-    "Sudipayung",
-    "Banyuurip"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dempelrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Putatgede"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bojonggede"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngampel Kulon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngampel Wetan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sudipayung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banyuurip"
+    }
   ]
 }

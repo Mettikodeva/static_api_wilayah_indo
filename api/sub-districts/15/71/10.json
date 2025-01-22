@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sungai Putri",
-    "Murni",
-    "Legok",
-    "Selamat",
-    "Solok Sipin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Putri"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Murni"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Legok"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Selamat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Solok Sipin"
+    }
   ]
 }

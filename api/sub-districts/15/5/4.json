@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Jambi Kecil",
-    "Setiris",
-    "Tanjung Katung",
-    "Jambi Kulo/Tulo",
-    "Baru",
-    "Danau Lamo",
-    "Muara/Muaro Jambi",
-    "Niaso",
-    "Bakung",
-    "Danau Kedap",
-    "Mudung Darat",
-    "Lubuk Raman"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jambi Kecil"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Setiris"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Katung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jambi Kulo/Tulo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Danau Lamo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara/Muaro Jambi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Niaso"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Danau Kedap"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mudung Darat"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lubuk Raman"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Situjuah Batua",
-    "Situjuah Ladang Laweh",
-    "Tungka",
-    "Situjuah Banda Dalam",
-    "Situjuah Gadang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Situjuah Batua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Situjuah Ladang Laweh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tungka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Situjuah Banda Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Situjuah Gadang"
+    }
   ]
 }

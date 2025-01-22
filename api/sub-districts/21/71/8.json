@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sijantung",
-    "Karas (Pulau Karas)",
-    "Galang Baru (Pulau)",
-    "Sembulang (Pulau Rempang)",
-    "Rempang Cate",
-    "Subang Mas",
-    "Pulau Abang",
-    "Air Raja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sijantung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karas (Pulau Karas)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Galang Baru (Pulau)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sembulang (Pulau Rempang)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rempang Cate"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Subang Mas"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pulau Abang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Air Raja"
+    }
   ]
 }

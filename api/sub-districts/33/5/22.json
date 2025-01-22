@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pucangan",
-    "Seboro",
-    "Wonosari",
-    "Sadangkulon",
-    "Cangkring",
-    "Sadangwetan",
-    "Kedunggong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pucangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Seboro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sadangkulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cangkring"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sadangwetan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedunggong"
+    }
   ]
 }

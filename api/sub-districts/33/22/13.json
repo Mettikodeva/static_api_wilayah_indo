@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ngempon",
-    "Karangjati",
-    "Wujil",
-    "Bergas Lor",
-    "Wringinputih (Wringin Putih)",
-    "Gondoriyo",
-    "Gebugan",
-    "Pagersari",
-    "Munding",
-    "Bergas Kidul",
-    "Randugunting",
-    "Jatijajar",
-    "Diwak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ngempon"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karangjati"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wujil"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bergas Lor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wringinputih (Wringin Putih)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gondoriyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gebugan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagersari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Munding"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bergas Kidul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Randugunting"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jatijajar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Diwak"
+    }
   ]
 }

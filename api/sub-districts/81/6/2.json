@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kawa",
-    "Piru",
-    "Neniari / Niniari",
-    "Morekau",
-    "Lumoly (Lumoli)",
-    "Eti / Ety",
-    "Kaibobo (Kaibobu)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Piru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Neniari / Niniari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Morekau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lumoly (Lumoli)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Eti / Ety"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaibobo (Kaibobu)"
+    }
   ]
 }

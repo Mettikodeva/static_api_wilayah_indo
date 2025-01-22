@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Rimpian",
-    "Pondok Gelugur",
-    "Lubuk Batu Tinggal",
-    "Sei Beberas Hilir (Sei Beras Hilir)",
-    "Kulim Jaya",
-    "Sei Beras-Beras",
-    "Tasik Juang",
-    "Pontian Mekar",
-    "Air Putih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rimpian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pondok Gelugur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Batu Tinggal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Beberas Hilir (Sei Beras Hilir)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kulim Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei Beras-Beras"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tasik Juang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pontian Mekar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Putih"
+    }
   ]
 }

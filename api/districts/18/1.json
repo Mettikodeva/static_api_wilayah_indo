@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Natar",
-    "Tanjung Bintang",
-    "Kalianda",
-    "Sidomulyo",
-    "Katibung",
-    "Penengahan",
-    "Palas",
-    "Jati Agung",
-    "Ketapang",
-    "Sragi",
-    "Raja Basa (Rajabasa)",
-    "Candipuro",
-    "Merbau Mataram",
-    "Bakauheni",
-    "Tanjung Sari",
-    "Way Sulan",
-    "Way Panji"
+    {
+      "district_id": 4,
+      "kecamatan": "Natar"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanjung Bintang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kalianda"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sidomulyo"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Katibung"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Penengahan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Palas"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Jati Agung"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Ketapang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sragi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Raja Basa (Rajabasa)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Candipuro"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Merbau Mataram"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Bakauheni"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Tanjung Sari"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Way Sulan"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Way Panji"
+    }
   ]
 }

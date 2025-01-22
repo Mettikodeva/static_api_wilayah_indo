@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pandan Kasturi",
-    "Rijali",
-    "Amantelu",
-    "Karang Panjang",
-    "Waihoka",
-    "Batu Meja",
-    "Batu Gajah (Batu Gaja / Batugajah)",
-    "Uritetu",
-    "Honipopu",
-    "Ahusen",
-    "Hative Kecil",
-    "Galala",
-    "Batu Merah",
-    "Soya"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pandan Kasturi"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Rijali"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Amantelu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Karang Panjang"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Waihoka"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Batu Meja"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Batu Gajah (Batu Gaja / Batugajah)"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Uritetu"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Honipopu"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Ahusen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hative Kecil"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Galala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Merah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Soya"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Waindu",
-    "Barawai",
-    "Woda",
-    "Kororompui",
-    "Aisau",
-    "Sewenui",
-    "Sawendui"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waindu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Barawai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Woda"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kororompui"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aisau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sewenui"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sawendui"
+    }
   ]
 }

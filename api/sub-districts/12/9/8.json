@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Meranti",
-    "Perkebunan Sei Balai (Baleh)",
-    "Sei Beluru",
-    "Serdang",
-    "Gajah",
-    "Air Putih",
-    "Sukajadi"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meranti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Sei Balai (Baleh)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei Beluru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Serdang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Gajah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Air Putih"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sukajadi"
+    }
   ]
 }

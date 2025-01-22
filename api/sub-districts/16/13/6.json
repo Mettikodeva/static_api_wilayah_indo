@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Karang Jaya",
-    "Bukit Ulu",
-    "Sukaraja",
-    "Lubuk Kumbung",
-    "Muara Batang Empu",
-    "Tanjung Agung",
-    "Rantau Telang",
-    "Suka Menang",
-    "Terusan",
-    "Muara Tiku",
-    "Embacang Baru",
-    "Embacang Lama",
-    "Rantau Jaya",
-    "Bukit Langkap",
-    "Embacang Baru Ilir"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Karang Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukit Ulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Kumbung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Batang Empu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Telang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Menang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terusan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara Tiku"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Embacang Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Embacang Lama"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rantau Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bukit Langkap"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Embacang Baru Ilir"
+    }
   ]
 }

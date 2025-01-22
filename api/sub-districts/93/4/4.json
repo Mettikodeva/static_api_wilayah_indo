@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ayam",
-    "Waw",
-    "Bayiw Pinam",
-    "Cumnew",
-    "Jewes"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ayam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waw"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bayiw Pinam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cumnew"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jewes"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Adidharma",
-    "Pasindangan",
-    "Jadimulya",
-    "Klayan",
-    "Jatimerta",
-    "Astana",
-    "Kalisapu",
-    "Wanakaya",
-    "Grogol",
-    "Babadan",
-    "Buyut",
-    "Mayung",
-    "Mertasinga",
-    "Sambeng",
-    "Sirnabaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Adidharma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasindangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jadimulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klayan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatimerta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Astana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalisapu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wanakaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Buyut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mayung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mertasinga"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sambeng"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sirnabaya"
+    }
   ]
 }

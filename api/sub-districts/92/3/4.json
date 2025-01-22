@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Kokas Kota",
-    "Mandoni",
-    "Sekar",
-    "Ugar",
-    "Sisir",
-    "Kampung Baru",
-    "Patimburak",
-    "Batufiafas",
-    "Kinam",
-    "Mambunibuni",
-    "Kriawaswas",
-    "Sosar",
-    "Pang Wadar",
-    "Masina",
-    "Kimina Kra"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kokas Kota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mandoni"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sekar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ugar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sisir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Patimburak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batufiafas"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kinam"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mambunibuni"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kriawaswas"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sosar"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pang Wadar"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Masina"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Kimina Kra"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sabudon",
-    "Padua",
-    "Sigad",
-    "Bamol I",
-    "Bamol II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sabudon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sigad"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bamol I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bamol II"
+    }
   ]
 }

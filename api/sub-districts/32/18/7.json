@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Panyutran",
-    "Ciganjeng",
-    "Karangsari",
-    "Sukanagara",
-    "Paledah",
-    "Karangpawitan",
-    "Padaherang",
-    "Kedungwuluh",
-    "Cibogo",
-    "Pasirgeulis",
-    "Bojongsari",
-    "Sindangwangi",
-    "Maruyungsari (Maruyung Sari)",
-    "Karangmulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panyutran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciganjeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukanagara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paledah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangpawitan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padaherang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedungwuluh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cibogo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasirgeulis"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangwangi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Maruyungsari (Maruyung Sari)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangmulya"
+    }
   ]
 }

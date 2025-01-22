@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Sorong",
-    "Sorong Timur",
-    "Sorong Barat",
-    "Sorong Kepulauan",
-    "Sorong Utara",
-    "Sorong Manoi",
-    "Sorong Kota",
-    "Klaurung",
-    "Malaimsimsa",
-    "Maladum Mes"
+    {
+      "district_id": 1,
+      "kecamatan": "Sorong"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sorong Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sorong Barat"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sorong Kepulauan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sorong Utara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sorong Manoi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sorong Kota"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Klaurung"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Malaimsimsa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Maladum Mes"
+    }
   ]
 }

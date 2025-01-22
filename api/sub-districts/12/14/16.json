@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Labuan Hiu / Hiyu",
-    "Labuhan Bazau (Labuan Bajau)",
-    "Labuan Rima",
-    "Lambak",
-    "Bais",
-    "Mahang Labara",
-    "Adam",
-    "Labara",
-    "Bais Baru",
-    "Labuan Rima Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuan Hiu / Hiyu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuhan Bazau (Labuan Bajau)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labuan Rima"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lambak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bais"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mahang Labara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Adam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Labara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bais Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuan Rima Baru"
+    }
   ]
 }

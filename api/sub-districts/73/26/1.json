@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Laang Tanduk",
-    "Rantepao",
-    "Mentirotiku (Mentiro Tiku)",
-    "Manggalo (Malango)",
-    "Pasale (Pasele)",
-    "Singki' (Singki)",
-    "Karassik",
-    "Penanian",
-    "Rante Pasele",
-    "Limbong",
-    "Saloso"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Laang Tanduk"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rantepao"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mentirotiku (Mentiro Tiku)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Manggalo (Malango)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pasale (Pasele)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Singki' (Singki)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karassik"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Penanian"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Rante Pasele"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Limbong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saloso"
+    }
   ]
 }

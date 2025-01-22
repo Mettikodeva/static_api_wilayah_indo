@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lung Fala (Long Pala)",
-    "Lung Kebinu (Long Kebinu)",
-    "Lung Mekatip (Long Mekatif)",
-    "Lung Simau (Long Simau)",
-    "Lung Barang (Long Berang)",
-    "Lung Sulit (Long Sulit)",
-    "Lung Semamu (Long Semamu)",
-    "Long Gafid",
-    "Temalang",
-    "Long Liku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lung Fala (Long Pala)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lung Kebinu (Long Kebinu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lung Mekatip (Long Mekatif)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lung Simau (Long Simau)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lung Barang (Long Berang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lung Sulit (Long Sulit)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lung Semamu (Long Semamu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Long Gafid"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Temalang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Liku"
+    }
   ]
 }

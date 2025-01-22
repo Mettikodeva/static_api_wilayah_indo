@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tendatoto",
-    "Totomala",
-    "Tendakinde (Tenda Kinde)",
-    "Anakoli",
-    "Natatoto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tendatoto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Totomala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tendakinde (Tenda Kinde)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Anakoli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Natatoto"
+    }
   ]
 }

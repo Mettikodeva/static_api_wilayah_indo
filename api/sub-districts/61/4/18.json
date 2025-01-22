@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kauman",
-    "Mulia Kerta",
-    "Tuan Tuan",
-    "Banjar",
-    "Padang",
-    "Sei/Sungai Kinjil",
-    "Suka Baru",
-    "Baru",
-    "Negeri Baru",
-    "Mekar Sari",
-    "Kinjil Pesisir"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mulia Kerta"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tuan Tuan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Kinjil"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Negeri Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kinjil Pesisir"
+    }
   ]
 }

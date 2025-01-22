@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sei/Sungai Besar",
-    "Laktabat Selatan (Loktabat Selatan)",
-    "Kemuning",
-    "Guntung Paikat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sei/Sungai Besar"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Laktabat Selatan (Loktabat Selatan)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kemuning"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Guntung Paikat"
+    }
   ]
 }

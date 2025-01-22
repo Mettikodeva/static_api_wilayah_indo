@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lanna",
-    "Bontoparang",
-    "Lonjoboko",
-    "Borisalo (Borisallo)",
-    "Belapunranga",
-    "Bontokassi",
-    "Belabori"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lanna"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bontoparang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lonjoboko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Borisalo (Borisallo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Belapunranga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bontokassi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Belabori"
+    }
   ]
 }

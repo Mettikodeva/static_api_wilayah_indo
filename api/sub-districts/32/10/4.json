@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Lampuyang",
-    "Cibeureum",
-    "Cikeusal",
-    "Jatipamor",
-    "Argasari",
-    "Cicanir",
-    "Campaga",
-    "Sukaperna",
-    "Talaga Kulon (Talagakulon)",
-    "Talaga Wetan (Talagawetan)",
-    "Ganeas",
-    "Salado",
-    "Gunungmanik",
-    "Kertahayu (Kertarahayu)",
-    "Mekarraharja",
-    "Margamukti",
-    "Mekarhurip"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lampuyang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibeureum"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikeusal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatipamor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Argasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cicanir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Campaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukaperna"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talaga Kulon (Talagakulon)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talaga Wetan (Talagawetan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ganeas"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Salado"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gunungmanik"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kertahayu (Kertarahayu)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mekarraharja"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Margamukti"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mekarhurip"
+    }
   ]
 }

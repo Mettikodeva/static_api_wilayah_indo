@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pagersari",
-    "Sidodadi",
-    "Banjarejo",
-    "Purworejo",
-    "Ngantru",
-    "Banturejo",
-    "Pandansari",
-    "Mulyorejo",
-    "Sumberagung",
-    "Kaumrejo",
-    "Tulungrejo",
-    "Waturejo",
-    "Jombok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagersari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjarejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngantru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banturejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pandansari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mulyorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberagung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kaumrejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tulungrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waturejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jombok"
+    }
   ]
 }

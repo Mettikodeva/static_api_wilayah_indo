@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tebing Tinggi",
-    "Simpur",
-    "Garunggang",
-    "Amparaya",
-    "Panjampang Bahagia",
-    "Ulin",
-    "Pantai Ulin",
-    "Wasah Hulu",
-    "Wasah Tengah",
-    "Wasah Hilir",
-    "Kapuh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simpur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Garunggang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amparaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panjampang Bahagia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ulin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pantai Ulin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wasah Hulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wasah Tengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wasah Hilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kapuh"
+    }
   ]
 }

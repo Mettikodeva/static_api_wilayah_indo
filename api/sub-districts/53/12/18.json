@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Wee Tana",
-    "Gaura",
-    "Patiala Dete",
-    "Harona Kalla (Harona Kala)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wee Tana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gaura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patiala Dete"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Harona Kalla (Harona Kala)"
+    }
   ]
 }

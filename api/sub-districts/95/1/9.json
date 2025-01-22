@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sinata",
-    "Asolokobal",
-    "Hesatom",
-    "Asotapo",
-    "Wiaima",
-    "Ninabua",
-    "Helaluwa",
-    "Mulinekama",
-    "Yapema"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sinata"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Asolokobal"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hesatom"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Asotapo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wiaima"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ninabua"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Helaluwa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mulinekama"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Yapema"
+    }
   ]
 }

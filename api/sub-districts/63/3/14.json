@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Telok Selong",
-    "Sei/Sungai Batang",
-    "Sei/Sungai Batang Ilir",
-    "Sungai Ranggas",
-    "Panggalaman (Penggalaman)",
-    "Keliling Benteng Ulu",
-    "Antasan Sutun",
-    "Sungai Ranggas Ulu",
-    "Sungai Ranggas Hambuku",
-    "Keliling Benteng Tengah",
-    "Teluk Selong Ulu (Telok Selong Ulu)",
-    "Tangkas",
-    "Sungai Ranggas Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Telok Selong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Batang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Batang Ilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Ranggas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panggalaman (Penggalaman)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keliling Benteng Ulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Antasan Sutun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Ranggas Ulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Ranggas Hambuku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keliling Benteng Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teluk Selong Ulu (Telok Selong Ulu)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tangkas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungai Ranggas Tengah"
+    }
   ]
 }

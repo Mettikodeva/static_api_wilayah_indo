@@ -1,44 +1,164 @@
 {
   "districts": [
-    "Wamena",
-    "Kurulu",
-    "Asologaima",
-    "Hubikosi",
-    "Bolakme",
-    "Walelagama",
-    "Musatfak",
-    "Wolo",
-    "Asolokobal",
-    "Pelebaga",
-    "Yalengga",
-    "Trikora",
-    "Napua",
-    "Walaik",
-    "Wouma",
-    "Hubikiak",
-    "Ibele",
-    "Taelarek",
-    "Itlay Hisage",
-    "Siepkosi",
-    "Usilimo",
-    "Wita Waya",
-    "Libarek",
-    "Wadangku",
-    "Pisugi",
-    "Koragi",
-    "Tagime",
-    "Molagalome",
-    "Tagineri",
-    "Silo Karno Doga",
-    "Piramid",
-    "Muliama",
-    "Bugi",
-    "Bpiri",
-    "Welesi",
-    "Asotipo",
-    "Maima",
-    "Popugoba",
-    "Wame",
-    "Wesaput"
+    {
+      "district_id": 1,
+      "kecamatan": "Wamena"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kurulu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Asologaima"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Hubikosi"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bolakme"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Walelagama"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Musatfak"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Wolo"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Asolokobal"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pelebaga"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Yalengga"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Trikora"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Napua"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Walaik"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Wouma"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Hubikiak"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Ibele"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Taelarek"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Itlay Hisage"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Siepkosi"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Usilimo"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Wita Waya"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Libarek"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Wadangku"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Pisugi"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Koragi"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Tagime"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Molagalome"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Tagineri"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Silo Karno Doga"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Piramid"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Muliama"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Bugi"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Bpiri"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Welesi"
+    },
+    {
+      "district_id": 36,
+      "kecamatan": "Asotipo"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Maima"
+    },
+    {
+      "district_id": 38,
+      "kecamatan": "Popugoba"
+    },
+    {
+      "district_id": 39,
+      "kecamatan": "Wame"
+    },
+    {
+      "district_id": 40,
+      "kecamatan": "Wesaput"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tegalcangkring (Tegal Cangkring)",
-    "Mendoyo Dauh Tukad",
-    "Pohsanten",
-    "Mendoyo Dangin Tukad",
-    "Pergung",
-    "Delodberawah (Delod Berawah)",
-    "Penyaringan",
-    "Yehembang (Yeh Embang)",
-    "Yeh Sumbul",
-    "Yehembang Kauh (Yeh Embang Kauh)",
-    "Yehembang Kangin (Yeh Embang Kangin)"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tegalcangkring (Tegal Cangkring)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mendoyo Dauh Tukad"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pohsanten"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mendoyo Dangin Tukad"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pergung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Delodberawah (Delod Berawah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penyaringan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yehembang (Yeh Embang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yeh Sumbul"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yehembang Kauh (Yeh Embang Kauh)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yehembang Kangin (Yeh Embang Kangin)"
+    }
   ]
 }

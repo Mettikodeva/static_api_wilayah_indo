@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pangkalan Banteng",
-    "Mulia/Mulya Jadi",
-    "Karang Mulya (Karangmulya)",
-    "Kebun Agung (Kebon Agung)",
-    "Sido Mulyo/Ponco Mulyo",
-    "Marga Mulya",
-    "Amin Jaya",
-    "Arga Mulya",
-    "Natai Kerbau",
-    "Simpang Berambai",
-    "Sei/Sungai Hijau",
-    "Sungai Pakit",
-    "Berambai Makmur",
-    "Karang Sari",
-    "Sungai Pulau",
-    "Sungai Bengkuang",
-    "Sungai Kuning"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangkalan Banteng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mulia/Mulya Jadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Mulya (Karangmulya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kebun Agung (Kebon Agung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sido Mulyo/Ponco Mulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Amin Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Arga Mulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Natai Kerbau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Berambai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei/Sungai Hijau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Pakit"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Berambai Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karang Sari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungai Pulau"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sungai Bengkuang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sungai Kuning"
+    }
   ]
 }

@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Reteh",
-    "Enok",
-    "Kuala Indragiri",
-    "Tembilahan",
-    "Tempuling",
-    "Gaung Anak Serka",
-    "Mandah",
-    "Kateman",
-    "Keritang",
-    "Tanah Merah",
-    "Batang Tuaka",
-    "Gaung",
-    "Tembilahan Hulu",
-    "Kemuning",
-    "Pelangiran",
-    "Teluk Belengkong",
-    "Pulau Burung",
-    "Concong",
-    "Kempas",
-    "Sungai Batang"
+    {
+      "district_id": 1,
+      "kecamatan": "Reteh"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Enok"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kuala Indragiri"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tembilahan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tempuling"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Gaung Anak Serka"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mandah"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kateman"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Keritang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tanah Merah"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Batang Tuaka"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Gaung"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tembilahan Hulu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kemuning"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Pelangiran"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Teluk Belengkong"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Pulau Burung"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Concong"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kempas"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Sungai Batang"
+    }
   ]
 }

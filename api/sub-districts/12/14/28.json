@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Gobo",
-    "Silina",
-    "Maufa",
-    "Gondia",
-    "Gobo Baru",
-    "Silina Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gobo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silina"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maufa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gondia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gobo Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silina Baru"
+    }
   ]
 }

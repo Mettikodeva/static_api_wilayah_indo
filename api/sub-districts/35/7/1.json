@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tulungrejo",
-    "Banjarejo (Banjarjo)",
-    "Kedungsalam",
-    "Tlogosari",
-    "Tempursari",
-    "Donomulyo",
-    "Purworejo",
-    "Sumberoto",
-    "Mentaraman",
-    "Purwodadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tulungrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjarejo (Banjarjo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungsalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tlogosari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tempursari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Donomulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberoto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mentaraman"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purwodadi"
+    }
   ]
 }

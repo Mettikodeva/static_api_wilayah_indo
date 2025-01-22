@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wolaang",
-    "Teep",
-    "Karondoran",
-    "Waleure",
-    "Amongena Satu (I)",
-    "Amongena Dua (II)",
-    "Sumarayar",
-    "Amongena Tiga"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wolaang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teep"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karondoran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waleure"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Amongena Satu (I)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Amongena Dua (II)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumarayar"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Amongena Tiga"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Purwobinangun (Purwo Binangun)",
-    "Candibinangun (Candi Binangun)",
-    "Harjobinangun (Harjo Binangun)",
-    "Pakembinangun (Pakem Binangun)",
-    "Hargobinangun (Hargo Binangun)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwobinangun (Purwo Binangun)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Candibinangun (Candi Binangun)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Harjobinangun (Harjo Binangun)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pakembinangun (Pakem Binangun)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hargobinangun (Hargo Binangun)"
+    }
   ]
 }

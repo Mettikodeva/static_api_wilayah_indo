@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanjung Harapan",
-    "Muara Sindang Ilir",
-    "Muara Sindang Tengah",
-    "Pematang Danau",
-    "Ulu Danau",
-    "Tebat Layang",
-    "Watas (Wates)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Sindang Ilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Sindang Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang Danau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulu Danau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tebat Layang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watas (Wates)"
+    }
   ]
 }

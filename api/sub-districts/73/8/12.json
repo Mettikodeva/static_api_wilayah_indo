@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mattampawalie (Mattampa Walie)",
-    "Lili Riattang",
-    "Sengeng Palie",
-    "Tenri Pakkua",
-    "Patangkai",
-    "Ujung Lamuru",
-    "Pattuku Limpoe",
-    "Waekeccee",
-    "Tonronge"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mattampawalie (Mattampa Walie)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lili Riattang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sengeng Palie"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tenri Pakkua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patangkai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ujung Lamuru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pattuku Limpoe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waekeccee"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tonronge"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Wasile",
-    "Maba",
-    "Maba Selatan",
-    "Wasile Selatan",
-    "Wasile Tengah",
-    "Wasile Utara",
-    "Wasile Timur",
-    "Maba Tengah",
-    "Maba Utara",
-    "Kota Maba"
+    {
+      "district_id": 1,
+      "kecamatan": "Wasile"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Maba"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Maba Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Wasile Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wasile Tengah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Wasile Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wasile Timur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Maba Tengah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Maba Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kota Maba"
+    }
   ]
 }

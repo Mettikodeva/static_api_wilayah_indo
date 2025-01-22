@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Sungai Raya",
-    "Kuala Mandor B",
-    "Sungai Ambawang",
-    "Terentang",
-    "Batu Ampar",
-    "Kubu",
-    "Rasau Jaya",
-    "Teluk Pakedai",
-    "Sungai Kakap"
+    {
+      "district_id": 1,
+      "kecamatan": "Sungai Raya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kuala Mandor B"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sungai Ambawang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Terentang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Batu Ampar"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kubu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Rasau Jaya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Teluk Pakedai"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sungai Kakap"
+    }
   ]
 }

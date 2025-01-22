@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukamandi",
-    "Cicadas",
-    "Sagalaherang Kidul (Sagalaherang)",
-    "Dayeuh Kolot (Dayeuhkolot)",
-    "Leles",
-    "Curugagung",
-    "Sagalaherang Kaler"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamandi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cicadas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sagalaherang Kidul (Sagalaherang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dayeuh Kolot (Dayeuhkolot)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Leles"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Curugagung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sagalaherang Kaler"
+    }
   ]
 }

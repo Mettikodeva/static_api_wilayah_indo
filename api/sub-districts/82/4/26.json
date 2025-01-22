@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Gaimu",
-    "Gane Luar",
-    "Kuwo",
-    "Ranga Ranga",
-    "Sawat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gaimu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gane Luar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuwo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranga Ranga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sawat"
+    }
   ]
 }

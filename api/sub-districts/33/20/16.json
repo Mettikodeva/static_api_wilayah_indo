@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sumberrejo (Sumber Rejo)",
-    "Clering",
-    "Ujungwatu",
-    "Banyumanis",
-    "Tulakan",
-    "Bandungharjo",
-    "Blingoh",
-    "Jugo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberrejo (Sumber Rejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Clering"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujungwatu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banyumanis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tulakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandungharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blingoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jugo"
+    }
   ]
 }

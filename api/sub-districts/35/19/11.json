@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bangunsari",
-    "Krajan",
-    "Pandean (Pandeyan)",
-    "Kaliabu",
-    "Klecorejo",
-    "Blabakan",
-    "Wonorejo",
-    "Kebonagung",
-    "Darmorejo",
-    "Kaligunting",
-    "Sidodadi",
-    "Kuncen",
-    "Mejayan",
-    "Ngampel"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bangunsari"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Krajan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pandean (Pandeyan)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaliabu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klecorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blabakan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Darmorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaligunting"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuncen"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mejayan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ngampel"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pesurungan Kidul",
-    "Debong Lor",
-    "Kemandungan",
-    "Pekauman",
-    "Kraton",
-    "Tegalsari",
-    "Muarareja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pesurungan Kidul"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Debong Lor"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kemandungan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pekauman"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kraton"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Muarareja"
+    }
   ]
 }

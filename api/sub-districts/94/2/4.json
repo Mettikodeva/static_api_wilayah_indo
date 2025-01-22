@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mewoluk",
-    "Gumbru",
-    "Anggolapaga",
-    "Balinggup",
-    "Waliba",
-    "Nggininik",
-    "Biak",
-    "Wutikme"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mewoluk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gumbru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Anggolapaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balinggup"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waliba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nggininik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Biak"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wutikme"
+    }
   ]
 }

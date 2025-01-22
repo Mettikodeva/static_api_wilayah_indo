@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Tanjung",
-    "Puding",
-    "Pulau Mentaro",
-    "Betung",
-    "Pematang Raman",
-    "Sungai Bungur",
-    "Seponjen",
-    "Sogo",
-    "Sungai Aur",
-    "Jebus",
-    "Gedong Karya",
-    "Rantau Panjang",
-    "Londrang (Londerang)",
-    "Petanang",
-    "Mekar Sari",
-    "Rondang",
-    "Maju Jaya"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puding"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Mentaro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang Raman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Bungur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seponjen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sogo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Aur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jebus"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gedong Karya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Londrang (Londerang)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Petanang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Rondang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Maju Jaya"
+    }
   ]
 }

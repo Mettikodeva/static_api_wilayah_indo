@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ncera",
-    "Lido",
-    "Ngali",
-    "Renda",
-    "Cenggu",
-    "Runggu",
-    "Soki",
-    "Roka",
-    "Diha"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ncera"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lido"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Renda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cenggu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Runggu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Soki"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Roka"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Diha"
+    }
   ]
 }

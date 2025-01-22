@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bulili",
-    "Buntulia Barat",
-    "Buntulia Selatan",
-    "Duhiadaa",
-    "Mekar Jaya",
-    "Buntulia Jaya",
-    "Padengo (Padeng)",
-    "Mootilango"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulili"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buntulia Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buntulia Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Duhiadaa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buntulia Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padengo (Padeng)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mootilango"
+    }
   ]
 }

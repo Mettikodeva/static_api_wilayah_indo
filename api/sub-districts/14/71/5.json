@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Padang Bulan",
-    "Sago",
-    "Kampung Baru",
-    "Kampung Dalam",
-    "Kampung Bandar",
-    "Padang Terubuk"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padang Bulan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sago"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kampung Dalam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Bandar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Padang Terubuk"
+    }
   ]
 }

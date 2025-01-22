@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Padang Matinggi (Padang Matingi)",
-    "Siringo-Ringo",
-    "Sirandorung",
-    "Rantauprapat",
-    "Kartini",
-    "Cendana",
-    "Binaraga (Bina Raga / Rinaraga)",
-    "Pulo Padang",
-    "Padang Bulan",
-    "Aek Paing"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padang Matinggi (Padang Matingi)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Siringo-Ringo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sirandorung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rantauprapat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kartini"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cendana"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Binaraga (Bina Raga / Rinaraga)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pulo Padang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Padang Bulan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Aek Paing"
+    }
   ]
 }

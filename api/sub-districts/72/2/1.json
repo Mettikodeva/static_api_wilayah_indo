@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Moengko Lama",
-    "Moengko Baru",
-    "Kayamanya",
-    "Gebangrejo",
-    "Gebangrejo Timur",
-    "Gebangrejo Barat",
-    "Kayamanya Sentral"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Moengko Lama"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Moengko Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kayamanya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gebangrejo"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Gebangrejo Timur"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Gebangrejo Barat"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Kayamanya Sentral"
+    }
   ]
 }

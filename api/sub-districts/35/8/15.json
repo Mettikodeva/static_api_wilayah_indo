@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Klanting",
-    "Kebonagung",
-    "Karangsari",
-    "Dawuhan Lor",
-    "Kutorenon",
-    "Selokbesuki",
-    "Sumberejo",
-    "Uranggantung",
-    "Selokgondang",
-    "Bondoyudo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klanting"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawuhan Lor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kutorenon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Selokbesuki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Uranggantung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Selokgondang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bondoyudo"
+    }
   ]
 }

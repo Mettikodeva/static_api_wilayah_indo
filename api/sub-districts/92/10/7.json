@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Fategomi",
-    "Tehak Besar",
-    "Fan",
-    "Gohsames",
-    "Asmuruf U",
-    "Mirafaan (Mirafan)",
-    "Asmuruf Tee",
-    "Tehak Tee",
-    "Framafir",
-    "Subrit",
-    "Inta",
-    "Bahwat (Bohwat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fategomi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tehak Besar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gohsames"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Asmuruf U"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mirafaan (Mirafan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Asmuruf Tee"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tehak Tee"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Framafir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Subrit"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Inta"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bahwat (Bohwat)"
+    }
   ]
 }

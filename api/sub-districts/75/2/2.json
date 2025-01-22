@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Harapan",
-    "Bongo II (Bongo Dua)",
-    "Bongo III (Bongo Tiga)",
-    "Mekarjaya (Mekar Jaya)",
-    "Sukamaju",
-    "Pangeya",
-    "Jatimulya",
-    "Suka Mulya (Sukamulya)",
-    "Sari Tani",
-    "Dimito",
-    "Tanjung Harapan",
-    "Raharja",
-    "Trirukun (Tri Rukun)",
-    "Dulohupa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bongo II (Bongo Dua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bongo III (Bongo Tiga)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarjaya (Mekar Jaya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangeya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatimulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Mulya (Sukamulya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sari Tani"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dimito"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Raharja"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Trirukun (Tri Rukun)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dulohupa"
+    }
   ]
 }

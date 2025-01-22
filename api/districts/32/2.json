@@ -1,51 +1,192 @@
 {
   "districts": [
-    "Palabuhanratu (Pelabuhanratu)",
-    "Simpenan",
-    "Cikakak",
-    "Bantargadung",
-    "Cisolok",
-    "Cikidang",
-    "Lengkong",
-    "Jampangtengah (Jampang Tengah)",
-    "Warungkiara",
-    "Cikembar",
-    "Cibadak",
-    "Nagrak",
-    "Parungkuda (Parung Kuda)",
-    "Bojonggenteng (Bojong Genteng)",
-    "Parakansalak (Parakan Salak)",
-    "Cicurug",
-    "Cidahu",
-    "Kalapanunggal (Kalapa Nunggal)",
-    "Kabandungan",
-    "Waluran",
-    "Jampangkulon (Jampang Kulon)",
-    "Ciemas",
-    "Kalibunder",
-    "Surade",
-    "Cibitung",
-    "Ciracap",
-    "Gunungguruh",
-    "Cicantayan",
-    "Cisaat",
-    "Kadudampit",
-    "Caringin",
-    "Sukabumi",
-    "Sukaraja",
-    "Kebonpedes",
-    "Cireunghas",
-    "Sukalarang",
-    "Pabuaran",
-    "Purabaya",
-    "Nyalindung",
-    "Gegerbitung (Geger Bitung)",
-    "Sagaranten",
-    "Curugkembar",
-    "Cidolog",
-    "Cidadap",
-    "Tegalbuleud",
-    "Cimanggu",
-    "Ciambar"
+    {
+      "district_id": 1,
+      "kecamatan": "Palabuhanratu (Pelabuhanratu)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Simpenan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Cikakak"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bantargadung"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cisolok"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Cikidang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lengkong"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Jampangtengah (Jampang Tengah)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Warungkiara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Cikembar"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Cibadak"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Nagrak"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Parungkuda (Parung Kuda)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bojonggenteng (Bojong Genteng)"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Parakansalak (Parakan Salak)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Cicurug"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Cidahu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kalapanunggal (Kalapa Nunggal)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kabandungan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Waluran"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Jampangkulon (Jampang Kulon)"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Ciemas"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Kalibunder"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Surade"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Cibitung"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Ciracap"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Gunungguruh"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Cicantayan"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Cisaat"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Kadudampit"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Caringin"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Sukabumi"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Sukaraja"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Kebonpedes"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Cireunghas"
+    },
+    {
+      "district_id": 36,
+      "kecamatan": "Sukalarang"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Pabuaran"
+    },
+    {
+      "district_id": 38,
+      "kecamatan": "Purabaya"
+    },
+    {
+      "district_id": 39,
+      "kecamatan": "Nyalindung"
+    },
+    {
+      "district_id": 40,
+      "kecamatan": "Gegerbitung (Geger Bitung)"
+    },
+    {
+      "district_id": 41,
+      "kecamatan": "Sagaranten"
+    },
+    {
+      "district_id": 42,
+      "kecamatan": "Curugkembar"
+    },
+    {
+      "district_id": 43,
+      "kecamatan": "Cidolog"
+    },
+    {
+      "district_id": 44,
+      "kecamatan": "Cidadap"
+    },
+    {
+      "district_id": 45,
+      "kecamatan": "Tegalbuleud"
+    },
+    {
+      "district_id": 46,
+      "kecamatan": "Cimanggu"
+    },
+    {
+      "district_id": 47,
+      "kecamatan": "Ciambar"
+    }
   ]
 }

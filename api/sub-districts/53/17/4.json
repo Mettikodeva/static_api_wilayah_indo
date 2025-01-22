@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mbilur Pangadu",
-    "Soru",
-    "Praikoruku Jangga (Prai Koruku Jangga)",
-    "Lenang",
-    "Tana Mbanas",
-    "Padira Tana",
-    "Ngadu Bolu",
-    "Tana Mbanas Selatan",
-    "Tana Mbanas Barat",
-    "Ngadu Olu",
-    "Lenang Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mbilur Pangadu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Praikoruku Jangga (Prai Koruku Jangga)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lenang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tana Mbanas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padira Tana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngadu Bolu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tana Mbanas Selatan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tana Mbanas Barat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngadu Olu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lenang Selatan"
+    }
   ]
 }

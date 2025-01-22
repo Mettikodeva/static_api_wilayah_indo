@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Fafado",
-    "Wobari",
-    "Aimasi",
-    "Mui",
-    "Waghare",
-    "Ghaiwando",
-    "Womorisi",
-    "Orambin",
-    "Unareu",
-    "Ghaiwaru"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fafado"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wobari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Aimasi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mui"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Waghare"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ghaiwando"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Womorisi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Orambin"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Unareu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ghaiwaru"
+    }
   ]
 }

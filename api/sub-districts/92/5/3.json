@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Saonek",
-    "Saporkren",
-    "Yenbeser",
-    "Friwen",
-    "Wawiyai"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saonek"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Saporkren"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Yenbeser"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Friwen"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wawiyai"
+    }
   ]
 }

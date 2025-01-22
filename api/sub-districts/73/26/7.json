@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Paepalean",
-    "La'bo'",
-    "Buntu La'bo'",
-    "Tallung Penanian",
-    "Pata'padang (Pata' Padang)",
-    "Tandung Labo' (Tandung La'bo')"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Paepalean"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "La'bo'"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buntu La'bo'"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tallung Penanian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pata'padang (Pata' Padang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tandung Labo' (Tandung La'bo')"
+    }
   ]
 }

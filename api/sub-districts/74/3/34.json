@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bone Bone",
-    "Lanobake (Laano Bake)",
-    "Moolo",
-    "Baluara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bone Bone"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lanobake (Laano Bake)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Moolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baluara"
+    }
   ]
 }

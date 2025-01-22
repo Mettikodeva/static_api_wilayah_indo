@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kayu Ara (Kayuara)",
-    "Serasan Jaya",
-    "Soak Baru",
-    "Balai Agung",
-    "Sukarami",
-    "Lumpatan",
-    "Bailangu",
-    "Muara Teladan",
-    "Bandar Jaya",
-    "Sungai Medak",
-    "Sungai Batang",
-    "Rimba Ukur (Rimbah Ukur)",
-    "Lumpatan Dua (2)",
-    "Baliangu Timur (Bailangu Timur)"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kayu Ara (Kayuara)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Serasan Jaya"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Soak Baru"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Balai Agung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukarami"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lumpatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bailangu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Teladan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandar Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Medak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Batang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rimba Ukur (Rimbah Ukur)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lumpatan Dua (2)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baliangu Timur (Bailangu Timur)"
+    }
   ]
 }

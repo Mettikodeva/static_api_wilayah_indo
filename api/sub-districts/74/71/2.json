@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kandai",
-    "Gunung Jati",
-    "Kampung Salo",
-    "Mangga Dua",
-    "Kendari Caddi",
-    "Kassilampe (Kessilampe)",
-    "Mata",
-    "Purirano",
-    "Jati Mekar"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kandai"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Gunung Jati"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kampung Salo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Mangga Dua"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kendari Caddi"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kassilampe (Kessilampe)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Mata"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Purirano"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Jati Mekar"
+    }
   ]
 }

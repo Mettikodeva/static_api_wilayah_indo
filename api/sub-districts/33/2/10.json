@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Srowot",
-    "Suro",
-    "Kaliori",
-    "Wlahar Wetan",
-    "Pekaja",
-    "Karangdadap",
-    "Kalibagor",
-    "Pajerukan (Pejerukan)",
-    "Petir",
-    "Kalicupak Kidul (Kalipucak Kidul)",
-    "Kalicupak Lor (Kalipucak Lor)",
-    "Kalisogra Wetan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Srowot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaliori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wlahar Wetan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pekaja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangdadap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalibagor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pajerukan (Pejerukan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Petir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalicupak Kidul (Kalipucak Kidul)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalicupak Lor (Kalipucak Lor)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalisogra Wetan"
+    }
   ]
 }

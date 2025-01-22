@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Perian",
-    "Muara Leka",
-    "Muara Aloh",
-    "Jantur",
-    "Batuq",
-    "Rebaq Rinding",
-    "Muara Muntai Ulu",
-    "Muara Muntai Ilir",
-    "Kayu Batu",
-    "Jantur Selatan",
-    "Tanjung Batuq (Tanjung Batuq Harapan)",
-    "Pulau Harapan",
-    "Jantur Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Leka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Aloh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jantur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batuq"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rebaq Rinding"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Muntai Ulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Muntai Ilir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kayu Batu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jantur Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Batuq (Tanjung Batuq Harapan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pulau Harapan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jantur Baru"
+    }
   ]
 }

@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Kedaton",
-    "Sukarame",
-    "Tanjungkarang Barat (Tanjung Karang Barat)",
-    "Panjang",
-    "Tanjungkarang Timur (Tanjung Karang Timur)",
-    "Tanjungkarang Pusat (Tanjung Karang Pusat)",
-    "Telukbetung Selatan",
-    "Telukbetung Barat",
-    "Telukbetung Utara",
-    "Rajabasa",
-    "Tanjung Senang",
-    "Sukabumi",
-    "Kemiling",
-    "Labuhan Ratu",
-    "Way Halim",
-    "Langkapura",
-    "Enggal",
-    "Kedamaian",
-    "Telukbetung Timur",
-    "Bumi Waras"
+    {
+      "district_id": 1,
+      "kecamatan": "Kedaton"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sukarame"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tanjungkarang Barat (Tanjung Karang Barat)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Panjang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanjungkarang Timur (Tanjung Karang Timur)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tanjungkarang Pusat (Tanjung Karang Pusat)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Telukbetung Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Telukbetung Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Telukbetung Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Rajabasa"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tanjung Senang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sukabumi"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kemiling"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Labuhan Ratu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Way Halim"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Langkapura"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Enggal"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kedamaian"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Telukbetung Timur"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Bumi Waras"
+    }
   ]
 }

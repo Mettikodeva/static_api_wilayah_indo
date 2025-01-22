@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ledokombo",
-    "Pandansari",
-    "Sumber",
-    "Wonokerso",
-    "Gemito",
-    "Tukul",
-    "Sumberanom",
-    "Cepoko",
-    "Remba'an (Rambaan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ledokombo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pandansari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonokerso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gemito"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tukul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberanom"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cepoko"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Remba'an (Rambaan)"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Purwomartani (Purwo Martani)",
-    "Tirtomartani (Tirto Martani)",
-    "Tamanmartani (Taman Martani)",
-    "Selomartani (Selo Martani)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwomartani (Purwo Martani)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tirtomartani (Tirto Martani)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamanmartani (Taman Martani)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selomartani (Selo Martani)"
+    }
   ]
 }

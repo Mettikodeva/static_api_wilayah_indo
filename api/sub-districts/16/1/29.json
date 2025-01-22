@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Karya Jaya",
-    "Karya Mukti",
-    "Marga Bakti",
-    "Sri Mulya",
-    "Marga Mulya",
-    "Tanjung Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karya Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karya Mukti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marga Bakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sri Mulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Makmur"
+    }
   ]
 }

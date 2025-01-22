@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bingin Teluk",
-    "Pauh",
-    "Batu Kucing",
-    "Belani",
-    "Tanjung Raja",
-    "Mandi Angin",
-    "Air Bening",
-    "Beringin Sakti",
-    "Beringin Makmur I",
-    "Beringin Makmur II",
-    "Pauh I",
-    "Ketapat Bening",
-    "Mekarsari (Mekar Sari)"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bingin Teluk"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pauh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Kucing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Belani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Raja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mandi Angin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Bening"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beringin Sakti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Beringin Makmur I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Beringin Makmur II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pauh I"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ketapat Bening"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekarsari (Mekar Sari)"
+    }
   ]
 }

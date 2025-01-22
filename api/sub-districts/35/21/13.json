@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sambirejo",
-    "Mantingan",
-    "Kedungharjo",
-    "Pakah",
-    "Tambakboyo (Tambak Boyo)",
-    "Pengkol",
-    "Jatimulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mantingan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pakah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambakboyo (Tambak Boyo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pengkol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatimulyo"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tanjung Harapan",
-    "Linon Besi I",
-    "Linon Besi II",
-    "Muara Mea",
-    "Lawarang",
-    "Lampeong I",
-    "Lampeong II",
-    "Payang",
-    "Berong",
-    "Baok",
-    "Tambaba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Linon Besi I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Linon Besi II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Mea"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lawarang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lampeong I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lampeong II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Payang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Berong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambaba"
+    }
   ]
 }

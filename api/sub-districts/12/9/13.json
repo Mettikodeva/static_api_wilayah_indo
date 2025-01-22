@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sei/Sungai Alim Ulu",
-    "Pinanggiripan",
-    "Perkebunan Pulahan",
-    "Hessa Perlompongan",
-    "Perkebunan Air Batu I/II",
-    "Perkebunan Air Batu III/IX",
-    "Danau Sijabut",
-    "Air Teluk Hessa",
-    "Air Genting",
-    "Hessa Air Genting",
-    "Sijabut Teratai",
-    "Pulau Pule"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Alim Ulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pinanggiripan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perkebunan Pulahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hessa Perlompongan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perkebunan Air Batu I/II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perkebunan Air Batu III/IX"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Danau Sijabut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Air Teluk Hessa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Air Genting"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hessa Air Genting"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sijabut Teratai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pulau Pule"
+    }
   ]
 }

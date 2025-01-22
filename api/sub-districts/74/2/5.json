@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sampara",
-    "Rawua",
-    "Andepali",
-    "Andaroa",
-    "Puuloro",
-    "Andadowi",
-    "Totombe Jaya",
-    "Bao-bao (Boa-Boa)",
-    "Wawolimbue",
-    "Baini (Baeni)",
-    "Polua",
-    "Pohara",
-    "Bondoala",
-    "Konggamea (Kongga Mea)",
-    "Wowa Andaroa (Wawo Andaroa)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sampara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rawua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Andepali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Andaroa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puuloro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Andadowi"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Totombe Jaya"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bao-bao (Boa-Boa)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Wawolimbue"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Baini (Baeni)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Polua"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Pohara"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Bondoala"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Konggamea (Kongga Mea)"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Wowa Andaroa (Wawo Andaroa)"
+    }
   ]
 }

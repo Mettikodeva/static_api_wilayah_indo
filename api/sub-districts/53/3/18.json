@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Manamas",
-    "Benus",
-    "Bakitolas",
-    "Sunsea"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manamas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bakitolas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sunsea"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanjung Ale",
-    "Sigala Gala",
-    "Simangambat",
-    "Pir Trans Sosa I B (Pirtrans Sosa Ib)",
-    "Pir Trans Sosa I A (Gunung Mulia)",
-    "Gunung Manaon",
-    "Muara Tige",
-    "Sibodak Papaso",
-    "Gunung Inten (Gunung Intan)",
-    "Pagaran Baringin/Beringin",
-    "Salambue",
-    "Papaso",
-    "Rombayan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Ale"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sigala Gala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simangambat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pir Trans Sosa I B (Pirtrans Sosa Ib)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pir Trans Sosa I A (Gunung Mulia)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Manaon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Tige"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sibodak Papaso"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Inten (Gunung Intan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagaran Baringin/Beringin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Salambue"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Papaso"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rombayan"
+    }
   ]
 }

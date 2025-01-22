@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Darembang",
-    "Goras",
-    "Mitimber",
-    "Waremu",
-    "Wos",
-    "Mbahamdandra",
-    "Goras Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Darembang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Goras"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mitimber"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waremu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wos"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mbahamdandra"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Goras Selatan"
+    }
   ]
 }

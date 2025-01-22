@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Talaga Satu",
-    "Kokoe",
-    "Talaga Besar",
-    "Talaga II (Talaga Dua)",
-    "Wulu",
-    "Liwulompona",
-    "Pangilia"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Talaga Satu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kokoe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talaga Besar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talaga II (Talaga Dua)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Liwulompona"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangilia"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kalongan",
-    "Kalongan Utara",
-    "Kalongan Selatan",
-    "Alude",
-    "Musi I"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalongan Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalongan Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alude"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Musi I"
+    }
   ]
 }

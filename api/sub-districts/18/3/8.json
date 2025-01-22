@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ogan Jaya",
-    "Ciamis",
-    "Padang Ratu",
-    "Negeri Sakti",
-    "Negeri Ratu",
-    "Negara Ratu",
-    "Batu Raja",
-    "Gedung Batin",
-    "Negara Batin",
-    "Kota Negara",
-    "Bangun Jaya",
-    "Baru Raharja (Bumi Raharya)",
-    "Hanakau Jaya",
-    "Negara Batin II",
-    "Kota Negara Ilir"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ogan Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciamis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padang Ratu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Negeri Sakti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Negeri Ratu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Negara Ratu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Batu Raja"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Gedung Batin"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Negara Batin"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kota Negara"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Baru Raharja (Bumi Raharya)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Hanakau Jaya"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Negara Batin II"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Kota Negara Ilir"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Gunung Sugih",
-    "Gunung Sugih Raya",
-    "Komering Agung",
-    "Seputih Jaya",
-    "Terbanggi Subing",
-    "Terbanggi Agung",
-    "Fajar Bulan (Pajar Bulan)",
-    "Komering Putih",
-    "Buyut Udik",
-    "Buyut Ilir",
-    "Bangun Rejo",
-    "Wono Sari",
-    "Putra Buyut",
-    "Gunung Sari",
-    "Buyut Utara"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gunung Sugih"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gunung Sugih Raya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Komering Agung"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Seputih Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Terbanggi Subing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Terbanggi Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fajar Bulan (Pajar Bulan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Komering Putih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buyut Udik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buyut Ilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangun Rejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wono Sari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Putra Buyut"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunung Sari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Buyut Utara"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Fatukanutu (Fatuknutu)",
-    "Kairane",
-    "Raknamo",
-    "Kuanheun (Kuanheum)",
-    "Fatuteta",
-    "Oeleto (Oefeto)",
-    "Niunbaun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fatukanutu (Fatuknutu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kairane"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raknamo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuanheun (Kuanheum)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fatuteta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oeleto (Oefeto)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Niunbaun"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Yaro",
-    "Mawea",
-    "Meti",
-    "Katana",
-    "Gonga",
-    "Todokuiha"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yaro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mawea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Katana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gonga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Todokuiha"
+    }
   ]
 }

@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Mulyo Asri",
-    "Panaragan Jaya",
-    "Panaragan",
-    "Bandar Dewa",
-    "Menggala Mas",
-    "Penumangan",
-    "Penumangan Baru",
-    "Tirta Kencana",
-    "Pulung Kencana",
-    "Mulya Kencana",
-    "Candra Kencana",
-    "Tunas Asri",
-    "Wono Kerto",
-    "Panaragan Jaya Utama",
-    "Panaragan Jaya Indah",
-    "Mulya Jaya",
-    "Tirta Makmur",
-    "Candra Mukti",
-    "Candra Jaya",
-    "Marga Asri",
-    "Mekar Asri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mulyo Asri"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Panaragan Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panaragan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Dewa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Menggala Mas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penumangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penumangan Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tirta Kencana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulung Kencana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulya Kencana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Candra Kencana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tunas Asri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wono Kerto"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Panaragan Jaya Utama"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Panaragan Jaya Indah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mulya Jaya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tirta Makmur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Candra Mukti"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Candra Jaya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Marga Asri"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mekar Asri"
+    }
   ]
 }

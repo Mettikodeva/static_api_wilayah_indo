@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Kalembu Ndara Mane",
-    "Tema Tana",
-    "Mareda Kalada",
-    "Pada Eweta",
-    "Wee Limbu",
-    "Lete Kamouna (Lete Komouna)",
-    "Mata Pyawu",
-    "Wee Lima",
-    "Dikira",
-    "Dangga Mangu",
-    "Mainda Ole",
-    "Kadi Wano",
-    "Nyura Lele",
-    "Lele Maya",
-    "Maliti Dari",
-    "Mawo Dana",
-    "Dede Pada",
-    "Mata Wee Lima",
-    "Kadi Wone"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalembu Ndara Mane"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tema Tana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mareda Kalada"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pada Eweta"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wee Limbu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lete Kamouna (Lete Komouna)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mata Pyawu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wee Lima"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dikira"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Dangga Mangu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mainda Ole"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kadi Wano"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Nyura Lele"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lele Maya"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Maliti Dari"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Mawo Dana"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Dede Pada"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Mata Wee Lima"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Kadi Wone"
+    }
   ]
 }

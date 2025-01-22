@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "DibalaI (Dibalal)",
-    "Tolabi (Tolobi)",
-    "Deer",
-    "Mikiran",
-    "Awat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "DibalaI (Dibalal)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tolabi (Tolobi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deer"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mikiran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Awat"
+    }
   ]
 }

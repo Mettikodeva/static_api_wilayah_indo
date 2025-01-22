@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Randublatung",
-    "Wulung",
-    "Tlogotuwung",
-    "Bodeh",
-    "Gembyungan",
-    "Sambongwangan",
-    "Pilang",
-    "Temulus",
-    "Sumberejo (Sumberjo)",
-    "Kutukan",
-    "Kediren",
-    "Kadengan",
-    "Bekutuk",
-    "Plosorejo",
-    "Jeruk",
-    "Tanggel",
-    "Kalisari",
-    "Ngliron"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Randublatung"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Wulung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tlogotuwung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bodeh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gembyungan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sambongwangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pilang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Temulus"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberejo (Sumberjo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kutukan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kediren"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kadengan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bekutuk"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Plosorejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jeruk"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanggel"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ngliron"
+    }
   ]
 }

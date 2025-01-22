@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Negara Tulang Bawang",
-    "Kota Napal",
-    "Tanah Abang",
-    "Sukadana Udik",
-    "Sukadana Ilir",
-    "Haduyang Ratu",
-    "Iso Rejo (Isorejo)",
-    "Mulyo Rejo II",
-    "Tulang Bawang Baru (Negara Tulang Bawang Baru)",
-    "Mulyo Rejo I",
-    "Suka Maju (Bunga Maju)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negara Tulang Bawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kota Napal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanah Abang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukadana Udik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukadana Ilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Haduyang Ratu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Iso Rejo (Isorejo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mulyo Rejo II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tulang Bawang Baru (Negara Tulang Bawang Baru)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulyo Rejo I"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Maju (Bunga Maju)"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Patimuan",
-    "Rawaapu",
-    "Sidamukti",
-    "Purwadadi (Purwodadi)",
-    "Cinyawang",
-    "Bulupayung",
-    "Cimrutu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Patimuan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rawaapu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidamukti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwadadi (Purwodadi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cinyawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulupayung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cimrutu"
+    }
   ]
 }

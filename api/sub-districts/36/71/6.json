@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Paninggilan",
-    "Sudimara Barat",
-    "Sudimara Timur",
-    "Tajur",
-    "Parung Serab",
-    "Sudimara Jaya",
-    "Sudimara Selatan",
-    "Paninggilan Utara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Paninggilan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sudimara Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sudimara Timur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tajur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Parung Serab"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sudimara Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sudimara Selatan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Paninggilan Utara"
+    }
   ]
 }

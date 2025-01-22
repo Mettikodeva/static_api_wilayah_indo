@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rajabasa",
-    "Gedong Meneng",
-    "Rajabasa Nunyai",
-    "Rajabasa Pemuka",
-    "Gedong Meneng Baru",
-    "Rajabasa Raya",
-    "Rajabasa Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Rajabasa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gedong Meneng"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rajabasa Nunyai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rajabasa Pemuka"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gedong Meneng Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rajabasa Raya"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Rajabasa Jaya"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Meraran",
-    "Air Suning",
-    "Rempe",
-    "Seteluk Atas",
-    "Seteluk Tengah",
-    "Kelanir",
-    "Tapir",
-    "Lamusung",
-    "Seran",
-    "Desaloka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meraran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Suning"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rempe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seteluk Atas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seteluk Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kelanir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tapir"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lamusung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Seran"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Desaloka"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ganting",
-    "Karangbong",
-    "Tebel",
-    "Kragan",
-    "Gemurung",
-    "Punggul",
-    "Wedi",
-    "Ketajen",
-    "Gedangan",
-    "Sruni",
-    "Keboansikep",
-    "Keboananom",
-    "Bangah",
-    "Sawotratap",
-    "Semambung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ganting"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangbong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tebel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kragan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gemurung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Punggul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wedi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketajen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gedangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sruni"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keboansikep"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Keboananom"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bangah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sawotratap"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Semambung"
+    }
   ]
 }

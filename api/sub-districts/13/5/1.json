@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lubuk Alung",
-    "Pungguang Kasiak Lubuk Alung",
-    "Pasie Laweh Lubuk Alung",
-    "Aie Tajun Lubuk Alung",
-    "Sikabu Lubuk Alung",
-    "Sungai Abang Lubuk Alung",
-    "Singguliang Lubuk Alung",
-    "Salibutan Lubuk Alung",
-    "Nagari Balah Hilia Lubuk Alung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pungguang Kasiak Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasie Laweh Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aie Tajun Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sikabu Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Abang Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Singguliang Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salibutan Lubuk Alung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nagari Balah Hilia Lubuk Alung"
+    }
   ]
 }

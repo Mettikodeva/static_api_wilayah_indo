@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sarudu",
-    "Bulu Mario",
-    "Kumasari",
-    "Patika",
-    "Doda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarudu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bulu Mario"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Patika"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Doda"
+    }
   ]
 }

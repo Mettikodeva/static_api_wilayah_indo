@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bicorong",
-    "Klompang Barat",
-    "Klompang Timur",
-    "Cenlecen",
-    "Bajang",
-    "Banban",
-    "Somalang",
-    "Palalang",
-    "Seddur",
-    "Pakong",
-    "Bandungan",
-    "Lebbek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bicorong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klompang Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klompang Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cenlecen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bajang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Somalang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Palalang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seddur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pakong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bandungan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lebbek"
+    }
   ]
 }

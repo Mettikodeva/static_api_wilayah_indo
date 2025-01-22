@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Salaon Toba",
-    "Lintong Nihuta (Lintongnihuta)",
-    "Salaon Tonga Tonga",
-    "Salaon Dolok",
-    "Ronggur Nihuta",
-    "Sabungan Nihuta",
-    "Paraduan",
-    "Sijambur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salaon Toba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lintong Nihuta (Lintongnihuta)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salaon Tonga Tonga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salaon Dolok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ronggur Nihuta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sabungan Nihuta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paraduan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sijambur"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Air Bikuk",
-    "Tunggang (Dusun Tunggang)",
-    "Pondok Suguh",
-    "Air Berau",
-    "Air Hitam",
-    "Pondok Kandang",
-    "Bumi Mekar Jaya",
-    "Lubuk Bento",
-    "Sinar Laut",
-    "Karya Mulya",
-    "Teluk Bakung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Bikuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunggang (Dusun Tunggang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pondok Suguh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Berau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pondok Kandang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bumi Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Lubuk Bento"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Sinar Laut"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Karya Mulya"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Teluk Bakung"
+    }
   ]
 }

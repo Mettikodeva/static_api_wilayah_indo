@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Babulu Darat",
-    "Labangka",
-    "Babulu Laut",
-    "Gunung Intan",
-    "Gunung Makmur",
-    "Sebakung Jaya",
-    "Rawa Mulia",
-    "Sri Raharja",
-    "Sumber Sari",
-    "Rintik",
-    "Gunung Mulia",
-    "Labangka Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babulu Darat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labangka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Babulu Laut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Intan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sebakung Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawa Mulia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sri Raharja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rintik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Mulia"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labangka Barat"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sekar Biru",
-    "Telak",
-    "Cupat",
-    "Bakit",
-    "Puput",
-    "Air Gantang",
-    "Kelabat",
-    "Kapit",
-    "Semulut",
-    "Teluk Limau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekar Biru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cupat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bakit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puput"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Gantang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kelabat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kapit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Semulut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk Limau"
+    }
   ]
 }

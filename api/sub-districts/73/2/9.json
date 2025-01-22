@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Dannuang",
-    "Garanta",
-    "Balle Angin (Balleanging / Balleangin)",
-    "Balong",
-    "Seppang",
-    "Manyampa",
-    "Tammatto (Tamatto)",
-    "Padang Loang",
-    "Manjalling",
-    "Lonrong",
-    "Salemba",
-    "Bijawang",
-    "Paccaramengang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dannuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Garanta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balle Angin (Balleanging / Balleangin)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seppang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manyampa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tammatto (Tamatto)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padang Loang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manjalling"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lonrong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Salemba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bijawang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Paccaramengang"
+    }
   ]
 }

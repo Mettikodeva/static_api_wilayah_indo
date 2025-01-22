@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Samapuin",
-    "Brang Bara",
-    "Pekat",
-    "Seketeng",
-    "Bugis",
-    "Lempeh",
-    "Brang Biji",
-    "Uma Sima"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Samapuin"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Brang Bara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pekat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Seketeng"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bugis"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lempeh"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Brang Biji"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Uma Sima"
+    }
   ]
 }

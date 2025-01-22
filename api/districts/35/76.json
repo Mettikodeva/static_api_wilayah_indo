@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Prajuritkulon (Prajurit Kulon)",
-    "Magersari",
-    "Kranggan"
+    {
+      "district_id": 1,
+      "kecamatan": "Prajuritkulon (Prajurit Kulon)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Magersari"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kranggan"
+    }
   ]
 }

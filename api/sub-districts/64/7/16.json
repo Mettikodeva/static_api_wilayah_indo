@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dempar",
-    "Temula",
-    "Jontai",
-    "Sembuan",
-    "Intu Lingau",
-    "Mu'ut",
-    "Terajuk",
-    "Lakan Bilem",
-    "Sentalar",
-    "Awai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dempar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Temula"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jontai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sembuan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Intu Lingau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mu'ut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terajuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lakan Bilem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sentalar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Awai"
+    }
   ]
 }

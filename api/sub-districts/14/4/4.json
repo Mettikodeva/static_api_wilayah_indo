@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tembilahan Kota",
-    "Tembilahan Hilir",
-    "Seberang Tembilahan",
-    "Sungaiperak (Sungai Perak)",
-    "Sungaiberingin (Sungai Beringin)",
-    "Pekan Arba",
-    "Seberang Tembilahan Barat",
-    "Seberang Tembilahan Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tembilahan Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tembilahan Hilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Seberang Tembilahan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sungaiperak (Sungai Perak)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sungaiberingin (Sungai Beringin)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pekan Arba"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Seberang Tembilahan Barat"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Seberang Tembilahan Selatan"
+    }
   ]
 }

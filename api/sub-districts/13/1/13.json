@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Indrapura/Inderapura Utara",
-    "Muara Inderapura",
-    "Damar Lapan Batang Inderapura",
-    "Lalang Panjang Inderapura",
-    "Palokan Inderapura",
-    "Lubuk Betung Inderapura",
-    "Tluk Kualo Inderapura",
-    "Tanah Bakali Inderapura",
-    "Indrapura/Inderapura Timur",
-    "Pulau Rajo Inderapura (Pulaurajo Inderapura)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Indrapura/Inderapura Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Inderapura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Damar Lapan Batang Inderapura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lalang Panjang Inderapura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Palokan Inderapura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Betung Inderapura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tluk Kualo Inderapura"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanah Bakali Inderapura"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Indrapura/Inderapura Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Rajo Inderapura (Pulaurajo Inderapura)"
+    }
   ]
 }

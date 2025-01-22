@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sukaraja Nuban",
-    "Purwosari",
-    "Tulung Balak",
-    "Kedaton (Kedaton Induk)",
-    "Kedaton I (Satu)",
-    "Kedaton II (Dua)",
-    "Trisnomulyo (Trisno Mulyo)",
-    "Cempaka Nuban",
-    "Gedung Dalem (Gedung Dalam)",
-    "Bumi Jawa",
-    "Gunung Tiga",
-    "Negara Ratu",
-    "Sukacari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukaraja Nuban"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tulung Balak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedaton (Kedaton Induk)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedaton I (Satu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedaton II (Dua)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Trisnomulyo (Trisno Mulyo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cempaka Nuban"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gedung Dalem (Gedung Dalam)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Jawa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Tiga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Negara Ratu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukacari"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Baru Debai",
-    "Pendung Hiang",
-    "Koto Pudung",
-    "Koto Dumo",
-    "Sembilan",
-    "Koto Tuo",
-    "Koto Panap",
-    "Koto Tengah",
-    "Tanjung Bunga/Bungo",
-    "Koto Padang",
-    "Tanjung Karang",
-    "Koto Baru Tanah Kampung",
-    "Mekar Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baru Debai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pendung Hiang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Pudung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koto Dumo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sembilan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koto Tuo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto Panap"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Tengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Bunga/Bungo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Padang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Karang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Koto Baru Tanah Kampung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekar Jaya"
+    }
   ]
 }

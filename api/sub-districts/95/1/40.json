@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ilokama",
-    "Kama",
-    "Yaloaput",
-    "Mawampi",
-    "Parema",
-    "Agamoa",
-    "Silumarek",
-    "Wesaganya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ilokama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yaloaput"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mawampi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parema"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Agamoa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Silumarek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wesaganya"
+    }
   ]
 }

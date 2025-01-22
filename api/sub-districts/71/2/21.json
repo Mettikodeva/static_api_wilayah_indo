@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Talikuran",
-    "Talikuran Utara",
-    "Talikuran Barat",
-    "Uner",
-    "Kiawa Satu",
-    "Kiawa Satu Utara",
-    "Kiawa Satu Barat",
-    "Kiawa Dua",
-    "Kiawa Dua Timur",
-    "Kiawa Dua Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Talikuran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Talikuran Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Talikuran Barat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Uner"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kiawa Satu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kiawa Satu Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kiawa Satu Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kiawa Dua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kiawa Dua Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kiawa Dua Barat"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Pucuk Jambi (Pucuk Jambi)",
-    "Kuamang",
-    "Teluk Kayu Putih",
-    "Sungai Abang",
-    "Aur Cino",
-    "Muara Niro",
-    "Teluk Lancang",
-    "Dusun Baru",
-    "Tabun",
-    "Muara Tabun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Pucuk Jambi (Pucuk Jambi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuamang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Kayu Putih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Abang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aur Cino"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Niro"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Teluk Lancang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dusun Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tabun"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Muara Tabun"
+    }
   ]
 }

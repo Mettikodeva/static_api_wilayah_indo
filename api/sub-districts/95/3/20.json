@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Potenikma (Pontenikma)",
-    "Kuni",
-    "Panggema",
-    "Homtonggo (Homtongo)",
-    "Tukam",
-    "Kemumanggen",
-    "Yangkali",
-    "Weresili",
-    "Susek",
-    "Kolu",
-    "Tonggoi",
-    "Bineluk",
-    "Masahan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Potenikma (Pontenikma)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panggema"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Homtonggo (Homtongo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tukam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kemumanggen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yangkali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Weresili"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Susek"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kolu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tonggoi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bineluk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Masahan"
+    }
   ]
 }

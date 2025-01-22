@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Medang",
-    "Cicalengka",
-    "Pagedangan",
-    "Cijantra",
-    "Lengkong Kulon",
-    "Situ Gadung",
-    "Jatake",
-    "Cihuni",
-    "Kadu Sirung",
-    "Malang Nengah",
-    "Karang Tengah"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Medang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cicalengka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagedangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cijantra"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lengkong Kulon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Situ Gadung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatake"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cihuni"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kadu Sirung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Malang Nengah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karang Tengah"
+    }
   ]
 }

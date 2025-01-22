@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lebanu",
-    "Bomba",
-    "Beka",
-    "Sibedi",
-    "Padende",
-    "Sunju",
-    "Tinggede",
-    "Baliase",
-    "Binangga",
-    "Boyabaliase",
-    "Tinggede Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebanu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bomba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sibedi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padende"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sunju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tinggede"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baliase"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Binangga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Boyabaliase"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tinggede Selatan"
+    }
   ]
 }

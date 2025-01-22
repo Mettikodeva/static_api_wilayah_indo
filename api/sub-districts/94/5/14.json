@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Golu",
-    "Bina",
-    "Lumakluk",
-    "Wogot",
-    "Kabogoluk",
-    "Ogomegat",
-    "Mamaput"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Golu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bina"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lumakluk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wogot"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kabogoluk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ogomegat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mamaput"
+    }
   ]
 }

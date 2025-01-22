@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kimaam",
-    "Komolom",
-    "Kumbis",
-    "Kalilam",
-    "Teri",
-    "Mambum",
-    "Kiworo",
-    "Woner",
-    "Deka",
-    "Turiram",
-    "Purawanderu",
-    "Umanderu",
-    "Webu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kimaam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Komolom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kumbis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalilam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mambum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kiworo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Woner"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Deka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Turiram"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purawanderu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Umanderu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Webu"
+    }
   ]
 }

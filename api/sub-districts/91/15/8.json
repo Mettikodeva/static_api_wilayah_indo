@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ureifaisei I/Sanggae",
-    "Urfas II (Ureifasei Dua / II)",
-    "Nubuai",
-    "Ureifaisei III/ Paradoi",
-    "Apainabo",
-    "Mambui",
-    "Khemoon Jaya (Kemon Jaya)",
-    "Usaiwa",
-    "Paradoi",
-    "Ghoyui",
-    "Rorisi",
-    "Ronggaiwa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ureifaisei I/Sanggae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Urfas II (Ureifasei Dua / II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nubuai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ureifaisei III/ Paradoi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Apainabo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mambui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Khemoon Jaya (Kemon Jaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Usaiwa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paradoi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ghoyui"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rorisi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ronggaiwa"
+    }
   ]
 }

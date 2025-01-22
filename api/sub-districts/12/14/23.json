@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Maluo",
-    "Hilidulo",
-    "Umbuasi (Umbu'asi)",
-    "Sisobahili Siwalawa",
-    "Manawadano",
-    "Talio",
-    "Anaoma",
-    "Berua Siwalawa",
-    "Umbuasi Barat",
-    "Hiligodu",
-    "Bukit Burasi (Bukitburasi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maluo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilidulo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Umbuasi (Umbu'asi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sisobahili Siwalawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manawadano"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talio"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Anaoma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Berua Siwalawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Umbuasi Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hiligodu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Burasi (Bukitburasi)"
+    }
   ]
 }

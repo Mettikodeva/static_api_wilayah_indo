@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lembeyan Kulon",
-    "Kediren",
-    "Lembeyan Wetan",
-    "Tunggur",
-    "Dukuh",
-    "Kedungpanji",
-    "Nguri",
-    "Pupus",
-    "Tapen",
-    "Krowe"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lembeyan Kulon"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kediren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lembeyan Wetan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunggur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedungpanji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nguri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pupus"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tapen"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Krowe"
+    }
   ]
 }

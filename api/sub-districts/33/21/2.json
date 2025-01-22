@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Jragung",
-    "Wonosekar",
-    "Margohayu",
-    "Teluk",
-    "Tlogorejo",
-    "Rejosari",
-    "Karangawen",
-    "Kuripan",
-    "Bumirejo",
-    "Brambang",
-    "Sidorejo (Sido Rejo)",
-    "Pundenarum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jragung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonosekar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margohayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tlogorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangawen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumirejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Brambang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidorejo (Sido Rejo)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pundenarum"
+    }
   ]
 }

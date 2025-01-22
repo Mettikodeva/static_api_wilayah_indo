@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Lape",
-    "Labuhan Kuris (Labuan Kuris)",
-    "Dete",
-    "Hijrah"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lape"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labuhan Kuris (Labuan Kuris)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dete"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hijrah"
+    }
   ]
 }

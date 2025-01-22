@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Haruyan",
-    "Batu Benawa",
-    "Labuan Amas Selatan",
-    "Labuan Amas Utara",
-    "Pandawan",
-    "Barabai",
-    "Batang Alai Selatan",
-    "Batang Alai Utara",
-    "Hantakan",
-    "Batang Alai Timur",
-    "Limpasu"
+    {
+      "district_id": 1,
+      "kecamatan": "Haruyan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Batu Benawa"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Labuan Amas Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Labuan Amas Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pandawan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Barabai"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Batang Alai Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Batang Alai Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Hantakan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Batang Alai Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Limpasu"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Rambah Samo",
-    "Rambah Samo Barat",
-    "Rambah Baru",
-    "Rambah Utama",
-    "Pasir Makmur",
-    "Karya Mulya",
-    "Marga Mulya",
-    "Langkitan (Langkitin)",
-    "Masda Makmur",
-    "Lubuk Napai (Lubuk Napal)",
-    "Teluk Aur",
-    "Sei Salak",
-    "Sei Kuning",
-    "Lubuk Bilang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rambah Samo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rambah Samo Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rambah Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rambah Utama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasir Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karya Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Langkitan (Langkitin)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Masda Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubuk Napai (Lubuk Napal)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teluk Aur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sei Salak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sei Kuning"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lubuk Bilang"
+    }
   ]
 }

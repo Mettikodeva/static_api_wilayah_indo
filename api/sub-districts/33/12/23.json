@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Purwoharjo",
-    "Karangtengah",
-    "Ngambarsari",
-    "Jeblogan",
-    "Temboro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwoharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngambarsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jeblogan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Temboro"
+    }
   ]
 }

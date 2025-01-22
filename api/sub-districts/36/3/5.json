@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cisoka",
-    "Caringin",
-    "Selapajang",
-    "Sukatani",
-    "Bojong Loa (Bojongloa)",
-    "Cibugel",
-    "Cempaka",
-    "Carenang",
-    "Karang Harja (Karangharja)",
-    "Jeungjing (Jeung Jing)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisoka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selapajang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojong Loa (Bojongloa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cibugel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Carenang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karang Harja (Karangharja)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Jeungjing (Jeung Jing)"
+    }
   ]
 }

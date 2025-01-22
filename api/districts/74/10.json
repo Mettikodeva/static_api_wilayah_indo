@@ -1,10 +1,28 @@
 {
   "districts": [
-    "Kulisusu (Kalingsusu/Kalisusu)",
-    "Kambowa",
-    "Bonegunu",
-    "Kulisusu Barat",
-    "Kulisusu Utara",
-    "Wakorumba Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Kulisusu (Kalingsusu/Kalisusu)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kambowa"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bonegunu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kulisusu Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kulisusu Utara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Wakorumba Utara"
+    }
   ]
 }

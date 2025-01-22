@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sambaliang",
-    "Pasi",
-    "Banjar Toba",
-    "Berampu (Brampu)",
-    "Karing"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sambaliang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjar Toba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Berampu (Brampu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karing"
+    }
   ]
 }

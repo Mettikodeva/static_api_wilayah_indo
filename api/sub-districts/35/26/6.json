@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kombangan",
-    "Banyoneng Laok (Bayoneng)",
-    "Katol Barat",
-    "Dabung (Debung)",
-    "Lerpak",
-    "Geger",
-    "Tagubang (Togubang)",
-    "Batobella (Batobelle)",
-    "Kampak",
-    "Campor",
-    "Kompol",
-    "Tegar Priyah (Tegerpriyah / Tegarpriyah)",
-    "Banyoneng Dajah (Bayoneng)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kombangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banyoneng Laok (Bayoneng)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Katol Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dabung (Debung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lerpak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Geger"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tagubang (Togubang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batobella (Batobelle)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kampak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Campor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kompol"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tegar Priyah (Tegerpriyah / Tegarpriyah)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banyoneng Dajah (Bayoneng)"
+    }
   ]
 }

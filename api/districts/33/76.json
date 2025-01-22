@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Tegal Barat",
-    "Tegal Timur",
-    "Tegal Selatan",
-    "Margadana"
+    {
+      "district_id": 1,
+      "kecamatan": "Tegal Barat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tegal Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tegal Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Margadana"
+    }
   ]
 }

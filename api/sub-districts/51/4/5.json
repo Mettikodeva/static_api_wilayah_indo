@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ubud",
-    "Lodtunduh",
-    "Mas",
-    "Singakerta (Singekerta)",
-    "Kedewatan",
-    "Peliatan",
-    "Petulu",
-    "Sayan"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ubud"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lodtunduh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Singakerta (Singekerta)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedewatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peliatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Petulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sayan"
+    }
   ]
 }

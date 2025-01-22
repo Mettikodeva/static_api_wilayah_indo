@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jaboi",
-    "Balohan",
-    "Cot Abeuk",
-    "Cot Ba'U",
-    "Ie Meulee",
-    "Ujoeng Kareung (Ujong Kareung / Kareueng)",
-    "Anoe Itam (Anoi Itam)"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jaboi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balohan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cot Abeuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cot Ba'U"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ie Meulee"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ujoeng Kareung (Ujong Kareung / Kareueng)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Anoe Itam (Anoi Itam)"
+    }
   ]
 }

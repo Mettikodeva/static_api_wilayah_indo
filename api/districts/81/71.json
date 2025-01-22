@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Nusaniwe (Nusanive)",
-    "Sirimau",
-    "Baguala",
-    "Teluk Ambon",
-    "Leitimur Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Nusaniwe (Nusanive)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sirimau"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Baguala"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Teluk Ambon"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Leitimur Selatan"
+    }
   ]
 }

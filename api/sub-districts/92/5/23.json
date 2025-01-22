@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Rauki",
-    "Urai",
-    "Duber",
-    "Kapadiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rauki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Urai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Duber"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kapadiri"
+    }
   ]
 }

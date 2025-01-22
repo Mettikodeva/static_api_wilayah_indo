@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Muliama",
-    "Wenabubaga",
-    "Kilubaga",
-    "Musalfak",
-    "Punakul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muliama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wenabubaga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kilubaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Musalfak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Punakul"
+    }
   ]
 }

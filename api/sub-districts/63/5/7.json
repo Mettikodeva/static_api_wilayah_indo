@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Parigi Kecil",
-    "Bakarangan",
-    "Parigi",
-    "Paul",
-    "Gadung",
-    "Bundung",
-    "Tangkawang",
-    "Waringin",
-    "Gadung Keramat (Gadung Karamat)",
-    "Masta",
-    "Ketapang",
-    "Tangkawang Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parigi Kecil"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bakarangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parigi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gadung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bundung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangkawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waringin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gadung Keramat (Gadung Karamat)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Masta"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tangkawang Baru"
+    }
   ]
 }

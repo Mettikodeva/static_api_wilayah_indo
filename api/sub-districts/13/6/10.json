@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Koto Rantang",
-    "Pasia Laweh",
-    "Pagadih",
-    "Nan Tujuah",
-    "Nan Limo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Rantang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasia Laweh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagadih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nan Tujuah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nan Limo"
+    }
   ]
 }

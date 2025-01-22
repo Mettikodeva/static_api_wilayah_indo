@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sabun",
-    "Nano",
-    "Boking",
-    "Baus",
-    "Meusin",
-    "Leonani (Leonmeni)",
-    "Fatu Manufui"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sabun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Boking"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baus"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Meusin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Leonani (Leonmeni)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Fatu Manufui"
+    }
   ]
 }

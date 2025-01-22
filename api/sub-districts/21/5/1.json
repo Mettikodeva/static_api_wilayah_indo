@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Terempa (Tarempa)",
-    "Terempa Barat (Tarempa Barat)",
-    "Tarempa Selatan",
-    "Tarempa Timur",
-    "Pesisir Timur",
-    "Sri Tanjung",
-    "Tarempa Barat Daya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Terempa (Tarempa)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Terempa Barat (Tarempa Barat)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tarempa Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tarempa Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pesisir Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sri Tanjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tarempa Barat Daya"
+    }
   ]
 }

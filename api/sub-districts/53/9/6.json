@@ -1,32 +1,116 @@
 {
   "sub_districts": [
-    "Bajawa",
-    "Tanalodu",
-    "Kisanata",
-    "Jawameze",
-    "Trikora",
-    "Ngedukelu",
-    "Lebijaga",
-    "Faobata",
-    "Susu",
-    "Beja",
-    "Bomari",
-    "Wawowae",
-    "Ubedolumolo",
-    "Naru (Natu)",
-    "Beiwali",
-    "Borani",
-    "Langagedha",
-    "Pape",
-    "Bowali",
-    "Ngoranale",
-    "Ubedolumolo Satu",
-    "Bela",
-    "Ngadhamana",
-    "Bolonga",
-    "Boradho",
-    "Mukuvoka",
-    "Ubedolumolo II",
-    "Langagedha I"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bajawa"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tanalodu"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kisanata"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Jawameze"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Trikora"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Ngedukelu"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Lebijaga"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Faobata"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Susu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bomari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wawowae"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ubedolumolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naru (Natu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Beiwali"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Borani"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Langagedha"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pape"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Bowali"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Ngoranale"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Ubedolumolo Satu"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bela"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Ngadhamana"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Bolonga"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Boradho"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Mukuvoka"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Ubedolumolo II"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Langagedha I"
+    }
   ]
 }

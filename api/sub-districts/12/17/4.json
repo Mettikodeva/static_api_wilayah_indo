@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Suhutnihuta Pardomuan",
-    "Gorat Pallombuan",
-    "Urat II",
-    "Palipi",
-    "Pardomuan Nauli",
-    "Hatoguan",
-    "Simbolon Purba",
-    "Sigaol Simbolon",
-    "Urat Timur",
-    "Saor Nauli Hatoguan",
-    "Parsaoran Urat",
-    "Hutaginjang",
-    "Sigaol Marbun",
-    "Hutadame",
-    "Pallombuan",
-    "Pamutaran",
-    "Sideak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suhutnihuta Pardomuan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gorat Pallombuan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urat II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Palipi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pardomuan Nauli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hatoguan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simbolon Purba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sigaol Simbolon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Urat Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saor Nauli Hatoguan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Parsaoran Urat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hutaginjang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sigaol Marbun"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Hutadame"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pallombuan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pamutaran"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sideak"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jayamakmur",
-    "Kemiri",
-    "Makmurjaya",
-    "Kertajaya",
-    "Jayakerta",
-    "Medangasem",
-    "Ciptamarga",
-    "Kampungsawah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jayamakmur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Makmurjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jayakerta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Medangasem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ciptamarga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampungsawah"
+    }
   ]
 }

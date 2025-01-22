@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sekayun",
-    "Sekayun Mudik",
-    "Sekayun Hilir / Ilir",
-    "Talang Donok",
-    "Taba Tengah",
-    "Padang Berunai",
-    "Lubuk Langkap",
-    "Air Napal",
-    "Genting",
-    "Talang Panjang",
-    "Bang Haji",
-    "Sungkai Berayun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekayun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekayun Mudik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sekayun Hilir / Ilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Donok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taba Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padang Berunai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Langkap"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Napal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Genting"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Panjang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bang Haji"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungkai Berayun"
+    }
   ]
 }

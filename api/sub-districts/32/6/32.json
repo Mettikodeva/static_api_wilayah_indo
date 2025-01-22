@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cisayong",
-    "Sukajadi",
-    "Sukasukur",
-    "Sukamukti",
-    "Nusawangi",
-    "Cikadu",
-    "Cileuleus",
-    "Jatihurip",
-    "Sukasetia",
-    "Purwasari",
-    "Sukaraharja",
-    "Mekarwangi",
-    "Santanamekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisayong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukasukur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nusawangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cikadu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cileuleus"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatihurip"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukasetia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purwasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukaraharja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Santanamekar"
+    }
   ]
 }

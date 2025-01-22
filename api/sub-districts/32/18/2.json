@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Batukaras",
-    "Ciakar",
-    "Cibanten",
-    "Kertayasa",
-    "Cijulang",
-    "Kondangjajar",
-    "Margacinta"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batukaras"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciakar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibanten"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kertayasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cijulang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kondangjajar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margacinta"
+    }
   ]
 }

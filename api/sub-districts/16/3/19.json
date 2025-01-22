@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Padang Bindu",
-    "Betung",
-    "Pagar Dewa",
-    "Pagarjati (Pagar Jati)",
-    "Hidup Baru",
-    "Rami Pasai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padang Bindu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagarjati (Pagar Jati)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hidup Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rami Pasai"
+    }
   ]
 }

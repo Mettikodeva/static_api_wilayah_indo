@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sutera (Sutra)",
-    "Pangkalan Buton",
-    "Sejahtera",
-    "Simpang Tiga",
-    "Benawai Agung",
-    "Harapan Mulia",
-    "Pampang Harapan",
-    "Sedahan Jaya",
-    "Gunungsembilan (Gunung Sembilan)",
-    "Riam Berasap Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sutera (Sutra)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkalan Buton"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sejahtera"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benawai Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Harapan Mulia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pampang Harapan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sedahan Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunungsembilan (Gunung Sembilan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Riam Berasap Jaya"
+    }
   ]
 }

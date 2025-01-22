@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bidneu (Bidnew)",
-    "Senggo",
-    "Kumasma",
-    "Womin",
-    "Tamanin (Tamanim)",
-    "Epem",
-    "Abau"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bidneu (Bidnew)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Senggo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumasma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Womin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tamanin (Tamanim)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Epem"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Abau"
+    }
   ]
 }

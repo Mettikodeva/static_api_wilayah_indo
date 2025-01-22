@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bobong",
-    "Talo",
-    "Kawalo",
-    "Limbo",
-    "Meranti Jaya (Maranti Jaya)",
-    "Kramat",
-    "Holbota",
-    "Pancoran",
-    "Wayo",
-    "Loho Bubba",
-    "Kilong",
-    "Ratahaya",
-    "Woyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bobong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kawalo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Limbo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meranti Jaya (Maranti Jaya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Holbota"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pancoran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wayo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Loho Bubba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kilong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ratahaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Woyo"
+    }
   ]
 }

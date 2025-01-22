@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mekar Bakti",
-    "Ranca Iyuh",
-    "Peusar",
-    "Ranca Kalapa",
-    "Serdang Kulon",
-    "Mekar Jaya",
-    "Ciakar",
-    "Panongan"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mekar Bakti"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ranca Iyuh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Peusar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ranca Kalapa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Serdang Kulon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ciakar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panongan"
+    }
   ]
 }

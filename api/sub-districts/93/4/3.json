@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sawa",
-    "Erma",
-    "Bu",
-    "Er",
-    "Pupis",
-    "Sona",
-    "Agani",
-    "Mumugu",
-    "Sauti",
-    "Mumugi II (Mumugu Dua)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Erma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Er"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pupis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sona"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Agani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mumugu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sauti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mumugi II (Mumugu Dua)"
+    }
   ]
 }

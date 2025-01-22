@@ -1,30 +1,108 @@
 {
   "districts": [
-    "Mulia",
-    "Ilu",
-    "Fawi",
-    "Mewoluk",
-    "Yamo",
-    "Nume",
-    "Torere",
-    "Tingginambut",
-    "Pagaleme",
-    "Gurage",
-    "Irimuli",
-    "Muara",
-    "Ilamburawi",
-    "Yambi",
-    "Lumo",
-    "Molanikime",
-    "Dokome",
-    "Kalome",
-    "Wanwi",
-    "Yamoneri",
-    "Waegi",
-    "Nioga",
-    "Gubume",
-    "Taganombak",
-    "Dagai",
-    "Kiyage"
+    {
+      "district_id": 1,
+      "kecamatan": "Mulia"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ilu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Fawi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Mewoluk"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Yamo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Nume"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Torere"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tingginambut"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pagaleme"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Gurage"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Irimuli"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Muara"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Ilamburawi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Yambi"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Lumo"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Molanikime"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Dokome"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kalome"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Wanwi"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Yamoneri"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Waegi"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Nioga"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Gubume"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Taganombak"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Dagai"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Kiyage"
+    }
   ]
 }

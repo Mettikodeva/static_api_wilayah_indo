@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sota",
-    "Yanggandur",
-    "Rawa Biru",
-    "Toray (Torray)",
-    "Erambu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sota"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yanggandur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rawa Biru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Toray (Torray)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Erambu"
+    }
   ]
 }

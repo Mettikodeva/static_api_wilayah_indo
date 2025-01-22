@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sri Bunga",
-    "Anyar",
-    "Pandan Sari III",
-    "Rawasari",
-    "Surya Menang",
-    "Muncak Kabau",
-    "Sri Bulan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sri Bunga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Anyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pandan Sari III"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Surya Menang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muncak Kabau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sri Bulan"
+    }
   ]
 }

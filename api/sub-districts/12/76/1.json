@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pabatu",
-    "Lubuk Baru",
-    "Persiakan",
-    "Bandar Sono (Bandarsono)",
-    "Tualang",
-    "Padang Merbau",
-    "Lubuk Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pabatu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lubuk Baru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Persiakan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bandar Sono (Bandarsono)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tualang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Padang Merbau"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Lubuk Raya"
+    }
   ]
 }

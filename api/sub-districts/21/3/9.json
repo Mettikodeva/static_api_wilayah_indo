@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Subi",
-    "Subi Besar",
-    "Meliah",
-    "Terayak",
-    "Subi Besar Timur",
-    "Meliah Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Subi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Subi Besar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meliah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Terayak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Subi Besar Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meliah Selatan"
+    }
   ]
 }

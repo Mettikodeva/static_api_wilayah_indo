@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Suswa",
-    "Seya",
-    "Waban (Wabam)",
-    "Kombif",
-    "Rufases",
-    "Bakrabi",
-    "Nafasi",
-    "Mahos",
-    "Sawo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suswa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Seya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waban (Wabam)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kombif"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rufases"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bakrabi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nafasi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mahos"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawo"
+    }
   ]
 }

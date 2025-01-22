@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pesawahan",
-    "Telukbetung (Teluk Betung)",
-    "Talang",
-    "Gedong Pakuon (Gedong Pakuan / Pakuon)",
-    "Sumur Putri",
-    "Gunungmas (Gunung Mas)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pesawahan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Telukbetung (Teluk Betung)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Talang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gedong Pakuon (Gedong Pakuan / Pakuon)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sumur Putri"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Gunungmas (Gunung Mas)"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Mojokrapak",
-    "Pesantren",
-    "Tampingmojo (Tamping Mojo)",
-    "Kalikejambon (Kali Kejambon)",
-    "Kedunglosari (Kedung Losari)",
-    "Kedungotok (Kedung Otok)",
-    "Tembelang",
-    "Sentul",
-    "Gabusbanaran",
-    "Pulorejo",
-    "Rejosopinggir (Rejoso Pinggir)",
-    "Jatiwates (Jati Wates)",
-    "Kepuhdoko (Kepuh Doko)",
-    "Pulogedang (Pulo Gedang)",
-    "Bedahlawak (Bedah Lawak)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mojokrapak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pesantren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tampingmojo (Tamping Mojo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalikejambon (Kali Kejambon)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedunglosari (Kedung Losari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedungotok (Kedung Otok)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tembelang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gabusbanaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rejosopinggir (Rejoso Pinggir)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jatiwates (Jati Wates)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kepuhdoko (Kepuh Doko)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pulogedang (Pulo Gedang)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bedahlawak (Bedah Lawak)"
+    }
   ]
 }

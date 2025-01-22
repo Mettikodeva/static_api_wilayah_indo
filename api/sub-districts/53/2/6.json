@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pollo",
-    "Oekiu",
-    "Oebelo",
-    "Noemuke",
-    "Kiubaat",
-    "Linamnutu",
-    "Mio",
-    "Batnun",
-    "Bena",
-    "Eno Neten (Enoneten)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pollo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oekiu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oebelo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Noemuke"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kiubaat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Linamnutu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mio"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batnun"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bena"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Eno Neten (Enoneten)"
+    }
   ]
 }

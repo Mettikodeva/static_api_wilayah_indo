@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tekana",
-    "Tanjung Beringin",
-    "Bandar",
-    "Jagaraga",
-    "Damarpura",
-    "Tunas Jaya",
-    "Sinar Danau",
-    "Gemiung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tekana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jagaraga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Damarpura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunas Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinar Danau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gemiung"
+    }
   ]
 }

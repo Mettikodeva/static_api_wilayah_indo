@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukasukur",
-    "Salebu",
-    "Mangunreja",
-    "Margajaya",
-    "Pasirsalam",
-    "Sukaluyu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukasukur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salebu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangunreja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Margajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasirsalam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukaluyu"
+    }
   ]
 }

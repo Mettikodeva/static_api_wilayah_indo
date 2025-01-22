@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Klafluk",
-    "Mamsit",
-    "Sabake",
-    "Klayastani",
-    "Botain"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klafluk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mamsit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sabake"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klayastani"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Botain"
+    }
   ]
 }

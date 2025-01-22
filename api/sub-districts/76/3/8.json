@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Orobua",
-    "Paladan",
-    "Orobua Timur",
-    "Rante Puang",
-    "Satenetean",
-    "Lisuan Ada",
-    "Orobua Selatan",
-    "Malangkena Padang",
-    "Malimbong",
-    "Marampan Orobua"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Orobua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paladan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Orobua Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rante Puang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Satenetean"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lisuan Ada"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Orobua Selatan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Malangkena Padang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Malimbong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Marampan Orobua"
+    }
   ]
 }

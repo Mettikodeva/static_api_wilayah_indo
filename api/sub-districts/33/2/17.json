@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Panusupan",
-    "Jatisaba",
-    "Kasegeran",
-    "Pejogol",
-    "Langgongsari",
-    "Pageraji",
-    "Sudimara",
-    "Batuanten",
-    "Cipete",
-    "Cilongok",
-    "Pernasidi",
-    "Cikidang",
-    "Karanglo",
-    "Kalisari",
-    "Karangtengah",
-    "Panembangan",
-    "Rancamaya",
-    "Sambirata",
-    "Gununglurah",
-    "Sokawera"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panusupan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatisaba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kasegeran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pejogol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langgongsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pageraji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sudimara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batuanten"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cipete"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cilongok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pernasidi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cikidang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karanglo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Panembangan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rancamaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sambirata"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Gununglurah"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sokawera"
+    }
   ]
 }

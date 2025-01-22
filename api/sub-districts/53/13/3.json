@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kolipadan",
-    "Dulitukan",
-    "Tagawiti",
-    "Waowala",
-    "Amakaka",
-    "Bungamuda",
-    "Napasabok",
-    "Petuntawa",
-    "Kolontobo",
-    "Laranwutun",
-    "Watodiri",
-    "Tanjung Batu",
-    "Muruona",
-    "Palilolon",
-    "Lamawara",
-    "Beutaran",
-    "Riangbao"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kolipadan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dulitukan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tagawiti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waowala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Amakaka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bungamuda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Napasabok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Petuntawa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kolontobo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Laranwutun"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Watodiri"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanjung Batu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Muruona"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Palilolon"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lamawara"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Beutaran"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Riangbao"
+    }
   ]
 }

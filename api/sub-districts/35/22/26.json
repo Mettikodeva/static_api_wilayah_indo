@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Krondonan",
-    "Jari",
-    "Sambongrejo",
-    "Pajeng",
-    "Gondang",
-    "Senganten (Sengaten)",
-    "Pragelan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Krondonan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sambongrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pajeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senganten (Sengaten)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pragelan"
+    }
   ]
 }

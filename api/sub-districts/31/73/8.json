@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kembangan Utara",
-    "Meruya Utara (Ilir)",
-    "Meruya Selatan (Udik)",
-    "Srengseng",
-    "Joglo",
-    "Kembangan Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kembangan Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Meruya Utara (Ilir)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Meruya Selatan (Udik)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Srengseng"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Joglo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kembangan Selatan"
+    }
   ]
 }

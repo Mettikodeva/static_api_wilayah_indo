@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pana",
-    "Manipi",
-    "Mamullu",
-    "Sapan",
-    "Datubaringan",
-    "Panura",
-    "Tallang Bulawan",
-    "Karaka",
-    "Ulusalu",
-    "Weri",
-    "Salutambun",
-    "Saloan",
-    "Ulusalu Indah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manipi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mamullu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Datubaringan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Panura"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tallang Bulawan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karaka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ulusalu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Weri"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Salutambun"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Saloan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ulusalu Indah"
+    }
   ]
 }

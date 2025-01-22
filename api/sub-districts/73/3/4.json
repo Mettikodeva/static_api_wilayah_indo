@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lembang Gantarang Keke (Lembang Gantarangkeke)",
-    "Banyorang",
-    "Campaga",
-    "Ereng-Ereng",
-    "Labbo",
-    "Pattaneteang",
-    "Pattalassang (Pattallassang)",
-    "Bonto Bontoa (Bonto-Bontoa)",
-    "Bonto Tappalang",
-    "Balumbung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lembang Gantarang Keke (Lembang Gantarangkeke)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Banyorang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Campaga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ereng-Ereng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labbo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pattaneteang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pattalassang (Pattallassang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bonto Bontoa (Bonto-Bontoa)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonto Tappalang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Balumbung"
+    }
   ]
 }

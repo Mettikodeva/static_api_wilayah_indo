@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kogholifano (Koholifano)",
-    "Pola",
-    "Kamosope",
-    "Liwumetingki",
-    "Labulawa",
-    "Bumbu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kogholifano (Koholifano)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pola"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kamosope"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Liwumetingki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Labulawa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumbu"
+    }
   ]
 }

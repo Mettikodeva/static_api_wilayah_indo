@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bolorejo",
-    "Kauman",
-    "Balerejo",
-    "Batangsaren",
-    "Panggungrejo",
-    "Kalangbret",
-    "Sidorejo",
-    "Mojosari",
-    "Karanganom",
-    "Pucangan",
-    "Kates",
-    "Banaran",
-    "Jatimulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bolorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balerejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batangsaren"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panggungrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalangbret"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mojosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karanganom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pucangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kates"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jatimulyo"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Adi Luhur",
-    "Mukti Karya",
-    "Fajar Baru",
-    "Adi Mulya / Mulyo",
-    "Fajar Asri",
-    "Fajar Indah",
-    "Adi Karya Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Adi Luhur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mukti Karya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fajar Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Adi Mulya / Mulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fajar Asri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fajar Indah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Adi Karya Mulya"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Meteseh",
-    "Rowosari",
-    "Mangunharjo",
-    "Bulusan",
-    "Kramas",
-    "Tembalang",
-    "Jangli",
-    "Tandang",
-    "Kedungmundu",
-    "Sendangguwo",
-    "Sendangmulyo",
-    "Sambiroto"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Meteseh"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rowosari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mangunharjo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bulusan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kramas"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tembalang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jangli"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tandang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kedungmundu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sendangguwo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sendangmulyo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sambiroto"
+    }
   ]
 }

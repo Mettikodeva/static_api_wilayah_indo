@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Purwodadi",
-    "Tutur",
-    "Puspo",
-    "Lumbang",
-    "Pasrepan",
-    "Kejayan",
-    "Wonorejo",
-    "Purwosari",
-    "Sukorejo",
-    "Prigen",
-    "Pandaan",
-    "Gempol",
-    "Beji",
-    "Bangil",
-    "Rembang",
-    "Kraton",
-    "Pohjentrek",
-    "Gondangwetan (Gondang Wetan)",
-    "Winongan",
-    "Grati",
-    "Nguling",
-    "Lekok",
-    "Rejoso",
-    "Tosari"
+    {
+      "district_id": 1,
+      "kecamatan": "Purwodadi"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tutur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Puspo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lumbang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pasrepan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kejayan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wonorejo"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Purwosari"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sukorejo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Prigen"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pandaan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Gempol"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Beji"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bangil"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Rembang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kraton"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Pohjentrek"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Gondangwetan (Gondang Wetan)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Winongan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Grati"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Nguling"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Lekok"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Rejoso"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Tosari"
+    }
   ]
 }

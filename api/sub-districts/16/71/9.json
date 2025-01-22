@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "20 Ilir D II (20 Ilir II)",
-    "Ario Kemuning",
-    "Sekip Jaya",
-    "Pahlawan",
-    "Pipa Reja",
-    "Talang Aman"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "20 Ilir D II (20 Ilir II)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ario Kemuning"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sekip Jaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pahlawan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pipa Reja"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Talang Aman"
+    }
   ]
 }

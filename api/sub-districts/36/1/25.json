@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kadumerak",
-    "Cigadung",
-    "Pagadungan",
-    "Juhut"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kadumerak"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cigadung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pagadungan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Juhut"
+    }
   ]
 }

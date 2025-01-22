@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ampel",
-    "Pegirikan (Pegirian)",
-    "Wonokusumo",
-    "Ujung",
-    "Sidotopo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ampel"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pegirikan (Pegirian)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wonokusumo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ujung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sidotopo"
+    }
   ]
 }

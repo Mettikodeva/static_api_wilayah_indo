@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Letwurung",
-    "Yatoke",
-    "Kroing",
-    "Nakarhamto",
-    "Emplawas (Empalwas)",
-    "Kokwari",
-    "Ahanari",
-    "Wakpapapi",
-    "Analutur",
-    "Manuweri (Manuari)",
-    "Tutuwawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Letwurung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yatoke"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kroing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nakarhamto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Emplawas (Empalwas)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kokwari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ahanari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wakpapapi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Analutur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Manuweri (Manuari)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tutuwawang"
+    }
   ]
 }

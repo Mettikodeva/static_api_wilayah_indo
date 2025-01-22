@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sendangarum (Sendang Arum)",
-    "Sendangmulyo (Sendang Mulyo)",
-    "Sendangagung",
-    "Sendangsari",
-    "Sendangrejo (Sendang Rejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sendangarum (Sendang Arum)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sendangmulyo (Sendang Mulyo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sendangagung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sendangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sendangrejo (Sendang Rejo)"
+    }
   ]
 }

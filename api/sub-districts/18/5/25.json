@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Teladas",
-    "Kekatung",
-    "Kuala Teladas",
-    "Mahabang",
-    "Sungai Nibung",
-    "Pasiran Jaya",
-    "Bratasena Adiwarna",
-    "Bratasena Mandiri",
-    "Way Dente",
-    "Dente Makmur",
-    "Pendowo Asri",
-    "Sungai Burung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teladas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kekatung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuala Teladas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mahabang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Nibung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasiran Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bratasena Adiwarna"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bratasena Mandiri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Way Dente"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dente Makmur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pendowo Asri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Burung"
+    }
   ]
 }

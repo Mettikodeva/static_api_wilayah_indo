@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Teluk Betung",
-    "Mukut",
-    "Sumber Rejeki",
-    "Dana Mulya",
-    "Wana Mukti",
-    "Budi Asih",
-    "Rukun Makmur",
-    "Nunggal Sari",
-    "Majatra",
-    "Wonosari",
-    "Sumber Mulya/Mulyo",
-    "Rawa Banda",
-    "Senda Mukti (Air Senda II)",
-    "Tirta Mulya (Tirto Mulyo)",
-    "Banjar Sari (Banjarsari / Air Senda IV)",
-    "Buana Murti (Air Senda III)",
-    "Tabuan Asri"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Betung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mukut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Rejeki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dana Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wana Mukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Budi Asih"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rukun Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nunggal Sari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Majatra"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Sumber Mulya/Mulyo"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Rawa Banda"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Senda Mukti (Air Senda II)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Tirta Mulya (Tirto Mulyo)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Banjar Sari (Banjarsari / Air Senda IV)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Buana Murti (Air Senda III)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Tabuan Asri"
+    }
   ]
 }

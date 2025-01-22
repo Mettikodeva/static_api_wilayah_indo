@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sende",
-    "Jungjang Wetan",
-    "Jungjang",
-    "Arjawinangun",
-    "Tegalgubug",
-    "Tegal Gubug Lor (Tegalgubug Lor)",
-    "Rawagatel",
-    "Karangsambung",
-    "Bulak",
-    "Geyongan",
-    "Kebonturi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sende"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jungjang Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jungjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arjawinangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegalgubug"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegal Gubug Lor (Tegalgubug Lor)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawagatel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangsambung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Geyongan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kebonturi"
+    }
   ]
 }

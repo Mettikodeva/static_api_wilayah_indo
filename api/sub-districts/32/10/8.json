@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ciomas",
-    "Padahanten",
-    "Sukahaji",
-    "Salagedang",
-    "Cikeusik",
-    "Jayi",
-    "Nanggewer",
-    "Palabuhan/Palabuan",
-    "Cikoneng",
-    "Babakanmanjeti (Babakan Manjeti)",
-    "Tanjungsari",
-    "Cikalong",
-    "Candrajaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciomas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padahanten"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukahaji"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Salagedang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cikeusik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jayi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nanggewer"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Palabuhan/Palabuan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cikoneng"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Babakanmanjeti (Babakan Manjeti)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cikalong"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Candrajaya"
+    }
   ]
 }

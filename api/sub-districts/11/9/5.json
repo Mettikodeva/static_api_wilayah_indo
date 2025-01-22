@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Babussalam",
-    "Muara Aman",
-    "Gunung Putih",
-    "Lugu Sek Bahak (Sebahak)",
-    "Kuala Bakti",
-    "Bulu Hadik",
-    "Sambai (Sambay)",
-    "Luan Balu",
-    "Tanjung Raya",
-    "Kuala Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babussalam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Aman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Putih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lugu Sek Bahak (Sebahak)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuala Bakti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulu Hadik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambai (Sambay)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Luan Balu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kuala Baru"
+    }
   ]
 }

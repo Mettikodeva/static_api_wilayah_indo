@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Belawan I",
-    "Belawan II",
-    "Belawan Bahagia",
-    "Belawan Bahari",
-    "Belawan Sicanang",
-    "Bagan Deli"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Belawan I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Belawan II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Belawan Bahagia"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Belawan Bahari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Belawan Sicanang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bagan Deli"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kabun",
-    "Aliantan",
-    "Kota/Koto Ranah",
-    "Bencah/Boncah Kesuma",
-    "Batu Langkah Besar",
-    "Giti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kabun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aliantan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota/Koto Ranah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bencah/Boncah Kesuma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Langkah Besar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Giti"
+    }
   ]
 }

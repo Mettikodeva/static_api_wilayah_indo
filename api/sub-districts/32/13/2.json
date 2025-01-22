@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cupunagara",
-    "Cimanggu",
-    "Gardusayang",
-    "Mayang",
-    "Sukakerti",
-    "Darmaga",
-    "Cisalak",
-    "Cigadog",
-    "Pakuhaji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cupunagara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimanggu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gardusayang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mayang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukakerti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Darmaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cisalak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cigadog"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pakuhaji"
+    }
   ]
 }

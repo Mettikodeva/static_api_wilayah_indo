@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Batukali",
-    "Bandungrejo",
-    "Banyuputih",
-    "Pendosawalan",
-    "Damarjati",
-    "Purwogondo",
-    "Margoyoso",
-    "Sendang",
-    "Kriyan",
-    "Robayan",
-    "Bakalan",
-    "Manyargading"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batukali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandungrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banyuputih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pendosawalan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Damarjati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwogondo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margoyoso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kriyan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Robayan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bakalan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Manyargading"
+    }
   ]
 }

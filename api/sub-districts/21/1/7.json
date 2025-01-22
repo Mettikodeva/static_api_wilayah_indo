@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tanjung Uban Kota",
-    "Tanjung Uban Utara",
-    "Tanjung Uban Selatan",
-    "Tanjung Uban Timur",
-    "Lancang Kuning"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Uban Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Uban Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Uban Selatan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tanjung Uban Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lancang Kuning"
+    }
   ]
 }

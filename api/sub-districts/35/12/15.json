@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tamankursi",
-    "Sumberargo",
-    "Tamansari (Taman Sari)",
-    "Kalirejo",
-    "Baderan",
-    "Alastengah (Alas Tengah)",
-    "Taman",
-    "Tlogosari",
-    "Plalangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tamankursi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberargo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamansari (Taman Sari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baderan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alastengah (Alas Tengah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taman"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tlogosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Plalangan"
+    }
   ]
 }

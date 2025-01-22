@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Batursari",
-    "Benda",
-    "Buniwah",
-    "Dawuhan",
-    "Igirklanceng",
-    "Kaligiri",
-    "Kaliloka",
-    "Manggis",
-    "Mendala",
-    "Mlayang",
-    "Sridadi",
-    "Plompong",
-    "Wanareja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batursari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buniwah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawuhan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Igirklanceng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaligiri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaliloka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manggis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mendala"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mlayang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sridadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Plompong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wanareja"
+    }
   ]
 }

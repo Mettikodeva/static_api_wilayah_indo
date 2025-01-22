@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Air Kumpai",
-    "Batu Belanak",
-    "Gunung Jambat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Kumpai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Belanak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Jambat"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Debula",
-    "Kwelemdua",
-    "Kubuk Dua",
-    "Senayom",
-    "Sesepne",
-    "Baluk",
-    "Kemligin",
-    "Obis",
-    "Yalidamon",
-    "Kabulan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Debula"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kwelemdua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kubuk Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Senayom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sesepne"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baluk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kemligin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Obis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yalidamon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kabulan"
+    }
   ]
 }

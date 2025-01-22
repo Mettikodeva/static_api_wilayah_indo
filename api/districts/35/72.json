@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Kepanjenkidul (Kepanjen Kidul)",
-    "Sukorejo",
-    "Sananwetan (Sanan Wetan)"
+    {
+      "district_id": 1,
+      "kecamatan": "Kepanjenkidul (Kepanjen Kidul)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sukorejo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sananwetan (Sanan Wetan)"
+    }
   ]
 }

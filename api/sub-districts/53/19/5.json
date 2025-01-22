@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tiwu Kondo",
-    "Lengko Namut",
-    "Rana Kulan",
-    "Golo Munde",
-    "Golo Lebo",
-    "Golo Lijun",
-    "Sisir",
-    "Haju Ngendong",
-    "Legur Lai",
-    "Rana Gapang",
-    "Biting",
-    "Compang Soba",
-    "Compang Teo",
-    "Kaju Wangi",
-    "Wae Lokom"
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Tiwu Kondo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lengko Namut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rana Kulan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Golo Munde"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Golo Lebo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Golo Lijun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sisir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Haju Ngendong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Legur Lai"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rana Gapang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Biting"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Compang Soba"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Compang Teo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kaju Wangi"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Wae Lokom"
+    }
   ]
 }

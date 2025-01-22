@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Talang Babungo",
-    "Sariak Alahan Tigo (Sarik Alahan Tigo)",
-    "Sungai Abu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talang Babungo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sariak Alahan Tigo (Sarik Alahan Tigo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Abu"
+    }
   ]
 }

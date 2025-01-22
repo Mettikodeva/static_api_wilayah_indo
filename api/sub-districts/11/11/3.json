@@ -1,56 +1,212 @@
 {
   "sub_districts": [
-    "Lawang",
-    "Matang Reuleut",
-    "Meunasah Krueng",
-    "Cot Keutapang",
-    "Meunasah Rabo",
-    "Meunasah Tambo",
-    "Meunasah Baroh",
-    "Meunasah Pulo",
-    "Matang Pasi",
-    "Blang Kubu",
-    "Garot",
-    "Ara Bungong",
-    "Jabet",
-    "Sawang",
-    "Blang Beururu",
-    "Hagu",
-    "Blang Rangkuluh",
-    "Meunasah Bungo",
-    "Paya Beunot (Paya Bunot)",
-    "Meunasah Tunong",
-    "Meunasah Alue",
-    "Meunasah Cut",
-    "Gampong Mesjid (Meunasah Mesjid)",
-    "Meunasah Teungoh",
-    "Meunasah Blang",
-    "Kukue",
-    "Blang Matang",
-    "Blang Glumpang",
-    "Gampong Baro (Kampong Baro)",
-    "Gampong Paya (Paya)",
-    "Seuneubok Paya",
-    "Pulo Lawang",
-    "Keude Alue Rheng (Keude Alue Rheing)",
-    "Karieng",
-    "Pulo Ara",
-    "Cot Laot",
-    "Aleu Sijuk (Alue Sijuek)",
-    "Blang Bati",
-    "Buket Paya",
-    "Dayah Mon Ara",
-    "Calok",
-    "Cot Kruet",
-    "Tanjong Selamat (Tanjong Seulamat)",
-    "Jaba",
-    "Alue Gandai",
-    "Neubok Naleung",
-    "Paya Timu (Paya Timur)",
-    "Gampong Mulia (Mulia)",
-    "Pinto Rimba",
-    "Alue Keutapang",
-    "Teungku Di Bathon",
-    "Paya Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matang Reuleut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meunasah Krueng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cot Keutapang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meunasah Rabo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Meunasah Tambo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meunasah Baroh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meunasah Pulo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Matang Pasi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Blang Kubu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Garot"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ara Bungong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jabet"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sawang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Blang Beururu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hagu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Blang Rangkuluh"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Meunasah Bungo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Paya Beunot (Paya Bunot)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Meunasah Tunong"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Meunasah Alue"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Meunasah Cut"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Gampong Mesjid (Meunasah Mesjid)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Meunasah Teungoh"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Meunasah Blang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kukue"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Blang Matang"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Blang Glumpang"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Gampong Baro (Kampong Baro)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Gampong Paya (Paya)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Seuneubok Paya"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pulo Lawang"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Keude Alue Rheng (Keude Alue Rheing)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Karieng"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Pulo Ara"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Cot Laot"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Aleu Sijuk (Alue Sijuek)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Blang Bati"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Buket Paya"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Dayah Mon Ara"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Calok"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Cot Kruet"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Tanjong Selamat (Tanjong Seulamat)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Jaba"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Alue Gandai"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Neubok Naleung"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Paya Timu (Paya Timur)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Gampong Mulia (Mulia)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Pinto Rimba"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Alue Keutapang"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Teungku Di Bathon"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Paya Barat"
+    }
   ]
 }

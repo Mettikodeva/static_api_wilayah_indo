@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Siberuang",
-    "Bandur Picak",
-    "Gunung Malelo",
-    "Tabing",
-    "Pongkai",
-    "Tanjung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siberuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandur Picak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Malelo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tabing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pongkai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung"
+    }
   ]
 }

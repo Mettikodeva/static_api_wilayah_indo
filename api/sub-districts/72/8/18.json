@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bobalo",
-    "Dongkalan",
-    "Eeya",
-    "Ulatan",
-    "Palasa Tangki",
-    "Palasa Tengah",
-    "Palasa Lambori",
-    "Pebounang",
-    "Bambasiang",
-    "Beau",
-    "Ogoansam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bobalo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dongkalan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Eeya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ulatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Palasa Tangki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palasa Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Palasa Lambori"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pebounang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bambasiang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Beau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ogoansam"
+    }
   ]
 }

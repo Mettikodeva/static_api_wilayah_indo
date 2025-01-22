@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Marang",
-    "Tumbang Tahai",
-    "Banturung",
-    "Tangkiling",
-    "Sei/Sungai Gohong",
-    "Kanarakan",
-    "Habaring Hurung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Marang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tumbang Tahai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Banturung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tangkiling"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei/Sungai Gohong"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kanarakan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Habaring Hurung"
+    }
   ]
 }

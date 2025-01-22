@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Muktisari",
-    "Bojongkantong",
-    "Langensari",
-    "Rejasari",
-    "Waringinsari",
-    "Kujangsari"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Muktisari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bojongkantong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Langensari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rejasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waringinsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kujangsari"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kotobangun (Kotobangon / Kotabangon)",
-    "Tumubui / Tomobui (Tumobuy)",
-    "Sinindian",
-    "Matali",
-    "Motoboi Besar",
-    "Kobo Besar",
-    "Moyag",
-    "Kobo Kecil",
-    "Moyag Tampoan",
-    "Moyag Todulan"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kotobangun (Kotobangon / Kotabangon)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tumubui / Tomobui (Tumobuy)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sinindian"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Matali"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Motoboi Besar"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kobo Besar"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Moyag"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kobo Kecil"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Moyag Tampoan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Moyag Todulan"
+    }
   ]
 }

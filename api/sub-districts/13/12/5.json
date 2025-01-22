@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kinali",
-    "Katiagan (Katiagan Mandiangin)",
-    "Ampek Koto",
-    "Ampek Koto Barat",
-    "Bancah Kariang",
-    "Mudiak Labuah",
-    "Tandikek",
-    "Langgam Sepakat",
-    "Langgam Saiyo",
-    "Anam Koto Selatan",
-    "Sigunanti",
-    "Koto Gadang Jaya",
-    "Anam Koto Utara",
-    "Bandua Balai",
-    "Bunuik",
-    "Padang Canduh",
-    "Limau Purut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kinali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Katiagan (Katiagan Mandiangin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ampek Koto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ampek Koto Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bancah Kariang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mudiak Labuah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tandikek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Langgam Sepakat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langgam Saiyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Anam Koto Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sigunanti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Koto Gadang Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Anam Koto Utara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bandua Balai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bunuik"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Padang Canduh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Limau Purut"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kakorotan",
-    "Marampit",
-    "Laluhe",
-    "Dampulis",
-    "Karatung",
-    "Karatung Tengah",
-    "Karatung Selatan",
-    "Dampulis Selatan",
-    "Marampit Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kakorotan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marampit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laluhe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dampulis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karatung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karatung Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karatung Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dampulis Selatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Marampit Timur"
+    }
   ]
 }

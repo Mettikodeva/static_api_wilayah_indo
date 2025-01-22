@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Ranomuut (Ranomut)",
-    "Kairagi Weru",
-    "Paal Dua",
-    "Perkamil",
-    "Malendeng",
-    "Dendengan Dalam",
-    "Dendengan Luar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ranomuut (Ranomut)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kairagi Weru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Paal Dua"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Perkamil"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Malendeng"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Dendengan Dalam"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dendengan Luar"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Ilili",
-    "Effa",
-    "Lahema",
-    "Utta",
-    "Kelangan",
-    "Amarlaut",
-    "Tamher Warat",
-    "Tamher Timur",
-    "Wunin Eldedora",
-    "Keldor",
-    "Tanah Baru",
-    "Guliar",
-    "Karlomin",
-    "Otademan",
-    "Kurwara",
-    "Kilbutak",
-    "Ruma Durun",
-    "Tana Soa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ilili"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Effa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lahema"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Utta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kelangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Amarlaut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamher Warat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamher Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wunin Eldedora"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keldor"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tanah Baru"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Guliar"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Karlomin"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Otademan"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Kurwara"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kilbutak"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Ruma Durun"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tana Soa"
+    }
   ]
 }

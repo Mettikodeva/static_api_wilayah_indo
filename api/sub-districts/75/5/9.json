@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Monano",
-    "Tudi",
-    "Monas",
-    "Dunu",
-    "Garapia",
-    "Sogu",
-    "Pilohulata",
-    "Mokonowu",
-    "Tolitehuyu",
-    "Zuriyati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Monano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tudi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Monas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dunu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Garapia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sogu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pilohulata"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mokonowu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tolitehuyu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Zuriyati"
+    }
   ]
 }

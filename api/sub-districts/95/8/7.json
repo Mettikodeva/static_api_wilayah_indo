@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mbua (Mbuwa)",
-    "Otalama",
-    "Arugia",
-    "Opmu",
-    "Digilimu",
-    "Kogomaru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mbua (Mbuwa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Otalama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Arugia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Opmu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Digilimu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kogomaru"
+    }
   ]
 }

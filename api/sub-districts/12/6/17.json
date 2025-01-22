@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sukatendel (Suka Tendel)",
-    "Mardingding",
-    "Kutagaluh",
-    "Kutambaru",
-    "Jandimeriah (Jandi Meriah)",
-    "Tiganderket (Tiga Nderket)",
-    "Tanjung Pulo",
-    "Tanjung Merawa",
-    "Perbaji",
-    "Temburun",
-    "Kutakepar (Kuta Kepar)",
-    "Penampen",
-    "Tanjung Mbelang",
-    "Narigunung I (Nari Gunung Satu)",
-    "Narigunung II (Nari Gunung Dua)",
-    "Gunung Merlawan",
-    "Susuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukatendel (Suka Tendel)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mardingding"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kutagaluh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kutambaru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jandimeriah (Jandi Meriah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tiganderket (Tiga Nderket)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Pulo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Merawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perbaji"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Temburun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kutakepar (Kuta Kepar)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Penampen"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Mbelang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Narigunung I (Nari Gunung Satu)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Narigunung II (Nari Gunung Dua)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gunung Merlawan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Susuk"
+    }
   ]
 }

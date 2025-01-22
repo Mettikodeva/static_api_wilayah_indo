@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Gununggedangan (Gunung Gedangan)",
-    "Magersari",
-    "Gedongan",
-    "Balongsari",
-    "Kedundung",
-    "Wates"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gununggedangan (Gunung Gedangan)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Magersari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gedongan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Balongsari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kedundung"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Wates"
+    }
   ]
 }

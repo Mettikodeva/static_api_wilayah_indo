@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Patramanggala (Patra Manggala)",
-    "Karang Anyar",
-    "Lontar",
-    "Kemiri",
-    "Ranca Labuh",
-    "Klebet (Kjlebet / Kelebet)",
-    "Legok Suka Maju (Legok Sula Maju)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Patramanggala (Patra Manggala)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lontar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ranca Labuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klebet (Kjlebet / Kelebet)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Legok Suka Maju (Legok Sula Maju)"
+    }
   ]
 }

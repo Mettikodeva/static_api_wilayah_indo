@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kasemen",
-    "Mesjid Priyayi",
-    "Terumbu",
-    "Warung Jaud",
-    "Bendung",
-    "Banten",
-    "Sawah Luhur",
-    "Kilasah",
-    "Kasunyatan",
-    "Margaluyu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kasemen"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mesjid Priyayi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Terumbu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Warung Jaud"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bendung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Banten"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sawah Luhur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kilasah"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kasunyatan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Margaluyu"
+    }
   ]
 }

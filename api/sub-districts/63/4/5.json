@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Berangas Barat",
-    "Berangas",
-    "Handil Bakti",
-    "Pulau Alalak",
-    "Pulau Sewangi",
-    "Pulau Sugara",
-    "Sei/Sungai Lumbah",
-    "Berangas Timur",
-    "Sei Semangat Bhakti (Semangat Bakti)",
-    "Sei/Sungai Pitung",
-    "Belandean Muara",
-    "Belandean",
-    "Tanjung Harapan",
-    "Semangat Dalam",
-    "Beringin",
-    "Semangat Karya",
-    "Panca Karya",
-    "Tatah Mesjid"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Berangas Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Berangas"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Handil Bakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulau Alalak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Sewangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulau Sugara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Lumbah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Berangas Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei Semangat Bhakti (Semangat Bakti)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei/Sungai Pitung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Belandean Muara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Belandean"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Semangat Dalam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Semangat Karya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Panca Karya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tatah Mesjid"
+    }
   ]
 }

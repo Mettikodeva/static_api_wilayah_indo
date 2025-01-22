@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Pagagan Julu I (Pegagan Julu I)",
-    "Pagagan Julu X (Pegagan Julu X)",
-    "Pagagan Julu IX (Pegagan Julu IX)",
-    "Pagagan Julu VIII (Pegagan Julu VIII)",
-    "Pagagan Julu VII (Pegagan Julu VII)",
-    "Pagagan Julu VI (Pegagan Julu VI)",
-    "Pagagan Julu V (Pegagan Julu V)",
-    "Pagagan Julu IV (Pegagan Julu IV)",
-    "Pagagan Julu III (Pegagan Julu III)",
-    "Pagagan Julu II (Pegagan Julu II)",
-    "Tanjung Beringin",
-    "Dolok Tolong",
-    "Pargambiran",
-    "Perjuangan",
-    "Kuta Gugung",
-    "Sileuh leuh Parsaoran",
-    "Barisan Nauli",
-    "Pangguruan",
-    "Tanjung Beringin I"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pagagan Julu I (Pegagan Julu I)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagagan Julu X (Pegagan Julu X)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagagan Julu IX (Pegagan Julu IX)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagagan Julu VIII (Pegagan Julu VIII)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagagan Julu VII (Pegagan Julu VII)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagagan Julu VI (Pegagan Julu VI)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagagan Julu V (Pegagan Julu V)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagagan Julu IV (Pegagan Julu IV)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pagagan Julu III (Pegagan Julu III)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagagan Julu II (Pegagan Julu II)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dolok Tolong"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pargambiran"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Perjuangan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kuta Gugung"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sileuh leuh Parsaoran"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Barisan Nauli"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pangguruan"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tanjung Beringin I"
+    }
   ]
 }

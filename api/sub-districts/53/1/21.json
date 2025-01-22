@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Manubelon",
-    "Letkole",
-    "Nefoneut",
-    "Bioba Baru (Barutaen)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manubelon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Letkole"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nefoneut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bioba Baru (Barutaen)"
+    }
   ]
 }

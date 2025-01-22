@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jatimekar (Jati Mekar)",
-    "Jatiasih",
-    "Jatikramat",
-    "Jatirasa",
-    "Jatiluhur",
-    "Jatisari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jatimekar (Jati Mekar)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jatiasih"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jatikramat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jatirasa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jatiluhur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jatisari"
+    }
   ]
 }

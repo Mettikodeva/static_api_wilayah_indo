@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Meurandeh",
-    "Sukadamai (Suka Damai)",
-    "Cot Bak-U",
-    "Meunasah Sukon",
-    "Meunasah Teungoh / Tengah",
-    "Geulanggang Batee",
-    "Kuta Paya",
-    "Ujung Tanah",
-    "Padang Keulele/Kelele",
-    "Alue Rambot",
-    "Ladang Tuha I",
-    "Ladang Tuha II",
-    "Tokoh II",
-    "Kayee Aceh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meurandeh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukadamai (Suka Damai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cot Bak-U"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meunasah Sukon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meunasah Teungoh / Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Geulanggang Batee"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuta Paya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ujung Tanah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Keulele/Kelele"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Alue Rambot"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ladang Tuha I"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ladang Tuha II"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tokoh II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kayee Aceh"
+    }
   ]
 }

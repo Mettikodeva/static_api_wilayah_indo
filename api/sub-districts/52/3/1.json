@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tanjung Luar",
-    "Pijot",
-    "Selebung Ketangga",
-    "Sepit",
-    "Batu Putik",
-    "Senyiur",
-    "Keruak",
-    "Ketapang Raya",
-    "Pijot Utara",
-    "Dane Rase",
-    "Ketangga Jeraeng",
-    "Mendana Raya",
-    "Setungkep Lingsar",
-    "Montong Belae",
-    "Pulau Maringkik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Luar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pijot"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selebung Ketangga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sepit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Putik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senyiur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keruak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketapang Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pijot Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dane Rase"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketangga Jeraeng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mendana Raya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Setungkep Lingsar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Montong Belae"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pulau Maringkik"
+    }
   ]
 }

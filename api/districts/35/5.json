@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Wonodadi",
-    "Udanawu",
-    "Srengat",
-    "Kademangan",
-    "Bakung",
-    "Ponggok",
-    "Sanankulon (Sanan Kulon)",
-    "Wonotirto",
-    "Nglegok",
-    "Kanigoro",
-    "Garum",
-    "Sutojayan",
-    "Panggungrejo",
-    "Talun",
-    "Gandusari",
-    "Binangun",
-    "Wlingi",
-    "Doko",
-    "Kesamben",
-    "Wates",
-    "Selorejo",
-    "Selopuro"
+    {
+      "district_id": 1,
+      "kecamatan": "Wonodadi"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Udanawu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Srengat"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kademangan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bakung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Ponggok"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sanankulon (Sanan Kulon)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Wonotirto"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Nglegok"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kanigoro"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Garum"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sutojayan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Panggungrejo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Talun"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Gandusari"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Binangun"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Wlingi"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Doko"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kesamben"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Wates"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Selorejo"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Selopuro"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Keliki",
-    "Tegallalang",
-    "Kenderan",
-    "Kedisan",
-    "Pupuan",
-    "Sebatu",
-    "Taro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keliki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tegallalang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kenderan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedisan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pupuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sebatu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taro"
+    }
   ]
 }

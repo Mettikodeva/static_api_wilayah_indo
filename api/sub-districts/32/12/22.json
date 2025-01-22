@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cipedang",
-    "Sidamulya",
-    "Margamulya",
-    "Kertajaya",
-    "Bongas",
-    "Cipaat",
-    "Kertamulya",
-    "Plawangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipedang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidamulya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margamulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bongas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cipaat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kertamulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Plawangan"
+    }
   ]
 }

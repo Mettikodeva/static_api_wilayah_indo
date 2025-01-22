@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Rancah",
-    "Kiarapayung",
-    "Cileungsir",
-    "Cisontrol",
-    "Situmandala",
-    "Kawunglarang",
-    "Patakaharja",
-    "Bojonggedang",
-    "Karangpari",
-    "Dadiharja",
-    "Jangalaharja",
-    "Giriharja",
-    "Wangunsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rancah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kiarapayung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cileungsir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cisontrol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Situmandala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kawunglarang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Patakaharja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojonggedang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangpari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dadiharja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jangalaharja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Giriharja"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wangunsari"
+    }
   ]
 }

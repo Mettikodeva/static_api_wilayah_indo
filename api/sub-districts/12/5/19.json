@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Batang Serangan",
-    "Sei Bamban",
-    "Sei Musam",
-    "Sei Serdang",
-    "Namu/Namo Sialang",
-    "Kwala Musam",
-    "Karya Jadi",
-    "Paluh Pakeh Babussalam (Paluh Pakih Babussalam)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batang Serangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Bamban"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei Musam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Serdang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Namu/Namo Sialang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kwala Musam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karya Jadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paluh Pakeh Babussalam (Paluh Pakih Babussalam)"
+    }
   ]
 }

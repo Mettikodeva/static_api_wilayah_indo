@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Munggut",
-    "Wungu",
-    "Sidorejo",
-    "Mojopurno",
-    "Karangrejo",
-    "Brumbun",
-    "Kresek",
-    "Mojorayung",
-    "Bantengan",
-    "Pilangrejo",
-    "Tempursari",
-    "Nglanduk",
-    "Nglambangan",
-    "Sobrah"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Munggut"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Wungu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mojopurno"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Brumbun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kresek"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mojorayung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bantengan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pilangrejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tempursari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nglanduk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nglambangan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sobrah"
+    }
   ]
 }

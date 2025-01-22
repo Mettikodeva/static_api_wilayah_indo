@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tajurhalang (Tajur Halang)",
-    "Citayam",
-    "Sasak Panjang",
-    "Nanggerang",
-    "Sukmajaya",
-    "Tonjong",
-    "Kalisuren"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tajurhalang (Tajur Halang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Citayam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sasak Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nanggerang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukmajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tonjong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalisuren"
+    }
   ]
 }

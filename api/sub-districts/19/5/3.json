@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jebus",
-    "Sungai Buluh",
-    "Tumbak Petar",
-    "Limbung",
-    "Rukam",
-    "Ranggi Asam",
-    "Ketap",
-    "Mislak",
-    "Pebuar",
-    "Sinar Manik",
-    "Air Kuang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jebus"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbak Petar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Limbung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rukam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ranggi Asam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ketap"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mislak"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pebuar"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sinar Manik"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Air Kuang"
+    }
   ]
 }

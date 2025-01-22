@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Suoh",
-    "Srimulyo",
-    "Bandar Agung",
-    "Ringin Jaya",
-    "Bumi Hantatai",
-    "Gunungratu (Gunung Ratu)",
-    "Tanjungsari",
-    "Negeri Jaya",
-    "Tembelang",
-    "Tri Mekar Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suoh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Srimulyo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ringin Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Hantatai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunungratu (Gunung Ratu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Negeri Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tembelang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tri Mekar Jaya"
+    }
   ]
 }

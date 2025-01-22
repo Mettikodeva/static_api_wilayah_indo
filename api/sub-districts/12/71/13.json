@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pekan Labuhan",
-    "Sei Mati",
-    "Besar",
-    "Martubung",
-    "Nelayan Indah",
-    "Tangkahan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pekan Labuhan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sei Mati"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Besar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Martubung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nelayan Indah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tangkahan"
+    }
   ]
 }

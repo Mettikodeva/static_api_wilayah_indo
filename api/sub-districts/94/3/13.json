@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pugo",
-    "Waidide",
-    "Kopaidagi",
-    "Uwibutu",
-    "Tipago",
-    "Boba",
-    "Iyaidagi",
-    "Iyaitadi",
-    "Waiepo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pugo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waidide"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kopaidagi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Uwibutu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tipago"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Boba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Iyaidagi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Iyaitadi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waiepo"
+    }
   ]
 }

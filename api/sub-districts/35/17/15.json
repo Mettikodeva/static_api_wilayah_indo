@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Klitih",
-    "Plabuhan",
-    "Kampungbaru",
-    "Gebangbunder (Gebang Bunder)",
-    "Jatimlerek",
-    "Karangmojo (Karang Mojo)",
-    "Plandaan",
-    "Bangsri",
-    "Purisemanding",
-    "Tondowulan",
-    "Darurejo",
-    "Sumberjo",
-    "Jiporapah (Jipurapah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klitih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Plabuhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampungbaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gebangbunder (Gebang Bunder)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatimlerek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangmojo (Karang Mojo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Plandaan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangsri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purisemanding"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tondowulan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Darurejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumberjo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jiporapah (Jipurapah)"
+    }
   ]
 }

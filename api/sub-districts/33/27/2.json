@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Clekatakan",
-    "Batursari",
-    "Penakir",
-    "Gunungsari",
-    "Jurangmangu",
-    "Gambuhan",
-    "Karangsari",
-    "Nyalembeng",
-    "Pulosari",
-    "Pagenteran",
-    "Siremeng",
-    "Cikendung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Clekatakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batursari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Penakir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jurangmangu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gambuhan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nyalembeng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulosari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagenteran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Siremeng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cikendung"
+    }
   ]
 }

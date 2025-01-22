@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Negeri Kelumbayan",
-    "Pekon Susuk",
-    "Napal",
-    "Pekon Unggak",
-    "Penyandingan",
-    "Paku",
-    "Umbar",
-    "Kiluan Negeri (Kilauan Negeri)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Kelumbayan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pekon Susuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Napal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pekon Unggak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Umbar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kiluan Negeri (Kilauan Negeri)"
+    }
   ]
 }

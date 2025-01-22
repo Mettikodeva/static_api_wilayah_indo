@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mambor",
-    "Hariti",
-    "Moor",
-    "Kama",
-    "Arui"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mambor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hariti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Moor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arui"
+    }
   ]
 }

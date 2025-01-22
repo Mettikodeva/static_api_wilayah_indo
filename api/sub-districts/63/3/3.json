@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Gambut",
-    "Gambut Barat",
-    "Sei/Sungai Kupang",
-    "Guntung Papuyu",
-    "Makmur",
-    "Tambak Sirang Darat",
-    "Tambak Sirang Laut",
-    "Malintang",
-    "Kayu Bawang",
-    "Banyu Hirang",
-    "Guntung Ujung",
-    "Tambak Sirang Baru",
-    "Malintang Baru",
-    "Keladan Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gambut"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Gambut Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Kupang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Guntung Papuyu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambak Sirang Darat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambak Sirang Laut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malintang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kayu Bawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banyu Hirang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Guntung Ujung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambak Sirang Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Malintang Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Keladan Baru"
+    }
   ]
 }

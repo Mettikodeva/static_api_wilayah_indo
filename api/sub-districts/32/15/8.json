@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batujaya",
-    "Telukambulu",
-    "Telukbango",
-    "Karyabhakti (Karyabakti)",
-    "Baturaden",
-    "Segaran",
-    "Segarjaya",
-    "Kutaampel",
-    "Karyamulya",
-    "Karyamakmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batujaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telukambulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telukbango"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karyabhakti (Karyabakti)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baturaden"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Segaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Segarjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kutaampel"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karyamulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karyamakmur"
+    }
   ]
 }

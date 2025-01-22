@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tangkil",
-    "Wiyong",
-    "Kedongdong",
-    "Gintung Lor",
-    "Bojong Kulon",
-    "Kejiwan",
-    "Susukan",
-    "Luwung Kencana",
-    "Bunder",
-    "Jatipura",
-    "Ujunggebang",
-    "Jatianom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tangkil"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wiyong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedongdong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gintung Lor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojong Kulon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kejiwan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Susukan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Luwung Kencana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bunder"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatipura"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ujunggebang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jatianom"
+    }
   ]
 }

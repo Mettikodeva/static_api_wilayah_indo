@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Cemaga",
-    "Cemaga Selatan",
-    "Cemaga Utara",
-    "Cemaga Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cemaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cemaga Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cemaga Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cemaga Tengah"
+    }
   ]
 }

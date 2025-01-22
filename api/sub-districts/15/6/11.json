@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bram Itam Kiri (Bram Itan Kiri / Beram Itam)",
-    "Bram Itam Kanan (Bram Itan Kanan / Beram Itam)",
-    "Tanjungsenjulang (Tanjung Senjulang)",
-    "Pembengis",
-    "Bram Itam Raya",
-    "Pantaigading (Pantai Gading)",
-    "Jati Emas",
-    "Kemuning",
-    "Mekar Tanjung",
-    "Semau"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bram Itam Kiri (Bram Itan Kiri / Beram Itam)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bram Itam Kanan (Bram Itan Kanan / Beram Itam)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjungsenjulang (Tanjung Senjulang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pembengis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bram Itam Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pantaigading (Pantai Gading)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jati Emas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kemuning"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekar Tanjung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Semau"
+    }
   ]
 }

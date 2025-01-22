@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Matanga",
-    "Tolokibit",
-    "Bentean",
-    "Malino Padas",
-    "Kelapa Lima",
-    "Labuan Kapelak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Matanga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tolokibit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bentean"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malino Padas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kelapa Lima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labuan Kapelak"
+    }
   ]
 }

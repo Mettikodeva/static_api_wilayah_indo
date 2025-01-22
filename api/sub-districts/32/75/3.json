@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kaliabang Tengah (Kali Abang Tengah)",
-    "Perwira",
-    "Harapanbaru (Harapan Baru)",
-    "Teluk Pucung",
-    "Margamulya (Marga Mulya)",
-    "Harapanjaya (Harapan Jaya)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kaliabang Tengah (Kali Abang Tengah)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Perwira"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Harapanbaru (Harapan Baru)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Teluk Pucung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Margamulya (Marga Mulya)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Harapanjaya (Harapan Jaya)"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Megambilis",
-    "Tariko",
-    "Homasan",
-    "Higisyam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Megambilis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tariko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Homasan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Higisyam"
+    }
   ]
 }

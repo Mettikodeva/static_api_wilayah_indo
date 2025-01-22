@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Talang Arah",
-    "Serami Baru",
-    "Lubuk Talang",
-    "Gajah Makmur",
-    "Semambang Makmur (Semambung)",
-    "Talang Baru",
-    "Air Merah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talang Arah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Serami Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Talang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gajah Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semambang Makmur (Semambung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Merah"
+    }
   ]
 }

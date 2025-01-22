@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gome",
-    "Misimaga",
-    "Upaga",
-    "Agiyome",
-    "Yenggernok",
-    "Wako",
-    "Tegelobak",
-    "Ninggabuma",
-    "Kelanungin",
-    "Yonggolawi"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gome"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Misimaga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Upaga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Agiyome"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yenggernok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wako"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tegelobak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ninggabuma"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kelanungin"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Yonggolawi"
+    }
   ]
 }

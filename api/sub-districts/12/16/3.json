@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Marbun Toruan (Marbun)",
-    "Simamora",
-    "Tipang",
-    "Sinambela",
-    "Simangulampe",
-    "Siunong-Unong Julu",
-    "Marbun Tonga Marbun Dolok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marbun Toruan (Marbun)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simamora"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tipang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sinambela"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simangulampe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siunong-Unong Julu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marbun Tonga Marbun Dolok"
+    }
   ]
 }

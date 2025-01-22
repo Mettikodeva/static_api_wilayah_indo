@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lajo Kidul",
-    "Lajo Lor",
-    "Tanggir",
-    "Tanjungrejo",
-    "Binangun",
-    "Mergosari",
-    "Mulyoagung",
-    "Tunggulrejo",
-    "Tingkis",
-    "Mulyorejo",
-    "Saringembat",
-    "Kedungjambe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lajo Kidul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lajo Lor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanggir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mergosari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulyoagung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tunggulrejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tingkis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulyorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saringembat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kedungjambe"
+    }
   ]
 }

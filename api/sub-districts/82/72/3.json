@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Payahe",
-    "Woda",
-    "Gita",
-    "Toseho",
-    "Kususinopa",
-    "Bale",
-    "Koli",
-    "Kosa",
-    "Tului",
-    "Todopa",
-    "Talasi",
-    "Sigela Yef",
-    "Talagamori"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Payahe"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Woda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gita"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toseho"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kususinopa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bale"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Koli"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kosa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tului"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Todopa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Talasi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sigela Yef"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Talagamori"
+    }
   ]
 }

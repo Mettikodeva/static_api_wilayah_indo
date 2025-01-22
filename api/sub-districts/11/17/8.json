@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bandar Jaya (Batin Bandar Jaya)",
-    "Jongok Meluem",
-    "Suku Bener",
-    "Bener Lukup II",
-    "Gunung Musara",
-    "Bener Kelipah Selatan",
-    "Bener Bintang Musara (Bintang Musara)",
-    "Kala Tenang",
-    "Bener Kelipah Utara",
-    "Lot Bener Kelipah",
-    "Nosar Tawar Jaya",
-    "Nosar Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandar Jaya (Batin Bandar Jaya)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jongok Meluem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suku Bener"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bener Lukup II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Musara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bener Kelipah Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bener Bintang Musara (Bintang Musara)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kala Tenang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bener Kelipah Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lot Bener Kelipah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nosar Tawar Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nosar Baru"
+    }
   ]
 }

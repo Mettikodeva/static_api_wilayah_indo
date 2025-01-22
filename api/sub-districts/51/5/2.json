@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Negari",
-    "Takmung",
-    "Banjarangkan",
-    "Tusan",
-    "Bakas",
-    "Getakan",
-    "Tihingan",
-    "Aan",
-    "Nyalian",
-    "Bungbungan",
-    "Timuhun",
-    "Nyanglan",
-    "Tohpati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Takmung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjarangkan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tusan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bakas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Getakan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tihingan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nyalian"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bungbungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Timuhun"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nyanglan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tohpati"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Munjul",
-    "Babakan Jawa",
-    "Cicurug",
-    "Sindangkasih",
-    "Majalengka Wetan",
-    "Majalengka Kulon",
-    "Tarikolot",
-    "Cikasarung",
-    "Tonjong",
-    "Cijati",
-    "Kulur",
-    "Kawunggirang",
-    "Sidamukti",
-    "Cibodas"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Munjul"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Babakan Jawa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cicurug"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sindangkasih"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Majalengka Wetan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Majalengka Kulon"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tarikolot"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Cikasarung"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tonjong"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Cijati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kulur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kawunggirang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidamukti"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cibodas"
+    }
   ]
 }

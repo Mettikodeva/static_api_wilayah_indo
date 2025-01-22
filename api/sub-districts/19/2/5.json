@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Badau",
-    "Air Batu Buding (Air Batu)",
-    "Sungai Samak",
-    "Kacang Butor (Kacang Botor)",
-    "Cerucuk",
-    "Pegantungan",
-    "Ibul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Badau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Batu Buding (Air Batu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Samak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kacang Butor (Kacang Botor)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cerucuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pegantungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ibul"
+    }
   ]
 }

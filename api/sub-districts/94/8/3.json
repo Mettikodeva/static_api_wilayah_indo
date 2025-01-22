@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kopai Satu (I)",
-    "Kopai Dua (II)",
-    "Woge",
-    "Yewadide",
-    "Mudetadi",
-    "Diita"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kopai Satu (I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kopai Dua (II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Woge"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yewadide"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mudetadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Diita"
+    }
   ]
 }

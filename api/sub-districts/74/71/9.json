@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Puuwatu (Puwatu)",
-    "Watulondo",
-    "Punggolaka",
-    "Tobuuha",
-    "Abeli Dalam",
-    "Lalodati"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Puuwatu (Puwatu)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Watulondo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Punggolaka"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tobuuha"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Abeli Dalam"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lalodati"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jayapura",
-    "Bunga Mayang",
-    "Way Salak",
-    "Mendah",
-    "Tumijaya",
-    "Condong",
-    "Peracak Jaya",
-    "Kambang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jayapura"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bunga Mayang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Way Salak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mendah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumijaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Condong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Peracak Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kambang"
+    }
   ]
 }

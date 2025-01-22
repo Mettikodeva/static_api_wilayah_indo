@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bojongsari (Bojong Sari / Lama)",
-    "Bojongsari Baru (Bojong Sari Baru)",
-    "Serua",
-    "Pondok Petir",
-    "Curug",
-    "Duren Mekar",
-    "Duren Seribu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bojongsari (Bojong Sari / Lama)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bojongsari Baru (Bojong Sari Baru)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Serua"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pondok Petir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Duren Mekar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Duren Seribu"
+    }
   ]
 }

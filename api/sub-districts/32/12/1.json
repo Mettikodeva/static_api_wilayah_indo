@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Haurkolot",
-    "Haurgeulis",
-    "Sukajati",
-    "Wanakaya",
-    "Karangtumaritis",
-    "Kertanegara",
-    "Cipancuh",
-    "Mekarjati",
-    "Sidodadi (Sidadadi)",
-    "Sumbermulya"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Haurkolot"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Haurgeulis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukajati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wanakaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karangtumaritis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kertanegara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cipancuh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekarjati"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sidodadi (Sidadadi)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sumbermulya"
+    }
   ]
 }

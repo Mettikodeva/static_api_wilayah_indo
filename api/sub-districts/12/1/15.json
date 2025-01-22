@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Hutabalang",
-    "Lopian",
-    "Jago Jago",
-    "Aek Horsik",
-    "Gunung Kelambu",
-    "Kebun Pisang",
-    "Lubuk Ampolu",
-    "Pagaran Honas",
-    "Sitardas"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Hutabalang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lopian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jago Jago"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aek Horsik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Kelambu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebun Pisang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Ampolu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagaran Honas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sitardas"
+    }
   ]
 }

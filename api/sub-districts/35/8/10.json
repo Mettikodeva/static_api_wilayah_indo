@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Citrodiwangsan",
-    "Ditotrunan",
-    "Jogotrunan",
-    "Jogoyudan",
-    "Rogotrunan",
-    "Tompokersan",
-    "Kepuharjo",
-    "Banjarwaru",
-    "Labruk Lor",
-    "Denok",
-    "Blukon",
-    "Boreng"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Citrodiwangsan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ditotrunan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jogotrunan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Jogoyudan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Rogotrunan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tompokersan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kepuharjo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjarwaru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labruk Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Denok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blukon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Boreng"
+    }
   ]
 }

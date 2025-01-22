@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Watesprojo",
-    "Betro",
-    "Kedungsari",
-    "Mojojajar",
-    "Beratkulon",
-    "Mojosarirejo",
-    "Mojowiryo",
-    "Mojowatesrejo",
-    "Mojogebang",
-    "Mojopilang",
-    "Mojokusumo",
-    "Japanan",
-    "Mojokumpul",
-    "Tanjungan",
-    "Mojorejo",
-    "Mojodadi",
-    "Kemlagi",
-    "Mojowono",
-    "Pandankrajan",
-    "Mojodowo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Watesprojo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mojojajar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beratkulon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mojosarirejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mojowiryo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mojowatesrejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mojogebang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mojopilang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mojokusumo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Japanan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mojokumpul"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjungan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mojorejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mojodadi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kemlagi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mojowono"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pandankrajan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mojodowo"
+    }
   ]
 }

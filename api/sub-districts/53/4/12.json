@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kota Atambua (Atambua kota)",
-    "Tenukiik",
-    "Manumutin",
-    "Fatubenao"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kota Atambua (Atambua kota)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tenukiik"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Manumutin"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Fatubenao"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sungai Ayak Satu",
-    "Sungai Ayak Dua",
-    "Entabuk",
-    "Tapang Pulau",
-    "Kumpang Bis",
-    "Menawai Tekam",
-    "Semadu",
-    "Merbang",
-    "Empajak",
-    "Sepantak",
-    "Melanjan Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Ayak Satu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Ayak Dua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Entabuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapang Pulau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumpang Bis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menawai Tekam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semadu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Merbang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Empajak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sepantak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Melanjan Raya"
+    }
   ]
 }

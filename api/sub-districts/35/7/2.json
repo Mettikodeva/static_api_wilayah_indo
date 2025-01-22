@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sumbermanjing Kulon",
-    "Pandanrejo",
-    "Sumberkerto",
-    "Sempol",
-    "Pagak",
-    "Tlogorejo",
-    "Gampingan",
-    "Sumberejo (Sumberrejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumbermanjing Kulon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pandanrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberkerto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sempol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tlogorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gampingan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberejo (Sumberrejo)"
+    }
   ]
 }

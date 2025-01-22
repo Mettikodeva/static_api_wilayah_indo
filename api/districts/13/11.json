@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Sangir",
-    "Sungai Pagu",
-    "Koto Parik Gadang Diateh",
-    "Sangir Jujuan",
-    "Sangir Batang Hari",
-    "Pauh Duo",
-    "Sangir Balai Janggo"
+    {
+      "district_id": 1,
+      "kecamatan": "Sangir"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sungai Pagu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Koto Parik Gadang Diateh"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sangir Jujuan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sangir Batang Hari"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pauh Duo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sangir Balai Janggo"
+    }
   ]
 }

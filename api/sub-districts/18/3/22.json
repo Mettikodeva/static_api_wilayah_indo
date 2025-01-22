@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Aji Kagungan",
-    "Talang Jembatan",
-    "Sabuk Empat",
-    "Beringin",
-    "Sabuk Indah",
-    "Bindu",
-    "Way Perancang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aji Kagungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Jembatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sabuk Empat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sabuk Indah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bindu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Way Perancang"
+    }
   ]
 }

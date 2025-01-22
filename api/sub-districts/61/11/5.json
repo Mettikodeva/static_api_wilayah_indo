@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Seponti Jaya",
-    "Telaga Arum",
-    "Wonorejo",
-    "Podorukun (Podo Rukun)",
-    "Sei/Sungai Sepeti",
-    "Durian Sebatang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seponti Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telaga Arum"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Podorukun (Podo Rukun)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Sepeti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Durian Sebatang"
+    }
   ]
 }

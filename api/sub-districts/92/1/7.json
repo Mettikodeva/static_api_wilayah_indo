@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Aimas",
-    "Malawili",
-    "Malawele",
-    "Mariat Pantai",
-    "Mariat Gunung",
-    "Warmon",
-    "Klabinain",
-    "Malasom",
-    "Klaigit",
-    "Malagusa",
-    "Klafma",
-    "Maibo",
-    "Aimo",
-    "Malasaum"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Aimas"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Malawili"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Malawele"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mariat Pantai"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Mariat Gunung"
+    },
+    {
+      "sub_district_id": 1029,
+      "desa_kelurahan": "Warmon"
+    },
+    {
+      "sub_district_id": 1030,
+      "desa_kelurahan": "Klabinain"
+    },
+    {
+      "sub_district_id": 1031,
+      "desa_kelurahan": "Malasom"
+    },
+    {
+      "sub_district_id": 1032,
+      "desa_kelurahan": "Klaigit"
+    },
+    {
+      "sub_district_id": 1034,
+      "desa_kelurahan": "Malagusa"
+    },
+    {
+      "sub_district_id": 1035,
+      "desa_kelurahan": "Klafma"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Maibo"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Aimo"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Malasaum"
+    }
   ]
 }

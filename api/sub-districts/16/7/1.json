@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mariana",
-    "Mariana Ilir",
-    "Sungairebo (Sungai Rebo)",
-    "Sungaigerong (Sungai Gerong)",
-    "Merah Mata",
-    "Perajen",
-    "Cinta Manis Lama",
-    "Perambahan",
-    "Pematang Palas",
-    "Tirto Sari",
-    "Pulauborang (Pulau Borang)",
-    "Perambahan Baru",
-    "Duren Ijo"
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Mariana"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Mariana Ilir"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungairebo (Sungai Rebo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungaigerong (Sungai Gerong)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Merah Mata"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perajen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cinta Manis Lama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perambahan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pematang Palas"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tirto Sari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pulauborang (Pulau Borang)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Perambahan Baru"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Duren Ijo"
+    }
   ]
 }

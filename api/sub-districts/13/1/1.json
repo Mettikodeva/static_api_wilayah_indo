@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Inderapura",
-    "Muaro Sakai Inderapura",
-    "Tiga Sepakat Inderapura",
-    "Indrapura/Inderapura Barat",
-    "Kudo-Kudo Inderapura",
-    "Indrapura/Inderapura Selatan",
-    "Simpang Lama Inderapura",
-    "Tigo Sungai Inderapura (Tigosungai Inderapura)",
-    "Tluk Amplu Inderapura",
-    "Indrapura/Inderapura Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Inderapura"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muaro Sakai Inderapura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tiga Sepakat Inderapura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Indrapura/Inderapura Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kudo-Kudo Inderapura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Indrapura/Inderapura Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Lama Inderapura"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tigo Sungai Inderapura (Tigosungai Inderapura)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tluk Amplu Inderapura"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Indrapura/Inderapura Tengah"
+    }
   ]
 }

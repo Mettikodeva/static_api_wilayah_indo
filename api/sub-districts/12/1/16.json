@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Suga Suga Hutagodang",
-    "Suka Maju",
-    "Makmur",
-    "Pasaribu Tobing",
-    "Aek Nadua",
-    "Simargarap",
-    "Sidaling",
-    "Sipakpahi",
-    "PO Simargarap"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suga Suga Hutagodang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Makmur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasaribu Tobing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aek Nadua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simargarap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidaling"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sipakpahi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "PO Simargarap"
+    }
   ]
 }

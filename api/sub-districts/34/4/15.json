@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bangunkerto (Bangun Kerto)",
-    "Donokerto",
-    "Girikerto (Giri Kerto)",
-    "Wonokerto (Wono Kerto)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangunkerto (Bangun Kerto)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Donokerto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Girikerto (Giri Kerto)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonokerto (Wono Kerto)"
+    }
   ]
 }

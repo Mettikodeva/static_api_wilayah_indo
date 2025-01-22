@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pisugi",
-    "Pabuma",
-    "Aikima",
-    "Pikhe",
-    "Akiaput",
-    "Suroba",
-    "Wara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pisugi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pabuma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aikima"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pikhe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Akiaput"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suroba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wara"
+    }
   ]
 }

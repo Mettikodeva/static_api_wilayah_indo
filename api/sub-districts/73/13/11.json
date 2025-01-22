@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Solo",
-    "Bola",
-    "Ujungtanah (Ujung Tanah)",
-    "Lempong",
-    "Sanreseng Ade",
-    "Pattangngae (Patangae)",
-    "Balielo",
-    "Manurung",
-    "Lattimu",
-    "Pasir Putih",
-    "Raja Mawelang (Rajamawelang / Rajamawellang)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Solo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bola"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujungtanah (Ujung Tanah)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lempong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sanreseng Ade"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pattangngae (Patangae)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balielo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manurung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lattimu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Raja Mawelang (Rajamawelang / Rajamawellang)"
+    }
   ]
 }

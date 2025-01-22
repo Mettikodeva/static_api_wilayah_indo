@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Terantang",
-    "Tanipah",
-    "Puntik Luar",
-    "Puntik Dalam",
-    "Tabing Rimbah",
-    "Pantai Hambawang",
-    "Tatah Alayung",
-    "Puntik Tengah",
-    "Lokrawa (Lok Rawa)",
-    "Sei/Sungai Ramania",
-    "Bangkit Baru",
-    "Antasan Segera (Antasan Segara)",
-    "Karang Bunga",
-    "Karang Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Terantang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanipah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puntik Luar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Puntik Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabing Rimbah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pantai Hambawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tatah Alayung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puntik Tengah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lokrawa (Lok Rawa)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sei/Sungai Ramania"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bangkit Baru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Antasan Segera (Antasan Segara)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Karang Bunga"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Karang Indah"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Guraping",
-    "Sofifi",
-    "Kaiyasa",
-    "Oba",
-    "Somahode",
-    "Ake Kolano",
-    "Balbar",
-    "Bukit Durian",
-    "Galala",
-    "Ampera",
-    "Kusu",
-    "Garojou",
-    "Gosale"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Guraping"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sofifi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaiyasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Somahode"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ake Kolano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Balbar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Durian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Galala"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ampera"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kusu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Garojou"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gosale"
+    }
   ]
 }

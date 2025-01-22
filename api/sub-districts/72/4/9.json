@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Santigi",
-    "Laulalang",
-    "Salumpaga",
-    "Diule",
-    "Pinjan",
-    "Binontoan",
-    "Lakuan Tolitoli (Lakuan Toli Toli)",
-    "Timbolo",
-    "Teluk Jaya",
-    "Gio"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Santigi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laulalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salumpaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Diule"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pinjan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Binontoan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lakuan Tolitoli (Lakuan Toli Toli)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Timbolo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Teluk Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gio"
+    }
   ]
 }

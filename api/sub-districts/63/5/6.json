@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Keladan (Kaladan)",
-    "Sungai Selai (Sei / Sungai Salai)",
-    "Pariok",
-    "Margasari Hilir (Margasari Ilir)",
-    "Batalas",
-    "Rawana",
-    "Buas Buas",
-    "Teluk Haur",
-    "Sei/Sungai Puting",
-    "Sawaja",
-    "Sungai Selai Hilir (Sei / Sungai Salai Hilir)",
-    "Buas Buas Hilir",
-    "Rawana Hulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keladan (Kaladan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Selai (Sei / Sungai Salai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pariok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Margasari Hilir (Margasari Ilir)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batalas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buas Buas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Haur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Puting"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sawaja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Selai Hilir (Sei / Sungai Salai Hilir)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Buas Buas Hilir"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rawana Hulu"
+    }
   ]
 }

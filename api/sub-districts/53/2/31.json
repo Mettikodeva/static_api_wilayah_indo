@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tobu",
-    "Tutem",
-    "Tune",
-    "Bonleu",
-    "Pubasu",
-    "Huetalan",
-    "Saubalan",
-    "Bestobe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tobu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tutem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tune"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bonleu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pubasu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Huetalan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Saubalan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bestobe"
+    }
   ]
 }

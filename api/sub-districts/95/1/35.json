@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Welesi",
-    "Yagara",
-    "Asojelipele",
-    "Lantipo",
-    "Pawekama",
-    "Apenas",
-    "Tulima"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Welesi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yagara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asojelipele"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lantipo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pawekama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Apenas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tulima"
+    }
   ]
 }

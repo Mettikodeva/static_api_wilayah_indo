@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bantarjati",
-    "Tegal Gundil",
-    "Kedung Halang (Kedunghalang)",
-    "Ciparigi",
-    "Cibuluh",
-    "Ciluar",
-    "Tanah Baru",
-    "Cimahpar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bantarjati"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tegal Gundil"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedung Halang (Kedunghalang)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ciparigi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cibuluh"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Ciluar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanah Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cimahpar"
+    }
   ]
 }

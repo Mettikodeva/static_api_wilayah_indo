@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Situraja Utara",
-    "Situraja",
-    "Mekarmulya",
-    "Cikadu",
-    "Bangbayang",
-    "Kaduwulung",
-    "Karangheuleut",
-    "Cijeler",
-    "Ambit",
-    "Jatimekar",
-    "Cijati",
-    "Pamulihan",
-    "Malaka",
-    "Sukatali",
-    "Cicarimanah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Situraja Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Situraja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekarmulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikadu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangbayang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaduwulung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangheuleut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cijeler"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ambit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatimekar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cijati"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pamulihan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Malaka"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukatali"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cicarimanah"
+    }
   ]
 }

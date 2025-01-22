@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Purwodadi",
-    "Mangun Harjo",
-    "Bangun Sari",
-    "Kerto Sari (Kertosari)",
-    "Pagar Sari (Pagarsari)",
-    "Mardi Harjo (Mardiharjo)",
-    "Karya Dadi (Karyadadi)",
-    "Rejo Sari (Rejosari)",
-    "Sadar Karya",
-    "Purwakarya (Purwa Karya)",
-    "Tri Karya (Trikarya)"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mangun Harjo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun Sari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kerto Sari (Kertosari)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Sari (Pagarsari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mardi Harjo (Mardiharjo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karya Dadi (Karyadadi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sadar Karya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purwakarya (Purwa Karya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tri Karya (Trikarya)"
+    }
   ]
 }

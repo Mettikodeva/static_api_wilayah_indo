@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Wayu",
-    "Taipanggabe",
-    "Matantimali",
-    "Lewara",
-    "Dombu",
-    "Soi",
-    "Wugaga",
-    "Panasibaja",
-    "Ongulero",
-    "Wiapore",
-    "Wawujai",
-    "Lemosiranindi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wayu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taipanggabe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matantimali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lewara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dombu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Soi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wugaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panasibaja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ongulero"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wiapore"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wawujai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lemosiranindi"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Buk",
-    "Oenenu",
-    "Nimasi",
-    "Oelbonak",
-    "Kuenak",
-    "Oenino",
-    "Oenenu Utara",
-    "Oenenu Selatan",
-    "Sono"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oenenu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nimasi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oelbonak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuenak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oenino"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Oenenu Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oenenu Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sono"
+    }
   ]
 }

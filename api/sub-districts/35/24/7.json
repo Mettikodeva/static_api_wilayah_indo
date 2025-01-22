@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Brondong",
-    "Lohgung",
-    "Labuhan",
-    "Sidomukti",
-    "Brengkok",
-    "Tlogoretno",
-    "Sendangharjo",
-    "Lembor",
-    "Sedayulawas",
-    "Sumberagung"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Brondong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lohgung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Brengkok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tlogoretno"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sendangharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lembor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sedayulawas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberagung"
+    }
   ]
 }

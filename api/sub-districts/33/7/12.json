@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Garung",
-    "Lengkong",
-    "Gemblengan",
-    "Sendangsari",
-    "Kayugiyang",
-    "Siwuran",
-    "Kuripan",
-    "Jengkol",
-    "Tlogo",
-    "Maron",
-    "Menjer",
-    "Mlandi",
-    "Laranganlor (Larangan Lor)",
-    "Sitiharjo",
-    "Tegalsari"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Garung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gemblengan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sendangsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kayugiyang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siwuran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jengkol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tlogo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maron"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Menjer"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mlandi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Laranganlor (Larangan Lor)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sitiharjo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tegalsari"
+    }
   ]
 }

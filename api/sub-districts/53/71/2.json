@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Oepura",
-    "Maulafa",
-    "Penfui",
-    "Naimata",
-    "Bello",
-    "Fatukoa",
-    "Kolhua",
-    "Sikumana",
-    "Naikolan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Oepura"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Maulafa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Penfui"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Naimata"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bello"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Fatukoa"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kolhua"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sikumana"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Naikolan"
+    }
   ]
 }

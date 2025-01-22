@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Karangasem",
-    "Slogo",
-    "Jono",
-    "Gawan",
-    "Kecik",
-    "Pengkol",
-    "Suwatu",
-    "Ketro",
-    "Padas",
-    "Tanon",
-    "Gabugan",
-    "Sambiduwur (Sambi Duwur)",
-    "Karangtalun (Karang Talun)",
-    "Bonagung",
-    "Kalikobok",
-    "Gading"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangasem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Slogo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gawan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kecik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pengkol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suwatu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gabugan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sambiduwur (Sambi Duwur)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karangtalun (Karang Talun)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bonagung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kalikobok"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gading"
+    }
   ]
 }

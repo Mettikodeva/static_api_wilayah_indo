@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Buru",
-    "Lubuk Puding",
-    "Tanjung Hutan",
-    "Tanjung Batu Kecil"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Buru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lubuk Puding"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Hutan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Batu Kecil"
+    }
   ]
 }

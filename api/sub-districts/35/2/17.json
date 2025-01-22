@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Paju",
-    "Brotonegaran",
-    "Pakunden",
-    "Kepatihan",
-    "Surodikraman",
-    "Purbosuman",
-    "Tonatan",
-    "Bangunsari",
-    "Tamanarum (Taman Arum)",
-    "Kauman",
-    "Tambakbayan (Tambak Bayan)",
-    "Pinggirsari (Pinggir Sari)",
-    "Mangkujayan",
-    "Banyudono",
-    "Nologaten",
-    "Cokromenggalan",
-    "Keniten",
-    "Jingglong",
-    "Beduri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Paju"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Brotonegaran"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pakunden"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Surodikraman"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Purbosuman"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tonatan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bangunsari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tamanarum (Taman Arum)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tambakbayan (Tambak Bayan)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pinggirsari (Pinggir Sari)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Mangkujayan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Banyudono"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Nologaten"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Cokromenggalan"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Keniten"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Jingglong"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Beduri"
+    }
   ]
 }

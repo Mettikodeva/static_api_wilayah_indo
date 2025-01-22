@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lumut",
-    "Aek Gambir",
-    "Masundung",
-    "Lumut Nauli",
-    "Lumut Maju",
-    "Sialogo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lumut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aek Gambir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Masundung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lumut Nauli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lumut Maju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sialogo"
+    }
   ]
 }

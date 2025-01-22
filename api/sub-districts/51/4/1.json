@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Batubulan",
-    "Ketewel",
-    "Guwang",
-    "Sukawati",
-    "Celuk",
-    "Singapadu",
-    "Batuan",
-    "Kemenuh",
-    "Batubulan Kangin",
-    "Singapadu Tengah",
-    "Singapadu Kaler",
-    "Batuan Kaler"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batubulan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ketewel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Guwang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukawati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Celuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Singapadu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batuan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kemenuh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batubulan Kangin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Singapadu Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Singapadu Kaler"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batuan Kaler"
+    }
   ]
 }

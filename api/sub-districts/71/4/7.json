@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Melonguane",
-    "Melonguane Timur",
-    "Melonguane Barat",
-    "Mala",
-    "Kiama",
-    "Tarun",
-    "Sawang",
-    "Ambela",
-    "Tarun Selatan",
-    "Kiama Barat",
-    "Maredaren Utara",
-    "Sawang Utara",
-    "Mala Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Melonguane"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Melonguane Timur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Melonguane Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kiama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tarun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ambela"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tarun Selatan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kiama Barat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Maredaren Utara"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sawang Utara"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mala Timur"
+    }
   ]
 }

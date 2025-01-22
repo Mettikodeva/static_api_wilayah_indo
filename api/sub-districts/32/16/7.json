@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wanasari",
-    "Wanajaya",
-    "Kertamukti (Kerta Mukti)",
-    "Muktiwari",
-    "Sarimukti",
-    "Sukajaya",
-    "Cibuntu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertamukti (Kerta Mukti)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muktiwari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sarimukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cibuntu"
+    }
   ]
 }

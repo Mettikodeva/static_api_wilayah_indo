@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sawang",
-    "Sawang Selatan",
-    "Sawang Laut",
-    "Kundur",
-    "Gemuruh"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sawang Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sawang Laut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kundur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gemuruh"
+    }
   ]
 }

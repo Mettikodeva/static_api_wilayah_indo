@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kalisat",
-    "Tampung",
-    "Pajaran",
-    "Siyar",
-    "Genengwaru (Geneng Waru)",
-    "Kanigoro",
-    "Sumberglagah (Sumber Glagah)",
-    "Krengih",
-    "Rembang",
-    "Oro-Orobulu (Orobulu)",
-    "Kedung Banteng",
-    "Oro-Oro Ombowetan (Oroombo Wetan)",
-    "Oro-Oro Ombokulon (Oroombo Kulon)",
-    "Pekoren",
-    "Pejangkungan",
-    "Pandean",
-    "Mojoparon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalisat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tampung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pajaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Genengwaru (Geneng Waru)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kanigoro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberglagah (Sumber Glagah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Krengih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rembang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Oro-Orobulu (Orobulu)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedung Banteng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Oro-Oro Ombowetan (Oroombo Wetan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Oro-Oro Ombokulon (Oroombo Kulon)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pekoren"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pejangkungan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pandean"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mojoparon"
+    }
   ]
 }

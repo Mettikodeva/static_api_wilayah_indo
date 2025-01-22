@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sisobawino II",
-    "Duria",
-    "Ambukha",
-    "Hilimbowo Mau",
-    "Hilimbuasi",
-    "Lolofitu",
-    "Hiliuso",
-    "Wango"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sisobawino II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Duria"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ambukha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hilimbowo Mau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hilimbuasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lolofitu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hiliuso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wango"
+    }
   ]
 }

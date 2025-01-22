@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tanjung Batu Barat",
-    "Tanjung Batu Kota",
-    "Gading Sari",
-    "Sungai Sebesi",
-    "Sungai Ungar",
-    "Lubuk"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Batu Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Batu Kota"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gading Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Sebesi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Ungar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk"
+    }
   ]
 }

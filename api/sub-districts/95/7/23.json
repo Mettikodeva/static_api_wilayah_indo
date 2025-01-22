@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wamiru",
-    "Dugu-dugu",
-    "Andugume",
-    "Tinime",
-    "Mume",
-    "Nenggeya",
-    "Tenawi",
-    "Kobanu",
-    "Piragi",
-    "Nabei",
-    "Mingga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wamiru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dugu-dugu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Andugume"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tinime"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mume"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nenggeya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tenawi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kobanu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Piragi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nabei"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mingga"
+    }
   ]
 }

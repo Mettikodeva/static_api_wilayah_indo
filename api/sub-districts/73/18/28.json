@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kondodewata (Kondo Dewata)",
-    "Tanete",
-    "Dewata",
-    "Miallo",
-    "Sengpeparikan",
-    "Butang"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kondodewata (Kondo Dewata)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanete"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dewata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Miallo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sengpeparikan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Butang"
+    }
   ]
 }

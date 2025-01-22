@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pagesangan",
-    "Mataram Timur",
-    "Pagutan",
-    "Pagesangan Barat",
-    "Pagesangan Timur",
-    "Pejanggik",
-    "Punia",
-    "Pagutan Timur",
-    "Pagutan Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pagesangan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mataram Timur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pagutan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pagesangan Barat"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pagesangan Timur"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pejanggik"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Punia"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pagutan Timur"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pagutan Barat"
+    }
   ]
 }

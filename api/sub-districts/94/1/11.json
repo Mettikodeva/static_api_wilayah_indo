@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Totoberi",
-    "Samanui",
-    "Kamarisanoi",
-    "Taumi",
-    "Keuw"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Totoberi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Samanui"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kamarisanoi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taumi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keuw"
+    }
   ]
 }

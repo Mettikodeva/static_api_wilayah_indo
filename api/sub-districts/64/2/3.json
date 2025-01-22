@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bakungan",
-    "Loa Duri Ulu",
-    "Loa Janan Ulu",
-    "Purwajaya",
-    "Tani Bhakti (Tani Bakti)",
-    "Batuah",
-    "Loa Duri Ilir",
-    "Tani Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bakungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Loa Duri Ulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Loa Janan Ulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tani Bhakti (Tani Bakti)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batuah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Loa Duri Ilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tani Harapan"
+    }
   ]
 }

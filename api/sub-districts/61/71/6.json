@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bansir Laut",
-    "Bansir Darat",
-    "Bangka Belitung Laut",
-    "Bangka Belitung Darat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bansir Laut"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bansir Darat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bangka Belitung Laut"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bangka Belitung Darat"
+    }
   ]
 }

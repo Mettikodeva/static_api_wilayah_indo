@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lempelero",
-    "Gimpu",
-    "Tomua",
-    "Tompi Bugis",
-    "Lawua",
-    "Watukilo",
-    "Salutome",
-    "O'o Parese (O'o)",
-    "Palimakijawa (Pilimakujawa/Makujawa)",
-    "Moa",
-    "Wangka",
-    "Palamaki"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lempelero"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gimpu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tomua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tompi Bugis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lawua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Watukilo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salutome"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "O'o Parese (O'o)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palimakijawa (Pilimakujawa/Makujawa)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Moa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wangka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Palamaki"
+    }
   ]
 }

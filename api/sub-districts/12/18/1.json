@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pantai Cermin Kanan",
-    "Pantai Cermin Kiri",
-    "Kota Pari",
-    "Celawan",
-    "Ujung Rambung",
-    "Kuala Lama",
-    "Besar II Terjun (Besar 2 Terjun)",
-    "Sementara",
-    "Ara Payung",
-    "Pematang Kasih",
-    "Lubuk Saban",
-    "Naga Kisar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pantai Cermin Kanan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pantai Cermin Kiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota Pari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Celawan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ujung Rambung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuala Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Besar II Terjun (Besar 2 Terjun)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sementara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ara Payung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pematang Kasih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lubuk Saban"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Naga Kisar"
+    }
   ]
 }

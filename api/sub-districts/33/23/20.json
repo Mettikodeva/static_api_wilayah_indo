@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gemawang",
-    "Muncar",
-    "Kemiriombo",
-    "Ngadisepi",
-    "Krempong",
-    "Sucen",
-    "Karangseneng",
-    "Banaran",
-    "Kalibanger",
-    "Jambon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gemawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muncar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kemiriombo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngadisepi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Krempong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sucen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangseneng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalibanger"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jambon"
+    }
   ]
 }

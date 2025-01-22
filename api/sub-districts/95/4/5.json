@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Goyage",
-    "Yemarima (Yemarma)",
-    "Tigikun (Tagikun / Tigikum)",
-    "Dugi",
-    "Doge",
-    "Benari",
-    "Wijamurik",
-    "Woji",
-    "Mampulaga (Nampulaga)",
-    "Tidur Mabuk",
-    "Bini",
-    "Didelonik",
-    "Kumbur (Kumbu)",
-    "Peko (Peku)",
-    "Tiri",
-    "Tigir",
-    "Bopa (Bobe)",
-    "Angkasa",
-    "Gilok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Goyage"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yemarima (Yemarma)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tigikun (Tagikun / Tigikum)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dugi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Doge"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Benari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wijamurik"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Woji"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Mampulaga (Nampulaga)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tidur Mabuk"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bini"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Didelonik"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kumbur (Kumbu)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Peko (Peku)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tiri"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Tigir"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Bopa (Bobe)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Angkasa"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Gilok"
+    }
   ]
 }

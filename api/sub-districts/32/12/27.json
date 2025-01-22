@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cibeber",
-    "Bondan",
-    "Gunungsari",
-    "Sukagumiwang",
-    "Tersana",
-    "Cadang Pinggan (Cadangpinggan)",
-    "Gedangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cibeber"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bondan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukagumiwang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tersana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cadang Pinggan (Cadangpinggan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedangan"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Boilan",
-    "Kokobuka",
-    "Air Terang (Airterang)",
-    "Panilan Jaya",
-    "Jatimulya (Jatimulyo)",
-    "Lomuli",
-    "Balau",
-    "Maniala",
-    "Monggonit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Boilan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kokobuka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Terang (Airterang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panilan Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatimulya (Jatimulyo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lomuli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maniala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Monggonit"
+    }
   ]
 }

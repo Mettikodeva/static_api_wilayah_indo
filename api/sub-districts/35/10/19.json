@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Songgon",
-    "Balak",
-    "Sragi",
-    "Parangharjo",
-    "Bedewang",
-    "Bayu",
-    "Sumberarum (Sumber Arum)",
-    "Sumberbulu (Sumber Bulu)",
-    "Bangunsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Songgon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sragi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parangharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bedewang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberarum (Sumber Arum)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberbulu (Sumber Bulu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bangunsari"
+    }
   ]
 }

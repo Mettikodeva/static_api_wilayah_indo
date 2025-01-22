@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Menduran",
-    "Jangkungharjo",
-    "Temon",
-    "Lemah Putih (Lemahputih)",
-    "Tirem",
-    "Karangsari",
-    "Kronggen",
-    "Katekan",
-    "Tegalsumur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Menduran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jangkungharjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Temon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lemah Putih (Lemahputih)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tirem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kronggen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Katekan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegalsumur"
+    }
   ]
 }

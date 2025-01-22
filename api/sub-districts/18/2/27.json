@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Gedung Sari",
-    "Srimulyo (Sri Mulyo)",
-    "Gedung Ratu",
-    "Bandar Putih Tua",
-    "Karang Jawa",
-    "Sukajaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gedung Sari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Srimulyo (Sri Mulyo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gedung Ratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandar Putih Tua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Jawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukajaya"
+    }
   ]
 }

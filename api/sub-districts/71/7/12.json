@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wioy (Wioi)",
-    "Wioi Satu",
-    "Wioi Dua",
-    "Wioi Tiga",
-    "Wioi Timur",
-    "Pangu",
-    "Pangu Satu",
-    "Pangu Dua",
-    "Wongkay (Wongkai)",
-    "Wongkai Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wioy (Wioi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wioi Satu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wioi Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wioi Tiga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wioi Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangu Satu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangu Dua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wongkay (Wongkai)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wongkai Satu"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bandungan",
-    "Mlilir",
-    "Duren",
-    "Jetis",
-    "Kenteng",
-    "Candi",
-    "Jimbaran",
-    "Pakopen",
-    "Sidomukti",
-    "Banyukuning"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bandungan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mlilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenteng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jimbaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakopen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banyukuning"
+    }
   ]
 }

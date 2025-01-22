@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sara",
-    "Warga Nusa I (Warganusa I / Warbanusa I)",
-    "Warga Nusa II",
-    "Tugarama (Tugerama)",
-    "Suga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Warga Nusa I (Warganusa I / Warbanusa I)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Warga Nusa II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tugarama (Tugerama)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suga"
+    }
   ]
 }

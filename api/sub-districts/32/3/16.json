@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pasawahan",
-    "Sindangresmi",
-    "Sindanghayu",
-    "Simpang",
-    "Sukagalih",
-    "Bungbangsari",
-    "Cisujen",
-    "Hegarmanah",
-    "Waringinsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasawahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindangresmi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sindanghayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukagalih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bungbangsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cisujen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waringinsari"
+    }
   ]
 }

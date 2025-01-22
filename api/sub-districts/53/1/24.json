@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Oeltuah (Oeltua)",
-    "Baumata",
-    "Kuaklalo",
-    "Oeletsala",
-    "Bokong",
-    "Baumata Utara",
-    "Baumata Timur",
-    "Baumata Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oeltuah (Oeltua)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baumata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuaklalo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oeletsala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bokong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baumata Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baumata Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baumata Barat"
+    }
   ]
 }

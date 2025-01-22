@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Sukamara",
-    "Jelai",
-    "Balai Riam",
-    "Pantai Lunci",
-    "Permata Kecubung"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukamara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jelai"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Balai Riam"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pantai Lunci"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Permata Kecubung"
+    }
   ]
 }

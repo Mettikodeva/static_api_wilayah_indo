@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Padabeunghar",
-    "Kaduela",
-    "Pasawahan",
-    "Ciwiru",
-    "Cidahu",
-    "Cimara",
-    "Paniis",
-    "Cibuntu",
-    "Singkup",
-    "Padamatang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padabeunghar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaduela"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasawahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciwiru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cidahu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cimara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paniis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibuntu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Singkup"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padamatang"
+    }
   ]
 }

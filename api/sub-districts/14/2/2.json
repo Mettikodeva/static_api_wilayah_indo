@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Pematang Reba",
-    "Barangan",
-    "Alang Kepayang",
-    "Kota Lama",
-    "Redang",
-    "Pekan Heran",
-    "Rantau Bakung",
-    "Talang Jerinjing",
-    "Sialang Dua Dahan",
-    "Sungai Dawu",
-    "Bukit Petaling",
-    "Pematang Jaya",
-    "Danau Baru",
-    "Tanah Datar",
-    "Tani Makmur (Tanah Makmur)",
-    "Sungai Baung",
-    "Danau Tiga",
-    "Air Jernih"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pematang Reba"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Barangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alang Kepayang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Redang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pekan Heran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Bakung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Jerinjing"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sialang Dua Dahan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Dawu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Petaling"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pematang Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Danau Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanah Datar"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tani Makmur (Tanah Makmur)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sungai Baung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Danau Tiga"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Air Jernih"
+    }
   ]
 }

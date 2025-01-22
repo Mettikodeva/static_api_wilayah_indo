@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Newung",
-    "Jatitengah (Jati Tengah)",
-    "Bendo",
-    "Juwok",
-    "Pantirejo",
-    "Majenang",
-    "Karanganom (Karang Anom)",
-    "Gebang",
-    "Baleharjo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Newung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatitengah (Jati Tengah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Juwok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pantirejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Majenang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karanganom (Karang Anom)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baleharjo"
+    }
   ]
 }

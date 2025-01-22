@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Permanu",
-    "Karangpandan",
-    "Gelanggang (Glanggang)",
-    "Wonokerso",
-    "Karangduren",
-    "Sutojayan",
-    "Pakisaji",
-    "Jatisari",
-    "Wadung",
-    "Genengan",
-    "Kendalpayak",
-    "Kebonagung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Permanu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangpandan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gelanggang (Glanggang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonokerso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangduren"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sutojayan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakisaji"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wadung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Genengan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kendalpayak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kebonagung"
+    }
   ]
 }

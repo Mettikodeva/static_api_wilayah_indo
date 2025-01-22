@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tatura Utara",
-    "Birobuli Utara",
-    "Petobo",
-    "Birobuli Selatan",
-    "Tatura Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tatura Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Birobuli Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Petobo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Birobuli Selatan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tatura Selatan"
+    }
   ]
 }

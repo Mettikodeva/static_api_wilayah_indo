@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Koja (Utara, Selatan)",
-    "Tugu Utara",
-    "Lagoa",
-    "Rawa Badak Utara",
-    "Tugu Selatan",
-    "Rawa Badak Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Koja (Utara, Selatan)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tugu Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lagoa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rawa Badak Utara"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tugu Selatan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rawa Badak Selatan"
+    }
   ]
 }

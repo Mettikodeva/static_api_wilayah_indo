@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cirahab",
-    "Canduk",
-    "Parungkamal",
-    "Besuki",
-    "Karanggayam",
-    "Cidora",
-    "Lumbir",
-    "Dermaji",
-    "Kedunggede",
-    "Cingebul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cirahab"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Canduk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parungkamal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Besuki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanggayam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cidora"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumbir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dermaji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedunggede"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cingebul"
+    }
   ]
 }

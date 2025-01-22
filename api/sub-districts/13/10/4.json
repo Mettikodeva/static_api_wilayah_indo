@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sitiung",
-    "Siguntur",
-    "Gunung Medan",
-    "Sei/Sungai Duo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sitiung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siguntur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Medan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Duo"
+    }
   ]
 }

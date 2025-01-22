@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Katinim",
-    "Majener",
-    "Majaran",
-    "Matawolot",
-    "Walal",
-    "Malaus",
-    "Rawa Sugi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Katinim"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Majener"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Majaran"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Matawolot"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Walal"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Malaus"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Rawa Sugi"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Batu Belubang",
-    "Cempa",
-    "Pasir Panjang",
-    "Tanjung Kelit",
-    "Tanjung Lipat",
-    "Rejai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Belubang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cempa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasir Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Kelit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Lipat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rejai"
+    }
   ]
 }

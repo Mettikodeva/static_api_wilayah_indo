@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cibedug",
-    "Bojong",
-    "Bojongsalam",
-    "Cibitung",
-    "Cicadas",
-    "Cinengah",
-    "Sukamanah",
-    "Sukaresmi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cibedug"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongsalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibitung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cicadas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cinengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukaresmi"
+    }
   ]
 }

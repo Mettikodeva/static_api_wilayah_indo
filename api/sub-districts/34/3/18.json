@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Giripurwo",
-    "Giricahyo",
-    "Girijati",
-    "Giriasih",
-    "Giritirto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Giripurwo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Giricahyo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Girijati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Giriasih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Giritirto"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Posi-Posi (Posi Posi Rao)",
-    "Aru Burung",
-    "Lou Madoro",
-    "Leo Leo",
-    "Sami Nyamau (Saminyamau)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Posi-Posi (Posi Posi Rao)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aru Burung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lou Madoro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Leo Leo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sami Nyamau (Saminyamau)"
+    }
   ]
 }

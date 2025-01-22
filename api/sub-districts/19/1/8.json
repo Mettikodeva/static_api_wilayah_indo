@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Puding Besar (Pudingbesar)",
-    "Labu",
-    "Nibung",
-    "Tanah Bawah",
-    "Saing",
-    "Kota Waringin",
-    "Kayu Besi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puding Besar (Pudingbesar)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nibung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanah Bawah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saing"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Waringin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kayu Besi"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Namber",
-    "Baruki",
-    "Kameri",
-    "Warido",
-    "Sub Manggunsi (Subangungsi / Submanggunsi)",
-    "Serbin",
-    "Kansai",
-    "Pondori (Pomdori)",
-    "Semayen",
-    "Mambodo Sawai",
-    "Rimbaraya",
-    "Pomdori Sup"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Namber"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baruki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kameri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Warido"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sub Manggunsi (Subangungsi / Submanggunsi)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Serbin"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kansai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pondori (Pomdori)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Semayen"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mambodo Sawai"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Rimbaraya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pomdori Sup"
+    }
   ]
 }

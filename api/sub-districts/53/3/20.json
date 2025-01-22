@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Atmen (Kelurahan Atmen)",
-    "Subun",
-    "Usapinonot",
-    "Lapeom",
-    "Letneo",
-    "Bannae",
-    "Atmen",
-    "Letneo Selatan",
-    "Oabikase",
-    "Nifunenas",
-    "Subun Bestobe",
-    "Subun Tualele"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Atmen (Kelurahan Atmen)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Subun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Usapinonot"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lapeom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Letneo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bannae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Atmen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Letneo Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Oabikase"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nifunenas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Subun Bestobe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Subun Tualele"
+    }
   ]
 }

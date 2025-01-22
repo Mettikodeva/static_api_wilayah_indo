@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pattedong",
-    "Jenne/Je'ne Maeja",
-    "Bakti",
-    "Buntu Karya",
-    "Olang",
-    "Bassiang",
-    "Paccerakkang (Paccerakang)",
-    "Lampuara",
-    "To'balo (To Balo)",
-    "To'bia",
-    "Bassiang Timur",
-    "Pattedong Selatan",
-    "Tarramatekkeng"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pattedong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jenne/Je'ne Maeja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bakti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buntu Karya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Olang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bassiang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paccerakkang (Paccerakang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lampuara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "To'balo (To Balo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "To'bia"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bassiang Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pattedong Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tarramatekkeng"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kandangrejo",
-    "Selojari",
-    "Taruman",
-    "Penganten",
-    "Klambu",
-    "Menawan",
-    "Terkesi",
-    "Jenengan",
-    "Wandan Kemiri (Wandankemiri)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kandangrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selojari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taruman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Penganten"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klambu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menawan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terkesi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jenengan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wandan Kemiri (Wandankemiri)"
+    }
   ]
 }

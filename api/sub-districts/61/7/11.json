@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Capkala",
-    "Mandor",
-    "Setanduk",
-    "Aris",
-    "Sebandut (Sabandut)",
-    "Pawangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Capkala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mandor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Setanduk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aris"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebandut (Sabandut)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pawangi"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mojorejo",
-    "Pandean",
-    "Banjarejo",
-    "Kuncen",
-    "Manisrejo",
-    "Kejuron",
-    "Josenan",
-    "Demangan",
-    "Taman"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mojorejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pandean"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Banjarejo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kuncen"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Manisrejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kejuron"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Josenan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Demangan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Taman"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sambung Jawa",
-    "Parang",
-    "Mamajang Luar",
-    "Mamajang Dalam",
-    "Maricaya Selatan",
-    "Bonto Lebang",
-    "Pa'batang (Pa Batang)",
-    "Bonto Biraeng",
-    "Labuang Baji",
-    "Mandala",
-    "Tamparang Keke",
-    "Baji Mappakasunggu",
-    "Karang Anyar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sambung Jawa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Parang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mamajang Luar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mamajang Dalam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Maricaya Selatan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bonto Lebang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pa'batang (Pa Batang)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bonto Biraeng"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Labuang Baji"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tamparang Keke"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Baji Mappakasunggu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Karang Anyar"
+    }
   ]
 }

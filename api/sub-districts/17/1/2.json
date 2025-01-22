@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Pasar Baru",
-    "Padang Lebar",
-    "Sukaraja",
-    "Tanjung Menang",
-    "Darat Sawah (Darat Sawah Ilir / Hilir)",
-    "Kota Agung",
-    "Babatan Ilir",
-    "Babatan Ulu",
-    "Muara Danau",
-    "Gunung Ayu (Gunung Ayu II)",
-    "Muara Pulutan",
-    "Kota Bumi Baru",
-    "Sindang Bulan",
-    "Muara Payang",
-    "Durian Seginim",
-    "Banding Agung",
-    "Pajar Bulan",
-    "Dusun Tengah",
-    "Padang Siring",
-    "Darat Sawah Ulu (Hulu)",
-    "Tanjung Agung",
-    "Dusun Baru"
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padang Lebar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Menang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Darat Sawah (Darat Sawah Ilir / Hilir)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Babatan Ilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babatan Ulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Danau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Ayu (Gunung Ayu II)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muara Pulutan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kota Bumi Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sindang Bulan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Muara Payang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Durian Seginim"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Banding Agung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pajar Bulan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Dusun Tengah"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Padang Siring"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Darat Sawah Ulu (Hulu)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Dusun Baru"
+    }
   ]
 }

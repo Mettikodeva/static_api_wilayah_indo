@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Langkapura (Langka Pura)",
-    "Langkapura Baru (Langka Pura Baru)",
-    "Gunungterang (Gunung Terang)",
-    "Bilabong Jaya",
-    "Gunungagung (Gunung Agung)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Langkapura (Langka Pura)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Langkapura Baru (Langka Pura Baru)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gunungterang (Gunung Terang)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bilabong Jaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gunungagung (Gunung Agung)"
+    }
   ]
 }

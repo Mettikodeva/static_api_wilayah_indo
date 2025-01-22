@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kais",
-    "Tapuri",
-    "Yahadian",
-    "Benawa I",
-    "Sumano"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kais"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapuri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yahadian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Benawa I"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumano"
+    }
   ]
 }

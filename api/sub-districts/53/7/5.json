@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Madawat",
-    "Nangalimang",
-    "Kabor",
-    "Kota Uneng",
-    "Pemana",
-    "Samparong",
-    "Gunung Sari"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Madawat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Nangalimang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kabor"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kota Uneng"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pemana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Samparong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gunung Sari"
+    }
   ]
 }

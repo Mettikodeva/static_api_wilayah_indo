@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Limbur Tembesi",
-    "Rantau Gedang",
-    "Penarun",
-    "Pulau Lintang",
-    "Tanjung",
-    "Bangun Jayo",
-    "Teluk Kecimbung (Sikumbang)",
-    "Pulau Melako (Pulaumelako)",
-    "Batu Penyabung",
-    "Tanjung Gagak (Tanjunggagak)",
-    "Pulau Buayo (Pulaubuayo)",
-    "Dusun Dalam",
-    "Muara Lati (Muaralati)",
-    "Suka Jadi (Sukajadi)",
-    "Teluk Mancur"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Limbur Tembesi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantau Gedang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Penarun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Lintang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangun Jayo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk Kecimbung (Sikumbang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulau Melako (Pulaumelako)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Penyabung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Gagak (Tanjunggagak)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Buayo (Pulaubuayo)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dusun Dalam"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muara Lati (Muaralati)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suka Jadi (Sukajadi)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Teluk Mancur"
+    }
   ]
 }

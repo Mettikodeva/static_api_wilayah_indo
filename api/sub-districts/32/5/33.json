@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Neglasari",
-    "Tanjungjaya",
-    "Tanjungmulya",
-    "Wangunjaya",
-    "Sukamulya",
-    "Pasirlangu",
-    "Talagawangi",
-    "Jatiwangi",
-    "Panyindangan",
-    "Tegalgede",
-    "Depok",
-    "Karangsari",
-    "Jayamekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungjaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjungmulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wangunjaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirlangu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talagawangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatiwangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panyindangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tegalgede"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jayamekar"
+    }
   ]
 }

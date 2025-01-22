@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Katobengke",
-    "Waborobo",
-    "Sulaa",
-    "Lipu",
-    "Labalawa"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Katobengke"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Waborobo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sulaa"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Lipu"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Labalawa"
+    }
   ]
 }

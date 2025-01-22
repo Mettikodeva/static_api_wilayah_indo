@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Pannampu",
-    "Kalukuang",
-    "Kaluku Bodoa",
-    "Rappojawa",
-    "Rappokalling",
-    "Lakkang",
-    "Tallo",
-    "La'latang (La Latang)",
-    "Wala-Walaya",
-    "Tammua",
-    "Buloa",
-    "Suangga (Suwangga)",
-    "Ujung Pandang Baru (Makassardang Baru)",
-    "Lembo",
-    "Bunga Eja Beru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pannampu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kalukuang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kaluku Bodoa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rappojawa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rappokalling"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lakkang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tallo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "La'latang (La Latang)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Wala-Walaya"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tammua"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Buloa"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Suangga (Suwangga)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Ujung Pandang Baru (Makassardang Baru)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Lembo"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Bunga Eja Beru"
+    }
   ]
 }

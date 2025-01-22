@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bangun Sejati",
-    "Hutarimbaru",
-    "Pasar Huta Bargot",
-    "Huta Bargot Lombang",
-    "Huta Bargot Dolok",
-    "Huta Bargot Setia",
-    "Huta Bargot Nauli",
-    "Mondan",
-    "Sayur Maincat",
-    "Kumpulan Setia",
-    "Simalagi",
-    "Saba Padang",
-    "Binanga",
-    "Huta Naingkan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun Sejati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hutarimbaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasar Huta Bargot"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Huta Bargot Lombang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Huta Bargot Dolok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Huta Bargot Setia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Huta Bargot Nauli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mondan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sayur Maincat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kumpulan Setia"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simalagi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Saba Padang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Binanga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Huta Naingkan"
+    }
   ]
 }

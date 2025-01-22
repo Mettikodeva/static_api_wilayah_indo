@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Kedungjati",
-    "Karangrayung",
-    "Penawangan",
-    "Toroh",
-    "Geyer",
-    "Pulokulon",
-    "Kradenan",
-    "Gabus",
-    "Ngaringan",
-    "Wirosari",
-    "Tawangharjo",
-    "Grobogan",
-    "Purwodadi",
-    "Brati",
-    "Klambu",
-    "Godong",
-    "Gubug",
-    "Tegowanu",
-    "Tanggungharjo"
+    {
+      "district_id": 1,
+      "kecamatan": "Kedungjati"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Karangrayung"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Penawangan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Toroh"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Geyer"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pulokulon"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kradenan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gabus"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Ngaringan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Wirosari"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tawangharjo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Grobogan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Purwodadi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Brati"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Klambu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Godong"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Gubug"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tegowanu"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tanggungharjo"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Negeri Batin",
-    "Gistang",
-    "Rambang Jaya",
-    "Panca Negeri",
-    "Negeri Bumi Putra",
-    "Gedung Riang",
-    "Gedung Batin",
-    "Sidoarjo",
-    "Bumi Ratu",
-    "Sriwijaya",
-    "Bratayudha",
-    "Negeri Baru",
-    "Ojo Lali (Ojolali)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Batin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gistang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rambang Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panca Negeri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Negeri Bumi Putra"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedung Riang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedung Batin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidoarjo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumi Ratu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sriwijaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bratayudha"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Negeri Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ojo Lali (Ojolali)"
+    }
   ]
 }

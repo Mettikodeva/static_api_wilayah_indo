@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pulau Panggung",
-    "Talang Besar",
-    "Talang Jawi I",
-    "Talang Jawi II",
-    "Air Kering",
-    "Gunung Kaya",
-    "Ulak Agung",
-    "Talang Padang",
-    "Air Kering II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Panggung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Besar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Jawi I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Jawi II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Kering"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Kaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ulak Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talang Padang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Kering II"
+    }
   ]
 }

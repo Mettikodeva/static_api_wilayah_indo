@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sumberejo (Sumber Rejo)",
-    "Ngesti Karya",
-    "Tri Tunggal",
-    "Sidorahayu (Sido Rahayu)",
-    "Jembrana",
-    "Tanjung Wangi",
-    "Marga Batin",
-    "Mekar Karya",
-    "Sumber Jaya",
-    "Karang Anom",
-    "Karya Basuki"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberejo (Sumber Rejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngesti Karya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tri Tunggal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidorahayu (Sido Rahayu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jembrana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Wangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marga Batin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Karya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karang Anom"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karya Basuki"
+    }
   ]
 }

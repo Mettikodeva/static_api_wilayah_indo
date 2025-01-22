@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Koto Panjang",
-    "Pasar Pandan Air Mati",
-    "Tanjung Paku",
-    "Nan Balimo",
-    "Kampung Jawa",
-    "Laing"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Koto Panjang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasar Pandan Air Mati"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Paku"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nan Balimo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampung Jawa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Laing"
+    }
   ]
 }

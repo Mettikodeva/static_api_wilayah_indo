@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Biniha Timur",
-    "Biniha",
-    "Biniha Selatan",
-    "Duminanga",
-    "Halabolu",
-    "Trans Patoa",
-    "Bakida",
-    "Sinandaka",
-    "Soputa",
-    "Pangia",
-    "Motolohu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biniha Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Biniha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biniha Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Duminanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Halabolu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Trans Patoa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bakida"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinandaka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Soputa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pangia"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Motolohu"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Hate Tabako (Hatetabako)",
-    "Lolobata",
-    "Puao",
-    "Foli (Foly)",
-    "Nyaolako",
-    "Boki Miake (Bokimaake)",
-    "Silalaysang (Silalayang)",
-    "Kakaraino"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hate Tabako (Hatetabako)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lolobata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puao"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Foli (Foly)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nyaolako"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Boki Miake (Bokimaake)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Silalaysang (Silalayang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kakaraino"
+    }
   ]
 }

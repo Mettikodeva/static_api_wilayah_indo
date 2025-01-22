@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Klesem",
-    "Bodas",
-    "Sukoharjo",
-    "Gembong",
-    "Garungwiyoro",
-    "Bojongkoneng",
-    "Bubak",
-    "Wangkelang",
-    "Kandangserang",
-    "Luragung",
-    "Lambur",
-    "Tajur",
-    "Trajumas",
-    "Karanggondang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klesem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bodas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukoharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gembong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Garungwiyoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojongkoneng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bubak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wangkelang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kandangserang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Luragung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lambur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tajur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Trajumas"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karanggondang"
+    }
   ]
 }

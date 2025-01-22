@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Homlikia (Homilikia / Homlikya)",
-    "Kobeta",
-    "Asset",
-    "Osso",
-    "Bosma",
-    "Oghoto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Homlikia (Homilikia / Homlikya)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kobeta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asset"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Osso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bosma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oghoto"
+    }
   ]
 }

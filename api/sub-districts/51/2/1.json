@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bajera",
-    "Wanagiri",
-    "Pupuan Sawah",
-    "Berembeng",
-    "Selemadeg",
-    "Sarampingan (Serampingan)",
-    "Antap",
-    "Wanagiri Kauh",
-    "Manikyang",
-    "Bajera Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bajera"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanagiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pupuan Sawah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Berembeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Selemadeg"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sarampingan (Serampingan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Antap"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wanagiri Kauh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manikyang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bajera Utara"
+    }
   ]
 }

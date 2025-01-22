@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sambeng",
-    "Krobokan",
-    "Ngaren",
-    "Kalimati",
-    "Kayen",
-    "Jerukan",
-    "Pilangrejo",
-    "Cerme",
-    "Juwangi",
-    "Ngleses"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sambeng"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Krobokan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngaren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalimati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kayen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jerukan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pilangrejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cerme"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Juwangi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngleses"
+    }
   ]
 }

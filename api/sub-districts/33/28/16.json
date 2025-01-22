@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karangwuluh",
-    "Gembongdadi",
-    "Karangmulya",
-    "Harjasari",
-    "Kertasari",
-    "Jatimulya",
-    "Jatibogor",
-    "Sidaharja (Sidoharjo)",
-    "Purwahamba",
-    "Suradadi",
-    "Bojongsana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangwuluh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gembongdadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangmulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Harjasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatimulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatibogor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidaharja (Sidoharjo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwahamba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suradadi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bojongsana"
+    }
   ]
 }

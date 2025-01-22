@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Teluk Pakedai Hulu",
-    "Teluk Pakedai I (Satu)",
-    "Teluk Pakedai II (Dua)",
-    "Kuala Karang",
-    "Seruat Satu (Seruat I)",
-    "Sungai Deras",
-    "Selat Remis",
-    "Madura",
-    "Pasir Putih",
-    "Teluk Gelam",
-    "Tanjung Bunga",
-    "Sungai Nibung",
-    "Arus Deras",
-    "Sungai Nipah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Pakedai Hulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Pakedai I (Satu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Pakedai II (Dua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala Karang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seruat Satu (Seruat I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Deras"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selat Remis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Madura"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk Gelam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Bunga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Nibung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Arus Deras"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sungai Nipah"
+    }
   ]
 }

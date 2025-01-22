@@ -1,10 +1,28 @@
 {
   "districts": [
-    "Jenamas",
-    "Dusun Hilir",
-    "Karau Kuala",
-    "Dusun Utara",
-    "Gn. Bintang Awai (Gunung Bintang Awai)",
-    "Dusun Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Jenamas"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Dusun Hilir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Karau Kuala"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Dusun Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Gn. Bintang Awai (Gunung Bintang Awai)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Dusun Selatan"
+    }
   ]
 }

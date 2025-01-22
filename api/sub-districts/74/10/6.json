@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Labuan",
-    "Labuan Walio",
-    "Lasiwa",
-    "Laea",
-    "Matalagi",
-    "Wantulasi",
-    "Labuan Bajo",
-    "Labaraga",
-    "Wamorapa",
-    "Sumampeno",
-    "Oengkapala",
-    "Labuko",
-    "Laba Jaya"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Labuan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Labuan Walio"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lasiwa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matalagi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wantulasi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labuan Bajo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labaraga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wamorapa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumampeno"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Oengkapala"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labuko"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Laba Jaya"
+    }
   ]
 }

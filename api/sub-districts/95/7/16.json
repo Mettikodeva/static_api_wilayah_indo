@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Guninggame",
-    "Mokoni",
-    "Popome",
-    "Wakumalo",
-    "Bigipura",
-    "Yanggelome",
-    "Wuyumbur",
-    "Kondename",
-    "Bumalome"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Guninggame"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mokoni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Popome"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wakumalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bigipura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yanggelome"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wuyumbur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kondename"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumalome"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karang Anyar (Karanganyar)",
-    "Blimbing",
-    "Karang Sengon",
-    "Wonokerto",
-    "Klabang",
-    "Klampokan",
-    "Sumber Suko (Sumbersuko)",
-    "Besuk",
-    "Pandak",
-    "Leprak",
-    "Wonoboyo"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Anyar (Karanganyar)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blimbing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Sengon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klabang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Klampokan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Suko (Sumbersuko)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Besuk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pandak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Leprak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wonoboyo"
+    }
   ]
 }

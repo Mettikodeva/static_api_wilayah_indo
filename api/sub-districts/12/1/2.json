@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Sorkam",
-    "Pargarutan",
-    "Tarutung Bolak",
-    "Naipospos Barat",
-    "Teluk Roban",
-    "Fajar",
-    "Pardamean",
-    "Pelita",
-    "Rianiate",
-    "Gonting Mahe",
-    "Dolok Pantis",
-    "Pea Raja",
-    "Bottot",
-    "Sorkam Tengah",
-    "Sorkam Kiri",
-    "Pananggahan",
-    "Pagaran Julu",
-    "Hite Urat",
-    "Sihapas",
-    "Nauli",
-    "Muara Nauli"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sorkam"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pargarutan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tarutung Bolak"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Naipospos Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Roban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fajar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pardamean"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pelita"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rianiate"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gonting Mahe"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dolok Pantis"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pea Raja"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bottot"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sorkam Tengah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sorkam Kiri"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pananggahan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pagaran Julu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Hite Urat"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sihapas"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Nauli"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Muara Nauli"
+    }
   ]
 }

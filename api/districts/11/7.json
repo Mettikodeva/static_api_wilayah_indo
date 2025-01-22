@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Batee",
-    "Delima",
-    "Geumpang",
-    "Glumpang Tiga (Geulumpang Tiga)",
-    "Indrajaya (Indra Jaya)",
-    "Kembang Tanjong",
-    "Kota Sigli",
-    "Mila",
-    "Muara Tiga",
-    "Mutiara",
-    "Padang Tiji",
-    "Peukan Baro",
-    "Pidie",
-    "Sakti",
-    "Simpang Tiga",
-    "Tangse",
-    "Tiro/Truseb",
-    "Keumala",
-    "Mutiara Timur",
-    "Grong Grong",
-    "Mane",
-    "Glumpang Baro",
-    "Titeue"
+    {
+      "district_id": 3,
+      "kecamatan": "Batee"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Delima"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Geumpang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Glumpang Tiga (Geulumpang Tiga)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Indrajaya (Indra Jaya)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kembang Tanjong"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kota Sigli"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Mila"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Muara Tiga"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Mutiara"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Padang Tiji"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Peukan Baro"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pidie"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sakti"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Simpang Tiga"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tangse"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Tiro/Truseb"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Keumala"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Mutiara Timur"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Grong Grong"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Mane"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Glumpang Baro"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Titeue"
+    }
   ]
 }

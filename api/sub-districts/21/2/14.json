@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sugie",
-    "Niur Permai",
-    "Keban",
-    "Rawa Jaya (Rawajaya)",
-    "Tanjung Pelanduk",
-    "Buluh Patah",
-    "Selat Mie"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sugie"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Niur Permai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keban"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawa Jaya (Rawajaya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Pelanduk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buluh Patah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selat Mie"
+    }
   ]
 }

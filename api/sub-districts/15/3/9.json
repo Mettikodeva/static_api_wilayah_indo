@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sungai Benteng (Sungaibenteng)",
-    "Bukittigo (Bukit Tigo)",
-    "Sungai Gedang (Sungaigedang)",
-    "Payo Lebar",
-    "Bukit Murau (Bukitmurau)",
-    "Perdamaian",
-    "Pasar Singkut",
-    "Siliwangi",
-    "Simpang Nibung",
-    "Bukit Talang Mas (Bukittalang Mas)",
-    "Bukit Bumi Raya (Bukitbumi Raya)",
-    "Argo Sari",
-    "Sendang Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Benteng (Sungaibenteng)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukittigo (Bukit Tigo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Gedang (Sungaigedang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Payo Lebar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukit Murau (Bukitmurau)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perdamaian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasar Singkut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siliwangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Nibung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Talang Mas (Bukittalang Mas)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Bumi Raya (Bukitbumi Raya)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Argo Sari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sendang Sari"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Luhutuban",
-    "Masawoy (Masawoi)",
-    "Tuniwara",
-    "Kelang Asaude",
-    "Tomalehu Barat (Tumalehu Barat)",
-    "Tomalehu Timur (Tumalehu Timur)",
-    "Buano Hatuputih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Luhutuban"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Masawoy (Masawoi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tuniwara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kelang Asaude"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tomalehu Barat (Tumalehu Barat)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tomalehu Timur (Tumalehu Timur)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buano Hatuputih"
+    }
   ]
 }

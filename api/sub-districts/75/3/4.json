@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tamboo",
-    "Bilungala",
-    "Uabanga",
-    "Tolotio",
-    "Tongo",
-    "Bilungala Utara",
-    "Tihu",
-    "Tunas Jaya",
-    "Lembah Hijau",
-    "Batu Hijau",
-    "Ombulo Hijau",
-    "Kemiri",
-    "Pelita Hijau"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamboo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bilungala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uabanga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tolotio"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tongo"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Bilungala Utara"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tihu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tunas Jaya"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Lembah Hijau"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Batu Hijau"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Ombulo Hijau"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Pelita Hijau"
+    }
   ]
 }

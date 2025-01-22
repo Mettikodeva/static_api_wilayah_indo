@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sobonon",
-    "Bolonan",
-    "Batang Babasal",
-    "Sampaka",
-    "Salangano",
-    "Sambiut",
-    "Sakay",
-    "Tone",
-    "Abason",
-    "Lopito",
-    "Kombutokan"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sobonon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bolonan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batang Babasal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sampaka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Salangano"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sambiut"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sakay"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tone"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Abason"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lopito"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kombutokan"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Fanedanu",
-    "Fanedanu Sibohou",
-    "Lawa-lawa Luo Idanotae",
-    "Dao-Dao Zanuwo Idano Tae",
-    "Sisiwa Ewali",
-    "Sisarahili Ewo",
-    "Hilialo'oa",
-    "Damai",
-    "Lolozukhu",
-    "Silima Banua Umbunasi",
-    "Sindrolo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fanedanu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fanedanu Sibohou"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lawa-lawa Luo Idanotae"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dao-Dao Zanuwo Idano Tae"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sisiwa Ewali"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sisarahili Ewo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilialo'oa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Damai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lolozukhu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Silima Banua Umbunasi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sindrolo"
+    }
   ]
 }

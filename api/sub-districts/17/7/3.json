@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Embong Panjang",
-    "Tanjung Bungai I",
-    "Semelako I",
-    "Pagar Agung",
-    "Karang Anyar",
-    "Semelako II",
-    "Semelako III",
-    "Semelako Atas",
-    "Danau Liang",
-    "Suka Damai",
-    "Tanjung Bungai II"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Embong Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Bungai I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semelako I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Semelako II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Semelako III"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Semelako Atas"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Danau Liang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanjung Bungai II"
+    }
   ]
 }

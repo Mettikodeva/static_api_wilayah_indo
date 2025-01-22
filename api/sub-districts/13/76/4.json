@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sei/Sungai Durian",
-    "Parik Muko Aie (Parit Muka Air)",
-    "Parambahan",
-    "Padang Sikabu",
-    "Koto Panjang Padang (Koto Panjang)",
-    "Koto Panjang Dalam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sei/Sungai Durian"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Parik Muko Aie (Parit Muka Air)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Parambahan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Padang Sikabu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Koto Panjang Padang (Koto Panjang)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Koto Panjang Dalam"
+    }
   ]
 }

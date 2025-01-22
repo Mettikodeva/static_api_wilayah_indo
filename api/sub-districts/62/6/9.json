@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mendawai",
-    "Teluk Sebulu",
-    "Kampung Melayu",
-    "Tewang/Tawang Kampung",
-    "Perigi (Parigi)",
-    "Mekar Tani",
-    "Tumbang Bulan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mendawai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Sebulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Melayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tewang/Tawang Kampung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perigi (Parigi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekar Tani"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Bulan"
+    }
   ]
 }

@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Patehan",
-    "Panembahan",
-    "Kadipaten"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Patehan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Panembahan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kadipaten"
+    }
   ]
 }

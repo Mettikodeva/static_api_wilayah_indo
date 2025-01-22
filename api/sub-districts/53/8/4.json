@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mbongawani",
-    "Rukun Lima (Rukunlima)",
-    "Paupanda",
-    "Tetandara",
-    "Tanjung"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mbongawani"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rukun Lima (Rukunlima)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Paupanda"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tetandara"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tanjung"
+    }
   ]
 }

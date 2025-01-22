@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Padang",
-    "Tanjung Menang",
-    "Lubuk Pedaro/Pedaru",
-    "Suka Merindu",
-    "Tanjung Beringin",
-    "Talang Akar",
-    "Lubuk Betung",
-    "Perangai",
-    "Geramat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Menang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Pedaro/Pedaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Merindu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Akar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Betung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perangai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Geramat"
+    }
   ]
 }

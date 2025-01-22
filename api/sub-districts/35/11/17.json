@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Andungsari",
-    "Ardisaeng",
-    "Kupang",
-    "Gadingsari",
-    "Pakem",
-    "Sumberdumpyong (Sumber Dumpyong)",
-    "Patemon",
-    "Petung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Andungsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ardisaeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kupang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gadingsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pakem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberdumpyong (Sumber Dumpyong)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Petung"
+    }
   ]
 }

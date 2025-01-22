@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tebon",
-    "Prangi",
-    "Purworejo",
-    "Ngeper",
-    "Ngasinan",
-    "Cendono",
-    "Sidorejo",
-    "Nguken",
-    "Dengok",
-    "Padangan",
-    "Kuncen",
-    "Sonorejo",
-    "Ngradin",
-    "Banjarejo (Banjarjo)",
-    "Kebonagung (Kebunagung)",
-    "Kendung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tebon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Prangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngeper"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngasinan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cendono"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nguken"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dengok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kuncen"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sonorejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngradin"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banjarejo (Banjarjo)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kebonagung (Kebunagung)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kendung"
+    }
   ]
 }

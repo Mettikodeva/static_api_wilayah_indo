@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sei/Sungai Garam Hilir",
-    "Naram",
-    "Sei/Sungai Bulan",
-    "Sei/Sungai Rasau",
-    "Setapuk Kecil",
-    "Setapuk Besar",
-    "Semelagi Kecil"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sei/Sungai Garam Hilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Naram"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sei/Sungai Bulan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sei/Sungai Rasau"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Setapuk Kecil"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Setapuk Besar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Semelagi Kecil"
+    }
   ]
 }

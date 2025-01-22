@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Brebes",
-    "Gandasuli",
-    "Limbangan Kulon",
-    "Limbangan Wetan",
-    "Pasarbatang (Pasar Batang)",
-    "Banjaranyar",
-    "Kaligangsa Kulon",
-    "Kaligangsa Wetan",
-    "Kalimati",
-    "Kaliwlingi",
-    "Kedunguter",
-    "Krasak",
-    "Lembarawa",
-    "Padasugih",
-    "Pagejugan",
-    "Pemaron",
-    "Pulosari",
-    "Randusanga Kulon",
-    "Randusanga Wetan",
-    "Sigambir",
-    "Tengki",
-    "Terlangu",
-    "Wangandalem"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Brebes"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gandasuli"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Limbangan Kulon"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Limbangan Wetan"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Pasarbatang (Pasar Batang)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjaranyar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaligangsa Kulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaligangsa Wetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalimati"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaliwlingi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedunguter"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Krasak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lembarawa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Padasugih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pagejugan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pemaron"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pulosari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Randusanga Kulon"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Randusanga Wetan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sigambir"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tengki"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Terlangu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wangandalem"
+    }
   ]
 }

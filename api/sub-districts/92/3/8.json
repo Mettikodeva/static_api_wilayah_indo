@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kramongmongga",
-    "Wargep",
-    "Mamur",
-    "Nembukteb",
-    "Pikpik",
-    "Kwamkwamur",
-    "Bahbadan",
-    "Gewab",
-    "Tentreda",
-    "Mbaham Ma Youn"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kramongmongga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wargep"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mamur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nembukteb"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pikpik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kwamkwamur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bahbadan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Gewab"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tentreda"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mbaham Ma Youn"
+    }
   ]
 }

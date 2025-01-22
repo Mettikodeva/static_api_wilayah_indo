@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Pangkalan Dodek",
-    "Pangkalan Dodek Baru",
-    "Pagurawan",
-    "Aek Nauli",
-    "Durian",
-    "Lalang",
-    "Medang",
-    "Pakam",
-    "Pakam Raya",
-    "Pematang Cengkering",
-    "Sei Buah Keras",
-    "Sei Rakyat",
-    "Sidomulyo",
-    "Tanjung Sigoni",
-    "Nenas Siam",
-    "Pakam Raya Selatan",
-    "Mandarsah",
-    "Medang Baru",
-    "Pematang Nibung",
-    "Cengkering Pekan",
-    "Sei Raja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pangkalan Dodek"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pangkalan Dodek Baru"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Pagurawan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aek Nauli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lalang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Medang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pakam Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pematang Cengkering"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei Buah Keras"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei Rakyat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Sigoni"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nenas Siam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pakam Raya Selatan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mandarsah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Medang Baru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pematang Nibung"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cengkering Pekan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sei Raja"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ngeposari",
-    "Semanu",
-    "Pacarejo",
-    "Candirejo",
-    "Dadapayu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngeposari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semanu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pacarejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Candirejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dadapayu"
+    }
   ]
 }

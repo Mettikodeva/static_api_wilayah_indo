@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Kota Pagatan",
-    "Betung",
-    "Sungai Lembu",
-    "Wiritasi",
-    "Pejala",
-    "Pagaruyung (Pagar Ruyung)",
-    "Muara Pagatan",
-    "Kampung Baru",
-    "Pasar Baru",
-    "Batuah",
-    "Baru Gelang",
-    "Pulau Salak",
-    "Mudalang",
-    "Tanette",
-    "Muara Pagatan Tengah",
-    "Pulau Satu",
-    "Juku Eja",
-    "Gusunge",
-    "Rantau Panjang Hulu",
-    "Penyolongan",
-    "Beringin",
-    "Rantau Panjang Hilir"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kota Pagatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Lembu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wiritasi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pejala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagaruyung (Pagar Ruyung)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Pagatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batuah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baru Gelang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pulau Salak"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mudalang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanette"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Muara Pagatan Tengah"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pulau Satu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Juku Eja"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Gusunge"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Rantau Panjang Hulu"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Penyolongan"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Rantau Panjang Hilir"
+    }
   ]
 }

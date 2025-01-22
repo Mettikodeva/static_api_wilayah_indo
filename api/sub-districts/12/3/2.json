@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Wek I (Wek I Batang Toru)",
-    "Wek II (Wek II Batang Toru)",
-    "Perkebunan Batang Toru",
-    "Padang Lancat",
-    "Aek Pining",
-    "Garoga",
-    "Huta Godang (Hutagodang)",
-    "Batu Horing",
-    "Batu Hula",
-    "Sumuran",
-    "Napa",
-    "Wek IV (Wek IV Batang Toru)",
-    "Hapesong Baru",
-    "Telo",
-    "Wek III (Wek III Batang Toru)",
-    "Perkebunan Sigala-Gala",
-    "Perkebunan Hapesong",
-    "Hapesong Lama",
-    "Sipenggeng",
-    "Sianggunan",
-    "Huta Baru (Hutabaru)",
-    "Aek Ngadol Sitinjak (Aek Nauli)",
-    "Sisipa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wek I (Wek I Batang Toru)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wek II (Wek II Batang Toru)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Perkebunan Batang Toru"
+    },
+    {
+      "sub_district_id": 1030,
+      "desa_kelurahan": "Padang Lancat"
+    },
+    {
+      "sub_district_id": 1032,
+      "desa_kelurahan": "Aek Pining"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Garoga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Huta Godang (Hutagodang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Horing"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Hula"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumuran"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Napa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wek IV (Wek IV Batang Toru)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Hapesong Baru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Telo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wek III (Wek III Batang Toru)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Perkebunan Sigala-Gala"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Perkebunan Hapesong"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Hapesong Lama"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sipenggeng"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sianggunan"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Huta Baru (Hutabaru)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Aek Ngadol Sitinjak (Aek Nauli)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Sisipa"
+    }
   ]
 }

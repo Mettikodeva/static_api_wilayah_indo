@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Pandan",
-    "Hajoran",
-    "Aek Tolang",
-    "Lubuk Tukko",
-    "Sibuluan Indah",
-    "Sibuluan Nauli",
-    "Aek Sitio Tio",
-    "Sibuluan Raya",
-    "Kalangan",
-    "Pandan Wangi",
-    "Lubuk Tukko Baru",
-    "Sibuluan Baru",
-    "Sibuluan Terpadu",
-    "Sihaporas Nauli",
-    "Pasar Baru",
-    "Budi Luhur",
-    "Kalangan Indah",
-    "Mangga Dua",
-    "Muara Nibung",
-    "Hajoran Indah",
-    "Aek Garut",
-    "Sitio Tio Hilir"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pandan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Hajoran"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Aek Tolang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lubuk Tukko"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sibuluan Indah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sibuluan Nauli"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Aek Sitio Tio"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sibuluan Raya"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kalangan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Pandan Wangi"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Lubuk Tukko Baru"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Sibuluan Baru"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Sibuluan Terpadu"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Sihaporas Nauli"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Budi Luhur"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Kalangan Indah"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Mangga Dua"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Muara Nibung"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Hajoran Indah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Aek Garut"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sitio Tio Hilir"
+    }
   ]
 }

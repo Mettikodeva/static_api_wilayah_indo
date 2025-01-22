@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Taginem (Tagineri)",
-    "Injuta",
-    "Binibaga",
-    "Tamokilo (Tamokilu/Tamokulu)",
-    "Pagaluk",
-    "Gelelame",
-    "Wilaloma",
-    "Melemei",
-    "Wuragukme"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taginem (Tagineri)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Injuta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Binibaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tamokilo (Tamokilu/Tamokulu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagaluk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gelelame"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wilaloma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Melemei"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wuragukme"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Watutau",
-    "Betue",
-    "Talabosa",
-    "Wanga",
-    "Siliwanga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Watutau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betue"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talabosa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siliwanga"
+    }
   ]
 }

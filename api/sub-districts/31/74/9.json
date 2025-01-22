@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jagakarsa",
-    "Srengseng Sawah",
-    "Ciganjur",
-    "Lenteng Agung",
-    "Tanjung Barat",
-    "Cipedak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jagakarsa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Srengseng Sawah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ciganjur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lenteng Agung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung Barat"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cipedak"
+    }
   ]
 }

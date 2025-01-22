@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Amondo (Amonda)",
-    "Lakara",
-    "Parasi",
-    "Ulu Lakara (Ululakara)",
-    "Watu Mbohoti (Watumbohoti)",
-    "Wawo Wonua",
-    "Watu Rapa (Watarapa / Waturapa)",
-    "Koeono",
-    "Lalowua",
-    "Mondoe"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Amondo (Amonda)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lakara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parasi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ulu Lakara (Ululakara)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watu Mbohoti (Watumbohoti)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wawo Wonua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watu Rapa (Watarapa / Waturapa)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koeono"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lalowua"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mondoe"
+    }
   ]
 }

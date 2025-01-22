@@ -1,33 +1,120 @@
 {
   "districts": [
-    "Balaraja",
-    "Jayanti",
-    "Tigaraksa",
-    "Jambe",
-    "Cisoka",
-    "Kresek",
-    "Kronjo",
-    "Mauk",
-    "Kemiri",
-    "Sukadiri",
-    "Rajeg",
-    "Pasar Kemis",
-    "Teluknaga",
-    "Kosambi",
-    "Pakuhaji",
-    "Sepatan",
-    "Curug",
-    "Cikupa",
-    "Panongan",
-    "Legok",
-    "Pagedangan",
-    "Cisauk",
-    "Sukamulya",
-    "Kelapa Dua",
-    "Sindang Jaya",
-    "Sepatan Timur",
-    "Solear",
-    "Gunung Kaler",
-    "Mekar Baru"
+    {
+      "district_id": 1,
+      "kecamatan": "Balaraja"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jayanti"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tigaraksa"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Jambe"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cisoka"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kresek"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kronjo"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mauk"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kemiri"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sukadiri"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Rajeg"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pasar Kemis"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Teluknaga"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kosambi"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Pakuhaji"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Sepatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Curug"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Cikupa"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Panongan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Legok"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Pagedangan"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Cisauk"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Sukamulya"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Kelapa Dua"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Sindang Jaya"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Sepatan Timur"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Solear"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Gunung Kaler"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Mekar Baru"
+    }
   ]
 }

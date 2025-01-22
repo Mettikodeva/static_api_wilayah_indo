@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kello (Kelo)",
-    "Sum",
-    "Susepe (Sosepe)",
-    "Wooi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kello (Kelo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sum"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Susepe (Sosepe)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wooi"
+    }
   ]
 }

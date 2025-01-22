@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Wanasalam",
-    "Bejod",
-    "Cilangkap",
-    "Cipeucang",
-    "Muara",
-    "Parungpanjang",
-    "Cikeusik",
-    "Katapang (Ketapang)",
-    "Cisarap",
-    "Sukatani",
-    "Cipedang",
-    "Parungsari",
-    "Karangpamindangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanasalam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bejod"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cilangkap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipeucang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parungpanjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikeusik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Katapang (Ketapang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cisarap"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cipedang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Parungsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karangpamindangan"
+    }
   ]
 }

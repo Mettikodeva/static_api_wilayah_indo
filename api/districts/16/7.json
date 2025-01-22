@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Banyuasin I",
-    "Banyuasin II",
-    "Banyuasin III",
-    "Pulau Rimau",
-    "Betung",
-    "Rambutan",
-    "Muara Padang",
-    "Muara Telang",
-    "Makarti Jaya",
-    "Talang Kelapa",
-    "Rantau Bayur",
-    "Tanjung Lago",
-    "Muara Sugihan",
-    "Air Salek",
-    "Tungkal Ilir",
-    "Suak Tapeh",
-    "Sembawa",
-    "Sumber Marga Telang",
-    "Air Kumbang",
-    "Karang Agung Ilir",
-    "Selat Penuguan"
+    {
+      "district_id": 1,
+      "kecamatan": "Banyuasin I"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Banyuasin II"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Banyuasin III"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pulau Rimau"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Betung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Rambutan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Muara Padang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Muara Telang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Makarti Jaya"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Talang Kelapa"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Rantau Bayur"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tanjung Lago"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Muara Sugihan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Air Salek"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Tungkal Ilir"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Suak Tapeh"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sembawa"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sumber Marga Telang"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Air Kumbang"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Karang Agung Ilir"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Selat Penuguan"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pagar Kaya",
-    "Sukalali (Suka Lali)",
-    "Kartayu (Kertayu)",
-    "Sungai Dua",
-    "Sindang Marga",
-    "Tebing Bulang",
-    "Gajah Mati",
-    "Rantau Sialang",
-    "Kerta Jaya",
-    "Keramat Jaya"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagar Kaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukalali (Suka Lali)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kartayu (Kertayu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Dua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindang Marga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tebing Bulang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gajah Mati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rantau Sialang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kerta Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Keramat Jaya"
+    }
   ]
 }

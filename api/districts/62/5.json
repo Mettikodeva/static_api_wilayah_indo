@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Montallat (Montalat)",
-    "Gunung Timang",
-    "Gunung Purei",
-    "Teweh Timur",
-    "Teweh Tengah",
-    "Lahei",
-    "Teweh Baru",
-    "Teweh Selatan",
-    "Lahei Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Montallat (Montalat)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Gunung Timang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Gunung Purei"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Teweh Timur"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Teweh Tengah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lahei"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Teweh Baru"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Teweh Selatan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lahei Barat"
+    }
   ]
 }

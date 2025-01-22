@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tinengi",
-    "Solewatu",
-    "Ambapa",
-    "Ameroro",
-    "Lamunde",
-    "Tawarombadaka",
-    "Talata",
-    "Weamo",
-    "Tawa-tawaro",
-    "Singgere",
-    "Tutuwi",
-    "Iwoimea"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tinengi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Solewatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ambapa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ameroro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamunde"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tawarombadaka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talata"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Weamo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tawa-tawaro"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Singgere"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tutuwi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Iwoimea"
+    }
   ]
 }

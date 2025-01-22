@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Wuryorejo",
-    "Giritirto",
-    "Giripurwo",
-    "Giriwono",
-    "Wonoboyo",
-    "Wonokarto",
-    "Sendang",
-    "Pokohkidul",
-    "Purworejo",
-    "Bulusulur",
-    "Purwosari",
-    "Wonoharjo",
-    "Manjung",
-    "Wonokerto",
-    "Sonoharjo"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wuryorejo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Giritirto"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Giripurwo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Giriwono"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Wonoboyo"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Wonokarto"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pokohkidul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulusulur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonoharjo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Manjung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sonoharjo"
+    }
   ]
 }

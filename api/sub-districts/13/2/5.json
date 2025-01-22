@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Supayang",
-    "Sirukam",
-    "Aie Luo (Aia Luo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Supayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sirukam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aie Luo (Aia Luo)"
+    }
   ]
 }

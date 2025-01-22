@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Turipinggir (Turi Pinggir)",
-    "Gongseng",
-    "Megaluh",
-    "Sudimoro",
-    "Balongsari",
-    "Sumbersari",
-    "Ngogri",
-    "Sidomulyo",
-    "Balonggemek",
-    "Dukuharum (Dukuh Arum)",
-    "Sumberagung (Sumber Agung)",
-    "Pacarpeluk (Pacar Peluk)",
-    "Kedungrejo (Kedung Rejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Turipinggir (Turi Pinggir)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gongseng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Megaluh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sudimoro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balongsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngogri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Balonggemek"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dukuharum (Dukuh Arum)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pacarpeluk (Pacar Peluk)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kedungrejo (Kedung Rejo)"
+    }
   ]
 }

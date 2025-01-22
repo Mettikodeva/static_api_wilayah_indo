@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Cikeruh",
-    "Hegarmanah",
-    "Cibeusi",
-    "Cipacing",
-    "Sayang",
-    "Mekargalih",
-    "Cintamulya (Cinta Mulya)",
-    "Jatimukti",
-    "Cisempur",
-    "Jatiroke",
-    "Cileles",
-    "Cilayung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikeruh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibeusi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipacing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sayang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekargalih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cintamulya (Cinta Mulya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatimukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cisempur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatiroke"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cileles"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cilayung"
+    }
   ]
 }

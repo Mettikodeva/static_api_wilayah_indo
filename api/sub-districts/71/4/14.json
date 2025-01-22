@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Makatara",
-    "Makatara Timur",
-    "Awit",
-    "Awit Selatan",
-    "Rae",
-    "Rae Selatan",
-    "Lobbo",
-    "Lobbo I"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Makatara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Makatara Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Awit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Awit Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rae"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rae Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lobbo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lobbo I"
+    }
   ]
 }

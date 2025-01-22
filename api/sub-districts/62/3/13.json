@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tamban Baru Timur",
-    "Tamban Baru Tengah",
-    "Tamban Baru Mekar",
-    "Bandaraya (Bandar Raya)",
-    "Sidorejo",
-    "Warna Sari",
-    "Bandar Mekar",
-    "Tamban Makmur (Tambun Makmur)",
-    "Sidomulyo",
-    "Tamban Jaya (Tambun Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tamban Baru Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamban Baru Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamban Baru Mekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandaraya (Bandar Raya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Warna Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandar Mekar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamban Makmur (Tambun Makmur)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tamban Jaya (Tambun Jaya)"
+    }
   ]
 }

@@ -1,28 +1,100 @@
 {
   "sub_districts": [
-    "Sidokare",
-    "Celep",
-    "Sekardangan",
-    "Gebang",
-    "Bulusidokare",
-    "Pucanganom",
-    "Pekauman",
-    "Lemahputro",
-    "Sidokumpul",
-    "Sidoklumpuk",
-    "Pucang",
-    "Magersari",
-    "Cemenkalang (Cemeng Kalang)",
-    "Urangagung (Jedong)",
-    "Lebo",
-    "Suko",
-    "Banjarbendo",
-    "Rangkahkidul",
-    "Blurukidul (Bluru Kidul)",
-    "Kemiri",
-    "Jati",
-    "Cemengbakalan (Cemeng Bakalan)",
-    "Sarirogo (Sari Rogo)",
-    "Sumput"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sidokare"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Celep"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sekardangan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bulusidokare"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pucanganom"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pekauman"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Lemahputro"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sidokumpul"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Sidoklumpuk"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Pucang"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Magersari"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Cemenkalang (Cemeng Kalang)"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Urangagung (Jedong)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjarbendo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rangkahkidul"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Blurukidul (Bluru Kidul)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cemengbakalan (Cemeng Bakalan)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sarirogo (Sari Rogo)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sumput"
+    }
   ]
 }

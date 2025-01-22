@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukabumi",
-    "Sukabumi Indah",
-    "Campang Raya",
-    "Nusantara Permai",
-    "Campang Jaya",
-    "Way Gubak",
-    "Way Laga"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukabumi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukabumi Indah"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Campang Raya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Nusantara Permai"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Campang Jaya"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Way Gubak"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Way Laga"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sungai Mancur",
-    "Tanah Periuk",
-    "Lubuk Landai",
-    "Rantau Embacang",
-    "Tebing Tinggi",
-    "Embacang Gedang",
-    "Sungai Puri",
-    "Paku Aji",
-    "Pematang Panjang",
-    "Sungai Lilin",
-    "Sungai Tembang",
-    "Rantau Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Mancur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanah Periuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Landai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Embacang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Embacang Gedang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Puri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paku Aji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pematang Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Lilin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Tembang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rantau Makmur"
+    }
   ]
 }

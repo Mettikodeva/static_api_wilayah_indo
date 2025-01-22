@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ninia",
-    "Liligan",
-    "Niniahan",
-    "Waerek",
-    "Wahaik",
-    "Sohwal",
-    "Babet",
-    "Kahul",
-    "Hwealoma",
-    "Liligan II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ninia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Liligan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Niniahan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Waerek"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Wahaik"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sohwal"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Babet"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Kahul"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Hwealoma"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Liligan II"
+    }
   ]
 }

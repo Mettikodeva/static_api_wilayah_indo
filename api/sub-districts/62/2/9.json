@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bapinang Hulu",
-    "Bapinang Hilir",
-    "Bapinang Hilir Laut",
-    "Satiruk",
-    "Makarti Jaya",
-    "Rawa Sari",
-    "Hanaut",
-    "Babirah (Babriah)",
-    "Serambut",
-    "Babaung",
-    "Bamadu",
-    "Penyaguan",
-    "Hantipan",
-    "Bantian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bapinang Hulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bapinang Hilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bapinang Hilir Laut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Satiruk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makarti Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawa Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hanaut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babirah (Babriah)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Serambut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Babaung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bamadu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Penyaguan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hantipan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bantian"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Perdagangan I",
-    "Perdagangan III",
-    "Pematang Kerasaan",
-    "Marihat Bandar",
-    "Nagori Bandar",
-    "Bandar Rakyat",
-    "Bandar Pulo",
-    "Bah Lias",
-    "Pardagangan II (Perdagangan II)",
-    "Perlanaan",
-    "Sugarang Bayu",
-    "Pem.Kerasaan Rejo (Pematang Kerasaan Rejo)",
-    "Timbaan",
-    "Bandar Jawa",
-    "Sidotani",
-    "Landbouw"
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Perdagangan I"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Perdagangan III"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pematang Kerasaan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marihat Bandar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nagori Bandar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandar Rakyat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandar Pulo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bah Lias"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pardagangan II (Perdagangan II)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perlanaan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sugarang Bayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pem.Kerasaan Rejo (Pematang Kerasaan Rejo)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Timbaan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bandar Jawa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sidotani"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Landbouw"
+    }
   ]
 }

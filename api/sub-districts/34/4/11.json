@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sindumartani",
-    "Bimomartani (Bimo Martani)",
-    "Widodomartani (Widodo Martani)",
-    "Wedomartani",
-    "Umbulmartani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sindumartani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bimomartani (Bimo Martani)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Widodomartani (Widodo Martani)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wedomartani"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umbulmartani"
+    }
   ]
 }

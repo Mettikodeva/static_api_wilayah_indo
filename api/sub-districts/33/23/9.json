@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Manggong",
-    "Ngadirejo",
-    "Gondangwinangun",
-    "Gandu Wetan",
-    "Ngaren",
-    "Mangunsari",
-    "Dlimoyo",
-    "Purbosari",
-    "Campursari",
-    "Tegalrejo",
-    "Giripurno",
-    "Katekan",
-    "Banjarsari",
-    "Medari",
-    "Karanggedong",
-    "Munggangsari",
-    "Kataan",
-    "Petirejo",
-    "Pringapus",
-    "Gejagan"
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Manggong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gondangwinangun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gandu Wetan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngaren"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mangunsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dlimoyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purbosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Campursari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegalrejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Giripurno"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Katekan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Medari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karanggedong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Munggangsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kataan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Petirejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pringapus"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Gejagan"
+    }
   ]
 }

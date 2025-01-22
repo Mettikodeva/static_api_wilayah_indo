@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Napabalano",
-    "Maligano",
-    "Wakorumba Selatan",
-    "Lasalepa",
-    "Batalaiworu (Batalaiwaru)",
-    "Katobu",
-    "Duruka",
-    "Lohia",
-    "Watopute",
-    "Kontunaga",
-    "Kabangka",
-    "Kabawo",
-    "Parigi",
-    "Bone (Bone Tondo)",
-    "Tongkuno",
-    "Pasir Putih",
-    "Kontu Kowuna",
-    "Marobo",
-    "Tongkuno Selatan",
-    "Pasi Kolaga",
-    "Batukara",
-    "Towea"
+    {
+      "district_id": 6,
+      "kecamatan": "Napabalano"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Maligano"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Wakorumba Selatan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Lasalepa"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Batalaiworu (Batalaiwaru)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Katobu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Duruka"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Lohia"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Watopute"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kontunaga"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Kabangka"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Kabawo"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Parigi"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Bone (Bone Tondo)"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Tongkuno"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Pasir Putih"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Kontu Kowuna"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Marobo"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Tongkuno Selatan"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Pasi Kolaga"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Batukara"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Towea"
+    }
   ]
 }

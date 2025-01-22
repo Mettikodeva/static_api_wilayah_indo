@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kumuluk",
-    "Giari",
-    "Bonanip",
-    "Kukepake",
-    "Wayuleme",
-    "Bogomanum",
-    "Pindoak",
-    "Kotorambur",
-    "Numbo",
-    "Lambui"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kumuluk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Giari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonanip"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kukepake"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wayuleme"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bogomanum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pindoak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kotorambur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Numbo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lambui"
+    }
   ]
 }

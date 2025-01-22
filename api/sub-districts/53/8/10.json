@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Maurole",
-    "Aewora",
-    "Mausambi",
-    "Ranakolo",
-    "Watukamba",
-    "Ranakolo Selatan (Ranokolo Selatan)",
-    "Keliwumbu",
-    "Detuwulu (Detuwala)",
-    "Otogedu",
-    "Woloau",
-    "Ngalukoja",
-    "Niranusa",
-    "Uludala"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maurole"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aewora"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mausambi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ranakolo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watukamba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ranakolo Selatan (Ranokolo Selatan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keliwumbu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Detuwulu (Detuwala)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Otogedu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Woloau"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ngalukoja"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Niranusa"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Uludala"
+    }
   ]
 }

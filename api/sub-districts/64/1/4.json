@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tanah Grogot",
-    "Janju",
-    "Tepian Batang",
-    "Tanah Periuk",
-    "Pepara",
-    "Sei/Sungai Tuak",
-    "Sempulang",
-    "Jone",
-    "Rantau Panjang",
-    "Muara Pasir",
-    "Padang Pengrapat",
-    "Perepat",
-    "Pulau Rantau",
-    "Sungai Langir",
-    "Tapis",
-    "Senaken"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Grogot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Janju"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tepian Batang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanah Periuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pepara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Tuak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sempulang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jone"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara Pasir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Pengrapat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Perepat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulau Rantau"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sungai Langir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tapis"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Senaken"
+    }
   ]
 }

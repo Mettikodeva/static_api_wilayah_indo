@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Singajaya",
-    "Ciudian",
-    "Mekartani",
-    "Sukamulya",
-    "Sukawangi",
-    "Pancasura",
-    "Karangagung",
-    "Cigintung",
-    "Girimukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Singajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciudian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekartani"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukawangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pancasura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangagung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cigintung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Girimukti"
+    }
   ]
 }

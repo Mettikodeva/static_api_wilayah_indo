@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Siwikma",
-    "Pontempilik (Pontenpelek)",
-    "Piliam",
-    "Hiklahin",
-    "Helapilik",
-    "Lirutek",
-    "Huhulpunu",
-    "Pronggoli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siwikma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pontempilik (Pontenpelek)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Piliam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hiklahin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Helapilik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lirutek"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Huhulpunu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pronggoli"
+    }
   ]
 }

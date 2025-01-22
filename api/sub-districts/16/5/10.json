@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Terawas",
-    "Sumber Karya",
-    "Suko Rejo (Sukarejo)",
-    "Suka Karya (Sukakarya)",
-    "Sri Mulyo",
-    "Sukamerindu",
-    "Paduraksa",
-    "Babat",
-    "Pasenan",
-    "Sukaraya",
-    "Sukamana",
-    "Kosgoro",
-    "Sukaraya Baru"
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Terawas"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumber Karya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suko Rejo (Sukarejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Karya (Sukakarya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sri Mulyo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukamerindu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Paduraksa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Babat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pasenan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sukaraya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sukamana"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kosgoro"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sukaraya Baru"
+    }
   ]
 }

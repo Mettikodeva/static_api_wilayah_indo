@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Balanipa",
-    "Tammejarra (Tammajarra)",
-    "Tamanggalle (Tammangalle)",
-    "Mosso",
-    "Galung Tuluk (Galung Tulu)",
-    "Sabang Subik",
-    "Pambusuang",
-    "Bala",
-    "Lambanan",
-    "Lego",
-    "Pallis"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Balanipa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tammejarra (Tammajarra)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamanggalle (Tammangalle)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mosso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Galung Tuluk (Galung Tulu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sabang Subik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pambusuang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lambanan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lego"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pallis"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lelogama",
-    "Fatusuki",
-    "Oelbanu",
-    "Fatumetan",
-    "Oh'aem (Ohaem)",
-    "Leloboko",
-    "Oh'aem II (Ohaem Dua)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lelogama"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fatusuki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oelbanu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fatumetan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oh'aem (Ohaem)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leloboko"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Oh'aem II (Ohaem Dua)"
+    }
   ]
 }

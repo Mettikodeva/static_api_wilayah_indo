@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Babe",
-    "Jambul",
-    "Nungai",
-    "Mugulip",
-    "Kelmabet",
-    "Jenggeren"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nungai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mugulip"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kelmabet"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jenggeren"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tumbang Kalang",
-    "Kuluk Telawang",
-    "Sungai Puring",
-    "Tumbang Ngahan",
-    "Tumbang Ramei (Tumbang Ramai)",
-    "Tumbang Hejan",
-    "Sungai Hanya",
-    "Tumbang Sepayang (Tumbang Sepanyang)",
-    "Buntut Nusa",
-    "Tumbang Gagu",
-    "Tumbang Manya",
-    "Gunung Makmur",
-    "Mulya Agung",
-    "Bhakti Karya (Bakti Karya)",
-    "Waringin Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbang Kalang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuluk Telawang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Puring"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumbang Ngahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Ramei (Tumbang Ramai)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Hejan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Hanya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Sepayang (Tumbang Sepanyang)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Buntut Nusa"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tumbang Gagu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tumbang Manya"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Gunung Makmur"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Mulya Agung"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bhakti Karya (Bakti Karya)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Waringin Agung"
+    }
   ]
 }

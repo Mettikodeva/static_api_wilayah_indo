@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Winima",
-    "Mogonik",
-    "Winam",
-    "Kino",
-    "Ayeki",
-    "Enggama",
-    "Wurigelobar",
-    "Pagale",
-    "Arsbol",
-    "Yabendili",
-    "Moligi",
-    "Kugab (Kugap)",
-    "Engaima",
-    "Erageam",
-    "Wanilok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Winima"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mogonik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Winam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kino"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ayeki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Enggama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wurigelobar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagale"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Arsbol"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yabendili"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Moligi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kugab (Kugap)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Engaima"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Erageam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wanilok"
+    }
   ]
 }

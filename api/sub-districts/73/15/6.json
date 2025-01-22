@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Pekkabata",
-    "Tatae",
-    "Lampa",
-    "Data",
-    "Bittoeng",
-    "Kaballangan (Kaballangang)",
-    "Paria",
-    "Kaliang",
-    "Buttusawe",
-    "Maroneng",
-    "Katomporang",
-    "Bungi",
-    "Massewae",
-    "Bababinanga (Baba Binanga)",
-    "Barugae"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pekkabata"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tatae"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lampa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Data"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bittoeng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaballangan (Kaballangang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paria"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaliang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buttusawe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maroneng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Katomporang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bungi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Massewae"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bababinanga (Baba Binanga)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Barugae"
+    }
   ]
 }

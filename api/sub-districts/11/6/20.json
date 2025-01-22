@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cadek",
-    "Kajhu",
-    "Baet",
-    "Blang Krueng",
-    "Klieng Muria (Klieng Meuria)",
-    "Lam Bada Lhok",
-    "Lampineung",
-    "Lam Asan",
-    "Labuy (Labui)",
-    "Lam Ujong",
-    "Klieng Cot Aron",
-    "Cot Paya",
-    "Miruk Lam Reudep (Miruk Lam Reudeup)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cadek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kajhu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Blang Krueng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klieng Muria (Klieng Meuria)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lam Bada Lhok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lampineung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lam Asan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Labuy (Labui)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lam Ujong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Klieng Cot Aron"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cot Paya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Miruk Lam Reudep (Miruk Lam Reudeup)"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasar Sempurna",
-    "Huraba",
-    "Gunung Binanga",
-    "Marancar Godang",
-    "Simaninggir",
-    "Sugi (Sugi Tonga)",
-    "Haunatas",
-    "Aek Nabara",
-    "Gapuk Tua",
-    "Marancar Julu (Marancar)",
-    "Aek Sabaon",
-    "Tanjung Dolok"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar Sempurna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huraba"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunung Binanga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Marancar Godang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Simaninggir"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sugi (Sugi Tonga)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Haunatas"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Aek Nabara"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Gapuk Tua"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Marancar Julu (Marancar)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Aek Sabaon"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tanjung Dolok"
+    }
   ]
 }

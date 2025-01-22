@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kerobokan Kelod",
-    "Kerobokan",
-    "Kerobokan Kaja",
-    "Tibubeneng",
-    "Canggu",
-    "Dalung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kerobokan Kelod"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kerobokan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kerobokan Kaja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tibubeneng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Canggu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dalung"
+    }
   ]
 }

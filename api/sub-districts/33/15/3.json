@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Lajer",
-    "Sedadi",
-    "Bologarang",
-    "Karangwader (Karangawader)",
-    "Toko",
-    "Pengkol",
-    "Leyangan",
-    "Watupawon (Watu Pawon)",
-    "Tunggu",
-    "Jipang",
-    "Kramat",
-    "Curut",
-    "Wedoro",
-    "Kluwan",
-    "Karangpahing (Karangpaing)",
-    "Pulutan",
-    "Winong",
-    "Wolo",
-    "Ngeluk",
-    "Penawangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lajer"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sedadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bologarang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangwader (Karangawader)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pengkol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Leyangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watupawon (Watu Pawon)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tunggu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jipang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Curut"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wedoro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kluwan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangpahing (Karangpaing)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pulutan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wolo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ngeluk"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Penawangan"
+    }
   ]
 }

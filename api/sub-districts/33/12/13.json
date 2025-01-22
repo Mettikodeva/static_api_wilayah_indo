@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mlokomanis Kulon (Mlokomaniskulon)",
-    "Kasihan",
-    "Gemawang",
-    "Kerjo Kidul (Kerjokidul)",
-    "Gedong",
-    "Pondok",
-    "Kerjo Lor (Kerjolor)",
-    "Ngadirojo Kidul (Ngadirojokidul)",
-    "Ngadirojo Lor (Ngadirojolor)",
-    "Mlokomanis Wetan (Mlokomaniswetan)",
-    "Jatimarto"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mlokomanis Kulon (Mlokomaniskulon)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kasihan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gemawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kerjo Kidul (Kerjokidul)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gedong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kerjo Lor (Kerjolor)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngadirojo Kidul (Ngadirojokidul)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngadirojo Lor (Ngadirojolor)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mlokomanis Wetan (Mlokomaniswetan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jatimarto"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Logandeng",
-    "Jrebengkembang (Jrebeng Kembang)",
-    "Pagumenganmas (Pagumengan Mas)",
-    "Kedungkebo (Kedung Kebo)",
-    "Kaligawe",
-    "Karangdadap",
-    "Kalilembu",
-    "Pangkah",
-    "Kebonrowopucang (Kebonrowo Pucang)",
-    "Kebonsari",
-    "Pegandon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Logandeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jrebengkembang (Jrebeng Kembang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagumenganmas (Pagumengan Mas)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungkebo (Kedung Kebo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaligawe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangdadap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalilembu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangkah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kebonrowopucang (Kebonrowo Pucang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pegandon"
+    }
   ]
 }

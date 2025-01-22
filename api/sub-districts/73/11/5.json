@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Palanro",
-    "Mallawa",
-    "Bojo Baru",
-    "Cilellang",
-    "Manuba",
-    "Nepo",
-    "Kupa",
-    "Bojo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Palanro"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mallawa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bojo Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cilellang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manuba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nepo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kupa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojo"
+    }
   ]
 }

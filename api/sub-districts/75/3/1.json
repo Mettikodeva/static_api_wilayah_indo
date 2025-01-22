@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Talumopatu",
-    "Talulobutu",
-    "Dunggala",
-    "Langge",
-    "Talulobutu Selatan",
-    "Keramat",
-    "Meranti"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talumopatu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talulobutu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dunggala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langge"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Talulobutu Selatan"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Keramat"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Meranti"
+    }
   ]
 }

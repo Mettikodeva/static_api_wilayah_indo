@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Momunu",
-    "Pinamula",
-    "Pujimulyo",
-    "Taluan",
-    "Potugu",
-    "Panimbul",
-    "Tongon",
-    "Lamadong II",
-    "Pomayagon",
-    "Guamonial",
-    "Lamadong I",
-    "Pajeko",
-    "Wakat",
-    "Soraya",
-    "Pinamula Baru",
-    "Mangubi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Momunu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pinamula"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pujimulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taluan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Potugu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panimbul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tongon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamadong II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pomayagon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Guamonial"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lamadong I"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pajeko"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wakat"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Soraya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pinamula Baru"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Mangubi"
+    }
   ]
 }

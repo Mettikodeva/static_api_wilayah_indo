@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Balai Gemuruh",
-    "Sungai Sapa' (Sungai Sapa)",
-    "Madak",
-    "Sabung",
-    "Tebuah Elok",
-    "Sungai Deden",
-    "Bukit Mulya",
-    "Mukti Raharja",
-    "Sempurna",
-    "Mensade",
-    "Karaban Jaya",
-    "Arga Pura",
-    "Sapak Hulu Trans"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balai Gemuruh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Sapa' (Sungai Sapa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Madak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sabung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tebuah Elok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Deden"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mukti Raharja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sempurna"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mensade"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karaban Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Arga Pura"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sapak Hulu Trans"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Konda",
-    "Puosu Jaya",
-    "Lamomea",
-    "Alebo",
-    "Morome (Morame)",
-    "Lebo Jaya",
-    "Lambusa",
-    "Pambulsa Jaya (Pambulaa Jaya)",
-    "Ambololi",
-    "Tanea",
-    "Masagena",
-    "Cialam Jaya",
-    "Wonua",
-    "Lawoila",
-    "Lalowiu",
-    "Amohalo",
-    "Ranowila",
-    "Konda Satu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Konda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Puosu Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamomea"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alebo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Morome (Morame)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebo Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lambusa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pambulsa Jaya (Pambulaa Jaya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ambololi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanea"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Masagena"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cialam Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lawoila"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lalowiu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Amohalo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ranowila"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Konda Satu"
+    }
   ]
 }

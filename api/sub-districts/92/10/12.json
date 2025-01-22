@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mupas",
-    "Kamat",
-    "Frambu",
-    "Ayata",
-    "Aikus",
-    "Aiwesa",
-    "Pitor",
-    "Aifam",
-    "Saud",
-    "Tiam",
-    "Faan Kahrio (Faan)",
-    "Assem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mupas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kamat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Frambu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ayata"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aikus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aiwesa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pitor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aifam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Saud"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tiam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Faan Kahrio (Faan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Assem"
+    }
   ]
 }

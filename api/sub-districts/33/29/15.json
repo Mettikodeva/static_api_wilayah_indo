@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kamal",
-    "Karangbale",
-    "Kedungbokor",
-    "Larangan",
-    "Luwunggede",
-    "Pamulihan",
-    "Rengaspendawa",
-    "Sitanggal",
-    "Slatri",
-    "Wlahar",
-    "Siandong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kamal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangbale"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungbokor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Larangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Luwunggede"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pamulihan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rengaspendawa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sitanggal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Slatri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wlahar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Siandong"
+    }
   ]
 }

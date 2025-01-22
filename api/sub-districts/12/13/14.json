@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Simpang Gambir",
-    "Tapus",
-    "Aek Garingging (Aek Garinggin)",
-    "Aek Manyuruk",
-    "Bandar Limabung",
-    "Lancat",
-    "Kampung Baru",
-    "Lobung",
-    "Pangkalan",
-    "Perk. Simpang (Perk. Simpang Gambir)",
-    "Sikumbu",
-    "Simpang Bajole",
-    "Simpang Duku",
-    "Simpang Durian",
-    "Simpang Koje",
-    "Dalan Lidang",
-    "Bonca Bayuon",
-    "Perbatasan",
-    "Tangsi Atas"
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Simpang Gambir"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Tapus"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aek Garingging (Aek Garinggin)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aek Manyuruk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Limabung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lancat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lobung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Perk. Simpang (Perk. Simpang Gambir)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sikumbu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Simpang Bajole"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Simpang Duku"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Simpang Durian"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Simpang Koje"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Dalan Lidang"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Bonca Bayuon"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Perbatasan"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Tangsi Atas"
+    }
   ]
 }

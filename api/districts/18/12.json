@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Tulang Bawang Tengah",
-    "Tumijajar",
-    "Tulang Bawang Udik",
-    "Gunung Terang",
-    "Gunung Agung",
-    "Way Kenanga",
-    "Lambu Kibang",
-    "Pagar Dewa",
-    "Batu Putih"
+    {
+      "district_id": 1,
+      "kecamatan": "Tulang Bawang Tengah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tumijajar"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tulang Bawang Udik"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Gunung Terang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Gunung Agung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Way Kenanga"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lambu Kibang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pagar Dewa"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Batu Putih"
+    }
   ]
 }

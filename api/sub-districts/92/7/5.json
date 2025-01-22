@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sabubar",
-    "Ambuar",
-    "Karuan",
-    "Yarpate",
-    "Nordiwar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sabubar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ambuar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karuan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yarpate"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nordiwar"
+    }
   ]
 }

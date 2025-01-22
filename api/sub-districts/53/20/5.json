@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lobohede",
-    "Molie (Mole)",
-    "Daieko",
-    "Pedarro (Pedaro)",
-    "Tanajawa",
-    "Ledeae",
-    "Wadumaddi (Wadumedi / Wadumeddi)",
-    "Lederaga",
-    "Gurimonearu",
-    "Raemadia (Ramedue)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lobohede"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Molie (Mole)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Daieko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pedarro (Pedaro)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanajawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ledeae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wadumaddi (Wadumedi / Wadumeddi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lederaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gurimonearu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Raemadia (Ramedue)"
+    }
   ]
 }

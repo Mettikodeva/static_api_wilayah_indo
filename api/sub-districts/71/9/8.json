@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kinali",
-    "Hiung",
-    "Kiawang",
-    "Kawahang",
-    "Batubulan",
-    "Nameng",
-    "Mini",
-    "Winangun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kinali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hiung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kiawang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kawahang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batubulan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nameng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mini"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Winangun"
+    }
   ]
 }

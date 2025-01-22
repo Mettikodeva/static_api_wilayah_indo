@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Yausakor",
-    "Damen",
-    "Biwar Darat",
-    "Kaimo",
-    "Awok",
-    "Fos",
-    "Waganu",
-    "Sakor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yausakor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Damen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biwar Darat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaimo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Awok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fos"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waganu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sakor"
+    }
   ]
 }

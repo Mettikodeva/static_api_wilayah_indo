@@ -1,6 +1,12 @@
 {
   "districts": [
-    "Lubuk Sikarah",
-    "Tanjung Harapan"
+    {
+      "district_id": 1,
+      "kecamatan": "Lubuk Sikarah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Harapan"
+    }
   ]
 }

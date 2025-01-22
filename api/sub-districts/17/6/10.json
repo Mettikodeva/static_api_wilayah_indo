@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Penarik",
-    "Lubuk Mukti",
-    "Bumi Mulya",
-    "Suka Maju",
-    "Bukit Makmur",
-    "Sumber Mulya",
-    "Sido Dadi",
-    "Maju Makmur",
-    "Sendang Mulyo",
-    "Marga Mulya Sakti",
-    "Wonosobo",
-    "Mekar Mulya",
-    "Sido Mulyo (Sido Mulya)",
-    "Marga Mukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penarik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Mukti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bumi Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukit Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sido Dadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maju Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sendang Mulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Marga Mulya Sakti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonosobo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Mulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sido Mulyo (Sido Mulya)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Marga Mukti"
+    }
   ]
 }

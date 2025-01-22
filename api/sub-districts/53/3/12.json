@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Oelneke",
-    "Oetulu",
-    "Oeolo",
-    "Ainan",
-    "Bisafe",
-    "Batnes"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oelneke"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oetulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oeolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ainan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bisafe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batnes"
+    }
   ]
 }

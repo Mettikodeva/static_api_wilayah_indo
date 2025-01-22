@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Gemawang",
-    "Lubuk Raman",
-    "Jemenang",
-    "Tanjung Menang",
-    "Tebat Agung",
-    "Gerinam",
-    "Suban Jeriji",
-    "Air Limau",
-    "Muara Emburung",
-    "Manunggal Jaya",
-    "Air Talas",
-    "Air Enau",
-    "Manunggal Makmur",
-    "Aur Duri",
-    "Kasih Dewa",
-    "Air Cekdam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gemawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Raman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jemenang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Menang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tebat Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gerinam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suban Jeriji"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Air Limau"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Muara Emburung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Manunggal Jaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Air Talas"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Air Enau"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Manunggal Makmur"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Aur Duri"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kasih Dewa"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Air Cekdam"
+    }
   ]
 }

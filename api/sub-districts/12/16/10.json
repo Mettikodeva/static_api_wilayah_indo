@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tarabintang (Tara Bintang)",
-    "Sihotang Hasugian Toruan",
-    "Sibongkare",
-    "Sitanduk",
-    "Sihombu",
-    "Simbara",
-    "Marpadan",
-    "Mungkur",
-    "Sibongkare Sianju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tarabintang (Tara Bintang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sihotang Hasugian Toruan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sibongkare"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sitanduk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sihombu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simbara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marpadan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mungkur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sibongkare Sianju"
+    }
   ]
 }

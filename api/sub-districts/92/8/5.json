@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rauna",
-    "Werafuta",
-    "Sermuku (Ubia Sermuku)",
-    "Bahumia",
-    "Waho",
-    "Wamesa",
-    "Kooy"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rauna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Werafuta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sermuku (Ubia Sermuku)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bahumia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waho"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wamesa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kooy"
+    }
   ]
 }

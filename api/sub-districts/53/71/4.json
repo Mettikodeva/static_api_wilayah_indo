@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Oebobo",
-    "Oetete",
-    "Oebufu",
-    "Liliba",
-    "Fatululi",
-    "Kayu Putih",
-    "Tuak Daun Merah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Oebobo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Oetete"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Oebufu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Liliba"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Fatululi"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kayu Putih"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tuak Daun Merah"
+    }
   ]
 }

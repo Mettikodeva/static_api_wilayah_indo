@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pandan Sari (Pandansari)",
-    "Kintap",
-    "Kintap Pura (Kintapura)",
-    "Sei/Sungai Cuka",
-    "Riam Adungan",
-    "Muara Kintap",
-    "Salaman",
-    "Kintap Kecil",
-    "Pasir Putih",
-    "Sumber Jaya",
-    "Bukit Mulia",
-    "Kebun Raya",
-    "Mekar Raya (Mekarsari)",
-    "Sebamban Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandan Sari (Pandansari)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kintap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kintap Pura (Kintapura)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Cuka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Riam Adungan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Kintap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salaman"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kintap Kecil"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Mulia"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kebun Raya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mekar Raya (Mekarsari)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sebamban Baru"
+    }
   ]
 }

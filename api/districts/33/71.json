@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Magelang Selatan",
-    "Magelang Utara",
-    "Magelang Tengah"
+    {
+      "district_id": 1,
+      "kecamatan": "Magelang Selatan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Magelang Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Magelang Tengah"
+    }
   ]
 }

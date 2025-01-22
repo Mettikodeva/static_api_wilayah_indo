@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cisauk",
-    "Mekar Wangi (Mekarwangi)",
-    "Suradita",
-    "Sampora",
-    "Dangdang",
-    "Cibogo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cisauk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekar Wangi (Mekarwangi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suradita"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sampora"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dangdang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cibogo"
+    }
   ]
 }

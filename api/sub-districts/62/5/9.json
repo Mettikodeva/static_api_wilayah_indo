@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nihan Hilir",
-    "Nihan Hulu",
-    "Luwe Hilir",
-    "Luwe Hulu",
-    "Jangkang Baru",
-    "Jangkang Lama",
-    "Papar Pujung",
-    "Teluk Malewai",
-    "Benao Hilir",
-    "Benao Hulu",
-    "Karamuan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nihan Hilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nihan Hulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Luwe Hilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Luwe Hulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jangkang Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jangkang Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Papar Pujung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Malewai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Benao Hilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Benao Hulu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karamuan"
+    }
   ]
 }

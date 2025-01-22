@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Beo",
-    "Beo Timur",
-    "Beo Barat",
-    "Bantik (Beo Bantik)",
-    "Bengel",
-    "Bantik Lama"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Beo"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Beo Timur"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Beo Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bantik (Beo Bantik)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bengel"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bantik Lama"
+    }
   ]
 }

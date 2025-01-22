@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Baru",
-    "Bawahan Pasar",
-    "Bawahan Seberang",
-    "Pematang Danau",
-    "Surian",
-    "Mataraman",
-    "Simpang Tiga",
-    "Bawahan Selan",
-    "Takuti",
-    "Pasiraman",
-    "Lok Tamu",
-    "Sei/Sungai Jati",
-    "Mangkalawat (Mangka Lawat)",
-    "Gunung Ulin",
-    "Tanah Abang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bawahan Pasar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bawahan Seberang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang Danau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Surian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mataraman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bawahan Selan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Takuti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasiraman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lok Tamu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sei/Sungai Jati"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mangkalawat (Mangka Lawat)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunung Ulin"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanah Abang"
+    }
   ]
 }

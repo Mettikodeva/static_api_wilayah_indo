@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Wirosari",
-    "Kunden",
-    "Tambahrejo",
-    "Kropak",
-    "Kalirejo",
-    "Dapurno",
-    "Mojorebo",
-    "Tanjungrejo",
-    "Sambirejo",
-    "Gedangan",
-    "Tambakselo",
-    "Karangasem",
-    "Dokoro",
-    "Tegalrejo"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wirosari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kunden"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambahrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kropak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dapurno"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mojorebo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungrejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gedangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambakselo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangasem"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dokoro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tegalrejo"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Watubangga",
-    "Tandebura",
-    "Wolulu",
-    "Lamundre",
-    "Kukutio",
-    "Langgosipi",
-    "Sumber Rejeki",
-    "Peoho",
-    "Mataosu",
-    "Polenga",
-    "Kastura",
-    "Gunung Sari",
-    "Mataosu Ujung",
-    "Ranoteta"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Watubangga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tandebura"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Wolulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lamundre"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kukutio"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Langgosipi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Rejeki"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Peoho"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mataosu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Polenga"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kastura"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Gunung Sari"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Mataosu Ujung"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Ranoteta"
+    }
   ]
 }

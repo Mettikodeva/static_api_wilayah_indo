@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sukaraja",
-    "Kesambe Baru",
-    "Karang Anyar",
-    "Talang Ulu",
-    "Duku Ulu",
-    "Duku Ilir",
-    "Air Meles Bawah",
-    "Kampung Delima",
-    "Kesambe Lama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kesambe Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Talang Ulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Duku Ulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Duku Ilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Meles Bawah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampung Delima"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kesambe Lama"
+    }
   ]
 }

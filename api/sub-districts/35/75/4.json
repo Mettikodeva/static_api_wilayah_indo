@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Karanganyar",
-    "Tamba'an (Tambaan)",
-    "Trajeng",
-    "Bangilan",
-    "Kebonsari",
-    "Mayangan",
-    "Ngemplakrejo",
-    "Petamanan",
-    "Pekuncen",
-    "Bugul Lor",
-    "Kandangsapi (Kandang Sapi)",
-    "Panggungrejo",
-    "Mandaranrejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tamba'an (Tambaan)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Trajeng"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bangilan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mayangan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ngemplakrejo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Petamanan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pekuncen"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Bugul Lor"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kandangsapi (Kandang Sapi)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Panggungrejo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Mandaranrejo"
+    }
   ]
 }

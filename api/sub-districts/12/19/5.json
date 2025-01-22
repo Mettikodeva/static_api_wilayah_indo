@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Labuhan Ruku",
-    "Dahari Silebar (Dahari Selebar)",
-    "Mesjid Lama",
-    "Padang Genting",
-    "Pahang",
-    "Panjang",
-    "Gunungrante (Gunung Rante)",
-    "Dahari Indah",
-    "Indra Yaman",
-    "Benteng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Labuhan Ruku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dahari Silebar (Dahari Selebar)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mesjid Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padang Genting"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pahang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panjang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunungrante (Gunung Rante)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dahari Indah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Indra Yaman"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Benteng"
+    }
   ]
 }

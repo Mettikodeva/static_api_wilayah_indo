@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bittuang",
-    "Se'seng",
-    "Pali'",
-    "Tiroan",
-    "Balla",
-    "Le'tek",
-    "Kole Palian",
-    "Patongloan",
-    "Sasak",
-    "Bau",
-    "Sandana",
-    "Rembo-Rembo",
-    "Burasia",
-    "Kandua'",
-    "Buttu Limbong"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bittuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Se'seng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pali'"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tiroan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balla"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Le'tek"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kole Palian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Patongloan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sasak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bau"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sandana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rembo-Rembo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Burasia"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kandua'"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Buttu Limbong"
+    }
   ]
 }

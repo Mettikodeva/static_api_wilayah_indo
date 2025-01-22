@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Murung",
-    "Tanah Siang",
-    "Laung Tuhup",
-    "Permata Intan",
-    "Sumber Barito",
-    "Barito Tuhup Raya",
-    "Tanah Siang Selatan",
-    "Sungai Babuat",
-    "Seribu Riam",
-    "Uut Murung"
+    {
+      "district_id": 1,
+      "kecamatan": "Murung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanah Siang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Laung Tuhup"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Permata Intan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sumber Barito"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Barito Tuhup Raya"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tanah Siang Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sungai Babuat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Seribu Riam"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Uut Murung"
+    }
   ]
 }

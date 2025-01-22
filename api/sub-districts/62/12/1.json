@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Puruk Cahu",
-    "Beriwit",
-    "Dirung",
-    "Malasan/Masalan",
-    "Batu Putih",
-    "Mangkahui",
-    "Panu'ut (Panuut / Panaout)",
-    "Muara Untu",
-    "Muara Ja'an (Muara Jaan)",
-    "Bahitom/Bahintom",
-    "Danau Usung",
-    "Jangin/Juking Pajang",
-    "Muara Sumpoi",
-    "Muara Bumban/Bamban",
-    "Penyang"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Puruk Cahu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Beriwit"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dirung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malasan/Masalan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mangkahui"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panu'ut (Panuut / Panaout)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Untu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Ja'an (Muara Jaan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bahitom/Bahintom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Danau Usung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jangin/Juking Pajang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Sumpoi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muara Bumban/Bamban"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Penyang"
+    }
   ]
 }

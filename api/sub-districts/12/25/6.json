@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Balodano",
-    "Hiambanua",
-    "Hilimayo (Hili Mayo)",
-    "Sihareo",
-    "Lolomboli",
-    "Ononamolo I",
-    "Hilimbaruzo",
-    "Tarahoso",
-    "Ononamolo II",
-    "Taraha",
-    "Lahagu",
-    "Hilimbowo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balodano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hiambanua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hilimayo (Hili Mayo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sihareo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lolomboli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ononamolo I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilimbaruzo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tarahoso"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ononamolo II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taraha"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lahagu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hilimbowo"
+    }
   ]
 }

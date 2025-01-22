@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rancakasumba",
-    "Solokanjeruk (Solokan Jeruk)",
-    "Cibodas",
-    "Panyadap",
-    "Bojongemas",
-    "Padamukti",
-    "Langensari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rancakasumba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Solokanjeruk (Solokan Jeruk)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panyadap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojongemas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padamukti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langensari"
+    }
   ]
 }

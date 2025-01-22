@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Tulungagung",
-    "Boyolangu",
-    "Kedungwaru",
-    "Ngantru",
-    "Kauman",
-    "Pagerwojo",
-    "Sendang",
-    "Karangrejo (Karang Rejo)",
-    "Gondang",
-    "Sumbergempol",
-    "Ngunut",
-    "Pucanglaban",
-    "Rejotangan",
-    "Kalidawir",
-    "Besuki",
-    "Campurdarat (Campur Darat)",
-    "Bandung",
-    "Pakel",
-    "Tanggunggunung (Tanggung Gunung)"
+    {
+      "district_id": 1,
+      "kecamatan": "Tulungagung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Boyolangu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kedungwaru"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ngantru"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kauman"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pagerwojo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sendang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Karangrejo (Karang Rejo)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Gondang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sumbergempol"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ngunut"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pucanglaban"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Rejotangan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kalidawir"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Besuki"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Campurdarat (Campur Darat)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bandung"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Pakel"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tanggunggunung (Tanggung Gunung)"
+    }
   ]
 }

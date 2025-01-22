@@ -1,44 +1,164 @@
 {
   "sub_districts": [
-    "Lamie",
-    "Kuta Trieng",
-    "Geulanggang Gajah (Gelanggang Gajah)",
-    "Kayee Unoe",
-    "Blang Baro",
-    "Alue Bilie",
-    "Suka Raja",
-    "Gunong Cut",
-    "Suka Jadi",
-    "Tuwi Buya",
-    "Ujong Lamie",
-    "Suak Palembang",
-    "Alue Waki",
-    "Alue Geutah",
-    "Krueng Alem",
-    "Alue Rambot",
-    "Krueng Seumayam (Krueng Seumanyam)",
-    "Pulo Teungoh",
-    "Karang Anyar (Karang Anyer)",
-    "Kuala Seumanyam",
-    "Pulo Ie",
-    "Pulo Kruet",
-    "Alue Kuyun",
-    "Alue Raya",
-    "Alue Jampak",
-    "Suka Mulia",
-    "Simpang Dua",
-    "Sidojadi (Sido Jadi)",
-    "Serba Jadi",
-    "Serba Guna",
-    "Simpang Deli Kilang (Sp. Deli Kilang)",
-    "Panton Bayu",
-    "Ujong Tanjong",
-    "Suka Ramai",
-    "Ladang Baro",
-    "Alue Bateung Brok",
-    "Simpang Deli Kampong (Sp. Deli Kampong)",
-    "Blang Luah",
-    "Sumber Makmur",
-    "Makarti Jaya"
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lamie"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kuta Trieng"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Geulanggang Gajah (Gelanggang Gajah)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kayee Unoe"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Blang Baro"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Alue Bilie"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Suka Raja"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Gunong Cut"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Suka Jadi"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tuwi Buya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Ujong Lamie"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Suak Palembang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Alue Waki"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Alue Geutah"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Krueng Alem"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Alue Rambot"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Krueng Seumayam (Krueng Seumanyam)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pulo Teungoh"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Karang Anyar (Karang Anyer)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Kuala Seumanyam"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pulo Ie"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Pulo Kruet"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Alue Kuyun"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Alue Raya"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Alue Jampak"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Suka Mulia"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Simpang Dua"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Sidojadi (Sido Jadi)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Serba Jadi"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Serba Guna"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Simpang Deli Kilang (Sp. Deli Kilang)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Panton Bayu"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Ujong Tanjong"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Suka Ramai"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Ladang Baro"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Alue Bateung Brok"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Simpang Deli Kampong (Sp. Deli Kampong)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Blang Luah"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Makarti Jaya"
+    }
   ]
 }

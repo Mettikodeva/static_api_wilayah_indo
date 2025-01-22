@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gayamprit",
-    "Kajoran",
-    "Glodogan",
-    "Ngalas",
-    "Danguran",
-    "Trunuh",
-    "Sumberejo",
-    "Merbung",
-    "Tegalyoso",
-    "Karanglo",
-    "Nglinggi",
-    "Jetis"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gayamprit"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kajoran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Glodogan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngalas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Danguran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trunuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Merbung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegalyoso"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karanglo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nglinggi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jetis"
+    }
   ]
 }

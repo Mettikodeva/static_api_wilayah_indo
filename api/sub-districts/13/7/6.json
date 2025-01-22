@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Manggilang",
-    "Tanjung/Tanjuang Balik",
-    "Gunuang Malintang",
-    "Pangkalan",
-    "Koto Alam",
-    "Tanjung Pauh (Tanjung / Tanjuang Pauah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manggilang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung/Tanjuang Balik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunuang Malintang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Alam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Pauh (Tanjung / Tanjuang Pauah)"
+    }
   ]
 }

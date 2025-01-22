@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Syujak",
-    "Banso",
-    "Iof",
-    "Frafane"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Syujak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Iof"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Frafane"
+    }
   ]
 }

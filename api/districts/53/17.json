@@ -1,10 +1,28 @@
 {
   "districts": [
-    "Katiku Tana",
-    "Umbu Ratu Nggay Barat",
-    "Mamboro",
-    "Umbu Ratu Nggay",
-    "Katiku Tana Selatan (Katikutana Selatan)",
-    "Umbu Ratu Nggay Tengah"
+    {
+      "district_id": 1,
+      "kecamatan": "Katiku Tana"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Umbu Ratu Nggay Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mamboro"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Umbu Ratu Nggay"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Katiku Tana Selatan (Katikutana Selatan)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Umbu Ratu Nggay Tengah"
+    }
   ]
 }

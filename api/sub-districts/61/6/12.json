@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Setulang",
-    "Sepandan",
-    "Sei/Sungai Ajung",
-    "Sei/Sungai Abau",
-    "Labian",
-    "Mensiau",
-    "Melemba",
-    "Lanjak Deras",
-    "Sungai Senunuk",
-    "Labian Ira'ang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Setulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sepandan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Ajung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Abau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mensiau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Melemba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lanjak Deras"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Senunuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labian Ira'ang"
+    }
   ]
 }

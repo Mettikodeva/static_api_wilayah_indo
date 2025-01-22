@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Rengas",
-    "Kesuma Dadi (Kesumadadi)",
-    "Sinar Banten/Bekri",
-    "Kesuma Jaya",
-    "Binjai Ngagung (Agung)",
-    "Kedatuan",
-    "Goras Jaya",
-    "Bangun Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rengas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kesuma Dadi (Kesumadadi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinar Banten/Bekri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kesuma Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binjai Ngagung (Agung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedatuan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Goras Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangun Sari"
+    }
   ]
 }

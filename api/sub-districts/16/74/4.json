@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Rambang",
-    "Karya Mulya",
-    "Rambang Senuling",
-    "Jungai",
-    "Talang Batu",
-    "Karangan",
-    "Karang Bindu",
-    "Sinar Rambang",
-    "Kemang Tanduk (Kembang Tanduk)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Rambang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karya Mulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rambang Senuling"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jungai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Batu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Bindu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sinar Rambang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kemang Tanduk (Kembang Tanduk)"
+    }
   ]
 }

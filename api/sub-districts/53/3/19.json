@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Fafinesu A",
-    "Fafinesu B",
-    "Fafinesu C",
-    "Oenain",
-    "Banuan/Baunuan",
-    "Fafinesu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fafinesu A"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fafinesu B"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fafinesu C"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oenain"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banuan/Baunuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fafinesu"
+    }
   ]
 }

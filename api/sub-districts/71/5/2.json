@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Raraatean",
-    "Sion",
-    "Tompaso Baru I (Tompaso Baru Satu)",
-    "Kinalawiran",
-    "Tompaso Baru II (Tompaso Baru Dua)",
-    "Pinaesaan",
-    "Torout",
-    "Lindangan",
-    "Karowa",
-    "Liandok"
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Raraatean"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sion"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tompaso Baru I (Tompaso Baru Satu)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kinalawiran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tompaso Baru II (Tompaso Baru Dua)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pinaesaan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Torout"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lindangan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Karowa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Liandok"
+    }
   ]
 }

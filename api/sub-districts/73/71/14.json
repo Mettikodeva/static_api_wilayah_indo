@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tamalanrea",
-    "Kapasa",
-    "Tamalanrea Indah",
-    "Parang Loe",
-    "Bira",
-    "Tamalanrea Jaya",
-    "Buntusu",
-    "Kapasa Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tamalanrea"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kapasa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tamalanrea Indah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Parang Loe"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bira"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tamalanrea Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Buntusu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kapasa Raya"
+    }
   ]
 }

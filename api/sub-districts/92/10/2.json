@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Ayawasi",
-    "Ayawasi Selatan",
-    "Ayawasi Timur",
-    "Susai",
-    "Fonatu",
-    "Mosun",
-    "Wayane",
-    "Konja",
-    "Yarat",
-    "Man",
-    "Howait",
-    "Haenkanes",
-    "Konja Barat",
-    "Yarat Timur",
-    "Raha",
-    "Mowes",
-    "Irata",
-    "Neset",
-    "Mosun Timur",
-    "Mosun Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ayawasi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ayawasi Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ayawasi Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Susai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fonatu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mosun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wayane"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Konja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yarat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Man"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Howait"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Haenkanes"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Konja Barat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yarat Timur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Raha"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mowes"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Irata"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Neset"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mosun Timur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mosun Utara"
+    }
   ]
 }

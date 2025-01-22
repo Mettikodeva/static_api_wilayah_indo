@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cempaka Putih",
-    "Pondok Ranji",
-    "Pisangan",
-    "Cireundeu",
-    "Rempoa",
-    "Rengas"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cempaka Putih"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pondok Ranji"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pisangan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cireundeu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rempoa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rengas"
+    }
   ]
 }

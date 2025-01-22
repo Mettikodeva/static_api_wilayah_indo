@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tanjung Glugur",
-    "Mangaran",
-    "Tanjung Kamal",
-    "Semiring",
-    "Tanjung Pecinan",
-    "Trebungan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Glugur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Kamal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Semiring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Pecinan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Trebungan"
+    }
   ]
 }

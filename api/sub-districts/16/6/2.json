@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Danau Cala",
-    "Rantau Keroya",
-    "Tanjung Agung Timur",
-    "Petaling",
-    "Lais",
-    "Teluk",
-    "Epil",
-    "Purwosari",
-    "Teluk Kijing I",
-    "Teluk Kijing II",
-    "Teluk Kijing III",
-    "Tanjung Agung Utara",
-    "Tanjung Agung Barat",
-    "Tanjung Agung Selatan",
-    "Lais Utara",
-    "Epil Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Danau Cala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Keroya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Agung Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Petaling"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lais"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Epil"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teluk Kijing I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk Kijing II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teluk Kijing III"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Agung Utara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Agung Barat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjung Agung Selatan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lais Utara"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Epil Barat"
+    }
   ]
 }

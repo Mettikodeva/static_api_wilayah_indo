@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kalaparea",
-    "Pawenang",
-    "Nagrak Utara",
-    "Cisarua",
-    "Balekambang",
-    "Babakan Panjang",
-    "Darmareja",
-    "Cihanyawar",
-    "Nagrak Selatan",
-    "Girijaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalaparea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pawenang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nagrak Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Balekambang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Babakan Panjang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Darmareja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cihanyawar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nagrak Selatan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Girijaya"
+    }
   ]
 }

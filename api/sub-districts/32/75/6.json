@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Medansatria (Medan Satria)",
-    "Harapanmulya (Harapan Mulya)",
-    "Pejuang",
-    "Kalibaru (Kali Baru)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Medansatria (Medan Satria)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Harapanmulya (Harapan Mulya)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pejuang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalibaru (Kali Baru)"
+    }
   ]
 }

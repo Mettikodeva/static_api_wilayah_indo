@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tj. Haro Sikabu-kabu Pd. Panjang",
-    "Mungo",
-    "Sungai Kamuyang",
-    "Andaleh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tj. Haro Sikabu-kabu Pd. Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mungo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Kamuyang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Andaleh"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pipitak Jaya",
-    "Miawa",
-    "Batu Ampar",
-    "Harakit",
-    "Batung",
-    "Balawaian",
-    "Baramban",
-    "Buniin Jaya (Buni In Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pipitak Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Miawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Harakit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balawaian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baramban"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buniin Jaya (Buni In Jaya)"
+    }
   ]
 }

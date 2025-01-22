@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tondey (Tondei)",
-    "Tondei Satu (Tondey Satu)",
-    "Tondei Dua (Tondey Dua)",
-    "Raanan Baru",
-    "Ranaan Baru Satu (Raanan Baru Satu)",
-    "Ranaan Baru Dua (Raanan Baru Dua)",
-    "Toyopon",
-    "Keroit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tondey (Tondei)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tondei Satu (Tondey Satu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tondei Dua (Tondey Dua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Raanan Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ranaan Baru Satu (Raanan Baru Satu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ranaan Baru Dua (Raanan Baru Dua)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Toyopon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keroit"
+    }
   ]
 }

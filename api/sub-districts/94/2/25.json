@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dagai",
-    "Dagai Dua",
-    "Deide",
-    "Farride",
-    "Soi",
-    "Mbomban",
-    "Yeihineri (Yeihneri)",
-    "Mandara Lani",
-    "Debite",
-    "Gueri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dagai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dagai Dua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deide"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Farride"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Soi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mbomban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yeihineri (Yeihneri)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mandara Lani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Debite"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gueri"
+    }
   ]
 }

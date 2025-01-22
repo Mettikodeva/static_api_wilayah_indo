@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Rio Pakava",
-    "Dampelas",
-    "Banawa",
-    "Labuan",
-    "Sindue",
-    "Sirenja",
-    "Balaesang",
-    "Sojol",
-    "Banawa Selatan",
-    "Tanantovea",
-    "Pinembani (Panembani)",
-    "Sindue Tombusabora",
-    "Sindue Tobata",
-    "Banawa Tengah",
-    "Sojol Utara",
-    "Balaesang Tanjung"
+    {
+      "district_id": 4,
+      "kecamatan": "Rio Pakava"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Dampelas"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Banawa"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Labuan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sindue"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sirenja"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Balaesang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sojol"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Banawa Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tanantovea"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Pinembani (Panembani)"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Sindue Tombusabora"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Sindue Tobata"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Banawa Tengah"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Sojol Utara"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Balaesang Tanjung"
+    }
   ]
 }

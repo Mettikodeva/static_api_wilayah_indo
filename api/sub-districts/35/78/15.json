@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Krembangan Selatan",
-    "Kemayoran",
-    "Perak Barat",
-    "Dupak",
-    "Morokrembangan (Moro Krembangan)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Krembangan Selatan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kemayoran"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Perak Barat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Dupak"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Morokrembangan (Moro Krembangan)"
+    }
   ]
 }

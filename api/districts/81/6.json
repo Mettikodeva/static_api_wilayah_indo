@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Kairatu",
-    "Seram Barat",
-    "Taniwel",
-    "Huamual Belakang",
-    "Amalatu",
-    "Inamosol",
-    "Kairatu Barat",
-    "Huamual",
-    "Kepulauan Manipa",
-    "Taniwel Timur",
-    "Elpaputih"
+    {
+      "district_id": 1,
+      "kecamatan": "Kairatu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Seram Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Taniwel"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Huamual Belakang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Amalatu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Inamosol"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kairatu Barat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Huamual"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kepulauan Manipa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Taniwel Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Elpaputih"
+    }
   ]
 }

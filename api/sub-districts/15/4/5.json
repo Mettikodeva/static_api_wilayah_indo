@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Jembatan Mas",
-    "Tebing Tinggi",
-    "Serasah",
-    "Lubuk Ruso",
-    "Kuap",
-    "Senaning",
-    "Kubu Kandang",
-    "Ture",
-    "Pulau Betung",
-    "Lopak Aur",
-    "Selat",
-    "Teluk",
-    "Pulau Raman",
-    "Kaos",
-    "Simpang Kubu Kandang",
-    "Awin",
-    "Olak Rambahan",
-    "Teluk Ketapang",
-    "Kampung Pulau"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jembatan Mas"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Serasah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Ruso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senaning"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kubu Kandang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ture"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Betung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lopak Aur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Selat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Teluk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulau Raman"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kaos"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Simpang Kubu Kandang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Awin"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Olak Rambahan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Teluk Ketapang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kampung Pulau"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Yenanas",
-    "Amdui",
-    "Wailebet",
-    "Waiman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yenanas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Amdui"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wailebet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waiman"
+    }
   ]
 }

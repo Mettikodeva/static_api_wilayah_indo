@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Anjir Serapat Muara",
-    "Anjir Muara Kota",
-    "Patih Muhur",
-    "Anjir Muara Kota Tengah",
-    "Anjir Serapat Lama",
-    "Anjir Serapat Baru",
-    "Anjir Muara Lama",
-    "Sei/Sungai Punggu",
-    "Anjir Serapat Baru I",
-    "Patih Muhur Baru",
-    "Sei/Sungai Punggu Baru",
-    "Anjir Serapat Muara I",
-    "Sepakat Barsama (Sepakat Bersama)",
-    "Marabahan Baru",
-    "Beringin Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Anjir Serapat Muara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Anjir Muara Kota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patih Muhur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Anjir Muara Kota Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Anjir Serapat Lama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anjir Serapat Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Anjir Muara Lama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Punggu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Anjir Serapat Baru I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Patih Muhur Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei/Sungai Punggu Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Anjir Serapat Muara I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sepakat Barsama (Sepakat Bersama)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Marabahan Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Beringin Jaya"
+    }
   ]
 }

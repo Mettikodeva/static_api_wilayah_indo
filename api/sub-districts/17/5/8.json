@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Agung",
-    "Air Latak",
-    "Talang Perapat",
-    "Pagar Agung",
-    "Talang Tinggi",
-    "Lunjuk",
-    "Lubuk Lagan",
-    "Purbosari",
-    "Sengkuang Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Latak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Perapat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talang Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lunjuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Lagan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purbosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sengkuang Jaya"
+    }
   ]
 }

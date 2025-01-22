@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Waigama",
-    "Salafen",
-    "Aduwei",
-    "Atkari",
-    "Solal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waigama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salafen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aduwei"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Atkari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Solal"
+    }
   ]
 }

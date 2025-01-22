@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kalait",
-    "Kalait Satu",
-    "Kalait Dua",
-    "Kalait Tiga",
-    "Lowatag (Lowatak / Lowantag)",
-    "Bunag",
-    "Banga",
-    "Tambelang",
-    "Ranoako",
-    "Suhuyon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalait"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalait Satu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalait Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalait Tiga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lowatag (Lowatak / Lowantag)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bunag"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambelang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ranoako"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suhuyon"
+    }
   ]
 }

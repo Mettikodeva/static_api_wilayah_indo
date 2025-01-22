@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nigilome",
-    "Weni",
-    "Amuleme",
-    "Jigunggi",
-    "Kumikomo",
-    "Rumagi",
-    "Gelegi",
-    "Wombru",
-    "Kondokwe",
-    "Tinibolu",
-    "Winanggwi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nigilome"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Weni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amuleme"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jigunggi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumikomo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rumagi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gelegi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wombru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kondokwe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tinibolu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Winanggwi"
+    }
   ]
 }

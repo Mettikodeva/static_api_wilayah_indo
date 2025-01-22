@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Paweden",
-    "Gumelar",
-    "Purwodadi",
-    "Sampang",
-    "Slatri",
-    "Pagerpelah",
-    "Pasuruhan",
-    "Karanggondang",
-    "Jlegong",
-    "Ambal",
-    "Binangun",
-    "Karangkobar",
-    "Leksana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paweden"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gumelar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sampang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Slatri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagerpelah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasuruhan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karanggondang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jlegong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ambal"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangkobar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Leksana"
+    }
   ]
 }

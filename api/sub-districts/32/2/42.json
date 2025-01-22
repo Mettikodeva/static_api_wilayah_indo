@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Curugkembar",
-    "Cimenteng",
-    "Tanjungsari",
-    "Sindangraja",
-    "Mekartanjung",
-    "Nagrakjaya",
-    "Bojong Tugu (Bojongtugu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Curugkembar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimenteng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindangraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekartanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nagrakjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bojong Tugu (Bojongtugu)"
+    }
   ]
 }

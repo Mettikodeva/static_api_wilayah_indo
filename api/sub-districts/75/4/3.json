@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Motolohu",
-    "Imbodu",
-    "Manunggal Karya",
-    "Sidorukun",
-    "Sarimurni (Sari Murni)",
-    "Huyula",
-    "Omayuwa",
-    "Ayula",
-    "Patuhu",
-    "Banuroja",
-    "Pelambane (Pelambane Perda)",
-    "Motolohu Selatan",
-    "Sidowonge (Siduwonge)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Motolohu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Imbodu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manunggal Karya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidorukun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sarimurni (Sari Murni)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Huyula"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Omayuwa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ayula"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Patuhu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banuroja"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pelambane (Pelambane Perda)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Motolohu Selatan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sidowonge (Siduwonge)"
+    }
   ]
 }

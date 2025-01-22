@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bareng",
-    "Kabupaten",
-    "Klaten",
-    "Tonggalan",
-    "Buntalan",
-    "Mojayan",
-    "Semangkak",
-    "Jomboran",
-    "Gumulan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bareng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kabupaten"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klaten"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tonggalan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Buntalan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mojayan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semangkak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jomboran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gumulan"
+    }
   ]
 }

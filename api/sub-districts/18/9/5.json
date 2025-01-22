@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banjaran",
-    "Durian",
-    "Hanau Berak",
-    "Paya",
-    "Padang Cermin",
-    "Sanggi",
-    "Tambangan",
-    "Way Urang",
-    "Khepong Jaya",
-    "Trimulyo",
-    "Gayau",
-    "Dantar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hanau Berak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Cermin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sanggi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tambangan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Way Urang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Khepong Jaya"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Trimulyo"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Gayau"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Dantar"
+    }
   ]
 }

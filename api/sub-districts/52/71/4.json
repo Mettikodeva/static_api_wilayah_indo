@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Karang Pule",
-    "Tanjung Karang",
-    "Jempong Baru (Jempang Baru)",
-    "Tanjung Karang Permai",
-    "Kekalik Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karang Pule"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Karang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jempong Baru (Jempang Baru)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung Karang Permai"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kekalik Jaya"
+    }
   ]
 }

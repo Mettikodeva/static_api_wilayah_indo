@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kabaro",
-    "Kuta",
-    "Sambori",
-    "Teta",
-    "Ka'owa",
-    "Londu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kabaro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sambori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ka'owa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Londu"
+    }
   ]
 }

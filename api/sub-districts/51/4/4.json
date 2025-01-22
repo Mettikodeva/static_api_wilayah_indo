@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pejeng",
-    "Sanding",
-    "Tampaksiring",
-    "Manukaya",
-    "Pejeng Kawan",
-    "Pejeng Kaja",
-    "Pejeng Kangin",
-    "Pejeng Klod (Kelod)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pejeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sanding"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tampaksiring"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manukaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pejeng Kawan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pejeng Kaja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pejeng Kangin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pejeng Klod (Kelod)"
+    }
   ]
 }

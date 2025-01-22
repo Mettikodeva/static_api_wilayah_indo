@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Talang Bakung",
-    "Payo Selincah/Silincah",
-    "Eka Jaya",
-    "Lingkar Selatan",
-    "Paal Merah",
-    "Bakung Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Talang Bakung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Payo Selincah/Silincah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Eka Jaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lingkar Selatan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Paal Merah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bakung Jaya"
+    }
   ]
 }

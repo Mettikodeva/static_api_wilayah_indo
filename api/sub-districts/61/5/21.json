@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ampar Bedang",
-    "Telaga Satu",
-    "Telaga Dua",
-    "Binai Hilir (Binjai Hilir)",
-    "Binjai Hulu",
-    "Sei/Sungai Risap",
-    "Dak Jaya",
-    "Mensiku",
-    "Empaka Kabiau Raya",
-    "Sungai Risap Mensiku Bersatu",
-    "Simba Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ampar Bedang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telaga Satu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telaga Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Binai Hilir (Binjai Hilir)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binjai Hulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Risap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dak Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mensiku"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Empaka Kabiau Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Risap Mensiku Bersatu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simba Raya"
+    }
   ]
 }

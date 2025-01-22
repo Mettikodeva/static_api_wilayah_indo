@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Wlahar",
-    "Bantarbarang",
-    "Karangbawang",
-    "Gunungwuled",
-    "Losari",
-    "Bodaskarangjati (Bodas Karangjati)",
-    "Wanogara Wetan",
-    "Wanogara Kulon",
-    "Makam",
-    "Sumampir",
-    "Tanalum",
-    "Panusupan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wlahar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bantarbarang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangbawang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungwuled"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Losari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bodaskarangjati (Bodas Karangjati)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wanogara Wetan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wanogara Kulon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Makam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumampir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanalum"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Panusupan"
+    }
   ]
 }

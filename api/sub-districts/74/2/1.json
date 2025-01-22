@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lambuya",
-    "Awuliti (Wawuliti)",
-    "Asaki (Isaki)",
-    "Amberi",
-    "Waworaha",
-    "Tanggobu",
-    "Meraka",
-    "Wanua Hoa (Wanuahoa)",
-    "Watarema",
-    "Tetembomua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lambuya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Awuliti (Wawuliti)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Asaki (Isaki)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Amberi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waworaha"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanggobu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Meraka"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Wanua Hoa (Wanuahoa)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Watarema"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Tetembomua"
+    }
   ]
 }

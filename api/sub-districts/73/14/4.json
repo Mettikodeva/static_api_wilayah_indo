@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Baranti",
-    "Duampanua",
-    "Benteng",
-    "Manisa",
-    "Panreng",
-    "Passeno",
-    "Sipodeceng",
-    "Tonrongnge (Tonronge)",
-    "Tonrong Rijang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baranti"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Duampanua"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Manisa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Panreng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Passeno"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sipodeceng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tonrongnge (Tonronge)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tonrong Rijang"
+    }
   ]
 }

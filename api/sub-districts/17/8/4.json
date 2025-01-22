@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Pensiunan",
-    "Pasar Kepahiangan (Pasar Kepahiang)",
-    "Pasar Ujung",
-    "Kepahiang (Dusun Kepahingan)",
-    "Kampung Pensiunan",
-    "Pasar Sejantung",
-    "Padang Lekat",
-    "Kelilik",
-    "Tebat Monok",
-    "Permu",
-    "Imigrasi Permu",
-    "Karang Endah",
-    "Weskust (Westkust)",
-    "Kampung Bogor",
-    "Kuto Rejo (Kuterejo)",
-    "Karang Anyar",
-    "Taba Tebelet",
-    "Pelangkian",
-    "Kelobak",
-    "Pagar Gunung",
-    "Sukamerindu",
-    "Bogor Baru",
-    "Permu bawah"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pensiunan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar Kepahiangan (Pasar Kepahiang)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pasar Ujung"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kepahiang (Dusun Kepahingan)"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Kampung Pensiunan"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Pasar Sejantung"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Padang Lekat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kelilik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebat Monok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Permu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Imigrasi Permu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karang Endah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Weskust (Westkust)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kampung Bogor"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuto Rejo (Kuterejo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Taba Tebelet"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pelangkian"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kelobak"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pagar Gunung"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sukamerindu"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bogor Baru"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Permu bawah"
+    }
   ]
 }

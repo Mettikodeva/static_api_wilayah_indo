@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bandar Lor",
-    "Bandar Kidul",
-    "Banjar Mlati (Banjar Melati / Banjarmlati)",
-    "Pojok",
-    "Sukorame",
-    "Bujel",
-    "Gayam",
-    "Mrican",
-    "Dermo",
-    "Ngampel",
-    "Mojoroto",
-    "Campurejo",
-    "Lirboyo",
-    "Tamanan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bandar Lor"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bandar Kidul"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Banjar Mlati (Banjar Melati / Banjarmlati)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukorame"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bujel"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gayam"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mrican"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Dermo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ngampel"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Mojoroto"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Campurejo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Lirboyo"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tamanan"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sungai Keledang",
-    "Baqa",
-    "Mesjid",
-    "Mangkupalas",
-    "Tenun Samarinda",
-    "Gunung Panjang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Keledang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baqa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mesjid"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mangkupalas"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tenun Samarinda"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Gunung Panjang"
+    }
   ]
 }

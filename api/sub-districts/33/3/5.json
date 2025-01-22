@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bojong",
-    "Kedungmenjangan (Kedung Menjangan)",
-    "Bancar",
-    "Purbalingga Wetan",
-    "Penambongan",
-    "Purbalingga Kidul",
-    "Kandanggampang (Kandang Gampang)",
-    "Purbalingga Kulon",
-    "Purbalingga Lor",
-    "Kembaran Kulon",
-    "Wirasana",
-    "Toyareja",
-    "Jatisaba"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedungmenjangan (Kedung Menjangan)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bancar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Purbalingga Wetan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Penambongan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Purbalingga Kidul"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kandanggampang (Kandang Gampang)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Purbalingga Kulon"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Purbalingga Lor"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kembaran Kulon"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Wirasana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toyareja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatisaba"
+    }
   ]
 }

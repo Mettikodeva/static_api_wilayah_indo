@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kosarek",
-    "Nahomas",
-    "Silkom",
-    "Wahe",
-    "Hombuka",
-    "Mine",
-    "Uldam",
-    "Tiple",
-    "Wesaltek",
-    "Konosa",
-    "Illion"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kosarek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nahomas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Silkom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wahe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hombuka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mine"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uldam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tiple"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wesaltek"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Konosa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Illion"
+    }
   ]
 }

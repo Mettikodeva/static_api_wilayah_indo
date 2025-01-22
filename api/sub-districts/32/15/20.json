@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pancakarya",
-    "Dayeuhluhur",
-    "Lemahduhur",
-    "Lemahkarya",
-    "Lemahsubur",
-    "Lemahmakmur",
-    "Purwajaya",
-    "Tanjungjaya",
-    "Sumberjaya",
-    "Pagadungan",
-    "Tempuran",
-    "Cikuntul",
-    "Jayanegara (Jayanagara)",
-    "Ciparagejaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pancakarya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dayeuhluhur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lemahduhur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lemahkarya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lemahsubur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lemahmakmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purwajaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjungjaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pagadungan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cikuntul"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jayanegara (Jayanagara)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ciparagejaya"
+    }
   ]
 }

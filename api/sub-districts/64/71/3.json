@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Batu Ampar",
-    "Gunungsamarinda (Gunung Samarinda)",
-    "Karang Joang",
-    "Muararapak (Muara Rapak)",
-    "Gunungsamarinda Baru (Gunung Samarinda Baru)",
-    "Graha Indah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gunungsamarinda (Gunung Samarinda)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karang Joang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Muararapak (Muara Rapak)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gunungsamarinda Baru (Gunung Samarinda Baru)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Graha Indah"
+    }
   ]
 }

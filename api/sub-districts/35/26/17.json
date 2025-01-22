@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bandung",
-    "Konang",
-    "Genteng",
-    "Pakes",
-    "Cangkarman (Cangkareman)",
-    "Sen Asen",
-    "Sambiyan",
-    "Campor",
-    "Galis Daya/Dajah",
-    "Kanegarah (Kanagereh)",
-    "Durin Barat",
-    "Durin Timur",
-    "Batokaban"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Konang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Genteng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pakes"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cangkarman (Cangkareman)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sen Asen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambiyan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Campor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Galis Daya/Dajah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kanegarah (Kanagereh)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Durin Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Durin Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batokaban"
+    }
   ]
 }

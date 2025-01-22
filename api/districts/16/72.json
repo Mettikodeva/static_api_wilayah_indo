@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Pagar Alam Utara",
-    "Pagar Alam Selatan",
-    "Dempo Utara",
-    "Dempo Selatan",
-    "Dempo Tengah"
+    {
+      "district_id": 1,
+      "kecamatan": "Pagar Alam Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pagar Alam Selatan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Dempo Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Dempo Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Dempo Tengah"
+    }
   ]
 }

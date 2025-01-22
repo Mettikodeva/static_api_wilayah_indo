@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Cibeber",
-    "Cilegon",
-    "Pulomerak",
-    "Ciwandan",
-    "Jombang",
-    "Gerogol",
-    "Purwakarta",
-    "Citangkil"
+    {
+      "district_id": 1,
+      "kecamatan": "Cibeber"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Cilegon"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pulomerak"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ciwandan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Jombang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Gerogol"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Purwakarta"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Citangkil"
+    }
   ]
 }

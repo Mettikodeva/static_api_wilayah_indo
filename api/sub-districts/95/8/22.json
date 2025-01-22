@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Uburu",
-    "Kabolilangen",
-    "Kolma",
-    "Brambel",
-    "Klabypma (Kiabypma)",
-    "Kibisim",
-    "Labrik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Uburu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kabolilangen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kolma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Brambel"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klabypma (Kiabypma)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kibisim"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Labrik"
+    }
   ]
 }

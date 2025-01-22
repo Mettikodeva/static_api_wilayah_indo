@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Aturan Mumpo",
-    "Talang Tengah II",
-    "Kota Titik",
-    "Senabah / Senaban",
-    "Air Kotok",
-    "Batu Bariang / Beriang",
-    "Pematang Tiga",
-    "Tiambang",
-    "Kebun Lebar",
-    "Tanjung Kepayang / Kepahyang",
-    "Pematang Tiga Lama",
-    "Aturan Mumpo II",
-    "Genting Dabuk"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aturan Mumpo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Tengah II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kota Titik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Senabah / Senaban"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Air Kotok"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Batu Bariang / Beriang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pematang Tiga"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tiambang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kebun Lebar"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjung Kepayang / Kepahyang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pematang Tiga Lama"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Aturan Mumpo II"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Genting Dabuk"
+    }
   ]
 }

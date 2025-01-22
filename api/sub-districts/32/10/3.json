@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sukasari",
-    "Cisoka",
-    "Sindangpanji",
-    "Cikijing",
-    "Sindang",
-    "Banjaransari",
-    "Kasturi",
-    "Cidulang",
-    "Jagasari",
-    "Bagjasari",
-    "Sunalari",
-    "Cipulus",
-    "Kancana",
-    "Sukamukti",
-    "Cilancang (Cilangcang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cisoka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sindangpanji"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikijing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sindang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjaransari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kasturi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cidulang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jagasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bagjasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sunalari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cipulus"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kancana"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cilancang (Cilangcang)"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Padang Pio",
-    "Tembawang Bale",
-    "Kampet",
-    "Untang",
-    "Ringo Lojok",
-    "Gamang",
-    "Semade"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Padang Pio"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tembawang Bale"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Untang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ringo Lojok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gamang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semade"
+    }
   ]
 }

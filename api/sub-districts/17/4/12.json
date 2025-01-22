@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Suka Banjar",
-    "Tanjung Bunga",
-    "Cucupan",
-    "Pagar Dewa",
-    "Tanjung Agung",
-    "Babat",
-    "Kepahyang",
-    "Tanjung Dalam",
-    "Muara Tetap",
-    "Kasuk Baru",
-    "Padang Binjai",
-    "Suka Raja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suka Banjar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Bunga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cucupan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Babat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kepahyang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Dalam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Tetap"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kasuk Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Binjai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Raja"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Panjalu",
-    "Kertamandala",
-    "Ciomas",
-    "Sandingtaman",
-    "Maparah",
-    "Bahara",
-    "Hujungtiwu",
-    "Mandalare"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panjalu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kertamandala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciomas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sandingtaman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maparah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bahara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hujungtiwu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mandalare"
+    }
   ]
 }

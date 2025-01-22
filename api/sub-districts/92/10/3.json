@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Aisa",
-    "Aikrer",
-    "Aitrem",
-    "Sawin",
-    "Sahbuku",
-    "Sasior Frabuku",
-    "Wakom",
-    "Sanem",
-    "Buoh Sa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aisa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aikrer"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aitrem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sahbuku"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sasior Frabuku"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wakom"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sanem"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Buoh Sa"
+    }
   ]
 }

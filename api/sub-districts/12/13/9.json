@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pasar Maga",
-    "Aek Marian MG",
-    "Bangun Purba",
-    "Maga Lombang",
-    "Maga Dolok",
-    "Purba Baru",
-    "Purba Lamo",
-    "Pangkat",
-    "Siantona (Sian Tona)"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasar Maga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aek Marian MG"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangun Purba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maga Lombang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maga Dolok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purba Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purba Lamo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangkat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siantona (Sian Tona)"
+    }
   ]
 }

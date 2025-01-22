@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Binuang",
-    "Tapin Selatan",
-    "Tapin Tengah",
-    "Tapin Utara",
-    "Candi Laras Selatan",
-    "Candi Laras Utara",
-    "Bakarangan",
-    "Piani",
-    "Bungur",
-    "Lokpaikat",
-    "Salam Babaris",
-    "Hatungun"
+    {
+      "district_id": 1,
+      "kecamatan": "Binuang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tapin Selatan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tapin Tengah"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tapin Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Candi Laras Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Candi Laras Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bakarangan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Piani"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bungur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Lokpaikat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Salam Babaris"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Hatungun"
+    }
   ]
 }

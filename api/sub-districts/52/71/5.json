@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mataram Barat",
-    "Dasan Agung",
-    "Monjok",
-    "Karang Baru",
-    "Rembiga",
-    "Gomong",
-    "Dasan Agung Baru",
-    "Monjok Timur",
-    "Monjok Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mataram Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dasan Agung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Monjok"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karang Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rembiga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gomong"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dasan Agung Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Monjok Timur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Monjok Barat"
+    }
   ]
 }

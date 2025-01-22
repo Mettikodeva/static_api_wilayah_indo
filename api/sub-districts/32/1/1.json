@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pondok Rajeg",
-    "Karadenan",
-    "Harapanjaya (Harapan Jaya)",
-    "Nanggewer",
-    "Nanggewer Mekar",
-    "Cibinong",
-    "Pakansari",
-    "Tengah",
-    "Sukahati",
-    "Ciriung",
-    "Cirimekar",
-    "Pabuaran",
-    "Pabuaran Mekar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pondok Rajeg"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karadenan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Harapanjaya (Harapan Jaya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nanggewer"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nanggewer Mekar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cibinong"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pakansari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tengah"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sukahati"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ciriung"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Cirimekar"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pabuaran Mekar"
+    }
   ]
 }

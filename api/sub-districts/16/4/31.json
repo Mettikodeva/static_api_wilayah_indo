@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Banjar Negara",
-    "Tanjung Payang",
-    "Tanjung Tebat",
-    "Nantal",
-    "Karang Anyar",
-    "Karang Baru",
-    "Kerung",
-    "Muara Cawang",
-    "Talang Sawah",
-    "Talang Sejemput"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjar Negara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Payang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Tebat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nantal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kerung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Cawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talang Sawah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Sejemput"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bugeman",
-    "Kendit",
-    "Balung",
-    "Tambak Ukir",
-    "Rajekwesi",
-    "Kukusan",
-    "Klatakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bugeman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kendit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambak Ukir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rajekwesi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kukusan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Klatakan"
+    }
   ]
 }

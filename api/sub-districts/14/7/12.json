@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bantayan/Bantaian Hilir",
-    "Bantayan/Bantaian",
-    "Sungaisialang (Sei / Sungai Sialang)",
-    "Bantayan/Bantaian Baru",
-    "Sungaisialang Hulu (Sei / Sungai Sialang Hulu)"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bantayan/Bantaian Hilir"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bantayan/Bantaian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungaisialang (Sei / Sungai Sialang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bantayan/Bantaian Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaisialang Hulu (Sei / Sungai Sialang Hulu)"
+    }
   ]
 }

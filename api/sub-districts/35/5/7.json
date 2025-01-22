@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kalipucung",
-    "Bendosari",
-    "Sumber",
-    "Sanankulon",
-    "Sumberingin",
-    "Purworejo",
-    "Bendowulung",
-    "Tuliskriyo",
-    "Sumberjo",
-    "Gledug",
-    "Jeding",
-    "Plosoarang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalipucung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bendosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sanankulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberingin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bendowulung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuliskriyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gledug"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jeding"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Plosoarang"
+    }
   ]
 }

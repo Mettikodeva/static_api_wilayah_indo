@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Miliama (Muliama)",
-    "Asologaima",
-    "Kewin",
-    "Holkima",
-    "Helefa / Halefa",
-    "Sekom",
-    "Delekama",
-    "Molebaga",
-    "Silamik",
-    "Konan",
-    "Pilibaga",
-    "Hukuragi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Miliama (Muliama)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asologaima"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kewin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Holkima"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Helefa / Halefa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sekom"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Delekama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Molebaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Silamik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Konan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pilibaga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hukuragi"
+    }
   ]
 }

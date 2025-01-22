@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sangkunur",
-    "Rianiate",
-    "Simatohir",
-    "Perkebunan",
-    "Bandar Tarutung",
-    "Aek Pardomuan",
-    "Tindoan Laut",
-    "Simataniari",
-    "Batu Godang",
-    "Malombu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sangkunur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rianiate"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simatohir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandar Tarutung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aek Pardomuan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tindoan Laut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simataniari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Godang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Malombu"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pandansari",
-    "Krasak",
-    "Kedungjajang",
-    "Wonorejo",
-    "Umbul",
-    "Curahpetung",
-    "Grobogan",
-    "Bence",
-    "Jatisari",
-    "Tempursari",
-    "Bandaran",
-    "Sawaran Kulon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandansari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Krasak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungjajang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umbul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Curahpetung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Grobogan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bence"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tempursari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bandaran"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawaran Kulon"
+    }
   ]
 }

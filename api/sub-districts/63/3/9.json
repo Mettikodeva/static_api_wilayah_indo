@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Maniapun",
-    "Lok Tunggul (Loktunggul)",
-    "Lobang Baru",
-    "Pengaron",
-    "Benteng",
-    "Ati'im (Ati Im)",
-    "Alimukim",
-    "Penyiuran (Panyiuran)",
-    "Antaraku",
-    "Mangkauk",
-    "Kertak Empat",
-    "Lumpangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maniapun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lok Tunggul (Loktunggul)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lobang Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pengaron"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ati'im (Ati Im)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alimukim"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penyiuran (Panyiuran)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Antaraku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mangkauk"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kertak Empat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lumpangi"
+    }
   ]
 }

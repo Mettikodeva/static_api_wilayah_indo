@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bupul",
-    "Tanas (Tanaas)",
-    "Kweel",
-    "Sipias",
-    "Metaat Makmur (Mantaat Makmur)",
-    "Enggal Jaya",
-    "Gerisar (Geriser)",
-    "Bupul Indah",
-    "Tof-Tof (Taftof)",
-    "Bunggay",
-    "Bouwer",
-    "Bumun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bupul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanas (Tanaas)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kweel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sipias"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Metaat Makmur (Mantaat Makmur)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Enggal Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gerisar (Geriser)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bupul Indah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tof-Tof (Taftof)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bunggay"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bouwer"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bumun"
+    }
   ]
 }

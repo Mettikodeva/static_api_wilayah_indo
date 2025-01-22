@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Banyuresmi",
-    "Cimareme",
-    "Sukaratu",
-    "Sukasenang",
-    "Sukaraja",
-    "Cipicung",
-    "Dangdeur",
-    "Sukakarya",
-    "Pamekarsari",
-    "Binakarya",
-    "Bagendit",
-    "Karyamukti",
-    "Karyasari",
-    "Sukamukti",
-    "Sukalaksana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyuresmi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimareme"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukaratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukasenang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cipicung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dangdeur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukakarya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pamekarsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Binakarya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bagendit"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karyasari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sukalaksana"
+    }
   ]
 }

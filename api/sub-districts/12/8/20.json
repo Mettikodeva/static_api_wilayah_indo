@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tigaras",
-    "Parik Sabungan",
-    "Sibuntuon",
-    "Dolok Saribu",
-    "Butu Bayu Pane Raja (Butu Bayu Panei Raja)",
-    "Silabah Jaya",
-    "Togu Domu Nauli",
-    "Sirube-rube Gunung Purba",
-    "Tanjung Saribu",
-    "Sihemum Baru",
-    "Nagori Bayu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tigaras"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Parik Sabungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sibuntuon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dolok Saribu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Butu Bayu Pane Raja (Butu Bayu Panei Raja)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Silabah Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Togu Domu Nauli"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sirube-rube Gunung Purba"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjung Saribu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sihemum Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nagori Bayu"
+    }
   ]
 }

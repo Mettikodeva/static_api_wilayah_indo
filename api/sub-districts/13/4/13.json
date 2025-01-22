@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Batu Bulek",
-    "Balai Tangah",
-    "Tanjung/Tanjuang Bonai",
-    "Lubuk/Lubuak Jantan",
-    "Tapi/Tepi Selo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Bulek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balai Tangah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung/Tanjuang Bonai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk/Lubuak Jantan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tapi/Tepi Selo"
+    }
   ]
 }

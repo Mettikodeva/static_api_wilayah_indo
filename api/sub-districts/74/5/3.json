@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Alangga",
-    "Potoro",
-    "Andoolo",
-    "Alengge Agung",
-    "Bumi Raya",
-    "Lalobao",
-    "Lalonggombu",
-    "Wunduwatu",
-    "Punggapu",
-    "Ataku"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Alangga"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Potoro"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Andoolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alengge Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Raya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lalobao"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lalonggombu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Wunduwatu"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Punggapu"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Ataku"
+    }
   ]
 }

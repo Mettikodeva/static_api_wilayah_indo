@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sukaramai I",
-    "Sukaramai II",
-    "Sei Rengas II",
-    "Sei Rengas Permata",
-    "Pandau Hulu II",
-    "Kota Matsum I",
-    "Kota Matsum II",
-    "Kota Matsum IV",
-    "Pasar Merah Timur",
-    "Tegal Sari I",
-    "Tegal Sari II",
-    "Tegal Sari III"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukaramai I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukaramai II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sei Rengas II"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sei Rengas Permata"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pandau Hulu II"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kota Matsum I"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kota Matsum II"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kota Matsum IV"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pasar Merah Timur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tegal Sari I"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tegal Sari II"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tegal Sari III"
+    }
   ]
 }

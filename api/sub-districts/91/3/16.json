@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Hulu Atas",
-    "Pagai",
-    "Aurina",
-    "Muara Nawa (Muarah Mawa)",
-    "Kamikaru",
-    "Naira"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hulu Atas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aurina"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Nawa (Muarah Mawa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kamikaru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Naira"
+    }
   ]
 }

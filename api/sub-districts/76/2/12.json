@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Simboro",
-    "Rangas",
-    "Botteng",
-    "Saletto (Salletto)",
-    "Sumare",
-    "Botteng Utara",
-    "Tapandullu",
-    "Pati'di"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simboro"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rangas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Botteng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saletto (Salletto)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumare"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Botteng Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tapandullu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pati'di"
+    }
   ]
 }

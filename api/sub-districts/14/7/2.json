@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bagan Punak",
-    "Bagan Kota",
-    "Bagan Hulu",
-    "Bagan Barat",
-    "Bagan Timur",
-    "Labuhan Tangga Kecil",
-    "Labuhan Tangga Besar",
-    "Bagan Jawa",
-    "Parit Aman",
-    "Labuhan Tangga Baru",
-    "Bagan Jawa Pesisir",
-    "Serusa",
-    "Labuhan Tangga Hilir",
-    "Bagan Punak Meranti",
-    "Bagan Punak Pesisir"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bagan Punak"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bagan Kota"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Bagan Hulu"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Bagan Barat"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Bagan Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Labuhan Tangga Kecil"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuhan Tangga Besar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bagan Jawa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Parit Aman"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Labuhan Tangga Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bagan Jawa Pesisir"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Serusa"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Labuhan Tangga Hilir"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bagan Punak Meranti"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Bagan Punak Pesisir"
+    }
   ]
 }

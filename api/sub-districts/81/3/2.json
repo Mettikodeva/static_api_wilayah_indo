@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Adaut",
-    "Namtabung",
-    "Kandar",
-    "Lingat",
-    "Fursuy (Fursui)",
-    "Werain",
-    "Eliasa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Adaut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Namtabung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kandar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lingat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fursuy (Fursui)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Werain"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Eliasa"
+    }
   ]
 }

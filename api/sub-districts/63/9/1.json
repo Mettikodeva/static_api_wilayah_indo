@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Hapalah",
-    "Bangkiling",
-    "Sei/Sungai Durian",
-    "Pematang",
-    "Hariang",
-    "Banua Lawas",
-    "Habau",
-    "Banua Rantau (Benua Rantau)",
-    "Purai",
-    "Batang Banyu",
-    "Habau Hulu",
-    "Bungin",
-    "Bakiling Raya (Bangkiling Raya)",
-    "Talan",
-    "Sei/Sungai Anyar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hapalah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangkiling"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Durian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hariang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banua Lawas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Habau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banua Rantau (Benua Rantau)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batang Banyu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Habau Hulu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bungin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bakiling Raya (Bangkiling Raya)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sei/Sungai Anyar"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pancuran Tiga",
-    "Tanjungpauh Mudik (Tanjung Pauh Mudik)",
-    "Bukit Pulai (Bukitpulai)",
-    "Punai Merindu",
-    "Sumur Jauh",
-    "Permai Baru",
-    "Tanjungpauh Hilir (Tanjung Pauh Hilir)",
-    "Serumpun Pauh",
-    "Pondok Siguang",
-    "Koto Tengah",
-    "Semerap",
-    "Koto Baru Semerap",
-    "Pasar Semerap",
-    "Koto Patah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pancuran Tiga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungpauh Mudik (Tanjung Pauh Mudik)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Pulai (Bukitpulai)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Punai Merindu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumur Jauh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Permai Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungpauh Hilir (Tanjung Pauh Hilir)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Serumpun Pauh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pondok Siguang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Semerap"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Koto Baru Semerap"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasar Semerap"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Koto Patah"
+    }
   ]
 }

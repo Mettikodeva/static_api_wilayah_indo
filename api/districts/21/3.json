@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Midai",
-    "Bunguran Barat",
-    "Serasan",
-    "Bunguran Timur",
-    "Bunguran Utara",
-    "Subi",
-    "Pulau Laut",
-    "Pulau Tiga",
-    "Bunguran Timur Laut",
-    "Bunguran Tengah",
-    "Bunguran Selatan",
-    "Serasan Timur",
-    "Bunguran Batubi",
-    "Pulau Tiga Barat",
-    "Suak Midai",
-    "Pulau Panjang",
-    "Pulau Seluan"
+    {
+      "district_id": 4,
+      "kecamatan": "Midai"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bunguran Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Serasan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bunguran Timur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bunguran Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Subi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pulau Laut"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pulau Tiga"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bunguran Timur Laut"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bunguran Tengah"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Bunguran Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Serasan Timur"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Bunguran Batubi"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Pulau Tiga Barat"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Suak Midai"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Pulau Panjang"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pulau Seluan"
+    }
   ]
 }

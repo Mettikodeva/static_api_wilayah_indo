@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Hangke",
-    "Salurang",
-    "Tambung",
-    "Beeng",
-    "Lehupu",
-    "Bowone",
-    "Beeng Laut",
-    "Tenda",
-    "Aha Patung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hangke"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salurang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lehupu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bowone"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beeng Laut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tenda"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aha Patung"
+    }
   ]
 }

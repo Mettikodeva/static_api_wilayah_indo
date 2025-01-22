@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Buran",
-    "Papahan",
-    "Ngijo",
-    "Gaum",
-    "Suruh",
-    "Pandeyan",
-    "Karangmojo",
-    "Kaling",
-    "Wonolopo",
-    "Kalijirak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Papahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngijo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gaum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suruh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pandeyan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangmojo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaling"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wonolopo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalijirak"
+    }
   ]
 }

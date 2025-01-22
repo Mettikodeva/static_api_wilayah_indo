@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bakaran Batu",
-    "Sioldengan",
-    "Urung Kompas",
-    "Ujung Bandar",
-    "Sigambal",
-    "Lobusona (Lobu Sona)",
-    "Pardamean (Perdamean)",
-    "Danau Bale (Danobale)",
-    "Sidorejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bakaran Batu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sioldengan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Urung Kompas"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ujung Bandar"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sigambal"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lobusona (Lobu Sona)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pardamean (Perdamean)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Danau Bale (Danobale)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sidorejo"
+    }
   ]
 }

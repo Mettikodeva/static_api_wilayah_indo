@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Maroangin",
-    "Mancani (Maccani)",
-    "Sumarambu",
-    "Salubattang",
-    "Jaya",
-    "Batu Walenreng",
-    "Petonjangan"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Maroangin"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mancani (Maccani)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sumarambu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Salubattang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Batu Walenreng"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Petonjangan"
+    }
   ]
 }

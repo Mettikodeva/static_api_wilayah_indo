@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Batu Bersurat",
-    "Gunung Bungsu",
-    "Koto Tuo",
-    "Balung",
-    "Muara Takus",
-    "Pulau Gadang",
-    "Tanjung Alai",
-    "Ranah Sungkai",
-    "Lubuk Agung",
-    "Koto Mesjid",
-    "Pongkai Istiqomah",
-    "Binamang",
-    "Koto Tuo Barat"
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Batu Bersurat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Bungsu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Tuo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Takus"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Gadang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Alai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ranah Sungkai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lubuk Agung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Koto Mesjid"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pongkai Istiqomah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Binamang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Koto Tuo Barat"
+    }
   ]
 }

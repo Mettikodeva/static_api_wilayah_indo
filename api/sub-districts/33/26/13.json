@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Pekajangan",
-    "Kedungwuni Timur",
-    "Kedungwuni Barat",
-    "Kedungpatangewu (Kedung Patangewu)",
-    "Pakisputih",
-    "Rowocacing",
-    "Langkap",
-    "Tosaran",
-    "Pajomblangan",
-    "Proto",
-    "Kwayangan",
-    "Podo",
-    "Salakbrojo",
-    "Ambokembang",
-    "Tangkiltengah (Tangkil Tengah)",
-    "Karangdowo",
-    "Bugangan (Bungangan)",
-    "Rengas",
-    "Tangkilkulon (Tangkil Kulon)"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pekajangan"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Kedungwuni Timur"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Kedungwuni Barat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungpatangewu (Kedung Patangewu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pakisputih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rowocacing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langkap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tosaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pajomblangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Proto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kwayangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Podo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Salakbrojo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ambokembang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tangkiltengah (Tangkil Tengah)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangdowo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bugangan (Bungangan)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rengas"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tangkilkulon (Tangkil Kulon)"
+    }
   ]
 }

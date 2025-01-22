@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Napar",
-    "Ompang Tanah Sirah",
-    "Taratak Padang Kampuang",
-    "Tigo Koto Dibaruah",
-    "Tigo Koto Diate",
-    "Ikua Koto Dibalai",
-    "Balai Tongah Koto",
-    "Kapalo Koto Dibalai",
-    "Kotokociak Kubu Tapakrajo"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Napar"
+    },
+    {
+      "sub_district_id": 1032,
+      "desa_kelurahan": "Ompang Tanah Sirah"
+    },
+    {
+      "sub_district_id": 1033,
+      "desa_kelurahan": "Taratak Padang Kampuang"
+    },
+    {
+      "sub_district_id": 1034,
+      "desa_kelurahan": "Tigo Koto Dibaruah"
+    },
+    {
+      "sub_district_id": 1035,
+      "desa_kelurahan": "Tigo Koto Diate"
+    },
+    {
+      "sub_district_id": 1036,
+      "desa_kelurahan": "Ikua Koto Dibalai"
+    },
+    {
+      "sub_district_id": 1037,
+      "desa_kelurahan": "Balai Tongah Koto"
+    },
+    {
+      "sub_district_id": 1038,
+      "desa_kelurahan": "Kapalo Koto Dibalai"
+    },
+    {
+      "sub_district_id": 1039,
+      "desa_kelurahan": "Kotokociak Kubu Tapakrajo"
+    }
   ]
 }

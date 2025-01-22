@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mangkujayan",
-    "Bulukerto",
-    "Magetan",
-    "Selosari",
-    "Tawanganom",
-    "Kepolorejo",
-    "Sukowinangun",
-    "Kebonagung",
-    "Tambran",
-    "Tambakrejo",
-    "Ringinagung",
-    "Candirejo",
-    "Baron",
-    "Purwosari"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mangkujayan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bulukerto"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Magetan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Selosari"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tawanganom"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kepolorejo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sukowinangun"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Tambran"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambakrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ringinagung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Candirejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Baron"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Purwosari"
+    }
   ]
 }

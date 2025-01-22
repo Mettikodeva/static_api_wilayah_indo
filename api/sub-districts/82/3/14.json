@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Soatobaru",
-    "Dokulamo",
-    "Duma",
-    "Gotalamo",
-    "Makete",
-    "Ngidiho",
-    "Roko",
-    "Samuda (Samudra)",
-    "Kira"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Soatobaru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dokulamo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Duma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gotalamo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makete"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngidiho"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Roko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Samuda (Samudra)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kira"
+    }
   ]
 }

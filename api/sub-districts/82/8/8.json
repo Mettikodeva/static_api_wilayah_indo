@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tabona",
-    "Kabunu",
-    "Peleng",
-    "Fayaunana",
-    "Habunuha",
-    "Kataga",
-    "Wolio"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tabona"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kabunu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Peleng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fayaunana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Habunuha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kataga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wolio"
+    }
   ]
 }

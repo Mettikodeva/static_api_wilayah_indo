@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tebat Karai",
-    "Taba Santing (Tabasating)",
-    "Tertik",
-    "Talang Karet",
-    "Peraduan Binjai",
-    "Penanjung Panjang",
-    "Nanti Agung",
-    "Taba Air Pauh",
-    "Karang Tengah",
-    "Tapak Gedung",
-    "Tebing Penyamun",
-    "Sinar Gunung",
-    "Taba Saling",
-    "Penanjung Panjang Atas"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tebat Karai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taba Santing (Tabasating)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tertik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talang Karet"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Peraduan Binjai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Penanjung Panjang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nanti Agung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Taba Air Pauh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karang Tengah"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tapak Gedung"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tebing Penyamun"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sinar Gunung"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Taba Saling"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Penanjung Panjang Atas"
+    }
   ]
 }

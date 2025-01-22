@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Besole",
-    "Tanggulwelahan",
-    "Besuki",
-    "Keboireng",
-    "Tanggulturus",
-    "Sedayugunung",
-    "Tanggulkundung",
-    "Wateskroyo",
-    "Sitoyobagus (Siyotobagus)",
-    "Tulungrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Besole"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanggulwelahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Besuki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Keboireng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanggulturus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sedayugunung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanggulkundung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wateskroyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sitoyobagus (Siyotobagus)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tulungrejo"
+    }
   ]
 }

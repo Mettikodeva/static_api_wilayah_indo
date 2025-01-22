@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Konawe",
-    "Lemoambo",
-    "Kasakamu",
-    "Tanjung Pinang",
-    "Sidamangura",
-    "Lakawoghe",
-    "Lapokainse",
-    "Guali",
-    "Kusambi",
-    "Bakeramba"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Konawe"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lemoambo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kasakamu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Pinang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidamangura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lakawoghe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lapokainse"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Guali"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kusambi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bakeramba"
+    }
   ]
 }

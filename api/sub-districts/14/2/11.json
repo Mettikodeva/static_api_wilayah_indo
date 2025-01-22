@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Morong",
-    "Pasir Bongkal",
-    "Pasir Selabu (Pasir Selabau)",
-    "Pasir Batu Mandi",
-    "Pasir Kelampaian",
-    "Kuala Lala",
-    "Sungai Lala",
-    "Kelawat",
-    "Perkebunan Sei/Sungai Parit",
-    "Perkebunan Sei/Sungai Lala",
-    "Tanjung Danau",
-    "Sungai Air Putih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Morong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasir Bongkal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasir Selabu (Pasir Selabau)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasir Batu Mandi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasir Kelampaian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuala Lala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Lala"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kelawat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perkebunan Sei/Sungai Parit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perkebunan Sei/Sungai Lala"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Danau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Air Putih"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Liang",
-    "Waai",
-    "Tulehu",
-    "Tial",
-    "Tengah-Tengah",
-    "Suli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Liang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tulehu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tial"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tengah-Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suli"
+    }
   ]
 }

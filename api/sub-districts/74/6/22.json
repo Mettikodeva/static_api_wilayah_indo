@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kolombi Matausu",
-    "Morengke",
-    "Wia-Wia",
-    "Lamuru",
-    "Totole"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kolombi Matausu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Morengke"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wia-Wia"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lamuru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Totole"
+    }
   ]
 }

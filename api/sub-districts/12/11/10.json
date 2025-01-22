@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bangun",
-    "Lae Hole",
-    "Parbuluan IV",
-    "Parbuluan III",
-    "Parbuluan II",
-    "Parbuluan I",
-    "Parbuluan V",
-    "Parbuluan VI",
-    "Lae Hole I",
-    "Lae Hole II",
-    "Bangun I"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lae Hole"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parbuluan IV"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parbuluan III"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parbuluan II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parbuluan I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parbuluan V"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parbuluan VI"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lae Hole I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lae Hole II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangun I"
+    }
   ]
 }

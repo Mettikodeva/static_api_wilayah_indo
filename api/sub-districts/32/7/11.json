@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Buniseuri",
-    "Selacai",
-    "Jalatrang",
-    "Cipaku",
-    "Cieurih",
-    "Gereba",
-    "Muktisari",
-    "Mekarsari",
-    "Pusakasari",
-    "Bangbayang",
-    "Selamanik",
-    "Ciakar",
-    "Sukawening"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buniseuri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selacai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jalatrang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipaku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cieurih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gereba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muktisari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pusakasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bangbayang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Selamanik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ciakar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukawening"
+    }
   ]
 }

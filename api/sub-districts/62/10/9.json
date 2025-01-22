@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tumbang Napoi",
-    "Tumbang Siruk",
-    "Mangkuhung",
-    "Tumbang Masukih",
-    "Rangan Hiran",
-    "Harowo (Harowu)",
-    "Tumbang Manyoi",
-    "Tumbang Lapan",
-    "Bontoi (Buntui / Buntoi)",
-    "Tumbang Koroi",
-    "Tumbang Hatung (Tumbang Hantung)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tumbang Napoi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbang Siruk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangkuhung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumbang Masukih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rangan Hiran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Harowo (Harowu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Manyoi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Lapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bontoi (Buntui / Buntoi)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tumbang Koroi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumbang Hatung (Tumbang Hantung)"
+    }
   ]
 }

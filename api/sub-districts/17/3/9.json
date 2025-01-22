@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lubuk Banyau",
-    "Talang Tua/Tuo",
-    "Marga Sakti",
-    "Tanjung Harapan",
-    "Padang Jaya",
-    "Arga Mulya",
-    "Sido Mukti",
-    "Marga Jaya",
-    "Tanah Hitam",
-    "Tambak Rejo",
-    "Sido Luhur",
-    "Tanah Tinggi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuk Banyau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Tua/Tuo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marga Sakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Arga Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sido Mukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Marga Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanah Hitam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tambak Rejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sido Luhur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanah Tinggi"
+    }
   ]
 }

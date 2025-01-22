@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mbuit",
-    "Golo Ketak",
-    "Pota Wangka",
-    "Tanjung Boleng",
-    "Golo Sepang",
-    "Pontianak",
-    "Sepang",
-    "Golo Lujang",
-    "Batu Tiga",
-    "Golo Nobo",
-    "Beo Sepang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mbuit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Golo Ketak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pota Wangka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Boleng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Golo Sepang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pontianak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sepang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golo Lujang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Tiga"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Golo Nobo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Beo Sepang"
+    }
   ]
 }

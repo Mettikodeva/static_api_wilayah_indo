@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pekan Gebang",
-    "Paluh Manis",
-    "Pasar Rawa",
-    "Padang Langkat",
-    "Air Hitam",
-    "Paya Bengkuang",
-    "Dogang",
-    "Sangga Lima (Perkebunan Serap)",
-    "Kwala Gebang",
-    "Bukit Mengkirai",
-    "Pasiran"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pekan Gebang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paluh Manis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasar Rawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Langkat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paya Bengkuang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dogang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sangga Lima (Perkebunan Serap)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kwala Gebang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Mengkirai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasiran"
+    }
   ]
 }

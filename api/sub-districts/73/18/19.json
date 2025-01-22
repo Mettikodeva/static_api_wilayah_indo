@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Benteng Ambeso (Benteng Deata)",
-    "Salubarani",
-    "Mebali",
-    "Buntu Limbong",
-    "Sillanan",
-    "Gandangbatu",
-    "Kaduaja",
-    "Garassik",
-    "Pemanukan",
-    "Perindingan",
-    "Buntu Tabang",
-    "Betteng Deata (Bentengambeso)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Benteng Ambeso (Benteng Deata)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Salubarani"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Mebali"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buntu Limbong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sillanan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gandangbatu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaduaja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Garassik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pemanukan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perindingan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buntu Tabang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Betteng Deata (Bentengambeso)"
+    }
   ]
 }

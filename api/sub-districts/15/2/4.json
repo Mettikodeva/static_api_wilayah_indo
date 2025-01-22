@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sungai/Sei Pinang",
-    "Tiangko",
-    "Palipan",
-    "Saringat/Seringat",
-    "Durian Lecah",
-    "Bukit Batu",
-    "Sungai Nilau",
-    "Sungai Manau",
-    "Benteng",
-    "Gelanggang"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai/Sei Pinang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tiangko"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palipan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saringat/Seringat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Durian Lecah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bukit Batu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sungai Nilau"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sungai Manau"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Gelanggang"
+    }
   ]
 }

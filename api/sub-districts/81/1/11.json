@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Telutih Baru (Teluti Baru)",
-    "Mosso",
-    "Hatumete",
-    "Hatu",
-    "Piliama (Piliana)",
-    "Yaputih",
-    "Saunulu",
-    "Tehoru",
-    "Haya",
-    "Salamahu"
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Telutih Baru (Teluti Baru)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mosso"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hatumete"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hatu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Piliama (Piliana)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Yaputih"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Saunulu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tehoru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Haya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Salamahu"
+    }
   ]
 }

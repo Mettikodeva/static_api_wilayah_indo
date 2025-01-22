@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sidorukun",
-    "Tebing Tinggi Pangkatan",
-    "Perkebunan Pangkatan",
-    "Kampung Padang",
-    "Pangkatan (Kampung Pangkatan)",
-    "Sennah (Kampung Sennah)",
-    "Tanjung Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidorukun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebing Tinggi Pangkatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Pangkatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Padang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangkatan (Kampung Pangkatan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sennah (Kampung Sennah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Harapan"
+    }
   ]
 }

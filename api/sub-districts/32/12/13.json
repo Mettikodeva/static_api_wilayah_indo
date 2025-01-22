@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sukalila",
-    "Pilangsari",
-    "Jatibarang Baru",
-    "Bulak",
-    "Bulak Lor",
-    "Jatibarang",
-    "Kebulen",
-    "Pawidean",
-    "Jatisawit",
-    "Jatisawit Lor",
-    "Krasak",
-    "Kalimati",
-    "Malang Semirang (Malangsemirang)",
-    "Lohbener (Lobener)",
-    "Lohbener Lor (Lobener Lor)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukalila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pilangsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatibarang Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulak Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatibarang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebulen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pawidean"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatisawit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatisawit Lor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Krasak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalimati"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Malang Semirang (Malangsemirang)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lohbener (Lobener)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lohbener Lor (Lobener Lor)"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pagar Batu (Pagarbatu)",
-    "Tanjung",
-    "Kebundadap Timur",
-    "Langsar",
-    "Kebundadap Barat",
-    "Saroka",
-    "Tanamerah (Tanah Merah)",
-    "Nambakor",
-    "Saronggi",
-    "Moangan (Muangan)",
-    "Juluk",
-    "Aengtongtong",
-    "Talang",
-    "Kambingan Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagar Batu (Pagarbatu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kebundadap Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langsar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebundadap Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saroka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanamerah (Tanah Merah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nambakor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Saronggi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Moangan (Muangan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Juluk"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Aengtongtong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Talang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kambingan Timur"
+    }
   ]
 }

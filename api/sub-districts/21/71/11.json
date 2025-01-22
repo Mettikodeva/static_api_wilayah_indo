@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tembesi",
-    "Sungai Binti",
-    "Sungai Lekop",
-    "Sagulung Kota",
-    "Sungai Langkai",
-    "Sungai Pelenggut/Pelunggut"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tembesi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sungai Binti"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sungai Lekop"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sagulung Kota"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sungai Langkai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sungai Pelenggut/Pelunggut"
+    }
   ]
 }

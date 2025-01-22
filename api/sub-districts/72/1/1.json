@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bugis",
-    "Balantang",
-    "Batui",
-    "Tolando",
-    "Lamo",
-    "Sisipan",
-    "Bakung",
-    "Nonong",
-    "Kayowa",
-    "Ondo-Ondolu",
-    "Honbola",
-    "Uso",
-    "Ondo-Ondolu I"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bugis"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Balantang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Batui"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tolando"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lamo"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Sisipan"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nonong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayowa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ondo-Ondolu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Honbola"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Uso"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ondo-Ondolu I"
+    }
   ]
 }

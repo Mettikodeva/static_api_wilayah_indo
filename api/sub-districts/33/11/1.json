@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Grogol",
-    "Karangtengah",
-    "Karangwuni",
-    "Krajan",
-    "Jatingarang",
-    "Karanganyar",
-    "Alasombo",
-    "Karangmojo",
-    "Weru",
-    "Karakan",
-    "Tegalsari",
-    "Tawang",
-    "Ngreco"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangwuni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Krajan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatingarang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alasombo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangmojo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Weru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karakan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tawang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngreco"
+    }
   ]
 }

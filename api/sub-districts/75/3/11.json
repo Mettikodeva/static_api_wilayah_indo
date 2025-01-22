@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tulabolo",
-    "Dumbaya Bulan (Dumbayabulan)",
-    "Tulabolo Timur",
-    "Tilangobula",
-    "Poduwoma (Poduoma)",
-    "Panggulo",
-    "Tulabolo Barat",
-    "Pangi",
-    "Tinemba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tulabolo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dumbaya Bulan (Dumbayabulan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tulabolo Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tilangobula"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Poduwoma (Poduoma)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panggulo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tulabolo Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pangi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tinemba"
+    }
   ]
 }

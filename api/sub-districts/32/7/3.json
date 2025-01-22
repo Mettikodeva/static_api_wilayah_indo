@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Handapherang",
-    "Ciharalang",
-    "Bojongmengger",
-    "Karangkamulyan",
-    "Kertabumi",
-    "Cijeungjing",
-    "Pamalayan",
-    "Dewasari",
-    "Utama",
-    "Kertaharja",
-    "Karanganyar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Handapherang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciharalang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongmengger"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangkamulyan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertabumi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cijeungjing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pamalayan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dewasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Utama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertaharja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karanganyar"
+    }
   ]
 }

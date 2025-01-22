@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Londalusi",
-    "Mukekuku",
-    "Faifua",
-    "Hundihopo (Hundi Hopo)",
-    "Serubeba",
-    "Lakamola",
-    "Matasio",
-    "Pengodua",
-    "Batefalu",
-    "Papela",
-    "Matanae"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Londalusi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mukekuku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Faifua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hundihopo (Hundi Hopo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Serubeba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lakamola"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matasio"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pengodua"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batefalu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Papela"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Matanae"
+    }
   ]
 }

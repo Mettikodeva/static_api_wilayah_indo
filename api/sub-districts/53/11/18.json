@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Watumbelar",
-    "BidiPraing",
-    "Umamanu",
-    "Mondulambi (Mondu Lambi)",
-    "Kangeli",
-    "Laihau (Laihawu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Watumbelar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "BidiPraing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Umamanu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mondulambi (Mondu Lambi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kangeli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laihau (Laihawu)"
+    }
   ]
 }

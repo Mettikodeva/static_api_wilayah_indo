@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Keruak",
-    "Sakra",
-    "Terara",
-    "Sikur",
-    "Masbagik",
-    "Sukamulia",
-    "Selong",
-    "Pringgabaya",
-    "Aikmel",
-    "Sambelia (Sambalia)",
-    "Montong Gading",
-    "Pringgasela",
-    "Suralaga",
-    "Wanasaba",
-    "Sembalun",
-    "Suwela (Suela)",
-    "Labuhan Haji",
-    "Sakra Timur",
-    "Sakra Barat",
-    "Jerowaru",
-    "Lenek"
+    {
+      "district_id": 1,
+      "kecamatan": "Keruak"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sakra"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Terara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sikur"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Masbagik"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sukamulia"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Selong"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pringgabaya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Aikmel"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sambelia (Sambalia)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Montong Gading"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pringgasela"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Suralaga"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Wanasaba"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sembalun"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Suwela (Suela)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Labuhan Haji"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sakra Timur"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Sakra Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Jerowaru"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Lenek"
+    }
   ]
 }

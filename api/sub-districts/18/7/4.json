@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pekalongan",
-    "Adirejo",
-    "Sidodadi",
-    "Gondangrejo (Gondang Rejo)",
-    "Siraman",
-    "Tulusrejo (Tulus Rejo)",
-    "Jojog",
-    "Ganti Warno",
-    "Kalibening (Kali Bening)",
-    "Wonosari (Wono Sari)",
-    "Gantimulyo",
-    "Adijaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pekalongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Adirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gondangrejo (Gondang Rejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siraman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tulusrejo (Tulus Rejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jojog"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ganti Warno"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalibening (Kali Bening)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonosari (Wono Sari)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gantimulyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Adijaya"
+    }
   ]
 }

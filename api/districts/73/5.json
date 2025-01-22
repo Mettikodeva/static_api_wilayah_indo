@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Mappakasunggu",
-    "Mangarabombang (Mangara Bombang)",
-    "Polongbangkeng Selatan (Polombangkeng)",
-    "Polongbangkeng Utara (Polombangkeng)",
-    "Galesong Selatan",
-    "Galesong Utara",
-    "Pattallassang (Patallassang)",
-    "Sanrobone",
-    "Galesong",
-    "Kepulauan Tanakeke",
-    "Polongbangkeng Timur",
-    "Laikang"
+    {
+      "district_id": 1,
+      "kecamatan": "Mappakasunggu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mangarabombang (Mangara Bombang)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Polongbangkeng Selatan (Polombangkeng)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Polongbangkeng Utara (Polombangkeng)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Galesong Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Galesong Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pattallassang (Patallassang)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sanrobone"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Galesong"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kepulauan Tanakeke"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Polongbangkeng Timur"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Laikang"
+    }
   ]
 }

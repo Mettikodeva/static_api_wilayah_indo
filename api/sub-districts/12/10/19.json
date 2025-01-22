@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sei Berombang",
-    "Sei Penggantungan",
-    "Sei Lumut",
-    "Sei Tawar",
-    "Sei Sanggul",
-    "Sei Sakat",
-    "Sei Baru",
-    "Wonosari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sei Berombang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Penggantungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei Lumut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Tawar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Sanggul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei Sakat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonosari"
+    }
   ]
 }

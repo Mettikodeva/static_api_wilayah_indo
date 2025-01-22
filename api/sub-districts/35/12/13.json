@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kedunglo (Kedonglo)",
-    "Bantal",
-    "Awar-Awar",
-    "Parante (Perante)",
-    "Trigonco",
-    "Kertosari",
-    "Mojosari",
-    "Asembagus",
-    "Gudang",
-    "Wringin Anom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedunglo (Kedonglo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bantal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Awar-Awar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parante (Perante)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trigonco"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertosari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mojosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Asembagus"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gudang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wringin Anom"
+    }
   ]
 }

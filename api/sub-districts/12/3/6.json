@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Simarpinggan",
-    "Napa",
-    "Tapian Nauli",
-    "Pardomuan",
-    "Situmbaga",
-    "Sinyior",
-    "Pintu Padang",
-    "Sibong-bong (Sibongbong)",
-    "Siamporik Dolok",
-    "Siamporik Lombang",
-    "Sihopur",
-    "Tandihat",
-    "Perkebunan Marpinggan (Perkebunan Simarpinggan)",
-    "Aek Natas",
-    "Dolok Gadang / Godang",
-    "Sihuik Huik",
-    "Gunung Baringin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simarpinggan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Napa"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tapian Nauli"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Situmbaga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sinyior"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pintu Padang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sibong-bong (Sibongbong)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siamporik Dolok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siamporik Lombang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sihopur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tandihat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Perkebunan Marpinggan (Perkebunan Simarpinggan)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Aek Natas"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dolok Gadang / Godang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sihuik Huik"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gunung Baringin"
+    }
   ]
 }

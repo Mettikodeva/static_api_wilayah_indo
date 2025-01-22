@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wouma",
-    "Ketimavit",
-    "Wesakma",
-    "Logonoba",
-    "Wesakin",
-    "Pipitmo",
-    "Sinarekowa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wouma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ketimavit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wesakma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Logonoba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wesakin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pipitmo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinarekowa"
+    }
   ]
 }

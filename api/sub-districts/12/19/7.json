@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kwala Sikasim",
-    "Sei Balai",
-    "Durian",
-    "Perkebunan Sei Balai",
-    "Suka Ramai",
-    "Sei Bejangkar",
-    "Mekar Mulio",
-    "Perkebunan Sei Bejangkar",
-    "Benteng Jaya",
-    "Tanah Timbul",
-    "Perjuangan",
-    "Sidomulio",
-    "Mekar Baru",
-    "Suko Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kwala Sikasim"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Balai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Sei Balai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Ramai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei Bejangkar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekar Mulio"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perkebunan Sei Bejangkar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Benteng Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanah Timbul"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Perjuangan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sidomulio"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mekar Baru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Suko Rejo"
+    }
   ]
 }

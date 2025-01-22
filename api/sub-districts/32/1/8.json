@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Karyamekar (Karya Mekar)",
-    "Babakanraden (Babakan Raden)",
-    "Cikutamahi",
-    "Kutamekar (Kuta Mekar)",
-    "Cariu",
-    "Mekarwangi",
-    "Bantarkuning (Bantar Kuning)",
-    "Sukajadi",
-    "Tegalpanjang (Tegal Panjang)",
-    "Cibatutiga (Cibatu Tiga)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karyamekar (Karya Mekar)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babakanraden (Babakan Raden)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikutamahi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kutamekar (Kuta Mekar)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cariu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bantarkuning (Bantar Kuning)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegalpanjang (Tegal Panjang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cibatutiga (Cibatu Tiga)"
+    }
   ]
 }

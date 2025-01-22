@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sritejo Kencono (Sri Tejo Kencono)",
-    "Sapto Mulyo",
-    "Nambah Rejo",
-    "Sumber Rejo",
-    "Purworejo",
-    "Kota Gajah",
-    "Kota Gajah Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sritejo Kencono (Sri Tejo Kencono)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sapto Mulyo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nambah Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Gajah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kota Gajah Timur"
+    }
   ]
 }

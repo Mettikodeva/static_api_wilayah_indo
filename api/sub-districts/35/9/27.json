@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gumuksari",
-    "Sukoreno",
-    "Patempuran",
-    "Sumberkalong (Sumber Kalong)",
-    "Sumberjeruk (Sumber Jeruk)",
-    "Glagahwero",
-    "Kalisat",
-    "Ajung",
-    "Plalangan",
-    "Gambiran",
-    "Sumberketempa (Sumber Ketempah)",
-    "Sebanen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gumuksari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukoreno"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patempuran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberkalong (Sumber Kalong)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberjeruk (Sumber Jeruk)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Glagahwero"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalisat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ajung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Plalangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gambiran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberketempa (Sumber Ketempah)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sebanen"
+    }
   ]
 }

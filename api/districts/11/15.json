@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Kuala",
-    "Seunagan",
-    "Seunagan Timur",
-    "Beutong",
-    "Darul Makmur",
-    "Suka Makmue",
-    "Kuala Pesisir",
-    "Tadu Raya",
-    "Tripa Makmur",
-    "Beutong Ateuh Banggalang"
+    {
+      "district_id": 1,
+      "kecamatan": "Kuala"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Seunagan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Seunagan Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Beutong"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Darul Makmur"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Suka Makmue"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kuala Pesisir"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tadu Raya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tripa Makmur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Beutong Ateuh Banggalang"
+    }
   ]
 }

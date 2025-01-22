@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Muara Wis",
-    "Sebemban",
-    "Melintang",
-    "Enggelam",
-    "Lebak Mantan",
-    "Lebak Cilong",
-    "Muara Enggelam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Wis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sebemban"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Melintang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Enggelam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lebak Mantan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebak Cilong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Enggelam"
+    }
   ]
 }

@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Pakuncen",
-    "Wirobrajan",
-    "Patangpuluhan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pakuncen"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wirobrajan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Patangpuluhan"
+    }
   ]
 }

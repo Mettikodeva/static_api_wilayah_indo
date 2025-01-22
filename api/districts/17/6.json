@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Lubuk Pinang",
-    "Kota Mukomuko (Mukomuko Utara)",
-    "Teras Terunjam",
-    "Pondok Suguh",
-    "Ipuh (Muko Muko Selatan)",
-    "Malin Deman",
-    "Air Rami",
-    "Teramang Jaya",
-    "Selagan Raya",
-    "Penarik",
-    "XIV Koto",
-    "V Koto",
-    "Air Majunto",
-    "Air Dikit",
-    "Sungai Rumbai"
+    {
+      "district_id": 1,
+      "kecamatan": "Lubuk Pinang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kota Mukomuko (Mukomuko Utara)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Teras Terunjam"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pondok Suguh"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Ipuh (Muko Muko Selatan)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Malin Deman"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Air Rami"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Teramang Jaya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Selagan Raya"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Penarik"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "XIV Koto"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "V Koto"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Air Majunto"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Air Dikit"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sungai Rumbai"
+    }
   ]
 }

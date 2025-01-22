@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bentayan",
-    "Teluktenggulang (Teluk Tenggulang)",
-    "Suka Mulya (Sukamulya)",
-    "Suka Raja",
-    "Karang Anyar",
-    "Karang Asem",
-    "Marga Rahayu",
-    "Sido Mulyo (Sidomulyo)",
-    "Keluang",
-    "Bumi Serdang",
-    "Karang Mulya",
-    "Sukakarya (Suka Karya)",
-    "Panca Mulya (Pancamulya)",
-    "Suka Jaya (Sukajaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bentayan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluktenggulang (Teluk Tenggulang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Mulya (Sukamulya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Raja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Asem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Marga Rahayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sido Mulyo (Sidomulyo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keluang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bumi Serdang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karang Mulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukakarya (Suka Karya)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Panca Mulya (Pancamulya)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suka Jaya (Sukajaya)"
+    }
   ]
 }

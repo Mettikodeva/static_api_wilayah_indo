@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Woro",
-    "Campa",
-    "Mpuri",
-    "Ndano",
-    "Monggo",
-    "Dena",
-    "Rade",
-    "Tonda",
-    "Bolo",
-    "Madawau (Mandawau)",
-    "Ncandi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Woro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Campa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mpuri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ndano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Monggo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dena"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rade"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tonda"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bolo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Madawau (Mandawau)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ncandi"
+    }
   ]
 }

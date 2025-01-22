@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Muer",
-    "Plampang",
-    "Teluk Santong",
-    "Sepayung",
-    "Sepakat",
-    "UPT. Perode SP I (Sp I Prode / Perode)",
-    "UPT. Perode SP II (Sp II Prode / Perode)",
-    "UPT Perode SP III (Sp III Prode / Perode)",
-    "Selanteh (Selante)",
-    "Brang Kolong",
-    "Usar"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muer"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Plampang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Santong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sepayung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sepakat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "UPT. Perode SP I (Sp I Prode / Perode)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "UPT. Perode SP II (Sp II Prode / Perode)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "UPT Perode SP III (Sp III Prode / Perode)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Selanteh (Selante)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Brang Kolong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Usar"
+    }
   ]
 }

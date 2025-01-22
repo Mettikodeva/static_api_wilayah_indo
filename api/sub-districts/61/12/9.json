@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sungai Kakap",
-    "Sungai Itik",
-    "Jeruju Besar",
-    "Sungai Kupah",
-    "Sungai Rengas",
-    "Pal Sembilan",
-    "Sungai Belidak",
-    "Kalimas",
-    "Pungur Kecil (Punggur Kecil)",
-    "Pungur Besar (Punggur Besar)",
-    "Tanjung Saleh",
-    "Sepuk Laut",
-    "Punggur Kapuas",
-    "Rengas Kapuas",
-    "Parit Keladi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Kakap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Itik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jeruju Besar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Kupah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Rengas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pal Sembilan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Belidak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalimas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pungur Kecil (Punggur Kecil)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pungur Besar (Punggur Besar)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Saleh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sepuk Laut"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Punggur Kapuas"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rengas Kapuas"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Parit Keladi"
+    }
   ]
 }

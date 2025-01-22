@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pesajian",
-    "Punti/Panti Kayu",
-    "Pematang",
-    "Selunak",
-    "Suka Maju (Sukamaju)",
-    "Pematang Benteng",
-    "Sencano Jaya",
-    "Sungai Aur",
-    "Peladangan",
-    "Koto Tuo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pesajian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Punti/Panti Kayu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pematang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selunak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Maju (Sukamaju)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pematang Benteng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sencano Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Aur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Peladangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koto Tuo"
+    }
   ]
 }

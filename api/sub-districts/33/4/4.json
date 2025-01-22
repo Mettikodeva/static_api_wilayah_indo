@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kalitengah",
-    "Merden",
-    "Karanganyar",
-    "Kaliajir",
-    "Petir",
-    "Pucungbedug",
-    "Parakan",
-    "Mertasari",
-    "Danaraja",
-    "Purwonegoro",
-    "Kalipelus",
-    "Gumiwang",
-    "Kutawuluh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalitengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Merden"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaliajir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Petir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pucungbedug"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mertasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Danaraja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purwonegoro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalipelus"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gumiwang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kutawuluh"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mukti Jaya",
-    "Pulung Sari",
-    "Margo Mulyo",
-    "Rantau Makmur",
-    "Manunggal Jaya",
-    "Tanjung Labu",
-    "Kebon Agung",
-    "Tepian Makmur",
-    "Masalap Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mukti Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulung Sari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margo Mulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manunggal Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Labu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebon Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tepian Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Masalap Raya"
+    }
   ]
 }

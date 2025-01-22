@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sei Nangka",
-    "Sei Jawi-Jawi",
-    "Sei Serindan",
-    "Sei Tualang Pandau",
-    "Sei Lendir",
-    "Sei Kepayang Kiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei Nangka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Jawi-Jawi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei Serindan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Tualang Pandau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Lendir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei Kepayang Kiri"
+    }
   ]
 }

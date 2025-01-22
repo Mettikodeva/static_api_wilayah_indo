@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Walantaka",
-    "Cigoong",
-    "Nyapah",
-    "Pangampelan (Pengampelan)",
-    "Kiara",
-    "Pager Agung (Pageragung)",
-    "Kalodran (Kalodoran)",
-    "Kapuren (Kepuren)",
-    "Teritih",
-    "Pabuaran",
-    "Pasuluhan",
-    "Tegalsari",
-    "Pipitan",
-    "Lebakwangi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Walantaka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cigoong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nyapah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pangampelan (Pengampelan)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kiara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pager Agung (Pageragung)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kalodran (Kalodoran)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kapuren (Kepuren)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Teritih"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pasuluhan"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pipitan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Lebakwangi"
+    }
   ]
 }

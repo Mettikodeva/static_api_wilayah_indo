@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Pangga",
-    "Pembelacanan (Pembelancanan)",
-    "Sungai Nipah",
-    "Pantai",
-    "Sangking Baru",
-    "Suka Maju",
-    "Sungai Kupang Jaya",
-    "Pantai Baru",
-    "Bumi Asih"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Pangga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pembelacanan (Pembelancanan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Nipah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pantai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sangking Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungai Kupang Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pantai Baru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bumi Asih"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Oktau",
-    "Oktaru",
-    "Okbem",
-    "Okngam",
-    "Bemhimiku",
-    "Bilip Bayo",
-    "Atang Doki",
-    "Okalut Kumal",
-    "Kaep"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oktau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oktaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Okbem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Okngam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bemhimiku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bilip Bayo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Atang Doki"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Okalut Kumal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaep"
+    }
   ]
 }

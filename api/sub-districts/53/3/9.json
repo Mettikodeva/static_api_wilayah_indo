@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Humusu C",
-    "Fatumtasa",
-    "Oesoko",
-    "Humusu Sainiup (Humusu B)",
-    "Humusu Oekolo (Humusu A)"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Humusu C"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fatumtasa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Oesoko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Humusu Sainiup (Humusu B)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Humusu Oekolo (Humusu A)"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Lahei I",
-    "Lahei II",
-    "Ipu",
-    "Mukut",
-    "Muara Bakah",
-    "Juju Baru",
-    "Muara Inu",
-    "Bengahon",
-    "Rahaden",
-    "Muara Pari",
-    "Haragandang",
-    "Karendan",
-    "Hurung Enep"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Lahei I"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Lahei II"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ipu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mukut"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muara Bakah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Juju Baru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Muara Inu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bengahon"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Rahaden"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Muara Pari"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Haragandang"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Karendan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Hurung Enep"
+    }
   ]
 }

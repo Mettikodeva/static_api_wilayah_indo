@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sumber Agung",
-    "Batang Hari",
-    "Panggung Mulya (Panggung Mulyo)",
-    "Yoso Mulyo (Duto Yoso Mulyo)",
-    "Andalas Cermin",
-    "Rawa Ragil",
-    "Gedung Jaya",
-    "Bumi Sari",
-    "Mulyo Dadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batang Hari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panggung Mulya (Panggung Mulyo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yoso Mulyo (Duto Yoso Mulyo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Andalas Cermin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawa Ragil"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedung Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bumi Sari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mulyo Dadi"
+    }
   ]
 }

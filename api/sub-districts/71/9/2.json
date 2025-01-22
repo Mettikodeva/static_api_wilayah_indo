@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Paseng",
-    "Paniki",
-    "Ondong",
-    "Peling Sawang (Pelingsawang)",
-    "Kanawong",
-    "Bumbiha",
-    "Pehe",
-    "Lehi",
-    "Peling",
-    "Makalehi",
-    "Makalehi Utara",
-    "Makalehi Timur"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Paseng"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Paniki"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ondong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peling Sawang (Pelingsawang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kanawong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumbiha"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pehe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lehi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Peling"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Makalehi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Makalehi Utara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Makalehi Timur"
+    }
   ]
 }

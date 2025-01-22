@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Dukun",
-    "Balongpanggang (Balong Panggang)",
-    "Panceng",
-    "Benjeng",
-    "Duduksampeyan (Duduk Sampeyan)",
-    "Wringinanom (Wringin Anom)",
-    "Ujungpangkah (Ujung Pangkah)",
-    "Kedamean",
-    "Sidayu",
-    "Manyar",
-    "Cerme",
-    "Bungah",
-    "Menganti",
-    "Kebomas",
-    "Driyorejo",
-    "Gresik",
-    "Sangkapura",
-    "Tambak"
+    {
+      "district_id": 1,
+      "kecamatan": "Dukun"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Balongpanggang (Balong Panggang)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Panceng"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Benjeng"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Duduksampeyan (Duduk Sampeyan)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Wringinanom (Wringin Anom)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Ujungpangkah (Ujung Pangkah)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kedamean"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sidayu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Manyar"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Cerme"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bungah"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Menganti"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kebomas"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Driyorejo"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Gresik"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sangkapura"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tambak"
+    }
   ]
 }

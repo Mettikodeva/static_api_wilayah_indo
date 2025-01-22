@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Danar Ohoiseb",
-    "Danar Ternate",
-    "Danar Lumefar",
-    "Elaar Ngursoin",
-    "Elaar Lamagorang",
-    "Elaar Let",
-    "Sare",
-    "Maar",
-    "Uf",
-    "Ngurwul",
-    "Garara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Danar Ohoiseb"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Danar Ternate"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Danar Lumefar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Elaar Ngursoin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Elaar Lamagorang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Elaar Let"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sare"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uf"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngurwul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Garara"
+    }
   ]
 }

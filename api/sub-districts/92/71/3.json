@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Rufei",
-    "Klawasi",
-    "Puncak Cendrawasih",
-    "Pal Putih"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rufei"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Klawasi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Puncak Cendrawasih"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pal Putih"
+    }
   ]
 }

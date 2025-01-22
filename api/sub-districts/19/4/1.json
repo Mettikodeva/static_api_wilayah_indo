@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Koba",
-    "Arung Dalam",
-    "Berok",
-    "Padang Mulia (Padang Mulya)",
-    "Simpang Perlang",
-    "Nibung",
-    "Kurau (Timur)",
-    "Guntung",
-    "Penyak",
-    "Terentang III",
-    "Kurau Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Koba"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Arung Dalam"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Berok"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Padang Mulia (Padang Mulya)"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Simpang Perlang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nibung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kurau (Timur)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Guntung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penyak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terentang III"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kurau Barat"
+    }
   ]
 }

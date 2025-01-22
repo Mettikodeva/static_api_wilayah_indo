@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ampa Kolak",
-    "Cane Toa",
-    "Padang Pasir",
-    "Pinang Rugub",
-    "Kuning",
-    "Mangang",
-    "Rempelam",
-    "Cane Uken",
-    "Tungel",
-    "Kota Rikit Gaib",
-    "Lukup Baru",
-    "Penomon Jaya",
-    "Tungel Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ampa Kolak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cane Toa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Pasir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pinang Rugub"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuning"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mangang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rempelam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cane Uken"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tungel"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kota Rikit Gaib"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lukup Baru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Penomon Jaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tungel Baru"
+    }
   ]
 }

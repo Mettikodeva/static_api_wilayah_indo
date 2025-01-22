@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sindangkerta",
-    "Manglid",
-    "Cikiruh",
-    "Cikadu",
-    "Kiarapayung",
-    "Kutakarang",
-    "Citeluk",
-    "Kiarajangkung",
-    "Cikalong",
-    "Malangnengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sindangkerta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manglid"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikiruh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikadu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kiarapayung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kutakarang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Citeluk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kiarajangkung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cikalong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Malangnengah"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ogomoli",
-    "Sandana",
-    "Kalangkangan",
-    "Lantapan",
-    "Lakatan",
-    "Tinigi",
-    "Ginunggung",
-    "Lalos",
-    "Tende",
-    "Sabang",
-    "Bajugan",
-    "Aung",
-    "Malangga",
-    "Kinopasan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ogomoli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sandana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalangkangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lantapan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lakatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tinigi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ginunggung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lalos"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tende"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sabang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bajugan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Aung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Malangga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kinopasan"
+    }
   ]
 }

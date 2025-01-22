@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bunigeulis",
-    "Jambugeulis",
-    "Koreak",
-    "Karangmuncang",
-    "Sangkanhurip (Sangkanurip)",
-    "Panawuan",
-    "Timbang",
-    "Babakanjati",
-    "Indapatra",
-    "Cibuntu",
-    "Sangkanmulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunigeulis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambugeulis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koreak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangmuncang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sangkanhurip (Sangkanurip)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panawuan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timbang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babakanjati"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Indapatra"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cibuntu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sangkanmulya"
+    }
   ]
 }

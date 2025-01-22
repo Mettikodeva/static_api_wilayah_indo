@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Onimsari",
-    "Mekarsari",
-    "Pinang Agung",
-    "Bumi Moroh Indah",
-    "Tesha (Tesha Perda)",
-    "Onim Jaya",
-    "Wono Rejo"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Onimsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pinang Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Moroh Indah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tesha (Tesha Perda)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Onim Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wono Rejo"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mororejo",
-    "Suwawal",
-    "Sinanggul",
-    "Jambu",
-    "Srobyong",
-    "Sekuro",
-    "Karanggondang",
-    "Jambu Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mororejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suwawal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sinanggul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Srobyong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sekuro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karanggondang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jambu Timur"
+    }
   ]
 }

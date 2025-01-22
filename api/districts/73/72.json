@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Bacukiki",
-    "Ujung",
-    "Soreang",
-    "Bacukiki Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Bacukiki"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ujung"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Soreang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bacukiki Barat"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tumbang Miri",
-    "Batu Tangkoi (Batu Tangkui)",
-    "Penda Rangas",
-    "Tumbang Sian",
-    "Tumbang Pasangon",
-    "Tumbang Korik/Kurik",
-    "Tumbang Ponyoi",
-    "Dandang",
-    "Tumbang Hamputung",
-    "Tumbang Tajungan",
-    "Tumbang Takaoi (Takaoi)",
-    "Teluk Kanduri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tumbang Miri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Tangkoi (Batu Tangkui)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penda Rangas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Sian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Pasangon"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tumbang Korik/Kurik"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tumbang Ponyoi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dandang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tumbang Hamputung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tumbang Tajungan"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tumbang Takaoi (Takaoi)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Teluk Kanduri"
+    }
   ]
 }

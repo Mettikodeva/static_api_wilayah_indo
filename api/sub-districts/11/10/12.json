@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Suro (Suro Baru)",
-    "Pangkalan Sulampi",
-    "Bulu Sema",
-    "Lae Bangun",
-    "Alur Linci",
-    "Siompin",
-    "Ketangkuhan (Ketangkihan)",
-    "Keras",
-    "Mandumpang",
-    "Sirimo Mungkur",
-    "Bulu Ara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suro (Suro Baru)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkalan Sulampi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bulu Sema"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lae Bangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alur Linci"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siompin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ketangkuhan (Ketangkihan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keras"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mandumpang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirimo Mungkur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bulu Ara"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tontayuo",
-    "Biluhu Timur",
-    "Kayubulan",
-    "Bongo",
-    "Lopo",
-    "Lamu",
-    "Olimoo'o (Olimoo)",
-    "Buhudaa",
-    "Langgula"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tontayuo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Biluhu Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kayubulan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bongo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lopo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Olimoo'o (Olimoo)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Buhudaa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Langgula"
+    }
   ]
 }

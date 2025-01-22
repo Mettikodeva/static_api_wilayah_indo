@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jitmau",
-    "Ikuf",
-    "Isir",
-    "Jitmau Timur",
-    "Ikuf Utara",
-    "Sarimo",
-    "Kambusabo",
-    "Srirtabam",
-    "Faithowes",
-    "Yumame"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jitmau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ikuf"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Isir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jitmau Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ikuf Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sarimo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kambusabo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Srirtabam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Faithowes"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yumame"
+    }
   ]
 }

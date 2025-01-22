@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Koijabi",
-    "Balatan",
-    "Warloy",
-    "Warjukur",
-    "Kobror",
-    "Basada",
-    "Wailay",
-    "Kaiwabar",
-    "Ponom",
-    "Lola",
-    "Mariri",
-    "Dosinamalau",
-    "Karawai (Karawain)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koijabi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Warloy"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Warjukur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kobror"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Basada"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wailay"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaiwabar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ponom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lola"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mariri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dosinamalau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karawai (Karawain)"
+    }
   ]
 }

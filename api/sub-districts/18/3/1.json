@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bukit Kemuning",
-    "Tanjung Baru",
-    "Suka Menanti",
-    "Muara Aman",
-    "Tanjung Baru Timur",
-    "Dwikora",
-    "Tanjung Waras",
-    "Sido Mulyo (Sidomulyo)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bukit Kemuning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Menanti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Aman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Baru Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dwikora"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Waras"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sido Mulyo (Sidomulyo)"
+    }
   ]
 }

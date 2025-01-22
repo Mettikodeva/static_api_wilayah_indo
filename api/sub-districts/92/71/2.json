@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Klawalu",
-    "Klamana",
-    "Klawuyuk",
-    "Kladufu"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Klawalu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Klamana"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Klawuyuk"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kladufu"
+    }
   ]
 }

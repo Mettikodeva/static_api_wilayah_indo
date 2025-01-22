@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lamtamot",
-    "Lambaro Tunong",
-    "Lonbaroh (Lon Baroh)",
-    "Lon Asan",
-    "Paya Keureuleh",
-    "Panca",
-    "Lam Kubu",
-    "Panca Kubu",
-    "Suka Damai (Sukadamai)",
-    "Suka Mulya (Sukamulia)",
-    "Saree Aceh",
-    "Teuladan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lamtamot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lambaro Tunong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lonbaroh (Lon Baroh)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lon Asan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paya Keureuleh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panca"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lam Kubu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panca Kubu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Damai (Sukadamai)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suka Mulya (Sukamulia)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saree Aceh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Teuladan"
+    }
   ]
 }

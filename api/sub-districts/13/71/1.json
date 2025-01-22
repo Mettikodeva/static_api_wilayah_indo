@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Belakang Pondok",
-    "Alang Laweh",
-    "Ranah Parak Rumbio",
-    "Pasa Gadang (Pasar Gadang)",
-    "Batang Arau",
-    "Seberang Palinggam",
-    "Seberang Padang",
-    "Mato/Mata Air",
-    "Rawang",
-    "Teluk Bayur/Taluak Bayua",
-    "Air Manis (Aia Manih)",
-    "Bukik/Bukit Gado-gado"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Belakang Pondok"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Alang Laweh"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ranah Parak Rumbio"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasa Gadang (Pasar Gadang)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Batang Arau"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Seberang Palinggam"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Seberang Padang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mato/Mata Air"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Rawang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Teluk Bayur/Taluak Bayua"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Air Manis (Aia Manih)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bukik/Bukit Gado-gado"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kobasoma",
-    "Lewolaga",
-    "Lewoingu",
-    "Tuakepa",
-    "Tenawahang",
-    "Leraboleng",
-    "Serinuho",
-    "Watowara",
-    "Konga",
-    "Ile Gerong",
-    "Adabang",
-    "Dun Tana Lewoingu",
-    "Duli Jaya",
-    "Bokang Wolomatang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kobasoma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lewolaga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lewoingu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuakepa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tenawahang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Leraboleng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Serinuho"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watowara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Konga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ile Gerong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Adabang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dun Tana Lewoingu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Duli Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bokang Wolomatang"
+    }
   ]
 }

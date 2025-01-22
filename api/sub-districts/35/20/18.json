@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sambirobyong",
-    "Campursari",
-    "Kalang",
-    "Durenan",
-    "Sidorejo",
-    "Getasanyar",
-    "Sidomulyo",
-    "Sumbersawit",
-    "Sidokerto",
-    "Widorokandang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sambirobyong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Campursari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Durenan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Getasanyar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumbersawit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidokerto"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Widorokandang"
+    }
   ]
 }

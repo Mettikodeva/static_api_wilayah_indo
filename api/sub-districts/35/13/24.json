@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sapih",
-    "Negororejo",
-    "Branggah",
-    "Lambangkuning",
-    "Wonogoro",
-    "Palangbesi",
-    "Boto",
-    "Lumbang",
-    "Tandonsentul (Tandongsentul / Tandon Sentul)",
-    "Purut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sapih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Negororejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Branggah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lambangkuning"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonogoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palangbesi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Boto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lumbang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tandonsentul (Tandongsentul / Tandon Sentul)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purut"
+    }
   ]
 }

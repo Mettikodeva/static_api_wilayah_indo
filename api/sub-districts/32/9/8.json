@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Karangamangu (Karangmanggu)",
-    "Susukan Lebak",
-    "Susukan Agung",
-    "Susukan Tonggoh",
-    "Wilulang",
-    "Sampih",
-    "Pasawahan",
-    "Ciawiasih",
-    "Ciawijapura",
-    "Curug",
-    "Curug Wetan",
-    "Kaligawe Wetan",
-    "Kaligawe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangamangu (Karangmanggu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Susukan Lebak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Susukan Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Susukan Tonggoh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wilulang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sampih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pasawahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciawiasih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciawijapura"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Curug Wetan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kaligawe Wetan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kaligawe"
+    }
   ]
 }

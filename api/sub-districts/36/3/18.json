@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sukamulya (Suka Mulya)",
-    "Bunder",
-    "Cibadak",
-    "Talaga",
-    "Talagasari (Talaga Sari)",
-    "Dukuh",
-    "Cikupa",
-    "Sukanagara (Suka Nagara)",
-    "Bitung Jaya",
-    "Pasir Gadung",
-    "Sukadamai (Suka Damai)",
-    "Pasir Jaya",
-    "Budi Mulya",
-    "Bojong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukamulya (Suka Mulya)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bunder"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talaga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talagasari (Talaga Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikupa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukanagara (Suka Nagara)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bitung Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Gadung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukadamai (Suka Damai)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasir Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Budi Mulya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bojong"
+    }
   ]
 }

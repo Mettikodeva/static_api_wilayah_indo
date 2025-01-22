@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kolonodale",
-    "Bahontula",
-    "Bahoue",
-    "Ganda Ganda",
-    "Koya",
-    "Gililana",
-    "Tanauge",
-    "Korololaki",
-    "Korololama",
-    "Koromatantu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kolonodale"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bahontula"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bahoue"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ganda Ganda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gililana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanauge"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Korololaki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Korololama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koromatantu"
+    }
   ]
 }

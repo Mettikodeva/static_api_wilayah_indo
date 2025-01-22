@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kapiraya",
-    "Uta",
-    "Mapuruku (Mapuruka/Mupuruka)",
-    "Wumuka",
-    "Akar",
-    "Mapar",
-    "Kipia",
-    "Pronggo",
-    "Wakia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kapiraya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mapuruku (Mapuruka/Mupuruka)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wumuka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Akar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mapar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kipia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pronggo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wakia"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kubalahin",
-    "Waegeren",
-    "Grandeng",
-    "Lele",
-    "Wanakarta",
-    "Wabloy",
-    "Ohilahin",
-    "Tifu",
-    "Wapsalit",
-    "Nafrua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kubalahin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waegeren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Grandeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lele"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wanakarta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wabloy"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ohilahin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tifu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wapsalit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nafrua"
+    }
   ]
 }

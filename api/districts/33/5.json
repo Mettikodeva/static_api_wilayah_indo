@@ -1,30 +1,108 @@
 {
   "districts": [
-    "Ayah",
-    "Buayan",
-    "Puring",
-    "Petanahan",
-    "Klirong",
-    "Buluspesantren",
-    "Ambal",
-    "Mirit",
-    "Prembun",
-    "Kutowinangun",
-    "Alian (Aliyan)",
-    "Kebumen",
-    "Pejagoan",
-    "Sruweng",
-    "Adimulyo",
-    "Kuwarasan",
-    "Rowokele",
-    "Sempor",
-    "Gombong",
-    "Karanganyar",
-    "Karanggayam",
-    "Sadang",
-    "Bonorowo",
-    "Padureso",
-    "Poncowarno",
-    "Karangsambung"
+    {
+      "district_id": 1,
+      "kecamatan": "Ayah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Buayan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Puring"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Petanahan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Klirong"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Buluspesantren"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Ambal"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mirit"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Prembun"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kutowinangun"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Alian (Aliyan)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kebumen"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pejagoan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sruweng"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Adimulyo"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kuwarasan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Rowokele"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sempor"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Gombong"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Karanganyar"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Karanggayam"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Sadang"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Bonorowo"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Padureso"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Poncowarno"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Karangsambung"
+    }
   ]
 }

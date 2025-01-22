@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Berembanak",
-    "Habag",
-    "Kekoli",
-    "Kamboniki",
-    "Kaloniki",
-    "Tari",
-    "Marbuna",
-    "Malta"
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Berembanak"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Habag"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kekoli"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kamboniki"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kaloniki"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tari"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Marbuna"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Malta"
+    }
   ]
 }

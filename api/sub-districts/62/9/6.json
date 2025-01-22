@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bina Bhakti",
-    "Wonorejo",
-    "Mekar Mulya",
-    "Jangkar Prima",
-    "Purwareja (Purworejo)",
-    "Tri Tunggal",
-    "Batu Hambawang",
-    "Rimba Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bina Bhakti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekar Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jangkar Prima"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purwareja (Purworejo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tri Tunggal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batu Hambawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rimba Jaya"
+    }
   ]
 }

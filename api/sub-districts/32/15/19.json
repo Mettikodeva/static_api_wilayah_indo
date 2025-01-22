@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karyamukti",
-    "Ciwaringin",
-    "Waringinkarya",
-    "Kedawung",
-    "Karangtanjung",
-    "Pasirtanjung",
-    "Lemahabang",
-    "Lemahmukti",
-    "Pulojaya",
-    "Pulokalapa (Pulokelapa)",
-    "Pulomulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciwaringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waringinkarya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangtanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirtanjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lemahabang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lemahmukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulojaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulokalapa (Pulokelapa)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulomulya"
+    }
   ]
 }

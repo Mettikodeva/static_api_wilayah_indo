@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Simpong",
-    "Hanga Hanga",
-    "Jole",
-    "Hanga-Hanga Permai",
-    "Kompo",
-    "Bukit Mambual (Bukit Membual)",
-    "Tombang Permai",
-    "Maahas",
-    "Tanjung Tuwis",
-    "Bubung"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Simpong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Hanga Hanga"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jole"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Hanga-Hanga Permai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kompo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bukit Mambual (Bukit Membual)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tombang Permai"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Maahas"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tanjung Tuwis"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bubung"
+    }
   ]
 }

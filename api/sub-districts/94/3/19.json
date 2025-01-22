@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Nomouwodide",
-    "Pikokebo",
-    "Baya Biru",
-    "Jigitopa Timur",
-    "Maatadi",
-    "Pupekebo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nomouwodide"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pikokebo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baya Biru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jigitopa Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maatadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pupekebo"
+    }
   ]
 }

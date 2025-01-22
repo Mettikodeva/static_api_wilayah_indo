@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pringga Jurang",
-    "Montong Betok",
-    "Kilang",
-    "Perian",
-    "Jenggik Utara",
-    "Pringgajurang Utara",
-    "Pesanggrahan",
-    "Lendang Belo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pringga Jurang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Montong Betok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kilang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jenggik Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pringgajurang Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pesanggrahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lendang Belo"
+    }
   ]
 }

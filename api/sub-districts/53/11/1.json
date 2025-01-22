@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kambajawa",
-    "Hambala",
-    "Matawai",
-    "Kamalaputi",
-    "Lukukamaru",
-    "Mbatakapidu (Mbata Kapidu)",
-    "Pambotandjara (Pambola Njara / Pambotanjara)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kambajawa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Hambala"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Matawai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kamalaputi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lukukamaru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mbatakapidu (Mbata Kapidu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pambotandjara (Pambola Njara / Pambotanjara)"
+    }
   ]
 }

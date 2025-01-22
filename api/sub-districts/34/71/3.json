@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Demangan",
-    "Kotabaru",
-    "Klitren",
-    "Baciro",
-    "Terban"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Demangan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kotabaru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klitren"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Baciro"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Terban"
+    }
   ]
 }

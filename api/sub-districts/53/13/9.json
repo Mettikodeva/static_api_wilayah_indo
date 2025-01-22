@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Todanara",
-    "Jontona",
-    "Lamawolo",
-    "Lamatokan",
-    "Bao Lali Duli",
-    "Lamaau",
-    "Aulesa",
-    "Waimatan",
-    "Lamagute"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Todanara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jontona"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamawolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lamatokan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bao Lali Duli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamaau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aulesa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waimatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamagute"
+    }
   ]
 }

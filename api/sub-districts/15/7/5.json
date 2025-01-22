@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sungailokan (Sungai Lokan)",
-    "Sungai Sayang",
-    "Air Hitam Laut (Air Hitam / Laut)",
-    "Sungai Jambat",
-    "Sungai Itik",
-    "Sungai Benuh",
-    "Sungai Cemara",
-    "Remau Baku Tuo",
-    "Labuhan Pering"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sungailokan (Sungai Lokan)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Sayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Hitam Laut (Air Hitam / Laut)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Jambat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Itik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Benuh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Cemara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Remau Baku Tuo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Labuhan Pering"
+    }
   ]
 }

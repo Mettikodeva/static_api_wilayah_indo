@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Teluk Kepayang",
-    "Guntung",
-    "Mangkalapi",
-    "Tibarau Panjang (Timbarau Panjang)",
-    "Darasan Binjai",
-    "Tapus",
-    "Hati'if (Hati If)",
-    "Batu Bulan",
-    "Tamunih",
-    "Dadap Kusan Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Kepayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Guntung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangkalapi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tibarau Panjang (Timbarau Panjang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Darasan Binjai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tapus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hati'if (Hati If)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Bulan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tamunih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dadap Kusan Raya"
+    }
   ]
 }

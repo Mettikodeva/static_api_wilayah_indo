@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Otting",
-    "Tokaseng",
-    "Palongki",
-    "Tajong",
-    "Ulo",
-    "Lanca",
-    "Itterung",
-    "Mattoanging",
-    "Lamuru",
-    "Waji",
-    "Ajjalireng",
-    "Sijelling",
-    "Lea",
-    "Padaidi",
-    "Pongka",
-    "Lappae",
-    "Patangnga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Otting"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tokaseng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palongki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tajong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lanca"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Itterung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mattoanging"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamuru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waji"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ajjalireng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sijelling"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lea"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Padaidi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pongka"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lappae"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Patangnga"
+    }
   ]
 }

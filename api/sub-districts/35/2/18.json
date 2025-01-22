@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Setono",
-    "Singosaren",
-    "Mrican",
-    "Plalangan",
-    "Nglayang",
-    "Jenangan",
-    "Jimbe",
-    "Ngrupit",
-    "Pintu",
-    "Sedah",
-    "Panjeng",
-    "Sraten",
-    "Semanding",
-    "Tanjungsari (Tanjung Sari)",
-    "Paringan",
-    "Wates",
-    "Kemiri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Setono"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Singosaren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mrican"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Plalangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nglayang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jenangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jimbe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngrupit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pintu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sedah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panjeng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sraten"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Semanding"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjungsari (Tanjung Sari)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Paringan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kemiri"
+    }
   ]
 }

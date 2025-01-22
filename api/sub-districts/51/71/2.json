@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kesiman",
-    "Sumerta",
-    "Dangin Puri",
-    "Penatih",
-    "Dangin Puri Kelod (Dangin Puri Klod)",
-    "Sumerta Kelod/Klod",
-    "Kesiman Petilan",
-    "Kesiman Kertalangu",
-    "Sumerta Kaja",
-    "Sumerta Kauh",
-    "Penatih Dangin Puri"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kesiman"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sumerta"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Dangin Puri"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Penatih"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dangin Puri Kelod (Dangin Puri Klod)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumerta Kelod/Klod"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kesiman Petilan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kesiman Kertalangu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumerta Kaja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumerta Kauh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Penatih Dangin Puri"
+    }
   ]
 }

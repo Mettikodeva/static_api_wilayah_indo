@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kampung Melayu",
-    "Bidara Cina (Bidaracina)",
-    "Bali Mester",
-    "Rawa Bunga",
-    "Cipinang Cempedak",
-    "Cipinang Muara",
-    "Cipinang Besar Selatan",
-    "Cipinang Besar Utara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Melayu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bidara Cina (Bidaracina)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bali Mester"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rawa Bunga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cipinang Cempedak"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cipinang Muara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cipinang Besar Selatan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cipinang Besar Utara"
+    }
   ]
 }

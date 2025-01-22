@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tetoat",
-    "Dian Pulau",
-    "Letwuan (Letvuan)",
-    "Evu",
-    "Warwut",
-    "Wab",
-    "Dian Darat",
-    "Wirin",
-    "Ngursit",
-    "Madwat",
-    "Ohoibadar",
-    "Watngil",
-    "Arso"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tetoat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dian Pulau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Letwuan (Letvuan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Evu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Warwut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wab"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dian Darat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wirin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngursit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Madwat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ohoibadar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watngil"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Arso"
+    }
   ]
 }

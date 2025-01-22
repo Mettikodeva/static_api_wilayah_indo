@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Sinar Baru",
-    "Sukoharjo I",
-    "Sukoharjo II",
-    "Sukoharjo III",
-    "Sukoharjo IV",
-    "Panggungrejo (Panggung Rejo)",
-    "Pandan Sari",
-    "Pandan Surat",
-    "Keputran",
-    "Sukoyoso",
-    "Siliwangi",
-    "Waringinsari Barat (Waringin Sari Barat)",
-    "Pandan Sari Selatan",
-    "Sinar Baru Timur",
-    "Panggung Rejo Utara",
-    "Sukoharjo III Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sinar Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukoharjo I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukoharjo II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukoharjo III"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukoharjo IV"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panggungrejo (Panggung Rejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pandan Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pandan Surat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keputran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukoyoso"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Siliwangi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waringinsari Barat (Waringin Sari Barat)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pandan Sari Selatan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinar Baru Timur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Panggung Rejo Utara"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sukoharjo III Barat"
+    }
   ]
 }

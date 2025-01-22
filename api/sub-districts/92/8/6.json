@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Jawera",
-    "Ruwara",
-    "Wermenu",
-    "Egerwara",
-    "Kufuriyai",
-    "Manggera",
-    "Tanusan",
-    "Urisa",
-    "Waromi",
-    "Ukiara",
-    "Nagura",
-    "Inari",
-    "Wanoma",
-    "Sumun",
-    "Seraran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jawera"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ruwara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wermenu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Egerwara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kufuriyai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manggera"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanusan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Urisa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waromi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ukiara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nagura"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Inari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wanoma"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sumun"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Seraran"
+    }
   ]
 }

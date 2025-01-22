@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tolotangga",
-    "Sondo",
-    "Simpasai",
-    "Sie",
-    "Tangga",
-    "Monta",
-    "Sakuru (Sekuru)",
-    "Baralau",
-    "Tolouwi",
-    "Wilamaci",
-    "Pela",
-    "Tangga Baru",
-    "Nontotera",
-    "Waro"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tolotangga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sondo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpasai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sie"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tangga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Monta"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sakuru (Sekuru)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Baralau"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tolouwi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wilamaci"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pela"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tangga Baru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nontotera"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Waro"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pakulonan",
-    "Pakualam",
-    "Pakujaya (Paku Jaya)",
-    "Pondok Jagung",
-    "Pondok Jagung Timur",
-    "Jelupang",
-    "Lengkong Karya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pakulonan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pakualam"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pakujaya (Paku Jaya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pondok Jagung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pondok Jagung Timur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jelupang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lengkong Karya"
+    }
   ]
 }

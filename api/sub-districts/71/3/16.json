@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kendahe I (Kendahe Satu)",
-    "Kendahe II (Kendahe Dua)",
-    "Talawid",
-    "Tariang Lama (Tarianglama)",
-    "Pempalaraeng",
-    "Mohong Sawang (Mohongsawang)",
-    "Lipang (Lipaeng)",
-    "Kawaluso"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kendahe I (Kendahe Satu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kendahe II (Kendahe Dua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talawid"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tariang Lama (Tarianglama)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pempalaraeng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mohong Sawang (Mohongsawang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lipang (Lipaeng)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kawaluso"
+    }
   ]
 }

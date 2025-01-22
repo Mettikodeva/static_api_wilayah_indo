@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ciodeng",
-    "Pasirtenjo",
-    "Bojongmanik",
-    "Cempakawarna (Campakawarna)",
-    "Pasirloa",
-    "Pasirlancar",
-    "Sidangresmi (Sindangresmi)",
-    "Pasirdurung",
-    "Kadumalati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciodeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasirtenjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongmanik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cempakawarna (Campakawarna)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasirloa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirlancar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidangresmi (Sindangresmi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasirdurung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kadumalati"
+    }
   ]
 }

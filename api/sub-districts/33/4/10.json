@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kasilib (Kasalib)",
-    "Tapen",
-    "Karangjambe",
-    "Wanadadi",
-    "Wanakarsa",
-    "Lemahjaya",
-    "Karangkemiri",
-    "Kandangwangi",
-    "Medayu",
-    "Linggasari",
-    "Gumingsir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kasilib (Kasalib)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangjambe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanadadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wanakarsa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lemahjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangkemiri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kandangwangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Medayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Linggasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gumingsir"
+    }
   ]
 }

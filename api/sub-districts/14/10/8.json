@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Padang",
-    "Putri Puyu",
-    "Mekar Delima",
-    "Dedap",
-    "Kudap",
-    "Bandul",
-    "Selat Akar",
-    "Tanjung Pisang",
-    "Mengkopot",
-    "Mengkirau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Padang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Putri Puyu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekar Delima"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dedap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kudap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selat Akar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Pisang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mengkopot"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mengkirau"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kupang Kota",
-    "Kupang Raya",
-    "Kupang Teba",
-    "Pengajaran",
-    "Gulak Galik",
-    "Sumur Batu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kupang Kota"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kupang Raya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kupang Teba"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pengajaran"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gulak Galik"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sumur Batu"
+    }
   ]
 }

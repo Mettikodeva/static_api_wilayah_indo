@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Arahan Kidul",
-    "Arahan Lor",
-    "Linggajati",
-    "Cidempet",
-    "Sukadadi",
-    "Pranggong",
-    "Sukasari",
-    "Tawangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arahan Kidul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Arahan Lor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Linggajati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cidempet"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukadadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pranggong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tawangsari"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Taruang Taruang",
-    "Padang Metinggi/Mantinggi",
-    "Taruang Taruang Selatan",
-    "Taruang Taruang Utara",
-    "Padang Mantinggi Utara"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taruang Taruang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Metinggi/Mantinggi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Taruang Taruang Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taruang Taruang Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padang Mantinggi Utara"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Inobonto (Kelurahan Inobonto)",
-    "Komangaan",
-    "Solimandungan II (Solimandungan Dua)",
-    "Solimandungan I (Solimandungan Satu)",
-    "Bangomulunow (Bangomolunow)",
-    "Langagon",
-    "Inobonto II (Inobonto Dua)",
-    "Inobonto",
-    "Langagon Satu",
-    "Langagon Dua",
-    "Solimandungan Baru"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Inobonto (Kelurahan Inobonto)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Komangaan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Solimandungan II (Solimandungan Dua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Solimandungan I (Solimandungan Satu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangomulunow (Bangomolunow)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langagon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Inobonto II (Inobonto Dua)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Inobonto"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Langagon Satu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Langagon Dua"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Solimandungan Baru"
+    }
   ]
 }

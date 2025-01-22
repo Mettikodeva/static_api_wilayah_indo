@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Soa",
-    "Soa Sio",
-    "Kasturian",
-    "Salero",
-    "Toboleu",
-    "Sangaji",
-    "Dufa Dufa",
-    "Tafure",
-    "Tabam",
-    "Sango",
-    "Tarau",
-    "Sangaji Utara",
-    "Akehuda",
-    "Tubo"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Soa"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Soa Sio"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kasturian"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Salero"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Toboleu"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sangaji"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Dufa Dufa"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tafure"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Tabam"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Sango"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tarau"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Sangaji Utara"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Akehuda"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Tubo"
+    }
   ]
 }

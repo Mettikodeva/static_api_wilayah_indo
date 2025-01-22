@@ -1,12 +1,40 @@
 {
   "cities": [
-    "Jayapura",
-    "Kepulauan Yapen",
-    "Biak Numfor",
-    "Sarmi",
-    "Keerom",
-    "Waropen",
-    "Supiori",
-    "Mamberamo Raya"
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Jayapura"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Kepulauan Yapen"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Biak Numfor"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Sarmi"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Keerom"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Waropen"
+    },
+    {
+      "city_id": 19,
+      "kabupaten_kota": "Supiori"
+    },
+    {
+      "city_id": 20,
+      "kabupaten_kota": "Mamberamo Raya"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Jayapura"
+    }
   ]
 }

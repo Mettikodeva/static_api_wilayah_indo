@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kalibunder",
-    "Bojong",
-    "Cimahpar",
-    "Sekarsari",
-    "Sukaluyu",
-    "Balekambang",
-    "Mekarwangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalibunder"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cimahpar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sekarsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaluyu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balekambang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekarwangi"
+    }
   ]
 }

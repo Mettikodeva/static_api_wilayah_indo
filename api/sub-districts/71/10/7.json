@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mooat",
-    "Bongkudai Selatan",
-    "Bongkudai Baru",
-    "Bongkudai Utara",
-    "Bongkudai Timur",
-    "Guaan",
-    "Mototompian",
-    "Mokitompia",
-    "Kokapoi",
-    "Kokapoi Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mooat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bongkudai Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bongkudai Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bongkudai Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bongkudai Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Guaan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mototompian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mokitompia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kokapoi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kokapoi Timur"
+    }
   ]
 }

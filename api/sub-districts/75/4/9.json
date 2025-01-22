@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Hulawa",
-    "Karya Indah",
-    "Taluduyunu",
-    "Buntulia Utara",
-    "Buntulia Tengah",
-    "Taluduyunu Utara",
-    "Sipatana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hulawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karya Indah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taluduyunu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buntulia Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buntulia Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taluduyunu Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sipatana"
+    }
   ]
 }

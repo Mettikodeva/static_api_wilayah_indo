@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Giriharjo",
-    "Puhpelem",
-    "Nguneng",
-    "Sukorejo",
-    "Tengger",
-    "Golo"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Giriharjo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puhpelem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nguneng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tengger"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Golo"
+    }
   ]
 }

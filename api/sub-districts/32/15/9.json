@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sabajaya",
-    "Pisangsambo",
-    "Gempolkarya",
-    "Medankarya",
-    "Tambaksumur",
-    "Tambaksari",
-    "Sumurlaban",
-    "Srijaya",
-    "Kutamakmur",
-    "Bolang",
-    "Srikamulyan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sabajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pisangsambo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gempolkarya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Medankarya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambaksumur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tambaksari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumurlaban"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Srijaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kutamakmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bolang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Srikamulyan"
+    }
   ]
 }

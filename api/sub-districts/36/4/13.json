@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tirtayasa",
-    "Samparwadi",
-    "Kamanisan (Kemanisan)",
-    "Pontang Legon",
-    "Kebon",
-    "Sujung",
-    "Lontar",
-    "Susukan",
-    "Wargasara",
-    "Laban",
-    "Tengkurak",
-    "Alang Alang",
-    "Kebuyutan",
-    "Puser"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tirtayasa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Samparwadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kamanisan (Kemanisan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pontang Legon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sujung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lontar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Susukan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wargasara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Laban"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tengkurak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Alang Alang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kebuyutan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Puser"
+    }
   ]
 }

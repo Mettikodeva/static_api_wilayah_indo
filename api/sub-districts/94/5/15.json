@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kilunggame",
-    "Bakcini",
-    "Timobut",
-    "Tagalame I",
-    "Wonelupaga",
-    "Komapaga",
-    "Timobut Egewak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kilunggame"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bakcini"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timobut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tagalame I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonelupaga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Komapaga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Timobut Egewak"
+    }
   ]
 }

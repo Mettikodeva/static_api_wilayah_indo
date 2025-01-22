@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mataram Baru",
-    "Rajabasa Baru",
-    "Teluk Dalem",
-    "Way Areng (Wai Arang)",
-    "Tulung Pasik (Tulungpasik)",
-    "Mandala Sari",
-    "Kebon Damar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mataram Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rajabasa Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Dalem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Way Areng (Wai Arang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tulung Pasik (Tulungpasik)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mandala Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebon Damar"
+    }
   ]
 }

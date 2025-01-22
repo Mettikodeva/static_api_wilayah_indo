@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wania",
-    "Milipaa",
-    "Tarawi",
-    "Niagale",
-    "Bumbu",
-    "Ambena",
-    "Gunombo",
-    "Mawi",
-    "Ripa",
-    "Delegari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wania"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Milipaa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tarawi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Niagale"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumbu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ambena"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunombo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mawi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ripa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Delegari"
+    }
   ]
 }

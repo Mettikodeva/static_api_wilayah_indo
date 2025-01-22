@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tangabean (Tangeban)",
-    "Taugi",
-    "Eteng",
-    "Minang Andala (Minangandala)",
-    "Kospa Duatakarya (Buata Karya / Dwata Karya)",
-    "Purwo Agung",
-    "Kembang Mentha (Merta/Menta)",
-    "Simpangan",
-    "Tompotika Makmur",
-    "Duata Karya",
-    "Serese (Seresa)",
-    "Cemerlang",
-    "Padangon (Padangan)",
-    "Rangga-Rangga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tangabean (Tangeban)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taugi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Eteng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Minang Andala (Minangandala)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kospa Duatakarya (Buata Karya / Dwata Karya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwo Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kembang Mentha (Merta/Menta)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tompotika Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Duata Karya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Serese (Seresa)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cemerlang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Padangon (Padangan)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rangga-Rangga"
+    }
   ]
 }

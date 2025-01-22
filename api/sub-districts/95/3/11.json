@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Amuma",
-    "Sarmuge",
-    "Tolikapura (Talikapura)",
-    "Wisikma",
-    "Silorin",
-    "Waeklek",
-    "Balum Erang",
-    "Golowen",
-    "Orugai",
-    "Plau",
-    "Sagasal",
-    "Kinika",
-    "Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Amuma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sarmuge"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tolikapura (Talikapura)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wisikma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Silorin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waeklek"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balum Erang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golowen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Orugai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Plau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sagasal"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kinika"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Harapan"
+    }
   ]
 }

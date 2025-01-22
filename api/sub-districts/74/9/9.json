@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Andowia",
-    "Lahimbua",
-    "Laronanga",
-    "Lambudoni",
-    "Lamondowo",
-    "Labungga",
-    "Mataiwoi",
-    "Larobende",
-    "Puusuli",
-    "Banggarema",
-    "Amolame",
-    "Anggolohipo",
-    "Puuwonua",
-    "Ambake",
-    "Waworate"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Andowia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lahimbua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laronanga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lambudoni"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamondowo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labungga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mataiwoi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Larobende"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puusuli"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banggarema"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Amolame"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Anggolohipo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Puuwonua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ambake"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Waworate"
+    }
   ]
 }

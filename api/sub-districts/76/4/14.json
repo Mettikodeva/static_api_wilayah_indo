@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Matakali",
-    "Petampanua (Patampanua)",
-    "Barumbung",
-    "Pasiang",
-    "Tonrolima (Tonro Lima)",
-    "Indomakkombong (Indo Makkombong / Indomakkondang)",
-    "Bunga-Bunga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Matakali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Petampanua (Patampanua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barumbung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasiang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tonrolima (Tonro Lima)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Indomakkombong (Indo Makkombong / Indomakkondang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bunga-Bunga"
+    }
   ]
 }

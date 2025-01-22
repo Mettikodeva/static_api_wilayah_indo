@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Ratahan",
-    "Pusomaen",
-    "Belang",
-    "Ratatotok",
-    "Tombatu",
-    "Touluaan",
-    "Touluaan Selatan",
-    "Silian Raya",
-    "Tombatu Timur",
-    "Tombatu Utara",
-    "Pasan",
-    "Ratahan Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Ratahan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pusomaen"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Belang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ratatotok"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tombatu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Touluaan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Touluaan Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Silian Raya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tombatu Timur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tombatu Utara"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pasan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Ratahan Timur"
+    }
   ]
 }

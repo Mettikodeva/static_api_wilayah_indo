@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Argapura",
-    "Ardipura",
-    "Numbai (Numbay)",
-    "Entrop",
-    "Hamadi",
-    "Tahima Sorama",
-    "Tobati"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Argapura"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ardipura"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Numbai (Numbay)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Entrop"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Hamadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tahima Sorama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tobati"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kualin",
-    "Oni",
-    "Nunusunu",
-    "Tuapakas",
-    "Toineke",
-    "Tuafanu",
-    "Kiufatu",
-    "Oemaman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kualin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nunusunu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuapakas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toineke"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuafanu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kiufatu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oemaman"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sigumpar Dangsina",
-    "Marsangap",
-    "Nauli",
-    "Situa-Tua",
-    "Sigumpar",
-    "Maju",
-    "Dolok Jior",
-    "Sigumpar Julu",
-    "Sigumpar Barat",
-    "Banua Huta"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sigumpar Dangsina"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marsangap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nauli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Situa-Tua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sigumpar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dolok Jior"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sigumpar Julu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sigumpar Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banua Huta"
+    }
   ]
 }

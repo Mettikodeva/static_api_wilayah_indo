@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Nusliko",
-    "Were",
-    "Fidy Jaya",
-    "Sidanga",
-    "Nurweda",
-    "Weda / Wedana",
-    "Goeng"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nusliko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Were"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Fidy Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sidanga"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Nurweda"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Weda / Wedana"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Goeng"
+    }
   ]
 }

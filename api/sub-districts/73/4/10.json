@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Rumbia",
-    "Lebangmanai (Lebang Manai)",
-    "Bontomanai",
-    "Bontotiro",
-    "Loka",
-    "Tompobulu",
-    "Kassi",
-    "Pallantikang",
-    "Lebangmanai Utara (Lebang Manai Utara)",
-    "Bontocini (Bonto Cini)",
-    "Janetallasa (Jenetallasa)",
-    "Ujung Bulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rumbia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lebangmanai (Lebang Manai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bontomanai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bontotiro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Loka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tompobulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kassi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pallantikang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lebangmanai Utara (Lebang Manai Utara)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bontocini (Bonto Cini)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Janetallasa (Jenetallasa)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ujung Bulu"
+    }
   ]
 }

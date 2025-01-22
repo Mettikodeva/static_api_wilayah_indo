@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Yapimakot",
-    "Seramkatop",
-    "Parim",
-    "Siminbuk",
-    "Modusit",
-    "Wanbakon",
-    "Yakmor",
-    "Okatem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yapimakot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Seramkatop"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parim"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siminbuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Modusit"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wanbakon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yakmor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Okatem"
+    }
   ]
 }

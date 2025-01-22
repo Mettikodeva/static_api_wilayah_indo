@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Rantepao",
-    "Sesean",
-    "Nanggala",
-    "Rindingallo",
-    "Buntao",
-    "Sa'dan",
-    "Sanggalangi",
-    "Sopai",
-    "Tikala",
-    "Balusu",
-    "Tallunglipu",
-    "Dende' Piongan Napo",
-    "Buntu Pepasan",
-    "Baruppu",
-    "Kesu",
-    "Tondon",
-    "Bangkelekila",
-    "Rantebua",
-    "Sesean Suloara",
-    "Kapala Pitu (Kapalla Pitu)",
-    "Awan Rante Karua"
+    {
+      "district_id": 1,
+      "kecamatan": "Rantepao"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sesean"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Nanggala"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Rindingallo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Buntao"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sa'dan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sanggalangi"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sopai"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tikala"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Balusu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tallunglipu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Dende' Piongan Napo"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Buntu Pepasan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Baruppu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kesu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tondon"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bangkelekila"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Rantebua"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Sesean Suloara"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kapala Pitu (Kapalla Pitu)"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Awan Rante Karua"
+    }
   ]
 }

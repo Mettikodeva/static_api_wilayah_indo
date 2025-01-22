@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ngrombo",
-    "Mancasan",
-    "Gedongan",
-    "Jetis",
-    "Bentakan",
-    "Kudu",
-    "Kadilangu",
-    "Bakipandeyan",
-    "Menuran",
-    "Duwet",
-    "Siwal",
-    "Waru",
-    "Gentan",
-    "Purbayan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngrombo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mancasan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gedongan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bentakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kudu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kadilangu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakipandeyan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Menuran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Duwet"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Siwal"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gentan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Purbayan"
+    }
   ]
 }

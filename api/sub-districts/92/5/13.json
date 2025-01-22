@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Fafanlap",
-    "Yellu",
-    "Harapan Jaya",
-    "Usaha Jaya",
-    "Dabatan"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fafanlap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yellu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Usaha Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dabatan"
+    }
   ]
 }

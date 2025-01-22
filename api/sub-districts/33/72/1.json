@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pajang",
-    "Laweyan",
-    "Bumi",
-    "Panularan",
-    "Penumping",
-    "Sriwedari",
-    "Purwosari",
-    "Sondakan",
-    "Kerten",
-    "Jajar",
-    "Karangasem"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pajang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Laweyan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bumi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panularan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Penumping"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sriwedari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sondakan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kerten"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Jajar"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Karangasem"
+    }
   ]
 }

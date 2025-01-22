@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Langga Lero",
-    "Waitabula",
-    "Rada Mata",
-    "Kalena Wano",
-    "Wee Londa",
-    "Wee Pangali",
-    "Kadi Pada",
-    "Watu Kawula",
-    "Wee Rena",
-    "Kalembu Kaha"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Langga Lero"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Waitabula"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rada Mata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalena Wano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wee Londa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wee Pangali"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kadi Pada"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watu Kawula"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wee Rena"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalembu Kaha"
+    }
   ]
 }

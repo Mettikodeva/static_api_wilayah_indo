@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Apogomakida (Aporomakida)",
-    "Deniyode (Deneiode)",
-    "Yegiyepa (Yegeiyepa)",
-    "Ideduwa",
-    "Kegata",
-    "Egipa",
-    "Ukagu",
-    "Tipaugi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Apogomakida (Aporomakida)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Deniyode (Deneiode)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yegiyepa (Yegeiyepa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ideduwa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kegata"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Egipa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ukagu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tipaugi"
+    }
   ]
 }

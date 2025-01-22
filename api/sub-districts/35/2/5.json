@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tumpuk",
-    "Pangkal",
-    "Tumpak Pelem (Tumpakpelem)",
-    "Tempuran",
-    "Sriti (Serinti)",
-    "Temon",
-    "Sawoo",
-    "Prayungan",
-    "Tugurejo",
-    "Grogol",
-    "Ketro",
-    "Kori",
-    "Bondrang",
-    "Ngindeng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumpuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumpak Pelem (Tumpakpelem)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sriti (Serinti)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Temon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawoo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Prayungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tugurejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kori"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bondrang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ngindeng"
+    }
   ]
 }

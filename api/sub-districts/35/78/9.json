@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Keputih",
-    "Gebang Putih",
-    "Klampis Ngasem",
-    "Menur Pumpungan",
-    "Nginden Jangkungan",
-    "Semolowaru",
-    "Medokan Semampir"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Keputih"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gebang Putih"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klampis Ngasem"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Menur Pumpungan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nginden Jangkungan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Semolowaru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Medokan Semampir"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "cities": [
-    "Lampung Selatan",
-    "Lampung Tengah",
-    "Lampung Utara",
-    "Lampung Barat",
-    "Tulang Bawang",
-    "Tanggamus",
-    "Lampung Timur",
-    "Way Kanan",
-    "Pesawaran",
-    "Pringsewu",
-    "Mesuji",
-    "Tulang Bawang Barat",
-    "Pesisir Barat",
-    "Bandar Lampung",
-    "Metro"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Lampung Selatan"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Lampung Tengah"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Lampung Utara"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Lampung Barat"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Tulang Bawang"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Tanggamus"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Lampung Timur"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Way Kanan"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Pesawaran"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Pringsewu"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Mesuji"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Tulang Bawang Barat"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Pesisir Barat"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Bandar Lampung"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Metro"
+    }
   ]
 }

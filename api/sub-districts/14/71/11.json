@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tampan",
-    "Labuh Baru Timur",
-    "Labuh Baru Barat",
-    "Air Hitam",
-    "Bandarraya",
-    "Tirtasiak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tampan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Labuh Baru Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Labuh Baru Barat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bandarraya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tirtasiak"
+    }
   ]
 }

@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Semau",
-    "Kupang Barat",
-    "Kupang Timur",
-    "Sulamu",
-    "Kupang Tengah",
-    "Amarasi",
-    "Fatuleu",
-    "Takari",
-    "Amfoang Selatan",
-    "Amfoang Utara",
-    "Nekamese",
-    "Amarasi Barat",
-    "Amarasi Selatan",
-    "Amarasi Timur",
-    "Amabi Oefeto Timur",
-    "Amfoang Barat Daya",
-    "Amfoang Barat Laut",
-    "Semau Selatan",
-    "Taebenu",
-    "Amabi Oefeto",
-    "Amfoang Timur",
-    "Fatuleu Barat",
-    "Fatuleu Tengah",
-    "Amfoang Tengah"
+    {
+      "district_id": 4,
+      "kecamatan": "Semau"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kupang Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kupang Timur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sulamu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kupang Tengah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Amarasi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Fatuleu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Takari"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Amfoang Selatan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Amfoang Utara"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Nekamese"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Amarasi Barat"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Amarasi Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Amarasi Timur"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Amabi Oefeto Timur"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Amfoang Barat Daya"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Amfoang Barat Laut"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Semau Selatan"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Taebenu"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Amabi Oefeto"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Amfoang Timur"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Fatuleu Barat"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Fatuleu Tengah"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Amfoang Tengah"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pondok Makmur",
-    "Manjunto Jaya",
-    "Tirta Makmur",
-    "Agung Jaya",
-    "Tirta Mulya",
-    "Kota Praja",
-    "Sinar Jaya",
-    "Sido Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pondok Makmur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manjunto Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tirta Makmur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Agung Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tirta Mulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Praja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sido Makmur"
+    }
   ]
 }

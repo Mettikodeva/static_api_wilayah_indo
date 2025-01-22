@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Mudal",
-    "Andongsili",
-    "Kalibeber",
-    "Sojopuro",
-    "Candirejo",
-    "Keseneng",
-    "Krasak",
-    "Bumirejo",
-    "Blederan",
-    "Sukorejo",
-    "Larangankulon (Larangan Kulon)",
-    "Pungangan",
-    "Gunturmadu (Guntur Madu)",
-    "Mojosari",
-    "Wonokromo",
-    "Derongisor",
-    "Deroduwur",
-    "Slukatan",
-    "Kebrengan"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mudal"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Andongsili"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kalibeber"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sojopuro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Candirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keseneng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Krasak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bumirejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blederan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Larangankulon (Larangan Kulon)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pungangan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gunturmadu (Guntur Madu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mojosari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wonokromo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Derongisor"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Deroduwur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Slukatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kebrengan"
+    }
   ]
 }

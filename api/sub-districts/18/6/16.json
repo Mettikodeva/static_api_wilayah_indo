@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tampang",
-    "Kaur Gading",
-    "Tirom",
-    "Way Nipah",
-    "Guring",
-    "Betung",
-    "Tanjungan",
-    "Teluk Brak",
-    "Karang Brak",
-    "Pesangun (Pesanguan)",
-    "Way Asahan",
-    "Tampang Muda",
-    "Kampung Baru",
-    "Martanda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tampang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaur Gading"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tirom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Way Nipah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Guring"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teluk Brak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karang Brak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pesangun (Pesanguan)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Way Asahan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tampang Muda"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Martanda"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karang Sari",
-    "Maju Ria",
-    "Sri Agung",
-    "Sumber Rejeki",
-    "Tabala Jaya",
-    "Jati Sari",
-    "Mekar Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karang Sari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maju Ria"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sri Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Rejeki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabala Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jati Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Sari"
+    }
   ]
 }

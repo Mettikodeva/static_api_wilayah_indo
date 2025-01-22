@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Muara Niru",
-    "Kahuripan Baru",
-    "Pangkalan Babat",
-    "Gunung Raja",
-    "Banuayu",
-    "Kuripan",
-    "Kuripan Selatan",
-    "Batu Raja",
-    "Dangku",
-    "Siku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Niru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kahuripan Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangkalan Babat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Raja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banuayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuripan Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Raja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dangku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siku"
+    }
   ]
 }

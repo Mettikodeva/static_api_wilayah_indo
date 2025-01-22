@@ -1,32 +1,116 @@
 {
   "districts": [
-    "Kalirejo",
-    "Bangun Rejo",
-    "Padang Ratu",
-    "Gunung Sugih",
-    "Trimurjo",
-    "Punggur",
-    "Terbanggi Besar",
-    "Seputih Raman",
-    "Rumbia",
-    "Seputih Banyak",
-    "Seputih Mataram",
-    "Seputih Surabaya",
-    "Terusan Nunyai",
-    "Bumi Ratu Nuban",
-    "Bekri",
-    "Seputih Agung",
-    "Way Pangubuan",
-    "Bandar Mataram",
-    "Pubian",
-    "Selagai Lingga",
-    "Anak Tuha",
-    "Sendang Agung",
-    "Kota Gajah",
-    "Bumi Nabung",
-    "Way Seputih",
-    "Bandar Surabaya",
-    "Anak Ratu Aji",
-    "Putra Rumbia"
+    {
+      "district_id": 1,
+      "kecamatan": "Kalirejo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bangun Rejo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Padang Ratu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Gunung Sugih"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Trimurjo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Punggur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Terbanggi Besar"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Seputih Raman"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Rumbia"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Seputih Banyak"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Seputih Mataram"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Seputih Surabaya"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Terusan Nunyai"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bumi Ratu Nuban"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bekri"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Seputih Agung"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Way Pangubuan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Bandar Mataram"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Pubian"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Selagai Lingga"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Anak Tuha"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Sendang Agung"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Kota Gajah"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Bumi Nabung"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Way Seputih"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Bandar Surabaya"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Anak Ratu Aji"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Putra Rumbia"
+    }
   ]
 }

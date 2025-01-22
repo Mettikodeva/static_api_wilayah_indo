@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Semedang (Sumedang)",
-    "Kuala Behe",
-    "Nyayum",
-    "Paku Raya",
-    "Permiit",
-    "Tanjung Balai",
-    "Angkanyar",
-    "Kedama",
-    "Bengawan Ampar",
-    "Sehe Lusur",
-    "Sejowet"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Semedang (Sumedang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Behe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nyayum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paku Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Permiit"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Balai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Angkanyar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bengawan Ampar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sehe Lusur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sejowet"
+    }
   ]
 }

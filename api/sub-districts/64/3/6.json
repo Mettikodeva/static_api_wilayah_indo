@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gunung Tabur",
-    "Tasuk",
-    "Birang",
-    "Maluang",
-    "Samburakat",
-    "Sambakungan",
-    "Merancang Ulu",
-    "Merancang Ilir",
-    "Pulau Besing",
-    "Melati Jaya",
-    "Batu-Batu"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gunung Tabur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tasuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Birang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maluang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Samburakat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sambakungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Merancang Ulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Merancang Ilir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Besing"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Melati Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu-Batu"
+    }
   ]
 }

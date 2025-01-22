@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Penegah",
-    "Pelawan",
-    "Pulauaro (Pulau Aro)",
-    "Bukit",
-    "Lubuk Sepuh",
-    "Rantau Tenang",
-    "Muara Danau",
-    "Sungai Merah",
-    "Pematang Kulim (Kolim)",
-    "Batu Putih",
-    "Mekar Sari (Mekarsari)",
-    "Pasar Pelawan",
-    "Pelawan Jaya",
-    "Lubuk Sayak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penegah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pelawan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulauaro (Pulau Aro)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Sepuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Tenang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Danau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungai Merah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pematang Kulim (Kolim)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mekar Sari (Mekarsari)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pasar Pelawan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pelawan Jaya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lubuk Sayak"
+    }
   ]
 }

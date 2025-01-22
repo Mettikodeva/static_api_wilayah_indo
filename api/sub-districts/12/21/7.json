@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pasar Sibuhuan",
-    "Sibuhuan Julu",
-    "Bangun Raya",
-    "Purba Tua (Purbatua)",
-    "Handis Julu",
-    "Sialambue (Salambue, Sialam Bue)",
-    "Sibuhuan Jae",
-    "Janjilobi (Janji Lobi)",
-    "Tanjung Durian",
-    "Tanjung Botung",
-    "Tanobato (Tano Bato)",
-    "Hutarimbaru",
-    "Sayur Matua",
-    "Bulusonik (Bulu Sonik)",
-    "Arsesimatorkis (Arse Simatorkis)",
-    "Pancaukan",
-    "Pagaran Baringin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Sibuhuan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sibuhuan Julu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangun Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purba Tua (Purbatua)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Handis Julu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sialambue (Salambue, Sialam Bue)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sibuhuan Jae"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Janjilobi (Janji Lobi)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tanjung Durian"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjung Botung"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanobato (Tano Bato)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Hutarimbaru"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sayur Matua"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Bulusonik (Bulu Sonik)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Arsesimatorkis (Arse Simatorkis)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Pancaukan"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Pagaran Baringin"
+    }
   ]
 }

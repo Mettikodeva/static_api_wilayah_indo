@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Pakal",
-    "Babat Jerawat",
-    "Sumber Rejo",
-    "Benowo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pakal"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Babat Jerawat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Benowo"
+    }
   ]
 }

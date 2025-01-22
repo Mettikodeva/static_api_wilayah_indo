@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Suliki",
-    "Guguak (Gugu)",
-    "Payakumbuh",
-    "Luak (Luhak)",
-    "Harau",
-    "Pangkalan Koto Baru",
-    "Kapur IX/Sembilan",
-    "Gunuang Omeh (Gunung Mas)",
-    "Lareh Sago Halaban",
-    "Situjuah Limo Nagari (Situjuah Lima Nagari)",
-    "Mungka",
-    "Bukik Barisan",
-    "Akabiluru"
+    {
+      "district_id": 1,
+      "kecamatan": "Suliki"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Guguak (Gugu)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Payakumbuh"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Luak (Luhak)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Harau"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pangkalan Koto Baru"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kapur IX/Sembilan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gunuang Omeh (Gunung Mas)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lareh Sago Halaban"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Situjuah Limo Nagari (Situjuah Lima Nagari)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Mungka"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bukik Barisan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Akabiluru"
+    }
   ]
 }

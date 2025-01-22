@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Longat",
-    "Barbaran",
-    "Barbaran Jae",
-    "Batang Gadis",
-    "Huta Baringin",
-    "Huta Tonga BB",
-    "Runding (Ruding)",
-    "Sirambas",
-    "Saba Jior",
-    "Batang Gadis Jae"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Longat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Barbaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barbaran Jae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batang Gadis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Huta Baringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Huta Tonga BB"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Runding (Ruding)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sirambas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Saba Jior"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batang Gadis Jae"
+    }
   ]
 }

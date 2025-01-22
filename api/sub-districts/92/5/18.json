@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Waisai",
-    "Sapordanco",
-    "Bonwakir",
-    "Warmasen"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Waisai"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sapordanco"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bonwakir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Warmasen"
+    }
   ]
 }

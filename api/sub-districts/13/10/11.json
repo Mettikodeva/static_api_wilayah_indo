@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Koto Besar",
-    "Koto Tinggi",
-    "Koto Gadang",
-    "Bonjol",
-    "Abai Siat",
-    "Koto Laweh",
-    "Koto Ranah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Besar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Gadang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bonjol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Abai Siat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koto Laweh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto Ranah"
+    }
   ]
 }

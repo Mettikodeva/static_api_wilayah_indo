@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gunungkencana (Gunung Kencana)",
-    "Cimanyangray",
-    "Gunungkendeng",
-    "Cisampang",
-    "Ciginggang",
-    "Ciakar",
-    "Cicaringin",
-    "Bulakan",
-    "Sukanegara",
-    "Bojongkoneng",
-    "Keramatjaya/Kramatjaya",
-    "Tanjungsari Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunungkencana (Gunung Kencana)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimanyangray"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunungkendeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cisampang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ciginggang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ciakar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cicaringin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukanegara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bojongkoneng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keramatjaya/Kramatjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungsari Indah"
+    }
   ]
 }

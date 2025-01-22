@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Topo",
-    "Urumusu",
-    "Marga Jaya (Margajaya)",
-    "Argo Mulyo (Argomulyo)",
-    "Topo Jaya",
-    "Gamei Jaya"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Topo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Urumusu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Marga Jaya (Margajaya)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Argo Mulyo (Argomulyo)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Topo Jaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gamei Jaya"
+    }
   ]
 }

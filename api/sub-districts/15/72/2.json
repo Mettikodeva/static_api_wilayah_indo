@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Koto Renah",
-    "Koto Keras",
-    "Koto Bento",
-    "Koto Lolo",
-    "Koto Tengah",
-    "Koto Dua / Duo",
-    "Sungai Liuk",
-    "Seberang",
-    "Sumur Gedang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Renah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Keras"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Bento"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koto Lolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Dua / Duo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Liuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Seberang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sumur Gedang"
+    }
   ]
 }

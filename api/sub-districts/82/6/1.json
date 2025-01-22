@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Subaim",
-    "Cemara Jaya",
-    "Bumi Restu",
-    "Batu Raja",
-    "Mekar Sari",
-    "Bulapapo (Gulapapo)",
-    "Waisuba"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Subaim"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cemara Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumi Restu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batu Raja"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bulapapo (Gulapapo)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Waisuba"
+    }
   ]
 }

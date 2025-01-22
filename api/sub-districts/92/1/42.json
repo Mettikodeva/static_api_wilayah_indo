@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Klafdalim",
-    "Klaforo",
-    "Klasof",
-    "Ninjimur (Ninjemur)",
-    "Klasari (Klasarin)",
-    "Klawoton",
-    "Wonosobo",
-    "Sakamerin",
-    "Masmili"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klafdalim"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klaforo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klasof"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ninjimur (Ninjemur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klasari (Klasarin)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klawoton"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonosobo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sakamerin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Masmili"
+    }
   ]
 }

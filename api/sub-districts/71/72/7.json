@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bitung Barat Satu (I)",
-    "Pakadoodan",
-    "Bitung Barat Dua (II)",
-    "Bitung Tengah",
-    "Bitung Timur",
-    "Kakenturan Satu (Kekenturan Satu / I)",
-    "Kakenturan Dua (Kekenturan Dua / II)",
-    "Pateten Tiga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bitung Barat Satu (I)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pakadoodan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bitung Barat Dua (II)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bitung Tengah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bitung Timur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kakenturan Satu (Kekenturan Satu / I)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kakenturan Dua (Kekenturan Dua / II)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pateten Tiga"
+    }
   ]
 }

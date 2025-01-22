@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wenslolo",
-    "Klamit",
-    "Mlabolo",
-    "Kofalit",
-    "Alma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wenslolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klamit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mlabolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kofalit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alma"
+    }
   ]
 }

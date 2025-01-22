@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Moro",
-    "Moro Timur",
-    "Pauh",
-    "Jang (Pulau Jang)",
-    "Pulau Moro (Pulaumoro)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Moro"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Moro Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pauh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jang (Pulau Jang)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pulau Moro (Pulaumoro)"
+    }
   ]
 }

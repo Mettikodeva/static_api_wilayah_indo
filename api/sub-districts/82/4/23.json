@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Awis",
-    "Dowora",
-    "Gane Dalam",
-    "Jibubu",
-    "Pasipalele (Pasi Palele)",
-    "Sekely",
-    "Tawa",
-    "Yamli (Yamly)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Awis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dowora"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gane Dalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jibubu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasipalele (Pasi Palele)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sekely"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tawa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yamli (Yamly)"
+    }
   ]
 }

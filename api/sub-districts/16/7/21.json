@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Penuguan",
-    "Sumber Rejo",
-    "Sumber Mukti",
-    "Sumber Agung",
-    "Wonodadi",
-    "Mekar Sari",
-    "Songo Makmur",
-    "Karang Manunggal",
-    "Purwodadi",
-    "Ringin Harjo",
-    "Bumi Rejo",
-    "Kelapa Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penuguan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Mukti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonodadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Songo Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karang Manunggal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ringin Harjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bumi Rejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kelapa Dua"
+    }
   ]
 }

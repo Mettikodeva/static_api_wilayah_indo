@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kaliwungu",
-    "Jetis",
-    "Kener",
-    "Kradenan",
-    "Mukiran",
-    "Pager",
-    "Papringan",
-    "Payungan",
-    "Rogomulyo",
-    "Siwal",
-    "Udanwuh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaliwungu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kener"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kradenan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mukiran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pager"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Papringan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Payungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rogomulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siwal"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Udanwuh"
+    }
   ]
 }

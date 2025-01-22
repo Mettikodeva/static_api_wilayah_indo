@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Saluputi (Saluputti)",
-    "Bittuang",
-    "Bonggakaradeng",
-    "Makale",
-    "Simbuang",
-    "Rantetayo",
-    "Mengkendek",
-    "Sangalla (Sanggala)",
-    "Gandangbatu Sillanan (Gandang Batu Sillanan)",
-    "Rembon",
-    "Makale Utara",
-    "Mappak",
-    "Makale Selatan",
-    "Masanda",
-    "Sangalla Selatan",
-    "Sangalla Utara",
-    "Malimbong Balepe",
-    "Rano",
-    "Kurra"
+    {
+      "district_id": 1,
+      "kecamatan": "Saluputi (Saluputti)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bittuang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bonggakaradeng"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Makale"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Simbuang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Rantetayo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mengkendek"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Sangalla (Sanggala)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Gandangbatu Sillanan (Gandang Batu Sillanan)"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Rembon"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Makale Utara"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Mappak"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Makale Selatan"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Masanda"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Sangalla Selatan"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Sangalla Utara"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Malimbong Balepe"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Rano"
+    },
+    {
+      "district_id": 38,
+      "kecamatan": "Kurra"
+    }
   ]
 }

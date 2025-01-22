@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Togo-Togo",
-    "Bonto Raya (Bontoraya)",
-    "Maccinibaji",
-    "Camba-Camba",
-    "Kaluku",
-    "Bungeng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Togo-Togo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bonto Raya (Bontoraya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maccinibaji"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Camba-Camba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaluku"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bungeng"
+    }
   ]
 }

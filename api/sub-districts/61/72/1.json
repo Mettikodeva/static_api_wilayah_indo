@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Roban",
-    "Condong",
-    "Sekip Lama",
-    "Jawa",
-    "Bukit Batu",
-    "Sei/Sungai Wie"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Roban"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Condong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sekip Lama"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jawa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bukit Batu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sei/Sungai Wie"
+    }
   ]
 }

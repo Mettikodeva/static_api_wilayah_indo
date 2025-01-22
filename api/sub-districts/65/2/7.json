@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kaliamok",
-    "Luso",
-    "Malinau Seberang",
-    "Putat",
-    "Salap",
-    "Seruyung",
-    "Respen Tubu",
-    "Belayan",
-    "Sembuak Warot/Warod",
-    "Lubak Manis (Lubok Manis)",
-    "Kelapis",
-    "Semengaris (Semanggaris)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaliamok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Luso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malinau Seberang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Putat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seruyung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Respen Tubu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belayan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sembuak Warot/Warod"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubak Manis (Lubok Manis)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kelapis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Semengaris (Semanggaris)"
+    }
   ]
 }

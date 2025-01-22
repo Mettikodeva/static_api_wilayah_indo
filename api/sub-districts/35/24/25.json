@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sidorejo",
-    "Dlanggu",
-    "Laladan",
-    "Deketkulon (Deket Kulon)",
-    "Deketwetan (Deket Wetan)",
-    "Sugihwaras",
-    "Dinoyo",
-    "Sidomulyo",
-    "Rejosari",
-    "Pandanpancur",
-    "Sidobinangun",
-    "Babatagung",
-    "Tukkerto",
-    "Weduni",
-    "Rejotengah (Tejotengah)",
-    "Srirande",
-    "Plosobuden"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dlanggu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laladan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Deketkulon (Deket Kulon)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Deketwetan (Deket Wetan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sugihwaras"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dinoyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pandanpancur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidobinangun"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Babatagung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tukkerto"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Weduni"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rejotengah (Tejotengah)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Srirande"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Plosobuden"
+    }
   ]
 }

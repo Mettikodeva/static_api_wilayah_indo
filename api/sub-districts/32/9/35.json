@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Palir",
-    "Astapada",
-    "Gesik",
-    "Kemlakagede",
-    "Dawuan",
-    "Battembat",
-    "Kalibaru",
-    "Kalitengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Astapada"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gesik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kemlakagede"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dawuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Battembat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalibaru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalitengah"
+    }
   ]
 }

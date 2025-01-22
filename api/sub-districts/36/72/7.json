@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ramanuju",
-    "Kotabumi",
-    "Kebon Dalem (Kebondalem)",
-    "Purwakarta",
-    "Tegal Bunder",
-    "Pabean"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ramanuju"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kotabumi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kebon Dalem (Kebondalem)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Purwakarta"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tegal Bunder"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pabean"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bolou",
-    "Limagu (Limaggu)",
-    "Lobodei",
-    "Bodae",
-    "Keduru",
-    "Kuji Ratu (Kujiratu)",
-    "Loborai",
-    "Huwaga",
-    "Eiada",
-    "Keliha"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bolou"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Limagu (Limaggu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lobodei"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bodae"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keduru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuji Ratu (Kujiratu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Loborai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Huwaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Eiada"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keliha"
+    }
   ]
 }

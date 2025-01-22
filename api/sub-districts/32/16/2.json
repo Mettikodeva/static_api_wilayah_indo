@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bahagia",
-    "Kebalen",
-    "Bunibakti (Buni Bakti)",
-    "Muarabakti (Muara Bakti)",
-    "Kedung Pengawas",
-    "Hurip Jaya",
-    "Pantaihurip (Pantai Hurip)",
-    "Babelankota (Babelan Kota)",
-    "Kedungjaya"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bahagia"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kebalen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunibakti (Buni Bakti)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muarabakti (Muara Bakti)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedung Pengawas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hurip Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pantaihurip (Pantai Hurip)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babelankota (Babelan Kota)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungjaya"
+    }
   ]
 }

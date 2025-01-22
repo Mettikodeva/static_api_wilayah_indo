@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bokonusan",
-    "Otan",
-    "Uitao",
-    "Uiasa",
-    "Hansisi",
-    "Huilelot",
-    "Batuinan",
-    "Letbaun"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bokonusan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Otan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uitao"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uiasa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hansisi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Huilelot"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batuinan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Letbaun"
+    }
   ]
 }

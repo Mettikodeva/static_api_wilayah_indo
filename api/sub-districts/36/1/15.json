@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Palanyar",
-    "Baturanjang",
-    "Cikadueun",
-    "Koncang",
-    "Kadugadung",
-    "Parumasan",
-    "Curugbarang",
-    "Kalanggunung",
-    "Pasireurih",
-    "Pasirmae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palanyar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baturanjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikadueun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koncang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadugadung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parumasan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curugbarang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalanggunung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasireurih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasirmae"
+    }
   ]
 }

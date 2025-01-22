@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Yenburwo",
-    "Kornasoren",
-    "Rarsibo",
-    "Asaryendi",
-    "Yenmaru",
-    "Pyefuri",
-    "Indaibori",
-    "Barkori",
-    "Asaibori"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yenburwo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kornasoren"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rarsibo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Asaryendi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Yenmaru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pyefuri"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Indaibori"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Barkori"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Asaibori"
+    }
   ]
 }

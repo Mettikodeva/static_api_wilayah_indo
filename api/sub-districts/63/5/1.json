@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Binuang",
-    "Karang Putih",
-    "Raya Belanti",
-    "Tungkap",
-    "A Yani Pura",
-    "Pulaupinang (Pulau Pinang)",
-    "Pualam Sari",
-    "Gunungbatu (Gunung Batu)",
-    "Pulaupinang Utara (Pulau Pinang Utara)",
-    "Padang Sari",
-    "Mekarsari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Binuang"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Karang Putih"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Raya Belanti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tungkap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "A Yani Pura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulaupinang (Pulau Pinang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pualam Sari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunungbatu (Gunung Batu)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pulaupinang Utara (Pulau Pinang Utara)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Padang Sari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mekarsari"
+    }
   ]
 }

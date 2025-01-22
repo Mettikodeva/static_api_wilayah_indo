@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sihiong",
-    "Sinar Sabungan",
-    "Lumban Lobu",
-    "Harungguan",
-    "Naga Timbul",
-    "Sibadihon",
-    "Silamosik II",
-    "Partoruan Lumban Lobu",
-    "Pardolok Lumban Lobu",
-    "Silombu",
-    "Lumban Sangkalan",
-    "Nagatimbul Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sihiong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sinar Sabungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lumban Lobu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Harungguan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naga Timbul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sibadihon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Silamosik II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Partoruan Lumban Lobu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pardolok Lumban Lobu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Silombu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lumban Sangkalan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nagatimbul Timur"
+    }
   ]
 }

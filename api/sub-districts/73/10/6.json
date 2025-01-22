@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Boriappaka",
-    "Samalewa",
-    "Sapanang",
-    "Bowong Cindea",
-    "Tabo-Tabo",
-    "Mangilu",
-    "Bulu Cindea",
-    "Biring Ere"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Boriappaka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Samalewa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sapanang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bowong Cindea"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabo-Tabo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangilu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bulu Cindea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Biring Ere"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Sidorejo",
-    "Tingkir",
-    "Argomulyo",
-    "Sidomukti"
+    {
+      "district_id": 1,
+      "kecamatan": "Sidorejo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tingkir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Argomulyo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sidomukti"
+    }
   ]
 }

@@ -1,29 +1,104 @@
 {
   "districts": [
-    "Tondano Barat",
-    "Tondano Timur",
-    "Eris",
-    "Kombi",
-    "Lembean Timur",
-    "Kakas",
-    "Tompaso",
-    "Remboken",
-    "Langowan Timur",
-    "Langowan Barat",
-    "Sonder",
-    "Kawangkoan",
-    "Pineleng",
-    "Tombulu",
-    "Tombariri",
-    "Tondano Utara",
-    "Langowan Selatan",
-    "Tondano Selatan",
-    "Langowan Utara",
-    "Kakas Barat",
-    "Kawangkoan Utara",
-    "Kawangkoan Barat",
-    "Mandolang",
-    "Tombariri Timur",
-    "Tompaso Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Tondano Barat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tondano Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Eris"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kombi"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lembean Timur"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kakas"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tompaso"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Remboken"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Langowan Timur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Langowan Barat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sonder"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kawangkoan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pineleng"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tombulu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Tombariri"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tondano Utara"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Langowan Selatan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tondano Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Langowan Utara"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kakas Barat"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kawangkoan Utara"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Kawangkoan Barat"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Mandolang"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Tombariri Timur"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Tompaso Barat"
+    }
   ]
 }

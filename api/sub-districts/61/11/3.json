@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mas Bangun",
-    "Alur Bandung",
-    "Telukbatang (Teluk Batang)",
-    "Sei/Sungai Paduan",
-    "Banyu Abang",
-    "Telukbatang Selatan (Teluk Batang Selatan)",
-    "Telukbatang Utara (Teluk Batang Utara)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mas Bangun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alur Bandung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telukbatang (Teluk Batang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Paduan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyu Abang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telukbatang Selatan (Teluk Batang Selatan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Telukbatang Utara (Teluk Batang Utara)"
+    }
   ]
 }

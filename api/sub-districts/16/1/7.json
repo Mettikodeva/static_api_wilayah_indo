@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Negeri Sindang",
-    "Rantau Kumpai",
-    "Lubuk Baru",
-    "Kungkilan",
-    "Penyandingan",
-    "Bandar",
-    "Lubuk Leban",
-    "Tungku Jaya",
-    "Mekar Sari",
-    "Mekar Jaya",
-    "Penantian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Sindang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Kumpai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kungkilan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Leban"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tungku Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Penantian"
+    }
   ]
 }

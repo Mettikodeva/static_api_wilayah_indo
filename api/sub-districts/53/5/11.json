@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pura",
-    "Maru",
-    "Pura Utara",
-    "Pura Selatan",
-    "Pura Timur",
-    "Pura Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pura"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pura Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pura Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pura Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pura Barat"
+    }
   ]
 }

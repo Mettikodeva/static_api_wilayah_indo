@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Banyakan",
-    "Jatirejo",
-    "Manyaran",
-    "Tiron",
-    "Parang",
-    "Sendang",
-    "Maron",
-    "Ngablak",
-    "Jabon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manyaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiron"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maron"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngablak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jabon"
+    }
   ]
 }

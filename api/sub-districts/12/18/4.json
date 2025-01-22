@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Cempedak Lobang",
-    "Firdaus",
-    "Pergulaan",
-    "Sei Rampah",
-    "Sei Rejo",
-    "Sei Parit",
-    "Silau Rakyat",
-    "Firdaus Estate",
-    "Pematang Ganjang",
-    "Pematang Pelintahan",
-    "Rambung Estate",
-    "Rambung Sialang Hulu",
-    "Rambung Sialang Tengah",
-    "Rambung Sialang Hilir",
-    "Simpang Empat",
-    "Sinah Kasih",
-    "Tanah Raja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cempedak Lobang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Firdaus"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pergulaan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei Rampah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei Rejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei Parit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Silau Rakyat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Firdaus Estate"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pematang Ganjang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pematang Pelintahan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rambung Estate"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rambung Sialang Hulu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Rambung Sialang Tengah"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Rambung Sialang Hilir"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sinah Kasih"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tanah Raja"
+    }
   ]
 }

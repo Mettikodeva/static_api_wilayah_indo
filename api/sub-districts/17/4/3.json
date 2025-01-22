@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Simpang Tiga",
-    "Tanjung Betung (Tanjung Betung I)",
-    "Padang Manis",
-    "Guru Agung",
-    "Gunung Agung",
-    "Bandu Agung",
-    "Tanjung Betung II",
-    "Coko Enau",
-    "Pancur Negara",
-    "Perugaian (Perugian)",
-    "Guru Agung II"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Betung (Tanjung Betung I)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Manis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Guru Agung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Agung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bandu Agung"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tanjung Betung II"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Coko Enau"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pancur Negara"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Perugaian (Perugian)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Guru Agung II"
+    }
   ]
 }

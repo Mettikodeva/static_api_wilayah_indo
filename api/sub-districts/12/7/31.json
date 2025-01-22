@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tanjung Mulia",
-    "Purwodadi",
-    "Sidodadi Batu B (Sidodadi Batu Delapan)",
-    "Suka Mulia",
-    "Jati Rejo",
-    "Pagar Merbau I",
-    "Pagar Merbau II",
-    "Sidoharjo-I Pasar Miring (Sidoarjo Satu)",
-    "Jati Baru (Sidoarjo I)",
-    "Bandar Dolok",
-    "Tanjung Garbus II",
-    "Tanjung Garbus Kampung",
-    "Perbarakan",
-    "Sukamandi Hilir",
-    "Sukamandi Hulu",
-    "Sumberejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Mulia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidodadi Batu B (Sidodadi Batu Delapan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Mulia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jati Rejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagar Merbau I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagar Merbau II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidoharjo-I Pasar Miring (Sidoarjo Satu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jati Baru (Sidoarjo I)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bandar Dolok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Garbus II"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Garbus Kampung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Perbarakan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukamandi Hilir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sukamandi Hulu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sumberejo"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sungai Hanyar",
-    "Sungai Seluang",
-    "Pudi",
-    "Mangga",
-    "Wilas",
-    "Pudi Seberang",
-    "Sulangkit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Hanyar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Seluang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pudi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mangga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wilas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pudi Seberang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sulangkit"
+    }
   ]
 }

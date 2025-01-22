@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Wundulako",
-    "Kolaka",
-    "Pomalaa",
-    "Watubangga",
-    "Wolo",
-    "Baula",
-    "Latambaga",
-    "Tanggetada",
-    "Samaturu",
-    "Toari",
-    "Polinggona",
-    "Iwoimendaa"
+    {
+      "district_id": 1,
+      "kecamatan": "Wundulako"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kolaka"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pomalaa"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Watubangga"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Wolo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Baula"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Latambaga"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tanggetada"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Samaturu"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Toari"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Polinggona"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Iwoimendaa"
+    }
   ]
 }

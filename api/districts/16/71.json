@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Ilir Barat Dua (Ilir Barat II)",
-    "Seberang Ulu Satu (Seberang Ulu I)",
-    "Seberang Ulu Dua (Seberang Ulu II)",
-    "Ilir Barat Satu (Ilir Barat I)",
-    "Ilir Timur Satu (Ilir Timur I)",
-    "Ilir Timur Dua (Ilir Timur II)",
-    "Sukarami",
-    "Sako",
-    "Kemuning",
-    "Kalidoni",
-    "Bukitkecil (Bukit Kecil)",
-    "Gandus",
-    "Kertapati",
-    "Plaju",
-    "Alang Alang Lebar",
-    "Sematangborang (Sematang Borang)",
-    "Jakabaring",
-    "Ilir Timur Tiga"
+    {
+      "district_id": 1,
+      "kecamatan": "Ilir Barat Dua (Ilir Barat II)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Seberang Ulu Satu (Seberang Ulu I)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Seberang Ulu Dua (Seberang Ulu II)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ilir Barat Satu (Ilir Barat I)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Ilir Timur Satu (Ilir Timur I)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Ilir Timur Dua (Ilir Timur II)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sukarami"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sako"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kemuning"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kalidoni"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bukitkecil (Bukit Kecil)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Gandus"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kertapati"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Plaju"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Alang Alang Lebar"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Sematangborang (Sematang Borang)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Jakabaring"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Ilir Timur Tiga"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banua lawas (Benua Lawas)",
-    "Tabanio",
-    "Kuala Tambangan",
-    "Takisung",
-    "Gunung Makmur",
-    "Banua Tengah (Benua Tengah)",
-    "Ranggang",
-    "Pagatan Besar (Pegatan Besar)",
-    "Batilai",
-    "Ranggang Dalam",
-    "Telaga Langsat",
-    "Sumber Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banua lawas (Benua Lawas)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tabanio"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuala Tambangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Takisung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banua Tengah (Benua Tengah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ranggang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagatan Besar (Pegatan Besar)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batilai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ranggang Dalam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Telaga Langsat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Makmur"
+    }
   ]
 }

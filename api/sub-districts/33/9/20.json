@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Seboto",
-    "Kaligentong",
-    "Gladagsari",
-    "Kembang",
-    "Ngagrong",
-    "Candisari",
-    "Ngargoloka",
-    "Sampetan",
-    "Ngadirojo",
-    "Jlarem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seboto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaligentong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gladagsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kembang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngagrong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Candisari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngargoloka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sampetan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngadirojo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jlarem"
+    }
   ]
 }

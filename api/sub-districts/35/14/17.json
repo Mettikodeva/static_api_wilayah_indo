@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Susukan Rejo",
-    "Warungdowo (Warung Dowo)",
-    "Pleret",
-    "Parasrejo (Paras Rejo)",
-    "Logowok",
-    "Tidu",
-    "Sungiwetan (Sungi Wetan)",
-    "Sungikulon (Sungi Kulon)",
-    "Sukorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Susukan Rejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Warungdowo (Warung Dowo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pleret"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parasrejo (Paras Rejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Logowok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tidu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungiwetan (Sungi Wetan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungikulon (Sungi Kulon)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukorejo"
+    }
   ]
 }

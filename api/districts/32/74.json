@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Kejaksan",
-    "Lemahwungkuk (Lemah Wungkuk)",
-    "Harjamukti",
-    "Pekalipan",
-    "Kesambi"
+    {
+      "district_id": 1,
+      "kecamatan": "Kejaksan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Lemahwungkuk (Lemah Wungkuk)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Harjamukti"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pekalipan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kesambi"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Serangai",
-    "Selolong",
-    "Air Lakok (Airlakok)",
-    "Bintunan",
-    "Suka Marga (Sukamarga)",
-    "Batik Nau",
-    "Pagar Ruyung",
-    "Durian Amparan",
-    "Taba Kulintang (Taba Kelintang)",
-    "Ulak Tanding",
-    "Seberang Tunggal",
-    "Sekiau",
-    "Samban Jaya",
-    "Peninjau (Maninjau)",
-    "Air Mangayau (Air Menganyau)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serangai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selolong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Lakok (Airlakok)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bintunan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Marga (Sukamarga)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batik Nau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagar Ruyung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Durian Amparan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taba Kulintang (Taba Kelintang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ulak Tanding"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Seberang Tunggal"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sekiau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Samban Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Peninjau (Maninjau)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Air Mangayau (Air Menganyau)"
+    }
   ]
 }

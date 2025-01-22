@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tegalbuleud",
-    "Bangbayang",
-    "Sumberjaya",
-    "Calingcing",
-    "Nangela",
-    "Rambay",
-    "Buniasih",
-    "Sirnamekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tegalbuleud"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangbayang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Calingcing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nangela"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rambay"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buniasih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sirnamekar"
+    }
   ]
 }

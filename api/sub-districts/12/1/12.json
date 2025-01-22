@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Rina Bolak (Rinabolak)",
-    "Sijungkang",
-    "Pangaribuan",
-    "Sogar",
-    "Sirami Ramian",
-    "Sigolang",
-    "Sosor Gonting",
-    "Bondar Sihudon I",
-    "Uratan",
-    "Ladang Tengah",
-    "Lobu Tua",
-    "Bondar Sihudon II",
-    "Sitiris-Tiris",
-    "Sawah Lamo"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rina Bolak (Rinabolak)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sijungkang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangaribuan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sogar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sirami Ramian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sigolang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sosor Gonting"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bondar Sihudon I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uratan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ladang Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lobu Tua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bondar Sihudon II"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sitiris-Tiris"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sawah Lamo"
+    }
   ]
 }

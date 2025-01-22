@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Lubuk Alung",
-    "Batang Anai",
-    "Nan Sabaris",
-    "2 x 11 Enam Lingkuang",
-    "VII Koto Sungai Sarik",
-    "V Koto Kampung Dalam",
-    "Sungai Garingging",
-    "Sungai Limau",
-    "IV Koto Aur Malintang",
-    "Ulakan Tapakih",
-    "Sintuak Toboh Gadang",
-    "Padang Sago",
-    "Batang Gasan",
-    "V Koto Timur",
-    "2 x 11 Kayu Tanam",
-    "Patamuan",
-    "Enam Lingkung"
+    {
+      "district_id": 1,
+      "kecamatan": "Lubuk Alung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Batang Anai"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Nan Sabaris"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "2 x 11 Enam Lingkuang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "VII Koto Sungai Sarik"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "V Koto Kampung Dalam"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sungai Garingging"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sungai Limau"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "IV Koto Aur Malintang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ulakan Tapakih"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sintuak Toboh Gadang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Padang Sago"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Batang Gasan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "V Koto Timur"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "2 x 11 Kayu Tanam"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Patamuan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Enam Lingkung"
+    }
   ]
 }

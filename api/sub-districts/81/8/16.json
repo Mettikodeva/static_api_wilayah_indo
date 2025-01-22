@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Hila",
-    "Jerusu",
-    "Solath"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jerusu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Solath"
+    }
   ]
 }

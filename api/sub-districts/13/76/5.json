@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Padang Karambia",
-    "Kototuo Limokampuang",
-    "Limbukan",
-    "Balai Panjang",
-    "Kapalo Koto Ampangan",
-    "Sawahpadang Aua Kuniang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padang Karambia"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kototuo Limokampuang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Limbukan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Balai Panjang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kapalo Koto Ampangan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sawahpadang Aua Kuniang"
+    }
   ]
 }

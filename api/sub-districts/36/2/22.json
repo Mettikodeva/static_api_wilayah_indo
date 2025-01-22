@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ciparasi",
-    "Sobang",
-    "Sukajaya",
-    "Sindanglaya",
-    "Sukamaju",
-    "Hariang",
-    "Majasari",
-    "Sinar Jaya",
-    "Cirompang",
-    "Sukaresmi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciparasi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sobang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindanglaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hariang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Majasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinar Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cirompang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukaresmi"
+    }
   ]
 }

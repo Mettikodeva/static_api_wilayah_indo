@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Korobono",
-    "Omporiwo (Amporiwo)",
-    "Wayura",
-    "Tokilo",
-    "Tindoli",
-    "Tolambo",
-    "Singkona",
-    "Salindu",
-    "Barati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Korobono"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Omporiwo (Amporiwo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wayura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tokilo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tindoli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tolambo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Singkona"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salindu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Barati"
+    }
   ]
 }

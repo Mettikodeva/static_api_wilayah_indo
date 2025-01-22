@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Air Lelangi",
-    "Bukit Berlian",
-    "Tanjung Dalam",
-    "Bukit Sari",
-    "Pagardin (Pagar Din)",
-    "Tanjung Harapan",
-    "Tanjung Sari",
-    "Bangun Karya",
-    "Pondok Bakil",
-    "Talang Berantai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Lelangi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Berlian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Dalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagardin (Pagar Din)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangun Karya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pondok Bakil"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Berantai"
+    }
   ]
 }

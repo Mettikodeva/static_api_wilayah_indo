@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lalebata",
-    "Mattampa Walie",
-    "Poleonro",
-    "Sengeng Palie",
-    "Mattampa Bulu",
-    "Turu Cinnae (Turucinnae)",
-    "Seberang",
-    "Massenreng pulu (Massenrenpulu)",
-    "Mamminasae",
-    "Padaelo",
-    "Barugae",
-    "Barakkae"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lalebata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mattampa Walie"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Poleonro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sengeng Palie"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mattampa Bulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Turu Cinnae (Turucinnae)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seberang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Massenreng pulu (Massenrenpulu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mamminasae"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padaelo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Barugae"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Barakkae"
+    }
   ]
 }

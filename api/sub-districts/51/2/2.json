@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gunung Salak",
-    "Gadungan",
-    "Bantas",
-    "Mambang",
-    "Megati",
-    "Tangguntiti",
-    "Beraban",
-    "Tegal Mengkeb",
-    "Dalang",
-    "Gadungsari (Gadung Sari)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunung Salak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gadungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bantas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mambang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Megati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tangguntiti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beraban"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegal Mengkeb"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dalang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gadungsari (Gadung Sari)"
+    }
   ]
 }

@@ -1,35 +1,144 @@
 {
   "cities": [
-    "Cilacap",
-    "Banyumas",
-    "Purbalingga",
-    "Banjarnegara",
-    "Kebumen",
-    "Purworejo",
-    "Wonosobo",
-    "Magelang",
-    "Boyolali",
-    "Klaten",
-    "Sukoharjo",
-    "Wonogiri",
-    "Karanganyar",
-    "Sragen",
-    "Grobogan",
-    "Blora",
-    "Rembang",
-    "Pati",
-    "Kudus",
-    "Jepara",
-    "Demak",
-    "Semarang",
-    "Temanggung",
-    "Kendal",
-    "Batang",
-    "Pekalongan",
-    "Pemalang",
-    "Tegal",
-    "Brebes",
-    "Surakarta",
-    "Salatiga"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Cilacap"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Banyumas"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Purbalingga"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Banjarnegara"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Kebumen"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Purworejo"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Wonosobo"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Magelang"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Boyolali"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Klaten"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Sukoharjo"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Wonogiri"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Karanganyar"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Sragen"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Grobogan"
+    },
+    {
+      "city_id": 16,
+      "kabupaten_kota": "Blora"
+    },
+    {
+      "city_id": 17,
+      "kabupaten_kota": "Rembang"
+    },
+    {
+      "city_id": 18,
+      "kabupaten_kota": "Pati"
+    },
+    {
+      "city_id": 19,
+      "kabupaten_kota": "Kudus"
+    },
+    {
+      "city_id": 20,
+      "kabupaten_kota": "Jepara"
+    },
+    {
+      "city_id": 21,
+      "kabupaten_kota": "Demak"
+    },
+    {
+      "city_id": 22,
+      "kabupaten_kota": "Semarang"
+    },
+    {
+      "city_id": 23,
+      "kabupaten_kota": "Temanggung"
+    },
+    {
+      "city_id": 24,
+      "kabupaten_kota": "Kendal"
+    },
+    {
+      "city_id": 25,
+      "kabupaten_kota": "Batang"
+    },
+    {
+      "city_id": 26,
+      "kabupaten_kota": "Pekalongan"
+    },
+    {
+      "city_id": 27,
+      "kabupaten_kota": "Pemalang"
+    },
+    {
+      "city_id": 28,
+      "kabupaten_kota": "Tegal"
+    },
+    {
+      "city_id": 29,
+      "kabupaten_kota": "Brebes"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Magelang"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Surakarta"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Salatiga"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Semarang"
+    },
+    {
+      "city_id": 75,
+      "kabupaten_kota": "Pekalongan"
+    },
+    {
+      "city_id": 76,
+      "kabupaten_kota": "Tegal"
+    }
   ]
 }

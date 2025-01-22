@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sidamulih",
-    "Cikalong",
-    "Sukaresik",
-    "Cikembulan",
-    "Pajaten",
-    "Kersaratu",
-    "Kalijati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidamulih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikalong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukaresik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikembulan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pajaten"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kersaratu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalijati"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Senayang",
-    "Mamut",
-    "Laboh (Labo)",
-    "Penaah",
-    "Baran"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Senayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mamut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Laboh (Labo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Penaah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Baran"
+    }
   ]
 }

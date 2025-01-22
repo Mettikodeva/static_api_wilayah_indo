@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Meriah",
-    "Tanjung Mulia",
-    "Kaban Tengah",
-    "Bandar Baru",
-    "Simberruna (Simberuna)",
-    "Perolihen",
-    "Maholida",
-    "Perjaga",
-    "Malum",
-    "Mbinalun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Meriah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Mulia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaban Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandar Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simberruna (Simberuna)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perolihen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maholida"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perjaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Malum"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mbinalun"
+    }
   ]
 }

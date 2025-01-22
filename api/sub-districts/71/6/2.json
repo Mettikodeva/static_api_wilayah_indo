@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kauditan II (Kauditan Dua)",
-    "Kauditan I (Kauditan Satu)",
-    "Kawiley (Kawilei)",
-    "Treman",
-    "Kaima",
-    "Karegesan",
-    "Kaasar",
-    "Lembean",
-    "Paslaten",
-    "Tumaluntung",
-    "Watudambo",
-    "Watudambo Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kauditan II (Kauditan Dua)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kauditan I (Kauditan Satu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kawiley (Kawilei)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Treman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karegesan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaasar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lembean"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paslaten"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tumaluntung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Watudambo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watudambo Dua"
+    }
   ]
 }

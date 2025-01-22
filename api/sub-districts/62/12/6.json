@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bumban Tuhup",
-    "Makunjung",
-    "Dirung Sararung/Sararong",
-    "Kohong",
-    "Hingan Tokung",
-    "Liang Nyaling",
-    "Tumbang Bauh",
-    "Tumbang Masalo",
-    "Batu Tojah",
-    "Tumbang Baloi",
-    "Cinta Budiman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumban Tuhup"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Makunjung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dirung Sararung/Sararong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kohong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hingan Tokung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Liang Nyaling"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Bauh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Masalo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Tojah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tumbang Baloi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cinta Budiman"
+    }
   ]
 }

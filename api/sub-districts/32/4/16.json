@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Arjasari",
-    "Lebakwangi",
-    "Batukarut",
-    "Ancolmekar",
-    "Baros",
-    "Mangunjaya",
-    "Mekarjaya",
-    "Pinggirsari",
-    "Patrolsari",
-    "Rancakole",
-    "Wargaluyu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arjasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lebakwangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batukarut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ancolmekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baros"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangunjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pinggirsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Patrolsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rancakole"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wargaluyu"
+    }
   ]
 }

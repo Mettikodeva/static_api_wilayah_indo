@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dadaprejo",
-    "Beji",
-    "Junrejo",
-    "Tlekung",
-    "Mojorejo",
-    "Pendem",
-    "Torongrejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dadaprejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Junrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tlekung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mojorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pendem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Torongrejo"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Malampah",
-    "Ladang Panjang",
-    "Binjai",
-    "Malampah Barat",
-    "Ladang Panjang Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malampah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ladang Panjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Binjai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malampah Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ladang Panjang Barat"
+    }
   ]
 }

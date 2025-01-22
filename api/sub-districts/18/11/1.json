@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wiralaga I",
-    "Wiralaga II",
-    "Sungai Badak",
-    "Nipah Kuning",
-    "Sido Mulyo",
-    "Tirta Laga (Tirtalaga)",
-    "Tanjung Serayan (Tanjung Seraya)",
-    "Sumber Makmur",
-    "Mulya Sari",
-    "Wiralaga Mulya",
-    "Suka Maju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wiralaga I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wiralaga II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Badak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nipah Kuning"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sido Mulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tirta Laga (Tirtalaga)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Serayan (Tanjung Seraya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mulya Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wiralaga Mulya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Maju"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Prabumulih",
-    "Patih Galung",
-    "Muntang Tapus",
-    "Gunung Kemala",
-    "Payuputat (Payu Putat)",
-    "Tebing Tanah Puteh",
-    "Tanjung Telang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Prabumulih"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Patih Galung"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Muntang Tapus"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Gunung Kemala"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Payuputat (Payu Putat)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tebing Tanah Puteh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Telang"
+    }
   ]
 }

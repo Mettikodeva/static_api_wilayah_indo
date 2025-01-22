@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sidodadi",
-    "Laiworu",
-    "Wawesa",
-    "Wakorambu"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Laiworu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wawesa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wakorambu"
+    }
   ]
 }

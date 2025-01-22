@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banjar Agung",
-    "Bumi Agung Marga",
-    "Pungguk Lama",
-    "Gedung Nyapah",
-    "Penagan Ratu",
-    "Peraduan Waras",
-    "Surakarta",
-    "Rejo Mulyo",
-    "Sidomukti",
-    "Bumi Jaya",
-    "Papan Rejo",
-    "Sumber Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjar Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bumi Agung Marga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pungguk Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gedung Nyapah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penagan Ratu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peraduan Waras"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Surakarta"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rejo Mulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Papan Rejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Agung"
+    }
   ]
 }

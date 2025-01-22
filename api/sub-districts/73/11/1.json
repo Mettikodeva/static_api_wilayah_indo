@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lompo Riaja",
-    "Harapan",
-    "Lompo Tengah",
-    "Kading",
-    "Libureng",
-    "Mattirowalie",
-    "Lempang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lompo Riaja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Harapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lompo Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Libureng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mattirowalie"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lempang"
+    }
   ]
 }

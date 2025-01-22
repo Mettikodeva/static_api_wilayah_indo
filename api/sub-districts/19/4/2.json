@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dul",
-    "Air Mesu (Airmesu)",
-    "Mangkol",
-    "Tanjung Gunung",
-    "Benteng",
-    "Padang Baru",
-    "Jeruk",
-    "Beluluk",
-    "Pedindang (Pelindang / Selindung)",
-    "Batu Belubang",
-    "Air Mesu Timur",
-    "Kebintik"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Mesu (Airmesu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangkol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Gunung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jeruk"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Beluluk"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pedindang (Pelindang / Selindung)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Batu Belubang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Air Mesu Timur"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kebintik"
+    }
   ]
 }

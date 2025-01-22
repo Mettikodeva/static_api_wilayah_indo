@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sumbersuko",
-    "Kebonsari",
-    "Grati",
-    "Labruk Kidul",
-    "Mojosari",
-    "Sentul",
-    "Purwosono",
-    "Petahunan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumbersuko"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Grati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labruk Kidul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mojosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purwosono"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Petahunan"
+    }
   ]
 }

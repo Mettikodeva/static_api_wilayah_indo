@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Moba",
-    "Gunea (Gunia)",
-    "Kwegono",
-    "Langpang",
-    "Yeretma",
-    "Anggulpa",
-    "Moba Dua",
-    "Pijama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Moba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunea (Gunia)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kwegono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langpang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yeretma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anggulpa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Moba Dua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pijama"
+    }
   ]
 }

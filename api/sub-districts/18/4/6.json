@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kenali",
-    "Kejadian",
-    "Bumi Agung",
-    "Turgak",
-    "Bedudu",
-    "Sukarame",
-    "Hujung",
-    "Serungkuk",
-    "Suka Makmur",
-    "Fajar Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kenali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kejadian"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bumi Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Turgak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bedudu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hujung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Serungkuk"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Fajar Agung"
+    }
   ]
 }

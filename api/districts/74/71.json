@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Mandonga",
-    "Kendari",
-    "Baruga",
-    "Poasia",
-    "Kendari Barat",
-    "Abeli",
-    "Wua-Wua",
-    "Kadia",
-    "Puuwatu",
-    "Kambu",
-    "Nambo"
+    {
+      "district_id": 1,
+      "kecamatan": "Mandonga"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kendari"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Baruga"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Poasia"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kendari Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Abeli"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wua-Wua"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kadia"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Puuwatu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kambu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Nambo"
+    }
   ]
 }

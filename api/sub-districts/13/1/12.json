@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Puluik Puluik",
-    "Koto Ranah",
-    "Muaro Aie",
-    "Pancuang Taba (Pancung Taba)",
-    "Puluik-Puluik Selatan",
-    "Limau Gadang Pancung Taba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puluik Puluik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Ranah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muaro Aie"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pancuang Taba (Pancung Taba)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puluik-Puluik Selatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Limau Gadang Pancung Taba"
+    }
   ]
 }

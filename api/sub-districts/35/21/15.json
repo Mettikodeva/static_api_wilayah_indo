@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sumberbening (Sumber Bening)",
-    "Mojo",
-    "Krompol",
-    "Bringin",
-    "Dero",
-    "Legowetan (Lego Wetan)",
-    "Gandong",
-    "Dampit",
-    "Suruh",
-    "Kenongorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberbening (Sumber Bening)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mojo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Krompol"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dero"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Legowetan (Lego Wetan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gandong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dampit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suruh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kenongorejo"
+    }
   ]
 }

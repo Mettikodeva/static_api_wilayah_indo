@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Karangkebagusan",
-    "Demaan",
-    "Potroyudan",
-    "Bapangan",
-    "Saripan",
-    "Panggang",
-    "Kauman",
-    "Bulu",
-    "Jobokuto",
-    "Ujungbatu",
-    "Pengkol",
-    "Mulyoharjo",
-    "Wonorejo",
-    "Kedungcino",
-    "Kuwasen",
-    "Bandengan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karangkebagusan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Demaan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Potroyudan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bapangan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Saripan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Panggang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bulu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Jobokuto"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ujungbatu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pengkol"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mulyoharjo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kedungcino"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kuwasen"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bandengan"
+    }
   ]
 }

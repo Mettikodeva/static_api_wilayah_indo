@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Alai",
-    "Jabi (Dusun Jabi)",
-    "Napal Putih",
-    "Air Tenang",
-    "Teluk Anggung",
-    "Tanjung Kemayan (Kemenyan)",
-    "Muara Santan",
-    "Lebong Tandai",
-    "Gembung Raya",
-    "Kinal Jaya"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Alai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jabi (Dusun Jabi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Napal Putih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Tenang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluk Anggung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Kemayan (Kemenyan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Santan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lebong Tandai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Gembung Raya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kinal Jaya"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wogi",
-    "Elaboga (Elaboge)",
-    "Holasili",
-    "Yerega",
-    "Olagi",
-    "Gigilobo",
-    "Apnae",
-    "Wonenggulik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wogi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Elaboga (Elaboge)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Holasili"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yerega"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Olagi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gigilobo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Apnae"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonenggulik"
+    }
   ]
 }

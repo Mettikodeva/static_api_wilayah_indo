@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Pasar Siborong Borong",
-    "Siborong-Borong I",
-    "Siborong-Borong II",
-    "Sitampurung",
-    "Sitabotabo",
-    "Bahal Batu I",
-    "Bahal Batu II",
-    "Bahal Batu III",
-    "Lobu Siregar I",
-    "Lobu Siregar II",
-    "Pohan Julu",
-    "Pohan Tonga",
-    "Pohan Jae",
-    "Paniaran",
-    "Parik Sabungan",
-    "Hutabulu",
-    "Lumban Tonga Tonga",
-    "Sigumbang",
-    "Siaro",
-    "Silait-Lait",
-    "Sitabotabo Toruan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Siborong Borong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siborong-Borong I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siborong-Borong II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sitampurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sitabotabo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bahal Batu I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bahal Batu II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bahal Batu III"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lobu Siregar I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lobu Siregar II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pohan Julu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pohan Tonga"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pohan Jae"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Paniaran"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Parik Sabungan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hutabulu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lumban Tonga Tonga"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sigumbang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Siaro"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Silait-Lait"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sitabotabo Toruan"
+    }
   ]
 }

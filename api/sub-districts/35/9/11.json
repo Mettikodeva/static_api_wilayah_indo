@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lojejer",
-    "Ampel",
-    "Tamansari",
-    "Dukuhdempok (Dukuh Dempok)",
-    "Glundengan",
-    "Tanjungrejo (Tanjung Rejo)",
-    "Kesilir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lojejer"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ampel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dukuhdempok (Dukuh Dempok)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Glundengan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungrejo (Tanjung Rejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kesilir"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Waepana",
-    "Masumeli (Masu)",
-    "Piga",
-    "Loa",
-    "Tarawaja",
-    "Seso",
-    "Mangeruda (Mengeruda)",
-    "Masu Kedhi",
-    "Libunio",
-    "Meli Waru",
-    "Ngabheo",
-    "Bogoboa",
-    "Piga Satu (Piga I)",
-    "Tarawali",
-    "Waepana I",
-    "Lokaweka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waepana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Masumeli (Masu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Piga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Loa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tarawaja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Seso"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mangeruda (Mengeruda)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Masu Kedhi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Libunio"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Meli Waru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ngabheo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bogoboa"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Piga Satu (Piga I)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tarawali"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Waepana I"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lokaweka"
+    }
   ]
 }

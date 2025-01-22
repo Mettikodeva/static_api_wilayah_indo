@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Koya Barat",
-    "Koya Timur",
-    "Skow Mabo (Skouw Mabo )",
-    "Skow Yambe (Skouw Yambe)",
-    "Skow Sae (Skouw Sae)",
-    "Holtekamp",
-    "Koya Tengah",
-    "Mosso"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Koya Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Koya Timur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Skow Mabo (Skouw Mabo )"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Skow Yambe (Skouw Yambe)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Skow Sae (Skouw Sae)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Holtekamp"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koya Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mosso"
+    }
   ]
 }

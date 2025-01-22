@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Nglinggis",
-    "Gading",
-    "Duren",
-    "Pucanganak",
-    "Ngepeh",
-    "Jambu",
-    "Dermosari",
-    "Sukorejo",
-    "Tumpuk",
-    "Winong",
-    "Tegaren",
-    "Gondang",
-    "Nglongsor",
-    "Banaran",
-    "Prambon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nglinggis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gading"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pucanganak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngepeh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dermosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tumpuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tegaren"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nglongsor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Prambon"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lindajang",
-    "Buntu Barana",
-    "Poringan",
-    "Salubua",
-    "Kaili",
-    "Muhajirin",
-    "Tallang",
-    "Kaladi Darussalam"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lindajang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buntu Barana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Poringan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salubua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaili"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muhajirin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tallang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaladi Darussalam"
+    }
   ]
 }

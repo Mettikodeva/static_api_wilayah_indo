@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ujung Tanjung I (satu)",
-    "Muning Agung",
-    "Ujung Tanjung II (dua)",
-    "Ujung Tanjung III (tiga)",
-    "Magelang Baru",
-    "Lemeu Pit",
-    "Tabeak Kauk",
-    "Tabeak Dipoa",
-    "Suka Bumi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ujung Tanjung I (satu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muning Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujung Tanjung II (dua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ujung Tanjung III (tiga)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Magelang Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lemeu Pit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tabeak Kauk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tabeak Dipoa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Bumi"
+    }
   ]
 }

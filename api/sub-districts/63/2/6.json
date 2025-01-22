@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kotabaru Hulu",
-    "Megasari (Mega Sari)",
-    "Sebelimbingan",
-    "Stagen",
-    "Rampa",
-    "Sungai Taib",
-    "Semayap",
-    "Dirgahayu",
-    "Gunung Ulin",
-    "Gunung Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kotabaru Hulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Megasari (Mega Sari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sebelimbingan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Stagen"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rampa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungai Taib"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Semayap"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dirgahayu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Gunung Ulin"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Gunung Sari"
+    }
   ]
 }

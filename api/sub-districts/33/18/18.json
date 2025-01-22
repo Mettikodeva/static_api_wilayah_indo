@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Medani",
-    "Sentul",
-    "Plaosan",
-    "Payak",
-    "Sirahan",
-    "Mojo",
-    "Karangsari",
-    "Bleber",
-    "Ngawen",
-    "Ngablak",
-    "Gesengan",
-    "Gerit",
-    "Sumur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Medani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Plaosan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Payak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sirahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mojo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bleber"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngawen"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngablak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gesengan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gerit"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumur"
+    }
   ]
 }

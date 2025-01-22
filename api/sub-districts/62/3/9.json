@@ -1,42 +1,156 @@
 {
   "sub_districts": [
-    "Manusup",
-    "Sei/Sungai Kapar",
-    "Tarantang",
-    "Lamunti",
-    "Pulau Kaladan",
-    "Mantangai Hilir",
-    "Mantangai Tengah",
-    "Mantangai Hulu",
-    "Kalumpang",
-    "Sei/Sungai Ahas",
-    "Katunjung",
-    "Lahei Mangkutup",
-    "Tumbang Muroi",
-    "Danau Tawah/Rawah",
-    "Muroi Raya",
-    "Katimpun",
-    "Manusup Hilir",
-    "Sei Gita",
-    "Bukit Batu (Bukit Baru)",
-    "Sei Gawing",
-    "Humbang Raya",
-    "Tabore",
-    "Tumbang Mangkutup (Tumbang Mangkurup)",
-    "Lapetan (Lampetan)",
-    "Lamunti Permai",
-    "Manyahi",
-    "Sekata Makmur",
-    "Kaladan Jaya",
-    "Rantau jaya",
-    "Warga Mulya",
-    "Lamunti Baru",
-    "Sriwidadi (Sri Widadi)",
-    "Sumber Makmur",
-    "Sidomulyo (Sido Mulyo)",
-    "Harapan Jaya",
-    "Sekata Bangun",
-    "Sari Makmur",
-    "Suka Maju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manusup"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Kapar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tarantang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lamunti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Kaladan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mantangai Hilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mantangai Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mantangai Hulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalumpang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei/Sungai Ahas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Katunjung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lahei Mangkutup"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tumbang Muroi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Danau Tawah/Rawah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Muroi Raya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Katimpun"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Manusup Hilir"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sei Gita"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bukit Batu (Bukit Baru)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sei Gawing"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Humbang Raya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tabore"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tumbang Mangkutup (Tumbang Mangkurup)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lapetan (Lampetan)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Lamunti Permai"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Manyahi"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sekata Makmur"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kaladan Jaya"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Rantau jaya"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Warga Mulya"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Lamunti Baru"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Sriwidadi (Sri Widadi)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Sidomulyo (Sido Mulyo)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Sekata Bangun"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Sari Makmur"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Suka Maju"
+    }
   ]
 }

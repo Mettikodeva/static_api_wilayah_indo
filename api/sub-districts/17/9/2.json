@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Air Sebakul",
-    "Taba Pasema (Pasmah)",
-    "Kembang Seri",
-    "Tengah Padang",
-    "Jayakarta (Jaya Karta)",
-    "Nakau",
-    "Pulau Panggung",
-    "Jum'at (Jumat)",
-    "Padang Ulak Tanjung (Padang UlakTanjung)",
-    "Air Putih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Sebakul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taba Pasema (Pasmah)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kembang Seri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tengah Padang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jayakarta (Jaya Karta)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nakau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Panggung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jum'at (Jumat)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Padang Ulak Tanjung (Padang UlakTanjung)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Air Putih"
+    }
   ]
 }

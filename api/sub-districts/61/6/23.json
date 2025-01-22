@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sei/Sungai Antu",
-    "Merakai Panjang",
-    "Kantuk Asam",
-    "Kantuk Bunut",
-    "Sungai Mawang",
-    "Langau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Antu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Merakai Panjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kantuk Asam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kantuk Bunut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Mawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langau"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Samalanga",
-    "Jeunieb",
-    "Peudada",
-    "Jeumpa",
-    "Peusangan",
-    "Makmur",
-    "Gandapura (Ganda Pura)",
-    "Pandrah",
-    "Juli",
-    "Jangka",
-    "Simpang Mamplam",
-    "Peulimbang (Plimbang)",
-    "Kota Juang",
-    "Kuala",
-    "Peusangan Siblah Krueng",
-    "Peusangan Selatan",
-    "Kuta Blang"
+    {
+      "district_id": 1,
+      "kecamatan": "Samalanga"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jeunieb"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Peudada"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Jeumpa"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Peusangan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Makmur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Gandapura (Ganda Pura)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pandrah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Juli"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Jangka"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Simpang Mamplam"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Peulimbang (Plimbang)"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kota Juang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kuala"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Peusangan Siblah Krueng"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Peusangan Selatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kuta Blang"
+    }
   ]
 }

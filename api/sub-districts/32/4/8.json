@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lengkong",
-    "Bojongsoang",
-    "Buahbatu",
-    "Cipagalo",
-    "Bojongsari",
-    "Tegalluar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojongsoang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buahbatu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipagalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalluar"
+    }
   ]
 }

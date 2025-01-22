@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Patukrejo",
-    "Ngasinan",
-    "Pujodadi",
-    "Balorejo",
-    "Rowosari",
-    "Tlogorejo",
-    "Bonorowo",
-    "Sirnoboyo",
-    "Bonjokkidul",
-    "Bonjoklor",
-    "Mrentul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Patukrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngasinan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pujodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rowosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tlogorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bonorowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sirnoboyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bonjokkidul"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonjoklor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mrentul"
+    }
   ]
 }

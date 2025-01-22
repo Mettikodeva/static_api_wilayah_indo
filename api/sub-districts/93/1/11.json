@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Harapan Makmur",
-    "Kurik",
-    "Telaga Sari",
-    "Sumber Rejeki",
-    "Jaya Makmur",
-    "Sumber Mulya",
-    "Kaliki",
-    "Ivimahad (Ivi Mahad)",
-    "Salor Indah",
-    "Candra Jaya",
-    "Wonorejo",
-    "Anum Bob (Anumbob)",
-    "Wapeko"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Harapan Makmur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kurik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telaga Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Rejeki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jaya Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kaliki"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ivimahad (Ivi Mahad)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Salor Indah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Candra Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Anum Bob (Anumbob)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wapeko"
+    }
   ]
 }

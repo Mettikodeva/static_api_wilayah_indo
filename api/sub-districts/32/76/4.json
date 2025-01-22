@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Maruyung (Meruyung)",
-    "Grogol",
-    "Krukut",
-    "Limo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Maruyung (Meruyung)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Krukut"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Limo"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Simpang Kanan",
-    "Mega Timur",
-    "Bengkarek",
-    "Lingga",
-    "Sungai Ambawang Kuala",
-    "Jawa Tengah",
-    "Durian",
-    "Pancaroba",
-    "Puguk",
-    "Korek",
-    "Pasak",
-    "Pasak Piang",
-    "Teluk Bakung",
-    "Ampera Raya",
-    "Sungai Malaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Kanan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mega Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bengkarek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lingga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Ambawang Kuala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jawa Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pancaroba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puguk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Korek"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasak Piang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Teluk Bakung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ampera Raya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungai Malaya"
+    }
   ]
 }

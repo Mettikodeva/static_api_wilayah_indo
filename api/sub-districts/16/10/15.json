@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ulak Kembahang",
-    "Lubuk Keliat",
-    "Embecang (Embacang)",
-    "Kasi Raja (Kasih Raja)",
-    "Talang Tengah Darat",
-    "Betung II",
-    "Ketiau",
-    "Payalengkang (Payalingkung)",
-    "Betung I",
-    "Talang Tengah Laut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ulak Kembahang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Keliat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Embecang (Embacang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kasi Raja (Kasih Raja)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talang Tengah Darat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Betung II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ketiau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Payalengkang (Payalingkung)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Betung I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Tengah Laut"
+    }
   ]
 }

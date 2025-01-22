@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Nazalou Alo'oa",
-    "Niko'otano Dao",
-    "Iraonolase (Irano Lase / Iraono Lase)",
-    "Orahili Tanose'o",
-    "Tarakhaini",
-    "Fadoro Hilimbowo",
-    "Fadoro You",
-    "Lololawa",
-    "Nazalou Lolowua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nazalou Alo'oa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Niko'otano Dao"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Iraonolase (Irano Lase / Iraono Lase)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Orahili Tanose'o"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tarakhaini"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fadoro Hilimbowo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Fadoro You"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lololawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nazalou Lolowua"
+    }
   ]
 }

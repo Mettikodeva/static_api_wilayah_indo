@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Moyo",
-    "Kakiang",
-    "Ngeru",
-    "Berare",
-    "Poto",
-    "Serading",
-    "Olat Rawa",
-    "Batu Bangka",
-    "Moyo Mekar",
-    "Labuhan Ijuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Moyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kakiang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngeru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Berare"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Poto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Serading"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Olat Rawa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Bangka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Moyo Mekar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Labuhan Ijuk"
+    }
   ]
 }

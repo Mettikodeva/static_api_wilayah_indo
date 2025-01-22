@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batu Urip",
-    "Ulak Surung",
-    "Kenanga",
-    "Pasar Satelit (Pasar Satlit)",
-    "Senalang",
-    "Megang",
-    "Jogoboyo (Joyoboyo)",
-    "Puncak Kemuning",
-    "Ponorogo",
-    "Kali Serayu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batu Urip"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ulak Surung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kenanga"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar Satelit (Pasar Satlit)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Senalang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Megang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jogoboyo (Joyoboyo)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Puncak Kemuning"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ponorogo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kali Serayu"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Gedung Wani",
-    "Penandingan",
-    "Geramat",
-    "Tanjung Alam",
-    "Tanjung Baru",
-    "Pengurung",
-    "Pinang Jawa",
-    "Gunung Terang",
-    "Talang Padang",
-    "Gunung Megang",
-    "Talang Berangin (Talang Beringin)",
-    "Jawi",
-    "Papahan",
-    "Pinang Jawa II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gedung Wani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Penandingan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Geramat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Alam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pengurung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pinang Jawa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Terang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talang Padang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunung Megang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Talang Berangin (Talang Beringin)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Jawi"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Papahan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pinang Jawa II"
+    }
   ]
 }

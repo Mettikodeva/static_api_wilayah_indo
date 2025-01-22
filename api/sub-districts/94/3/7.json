@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Todia (Tadia/Ayaikebo)",
-    "Dadou",
-    "Bua",
-    "Kepi",
-    "Wageme",
-    "Bugubutu",
-    "Dogomouto",
-    "Giwo",
-    "Nomokepota",
-    "Eguai",
-    "Degatadi",
-    "Uwoyupi",
-    "Wegekebo",
-    "Yinotadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Todia (Tadia/Ayaikebo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dadou"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kepi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wageme"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bugubutu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dogomouto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Giwo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nomokepota"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Eguai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Degatadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Uwoyupi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wegekebo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yinotadi"
+    }
   ]
 }

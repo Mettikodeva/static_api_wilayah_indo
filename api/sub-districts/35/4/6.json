@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wonorejo",
-    "Kedungcangkring",
-    "Mulyosari",
-    "Segawe",
-    "Samar",
-    "Penjor",
-    "Pagerwojo",
-    "Kradinan",
-    "Sidomulyo",
-    "Gondanggunung",
-    "Gambiran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungcangkring"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mulyosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Segawe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Samar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penjor"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagerwojo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kradinan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gondanggunung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gambiran"
+    }
   ]
 }

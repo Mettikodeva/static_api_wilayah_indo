@@ -1,32 +1,116 @@
 {
   "districts": [
-    "Lambuya",
-    "Unaaha",
-    "Wawotobi",
-    "Pondidaha",
-    "Sampara",
-    "Abuki",
-    "Soropia",
-    "Tongauna",
-    "Latoma",
-    "Puriala",
-    "Uepai",
-    "Wonggeduku",
-    "Besulutu",
-    "Bondoala",
-    "Routa",
-    "Anggaberi",
-    "Meluhu",
-    "Amonggedo",
-    "Asinua",
-    "Konawe",
-    "Kapoiala",
-    "Lalonggasumeeto",
-    "Onembute",
-    "Padangguni",
-    "Morosi",
-    "Anggalomoare",
-    "Wonggeduku Barat",
-    "Tongauna Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Lambuya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Unaaha"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wawotobi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pondidaha"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sampara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Abuki"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Soropia"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Tongauna"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Latoma"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Puriala"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Uepai"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Wonggeduku"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Besulutu"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Bondoala"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Routa"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Anggaberi"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Meluhu"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Amonggedo"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Asinua"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Konawe"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Kapoiala"
+    },
+    {
+      "district_id": 36,
+      "kecamatan": "Lalonggasumeeto"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Onembute"
+    },
+    {
+      "district_id": 38,
+      "kecamatan": "Padangguni"
+    },
+    {
+      "district_id": 39,
+      "kecamatan": "Morosi"
+    },
+    {
+      "district_id": 40,
+      "kecamatan": "Anggalomoare"
+    },
+    {
+      "district_id": 41,
+      "kecamatan": "Wonggeduku Barat"
+    },
+    {
+      "district_id": 42,
+      "kecamatan": "Tongauna Utara"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kumelembuai",
-    "Kumelembuai Atas",
-    "Kumelembuai Satu",
-    "Malola",
-    "Malola I (Malola Satu)",
-    "Makasili",
-    "Kumelembuai Dua",
-    "Lolombulan Makasili"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kumelembuai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kumelembuai Atas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kumelembuai Satu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malola"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malola I (Malola Satu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Makasili"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kumelembuai Dua"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lolombulan Makasili"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Mentarang",
-    "Malinau Kota",
-    "Pujungan",
-    "Kayan Hilir",
-    "Kayan Hulu",
-    "Malinau Selatan",
-    "Malinau Utara",
-    "Malinau Barat",
-    "Sungai Boh",
-    "Kayan Selatan",
-    "Bahau Hulu",
-    "Mentarang Hulu",
-    "Malinau Selatan Hilir",
-    "Malinau Selatan Hulu",
-    "Sungai Tubu"
+    {
+      "district_id": 1,
+      "kecamatan": "Mentarang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Malinau Kota"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pujungan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kayan Hilir"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kayan Hulu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Malinau Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Malinau Utara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Malinau Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sungai Boh"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kayan Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bahau Hulu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mentarang Hulu"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Malinau Selatan Hilir"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Malinau Selatan Hulu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sungai Tubu"
+    }
   ]
 }

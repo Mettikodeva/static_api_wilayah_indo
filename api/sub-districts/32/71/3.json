@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gudang",
-    "Paledang",
-    "Pabaton",
-    "Cibogor",
-    "Babakan",
-    "Sempur",
-    "Tegallega (Tegal Panjang)",
-    "Babakan Pasar",
-    "Panaragan",
-    "Ciwaringin",
-    "Kebon Kalapa (Kebon Kelapa)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gudang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Paledang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pabaton"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cibogor"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sempur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tegallega (Tegal Panjang)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Babakan Pasar"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Panaragan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ciwaringin"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kebon Kalapa (Kebon Kelapa)"
+    }
   ]
 }

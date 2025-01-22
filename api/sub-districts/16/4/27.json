@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pandan Arang Ilir",
-    "Tanjung Kurung Ulu",
-    "Tanjung Kurung Ilir",
-    "Tanjung Baru",
-    "Tanjung Nibung",
-    "Tanjung Tebat",
-    "Tanjung Bay/Bai",
-    "Tanjung Menang",
-    "Tanjung Raya",
-    "Air Dingin Lama",
-    "Air Dingin Baru",
-    "Muara Danau",
-    "Talang Jawa",
-    "Padang Perigi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandan Arang Ilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Kurung Ulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Kurung Ilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Nibung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Tebat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Bay/Bai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Menang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Air Dingin Lama"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Air Dingin Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muara Danau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Talang Jawa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Padang Perigi"
+    }
   ]
 }

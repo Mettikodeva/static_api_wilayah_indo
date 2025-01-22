@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bombanon",
-    "Abak",
-    "Tapa Aog",
-    "Mopusi",
-    "Matali Baru",
-    "Bakan",
-    "Sanoyan Selatan (Tanoyan Selatan)",
-    "Tungoi I",
-    "Lolayan",
-    "Mopait",
-    "Kopandakan II",
-    "Tanoyan Utara",
-    "Tungoi II",
-    "Mengkang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bombanon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Abak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tapa Aog"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mopusi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matali Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sanoyan Selatan (Tanoyan Selatan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tungoi I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lolayan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mopait"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kopandakan II"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanoyan Utara"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tungoi II"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mengkang"
+    }
   ]
 }

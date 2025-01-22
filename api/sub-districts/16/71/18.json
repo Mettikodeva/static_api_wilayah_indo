@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "8 Ilir",
-    "9 Ilir",
-    "10 Ilir",
-    "11 Ilir",
-    "Kuto Batu",
-    "Duku"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "8 Ilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "9 Ilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "10 Ilir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "11 Ilir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kuto Batu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Duku"
+    }
   ]
 }

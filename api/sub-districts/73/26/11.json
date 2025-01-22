@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tallunglipu Matalo (Tallunglipu Matallo)",
-    "Tallunglipu",
-    "Tampo Tallunglipu",
-    "Tagari Tallunglipu",
-    "Tantanan Tallunglipu",
-    "Rante PakuTallunglipu (Rantepaku Tallunglipu)",
-    "Buntu Tallunglipu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tallunglipu Matalo (Tallunglipu Matallo)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tallunglipu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tampo Tallunglipu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tagari Tallunglipu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tantanan Tallunglipu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rante PakuTallunglipu (Rantepaku Tallunglipu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buntu Tallunglipu"
+    }
   ]
 }

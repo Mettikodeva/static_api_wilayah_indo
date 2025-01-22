@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ketapangkuning (Ketapang Kuning)",
-    "Keboan",
-    "Kedungbogo (Kedung Bogo)",
-    "Ngusikan",
-    "Sumbernongko (Sumber Nongko)",
-    "Cupak",
-    "Manunggal",
-    "Ngampel",
-    "Mojodanu",
-    "Kromong",
-    "Asemgede (Asem Gede)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ketapangkuning (Ketapang Kuning)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keboan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungbogo (Kedung Bogo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngusikan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumbernongko (Sumber Nongko)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cupak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manunggal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngampel"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mojodanu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kromong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Asemgede (Asem Gede)"
+    }
   ]
 }

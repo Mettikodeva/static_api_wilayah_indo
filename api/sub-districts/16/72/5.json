@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Karang Dalo",
-    "Pelang Kenidai",
-    "Jokoh",
-    "Padang Temu",
-    "Candi Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karang Dalo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pelang Kenidai"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Jokoh"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Padang Temu"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Candi Jaya"
+    }
   ]
 }

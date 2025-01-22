@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Negera Kemakmuran (Negara Kemakmuran)",
-    "Bonglai Tengah (Bunglay Tengah / Bunglao)",
-    "Tanjung Harapan",
-    "Lubuk Rukam",
-    "Hibul/Ibul Jaya",
-    "Beringin Jaya",
-    "Gedung Makrifat",
-    "Gedung Raja",
-    "Gedung Negara",
-    "Tulung Buyut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negera Kemakmuran (Negara Kemakmuran)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bonglai Tengah (Bunglay Tengah / Bunglao)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Rukam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hibul/Ibul Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedung Makrifat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gedung Raja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gedung Negara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tulung Buyut"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kembahang",
-    "Negeri Ratu",
-    "Kegeringan",
-    "Gunung Sugih",
-    "Pekon Balak",
-    "Sukabumi",
-    "Canggu",
-    "Kota Besi",
-    "Sukaraja",
-    "Kerang",
-    "Teba Liyokh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kembahang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Negeri Ratu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kegeringan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Sugih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pekon Balak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukabumi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Canggu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kota Besi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kerang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teba Liyokh"
+    }
   ]
 }

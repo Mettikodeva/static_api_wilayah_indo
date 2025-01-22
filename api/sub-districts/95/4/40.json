@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Peyola",
-    "Kogotime",
-    "Gabunam",
-    "Gulak",
-    "Melaga",
-    "Ekoni",
-    "Minggen",
-    "Kandimbaga",
-    "Kinebe",
-    "Belela"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peyola"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kogotime"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gabunam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gulak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Melaga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ekoni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Minggen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kandimbaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kinebe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Belela"
+    }
   ]
 }

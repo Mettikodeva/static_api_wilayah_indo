@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lilinta",
-    "Gamta",
-    "Biga",
-    "Kapatcol",
-    "Magey"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lilinta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gamta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kapatcol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Magey"
+    }
   ]
 }

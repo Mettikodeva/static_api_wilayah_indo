@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Biuk",
-    "Guburini",
-    "Yiluk/Kondenggun",
-    "Yugu Mabur",
-    "Tomagipura",
-    "Yiyogobak/Kibur",
-    "Galubup",
-    "Mbinime/Jinulira",
-    "Wonabu",
-    "Tomagi/Gubagi",
-    "Purugi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Guburini"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yiluk/Kondenggun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yugu Mabur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tomagipura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yiyogobak/Kibur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Galubup"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mbinime/Jinulira"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wonabu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tomagi/Gubagi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purugi"
+    }
   ]
 }

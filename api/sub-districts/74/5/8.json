@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ranomeeto",
-    "Onewila",
-    "Boro-Boro R",
-    "Rambu-Rambu Jaya",
-    "Amoito",
-    "Ambaipua",
-    "Ranooha",
-    "Langgea",
-    "Kota Bangun",
-    "Laikaha",
-    "Duduria",
-    "Amoito Siama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ranomeeto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Onewila"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Boro-Boro R"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rambu-Rambu Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Amoito"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ambaipua"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ranooha"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Langgea"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kota Bangun"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Laikaha"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Duduria"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Amoito Siama"
+    }
   ]
 }

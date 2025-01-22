@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gamsungi",
-    "Gura",
-    "Wari",
-    "Kakara (Kakara A)",
-    "Kumo",
-    "Gosoma",
-    "Rawajaya",
-    "MKCM",
-    "Tagalaya",
-    "Wari Ino"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gamsungi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kakara (Kakara A)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kumo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gosoma"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rawajaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "MKCM"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tagalaya"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Wari Ino"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bawang",
-    "Banding Agung",
-    "Batu Raja",
-    "Sukajaya Pidada",
-    "Rusaba",
-    "Kota Jawa",
-    "Sukarame",
-    "Pagar Jaya",
-    "Pulau Legundi",
-    "Suka Maju",
-    "Bangun Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banding Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Raja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukajaya Pidada"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rusaba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Jawa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pagar Jaya"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pulau Legundi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bangun Rejo"
+    }
   ]
 }

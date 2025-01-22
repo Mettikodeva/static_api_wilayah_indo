@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Onan Hasang",
-    "Simasom",
-    "Janji Natogu (Janji Matogu)",
-    "Pagur Dotan (Pangurdotan)",
-    "Sibaganding",
-    "Lumban Garaga",
-    "Sitolu Ama (Sitoluama)",
-    "Lumban Tonga",
-    "Lumban Dolok",
-    "Simataniari",
-    "Lumban Jaean",
-    "Huta Barat",
-    "Lontung Dolok",
-    "Simanampang",
-    "Lobu Pining",
-    "Pantis",
-    "Lumban Gaol",
-    "Simardangiang",
-    "Simasom Toruan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Onan Hasang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simasom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Janji Natogu (Janji Matogu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagur Dotan (Pangurdotan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sibaganding"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lumban Garaga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sitolu Ama (Sitoluama)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lumban Tonga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lumban Dolok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simataniari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lumban Jaean"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Huta Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lontung Dolok"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Simanampang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lobu Pining"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pantis"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lumban Gaol"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Simardangiang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Simasom Toruan"
+    }
   ]
 }

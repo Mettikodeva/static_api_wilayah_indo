@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Tebet",
-    "Setiabudi (Setia Budi)",
-    "Mampang Prapatan",
-    "Pasar Minggu",
-    "Kebayoran Lama",
-    "Cilandak",
-    "Kebayoran Baru",
-    "Pancoran",
-    "Jagakarsa",
-    "Pesanggrahan"
+    {
+      "district_id": 1,
+      "kecamatan": "Tebet"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Setiabudi (Setia Budi)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mampang Prapatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pasar Minggu"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kebayoran Lama"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Cilandak"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kebayoran Baru"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pancoran"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Jagakarsa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pesanggrahan"
+    }
   ]
 }

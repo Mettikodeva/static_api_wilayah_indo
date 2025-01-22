@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kuala Mandor-B",
-    "Kubu Padi",
-    "Kuala Mandor A",
-    "Retok",
-    "Sungai Enau",
-    "Padi Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Mandor-B"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kubu Padi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuala Mandor A"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Retok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Enau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padi Jaya"
+    }
   ]
 }

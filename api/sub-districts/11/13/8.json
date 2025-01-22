@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pangur",
-    "Badak",
-    "Kendawi",
-    "Sangir",
-    "Panglima/Panglime Linting",
-    "Blangtemung",
-    "Rerebe",
-    "Uning Gelung",
-    "Uning Sepakat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Badak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kendawi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sangir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panglima/Panglime Linting"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blangtemung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rerebe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Uning Gelung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uning Sepakat"
+    }
   ]
 }

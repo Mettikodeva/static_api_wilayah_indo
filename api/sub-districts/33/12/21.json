@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jatipurno",
-    "Balepanjang",
-    "Giriyoso",
-    "Kopen",
-    "Jatipurwo",
-    "Tawangrejo",
-    "Slogoretno",
-    "Kembang",
-    "Girimulyo",
-    "Jeporo",
-    "Mangunharjo"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jatipurno"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Balepanjang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Giriyoso"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kopen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatipurwo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tawangrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Slogoretno"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kembang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Girimulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jeporo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mangunharjo"
+    }
   ]
 }

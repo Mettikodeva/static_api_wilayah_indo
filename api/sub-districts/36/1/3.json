@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mendung",
-    "Sudimanik",
-    "Curug",
-    "Cibingbin",
-    "Sukajadi",
-    "Mahendra",
-    "Cibaliung",
-    "Cihanjuang",
-    "Sorongan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mendung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sudimanik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibingbin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mahendra"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cibaliung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cihanjuang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sorongan"
+    }
   ]
 }

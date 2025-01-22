@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Balantak",
-    "Dale-Dale",
-    "Talang Batu",
-    "Talima A",
-    "Talima B",
-    "Dolom",
-    "Kiloma",
-    "Ra'u",
-    "Tanotu",
-    "Padang",
-    "Mamping",
-    "Luok",
-    "Boloak"
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Balantak"
+    },
+    {
+      "sub_district_id": 1030,
+      "desa_kelurahan": "Dale-Dale"
+    },
+    {
+      "sub_district_id": 1031,
+      "desa_kelurahan": "Talang Batu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talima A"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talima B"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dolom"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kiloma"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ra'u"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanotu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mamping"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Luok"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Boloak"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kedang Ipil",
-    "Sedulang",
-    "Benua Baru",
-    "Kota Bangun I",
-    "Kota Bangun II",
-    "Kota Bangun III",
-    "Sumber Sari",
-    "Sari Nadi (Sarinadi)",
-    "Suka Bumi (Sukabumi)",
-    "Wonosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedang Ipil"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sedulang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Benua Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kota Bangun I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Bangun II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Bangun III"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sari Nadi (Sarinadi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Bumi (Sukabumi)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonosari"
+    }
   ]
 }

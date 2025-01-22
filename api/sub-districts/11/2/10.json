@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Simpang Semadam",
-    "Semadam Awal",
-    "Semadam Asal",
-    "Lawe Kinga Gabungan",
-    "Lawe Kinga Tebing Tinggi",
-    "Kebun Sere",
-    "Lawe Beringin Horas",
-    "Lawe Berigin Gayo",
-    "Suka Makmur",
-    "Pasar Puntung",
-    "Titi Pasir",
-    "Lawe Petanduk I",
-    "Ngkeran Alur Buluh",
-    "Kampung Baru",
-    "Sepakat Segenap (Sepakat Segenep)",
-    "Selamat Indah",
-    "Lawe Kinge Lapter (Lawe Kinga Lapter)",
-    "Lawe Mejile (Lawe Menjilai)",
-    "Lawe Petanduk-II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Semadam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semadam Awal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semadam Asal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lawe Kinga Gabungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lawe Kinga Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebun Sere"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lawe Beringin Horas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lawe Berigin Gayo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasar Puntung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Titi Pasir"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lawe Petanduk I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngkeran Alur Buluh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sepakat Segenap (Sepakat Segenep)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Selamat Indah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lawe Kinge Lapter (Lawe Kinga Lapter)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lawe Mejile (Lawe Menjilai)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lawe Petanduk-II"
+    }
   ]
 }

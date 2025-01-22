@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Klapanunggal",
-    "Bojong",
-    "Nambo",
-    "Lulut",
-    "Cikahuripan",
-    "Kembang Kuning",
-    "Bantar Jati",
-    "Leuwikaret",
-    "Ligarmukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klapanunggal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nambo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lulut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cikahuripan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kembang Kuning"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bantar Jati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Leuwikaret"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ligarmukti"
+    }
   ]
 }

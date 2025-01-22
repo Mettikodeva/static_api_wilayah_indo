@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukalarang",
-    "Sukamaju",
-    "Cimangkok",
-    "Titisan",
-    "Semplak",
-    "Prianganjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukalarang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cimangkok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Titisan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semplak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Prianganjaya"
+    }
   ]
 }

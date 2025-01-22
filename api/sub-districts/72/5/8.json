@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Biau",
-    "Bungkudu",
-    "Rantemaranu",
-    "Winangun",
-    "Modo I (Modo)",
-    "Unone",
-    "Mopu",
-    "Diat",
-    "Potangoan",
-    "Binuang",
-    "Yugut",
-    "Mooyong",
-    "Mulat",
-    "Bukal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bungkudu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rantemaranu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Winangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Modo I (Modo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Unone"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mopu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Diat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Potangoan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Binuang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yugut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mooyong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mulat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bukal"
+    }
   ]
 }

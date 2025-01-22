@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Golo Poleng",
-    "Tentang",
-    "Raka",
-    "Kasong",
-    "Ndoso",
-    "Waning",
-    "Wae Buka",
-    "Momol",
-    "Lumut",
-    "Pong Narang",
-    "Golo Bore",
-    "Pateng Lesuh",
-    "Tehong",
-    "Golo Ru'a",
-    "Golo Keli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Golo Poleng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tentang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kasong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ndoso"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waning"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wae Buka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Momol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lumut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pong Narang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Golo Bore"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pateng Lesuh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tehong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Golo Ru'a"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Golo Keli"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Parung",
-    "Iwul",
-    "Bojongsempu (Bojong Sempu)",
-    "Waru",
-    "Cogreg",
-    "Pamegarsari (Pamagersari)",
-    "Warujaya",
-    "Bojongindah (Bojong Indah)",
-    "Jabonmekar (Jabon Mekar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Iwul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongsempu (Bojong Sempu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cogreg"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pamegarsari (Pamagersari)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Warujaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojongindah (Bojong Indah)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jabonmekar (Jabon Mekar)"
+    }
   ]
 }

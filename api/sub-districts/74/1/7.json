@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dawi-Dawi",
-    "Pomalaa",
-    "Tonggoni",
-    "Kumoro",
-    "Huko Huko",
-    "Pelambua",
-    "Tambea",
-    "Sopura",
-    "Pesouha",
-    "Totobo",
-    "Oko Oko",
-    "Hakatutobu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dawi-Dawi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pomalaa"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tonggoni"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kumoro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Huko Huko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelambua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambea"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sopura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pesouha"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Totobo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Oko Oko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hakatutobu"
+    }
   ]
 }

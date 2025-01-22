@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Pantai Hambawang Barat",
-    "Mahang Baru",
-    "Mundar",
-    "Tabudarat Hilir",
-    "Tabudarat Hulu",
-    "Pantai Hambawang Timur",
-    "Banua Kepayang (Benua Kepayang)",
-    "Ta'al (Taal)",
-    "Durian Gantang",
-    "Guha",
-    "Bangkal",
-    "Panggang Marak",
-    "Jamil",
-    "Taras Padang",
-    "Murung Ta'al (Murung Taal)",
-    "Sei/Sungai Rangas",
-    "Batang Bahalang",
-    "Sei/Sungai Jaranih"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pantai Hambawang Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mahang Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mundar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tabudarat Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabudarat Hulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pantai Hambawang Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banua Kepayang (Benua Kepayang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ta'al (Taal)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Durian Gantang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Guha"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangkal"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Panggang Marak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jamil"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Taras Padang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Murung Ta'al (Murung Taal)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sei/Sungai Rangas"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batang Bahalang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sei/Sungai Jaranih"
+    }
   ]
 }

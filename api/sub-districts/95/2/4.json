@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Iwur",
-    "Kurukim (Kurumkim/Kurumklin)",
-    "Walapkubun",
-    "Dinmot Arim",
-    "Ewenkatop",
-    "Ulkubi",
-    "Dipol",
-    "Nenginum",
-    "Narnger",
-    "Kamyoim"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Iwur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kurukim (Kurumkim/Kurumklin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Walapkubun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dinmot Arim"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ewenkatop"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ulkubi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dipol"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Nenginum"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Narnger"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kamyoim"
+    }
   ]
 }

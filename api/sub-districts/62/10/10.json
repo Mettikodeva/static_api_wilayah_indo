@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tumbang Rahuyan",
-    "Jangkit",
-    "Tumbang Lapan",
-    "Batu Puter",
-    "Sei/Sungai Antai",
-    "Hantapang",
-    "Sangal (Sanggal)",
-    "Tumbang Tue / Tuwe",
-    "Tumbang Mujai"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tumbang Rahuyan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jangkit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Lapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Puter"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Antai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hantapang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sangal (Sanggal)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Tue / Tuwe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tumbang Mujai"
+    }
   ]
 }

@@ -1,31 +1,112 @@
 {
   "districts": [
-    "Ciamis",
-    "Cikoneng",
-    "Cijeungjing",
-    "Sadananya",
-    "Cidolog",
-    "Cihaurbeuti",
-    "Panumbangan",
-    "Panjalu",
-    "Kawali",
-    "Panawangan",
-    "Cipaku",
-    "Jatinagara",
-    "Rajadesa",
-    "Sukadana",
-    "Rancah",
-    "Tambaksari",
-    "Lakbok",
-    "Banjarsari",
-    "Pamarican",
-    "Cimaragas",
-    "Cisaga",
-    "Sindangkasih",
-    "Baregbeg",
-    "Sukamantri",
-    "Lumbung",
-    "Purwadadi",
-    "Banjaranyar"
+    {
+      "district_id": 1,
+      "kecamatan": "Ciamis"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Cikoneng"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Cijeungjing"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sadananya"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cidolog"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Cihaurbeuti"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Panumbangan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Panjalu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kawali"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Panawangan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Cipaku"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Jatinagara"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Rajadesa"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sukadana"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Rancah"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tambaksari"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Lakbok"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Banjarsari"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Pamarican"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Cimaragas"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Cisaga"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Sindangkasih"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Baregbeg"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Sukamantri"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Lumbung"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Purwadadi"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Banjaranyar"
+    }
   ]
 }

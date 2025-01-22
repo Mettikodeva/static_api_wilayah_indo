@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Balearjosari",
-    "Arjosari",
-    "Polowijen",
-    "Purwodadi",
-    "Blimbing",
-    "Pandanwangi",
-    "Purwantoro",
-    "Bunulrejo",
-    "Kesatrian",
-    "Polehan",
-    "Jodipan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Balearjosari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Arjosari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Polowijen"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Blimbing"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pandanwangi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Purwantoro"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bunulrejo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kesatrian"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Polehan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Jodipan"
+    }
   ]
 }

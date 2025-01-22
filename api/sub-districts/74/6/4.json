@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lameroro",
-    "Lampopala",
-    "Doule",
-    "Kasipute",
-    "Lanto Wonua (Lantawonua)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lameroro"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lampopala"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Doule"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kasipute"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lanto Wonua (Lantawonua)"
+    }
   ]
 }

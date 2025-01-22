@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Eraduman",
-    "Alemsom",
-    "Tapasik",
-    "Payol Masumkon",
-    "Tapob",
-    "Bakwalin Yub",
-    "Imiryi",
-    "Sumtamon",
-    "Bondik",
-    "Muruman",
-    "Binalkom",
-    "Tibal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Eraduman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alemsom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tapasik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Payol Masumkon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tapob"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakwalin Yub"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Imiryi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumtamon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bondik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muruman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Binalkom"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tibal"
+    }
   ]
 }

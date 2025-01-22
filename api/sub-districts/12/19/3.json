@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Indrapura",
-    "Indrasakti",
-    "Limau Sundai",
-    "Pematang Panjang",
-    "Sukaraja",
-    "Tanah Tinggi",
-    "Tanjungmuda (Tanjung Muda)",
-    "Tanah Merah",
-    "Aras",
-    "Pasar Lapan",
-    "Sipare-Pare",
-    "Tanjungkubah (Tanjung Kubah)",
-    "Tanjungharapan (Tanjung Harapan)",
-    "Suka Ramai",
-    "Tanah Rendah",
-    "Tanjungmulya",
-    "Titi Payung",
-    "Perkotaan",
-    "Kampung Kelapa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Indrapura"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Indrasakti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Limau Sundai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pematang Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanah Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungmuda (Tanjung Muda)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aras"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasar Lapan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sipare-Pare"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjungkubah (Tanjung Kubah)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungharapan (Tanjung Harapan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Ramai"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanah Rendah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjungmulya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Titi Payung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Perkotaan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kampung Kelapa"
+    }
   ]
 }

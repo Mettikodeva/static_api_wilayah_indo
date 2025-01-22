@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Aisandami",
-    "Sobei (Sobey)",
-    "Yopanggar (Yopengar)",
-    "Sobey Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aisandami"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sobei (Sobey)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yopanggar (Yopengar)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sobey Indah"
+    }
   ]
 }

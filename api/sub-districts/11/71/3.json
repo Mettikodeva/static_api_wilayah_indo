@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Punge Jurong",
-    "Ulee Lheue",
-    "Lambung",
-    "Deyah Gelumpang (Deah Glumpang)",
-    "Deyah Baro (Deah Baro)",
-    "Alue Deah Teungoh (Alue Deyah Tengoh)",
-    "Lampaseh Aceh",
-    "Blang Oi",
-    "Asoe Nanggroe (Asoi Nanggro)",
-    "Gampong Blang",
-    "Gampong Pie",
-    "Lamjabat",
-    "Cot Lamkuweuh (Cot Lamkuweueh)",
-    "Surien",
-    "Gampong Baro",
-    "Punge Ujong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Punge Jurong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ulee Lheue"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lambung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Deyah Gelumpang (Deah Glumpang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Deyah Baro (Deah Baro)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alue Deah Teungoh (Alue Deyah Tengoh)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lampaseh Aceh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blang Oi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Asoe Nanggroe (Asoi Nanggro)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gampong Blang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gampong Pie"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lamjabat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cot Lamkuweuh (Cot Lamkuweueh)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Surien"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gampong Baro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Punge Ujong"
+    }
   ]
 }

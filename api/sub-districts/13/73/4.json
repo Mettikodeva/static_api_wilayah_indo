@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Talawi Hilie (Talawi Hilir / Hilia)",
-    "Talawi Mudik/Mudiak",
-    "Bukit Gadang (Bukik Gadang)",
-    "Batu Tanjung (Batu Tanjuang)",
-    "Kumbayau",
-    "Tumpuk Tangah (Tumpuak Tangah)",
-    "Data Mansiang (Datar Mansiang)",
-    "Sijantang Koto",
-    "Salak",
-    "Sikalang",
-    "Rantih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talawi Hilie (Talawi Hilir / Hilia)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talawi Mudik/Mudiak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Gadang (Bukik Gadang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Tanjung (Batu Tanjuang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumbayau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumpuk Tangah (Tumpuak Tangah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Data Mansiang (Datar Mansiang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sijantang Koto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Salak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sikalang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rantih"
+    }
   ]
 }

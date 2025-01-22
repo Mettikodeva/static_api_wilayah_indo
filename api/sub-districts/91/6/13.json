@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Asur",
-    "Bosnabraidi",
-    "Wasori",
-    "Syor (Soor / Sor)",
-    "Karmon",
-    "Yawosi (Fanindi)",
-    "Madirai",
-    "Indawi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Asur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bosnabraidi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wasori"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Syor (Soor / Sor)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karmon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yawosi (Fanindi)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Madirai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Indawi"
+    }
   ]
 }

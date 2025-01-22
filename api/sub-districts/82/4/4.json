@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Doro",
-    "Koititi",
-    "Cango",
-    "Saketa",
-    "Balitata",
-    "Oha",
-    "Papaceda",
-    "Lemo Lemo",
-    "Bumi Rahmat",
-    "Tabamasa"
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Doro"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Koititi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cango"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Saketa"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Balitata"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Oha"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Papaceda"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lemo Lemo"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Bumi Rahmat"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tabamasa"
+    }
   ]
 }

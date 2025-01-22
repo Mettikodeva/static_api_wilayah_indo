@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Rejowinangun Selatan",
-    "Magersari",
-    "Jurangombo Utara",
-    "Jurangombo Selatan",
-    "Tidar Utara",
-    "Tidar Selatan"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rejowinangun Selatan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Magersari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Jurangombo Utara"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Jurangombo Selatan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tidar Utara"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tidar Selatan"
+    }
   ]
 }

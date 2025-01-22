@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Aboru",
-    "Wassu",
-    "Oma",
-    "Haruku",
-    "Sameth",
-    "Rohomoni",
-    "Kabauw (Kabau)",
-    "Kailolo",
-    "Pelauw",
-    "Kariu (Kariuw)",
-    "Hulaliu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aboru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wassu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Haruku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sameth"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rohomoni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kabauw (Kabau)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kailolo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelauw"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kariu (Kariuw)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hulaliu"
+    }
   ]
 }

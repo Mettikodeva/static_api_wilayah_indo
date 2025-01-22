@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Tirawuta",
-    "Loea",
-    "Ladongi",
-    "Poli Polia",
-    "Lambandia",
-    "Lalolae",
-    "Mowewe",
-    "Uluiwoi",
-    "Tinondo",
-    "Aere",
-    "Ueesi",
-    "Dangia"
+    {
+      "district_id": 1,
+      "kecamatan": "Tirawuta"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Loea"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ladongi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Poli Polia"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lambandia"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lalolae"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mowewe"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Uluiwoi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tinondo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Aere"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ueesi"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Dangia"
+    }
   ]
 }

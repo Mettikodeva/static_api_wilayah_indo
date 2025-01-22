@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Selerong",
-    "Tanjung Harapan",
-    "Beloro",
-    "Sebulu Ulu",
-    "Sebulu Ilir",
-    "Segihan",
-    "Sumber Sari",
-    "Manunggal Daya",
-    "Giri Agung",
-    "Senoni",
-    "Sebulu Moderen (Sebulu Modern)",
-    "Sanggulan",
-    "Lekaq Kidau",
-    "Mekar Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selerong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beloro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sebulu Ulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebulu Ilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Segihan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manunggal Daya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Giri Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Senoni"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sebulu Moderen (Sebulu Modern)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sanggulan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lekaq Kidau"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekar Jaya"
+    }
   ]
 }

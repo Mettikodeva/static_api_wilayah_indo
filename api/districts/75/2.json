@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Paguyaman",
-    "Wonosari",
-    "Dulupi",
-    "Tilamuta",
-    "Mananggu",
-    "Botumoito (Botumoita)",
-    "Paguyaman Pantai"
+    {
+      "district_id": 1,
+      "kecamatan": "Paguyaman"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Wonosari"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Dulupi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tilamuta"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Mananggu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Botumoito (Botumoita)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Paguyaman Pantai"
+    }
   ]
 }

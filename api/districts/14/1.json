@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Bangkinang Kota",
-    "Kampar",
-    "Tambang",
-    "XIII Koto Kampar",
-    "Kuok",
-    "Siak Hulu",
-    "Kampar Kiri",
-    "Kampar Kiri Hilir",
-    "Kampar Kiri Hulu",
-    "Tapung",
-    "Tapung Hilir",
-    "Tapung Hulu",
-    "Salo",
-    "Rumbio Jaya",
-    "Bangkinang",
-    "Perhentian Raja",
-    "Kampa (Kampar Timur)",
-    "Kampar Utara",
-    "Kampar Kiri Tengah",
-    "Gunung Sahilan",
-    "Koto Kampar Hulu"
+    {
+      "district_id": 1,
+      "kecamatan": "Bangkinang Kota"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kampar"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tambang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "XIII Koto Kampar"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kuok"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Siak Hulu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kampar Kiri"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kampar Kiri Hilir"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kampar Kiri Hulu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tapung"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tapung Hilir"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tapung Hulu"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Salo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Rumbio Jaya"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bangkinang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Perhentian Raja"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kampa (Kampar Timur)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kampar Utara"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kampar Kiri Tengah"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Gunung Sahilan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Koto Kampar Hulu"
+    }
   ]
 }

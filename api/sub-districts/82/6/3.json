@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bicoli",
-    "Waci",
-    "Pateley (Petelei)",
-    "Loleo Lamo (Loloelamo)",
-    "Gotowasi",
-    "Kasuba",
-    "Momole",
-    "Sil",
-    "Sowoli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bicoli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waci"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pateley (Petelei)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Loleo Lamo (Loloelamo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gotowasi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kasuba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Momole"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sil"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sowoli"
+    }
   ]
 }

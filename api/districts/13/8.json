@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Bonjol",
-    "Lubuk Sikaping",
-    "Panti",
-    "Mapat Tunggul",
-    "Duo Koto",
-    "Tigo Nagari",
-    "Rao",
-    "Mapat Tunggul Selatan",
-    "Simpang Alahan Mati",
-    "Padang Gelugur",
-    "Rao Utara",
-    "Rao Selatan"
+    {
+      "district_id": 4,
+      "kecamatan": "Bonjol"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lubuk Sikaping"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Panti"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mapat Tunggul"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Duo Koto"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tigo Nagari"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Rao"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Mapat Tunggul Selatan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Simpang Alahan Mati"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Padang Gelugur"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Rao Utara"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Rao Selatan"
+    }
   ]
 }

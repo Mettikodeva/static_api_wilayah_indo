@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kawangu",
-    "Watumbaka",
-    "Kambatatana (Kambata Tana)",
-    "Palaka Hembi (Palakahembi)",
-    "Kadumbul",
-    "Maubokul",
-    "Laindeha"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kawangu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Watumbaka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kambatatana (Kambata Tana)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Palaka Hembi (Palakahembi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kadumbul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maubokul"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Laindeha"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tonsawang",
-    "Betelan",
-    "Tombatu Satu",
-    "Kali",
-    "Pisa",
-    "Tombatu",
-    "Betelan Satu",
-    "Kali Oki",
-    "Tombatu Tiga Selatan",
-    "Tombatu Tiga Timur",
-    "Tonsawang Satu"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tonsawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Betelan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tombatu Satu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kali"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pisa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tombatu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Betelan Satu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kali Oki"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tombatu Tiga Selatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tombatu Tiga Timur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tonsawang Satu"
+    }
   ]
 }

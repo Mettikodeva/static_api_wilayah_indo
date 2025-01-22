@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bodas",
-    "Gadel",
-    "Rancajawat",
-    "Kerticala",
-    "Cangko",
-    "Karangkerta",
-    "Sukamulya",
-    "Mekarsari",
-    "Lajer",
-    "Tukdana",
-    "Sukadana",
-    "Pagedangan",
-    "Sukaperna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bodas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gadel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rancajawat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kerticala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cangko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangkerta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lajer"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tukdana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pagedangan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukaperna"
+    }
   ]
 }

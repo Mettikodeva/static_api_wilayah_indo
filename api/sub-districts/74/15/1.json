@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Busoa",
-    "Laompo",
-    "Masiri",
-    "Majapahit",
-    "Lakambau",
-    "Molagina",
-    "Bandar Batauga",
-    "Lawela",
-    "Bola",
-    "Poogalampa",
-    "Lawela Selatan",
-    "Lampanairi"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Busoa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Laompo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Masiri"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Majapahit"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lakambau"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Molagina"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bandar Batauga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lawela"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bola"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Poogalampa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lawela Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lampanairi"
+    }
   ]
 }

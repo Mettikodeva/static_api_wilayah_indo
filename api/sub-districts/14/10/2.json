@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Segomeng",
-    "Bantar",
-    "Anak Setatah",
-    "Lemang",
-    "Bokor",
-    "Sungai Cina",
-    "Melai",
-    "Telaga Baru",
-    "Bina Maju",
-    "Sialang Pasung",
-    "Permai",
-    "Mekar Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Segomeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bantar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Anak Setatah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lemang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bokor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Cina"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Melai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Telaga Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bina Maju"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sialang Pasung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Permai"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mekar Baru"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Golo Lewe",
-    "Tueng",
-    "Sompang Kolang",
-    "Wajur",
-    "Kolang",
-    "Golo Riwu",
-    "Compang Kules",
-    "Tengku",
-    "Golo Wedong",
-    "Ranggu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Golo Lewe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tueng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sompang Kolang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wajur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kolang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Golo Riwu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Compang Kules"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tengku"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Golo Wedong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ranggu"
+    }
   ]
 }

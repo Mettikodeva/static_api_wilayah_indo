@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kelapa",
-    "Mancung",
-    "Kayu Arang (Kayuarang)",
-    "Pusuk",
-    "Dendang",
-    "Kacung",
-    "Sinar Sari",
-    "Beruas",
-    "Tebing",
-    "Terentang",
-    "Tuik",
-    "Tugang",
-    "Air Bulin",
-    "Pangkal Beras"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kelapa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mancung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayu Arang (Kayuarang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pusuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dendang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kacung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinar Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beruas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tebing"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Terentang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tuik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tugang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Air Bulin"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pangkal Beras"
+    }
   ]
 }

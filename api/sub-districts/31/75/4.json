@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kramatjati (Kramat Jati)",
-    "Tengah (Kampung Tengah)",
-    "Dukuh",
-    "Batu Ampar (Batuampar)",
-    "Balekambang",
-    "Cililitan",
-    "Cawang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kramatjati (Kramat Jati)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tengah (Kampung Tengah)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Batu Ampar (Batuampar)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Balekambang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cililitan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cawang"
+    }
   ]
 }

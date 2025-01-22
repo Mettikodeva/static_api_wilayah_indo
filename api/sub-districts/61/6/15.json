@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Perigi",
-    "Baru",
-    "Pangeran",
-    "Miau Merah",
-    "Setunggul",
-    "Sei/Sungai Sena",
-    "Penai",
-    "Nanga Nuar",
-    "Bongkong",
-    "Seberu",
-    "Sentabai",
-    "Rumbih",
-    "Bukit Penai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perigi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangeran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Miau Merah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Setunggul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Sena"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nanga Nuar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bongkong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seberu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sentabai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rumbih"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukit Penai"
+    }
   ]
 }

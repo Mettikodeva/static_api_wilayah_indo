@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ulu Galung (Ulugalung)",
-    "Lonrong",
-    "Barua",
-    "Kampala",
-    "Pa'bentengan",
-    "Mappilawing",
-    "Pa'bumbungang",
-    "Mamampang",
-    "Parang Loe (Parangloe)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ulu Galung (Ulugalung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lonrong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pa'bentengan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mappilawing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pa'bumbungang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mamampang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Parang Loe (Parangloe)"
+    }
   ]
 }

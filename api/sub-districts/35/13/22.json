@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sumberkare",
-    "Patalan",
-    "Jrebeng",
-    "Wonorejo",
-    "Tunggakcerme (Tunggak Cerme)",
-    "Pohsangit Tengah",
-    "Pohsangit Lor",
-    "Pohsangit Ngisor",
-    "Sepuhgembol (Sepuh Gempol)",
-    "Kareng Kidul",
-    "Kedungsupit (Kedung Supit)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberkare"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Patalan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jrebeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunggakcerme (Tunggak Cerme)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pohsangit Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pohsangit Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pohsangit Ngisor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sepuhgembol (Sepuh Gempol)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kareng Kidul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedungsupit (Kedung Supit)"
+    }
   ]
 }

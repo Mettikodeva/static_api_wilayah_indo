@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Bambalamotu",
-    "Pasangkayu",
-    "Baras",
-    "Sarudu",
-    "Dapurang",
-    "Duripoku",
-    "Bulu Taba",
-    "Tikke Raya",
-    "Pedongga",
-    "Bambaira",
-    "Sarjo",
-    "Lariang"
+    {
+      "district_id": 1,
+      "kecamatan": "Bambalamotu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pasangkayu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Baras"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sarudu"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Dapurang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Duripoku"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bulu Taba"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tikke Raya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pedongga"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bambaira"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sarjo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lariang"
+    }
   ]
 }

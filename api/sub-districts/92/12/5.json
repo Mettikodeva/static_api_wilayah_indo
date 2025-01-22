@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Iranmeba",
-    "Cirnohu",
-    "Dibetik",
-    "Danmou",
-    "Miseda",
-    "Sirgemeh",
-    "Sneremer",
-    "Kusmenau",
-    "Cigera",
-    "Tomstir",
-    "Gedeira",
-    "Demdamei",
-    "Dugrimog",
-    "Disra"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Iranmeba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cirnohu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dibetik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Danmou"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Miseda"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sirgemeh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sneremer"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kusmenau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cigera"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tomstir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gedeira"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Demdamei"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dugrimog"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Disra"
+    }
   ]
 }

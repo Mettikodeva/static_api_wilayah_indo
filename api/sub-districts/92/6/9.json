@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tembuni",
-    "Mogoi Baru",
-    "Araisum",
-    "Bangun Mulya (Bangun Mulyo / Mulia)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tembuni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mogoi Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Araisum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangun Mulya (Bangun Mulyo / Mulia)"
+    }
   ]
 }

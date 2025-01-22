@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Simego",
-    "Gumelem",
-    "Tlogohendro",
-    "Yosorejo",
-    "Curugmuncar",
-    "Songgodadi",
-    "Tlogopakis",
-    "Kasimpar",
-    "Kayupuring"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simego"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gumelem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tlogohendro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yosorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Curugmuncar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Songgodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tlogopakis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kasimpar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kayupuring"
+    }
   ]
 }

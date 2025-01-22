@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kefamenanu Utara",
-    "Aplasi",
-    "Kefamenanu Tengah",
-    "Bansone",
-    "Benpasi",
-    "Kefamenanu Selatan",
-    "Tubuhue",
-    "Maubeli",
-    "Sasi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kefamenanu Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Aplasi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kefamenanu Tengah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bansone"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Benpasi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kefamenanu Selatan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tubuhue"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Maubeli"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sasi"
+    }
   ]
 }

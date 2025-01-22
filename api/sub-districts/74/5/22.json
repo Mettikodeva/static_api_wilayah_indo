@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Amokuni",
-    "Sindang Kasih",
-    "Jati Bali",
-    "Laikandonga",
-    "Boro-Boro Lameuru",
-    "Opaasi",
-    "Lameruru (Lameuru)",
-    "Ambeko (Abeko)",
-    "Tunduno"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Amokuni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindang Kasih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jati Bali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laikandonga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Boro-Boro Lameuru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Opaasi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lameruru (Lameuru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ambeko (Abeko)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tunduno"
+    }
   ]
 }

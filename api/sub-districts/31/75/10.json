@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cipayung",
-    "Cilangkap",
-    "Pondok Ranggon (Pondok Rangon)",
-    "Munjul",
-    "Setu",
-    "Bambu Apus",
-    "Lubang Buaya",
-    "Ceger"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cipayung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cilangkap"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pondok Ranggon (Pondok Rangon)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Munjul"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Setu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bambu Apus"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lubang Buaya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Ceger"
+    }
   ]
 }

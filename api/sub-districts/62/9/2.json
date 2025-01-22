@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kudangan",
-    "Riam Panahan (Riam Penahan)",
-    "Sepoyu (Sepoyo)",
-    "Nyalang",
-    "Riam Tinggi",
-    "Landau Kantu",
-    "Lopus",
-    "Kubung",
-    "Sekombulan",
-    "Penyombaan (Penyobaan)",
-    "Hulu Jojabo"
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Kudangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Riam Panahan (Riam Penahan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sepoyu (Sepoyo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nyalang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Riam Tinggi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Landau Kantu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lopus"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kubung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sekombulan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Penyombaan (Penyobaan)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Hulu Jojabo"
+    }
   ]
 }

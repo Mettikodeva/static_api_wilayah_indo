@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Makata Keri",
-    "Kabela Wuntu",
-    "Mata Woga",
-    "Umbu Riri",
-    "Anakalang",
-    "Dewa Jara",
-    "Mata Redi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Makata Keri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kabela Wuntu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mata Woga"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Umbu Riri"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Anakalang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Dewa Jara"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Mata Redi"
+    }
   ]
 }

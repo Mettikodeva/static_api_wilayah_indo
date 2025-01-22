@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Telap",
-    "Watumea",
-    "Eris",
-    "Maumbi",
-    "Tandengan",
-    "Ranomerut",
-    "Touliang Oki",
-    "Tandengan Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Telap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Watumea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Eris"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maumbi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tandengan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ranomerut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Touliang Oki"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tandengan Satu"
+    }
   ]
 }

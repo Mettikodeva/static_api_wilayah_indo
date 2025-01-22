@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mayangan",
-    "Mangunharjo",
-    "Jati",
-    "Sukabumi",
-    "Wiroborang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mayangan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mangunharjo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukabumi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Wiroborang"
+    }
   ]
 }

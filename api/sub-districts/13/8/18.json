@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Koto Nopan",
-    "Koto Rajo",
-    "Languang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Nopan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Rajo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Languang"
+    }
   ]
 }

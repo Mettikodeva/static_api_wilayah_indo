@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Mandati II",
-    "Mandati I",
-    "Mandati III",
-    "Kapota",
-    "Komala",
-    "Wungka",
-    "Matahora (Metohora)",
-    "Kabita",
-    "Mola Utara",
-    "Mola Selatan",
-    "Numana",
-    "Liya Mawi (Liyamawi)",
-    "Liya Togo",
-    "Kapota Utara",
-    "Kabita Togo",
-    "Liya Onemaelangka",
-    "Wisata Kolo (Wisata Koto)",
-    "Mola Samaturu",
-    "Mola Bahari",
-    "Mola Nelayan Bhakti",
-    "Liya Bahari Indah"
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Mandati II"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Mandati I"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Mandati III"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kapota"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Komala"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wungka"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Matahora (Metohora)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kabita"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mola Utara"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mola Selatan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Numana"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Liya Mawi (Liyamawi)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Liya Togo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kapota Utara"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kabita Togo"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Liya Onemaelangka"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Wisata Kolo (Wisata Koto)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Mola Samaturu"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Mola Bahari"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Mola Nelayan Bhakti"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Liya Bahari Indah"
+    }
   ]
 }

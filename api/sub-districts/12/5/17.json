@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sei Bilah (Sei Bilah Barat)",
-    "Alur Dua",
-    "Alur Dua Baru",
-    "Harapan Jaya",
-    "Sei Bilah Timur",
-    "Puraka I (Puraka I Pertamina)",
-    "Puraka II",
-    "Lama",
-    "Telaga Said",
-    "Lama Baru",
-    "Mekar Makmur",
-    "Harapan Baru",
-    "Harapan Maju",
-    "Harapan Makmur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sei Bilah (Sei Bilah Barat)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Alur Dua"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Alur Dua Baru"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sei Bilah Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puraka I (Puraka I Pertamina)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Puraka II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telaga Said"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lama Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekar Makmur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Harapan Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Harapan Maju"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Harapan Makmur"
+    }
   ]
 }

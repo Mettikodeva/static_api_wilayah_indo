@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lalonggombu",
-    "Watumeeto",
-    "Pamandati",
-    "Pangan Jaya",
-    "Aoroo (Aoreo)",
-    "Kaindi",
-    "Matabubu Jaya",
-    "Lainea",
-    "Molinese",
-    "Polewali",
-    "Bangun Jaya",
-    "Kalo-kalo"
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lalonggombu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Watumeeto"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pamandati"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pangan Jaya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Aoroo (Aoreo)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kaindi"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Matabubu Jaya"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lainea"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Molinese"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Polewali"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kalo-kalo"
+    }
   ]
 }

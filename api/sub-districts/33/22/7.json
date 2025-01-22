@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gedong",
-    "Kebumen",
-    "Sepakung",
-    "Wirogomo",
-    "Kemambang",
-    "Tegaron",
-    "Rowoboni",
-    "Kebondowo",
-    "Banyubiru",
-    "Ngrapah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gedong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kebumen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sepakung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wirogomo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemambang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegaron"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rowoboni"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kebondowo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banyubiru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngrapah"
+    }
   ]
 }

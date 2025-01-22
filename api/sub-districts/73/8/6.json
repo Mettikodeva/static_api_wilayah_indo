@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Tanah Batue (Tanabatue)",
-    "Ceppaga",
-    "Tompo Bulu (Tompobulu)",
-    "Tappale",
-    "Polewali",
-    "Pitumpidange",
-    "Bune",
-    "Swadaya",
-    "Binuang",
-    "Mallinrung",
-    "Baringeng",
-    "Mario",
-    "Wanuawaru",
-    "Mattirowalie (Mattiro Walie)",
-    "Poleonro",
-    "Matirro Bulu (Mattiro Bulu)",
-    "Matirrodeceng (Mattiro Deceng)",
-    "Suwa",
-    "Laburasseng (Laburasse)",
-    "Ponre-Ponre"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Batue (Tanabatue)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ceppaga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tompo Bulu (Tompobulu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tappale"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Polewali"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pitumpidange"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bune"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Swadaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Binuang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mallinrung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baringeng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mario"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wanuawaru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mattirowalie (Mattiro Walie)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Poleonro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Matirro Bulu (Mattiro Bulu)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Matirrodeceng (Mattiro Deceng)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Suwa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Laburasseng (Laburasse)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ponre-Ponre"
+    }
   ]
 }

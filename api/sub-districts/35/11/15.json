@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Solor",
-    "Kladi",
-    "Bercak",
-    "Suling Wetan",
-    "Suling Kulon",
-    "Cermee",
-    "Ramban Wetan",
-    "Grujugan",
-    "Ramban Kulon",
-    "Bajuran",
-    "Jirek Mas",
-    "Batu Salang",
-    "Palalangan (Pelalangan)",
-    "Batu Ampar",
-    "Bercak Asri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Solor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kladi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bercak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suling Wetan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suling Kulon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cermee"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ramban Wetan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Grujugan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ramban Kulon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bajuran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jirek Mas"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batu Salang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Palalangan (Pelalangan)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bercak Asri"
+    }
   ]
 }

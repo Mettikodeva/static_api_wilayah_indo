@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kartoharjo (Kertoharjo)",
-    "Mrahu",
-    "Klurahan",
-    "Pencol",
-    "Sukowidi",
-    "Ngelang",
-    "Jajar",
-    "Gunungan",
-    "Jeruk",
-    "Bayemwetan (Bayem Wetan)",
-    "Bayemtaman (Bayem Taman)",
-    "Karangmojo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kartoharjo (Kertoharjo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mrahu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klurahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pencol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukowidi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngelang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jajar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jeruk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bayemwetan (Bayem Wetan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bayemtaman (Bayem Taman)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangmojo"
+    }
   ]
 }

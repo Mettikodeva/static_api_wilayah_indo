@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Oelbubuk",
-    "Nekemunifeto (Neke Manifeto)",
-    "Binaus",
-    "Oel'ekam",
-    "Kualeu",
-    "Pika"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oelbubuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nekemunifeto (Neke Manifeto)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Binaus"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oel'ekam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kualeu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pika"
+    }
   ]
 }

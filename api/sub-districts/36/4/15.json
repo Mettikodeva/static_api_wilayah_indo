@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cikande",
-    "Leuwi Limus (Leuwilimus)",
-    "Nambo Udik",
-    "Parigi",
-    "Koper",
-    "Bakung",
-    "Julang",
-    "Sukatani",
-    "Situterate",
-    "Kamurang",
-    "Gembor Udik",
-    "Songgomjaya (Songgom Jaya)",
-    "Cikande Permai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikande"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Leuwi Limus (Leuwilimus)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nambo Udik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parigi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koper"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Julang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Situterate"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kamurang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gembor Udik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Songgomjaya (Songgom Jaya)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cikande Permai"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Dusun Kebon/Kebun",
-    "Sri Agung",
-    "Suban",
-    "Tanjungbojo (Tanjung Bojo)",
-    "Kampung Baru",
-    "Lubuk Bernai",
-    "Rawamedang (Rawa Medang)",
-    "Sungaipenoban (Sungai Penoban)",
-    "Rawangkempas (Rawang Kempas)",
-    "Lubuk Lawas",
-    "Sungaibadar (Sungai Badar)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dusun Kebon/Kebun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sri Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suban"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungbojo (Tanjung Bojo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Bernai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawamedang (Rawa Medang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaipenoban (Sungai Penoban)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rawangkempas (Rawang Kempas)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubuk Lawas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungaibadar (Sungai Badar)"
+    }
   ]
 }

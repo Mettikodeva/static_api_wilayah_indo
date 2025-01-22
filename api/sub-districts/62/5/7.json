@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jingah",
-    "Jambu",
-    "Liang Naga",
-    "Sabuh",
-    "Hajak",
-    "Malawaken",
-    "Sikui",
-    "Panaen",
-    "Liang Buah (Liangbuah)",
-    "Gandring"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jingah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Liang Naga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sabuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hajak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malawaken"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sikui"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panaen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Liang Buah (Liangbuah)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gandring"
+    }
   ]
 }

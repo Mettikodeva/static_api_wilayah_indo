@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Komba-Komba",
-    "Kabangka",
-    "Wakobulu Agung (Wakobalu Agung)",
-    "Lupia",
-    "Sarimulyo",
-    "Oensuli",
-    "Wansugi",
-    "Wataliku",
-    "Lakandito"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Komba-Komba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kabangka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wakobulu Agung (Wakobalu Agung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lupia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sarimulyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oensuli"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wansugi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wataliku"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lakandito"
+    }
   ]
 }

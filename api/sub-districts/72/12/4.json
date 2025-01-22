@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Beteleme",
-    "Uluanso",
-    "Mora",
-    "Waraa",
-    "Tingkeao",
-    "Wawopada",
-    "Korowalelo (Koro Walelo)",
-    "Tinompo",
-    "Kumpi",
-    "Korompeeli (Korompeli)",
-    "Lemboroma",
-    "Korowou",
-    "Lembobaru (Lembo Baru)",
-    "Korobonde"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beteleme"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uluanso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mora"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waraa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tingkeao"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wawopada"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Korowalelo (Koro Walelo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tinompo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kumpi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Korompeeli (Korompeli)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lemboroma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Korowou"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lembobaru (Lembo Baru)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Korobonde"
+    }
   ]
 }

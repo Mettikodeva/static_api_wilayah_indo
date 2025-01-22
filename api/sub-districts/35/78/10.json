@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tambaksari",
-    "Ploso",
-    "Gading",
-    "Pacarkembang (Pacar Kembang)",
-    "Rangkah",
-    "Pacarkeling (Pacar Keling)",
-    "Kapas Madya Baru (Kapasmadya Baru)",
-    "Dukuh Setro"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tambaksari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ploso"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gading"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pacarkembang (Pacar Kembang)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rangkah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pacarkeling (Pacar Keling)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kapas Madya Baru (Kapasmadya Baru)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Dukuh Setro"
+    }
   ]
 }

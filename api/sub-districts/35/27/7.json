@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Asemraja (Asem Raja)",
-    "Plakaran",
-    "Asemnonggal (Asem Nonggal)",
-    "Majangan",
-    "Margantoko",
-    "Penyepen (Panyepen)",
-    "Taman",
-    "Jrengik",
-    "Kalangan Prao",
-    "Kotah",
-    "Jungkarang",
-    "Mlakah (Mlaka)",
-    "Bancelok",
-    "Buker"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Asemraja (Asem Raja)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Plakaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asemnonggal (Asem Nonggal)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Majangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margantoko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penyepen (Panyepen)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taman"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jrengik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalangan Prao"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kotah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jungkarang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mlakah (Mlaka)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bancelok"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Buker"
+    }
   ]
 }

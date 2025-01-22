@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Montallat I",
-    "Montallat II",
-    "Tumpung Laung I",
-    "Tumpung Laung II",
-    "Sikan",
-    "Rubei",
-    "Pepas",
-    "Ruji",
-    "Paring Lahung",
-    "Kamawen"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Montallat I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Montallat II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tumpung Laung I"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tumpung Laung II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sikan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rubei"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pepas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ruji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paring Lahung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kamawen"
+    }
   ]
 }

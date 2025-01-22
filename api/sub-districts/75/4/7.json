@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pancakarsa I (Panca Karsa I)",
-    "Pancakarsa II (Panca Karsa II)",
-    "Makarti Jaya",
-    "Kalimas",
-    "Malango",
-    "Marisa IV",
-    "Tirto Asri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pancakarsa I (Panca Karsa I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pancakarsa II (Panca Karsa II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Makarti Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalimas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malango"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marisa IV"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tirto Asri"
+    }
   ]
 }

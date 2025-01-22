@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bontoramba",
-    "Sengka",
-    "Tanrara",
-    "Tindang",
-    "Pa'bundukang",
-    "Bontosunggu",
-    "Salajengki (Salajangki)",
-    "Salajo",
-    "Jipang"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bontoramba"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sengka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanrara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tindang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pa'bundukang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bontosunggu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salajengki (Salajangki)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salajo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jipang"
+    }
   ]
 }

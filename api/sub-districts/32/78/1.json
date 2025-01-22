@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Yudanagara",
-    "Nagarawangi",
-    "Cilembang",
-    "Argasari",
-    "Tugujaya",
-    "Tuguraja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Yudanagara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nagarawangi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cilembang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Argasari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tugujaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tuguraja"
+    }
   ]
 }

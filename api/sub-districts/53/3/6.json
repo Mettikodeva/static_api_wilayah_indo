@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Boronubaen",
-    "Boronubaen Timur",
-    "Hautaes",
-    "Tualena",
-    "Biloe",
-    "Taunbaen",
-    "Sapaen",
-    "Lokomea",
-    "Taunbaen Timur",
-    "Hauteas Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Boronubaen"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Boronubaen Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hautaes"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tualena"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Biloe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taunbaen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sapaen"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lokomea"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Taunbaen Timur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hauteas Barat"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sukorejo",
-    "Jambeyan",
-    "Jetis",
-    "Musuk",
-    "Kadipiro",
-    "Sambirejo",
-    "Blimbing",
-    "Dawung",
-    "Sambi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambeyan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Musuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadipiro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blimbing"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dawung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sambi"
+    }
   ]
 }

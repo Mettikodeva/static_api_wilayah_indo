@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Batupanga (Batu Panga)",
-    "Mambu",
-    "Tenggelang (Tenggelan)",
-    "Baru",
-    "Pussui",
-    "Mapili Barat (Mapilli Barat)",
-    "Sambali Wali",
-    "Batupanga Daala",
-    "Luyo (Lujo)",
-    "Pussui Barat",
-    "Puccadi"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Batupanga (Batu Panga)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mambu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tenggelang (Tenggelan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pussui"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mapili Barat (Mapilli Barat)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambali Wali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batupanga Daala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Luyo (Lujo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pussui Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puccadi"
+    }
   ]
 }

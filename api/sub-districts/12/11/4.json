@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sinampang",
-    "Sihorbo",
-    "Soban",
-    "Adian Nangka",
-    "Bunturaja",
-    "Juma Siulok",
-    "Juma Teguh",
-    "Sosor Lontung",
-    "Huta Imbaru",
-    "Jumantuang",
-    "Gomit",
-    "Adian Gupa",
-    "Maju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sinampang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sihorbo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Soban"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Adian Nangka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bunturaja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Juma Siulok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Juma Teguh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sosor Lontung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Huta Imbaru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jumantuang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gomit"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Adian Gupa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Maju"
+    }
   ]
 }

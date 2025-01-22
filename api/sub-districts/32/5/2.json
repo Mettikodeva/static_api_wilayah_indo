@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Suci Kaler (Sucikaler)",
-    "Lebakjaya",
-    "Karangmulya",
-    "Lengkongjaya",
-    "Karangpawitan",
-    "Situgede",
-    "Cimurah",
-    "Suci",
-    "Jatisari",
-    "Godog",
-    "Situsari",
-    "Karangsari",
-    "Sindangpalay",
-    "Lebakagung",
-    "Sindanggalih",
-    "Mekarsari",
-    "Sindanglaya",
-    "Tanjungsari",
-    "Situsaeur",
-    "Situjaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Suci Kaler (Sucikaler)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lebakjaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karangmulya"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Lengkongjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangpawitan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Situgede"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cimurah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suci"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Godog"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Situsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangpalay"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lebakagung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sindanggalih"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sindanglaya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Situsaeur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Situjaya"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mekarjaya",
-    "Cipalabuh",
-    "Cijaku",
-    "Cibeureum",
-    "Ciapus",
-    "Kandangsapi",
-    "Cihujan",
-    "Cimenga (Cimega)",
-    "Kapunduhan",
-    "Sukasenang",
-    "Cikaratuan"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cipalabuh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cijaku"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibeureum"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ciapus"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kandangsapi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cihujan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Cimenga (Cimega)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kapunduhan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sukasenang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cikaratuan"
+    }
   ]
 }

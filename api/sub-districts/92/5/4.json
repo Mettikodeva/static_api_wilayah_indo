@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Samate",
-    "Kapatlap",
-    "Jefman Barat",
-    "Wamega",
-    "Jefman Timur",
-    "Waidim"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Samate"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kapatlap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jefman Barat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wamega"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jefman Timur"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Waidim"
+    }
   ]
 }

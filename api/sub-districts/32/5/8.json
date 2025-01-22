@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasirwangi",
-    "Pasirkiamis",
-    "Padasuka",
-    "Karyamekar",
-    "Padawaas (Padaawas)",
-    "Padaasih",
-    "Barusari",
-    "Talaga",
-    "Padamukti",
-    "Sinarjaya (Sirnajaya)",
-    "Sarimukti",
-    "Padamulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasirwangi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasirkiamis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karyamekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padawaas (Padaawas)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padaasih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Barusari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padamukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sinarjaya (Sirnajaya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sarimukti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padamulya"
+    }
   ]
 }

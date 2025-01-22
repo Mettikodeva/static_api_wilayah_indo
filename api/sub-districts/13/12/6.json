@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Muaro Kiawai (Muaro Kiawi)",
-    "Rabi Jonggor",
-    "Seberang Kenaikan",
-    "Bahoras",
-    "Ranah Sungai Magelang",
-    "Muaro Kiawai Barat",
-    "Muaro Kiawai Hilir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muaro Kiawai (Muaro Kiawi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rabi Jonggor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Seberang Kenaikan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bahoras"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ranah Sungai Magelang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muaro Kiawai Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muaro Kiawai Hilir"
+    }
   ]
 }

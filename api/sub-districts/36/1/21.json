@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kadomas",
-    "Babakan Kalanganyar (Babakan Kalang Anyar)",
-    "Kabayan",
-    "Pandeglang"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kadomas"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Babakan Kalanganyar (Babakan Kalang Anyar)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kabayan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pandeglang"
+    }
   ]
 }

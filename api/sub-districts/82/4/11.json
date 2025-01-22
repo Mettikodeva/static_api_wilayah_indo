@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bokimiake",
-    "Hatejawa",
-    "Busua",
-    "Fofao"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bokimiake"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hatejawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Busua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fofao"
+    }
   ]
 }

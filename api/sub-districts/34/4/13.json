@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Caturharjo (Catur Harjo)",
-    "Triharjo",
-    "Tridadi",
-    "Pandowoharjo (Pandowo Harjo)",
-    "Trimulyo (Tri Mulyo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Caturharjo (Catur Harjo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Triharjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tridadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pandowoharjo (Pandowo Harjo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trimulyo (Tri Mulyo)"
+    }
   ]
 }

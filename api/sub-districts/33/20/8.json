@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Guyangan",
-    "Kepuk",
-    "Papasan",
-    "Srikandang",
-    "Tengguli",
-    "Bangsri",
-    "Banjaran",
-    "Wedelan",
-    "Kedungleper",
-    "Jerukwangi",
-    "Bondo",
-    "Banjaragung (Banjar Agung)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Guyangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kepuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Papasan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Srikandang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tengguli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangsri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjaran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wedelan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungleper"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jerukwangi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bondo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banjaragung (Banjar Agung)"
+    }
   ]
 }

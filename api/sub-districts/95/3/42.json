@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Seredala (Seredela)",
-    "Moruf",
-    "Koper",
-    "Teret",
-    "Tokuni",
-    "Burupmakot",
-    "Yasip",
-    "Mosomduba",
-    "Samboga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seredala (Seredela)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Moruf"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koper"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teret"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tokuni"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Burupmakot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yasip"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mosomduba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Samboga"
+    }
   ]
 }

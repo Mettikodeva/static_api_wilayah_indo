@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Siang Gantung",
-    "Baru",
-    "Tanjung Selor",
-    "Badaun",
-    "Bajayau",
-    "Bajayau Tengah",
-    "Bajayau Lama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siang Gantung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Selor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Badaun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bajayau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bajayau Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bajayau Lama"
+    }
   ]
 }

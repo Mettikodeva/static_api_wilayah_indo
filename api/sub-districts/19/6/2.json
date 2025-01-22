@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gantung",
-    "Selingsing",
-    "Jangkar Asam",
-    "Lilangan",
-    "Lenggang",
-    "Batu Penyu",
-    "Limbongan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gantung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selingsing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jangkar Asam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lilangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lenggang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Penyu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Limbongan"
+    }
   ]
 }

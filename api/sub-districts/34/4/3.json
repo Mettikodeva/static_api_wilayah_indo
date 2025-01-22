@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sumberahayu (Sumberrahayu)",
-    "Sumbersari",
-    "Sumberagung (Sumber Agung)",
-    "Sumberarum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberahayu (Sumberrahayu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberarum"
+    }
   ]
 }

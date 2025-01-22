@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Sine",
-    "Ngrambe",
-    "Jogorogo",
-    "Kendal",
-    "Geneng",
-    "Kwadungan",
-    "Karangjati",
-    "Padas",
-    "Ngawi",
-    "Paron",
-    "Kedunggalar",
-    "Widodaren",
-    "Mantingan",
-    "Pangkur",
-    "Bringin",
-    "Pitu",
-    "Karanganyar",
-    "Gerih",
-    "Kasreman"
+    {
+      "district_id": 1,
+      "kecamatan": "Sine"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ngrambe"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Jogorogo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kendal"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Geneng"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kwadungan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Karangjati"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Padas"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Ngawi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Paron"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kedunggalar"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Widodaren"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Mantingan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Pangkur"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bringin"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pitu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Karanganyar"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Gerih"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kasreman"
+    }
   ]
 }

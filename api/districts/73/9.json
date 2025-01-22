@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Mandai",
-    "Camba",
-    "Bantimurung",
-    "Maros Baru",
-    "Bontoa (Maros Utara)",
-    "Malllawa (Mallawa)",
-    "Tanralili",
-    "Marusu",
-    "Simbang",
-    "Cenrana",
-    "Tompobulu (Tompu Bulu)",
-    "Lau",
-    "Moncongloe (Moncong Loe)",
-    "Turikale"
+    {
+      "district_id": 1,
+      "kecamatan": "Mandai"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Camba"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bantimurung"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Maros Baru"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bontoa (Maros Utara)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Malllawa (Mallawa)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tanralili"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Marusu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Simbang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Cenrana"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tompobulu (Tompu Bulu)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lau"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Moncongloe (Moncong Loe)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Turikale"
+    }
   ]
 }

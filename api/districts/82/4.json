@@ -1,34 +1,124 @@
 {
   "districts": [
-    "Pulau Makian",
-    "Kayoa",
-    "Gane Timur",
-    "Gane Barat",
-    "Obi Selatan",
-    "Obi",
-    "Bacan Timur",
-    "Bacan",
-    "Bacan Barat",
-    "Makian Barat",
-    "Kayoa Barat",
-    "Kayoa Selatan",
-    "Kayoa Utara",
-    "Bacan Barat Utara",
-    "Kasiruta Barat",
-    "Kasiruta Timur",
-    "Bacan Selatan",
-    "Kepulauan Botanglomang",
-    "Mandioli Selatan",
-    "Mandioli Utara",
-    "Bacan Timur Selatan",
-    "Bacan Timur Tengah",
-    "Gane Barat Selatan",
-    "Gane Barat Utara",
-    "Kepulauan Joronga",
-    "Gane Timur Selatan",
-    "Gane Timur Tengah",
-    "Obi Barat",
-    "Obi Timur",
-    "Obi Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Pulau Makian"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kayoa"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Gane Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Gane Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Obi Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Obi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bacan Timur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bacan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bacan Barat"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Makian Barat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kayoa Barat"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kayoa Selatan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kayoa Utara"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bacan Barat Utara"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kasiruta Barat"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kasiruta Timur"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bacan Selatan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kepulauan Botanglomang"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Mandioli Selatan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Mandioli Utara"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Bacan Timur Selatan"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Bacan Timur Tengah"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Gane Barat Selatan"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Gane Barat Utara"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Kepulauan Joronga"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Gane Timur Selatan"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Gane Timur Tengah"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Obi Barat"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Obi Timur"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Obi Utara"
+    }
   ]
 }

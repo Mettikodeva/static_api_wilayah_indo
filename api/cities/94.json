@@ -1,12 +1,36 @@
 {
   "cities": [
-    "Nabire",
-    "Puncak Jaya",
-    "Paniai",
-    "Mimika",
-    "Puncak",
-    "Dogiyai",
-    "Intan Jaya",
-    "Deiyai"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Nabire"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Puncak Jaya"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Paniai"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Mimika"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Puncak"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Dogiyai"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Intan Jaya"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Deiyai"
+    }
   ]
 }

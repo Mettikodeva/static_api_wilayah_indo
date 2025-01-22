@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mararena",
-    "Sarmi Kota (Sarmi)",
-    "Sarmo",
-    "Liki",
-    "Sawar",
-    "Bagaiserwar",
-    "Armo",
-    "Bagaisewar II",
-    "Pulau Armo",
-    "Lembah Neidam",
-    "Tefarewar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mararena"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sarmi Kota (Sarmi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sarmo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Liki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bagaiserwar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Armo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bagaisewar II"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pulau Armo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lembah Neidam"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tefarewar"
+    }
   ]
 }

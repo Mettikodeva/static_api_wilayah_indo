@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bohe Silian (Maratua Bohesilian)",
-    "Payung-Payung (Maratua Payung-Payung)",
-    "Teluk Alulu (Maratua Teluk Alulu)",
-    "Teluk Harapan (Maratua Teluk Harapan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bohe Silian (Maratua Bohesilian)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Payung-Payung (Maratua Payung-Payung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Alulu (Maratua Teluk Alulu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Harapan (Maratua Teluk Harapan)"
+    }
   ]
 }

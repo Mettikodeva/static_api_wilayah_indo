@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gunungjaya",
-    "Sukasari",
-    "Sukamanah",
-    "Cisaat",
-    "Nagrak",
-    "Babakan",
-    "Sukamantri",
-    "Cibatu",
-    "Selajambe",
-    "Padaasih",
-    "Cibolang Kaler",
-    "Kutasirna",
-    "Sukaresmi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunungjaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cisaat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nagrak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamantri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibatu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Selajambe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padaasih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cibolang Kaler"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kutasirna"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukaresmi"
+    }
   ]
 }

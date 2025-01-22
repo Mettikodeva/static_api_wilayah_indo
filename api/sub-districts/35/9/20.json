@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Banjarsengon (Banjar Sengon)",
-    "Jumerto",
-    "Gebang",
-    "Slawu",
-    "Bintoro",
-    "Jemberlor (Jember Lor)",
-    "Patrang",
-    "Baratan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Banjarsengon (Banjar Sengon)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jumerto"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Slawu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bintoro"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jemberlor (Jember Lor)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Patrang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Baratan"
+    }
   ]
 }

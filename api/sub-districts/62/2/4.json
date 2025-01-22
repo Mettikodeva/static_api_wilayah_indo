@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Parenggean",
-    "Tehang",
-    "Kabuau",
-    "Barunang Miri",
-    "Sumber Makmur",
-    "Mekar Jaya",
-    "Karang Tunggal",
-    "Bandar Agung",
-    "Beringin Tunggal Jaya",
-    "Sari Harapan",
-    "Karang Sari",
-    "Bajarau",
-    "Bukit Harapan",
-    "Manjalin",
-    "Karya Bersama"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Parenggean"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tehang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kabuau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Barunang Miri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karang Tunggal"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Beringin Tunggal Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sari Harapan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Karang Sari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bajarau"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Manjalin"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Karya Bersama"
+    }
   ]
 }

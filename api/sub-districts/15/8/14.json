@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Muara Buat",
-    "Buat",
-    "Laman Panjang",
-    "Karak Apung",
-    "Timbolasi",
-    "Senamat Ulu",
-    "Aur Cino",
-    "Lubuk Beringin",
-    "Sungai Telang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Buat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laman Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karak Apung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Timbolasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senamat Ulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aur Cino"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Beringin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Telang"
+    }
   ]
 }

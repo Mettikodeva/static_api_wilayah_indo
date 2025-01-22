@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pa'bundukang (Pa Bundukang)",
-    "Pattene (Patte Ne)",
-    "Bontokadatto",
-    "Canrego",
-    "Bulukunyi",
-    "Rajaya",
-    "Moncongkomba",
-    "Cakura",
-    "Lantang",
-    "Su'rulangi (Surulangi)",
-    "Kale Lantang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pa'bundukang (Pa Bundukang)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pattene (Patte Ne)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bontokadatto"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Canrego"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bulukunyi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Rajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Moncongkomba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cakura"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lantang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Su'rulangi (Surulangi)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kale Lantang"
+    }
   ]
 }

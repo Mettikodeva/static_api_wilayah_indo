@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Waled Desa",
-    "Waled Kota",
-    "Mekarsari",
-    "Waled Asem",
-    "Ambit",
-    "Ciuyah",
-    "Gunungsari",
-    "Karangsari",
-    "Cikulak Kidul",
-    "Cikulak",
-    "Cibogo",
-    "Cisaat"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waled Desa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waled Kota"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Waled Asem"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ambit"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ciuyah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cikulak Kidul"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Cikulak"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cibogo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cisaat"
+    }
   ]
 }

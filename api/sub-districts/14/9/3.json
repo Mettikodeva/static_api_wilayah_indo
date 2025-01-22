@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Muara Lembu",
-    "Pangkalan Indarung",
-    "Pulaupadang (Pulau Padang)",
-    "Logas",
-    "Kebun Lado",
-    "Sungaikuning (Sungai Kuning)",
-    "Sungaisirih (Sungai Sirih)",
-    "Sungaibawang (Sungai Bawang)",
-    "Air Mas/Emas",
-    "Pasir Emas",
-    "Petai Baru",
-    "Sungaikeranji (Sungai Keranji)",
-    "Sumber Datar",
-    "Logas Hilir"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Muara Lembu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangkalan Indarung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulaupadang (Pulau Padang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Logas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebun Lado"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungaikuning (Sungai Kuning)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungaisirih (Sungai Sirih)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungaibawang (Sungai Bawang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Mas/Emas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Emas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Petai Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungaikeranji (Sungai Keranji)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumber Datar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Logas Hilir"
+    }
   ]
 }

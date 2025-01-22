@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Borong Rappoa",
-    "Mattiro Walie (Mattirowalie)",
-    "Kindang",
-    "Arinhua (Anrihua)",
-    "Tamaona",
-    "Benteng Palioi",
-    "Balibo",
-    "Garuntungan",
-    "Oro Gading",
-    "Sipaenre",
-    "Kahayya",
-    "Somba Palioli",
-    "Sopa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Borong Rappoa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mattiro Walie (Mattirowalie)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kindang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arinhua (Anrihua)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamaona"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benteng Palioi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balibo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Garuntungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Oro Gading"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sipaenre"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kahayya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Somba Palioli"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sopa"
+    }
   ]
 }

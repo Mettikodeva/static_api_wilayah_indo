@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wailangira",
-    "Kahale",
-    "Waikarara",
-    "Panenggo Ede",
-    "Waiha",
-    "Wainyapu",
-    "Loko Tali",
-    "Waipakolo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wailangira"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kahale"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waikarara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panenggo Ede"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waiha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wainyapu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Loko Tali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waipakolo"
+    }
   ]
 }

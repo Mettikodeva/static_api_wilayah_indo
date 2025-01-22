@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cikaramas",
-    "Wargaluyu",
-    "Jingkang",
-    "Kamal",
-    "Kertamukti",
-    "Tanjungwangi",
-    "Sukamukti",
-    "Sukatani",
-    "Tanjung Medar (Tanjungmedar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikaramas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wargaluyu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jingkang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kamal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertamukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungwangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Medar (Tanjungmedar)"
+    }
   ]
 }

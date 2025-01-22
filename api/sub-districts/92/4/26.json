@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mukamat",
-    "Ikana",
-    "Haemaran",
-    "Siranggo",
-    "Mogatemin",
-    "Onimsefa",
-    "Makaroro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mukamat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ikana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Haemaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siranggo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mogatemin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Onimsefa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Makaroro"
+    }
   ]
 }

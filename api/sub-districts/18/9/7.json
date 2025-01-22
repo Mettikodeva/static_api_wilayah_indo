@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Way Kepayang",
-    "Suka Maju (Sukamaju)",
-    "Kedondong",
-    "Pasar Baru",
-    "Tempel Rejo",
-    "Kertasana (Kerta Sana)",
-    "Gunung Sugih (Gunungsugih)",
-    "Sinar Harapan",
-    "Teba Jawa",
-    "Babakan Loa",
-    "Pesawaran Indah",
-    "Harapan Jaya"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Way Kepayang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Maju (Sukamaju)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedondong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tempel Rejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kertasana (Kerta Sana)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunung Sugih (Gunungsugih)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sinar Harapan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Teba Jawa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Babakan Loa"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pesawaran Indah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Harapan Jaya"
+    }
   ]
 }

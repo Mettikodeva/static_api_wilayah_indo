@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sepaso (Sepaso Induk)",
-    "Sekerat",
-    "Keraitan",
-    "Tepian Langsat",
-    "Tebangan Lebak/Lembak",
-    "Sepaso Timur",
-    "Sepaso Selatan",
-    "Muara Bengalon",
-    "Tepian Baru",
-    "Tepian Indah",
-    "Sepaso Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepaso (Sepaso Induk)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekerat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keraitan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tepian Langsat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tebangan Lebak/Lembak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sepaso Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sepaso Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Bengalon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tepian Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tepian Indah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sepaso Barat"
+    }
   ]
 }

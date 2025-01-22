@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kapoiala",
-    "Lalimbue Jaya",
-    "Labotoy",
-    "Muara Sampara",
-    "Sambaraasi",
-    "Lamendora",
-    "Tani Indah",
-    "Pereoa (Pereoe)",
-    "Ulu Lalimbue",
-    "Lalimbue",
-    "Tombawatu",
-    "Lalonggombuno",
-    "Kapoiala Baru",
-    "Labotoy Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kapoiala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lalimbue Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labotoy"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Sampara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sambaraasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamendora"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tani Indah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pereoa (Pereoe)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulu Lalimbue"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lalimbue"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tombawatu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lalonggombuno"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kapoiala Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Labotoy Jaya"
+    }
   ]
 }

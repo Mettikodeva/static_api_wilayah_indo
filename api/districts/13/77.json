@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Pariaman Tengah",
-    "Pariaman Utara",
-    "Pariaman Selatan",
-    "Pariaman Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Pariaman Tengah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pariaman Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pariaman Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pariaman Timur"
+    }
   ]
 }

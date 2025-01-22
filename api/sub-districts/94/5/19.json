@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bubet",
-    "Bologobak",
-    "Ko'eao",
-    "Ogongki",
-    "Mabuga",
-    "Kabuki",
-    "Oknanim",
-    "Kalemogom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bubet"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bologobak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ko'eao"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ogongki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mabuga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kabuki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Oknanim"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalemogom"
+    }
   ]
 }

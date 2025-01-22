@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kertak Hanyar I",
-    "Manarap Lama",
-    "Mandarsari (Mandar Sari)",
-    "Pemangkih Laut (Pemangkih Baru)",
-    "Simpang Empat",
-    "Sei/Sungai Lakum",
-    "Manarap Baru",
-    "Kertak Hanyar II (Kertakhanyar II)",
-    "Pasar Kamis (Pasar Kemis)",
-    "Manarap Tengah",
-    "Belayung Baru",
-    "Benua Hanyar (Banua Hanyar)",
-    "Mekar Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kertak Hanyar I"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Manarap Lama"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Mandarsari (Mandar Sari)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pemangkih Laut (Pemangkih Baru)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Empat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Lakum"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manarap Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertak Hanyar II (Kertakhanyar II)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pasar Kamis (Pasar Kemis)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Manarap Tengah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Belayung Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Benua Hanyar (Banua Hanyar)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Mekar Raya"
+    }
   ]
 }

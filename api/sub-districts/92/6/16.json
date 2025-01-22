@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Aroba",
-    "Yaru",
-    "Sido Makmur",
-    "Wimbro (Nelayan Wimbro)",
-    "Sangguar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aroba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sido Makmur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wimbro (Nelayan Wimbro)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sangguar"
+    }
   ]
 }

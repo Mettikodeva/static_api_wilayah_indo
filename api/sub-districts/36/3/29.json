@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sindang Jaya",
-    "Wanakerta (Wana Kerta)",
-    "Sukaharja (Suka Harja)",
-    "Sindangasih (Sindang Asih)",
-    "Sindangpanon (Sindang Panon)",
-    "Sindangsono (Sindang Sono)",
-    "Badak Anom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sindang Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanakerta (Wana Kerta)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukaharja (Suka Harja)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindangasih (Sindang Asih)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sindangpanon (Sindang Panon)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sindangsono (Sindang Sono)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Badak Anom"
+    }
   ]
 }

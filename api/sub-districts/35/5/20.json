@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Purworejo",
-    "Tulungrejo",
-    "Sumberarum",
-    "Ringinrejo (Ringin Rejo)",
-    "Mojorejo",
-    "Sukorejo",
-    "Wates",
-    "Tugurejo (Tugu Rejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tulungrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberarum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ringinrejo (Ringin Rejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mojorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tugurejo (Tugu Rejo)"
+    }
   ]
 }

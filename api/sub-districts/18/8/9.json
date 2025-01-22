@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lebak Peniangan",
-    "Tanjung Tiga",
-    "Madang Jaya",
-    "Air Ringkih",
-    "Gunung Sari",
-    "Simpang Tiga",
-    "Tanjung Raya",
-    "Beringin Jaya",
-    "Karya Maju",
-    "Mulya Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebak Peniangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Tiga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Madang Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Ringkih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Sari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karya Maju"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulya Jaya"
+    }
   ]
 }

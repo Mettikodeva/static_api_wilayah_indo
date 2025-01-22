@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lelam",
-    "Teiko",
-    "Yaneko",
-    "Kimbo",
-    "Penggima",
-    "Magelo",
-    "Onesia",
-    "Wapur",
-    "Andeyok",
-    "Kibingga",
-    "Ogobakni",
-    "Jilam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lelam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teiko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yaneko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kimbo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penggima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Magelo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Onesia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wapur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Andeyok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kibingga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ogobakni"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jilam"
+    }
   ]
 }

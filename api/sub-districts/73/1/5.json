@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Harapan",
-    "Patikarya",
-    "Patilereng",
-    "Laiyolo Baru",
-    "Laiyolo",
-    "Lantibongan (Lantimbongan)",
-    "Binanga Sambaiya (Binanga Sombaiya)",
-    "Lowa",
-    "Appatanah",
-    "Tambolongan",
-    "Polassi",
-    "Khusus Bahuluang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Patikarya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patilereng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laiyolo Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Laiyolo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lantibongan (Lantimbongan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Binanga Sambaiya (Binanga Sombaiya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lowa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Appatanah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tambolongan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Polassi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Khusus Bahuluang"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sepapah",
-    "Sungai Betung",
-    "Basuang",
-    "Gunung Batu Besar",
-    "Sampanahan",
-    "Rampa Manunggul",
-    "Papaan",
-    "Sampanahan Hilir",
-    "Banjarsari (Banjar Sari)",
-    "Sukamaju (Suka Maju)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepapah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Betung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Basuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Batu Besar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sampanahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rampa Manunggul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Papaan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sampanahan Hilir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjarsari (Banjar Sari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukamaju (Suka Maju)"
+    }
   ]
 }

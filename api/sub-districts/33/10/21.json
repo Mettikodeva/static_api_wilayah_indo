@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bawukan",
-    "Talun",
-    "Panggang",
-    "Balerante",
-    "Sidorejo",
-    "Tegalmulyo",
-    "Tlogowatu",
-    "Tangkil",
-    "Bumiharjo",
-    "Kendalsari",
-    "Dompol",
-    "Kemalang",
-    "Keputran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bawukan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panggang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balerante"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalmulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tlogowatu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tangkil"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumiharjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kendalsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dompol"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kemalang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Keputran"
+    }
   ]
 }

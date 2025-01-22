@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tatah Bangkal",
-    "Bangkal Tengah",
-    "Layap Baru",
-    "Tatah Layap",
-    "Mekar Sari",
-    "Pandan Sari",
-    "Tampang Awang",
-    "Pemangkih Darat",
-    "Pemangkih Baru",
-    "Pemangkih Tengah",
-    "Jaruju",
-    "Jaruju Laut",
-    "Taibah Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tatah Bangkal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangkal Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Layap Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tatah Layap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pandan Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tampang Awang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pemangkih Darat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pemangkih Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pemangkih Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jaruju"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jaruju Laut"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Taibah Raya"
+    }
   ]
 }

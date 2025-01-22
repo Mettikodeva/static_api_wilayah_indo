@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bululi",
-    "Mohiyolo",
-    "Pangahu",
-    "Karya Indah",
-    "Prima",
-    "Tiohu",
-    "Olimohulo",
-    "Karya Baru",
-    "Bontula (Bontulo)",
-    "Bihe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bululi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mohiyolo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangahu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karya Indah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Prima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tiohu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Olimohulo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bontula (Bontulo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bihe"
+    }
   ]
 }

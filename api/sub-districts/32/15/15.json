@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mekarmaya",
-    "Cilamaya",
-    "Muara",
-    "Muarabaru",
-    "Sukatani",
-    "Tegalwaru",
-    "Tegalsari",
-    "Cikalong",
-    "Cikarang",
-    "Rawagempol Wetan",
-    "Rawagempol Kulon",
-    "Sukakerta"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekarmaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilamaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muarabaru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalwaru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikalong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cikarang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rawagempol Wetan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rawagempol Kulon"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukakerta"
+    }
   ]
 }

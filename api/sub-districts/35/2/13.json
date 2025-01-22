@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dayakan",
-    "Karangan",
-    "Tanjunggunung (Tanjung Gunung)",
-    "Karangjoho",
-    "Tanjungrejo",
-    "Bandaralim",
-    "Kapuran",
-    "Watubonang",
-    "Biting",
-    "Badegan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dayakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjunggunung (Tanjung Gunung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangjoho"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjungrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandaralim"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kapuran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watubonang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Biting"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Badegan"
+    }
   ]
 }

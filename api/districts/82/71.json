@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Pulau Ternate",
-    "Kota Ternate Selatan",
-    "Kota Ternate Utara",
-    "Moti",
-    "Pulau Batang Dua",
-    "Kota Ternate Tengah",
-    "Pulau Hiri",
-    "Ternate Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Pulau Ternate"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kota Ternate Selatan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kota Ternate Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Moti"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pulau Batang Dua"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kota Ternate Tengah"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pulau Hiri"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Ternate Barat"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Wae Rii",
-    "Ruteng",
-    "Satar Mese",
-    "Cibal",
-    "Reok",
-    "Langke Rembong",
-    "Satar Mese Barat",
-    "Rahong Utara",
-    "Lelak",
-    "Reok Barat",
-    "Cibal Barat",
-    "Satar Mese Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Wae Rii"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ruteng"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Satar Mese"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Cibal"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Reok"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Langke Rembong"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Satar Mese Barat"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Rahong Utara"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Lelak"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Reok Barat"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Cibal Barat"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Satar Mese Utara"
+    }
   ]
 }

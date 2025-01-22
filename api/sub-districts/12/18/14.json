@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Melati Kebon/Kebun",
-    "Bengabing",
-    "Bingkat",
-    "Jati Mulyo",
-    "Karang Anyar",
-    "Lestari Dadi",
-    "Pegajahan",
-    "Petuaran Hulu (Putuaran / Petuaran Ulu)",
-    "Petuaran Hilir (Putuaran / Petuaran Ilir)",
-    "Pondok Tengah",
-    "Sukasari",
-    "Tanjung Putus",
-    "Senah/Sennah"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Melati Kebon/Kebun"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bengabing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bingkat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jati Mulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lestari Dadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pegajahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Petuaran Hulu (Putuaran / Petuaran Ulu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Petuaran Hilir (Putuaran / Petuaran Ilir)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pondok Tengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Putus"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Senah/Sennah"
+    }
   ]
 }

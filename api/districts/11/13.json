@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Blangkejeren (Blang Kejeren)",
-    "Kutapanjang (Kuta Panjang)",
-    "Rikit Gaib",
-    "Terangun (Terangon)",
-    "Pining (Pinding)",
-    "Blangpegayon (Blang Pegayon)",
-    "Puteri Betung (Putri Betung)",
-    "Dabun Gelang (Debun Gelang)",
-    "Blangjerango (Blang Jerango)",
-    "Teripe Jaya (Tripe Jaya)",
-    "Pantan Cuaca"
+    {
+      "district_id": 1,
+      "kecamatan": "Blangkejeren (Blang Kejeren)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kutapanjang (Kuta Panjang)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Rikit Gaib"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Terangun (Terangon)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pining (Pinding)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Blangpegayon (Blang Pegayon)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Puteri Betung (Putri Betung)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Dabun Gelang (Debun Gelang)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Blangjerango (Blang Jerango)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Teripe Jaya (Tripe Jaya)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pantan Cuaca"
+    }
   ]
 }

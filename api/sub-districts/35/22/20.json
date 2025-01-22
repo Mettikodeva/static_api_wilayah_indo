@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batokan",
-    "Betet",
-    "Tembeling",
-    "Sidomukti",
-    "Basah (Besah)",
-    "Sambeng",
-    "Ngaglik",
-    "Kasiman",
-    "Sekaran",
-    "Tambakmerak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batokan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betet"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tembeling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Basah (Besah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sambeng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngaglik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kasiman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sekaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tambakmerak"
+    }
   ]
 }

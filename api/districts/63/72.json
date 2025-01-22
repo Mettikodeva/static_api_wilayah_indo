@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Landasan Ulin",
-    "Cempaka",
-    "Banjarbaru Utara (Banjar Baru Utara)",
-    "Banjarbaru Selatan (Banjar Baru Selatan)",
-    "Liang Anggang"
+    {
+      "district_id": 2,
+      "kecamatan": "Landasan Ulin"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Cempaka"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Banjarbaru Utara (Banjar Baru Utara)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Banjarbaru Selatan (Banjar Baru Selatan)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Liang Anggang"
+    }
   ]
 }

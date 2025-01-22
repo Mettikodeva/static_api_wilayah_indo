@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tompobulu (Tompo Bulu)",
-    "Benteng Gajah",
-    "Bonto Manai",
-    "Bonto Somba",
-    "Toddolimae",
-    "Pucak",
-    "Bonto Matinggi (Bontomatinggi)",
-    "Bonto Manurung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tompobulu (Tompo Bulu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benteng Gajah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonto Manai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bonto Somba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toddolimae"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pucak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bonto Matinggi (Bontomatinggi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonto Manurung"
+    }
   ]
 }

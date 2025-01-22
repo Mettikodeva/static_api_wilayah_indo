@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Omon",
-    "Iwon",
-    "Klaisu",
-    "Bangai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Omon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Iwon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klaisu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangai"
+    }
   ]
 }

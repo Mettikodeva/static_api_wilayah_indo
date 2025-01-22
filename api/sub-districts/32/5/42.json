@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sadang",
-    "Sukaratu",
-    "Tenjonagara",
-    "Tegalpanjang",
-    "Cigadog",
-    "Linggamukti",
-    "Sukalaksana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sadang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaratu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tenjonagara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegalpanjang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cigadog"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Linggamukti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukalaksana"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "cities": [
-    "Kerinci",
-    "Merangin",
-    "Sarolangun",
-    "Batanghari",
-    "Muaro Jambi",
-    "Tanjung Jabung Barat",
-    "Tanjung Jabung Timur",
-    "Bungo",
-    "Tebo",
-    "Jambi",
-    "Sungai Penuh"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kerinci"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Merangin"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Sarolangun"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Batanghari"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Muaro Jambi"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Tanjung Jabung Barat"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Tanjung Jabung Timur"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Bungo"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Tebo"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Jambi"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Sungai Penuh"
+    }
   ]
 }

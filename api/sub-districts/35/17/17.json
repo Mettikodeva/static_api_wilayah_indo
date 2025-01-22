@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sidokaton",
-    "Tapen",
-    "Bakalanrayung",
-    "Randuwatang",
-    "Sumberteguh (Sumber Teguh)",
-    "Menturus",
-    "Kudubanjar",
-    "Made",
-    "Kepuhrejo",
-    "Bendungan",
-    "Katemas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidokaton"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bakalanrayung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Randuwatang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberteguh (Sumber Teguh)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menturus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kudubanjar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Made"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kepuhrejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bendungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Katemas"
+    }
   ]
 }

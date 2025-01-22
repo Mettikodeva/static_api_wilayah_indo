@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Amahai",
-    "Teon Nila Serua",
-    "Seram Utara",
-    "Banda",
-    "Tehoru",
-    "Saparua",
-    "Pulau Haruku",
-    "Salahutu",
-    "Leihitu",
-    "Nusa Laut",
-    "Kota Masohi",
-    "Seram Utara Barat",
-    "Teluk Elpaputih",
-    "Leihitu Barat",
-    "Telutih",
-    "Seram Utara Timur Seti",
-    "Seram Utara Timur Kobi",
-    "Saparua Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Amahai"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Teon Nila Serua"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Seram Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Banda"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tehoru"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Saparua"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pulau Haruku"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Salahutu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Leihitu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Nusa Laut"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kota Masohi"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Seram Utara Barat"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Teluk Elpaputih"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Leihitu Barat"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Telutih"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Seram Utara Timur Seti"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Seram Utara Timur Kobi"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Saparua Timur"
+    }
   ]
 }

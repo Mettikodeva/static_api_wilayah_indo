@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Babau",
-    "Naibonat",
-    "Oesao (Kelurahan Oesao)",
-    "Merdeka",
-    "Tuatuka",
-    "Nunkurus",
-    "Tuapukan",
-    "Oefafi",
-    "Pukdale",
-    "Oesao",
-    "Manusak",
-    "Tanah Putih",
-    "Oelatimo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Babau"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Naibonat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Oesao (Kelurahan Oesao)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Merdeka"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tuatuka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nunkurus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuapukan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Oefafi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pukdale"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Oesao"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Manusak"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanah Putih"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Oelatimo"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tegalharjo",
-    "Sepanjang",
-    "Karangharjo",
-    "Tulungrejo",
-    "Sumbergondo",
-    "Bumiharjo",
-    "Margomulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tegalharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sepanjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tulungrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumbergondo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumiharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margomulyo"
+    }
   ]
 }

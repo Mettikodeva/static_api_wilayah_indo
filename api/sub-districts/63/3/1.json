@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Bakambat",
-    "Tanipah",
-    "Pemurus",
-    "Simpang Warga",
-    "Bunipah",
-    "Aluh-Aluh Besar",
-    "Aluh Aluh Kecil",
-    "Podok",
-    "Handil Bujur",
-    "Kuin Besar",
-    "Terapu",
-    "Labat Muara",
-    "Pulantan",
-    "Aluh Aluh Kecil Muara",
-    "Simpang Warga Dalam",
-    "Kuin Kecil",
-    "Handil Baru",
-    "Balimau",
-    "Sei/Sungai Musang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bakambat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanipah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pemurus"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Warga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bunipah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Aluh-Aluh Besar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Aluh Aluh Kecil"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Podok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Handil Bujur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kuin Besar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Terapu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Labat Muara"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pulantan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Aluh Aluh Kecil Muara"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Simpang Warga Dalam"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Kuin Kecil"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Handil Baru"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Balimau"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Sei/Sungai Musang"
+    }
   ]
 }

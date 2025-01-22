@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dasan Cermen",
-    "Babakan",
-    "Bertais",
-    "Selagalas",
-    "Abian Tubuh Baru",
-    "Turida",
-    "Mandalika"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dasan Cermen"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bertais"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Selagalas"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Abian Tubuh Baru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Turida"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mandalika"
+    }
   ]
 }

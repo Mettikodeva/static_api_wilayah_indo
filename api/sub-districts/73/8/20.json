@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Ujung Tanah",
-    "Pacubbe",
-    "Panyiwi",
-    "Latonro",
-    "Watu",
-    "Nagauleng (Naga Uleng)",
-    "Cenrana",
-    "Pallime",
-    "Laoni",
-    "Labotto",
-    "Awang Cengrana / Cenrana",
-    "Labonge (Lebbongnge)",
-    "Ajalase",
-    "Pusunge (Pusungnge)",
-    "Pallae",
-    "Watangta (Watang Ta)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ujung Tanah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pacubbe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panyiwi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Latonro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nagauleng (Naga Uleng)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cenrana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pallime"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Laoni"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labotto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Awang Cengrana / Cenrana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labonge (Lebbongnge)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ajalase"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pusunge (Pusungnge)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pallae"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Watangta (Watang Ta)"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pangkalan Baru",
-    "Desa Baru",
-    "Teratak Buluh",
-    "Lubuk Siam",
-    "Buluh Cina",
-    "Buluh Nipis",
-    "Tanah Merah",
-    "Pandau Jaya",
-    "Tanjung Balam",
-    "Kepau Jaya",
-    "Pangkalan Serik",
-    "Kubang Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangkalan Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Desa Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teratak Buluh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Siam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buluh Cina"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buluh Nipis"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pandau Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Balam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kepau Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pangkalan Serik"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kubang Jaya"
+    }
   ]
 }

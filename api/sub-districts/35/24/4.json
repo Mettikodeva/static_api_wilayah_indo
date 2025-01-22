@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Kedungmentawar",
-    "Cerme",
-    "Gebangangkrik",
-    "Ngasemlemahbang (Ngasem Lemahbang)",
-    "Slaharwotan",
-    "Ganggangtingan (Ganggantingan)",
-    "Jejel",
-    "Purwokerto",
-    "Kakatpenjalin",
-    "Tlemang",
-    "Mendogo",
-    "Lawak",
-    "Drujugurit",
-    "Girik",
-    "Munungrejo",
-    "Ngimbang",
-    "Durikedungjero",
-    "Lamongrejo",
-    "Sendangrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungmentawar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cerme"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gebangangkrik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngasemlemahbang (Ngasem Lemahbang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Slaharwotan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ganggangtingan (Ganggantingan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jejel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purwokerto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kakatpenjalin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tlemang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mendogo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lawak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Drujugurit"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Girik"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Munungrejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngimbang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Durikedungjero"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lamongrejo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sendangrejo"
+    }
   ]
 }

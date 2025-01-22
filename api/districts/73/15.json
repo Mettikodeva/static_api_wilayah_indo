@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Mattiro Sompe (Matirro Sompe)",
-    "Suppa",
-    "Mattiro Bulu",
-    "Watang Sawitto (Watang Sawito)",
-    "Patampanua",
-    "Duampanua",
-    "Lembang",
-    "Cempa",
-    "Tiroang",
-    "Lansirang (Lanrisang)",
-    "Paleteang",
-    "Batulappa (Batu Lappa)"
+    {
+      "district_id": 1,
+      "kecamatan": "Mattiro Sompe (Matirro Sompe)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Suppa"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mattiro Bulu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Watang Sawitto (Watang Sawito)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Patampanua"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Duampanua"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lembang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Cempa"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tiroang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Lansirang (Lanrisang)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Paleteang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Batulappa (Batu Lappa)"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bete Bete",
-    "Padabahao (Padabaho)",
-    "Labota",
-    "Fatufia",
-    "Keurea",
-    "Bahodopi",
-    "Lalampu",
-    "Siumbatu",
-    "Dampala",
-    "Le-Le",
-    "Baho Makmur (Bahomakmur)",
-    "Makartijaya (Makarti Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bete Bete"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padabahao (Padabaho)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fatufia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keurea"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bahodopi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lalampu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siumbatu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dampala"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Le-Le"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baho Makmur (Bahomakmur)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Makartijaya (Makarti Jaya)"
+    }
   ]
 }

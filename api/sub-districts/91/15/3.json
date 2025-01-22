@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Saurisirami",
-    "Sinonde",
-    "Kali Baru",
-    "Sirami",
-    "Bunggu",
-    "Kowogi",
-    "Emauri",
-    "Obutay",
-    "Wairo"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saurisirami"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinonde"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kali Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sirami"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bunggu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kowogi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Emauri"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Obutay"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wairo"
+    }
   ]
 }

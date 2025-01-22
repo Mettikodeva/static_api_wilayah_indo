@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Banyurip",
-    "Buaran Kradenan",
-    "Jenggot",
-    "Kuripan Kertoharjo",
-    "Kuripan Yosorejo",
-    "Sokoduwet"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Banyurip"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Buaran Kradenan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jenggot"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kuripan Kertoharjo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kuripan Yosorejo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sokoduwet"
+    }
   ]
 }

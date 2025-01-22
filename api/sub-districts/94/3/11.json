@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Badawo",
-    "Uwamani",
-    "Muyadebe",
-    "Woubutu",
-    "Kugitadi",
-    "Kobouyagapa",
-    "Geko",
-    "Kinou",
-    "Toko",
-    "Yagiyo Butu",
-    "Obaidagi"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Badawo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Uwamani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muyadebe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Woubutu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kugitadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kobouyagapa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Geko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kinou"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Toko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yagiyo Butu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Obaidagi"
+    }
   ]
 }

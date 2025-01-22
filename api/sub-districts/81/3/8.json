@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lumasebu",
-    "Kilmasa",
-    "Meyano Bab",
-    "Alusi Krawain",
-    "Alusi Kelaan",
-    "Alusi Bukjalim",
-    "Alusi Tamrian",
-    "Alusi Batjasi",
-    "Lorwembun",
-    "Meyano Das"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lumasebu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kilmasa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meyano Bab"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alusi Krawain"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alusi Kelaan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alusi Bukjalim"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alusi Tamrian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Alusi Batjasi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lorwembun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meyano Das"
+    }
   ]
 }

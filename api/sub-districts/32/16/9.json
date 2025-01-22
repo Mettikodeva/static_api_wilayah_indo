@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cikarangkota (Cikarang Kota)",
-    "Karangbaru (Karang Baru)",
-    "Karangasih",
-    "Waluya",
-    "Karangraharja",
-    "Pasirgombong (Pasir Gombong)",
-    "Simpangan",
-    "Tanjungsari",
-    "Hajarmekar (Harja Mekar)",
-    "Mekarmukti",
-    "Wangunharja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikarangkota (Cikarang Kota)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangbaru (Karang Baru)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangasih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waluya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangraharja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirgombong (Pasir Gombong)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hajarmekar (Harja Mekar)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarmukti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wangunharja"
+    }
   ]
 }

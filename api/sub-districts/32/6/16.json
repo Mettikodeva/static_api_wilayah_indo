@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cikeusal",
-    "Cibalanarik",
-    "Sukanagara",
-    "Tanjungjaya",
-    "Cilolohan",
-    "Cintajaya",
-    "Sukasenang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikeusal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibalanarik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukanagara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungjaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cilolohan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cintajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukasenang"
+    }
   ]
 }

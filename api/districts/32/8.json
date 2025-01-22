@@ -1,36 +1,132 @@
 {
   "districts": [
-    "Kadugede",
-    "Ciniru",
-    "Subang",
-    "Ciwaru",
-    "Cibingbin",
-    "Luragung",
-    "Lebakwangi",
-    "Garawangi",
-    "Kuningan",
-    "Ciawigebang",
-    "Cidahu",
-    "Jalaksana",
-    "Cilimus",
-    "Mandirancan",
-    "Selajambe",
-    "Kramatmulya (Kramat Mulya)",
-    "Darma",
-    "Cigugur",
-    "Pasawahan",
-    "Nusaherang",
-    "Cipicung",
-    "Pancalang",
-    "Japara",
-    "Cimahi",
-    "Cilebak",
-    "Hantara",
-    "Kalimanggis",
-    "Cibeureum",
-    "Karang Kancana (Karangkancana)",
-    "Maleber",
-    "Sindangagung (Sindang Agung)",
-    "Cigandamekar"
+    {
+      "district_id": 1,
+      "kecamatan": "Kadugede"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ciniru"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Subang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ciwaru"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cibingbin"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Luragung"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lebakwangi"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Garawangi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kuningan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ciawigebang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Cidahu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Jalaksana"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Cilimus"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Mandirancan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Selajambe"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kramatmulya (Kramat Mulya)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Darma"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Cigugur"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Pasawahan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Nusaherang"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Cipicung"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Pancalang"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Japara"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Cimahi"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Cilebak"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Hantara"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Kalimanggis"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Cibeureum"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Karang Kancana (Karangkancana)"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Maleber"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Sindangagung (Sindang Agung)"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Cigandamekar"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Muara Tais",
-    "Lubuak Gadang (Lubuk Gadang)",
-    "Pintu Padang",
-    "Muaro Tais Koto Gadang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Tais"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuak Gadang (Lubuk Gadang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pintu Padang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muaro Tais Koto Gadang"
+    }
   ]
 }

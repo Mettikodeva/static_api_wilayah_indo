@@ -1,10 +1,28 @@
 {
   "cities": [
-    "Kepulauan Seribu",
-    "Jakarta Pusat",
-    "Jakarta Utara",
-    "Jakarta Barat",
-    "Jakarta Selatan",
-    "Jakarta Timur"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kepulauan Seribu"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Jakarta Pusat"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Jakarta Utara"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Jakarta Barat"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Jakarta Selatan"
+    },
+    {
+      "city_id": 75,
+      "kabupaten_kota": "Jakarta Timur"
+    }
   ]
 }

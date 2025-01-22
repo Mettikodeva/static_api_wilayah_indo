@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sei/Sungai Putri",
-    "Tanjung Baik Budi",
-    "Kuala Tolak",
-    "Kuala Satong",
-    "Lamon Satong (Laman Satong)"
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei/Sungai Putri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Baik Budi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kuala Tolak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kuala Satong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lamon Satong (Laman Satong)"
+    }
   ]
 }

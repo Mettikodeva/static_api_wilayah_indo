@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bolu Bokat",
-    "Mara Desa",
-    "Weluk Praimemang (Weluk Prai Memang)",
-    "Bolu Bokat Utara",
-    "Maradesa Timur",
-    "Maradesa Selatan",
-    "Bolu Bokat Barat",
-    "Wangga Waiyengu",
-    "Sambali Loku",
-    "Holur Kambata"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bolu Bokat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mara Desa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Weluk Praimemang (Weluk Prai Memang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bolu Bokat Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maradesa Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maradesa Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bolu Bokat Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wangga Waiyengu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sambali Loku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Holur Kambata"
+    }
   ]
 }

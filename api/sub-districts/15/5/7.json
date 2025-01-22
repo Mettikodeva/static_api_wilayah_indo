@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Suka Makmur",
-    "Marga Mulya",
-    "Panca Mulya",
-    "Marga Manunggal Jaya",
-    "Tanjung Harapan",
-    "Berkah (Desa Berkah)",
-    "Bukit Makmur",
-    "Bukit Mas",
-    "Mekar Sari Makmur (Mekarsari Makmur)",
-    "Bakti Mulya",
-    "Panca Bakti"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panca Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marga Manunggal Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Berkah (Desa Berkah)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bukit Makmur"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bukit Mas"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Mekar Sari Makmur (Mekarsari Makmur)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Bakti Mulya"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Panca Bakti"
+    }
   ]
 }

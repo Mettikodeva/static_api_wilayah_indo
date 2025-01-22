@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanah Kongkong",
-    "Bentengnge",
-    "Terang-Terang",
-    "Kalumeme",
-    "Bintarore",
-    "Kasimpureng",
-    "Caile",
-    "L O K A (Loka)",
-    "Ela-Ela"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Kongkong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bentengnge"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Terang-Terang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalumeme"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bintarore"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kasimpureng"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Caile"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "L O K A (Loka)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ela-Ela"
+    }
   ]
 }

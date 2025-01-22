@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sekabuk",
-    "Pentek",
-    "Bum-bun (Bumbun / Bunbun)",
-    "Amawang/Amawaking",
-    "Ansiap",
-    "Suak Berangan/Barangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekabuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pentek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bum-bun (Bumbun / Bunbun)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amawang/Amawaking"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ansiap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suak Berangan/Barangan"
+    }
   ]
 }

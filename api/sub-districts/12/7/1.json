@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kuta Bayu",
-    "Gunung Paribuan",
-    "Simompar (Simempar)",
-    "Gunung Seribu",
-    "Gunung Sinembah",
-    "Bintang Meriah",
-    "Kuta Tengah",
-    "Pekan Gunung Mariah (Pekan Gunung Meriah)",
-    "Gunung Meriah",
-    "Ujung Meriah",
-    "Marjandi Pematang (Marjanji Pematang)",
-    "Marjandi Tongah (Marjanji Tongah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuta Bayu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Paribuan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simompar (Simempar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Seribu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Sinembah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bintang Meriah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuta Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pekan Gunung Mariah (Pekan Gunung Meriah)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Meriah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ujung Meriah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Marjandi Pematang (Marjanji Pematang)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Marjandi Tongah (Marjanji Tongah)"
+    }
   ]
 }

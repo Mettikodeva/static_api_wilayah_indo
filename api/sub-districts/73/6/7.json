@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tetebatu",
-    "Pangkabinanga",
-    "Parangbanoa (Parang Banoa)",
-    "Mangalli (Mangalili)",
-    "Bontoala",
-    "Pallangga",
-    "Julubori",
-    "Kampili",
-    "Panakkukang",
-    "Bontoramba",
-    "Jenetallasa",
-    "Julukanaya",
-    "Julupa'mai",
-    "Bungaejaya",
-    "Toddotoa",
-    "Taeng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tetebatu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pangkabinanga"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Parangbanoa (Parang Banoa)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Mangalli (Mangalili)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bontoala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pallangga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Julubori"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampili"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panakkukang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bontoramba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jenetallasa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Julukanaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Julupa'mai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bungaejaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Toddotoa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Taeng"
+    }
   ]
 }

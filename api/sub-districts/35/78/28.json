@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Asem Rowo",
-    "Genting Kalianak",
-    "Tambak Sarioso"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Asem Rowo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Genting Kalianak"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tambak Sarioso"
+    }
   ]
 }

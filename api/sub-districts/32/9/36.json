@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tegalsari",
-    "Kaliwulu",
-    "Panembahan",
-    "Trusmi Wetan",
-    "Trusmi Kulon",
-    "Wotgali",
-    "Gamel",
-    "Sarabau",
-    "Cankring (Cangkring)",
-    "Pangkalan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaliwulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panembahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Trusmi Wetan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trusmi Kulon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wotgali"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gamel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sarabau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cankring (Cangkring)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pangkalan"
+    }
   ]
 }

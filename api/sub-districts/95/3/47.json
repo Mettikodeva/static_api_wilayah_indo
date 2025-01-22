@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Hilipuk",
-    "Homidipmu",
-    "Kini",
-    "Yaruhuk",
-    "Jamin (Yamin)",
-    "Dindok",
-    "Sohondipmu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hilipuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Homidipmu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kini"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yaruhuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jamin (Yamin)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dindok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sohondipmu"
+    }
   ]
 }

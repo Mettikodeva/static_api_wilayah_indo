@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jimbung",
-    "Ngemplak",
-    "Kalikotes",
-    "Krajan",
-    "Tambongwetan",
-    "Jogosetran",
-    "Gemblegan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jimbung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngemplak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalikotes"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Krajan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambongwetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jogosetran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gemblegan"
+    }
   ]
 }

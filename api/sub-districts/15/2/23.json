@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Muara Kibul",
-    "Tanjung Putus",
-    "Pulau Tebakar (Pulau Terbakar)",
-    "Batang Kibul",
-    "Sungai Tabir",
-    "Telentam",
-    "Ngaol",
-    "Air Liki",
-    "Pulau Lebar",
-    "Muara Langeh (Muaro Langeh)",
-    "Tanjung Beringin",
-    "Baru Kibul",
-    "Ngaol Ilir",
-    "Air Liki Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Kibul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Putus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Tebakar (Pulau Terbakar)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batang Kibul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Tabir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telentam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngaol"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Liki"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Lebar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara Langeh (Muaro Langeh)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Baru Kibul"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngaol Ilir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Air Liki Baru"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Air Molek (Air Molek I)",
-    "Kembang Harum Beras Hilir (Kembang Harum)",
-    "Tanjung Gading",
-    "Sekar Mawar",
-    "Tanah Merah",
-    "Petalongan",
-    "Air Molek II",
-    "Pasir Keranji",
-    "Jati Rejo (Jatirejo)",
-    "Batu Gajah",
-    "Candi Rejo",
-    "Lembah Dusun Gading",
-    "Serumpun Jaya"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Air Molek (Air Molek I)"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Kembang Harum Beras Hilir (Kembang Harum)"
+    },
+    {
+      "sub_district_id": 1031,
+      "desa_kelurahan": "Tanjung Gading"
+    },
+    {
+      "sub_district_id": 1032,
+      "desa_kelurahan": "Sekar Mawar"
+    },
+    {
+      "sub_district_id": 1033,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Petalongan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Molek II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Keranji"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jati Rejo (Jatirejo)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Batu Gajah"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Candi Rejo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lembah Dusun Gading"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Serumpun Jaya"
+    }
   ]
 }

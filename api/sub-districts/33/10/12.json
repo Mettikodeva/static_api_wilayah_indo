@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Temuwangi",
-    "Beji",
-    "Ngaren",
-    "Jatimulyo",
-    "Jetiswetan (Jetis Wetan)",
-    "Keden",
-    "Bendo",
-    "Tambakboyo",
-    "Kedungan",
-    "Sobayan",
-    "Kalangan",
-    "Troketon",
-    "Kaligawe",
-    "Lemahireng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Temuwangi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngaren"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatimulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jetiswetan (Jetis Wetan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keden"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambakboyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sobayan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalangan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Troketon"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kaligawe"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lemahireng"
+    }
   ]
 }

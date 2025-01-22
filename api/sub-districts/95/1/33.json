@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bugi",
-    "Manda",
-    "Dewene",
-    "Totni",
-    "Tagulik",
-    "Walak Selatan",
-    "Kodlangga",
-    "Air Garam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bugi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dewene"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Totni"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tagulik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Walak Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kodlangga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Garam"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Muyetadi",
-    "Mogeya",
-    "Epabutu",
-    "Tiga Damuto",
-    "Bebiyai",
-    "Idaiyo",
-    "Tinou",
-    "Damuto",
-    "Obaiyodimi",
-    "Amopa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muyetadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mogeya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Epabutu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiga Damuto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bebiyai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Idaiyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tinou"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Damuto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Obaiyodimi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Amopa"
+    }
   ]
 }

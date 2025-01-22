@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Paitana",
-    "Bonto Mate'ne (Bontomatene)",
-    "Mangepong",
-    "Bululoe",
-    "Kayuloe Barat",
-    "Langkura",
-    "Bungungloe",
-    "Kayuloe Timur",
-    "Jombe",
-    "Tanjonga",
-    "Parasanganberu (Parasangang Beru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paitana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bonto Mate'ne (Bontomatene)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangepong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bululoe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kayuloe Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langkura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bungungloe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kayuloe Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jombe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjonga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Parasanganberu (Parasangang Beru)"
+    }
   ]
 }

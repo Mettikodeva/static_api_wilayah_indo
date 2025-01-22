@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Batu Nagodang Siatas",
-    "Onan Ganjang",
-    "Parbotihan",
-    "Sihikit (Sihikkit)",
-    "Parnapa",
-    "Janji Nagodang",
-    "Sampe Tua (Sampetua)",
-    "Hutajulu",
-    "Sibuluan",
-    "Sigalogo",
-    "Aek Godang Arbaan (Aek Godang)",
-    "Sanggaran II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Nagodang Siatas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Onan Ganjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parbotihan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sihikit (Sihikkit)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parnapa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Janji Nagodang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sampe Tua (Sampetua)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hutajulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sibuluan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sigalogo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aek Godang Arbaan (Aek Godang)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sanggaran II"
+    }
   ]
 }

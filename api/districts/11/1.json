@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Bakongan",
-    "Kluet Utara",
-    "Kluet Selatan",
-    "Labuhan Haji",
-    "Meukek",
-    "Samadua (Sama Dua)",
-    "Sawang",
-    "Tapaktuan (Tapak Tuan)",
-    "Trumon",
-    "Pasi Raja (Pasie Raja)",
-    "Labuhan Haji Timur",
-    "Labuhan Haji Barat",
-    "Kluet Tengah",
-    "Kluet Timur",
-    "Bakongan Timur",
-    "Trumon Timur",
-    "Kota Bahagia",
-    "Trumon Tengah"
+    {
+      "district_id": 1,
+      "kecamatan": "Bakongan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kluet Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kluet Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Labuhan Haji"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Meukek"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Samadua (Sama Dua)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sawang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tapaktuan (Tapak Tuan)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Trumon"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pasi Raja (Pasie Raja)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Labuhan Haji Timur"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Labuhan Haji Barat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kluet Tengah"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kluet Timur"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bakongan Timur"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Trumon Timur"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kota Bahagia"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Trumon Tengah"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Rumbin",
-    "Warbinsi",
-    "Rodifu",
-    "Wonabraidi",
-    "Wouna",
-    "Mamorbo",
-    "Faknikdi",
-    "Armnu",
-    "Sup Mbrur",
-    "Wodu",
-    "Dasdo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rumbin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Warbinsi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rodifu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonabraidi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wouna"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mamorbo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Faknikdi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Armnu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sup Mbrur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wodu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dasdo"
+    }
   ]
 }

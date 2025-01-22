@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Karangpilang",
-    "Kebraon",
-    "Kedurus",
-    "Warugunung (Waru Gunung)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karangpilang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kebraon"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kedurus"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Warugunung (Waru Gunung)"
+    }
   ]
 }

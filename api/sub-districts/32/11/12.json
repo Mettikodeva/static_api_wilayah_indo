@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukasari",
-    "Genteng",
-    "Banyuresmi",
-    "Nanggerang",
-    "Mekarsari",
-    "Sindangsari",
-    "Sukarapih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Genteng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banyuresmi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nanggerang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukarapih"
+    }
   ]
 }

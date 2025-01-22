@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dulang",
-    "Patarongan",
-    "Pangongsean",
-    "Krampon",
-    "Bringinnonggal (Bringin Nonggal)",
-    "Torjun",
-    "Patapan",
-    "Jeruk Porot",
-    "Kodak",
-    "Kanjar",
-    "Kara",
-    "Tanah Merah"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dulang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patarongan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangongsean"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Krampon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bringinnonggal (Bringin Nonggal)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Torjun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Patapan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jeruk Porot"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kodak"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kanjar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kara"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanah Merah"
+    }
   ]
 }

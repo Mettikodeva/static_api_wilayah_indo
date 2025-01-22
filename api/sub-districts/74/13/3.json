@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wamelai",
-    "Lapadaku",
-    "Lagadi",
-    "Latugho",
-    "Latompe",
-    "Lalemba",
-    "Madampi",
-    "Watumela"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wamelai"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lapadaku"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lagadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Latugho"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Latompe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lalemba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Madampi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Watumela"
+    }
   ]
 }

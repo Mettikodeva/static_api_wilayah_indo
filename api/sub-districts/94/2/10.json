@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Yarmukum",
-    "Pilia",
-    "Yaniruk",
-    "Gwenggu",
-    "Tukwi",
-    "Tiru",
-    "Yogorini",
-    "Nalime",
-    "Urgele",
-    "Yagonik",
-    "Lulame"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yarmukum"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pilia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yaniruk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gwenggu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tukwi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tiru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yogorini"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nalime"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Urgele"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yagonik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lulame"
+    }
   ]
 }

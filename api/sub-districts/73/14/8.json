@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Empagae",
-    "Sidenreng (Watang Sidenreng)",
-    "Kanyuara",
-    "Mojong",
-    "Damai",
-    "Talumae",
-    "Aka-Akae",
-    "Talawe"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Empagae"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sidenreng (Watang Sidenreng)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kanyuara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mojong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Damai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talumae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aka-Akae"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talawe"
+    }
   ]
 }

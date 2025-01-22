@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Batu Lidung",
-    "Malinau Kota",
-    "Pelita Kanaan",
-    "Malinau Hulu",
-    "Malinau Hilir",
-    "Tanjung Keranjang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Lidung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malinau Kota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pelita Kanaan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malinau Hulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malinau Hilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Keranjang"
+    }
   ]
 }

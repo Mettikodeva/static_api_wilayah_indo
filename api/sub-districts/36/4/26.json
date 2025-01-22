@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Jawilan",
-    "Bojot",
-    "Cemplang",
-    "Pagintungan",
-    "Pasirbuyut",
-    "Majasari",
-    "Parakan",
-    "Kareo",
-    "Junti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jawilan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojot"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cemplang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagintungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasirbuyut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Majasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kareo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Junti"
+    }
   ]
 }

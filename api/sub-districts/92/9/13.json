@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Werur",
-    "Bukit",
-    "Wertam",
-    "Werwaf",
-    "Werbes",
-    "Nombrak",
-    "Bikar",
-    "Syunai",
-    "Suyam",
-    "Wertim"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Werur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wertam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Werwaf"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Werbes"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nombrak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bikar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Syunai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suyam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wertim"
+    }
   ]
 }

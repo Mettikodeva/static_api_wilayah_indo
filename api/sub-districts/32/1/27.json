@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasir Muncang",
-    "Cimande Hilir",
-    "Ciderum",
-    "Caringin",
-    "Ciherang Pondok",
-    "Cinagara",
-    "Cimande",
-    "Pancawati",
-    "Muara Jaya (Muarajaya)",
-    "Basir Buncir (Pasir Buncir)",
-    "Lemah Duhur",
-    "Tangkil"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Muncang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimande Hilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciderum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ciherang Pondok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cinagara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cimande"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pancawati"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Jaya (Muarajaya)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Basir Buncir (Pasir Buncir)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lemah Duhur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tangkil"
+    }
   ]
 }

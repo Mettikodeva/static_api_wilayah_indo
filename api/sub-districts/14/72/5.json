@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Teluk Makmur",
-    "Mundam",
-    "Guntung",
-    "Pelintung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Teluk Makmur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mundam"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Guntung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pelintung"
+    }
   ]
 }

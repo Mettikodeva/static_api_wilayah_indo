@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Rangkasbitung Barat",
-    "Cijoro Lebak",
-    "Muara Ciujung Barat",
-    "Cijoro Pasir",
-    "Muara Ciujung Timur",
-    "Pasirtanjung",
-    "Citeras",
-    "Nameng",
-    "Kolelet Wetan",
-    "Jatimulya",
-    "Mekarsari",
-    "Pabuaran",
-    "Rangkasbitung Timur",
-    "Sukamanah",
-    "Cimangeunteung (Cimangeungteung)",
-    "Narimbang Mulia"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rangkasbitung Barat"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cijoro Lebak"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Muara Ciujung Barat"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cijoro Pasir"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Muara Ciujung Timur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasirtanjung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Citeras"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nameng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kolelet Wetan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jatimulya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rangkasbitung Timur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cimangeunteung (Cimangeungteung)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Narimbang Mulia"
+    }
   ]
 }

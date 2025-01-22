@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kabiding (Betaabib)",
-    "Aldom",
-    "Kutdol",
-    "Polsam",
-    "Akmakot",
-    "Mabilabol",
-    "Bunamdol",
-    "Molbib Silibib"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kabiding (Betaabib)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Aldom"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kutdol"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Polsam"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Akmakot"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mabilabol"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bunamdol"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Molbib Silibib"
+    }
   ]
 }

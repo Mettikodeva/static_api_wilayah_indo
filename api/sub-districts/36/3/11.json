@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sukatani (Suka Tani)",
-    "Rajeg",
-    "Rajeg Mulya (Rajegmulya)",
-    "Pangarengan",
-    "Jambu Karya",
-    "Lembangsari (Lembang Sari)",
-    "Sukamanah (Suka Manah)",
-    "Tanjakan",
-    "Tanjakan Mekar",
-    "Sukasari (Suka Sari)",
-    "Ranca Bango",
-    "Daon",
-    "Mekarsari"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sukatani (Suka Tani)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rajeg"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rajeg Mulya (Rajegmulya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangarengan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jambu Karya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lembangsari (Lembang Sari)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamanah (Suka Manah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjakan Mekar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukasari (Suka Sari)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ranca Bango"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Daon"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekarsari"
+    }
   ]
 }

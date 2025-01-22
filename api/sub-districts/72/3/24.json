@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tibo",
-    "Kaliburu",
-    "Batusuya",
-    "Saloya",
-    "Batusuya Go'o",
-    "Kaliburu Kata"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tibo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaliburu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batusuya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saloya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batusuya Go'o"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaliburu Kata"
+    }
   ]
 }

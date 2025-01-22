@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mampang Prapatan",
-    "Bangka",
-    "Pela Mampang",
-    "Tegal Parang",
-    "Kuningan Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mampang Prapatan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bangka"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pela Mampang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tegal Parang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kuningan Barat"
+    }
   ]
 }

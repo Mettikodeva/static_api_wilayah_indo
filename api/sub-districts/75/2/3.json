@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Dulupi",
-    "Tabongo",
-    "Kotaraja",
-    "Polohungo",
-    "Pangi",
-    "Tangga Jaya",
-    "Tanah Putih",
-    "Tangga Barito"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dulupi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tabongo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kotaraja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Polohungo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tangga Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanah Putih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tangga Barito"
+    }
   ]
 }

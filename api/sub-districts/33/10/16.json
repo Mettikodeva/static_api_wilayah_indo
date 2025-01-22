@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Dukuh",
-    "Jetis",
-    "Butuhan",
-    "Banaran",
-    "Bowan",
-    "Sribit",
-    "Mendak",
-    "Krecek",
-    "Karang",
-    "Sabrang",
-    "Tlobong",
-    "Gatak",
-    "Delanggu",
-    "Kepanjen",
-    "Segaran",
-    "Sidomulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Butuhan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bowan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sribit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mendak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Krecek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sabrang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tlobong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gatak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Delanggu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kepanjen"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Segaran"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sidomulyo"
+    }
   ]
 }

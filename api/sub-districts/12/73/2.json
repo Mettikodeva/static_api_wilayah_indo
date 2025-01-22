@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kota Baringin (Beringin)",
-    "Pasar Baru",
-    "Pasar Belakang",
-    "Pancuran Gerobak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kota Baringin (Beringin)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasar Belakang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pancuran Gerobak"
+    }
   ]
 }

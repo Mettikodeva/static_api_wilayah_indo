@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Maima",
-    "Minimo",
-    "Esiak",
-    "Heraewa",
-    "Kepi",
-    "Husewa",
-    "Menagaima"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maima"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Minimo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Esiak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Heraewa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kepi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Husewa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Menagaima"
+    }
   ]
 }

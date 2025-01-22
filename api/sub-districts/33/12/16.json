@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kismantoro",
-    "Gesing",
-    "Pucung",
-    "Plosorejo",
-    "Bugelan",
-    "Ngroto",
-    "Miri",
-    "Lemahbang",
-    "Gambiranom",
-    "Gedawung"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kismantoro"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gesing"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pucung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Plosorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bugelan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngroto"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Miri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lemahbang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gambiranom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gedawung"
+    }
   ]
 }

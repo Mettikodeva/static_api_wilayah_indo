@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tugu Sari",
-    "Simpang Sari (Simpangsari)",
-    "Sukajaya",
-    "Sindang Pagar",
-    "Sukapura",
-    "Way Petay/Petai"
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tugu Sari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Sari (Simpangsari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sindang Pagar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukapura"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Way Petay/Petai"
+    }
   ]
 }

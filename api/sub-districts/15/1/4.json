@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Hiang Tinggi",
-    "Ambai Atas",
-    "Tanjungmudo (Tanjung Mudo)",
-    "Pendung Tengah",
-    "Pendung Hilir",
-    "Koto Baru Hiang",
-    "Betung Kuning",
-    "Ambai Bawah",
-    "Hiang Karya",
-    "Hiang Lestari",
-    "Angkasa Pura",
-    "Hiang Sakti",
-    "Koto Sekilan Ambai",
-    "Penawar Tinggi"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hiang Tinggi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ambai Atas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjungmudo (Tanjung Mudo)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pendung Tengah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pendung Hilir"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Koto Baru Hiang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Betung Kuning"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Ambai Bawah"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Hiang Karya"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Hiang Lestari"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Angkasa Pura"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Hiang Sakti"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Koto Sekilan Ambai"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Penawar Tinggi"
+    }
   ]
 }

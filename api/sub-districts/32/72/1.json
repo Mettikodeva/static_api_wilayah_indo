@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Gunung Puyuh",
-    "Karamat",
-    "Sriwidari (Sriwedari)",
-    "Karang Tengah (Karangtengah)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gunung Puyuh"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karamat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sriwidari (Sriwedari)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karang Tengah (Karangtengah)"
+    }
   ]
 }

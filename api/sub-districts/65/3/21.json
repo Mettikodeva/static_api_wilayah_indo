@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tau Lumbis",
-    "Lipaga (Lepaga)",
-    "Bululaun Hulu (Bulu Laun Hulu)",
-    "Kalisun",
-    "Mamasin (Mamanis)",
-    "Sibalu",
-    "Duyan",
-    "Tuntulibing (Tantu Libing)",
-    "Tetagas",
-    "Kabungolor (Kabungalor)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tau Lumbis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lipaga (Lepaga)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bululaun Hulu (Bulu Laun Hulu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalisun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mamasin (Mamanis)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sibalu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Duyan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuntulibing (Tantu Libing)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tetagas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kabungolor (Kabungalor)"
+    }
   ]
 }

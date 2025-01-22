@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Payung",
-    "Rimo Kayu (Rimokayu)",
-    "Selandi",
-    "Batukarang",
-    "Gurukinayan",
-    "Cimbang",
-    "Ujung Payung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Payung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rimo Kayu (Rimokayu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selandi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batukarang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gurukinayan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Cimbang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Ujung Payung"
+    }
   ]
 }

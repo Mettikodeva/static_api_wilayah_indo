@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lombok",
-    "Heni Arong (Heni Harong)",
-    "Suka Banjar",
-    "Lombok Timur",
-    "Suka Banjar II Ujung Rembun",
-    "Suka Maju",
-    "Ujung",
-    "Keagungan",
-    "Tawan Suka Mulya",
-    "Pancur Mas",
-    "Lombok Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lombok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Heni Arong (Heni Harong)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Banjar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lombok Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Banjar II Ujung Rembun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ujung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keagungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tawan Suka Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pancur Mas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lombok Selatan"
+    }
   ]
 }

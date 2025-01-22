@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Pongo",
-    "Wanci",
-    "Wandoka",
-    "Waetuno",
-    "Wandoka Utara",
-    "Wandoka Selatan",
-    "Sombu",
-    "Waha",
-    "Tindoi",
-    "Maleko",
-    "Longa",
-    "Pada Raya Makmur",
-    "Waelumu",
-    "Patuno",
-    "Waginopo",
-    "Tindoi Timur",
-    "Posalu",
-    "Koroe Onawa (Koroe Onawe)",
-    "Wapia-pia",
-    "Pookambua"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pongo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wanci"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wandoka"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Waetuno"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Wandoka Utara"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Wandoka Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sombu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waha"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tindoi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maleko"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Longa"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pada Raya Makmur"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Waelumu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Patuno"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Waginopo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tindoi Timur"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Posalu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Koroe Onawa (Koroe Onawe)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Wapia-pia"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pookambua"
+    }
   ]
 }

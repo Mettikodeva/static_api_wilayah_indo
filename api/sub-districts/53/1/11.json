@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Takari",
-    "Noelmina",
-    "Benu",
-    "Hueknutu",
-    "Oelnaineno",
-    "Tanini",
-    "Kauniki",
-    "Tuapanaf",
-    "Fatukona",
-    "Oesusu"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Takari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Noelmina"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hueknutu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oelnaineno"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanini"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kauniki"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuapanaf"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Fatukona"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Oesusu"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "cities": [
-    "Bulungan",
-    "Malinau",
-    "Nunukan",
-    "Tana Tidung",
-    "Tarakan"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Bulungan"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Malinau"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Nunukan"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Tana Tidung"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Tarakan"
+    }
   ]
 }

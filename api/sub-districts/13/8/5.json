@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanjuang Baringin",
-    "Jambak",
-    "Durian Tinggi",
-    "Pauah",
-    "Aia Manggih",
-    "Sundata",
-    "Tanjuang Baringin Utara",
-    "Tanjuang Baringin Selatan",
-    "Aia Manggih Utara",
-    "Aia Manggih Selatan",
-    "Aia Manggih Barat",
-    "Sundata Utara",
-    "Sundata Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjuang Baringin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Durian Tinggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pauah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aia Manggih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sundata"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjuang Baringin Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjuang Baringin Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aia Manggih Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aia Manggih Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aia Manggih Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sundata Utara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sundata Selatan"
+    }
   ]
 }

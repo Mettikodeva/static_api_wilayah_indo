@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Rubung Buyung",
-    "Patai",
-    "Luwuk Ranggan (Lubuk Ranggan)",
-    "Jemaras",
-    "Cempaka Mulia Timur",
-    "Cempaka Mulia Barat",
-    "Luwuk Bunter (Lubuk Bunter)",
-    "Sei/Sungai Paring"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rubung Buyung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Luwuk Ranggan (Lubuk Ranggan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jemaras"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cempaka Mulia Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cempaka Mulia Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Luwuk Bunter (Lubuk Bunter)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei/Sungai Paring"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sidorejo",
-    "Nendayung (Nendagung)",
-    "Gunung Dempo",
-    "Tebat Giri Indah",
-    "Tumbak Ulas",
-    "Ulu Lurah/Rurah",
-    "Tanjung Agung (Tanjung Payang)",
-    "Basemah Sersan (Besemah Serasan)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nendayung (Nendagung)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gunung Dempo"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Tebat Giri Indah"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Tumbak Ulas"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Ulu Lurah/Rurah"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Tanjung Agung (Tanjung Payang)"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Basemah Sersan (Besemah Serasan)"
+    }
   ]
 }

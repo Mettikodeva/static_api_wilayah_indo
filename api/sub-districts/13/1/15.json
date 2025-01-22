@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Silaut",
-    "Sungai Sirah (Sungaisirah)",
-    "Sungai Sarik (Sungaisarik)",
-    "Sungai Pulai (Sungaipulai)",
-    "Pasir Binjai",
-    "Talang Binjai",
-    "Durian Seribu",
-    "Lubuk Bunta",
-    "Air Hitam",
-    "Sambungo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silaut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Sirah (Sungaisirah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Sarik (Sungaisarik)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Pulai (Sungaipulai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasir Binjai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Binjai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Durian Seribu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Bunta"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sambungo"
+    }
   ]
 }

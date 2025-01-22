@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kedung Dawa (Kedungdawa)",
-    "Babakan Jaya (Babakanjaya)",
-    "Gabus Kulon (Gabuskulon)",
-    "Sekar Mulya (Sekarmulya)",
-    "Kedokan Gabus (Kedokangabus)",
-    "Rancamulya",
-    "Rancahan",
-    "Gabus Wetan (Gabuswetan)",
-    "Drunten Wetan",
-    "Drunten Kulon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedung Dawa (Kedungdawa)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babakan Jaya (Babakanjaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gabus Kulon (Gabuskulon)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sekar Mulya (Sekarmulya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedokan Gabus (Kedokangabus)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rancamulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rancahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gabus Wetan (Gabuswetan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Drunten Wetan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Drunten Kulon"
+    }
   ]
 }

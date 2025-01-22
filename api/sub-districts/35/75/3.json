@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Blandongan",
-    "Kepel",
-    "Tapa'an (Tapaan)",
-    "Bakalan",
-    "Krampyangan",
-    "Bugul Kidul"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Blandongan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kepel"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tapa'an (Tapaan)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bakalan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Krampyangan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bugul Kidul"
+    }
   ]
 }

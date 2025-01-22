@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Jawa Kanan",
-    "Jawa Kanan Ss",
-    "Wira Karya",
-    "Dempo",
-    "Jawa Kiri",
-    "Karya Bakti",
-    "Mesat Jaya",
-    "Mesat Seni",
-    "Cereme Taba"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jawa Kanan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jawa Kanan Ss"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wira Karya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Dempo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jawa Kiri"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karya Bakti"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mesat Jaya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mesat Seni"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Cereme Taba"
+    }
   ]
 }

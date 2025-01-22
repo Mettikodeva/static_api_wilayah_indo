@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cap",
-    "Madopolo (Madapolo)",
-    "Galala",
-    "Madopolo Barat (Madapolo Barat)",
-    "Waringi",
-    "Pasir Putih",
-    "Madopolo Timur (Madapolo Timur)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Madopolo (Madapolo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Galala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Madopolo Barat (Madapolo Barat)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waringi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Madopolo Timur (Madapolo Timur)"
+    }
   ]
 }

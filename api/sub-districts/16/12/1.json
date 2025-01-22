@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Talang Ubi Timur",
-    "Talang Ubi Barat",
-    "Talang Ubi Utara",
-    "Talang Ubi Selatan",
-    "Pasar Bhayangkara",
-    "Handayani Mulya",
-    "Talang Bulang",
-    "Benuang",
-    "Talang Akar",
-    "Sungai Ibul",
-    "Karta Dewa",
-    "Panta Dewa",
-    "Sungai Baung",
-    "Semangus",
-    "Sinar Dewa",
-    "Benakat Minyak",
-    "Suka Maju (Sukamaju)",
-    "Suka Damai",
-    "Beruge Darat",
-    "Simpang Tais"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Talang Ubi Timur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Talang Ubi Barat"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Talang Ubi Utara"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Talang Ubi Selatan"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Pasar Bhayangkara"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Handayani Mulya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talang Bulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Benuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Akar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Ibul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karta Dewa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panta Dewa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Baung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Semangus"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sinar Dewa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Benakat Minyak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suka Maju (Sukamaju)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Beruge Darat"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Simpang Tais"
+    }
   ]
 }

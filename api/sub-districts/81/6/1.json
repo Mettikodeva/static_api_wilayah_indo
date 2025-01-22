@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kamarian",
-    "Seruawan",
-    "Kairatu",
-    "Waimital",
-    "Hatusua",
-    "Waipirit",
-    "Uraur"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kamarian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seruawan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kairatu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Waimital"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hatusua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Waipirit"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Uraur"
+    }
   ]
 }

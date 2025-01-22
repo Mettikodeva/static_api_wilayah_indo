@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bone Bone",
-    "Tamuku",
-    "Sidomukti",
-    "Sukaraya",
-    "Batang Tongka",
-    "Patoloan",
-    "Banyuurip (Banyu Urip)",
-    "Pongko",
-    "Bantimurung",
-    "Muktisari",
-    "Sadar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bone Bone"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamuku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukaraya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batang Tongka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Patoloan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banyuurip (Banyu Urip)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pongko"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bantimurung"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Muktisari"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sadar"
+    }
   ]
 }

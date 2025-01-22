@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Teunom",
-    "Krueng Sabee",
-    "Setia Bhakti (Setia Bakti)",
-    "Sampoi Niet (Sampoiniet)",
-    "Jaya",
-    "Panga (Keude Panga)",
-    "Indra Jaya",
-    "Darul Hikmah",
-    "Pasie Raya"
+    {
+      "district_id": 1,
+      "kecamatan": "Teunom"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Krueng Sabee"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Setia Bhakti (Setia Bakti)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sampoi Niet (Sampoiniet)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Jaya"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Panga (Keude Panga)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Indra Jaya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Darul Hikmah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pasie Raya"
+    }
   ]
 }

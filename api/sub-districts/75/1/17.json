@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pone",
-    "Huidu",
-    "Ombulo",
-    "Daenaa",
-    "Yosonegoro (Yoosonegoro)",
-    "Tunggulo",
-    "Hutabohu",
-    "Padengo",
-    "Haya-Haya (Hayahaya)",
-    "Huidu Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pone"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huidu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ombulo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Daenaa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yosonegoro (Yoosonegoro)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunggulo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hutabohu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padengo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Haya-Haya (Hayahaya)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Huidu Utara"
+    }
   ]
 }

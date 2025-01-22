@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Linggang Muara Leban (Muara Leban)",
-    "Long Iram Seberang (Longiram Seberang)",
-    "Long Iram Ilir",
-    "Anah",
-    "Long Daliq",
-    "Long Iram Kota",
-    "Long Iram Bayan",
-    "Keliwai (Keliway)",
-    "Ujoh Halang",
-    "Kelian Luar (Kalian Luar)",
-    "Sukomulyo (Suko Mulyo)"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Linggang Muara Leban (Muara Leban)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Long Iram Seberang (Longiram Seberang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Iram Ilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Long Daliq"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Long Iram Kota"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Long Iram Bayan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Keliwai (Keliway)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ujoh Halang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kelian Luar (Kalian Luar)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sukomulyo (Suko Mulyo)"
+    }
   ]
 }

@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Sukapura",
-    "Sumber",
-    "Kuripan",
-    "Bantaran",
-    "Leces",
-    "Banyuanyar (Banyu Anyar)",
-    "Tiris",
-    "Krucil",
-    "Gading",
-    "Pakuniran",
-    "Kotaanyar (Kota Anyar)",
-    "Paiton",
-    "Besuk",
-    "Kraksaan",
-    "Krejengan",
-    "Pejarakan (Pajarakan)",
-    "Maron",
-    "Gending",
-    "Dringu",
-    "Tegalsiwalan (Tegal Siwalan)",
-    "Sumberasih",
-    "Wonomerto",
-    "Tongas",
-    "Lumbang"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukapura"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sumber"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kuripan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bantaran"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Leces"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Banyuanyar (Banyu Anyar)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tiris"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Krucil"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Gading"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pakuniran"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kotaanyar (Kota Anyar)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Paiton"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Besuk"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kraksaan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Krejengan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pejarakan (Pajarakan)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Maron"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Gending"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Dringu"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Tegalsiwalan (Tegal Siwalan)"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sumberasih"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Wonomerto"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Tongas"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Lumbang"
+    }
   ]
 }

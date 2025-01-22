@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Labuhan Ratu",
-    "Labuhan Ratu Raya",
-    "Sepang Jaya",
-    "Kota Sepang",
-    "Kampung Baru Raya",
-    "Kampung Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Labuhan Ratu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Labuhan Ratu Raya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sepang Jaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kota Sepang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kampung Baru Raya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kampung Baru"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Landasan Ulin Timur",
-    "Guntung Payung",
-    "Guntung Manggis",
-    "Syamsudin Noor"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Landasan Ulin Timur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Guntung Payung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Guntung Manggis"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Syamsudin Noor"
+    }
   ]
 }

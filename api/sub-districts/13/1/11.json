@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tapan",
-    "Pasar Tapan",
-    "Batang Arah Tapan",
-    "Ampang Tulak Tapan",
-    "Tanjung Pondok Tapan (Tanjungpondok Tapan)",
-    "Batang Betung Tapan",
-    "Bukit Buai Tapan (Bukitbuai Tapan)",
-    "Riak Danau Tapan (Riakdanau Tapan)",
-    "Koto Anau Tapan",
-    "Dusun Baru Tapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasar Tapan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batang Arah Tapan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ampang Tulak Tapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Pondok Tapan (Tanjungpondok Tapan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batang Betung Tapan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bukit Buai Tapan (Bukitbuai Tapan)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Riak Danau Tapan (Riakdanau Tapan)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Koto Anau Tapan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dusun Baru Tapan"
+    }
   ]
 }

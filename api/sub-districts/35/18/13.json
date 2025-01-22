@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Jatirejo",
-    "Ploso",
-    "Payaman",
-    "Kramat",
-    "Ganung Kidul",
-    "Werungotok",
-    "Mangundikaran (Mangun Dikaran)",
-    "Kauman",
-    "Kartoharjo",
-    "Cangkriman (Cangkringan)",
-    "Bogo",
-    "Ringinanom (Ringin Anom)",
-    "Begadung",
-    "Kedungdowo (Kedung Dowo)",
-    "Balongpacul (Balong Pacul)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ploso"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Payaman"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ganung Kidul"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Werungotok"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mangundikaran (Mangun Dikaran)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kartoharjo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Cangkriman (Cangkringan)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bogo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Ringinanom (Ringin Anom)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Begadung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kedungdowo (Kedung Dowo)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Balongpacul (Balong Pacul)"
+    }
   ]
 }

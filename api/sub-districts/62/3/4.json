@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Batanjung",
-    "Cemara Labat",
-    "Palampai",
-    "Sei/Sungai Teras",
-    "Lupak Dalam",
-    "Tamban Baru Selatan (Tamban Baru Tengah)",
-    "Tamban Lupak",
-    "Lupak Timur",
-    "Wargo Mulyo",
-    "Sei Bakut",
-    "Pematang",
-    "Simpang Bunga Tanjung",
-    "Baranggau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batanjung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cemara Labat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palampai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Teras"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lupak Dalam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamban Baru Selatan (Tamban Baru Tengah)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tamban Lupak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lupak Timur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wargo Mulyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sei Bakut"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pematang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Simpang Bunga Tanjung"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Baranggau"
+    }
   ]
 }

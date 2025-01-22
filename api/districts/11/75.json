@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Simpang Kiri",
-    "Penanggalan",
-    "Rundeng",
-    "Sultan Daulat",
-    "Longkib"
+    {
+      "district_id": 1,
+      "kecamatan": "Simpang Kiri"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Penanggalan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Rundeng"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sultan Daulat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Longkib"
+    }
   ]
 }

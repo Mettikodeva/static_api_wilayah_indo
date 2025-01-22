@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Malasankulon (Malasan Kulon)",
-    "Tigasan Wetan",
-    "Tigasan Kulon",
-    "Pondok Wuluh",
-    "Leces",
-    "Sumberkedawung (Sumber Kedawung)",
-    "Keprangan (Kerpangan)",
-    "Clarak",
-    "Jorongan",
-    "Warujinggo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malasankulon (Malasan Kulon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tigasan Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tigasan Kulon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondok Wuluh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Leces"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberkedawung (Sumber Kedawung)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keprangan (Kerpangan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Clarak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jorongan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Warujinggo"
+    }
   ]
 }

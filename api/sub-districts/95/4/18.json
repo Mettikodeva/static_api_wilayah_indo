@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tinggom",
-    "Egoni",
-    "Martelo",
-    "Lerewere",
-    "Yakep",
-    "Welesi",
-    "Orelukban",
-    "Baguni",
-    "Kulutin",
-    "Yamulo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tinggom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Egoni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Martelo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lerewere"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yakep"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Welesi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Orelukban"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baguni"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kulutin"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Yamulo"
+    }
   ]
 }

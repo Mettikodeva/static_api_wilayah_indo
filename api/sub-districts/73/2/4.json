@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Eka Tiro (Ekatiro)",
-    "Dwi Tiro",
-    "Tri Tiro (Tritiro)",
-    "Batang",
-    "Bonto Tangnga",
-    "Caramming",
-    "Tamalanrea",
-    "Bonto Barua",
-    "Paku Balaho (Pakubalaho)",
-    "Bonto Marannu",
-    "Bonto Bulaeng",
-    "Buhung Bundang",
-    "Lamanda"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Eka Tiro (Ekatiro)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dwi Tiro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tri Tiro (Tritiro)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonto Tangnga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Caramming"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamalanrea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonto Barua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paku Balaho (Pakubalaho)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonto Marannu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bonto Bulaeng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Buhung Bundang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lamanda"
+    }
   ]
 }

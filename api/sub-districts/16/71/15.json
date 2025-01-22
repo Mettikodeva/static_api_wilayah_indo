@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Alang Alang Lebar",
-    "Sri Jaya (Srijaya)",
-    "Talang Kelapa",
-    "Karya Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Alang Alang Lebar"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sri Jaya (Srijaya)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Talang Kelapa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karya Baru"
+    }
   ]
 }

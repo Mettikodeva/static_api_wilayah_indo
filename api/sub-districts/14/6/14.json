@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Pagaran Tapah",
-    "Kembang Damai",
-    "Sangkir Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagaran Tapah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kembang Damai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sangkir Indah"
+    }
   ]
 }

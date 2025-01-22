@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Karubaga",
-    "Kogimagi",
-    "Muara",
-    "Ampera",
-    "Elsadai",
-    "Ebenhaiser",
-    "Kolilan",
-    "Kuloname",
-    "Lirak",
-    "Kimobur",
-    "Kuragepura",
-    "Kiranage",
-    "Luwik",
-    "Gininggadonak",
-    "Danggulurik",
-    "Gurikme",
-    "Molera",
-    "Nalorini",
-    "Beleme",
-    "Gurikagewa",
-    "Pulanggun",
-    "Yalikaluk",
-    "Losmen"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karubaga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kogimagi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Ampera"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Elsadai"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Ebenhaiser"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Kolilan"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Kuloname"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Lirak"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Kimobur"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Kuragepura"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Kiranage"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Luwik"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Gininggadonak"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Danggulurik"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Gurikme"
+    },
+    {
+      "sub_district_id": 2070,
+      "desa_kelurahan": "Molera"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Nalorini"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Beleme"
+    },
+    {
+      "sub_district_id": 2073,
+      "desa_kelurahan": "Gurikagewa"
+    },
+    {
+      "sub_district_id": 2074,
+      "desa_kelurahan": "Pulanggun"
+    },
+    {
+      "sub_district_id": 2075,
+      "desa_kelurahan": "Yalikaluk"
+    },
+    {
+      "sub_district_id": 2076,
+      "desa_kelurahan": "Losmen"
+    }
   ]
 }

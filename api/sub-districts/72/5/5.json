@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Umu",
-    "Mulangato",
-    "Lilito",
-    "Talaki",
-    "Baturata (Batu Rata)",
-    "Kwalabesar (Kuala Besar)",
-    "Tolau",
-    "Paleleh",
-    "Lintidu",
-    "Pionoto",
-    "Dopalak",
-    "Dotuno (Dutuno)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Umu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mulangato"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lilito"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talaki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baturata (Batu Rata)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kwalabesar (Kuala Besar)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tolau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paleleh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lintidu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pionoto"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Dopalak"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dotuno (Dutuno)"
+    }
   ]
 }

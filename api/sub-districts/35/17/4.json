@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kebondalem",
-    "Mundusewu",
-    "Pakel",
-    "Karangan",
-    "Ngampungan",
-    "Jenisgelaran",
-    "Bareng",
-    "Tebel",
-    "Mojotengah",
-    "Banjaragung",
-    "Nglebak",
-    "Ngrimbi",
-    "Pulosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mundusewu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pakel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngampungan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jenisgelaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bareng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tebel"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mojotengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banjaragung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nglebak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngrimbi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulosari"
+    }
   ]
 }

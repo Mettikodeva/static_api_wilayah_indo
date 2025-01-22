@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Montorna",
-    "Prancak",
-    "Campaka",
-    "Rajun",
-    "Lebeng Timur",
-    "Lebeng Barat",
-    "Soddara",
-    "Pasongsongan",
-    "Padangdangan",
-    "Panaongan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Montorna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Prancak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Campaka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rajun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lebeng Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebeng Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Soddara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasongsongan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padangdangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Panaongan"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Masaran",
-    "Sengon",
-    "Surenlor",
-    "Sumurup",
-    "Srabah",
-    "Dompyong",
-    "Depok",
-    "Botoputih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Masaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sengon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Surenlor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumurup"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Srabah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dompyong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Botoputih"
+    }
   ]
 }

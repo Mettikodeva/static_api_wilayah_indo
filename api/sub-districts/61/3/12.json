@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Hilir",
-    "Padi Kaye",
-    "Temiang Mali",
-    "Cowet (Cuwet)",
-    "Kebadu",
-    "Kawing (Mak Kawing)",
-    "Tae",
-    "Semoncol",
-    "Empirang Ujung",
-    "Bulu Bala",
-    "Temiang Taba",
-    "Senyabang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padi Kaye"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Temiang Mali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cowet (Cuwet)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebadu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kawing (Mak Kawing)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tae"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Semoncol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Empirang Ujung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bulu Bala"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Temiang Taba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Senyabang"
+    }
   ]
 }

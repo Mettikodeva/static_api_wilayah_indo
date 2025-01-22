@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Medan Kota",
-    "Medan Sunggal",
-    "Medan Helvetia",
-    "Medan Denai",
-    "Medan Barat",
-    "Medan Deli",
-    "Medan Tuntungan",
-    "Medan Belawan (Medan Belawan Kota)",
-    "Medan Amplas",
-    "Medan Area",
-    "Medan Johor",
-    "Medan Marelan",
-    "Medan Labuhan",
-    "Medan Tembung",
-    "Medan Maimun",
-    "Medan Polonia",
-    "Medan Baru",
-    "Medan Perjuangan",
-    "Medan Petisah",
-    "Medan Timur",
-    "Medan Selayang"
+    {
+      "district_id": 1,
+      "kecamatan": "Medan Kota"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Medan Sunggal"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Medan Helvetia"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Medan Denai"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Medan Barat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Medan Deli"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Medan Tuntungan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Medan Belawan (Medan Belawan Kota)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Medan Amplas"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Medan Area"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Medan Johor"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Medan Marelan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Medan Labuhan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Medan Tembung"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Medan Maimun"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Medan Polonia"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Medan Baru"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Medan Perjuangan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Medan Petisah"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Medan Timur"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Medan Selayang"
+    }
   ]
 }

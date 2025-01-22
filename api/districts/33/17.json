@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Sumber",
-    "Bulu",
-    "Gunem",
-    "Sale",
-    "Sarang",
-    "Sedan",
-    "Pamotan",
-    "Sulang",
-    "Kaliori",
-    "Rembang",
-    "Pancur",
-    "Kragan",
-    "Sluke",
-    "Lasem"
+    {
+      "district_id": 1,
+      "kecamatan": "Sumber"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bulu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Gunem"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sale"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sarang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sedan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pamotan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sulang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kaliori"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Rembang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pancur"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kragan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Sluke"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Lasem"
+    }
   ]
 }

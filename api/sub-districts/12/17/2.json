@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pakpahan",
-    "Huta Hotang",
-    "Sitinjak",
-    "Pardomuan",
-    "Tambun Sungkean",
-    "Rina Bolak (Rinabolak)",
-    "Onan Runggu",
-    "Sitamiang",
-    "Janji Matogu",
-    "Silima Lombu",
-    "Sipira",
-    "Harian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakpahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huta Hotang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sitinjak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambun Sungkean"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rina Bolak (Rinabolak)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Onan Runggu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sitamiang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Janji Matogu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Silima Lombu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sipira"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Harian"
+    }
   ]
 }

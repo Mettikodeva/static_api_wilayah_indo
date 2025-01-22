@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "IV Suko Menanti (IV / Empat Suku Menanti)",
-    "Air Rusa",
-    "Bengko",
-    "Sinar Gunung",
-    "Warung Pojok",
-    "Talang Belitar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "IV Suko Menanti (IV / Empat Suku Menanti)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Rusa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bengko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sinar Gunung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Warung Pojok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Belitar"
+    }
   ]
 }

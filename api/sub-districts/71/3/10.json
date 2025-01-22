@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kaluwatu",
-    "Laine",
-    "Lapango",
-    "Sowaeng (Mawira)",
-    "Ngalipaeng Satu (I)",
-    "Ngalipaeng Dua (II)",
-    "Batunderang",
-    "Bebalang",
-    "Mawira",
-    "Pindang",
-    "Lapepahe",
-    "Lehimi Tariang",
-    "Lapango I"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaluwatu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laine"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lapango"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sowaeng (Mawira)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngalipaeng Satu (I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngalipaeng Dua (II)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batunderang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bebalang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mawira"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pindang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lapepahe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lehimi Tariang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lapango I"
+    }
   ]
 }

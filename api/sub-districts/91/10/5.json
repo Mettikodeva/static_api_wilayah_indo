@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Armopa",
-    "Tarontha Srum (Taronta Srum)",
-    "Anus",
-    "Kiren",
-    "Maweswares (Mawesres)",
-    "Bebon Jaya",
-    "Tetom",
-    "Rimsersari (Rimser Sari)",
-    "Krim Podena",
-    "Rotea"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Armopa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tarontha Srum (Taronta Srum)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kiren"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maweswares (Mawesres)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bebon Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tetom"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rimsersari (Rimser Sari)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Krim Podena"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Rotea"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Bangkala",
-    "Tamalatea",
-    "Binamu",
-    "Batang",
-    "Kelara",
-    "Bangkala Barat",
-    "Bontoramba",
-    "Turatea",
-    "Arungkeke",
-    "Rumbia",
-    "Tarowang"
+    {
+      "district_id": 1,
+      "kecamatan": "Bangkala"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tamalatea"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Binamu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Batang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kelara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bangkala Barat"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bontoramba"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Turatea"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Arungkeke"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Rumbia"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tarowang"
+    }
   ]
 }

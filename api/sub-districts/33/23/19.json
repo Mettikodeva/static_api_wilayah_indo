@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Wonoboyo",
-    "Peteken (Pateken)",
-    "Pitrosari",
-    "Purwosari",
-    "Kebonsari",
-    "Semen",
-    "Tening",
-    "Wonocoyo",
-    "Pesantren",
-    "Rejosari",
-    "Tawangsari",
-    "Cemoro",
-    "Wates"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonoboyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Peteken (Pateken)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pitrosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Semen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tening"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonocoyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pesantren"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cemoro"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wates"
+    }
   ]
 }

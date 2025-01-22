@@ -1,61 +1,232 @@
 {
   "sub_districts": [
-    "Pulo Blang",
-    "Matang Ben",
-    "Matang Ceubrek (Cibrek)",
-    "Deng (Gampong Deng)",
-    "Rawa",
-    "Punti Pulo Agam",
-    "Alue Pangkat",
-    "Teungoh Pulo Agam (Teungoh Pulo Agam)",
-    "Hueng",
-    "Pulo U",
-    "Alue Keujruen",
-    "Paya Beurandang",
-    "Manyang Tunong",
-    "Tutong (Meunasah Tutong)",
-    "Ampeh (Gampong Ampeh)",
-    "Alue (Gampong Alue)",
-    "Teungku Dibalee (Teungku Dibale)",
-    "Keude Blang Jruen",
-    "Blang Jruen",
-    "Ujong Baroh Berghang",
-    "Jeumpa Berghang",
-    "Teungoh Berghang (Gampong Teungoh Berghang)",
-    "Pante Berghang",
-    "Serba Jaman (Gampong Serba Jaman)",
-    "Rayeuk Naleung",
-    "Rangkaya",
-    "Paya (Gampong Paya)",
-    "Blang Bidok",
-    "Rayeuk Kuta",
-    "Rayeuk Munye (Rayeuk Meunye)",
-    "Ujong Baroh Sb",
-    "Trieng",
-    "Manyang SB",
-    "Ceubrek (Cibrek)",
-    "Keutapang",
-    "Matang Mane",
-    "Alue Gampong",
-    "Bayi",
-    "Tumpok Aceh",
-    "Ulee Buket",
-    "Cot Dam/Dah",
-    "Leupon Siren",
-    "Blang Trieng (Gampong Blang Trieng)",
-    "Alue Sijuek",
-    "Hagu",
-    "Teupin Mee (Gampong Teupin Me)",
-    "Plu Pakam",
-    "Blang Pie",
-    "Punti Seuleumak Barat",
-    "Serba Jaman Tunong",
-    "Leuhong (Leu Hong)",
-    "Blang",
-    "Tanjong Mesjid",
-    "Serba Jaman Baroh",
-    "Cot Barat",
-    "Matang Baloy",
-    "Buket Makarti (Bukit Makarti)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulo Blang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matang Ben"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matang Ceubrek (Cibrek)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Deng (Gampong Deng)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Punti Pulo Agam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alue Pangkat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teungoh Pulo Agam (Teungoh Pulo Agam)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hueng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulo U"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Alue Keujruen"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paya Beurandang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Manyang Tunong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tutong (Meunasah Tutong)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ampeh (Gampong Ampeh)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Alue (Gampong Alue)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Teungku Dibalee (Teungku Dibale)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Keude Blang Jruen"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Blang Jruen"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ujong Baroh Berghang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Jeumpa Berghang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Teungoh Berghang (Gampong Teungoh Berghang)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pante Berghang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Serba Jaman (Gampong Serba Jaman)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Rayeuk Naleung"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Rangkaya"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Paya (Gampong Paya)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Blang Bidok"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Rayeuk Kuta"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Rayeuk Munye (Rayeuk Meunye)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Ujong Baroh Sb"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Trieng"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Manyang SB"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Ceubrek (Cibrek)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Keutapang"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Matang Mane"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Alue Gampong"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Bayi"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Tumpok Aceh"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Ulee Buket"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Cot Dam/Dah"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Leupon Siren"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Blang Trieng (Gampong Blang Trieng)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Alue Sijuek"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Hagu"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Teupin Mee (Gampong Teupin Me)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Plu Pakam"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Blang Pie"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Punti Seuleumak Barat"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Serba Jaman Tunong"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Leuhong (Leu Hong)"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Blang"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Tanjong Mesjid"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Serba Jaman Baroh"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Cot Barat"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Matang Baloy"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Buket Makarti (Bukit Makarti)"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ukauwo",
-    "Waipa",
-    "Ukago",
-    "Totiyo",
-    "Biyadide",
-    "Pekege"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ukauwo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waipa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ukago"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Totiyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Biyadide"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pekege"
+    }
   ]
 }

@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Leilem",
-    "Kolongan Atas",
-    "Tounelet Satu",
-    "Talikuran",
-    "Kauneran",
-    "Sendangan",
-    "Rambunan",
-    "Sawangan",
-    "Tincep",
-    "Timbukar",
-    "Leilem Dua",
-    "Leilem Tiga",
-    "Kolongan Atas Dua",
-    "Kauneran Satu",
-    "Rambunan Amian",
-    "Sandangan Satu",
-    "Talikuran Satu",
-    "Tounelet",
-    "Kotongan Atas Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Leilem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kolongan Atas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tounelet Satu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talikuran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kauneran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sendangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rambunan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sawangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tincep"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Timbukar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Leilem Dua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Leilem Tiga"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kolongan Atas Dua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kauneran Satu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rambunan Amian"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sandangan Satu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Talikuran Satu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tounelet"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kotongan Atas Satu"
+    }
   ]
 }

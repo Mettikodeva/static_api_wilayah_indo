@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Natah",
-    "Pilangrejo (Pilang Rejo)",
-    "Kedungpoh",
-    "Pengkol",
-    "Kedungkeris (Kedung Keris)",
-    "Nglipar",
-    "Katongan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Natah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pilangrejo (Pilang Rejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedungpoh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pengkol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedungkeris (Kedung Keris)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nglipar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Katongan"
+    }
   ]
 }

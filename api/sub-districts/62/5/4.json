@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sampirang I",
-    "Sampirang II",
-    "Liju",
-    "Benangin III / 3",
-    "Benangin II / 2",
-    "Benangin V / 5",
-    "Benangin I / I",
-    "Muara Wakat",
-    "Mampuak I",
-    "Jamut",
-    "Sei/Sungai Liju",
-    "Mampuak II (Pantung)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sampirang I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sampirang II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Liju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Benangin III / 3"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benangin II / 2"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benangin V / 5"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Benangin I / I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Wakat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mampuak I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jamut"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sei/Sungai Liju"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mampuak II (Pantung)"
+    }
   ]
 }

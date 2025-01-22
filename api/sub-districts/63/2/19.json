@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sengayam",
-    "Mayang Sari",
-    "Marga Jaya",
-    "Mangka",
-    "Batuah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sengayam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mayang Sari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marga Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mangka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batuah"
+    }
   ]
 }

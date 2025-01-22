@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bawen",
-    "Harjosari",
-    "Doplang",
-    "Asinan",
-    "Polosiri",
-    "Kandangan",
-    "Lemahireng",
-    "Samban",
-    "Poncoruso"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bawen"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Harjosari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Doplang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asinan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Polosiri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lemahireng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Samban"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Poncoruso"
+    }
   ]
 }

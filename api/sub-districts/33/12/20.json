@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pelem",
-    "Tanjungsari",
-    "Tasikhargo",
-    "Sumberejo",
-    "Rejosari",
-    "Gondangsari",
-    "Sidorejo",
-    "Ngrompak",
-    "Semen",
-    "Pule",
-    "Sambirejo",
-    "Tanggulangin",
-    "Gunungsari",
-    "Jatisari",
-    "Jatisrono",
-    "Watangsono",
-    "Pandeyan"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pelem"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tasikhargo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gondangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngrompak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pule"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanggulangin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jatisrono"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Watangsono"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pandeyan"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Saobi",
-    "Kangayan",
-    "Toerjek (Torjek)",
-    "Cangkramaan (Cangkreman)",
-    "Tembayangan",
-    "Batuputih",
-    "Daandung",
-    "Timur Jang-Jang (Timur Janjang)",
-    "Jukong Jukong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saobi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kangayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toerjek (Torjek)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cangkramaan (Cangkreman)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tembayangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batuputih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Daandung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Timur Jang-Jang (Timur Janjang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jukong Jukong"
+    }
   ]
 }

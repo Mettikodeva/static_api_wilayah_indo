@@ -1,29 +1,104 @@
 {
   "sub_districts": [
-    "Sidoharjo",
-    "Ploso",
-    "Baleharjo",
-    "Pucangsewu",
-    "Pacitan",
-    "Kembang",
-    "Sukoharjo",
-    "Kayen",
-    "Sirnoboyo",
-    "Arjowinangun",
-    "Bangunsari",
-    "Sedeng",
-    "Sumberharjo",
-    "Tanjungsari",
-    "Menadi",
-    "Mentoro",
-    "Purworejo",
-    "Nanggungan",
-    "Widoro",
-    "Semanten",
-    "Sambong",
-    "Banjarsari",
-    "Bolosingo",
-    "Ponggok",
-    "Tambakrejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ploso"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Baleharjo"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pucangsewu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pacitan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kembang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukoharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kayen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sirnoboyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Arjowinangun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bangunsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sedeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberharjo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Menadi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mentoro"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nanggungan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Widoro"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Semanten"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sambong"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bolosingo"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ponggok"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Tambakrejo"
+    }
   ]
 }

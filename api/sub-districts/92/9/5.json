@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sausapor",
-    "Emaos",
-    "Jokte",
-    "Uigwem",
-    "Sungguwan",
-    "Sau Uram",
-    "Nanggou",
-    "Bondek",
-    "Bondonggwan",
-    "Syurauw"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sausapor"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Emaos"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jokte"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uigwem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungguwan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sau Uram"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nanggou"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bondek"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bondonggwan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Syurauw"
+    }
   ]
 }

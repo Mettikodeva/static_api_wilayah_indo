@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Maluriwu",
-    "Reruwairere",
-    "Tuanggeo",
-    "Ladolaka",
-    "Nitunglea",
-    "Rokirole",
-    "Kesokoja",
-    "Lidi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maluriwu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Reruwairere"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tuanggeo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ladolaka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nitunglea"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rokirole"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kesokoja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lidi"
+    }
   ]
 }

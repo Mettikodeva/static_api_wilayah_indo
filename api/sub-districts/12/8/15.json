@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Haranggaol",
-    "Nagori Purba (Nagori Purba Saribu)",
-    "Nagori Sihalpe",
-    "Nagori Purba Horison / Harison / Harisan",
-    "Nagori Purba Pasir"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Haranggaol"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nagori Purba (Nagori Purba Saribu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nagori Sihalpe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nagori Purba Horison / Harison / Harisan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nagori Purba Pasir"
+    }
   ]
 }

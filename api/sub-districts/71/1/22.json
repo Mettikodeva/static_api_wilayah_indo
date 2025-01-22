@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pangian",
-    "Poopo",
-    "Manembo",
-    "Sinsingon",
-    "Insil",
-    "Mobuya",
-    "Insil Baru",
-    "Pangian Tengah",
-    "Pangian Barat",
-    "Poopo Barat",
-    "Poopo Selatan",
-    "Sinsingon Barat",
-    "Sinsingon Timur"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Poopo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manembo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sinsingon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Insil"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mobuya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Insil Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pangian Tengah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pangian Barat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Poopo Barat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Poopo Selatan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sinsingon Barat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sinsingon Timur"
+    }
   ]
 }

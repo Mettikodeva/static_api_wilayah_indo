@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Masaha",
-    "Sei/Sungai Pinang",
-    "Lawang Tamang",
-    "Karetau Manta'a (Karetau Mantaa)",
-    "Tumbang Bukoi/Bokoi",
-    "Tumbang Tihis",
-    "Tumbang Manyarung",
-    "Tanjung Rendan",
-    "Jakatan Masaha",
-    "Masupa Ria"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Masaha"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Pinang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lawang Tamang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karetau Manta'a (Karetau Mantaa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Bukoi/Bokoi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Tihis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Manyarung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Rendan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jakatan Masaha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Masupa Ria"
+    }
   ]
 }

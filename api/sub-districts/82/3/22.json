@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tiowor",
-    "Makaeling",
-    "Tobanoma",
-    "Barumadehe",
-    "Kuntum Mekar",
-    "Pasir Putih",
-    "Bobane Igo (Bobaneigo)",
-    "Tetewang",
-    "Akelamo Raya (Akelamo Kao)",
-    "Gamsungi",
-    "Dum Dum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tiowor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Makaeling"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tobanoma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Barumadehe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuntum Mekar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bobane Igo (Bobaneigo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tetewang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Akelamo Raya (Akelamo Kao)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gamsungi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dum Dum"
+    }
   ]
 }

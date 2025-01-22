@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tangkolo",
-    "Pamulihan",
-    "Subang",
-    "Gunungaci",
-    "Situgede",
-    "Bangunjaya",
-    "Jatisari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tangkolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pamulihan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Subang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungaci"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Situgede"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangunjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatisari"
+    }
   ]
 }

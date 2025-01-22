@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Long Iram",
-    "Melak",
-    "Barong Tongkok",
-    "Damai",
-    "Muara Lawa",
-    "Muara Pahu",
-    "Jempang",
-    "Bongan",
-    "Penyinggahan",
-    "Bentian Besar",
-    "Linggang Bigung",
-    "Nyuatan",
-    "Siluq Ngurai",
-    "Mook Manaar Bulatn",
-    "Tering",
-    "Sekolaq Darat"
+    {
+      "district_id": 5,
+      "kecamatan": "Long Iram"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Melak"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Barong Tongkok"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Damai"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Muara Lawa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Muara Pahu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Jempang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bongan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Penyinggahan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bentian Besar"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Linggang Bigung"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Nyuatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Siluq Ngurai"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Mook Manaar Bulatn"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tering"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Sekolaq Darat"
+    }
   ]
 }

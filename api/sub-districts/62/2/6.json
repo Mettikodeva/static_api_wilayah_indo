@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mentawa Baru Hulu",
-    "Mentawa Baru Hilir",
-    "Ketapang",
-    "Sawahan",
-    "Pasir Putih",
-    "Pelangsian",
-    "Bapeang",
-    "Eka Bahurui",
-    "Telaga Baru",
-    "Bangkuang Makmur (Bengkuang Makmur)",
-    "Bapanggang Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mentawa Baru Hulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mentawa Baru Hilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pelangsian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bapeang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Eka Bahurui"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Telaga Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangkuang Makmur (Bengkuang Makmur)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bapanggang Raya"
+    }
   ]
 }

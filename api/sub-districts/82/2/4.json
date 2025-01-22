@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Gemaf",
-    "Sagea",
-    "Fritu",
-    "Waleh",
-    "Kiya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gemaf"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sagea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fritu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waleh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kiya"
+    }
   ]
 }

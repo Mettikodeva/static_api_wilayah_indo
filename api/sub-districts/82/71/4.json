@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Takofi",
-    "Moti Kota",
-    "Tafamutu",
-    "Tafaga",
-    "Figur",
-    "Tadenas"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Takofi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Moti Kota"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tafamutu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tafaga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Figur"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tadenas"
+    }
   ]
 }

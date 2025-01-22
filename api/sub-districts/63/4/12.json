@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pantang Raya",
-    "Tabukan Raya",
-    "Teluk Tamba",
-    "Rantau Bamban",
-    "Tamba Jaya",
-    "Muara Pulau",
-    "Karya Indah",
-    "Bandar Karya",
-    "Karya Makmur",
-    "Karya Jadi",
-    "Pantang Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pantang Raya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tabukan Raya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Tamba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantau Bamban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamba Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Pulau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karya Indah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bandar Karya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karya Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karya Jadi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pantang Baru"
+    }
   ]
 }

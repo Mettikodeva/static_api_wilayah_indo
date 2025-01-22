@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pringapus",
-    "Klepu",
-    "Derekan",
-    "Jatirunggo",
-    "Pringsari",
-    "Wonorejo",
-    "Wonoyoso",
-    "Candirejo",
-    "Penawangan"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pringapus"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klepu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Derekan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatirunggo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pringsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonoyoso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Candirejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Penawangan"
+    }
   ]
 }

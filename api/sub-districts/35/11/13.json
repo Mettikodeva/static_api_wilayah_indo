@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sekarputih",
-    "Klabang",
-    "Mandiro",
-    "Tanggulangin",
-    "Karanganyar",
-    "Tegalampel",
-    "Klabang Agung",
-    "Purnama"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sekarputih"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Klabang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mandiro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanggulangin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalampel"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Klabang Agung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Purnama"
+    }
   ]
 }

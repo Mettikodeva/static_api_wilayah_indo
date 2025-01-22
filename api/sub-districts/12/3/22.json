@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sigolang",
-    "Biru",
-    "Tapus Godang",
-    "Lobu Tayas",
-    "Silangkitang",
-    "Sihulambu",
-    "Tolang",
-    "Tapus Sipagabu",
-    "Huta Baru",
-    "Aek Latong",
-    "Aek Urat",
-    "Gorahut"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sigolang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Biru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tapus Godang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lobu Tayas"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Silangkitang"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Sihulambu"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Tolang"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Tapus Sipagabu"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Huta Baru"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Aek Latong"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Aek Urat"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Gorahut"
+    }
   ]
 }

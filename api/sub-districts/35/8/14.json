@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Barat",
-    "Babakan",
-    "Mojo",
-    "Bodang",
-    "Kedawung",
-    "Padang",
-    "Kalisemut",
-    "Merakan",
-    "Tanggung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mojo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bodang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalisemut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Merakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanggung"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lingkas Ujung",
-    "Gunung Lingkas",
-    "Kampung Empat",
-    "Kampung Enam",
-    "Mamburungan",
-    "Pantai Amal",
-    "Mamburungan Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lingkas Ujung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gunung Lingkas"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kampung Empat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kampung Enam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mamburungan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pantai Amal"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mamburungan Timur"
+    }
   ]
 }

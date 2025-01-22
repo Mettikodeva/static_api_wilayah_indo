@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Praya",
-    "Leneng",
-    "Gerunung",
-    "Semayan",
-    "Perapen",
-    "Tiwugalih",
-    "Gonjak",
-    "Panji Sari",
-    "Renteng",
-    "Mertak Tombok",
-    "Aik Mual",
-    "Montong Terep",
-    "Jago",
-    "Bunut Baok",
-    "Mekar Damai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Praya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Leneng"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gerunung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Semayan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Perapen"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tiwugalih"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gonjak"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Panji Sari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Renteng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mertak Tombok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aik Mual"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Montong Terep"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jago"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bunut Baok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mekar Damai"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kembang Ragi",
-    "Ma'minasa",
-    "Tanamalala",
-    "Labuang Pamajang",
-    "Masungke (Massungke)",
-    "Bontosaile",
-    "Telukkampe (Teluk Kampe)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kembang Ragi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ma'minasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanamalala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labuang Pamajang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Masungke (Massungke)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bontosaile"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Telukkampe (Teluk Kampe)"
+    }
   ]
 }

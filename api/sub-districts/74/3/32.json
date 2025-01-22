@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Katumpu",
-    "Waale-ale (Waleale)",
-    "Kulidawa (Kalidawa)",
-    "Labasa",
-    "Owe Waungka",
-    "Lianosa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Katumpu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waale-ale (Waleale)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kulidawa (Kalidawa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Owe Waungka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lianosa"
+    }
   ]
 }

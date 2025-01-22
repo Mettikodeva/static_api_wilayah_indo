@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Manggala",
-    "Bangkala",
-    "Tamangapa",
-    "Antang",
-    "Batua",
-    "Borong",
-    "Biring Romang",
-    "Bitowo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Manggala"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bangkala"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tamangapa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Antang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Batua"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Borong"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Biring Romang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bitowo"
+    }
   ]
 }

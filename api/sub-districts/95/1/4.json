@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Hubikosi",
-    "Kosimeage (Kosimeaga)",
-    "Kosihilapok",
-    "Meagama",
-    "Pipukmo",
-    "Isakusa",
-    "Pelima",
-    "Kikhumo",
-    "Jibilabaga",
-    "Ikilumo",
-    "Sunili"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hubikosi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kosimeage (Kosimeaga)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kosihilapok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Meagama"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pipukmo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Isakusa"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pelima"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kikhumo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Jibilabaga"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Ikilumo"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sunili"
+    }
   ]
 }

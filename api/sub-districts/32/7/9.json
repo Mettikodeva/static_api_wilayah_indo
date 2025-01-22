@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kawali",
-    "Talagasari",
-    "Karangpawitan",
-    "Winduraja",
-    "Margamulya",
-    "Citeureup",
-    "Purwasari",
-    "Sindangsari",
-    "Kawalimukti",
-    "Selasari",
-    "Linggapura"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kawali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talagasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangpawitan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Winduraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margamulya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Citeureup"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Purwasari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kawalimukti"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Selasari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Linggapura"
+    }
   ]
 }

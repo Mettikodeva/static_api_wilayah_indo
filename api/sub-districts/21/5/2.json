@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tebang",
-    "Ladan",
-    "Piabung",
-    "Langir",
-    "Candi",
-    "Putik",
-    "Belibak"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ladan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Piabung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Putik"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Belibak"
+    }
   ]
 }

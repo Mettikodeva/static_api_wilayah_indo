@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Macang Pacar",
-    "Kuwus",
-    "Lembor",
-    "Sano Nggoang",
-    "Komodo",
-    "Boleng",
-    "Welak",
-    "Ndoso",
-    "Lembor Selatan",
-    "Mbeliling",
-    "Pacar",
-    "Kuwus Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Macang Pacar"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kuwus"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Lembor"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sano Nggoang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Komodo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Boleng"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Welak"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Ndoso"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lembor Selatan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Mbeliling"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pacar"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kuwus Barat"
+    }
   ]
 }

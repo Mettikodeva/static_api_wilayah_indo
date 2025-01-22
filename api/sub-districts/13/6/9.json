@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Koto Tangah",
-    "Gadut (Gaduk)",
-    "Kapau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Tangah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gadut (Gaduk)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kapau"
+    }
   ]
 }

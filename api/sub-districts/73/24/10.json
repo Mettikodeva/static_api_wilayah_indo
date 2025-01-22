@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kalaena Kiri",
-    "Sumber Agung",
-    "Pertasi Kencana",
-    "Non Blok",
-    "Argomulyo",
-    "Sumber Makmur",
-    "Mekar Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalaena Kiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pertasi Kencana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Non Blok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Argomulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Sari"
+    }
   ]
 }

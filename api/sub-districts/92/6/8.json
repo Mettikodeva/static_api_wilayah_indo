@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Fruata (Fuata/Irorutu II)",
-    "Meryedi (Maryedi)",
-    "Riendo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fruata (Fuata/Irorutu II)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meryedi (Maryedi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Riendo"
+    }
   ]
 }

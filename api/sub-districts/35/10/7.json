@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Purwodadi",
-    "Jajag",
-    "Gambiran",
-    "Yosomulyo",
-    "Wringinrejo",
-    "Wringinagung (Wringin Agung)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jajag"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gambiran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yosomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wringinrejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wringinagung (Wringin Agung)"
+    }
   ]
 }

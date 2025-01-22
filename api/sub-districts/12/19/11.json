@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sumber Tani",
-    "Sei Muka",
-    "Perkebunan Tanah Datar",
-    "Binjai Baru",
-    "Bangun Sari",
-    "Karang Baru",
-    "Perkebunan Petatal",
-    "Mekar Baru",
-    "Petatal",
-    "Glugur Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumber Tani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Muka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Tanah Datar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Binjai Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangun Sari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Perkebunan Petatal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Petatal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Glugur Makmur"
+    }
   ]
 }

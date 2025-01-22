@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Batu",
-    "Bumiaji",
-    "Junrejo"
+    {
+      "district_id": 1,
+      "kecamatan": "Batu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bumiaji"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Junrejo"
+    }
   ]
 }

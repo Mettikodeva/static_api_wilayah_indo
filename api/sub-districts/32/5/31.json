@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bungbulang",
-    "Hanjuang",
-    "Gunamekar",
-    "Tegallega (Tegalega)",
-    "Mekarbakti",
-    "Margalaksana",
-    "Bojong",
-    "Sinarjaya",
-    "Mekarjaya",
-    "Cihikeu",
-    "Wangunjaya",
-    "Gunung Jampang",
-    "Hegarmanah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bungbulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hanjuang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunamekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegallega (Tegalega)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekarbakti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margalaksana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinarjaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cihikeu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wangunjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gunung Jampang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hegarmanah"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Matayangan",
-    "Uuan",
-    "Ikhwan",
-    "Doloduo",
-    "Wangga Baru",
-    "Totaut",
-    "Mekaruo",
-    "Toraut Utara",
-    "Doloduo Satu",
-    "Doloduo Dua",
-    "Doloduo Tiga",
-    "Toraut Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Matayangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uuan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ikhwan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Doloduo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wangga Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Totaut"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekaruo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Toraut Utara"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Doloduo Satu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Doloduo Dua"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Doloduo Tiga"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Toraut Tengah"
+    }
   ]
 }

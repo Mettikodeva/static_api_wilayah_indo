@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Mendut",
-    "Sawitan",
-    "Progowati",
-    "Ngrajek",
-    "Rambeanak",
-    "Paremono",
-    "Pabelan",
-    "Bojong",
-    "Pagersari",
-    "Mungkid",
-    "Ambartawang",
-    "Bumirejo",
-    "Blondo",
-    "Senden",
-    "Gondang",
-    "Treko"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mendut"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sawitan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Progowati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngrajek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rambeanak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paremono"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pabelan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pagersari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mungkid"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ambartawang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bumirejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Blondo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Senden"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Treko"
+    }
   ]
 }

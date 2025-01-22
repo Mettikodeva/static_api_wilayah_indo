@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Yiwika (Jiwika)",
-    "Mulima",
-    "Waga Waga",
-    "Abusa",
-    "Eragama (Erema)",
-    "Kumima (Kimina)",
-    "Mebagaima",
-    "Iyantik",
-    "Umpagalo",
-    "Hopama",
-    "Obya",
-    "Utkolo Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yiwika (Jiwika)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulima"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waga Waga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Abusa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Eragama (Erema)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kumima (Kimina)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mebagaima"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Iyantik"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Umpagalo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Hopama"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Obya"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Utkolo Satu"
+    }
   ]
 }

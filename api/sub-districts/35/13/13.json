@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Bago",
-    "Kecik",
-    "Alasnyiur (Alas Nyiur)",
-    "Sindetlami (Sindet Lami)",
-    "Jambangan",
-    "Klampokan",
-    "Matekan",
-    "Krampilan",
-    "Besukagung (Besuk Agung)",
-    "Besukkidul (Besuk Kidul)",
-    "Sumurdalam (Sumur Dalam)",
-    "Sindetanyar (Sindet Anyar)",
-    "Randujalak (Randu Jalak)",
-    "Alastengah (Alas Tengah)",
-    "Alaskandang (Alas Kandang)",
-    "Alassumurlor (Alas Sumur Lor)",
-    "Sumberan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bago"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kecik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alasnyiur (Alas Nyiur)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindetlami (Sindet Lami)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jambangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klampokan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matekan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Krampilan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Besukagung (Besuk Agung)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Besukkidul (Besuk Kidul)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumurdalam (Sumur Dalam)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindetanyar (Sindet Anyar)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Randujalak (Randu Jalak)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Alastengah (Alas Tengah)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Alaskandang (Alas Kandang)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Alassumurlor (Alas Sumur Lor)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sumberan"
+    }
   ]
 }

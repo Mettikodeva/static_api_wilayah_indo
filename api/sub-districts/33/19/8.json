@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gribig",
-    "Klumpit",
-    "Getassrabi (Getasrabi)",
-    "Padurenan",
-    "Karangmalang",
-    "Besito",
-    "Jurang",
-    "Gondosari",
-    "Kedungsari",
-    "Menawan",
-    "Rahtawu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gribig"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klumpit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Getassrabi (Getasrabi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padurenan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangmalang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Besito"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jurang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gondosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Menawan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rahtawu"
+    }
   ]
 }

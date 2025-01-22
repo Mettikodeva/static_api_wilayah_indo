@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sei Lunang",
-    "Sei Pasir",
-    "Sei Tempurung",
-    "Sarang Helang",
-    "Sei Sembilang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei Lunang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Pasir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei Tempurung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sarang Helang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Sembilang"
+    }
   ]
 }

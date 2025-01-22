@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Tanah Tumbuh",
-    "Rantau Pandan",
-    "Pasar Muaro Bungo (Pasar Muara Bungo)",
-    "Jujuhan",
-    "Tanah Sepenggal",
-    "Pelepat",
-    "Limbur Lubuk Mengkuang",
-    "Muko-muko Bathin VII",
-    "Pelepat Ilir",
-    "Batin II Babeko (Bathin)",
-    "Bathin III",
-    "Bungo Dani",
-    "Rimbo Tengah",
-    "Bathin III Ulu",
-    "Bathin II Pelayang",
-    "Jujuhan Ilir",
-    "Tanah Sepenggal Lintas"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanah Tumbuh"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Rantau Pandan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pasar Muaro Bungo (Pasar Muara Bungo)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Jujuhan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanah Sepenggal"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pelepat"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Limbur Lubuk Mengkuang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Muko-muko Bathin VII"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pelepat Ilir"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Batin II Babeko (Bathin)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bathin III"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bungo Dani"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Rimbo Tengah"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bathin III Ulu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bathin II Pelayang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Jujuhan Ilir"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tanah Sepenggal Lintas"
+    }
   ]
 }

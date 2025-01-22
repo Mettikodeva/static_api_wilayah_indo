@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kasongan Baru",
-    "Kasongan Lama",
-    "Tewang Kadamba",
-    "Tumbang Liting",
-    "Talian Kereng",
-    "Banut Kalanaman",
-    "Talangkah (Telangkah)",
-    "Hampalit"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kasongan Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kasongan Lama"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tewang Kadamba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Liting"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talian Kereng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banut Kalanaman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talangkah (Telangkah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hampalit"
+    }
   ]
 }

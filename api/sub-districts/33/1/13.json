@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Panimbang",
-    "Bantarmangu",
-    "Bantarpanjang",
-    "Cimanggu",
-    "Cilempuyang",
-    "Negarajati",
-    "Cisalak",
-    "Cibalung",
-    "Karangsari",
-    "Kutabima",
-    "Pesahangan",
-    "Cijati",
-    "Karangreja",
-    "Rejodadi",
-    "Mandala"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panimbang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bantarmangu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bantarpanjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cimanggu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cilempuyang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Negarajati"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cisalak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibalung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kutabima"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pesahangan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cijati"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karangreja"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rejodadi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mandala"
+    }
   ]
 }

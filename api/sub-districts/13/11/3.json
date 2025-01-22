@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Pakan Rabaa",
-    "Pakan Rabaa Timur",
-    "Pakan Rabaa Utara",
-    "Pakan Rabaa Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakan Rabaa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pakan Rabaa Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pakan Rabaa Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pakan Rabaa Tengah"
+    }
   ]
 }

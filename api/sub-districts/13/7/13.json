@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sariak Laweh",
-    "Koto Tangah Batu Ampa (Koto Tangah Batu Hampa)",
-    "Batuhampar (Batu Hampa)",
-    "Suayan",
-    "Sungai Balantiak (Sei / Sungai Balantik)",
-    "Pauh Sangik",
-    "Durian Gadang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sariak Laweh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Tangah Batu Ampa (Koto Tangah Batu Hampa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batuhampar (Batu Hampa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suayan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Balantiak (Sei / Sungai Balantik)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pauh Sangik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Durian Gadang"
+    }
   ]
 }

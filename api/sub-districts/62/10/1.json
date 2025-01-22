@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sepang Simin",
-    "Sepang Kota",
-    "Tewai Baru",
-    "Tanjung Karitak",
-    "Pamatang Limau (Pematang Limau)",
-    "Tampelas",
-    "Rabauh"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sepang Simin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sepang Kota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tewai Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Karitak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pamatang Limau (Pematang Limau)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tampelas"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rabauh"
+    }
   ]
 }

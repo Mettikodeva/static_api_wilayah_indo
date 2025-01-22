@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lok Binuang",
-    "Telaga Langsat",
-    "Mandala",
-    "Ambutun",
-    "Hamak",
-    "Hamak Timur",
-    "Hamak Utara",
-    "Pakuan Timur",
-    "Gumbil",
-    "Longawang",
-    "Pandulangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lok Binuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telaga Langsat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ambutun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hamak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hamak Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hamak Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pakuan Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gumbil"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Longawang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pandulangan"
+    }
   ]
 }

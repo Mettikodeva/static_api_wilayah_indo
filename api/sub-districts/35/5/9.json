@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nglegok",
-    "Sumberasri",
-    "Kedawung",
-    "Ngoran",
-    "Dayu",
-    "Bangsri",
-    "Kemloko",
-    "Penataran",
-    "Krenceng",
-    "Jiwut",
-    "Modangan"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Nglegok"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberasri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngoran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangsri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kemloko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penataran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Krenceng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jiwut"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Modangan"
+    }
   ]
 }

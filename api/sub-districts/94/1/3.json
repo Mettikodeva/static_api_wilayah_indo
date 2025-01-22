@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Yaur",
-    "Akudiomi (Akuidiomi)",
-    "Sima",
-    "Wami (Wamijaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yaur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Akudiomi (Akuidiomi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sima"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wami (Wamijaya)"
+    }
   ]
 }

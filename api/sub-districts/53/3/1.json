@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bitefa",
-    "Oesena",
-    "Bokon",
-    "Keanbaun (Kaenbaun)",
-    "Amol",
-    "Fatusene",
-    "Jak",
-    "Tuntun",
-    "Tunoe",
-    "Femnasi",
-    "Taekas"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bitefa"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Oesena"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bokon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keanbaun (Kaenbaun)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Amol"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Fatusene"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Jak"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tuntun"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tunoe"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Femnasi"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Taekas"
+    }
   ]
 }

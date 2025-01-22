@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Madukoro",
-    "Kali Cinta",
-    "Wono Marto (Wonomarto)",
-    "Talang Jali",
-    "Margo Rejo (Margorejo)",
-    "Banjar Wangi",
-    "Sawo Jajar",
-    "Madokoro Baru (Madukoro Baru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Madukoro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kali Cinta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wono Marto (Wonomarto)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Jali"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margo Rejo (Margorejo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjar Wangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawo Jajar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Madokoro Baru (Madukoro Baru)"
+    }
   ]
 }

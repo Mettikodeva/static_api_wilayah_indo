@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cisarua",
-    "Cikondang",
-    "Cijulang",
-    "Ciampanan",
-    "Cineam",
-    "Rajadatu",
-    "Ancol",
-    "Nagaratengah",
-    "Pasirmukti",
-    "Madiasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikondang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cijulang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciampanan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cineam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rajadatu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ancol"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nagaratengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasirmukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Madiasari"
+    }
   ]
 }

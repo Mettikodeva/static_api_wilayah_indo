@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Monta",
-    "Bolo",
-    "Woha",
-    "Belo",
-    "Wawo",
-    "Sape",
-    "Wera",
-    "Donggo",
-    "Sanggar",
-    "Ambalawi",
-    "Langgudu",
-    "Lambu",
-    "Madapangga",
-    "Tambora",
-    "Soromandi",
-    "Parado",
-    "Lambitu",
-    "Palibelo"
+    {
+      "district_id": 1,
+      "kecamatan": "Monta"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bolo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Woha"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Belo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wawo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sape"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wera"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Donggo"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sanggar"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ambalawi"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Langgudu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lambu"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Madapangga"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tambora"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Soromandi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Parado"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Lambitu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Palibelo"
+    }
   ]
 }

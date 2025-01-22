@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Balong",
-    "Jepitu",
-    "Karangawen",
-    "Nglindur",
-    "Jerukwudel",
-    "Tileng",
-    "Pucung",
-    "Songbanyu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jepitu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangawen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nglindur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jerukwudel"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tileng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pucung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Songbanyu"
+    }
   ]
 }

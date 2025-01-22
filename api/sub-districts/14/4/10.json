@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kuala Enok",
-    "Selatnama (Selat Nama)",
-    "Sungainyiur (Sungai Nyiur)",
-    "Tanjungbaru (Tanjung Baru)",
-    "Tekulai Hilir",
-    "Tekulai Hulu",
-    "Tekulai Bugis",
-    "Tanjungpasir (Tanjung Pasir)",
-    "Tanah Merah",
-    "Sungailaut (Sungai Laut)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kuala Enok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selatnama (Selat Nama)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungainyiur (Sungai Nyiur)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungbaru (Tanjung Baru)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tekulai Hilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tekulai Hulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tekulai Bugis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungpasir (Tanjung Pasir)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungailaut (Sungai Laut)"
+    }
   ]
 }

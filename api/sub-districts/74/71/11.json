@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tobimeita",
-    "Petoaha",
-    "Nambo",
-    "Bungkutoko",
-    "Sambuli",
-    "Tondonggeu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tobimeita"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Petoaha"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nambo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bungkutoko"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sambuli"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tondonggeu"
+    }
   ]
 }

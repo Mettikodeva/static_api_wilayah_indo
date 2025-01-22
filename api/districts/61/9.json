@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Sekadau Hilir",
-    "Sekadau Hulu",
-    "Nanga Taman",
-    "Nanga Mahap",
-    "Belitang Hilir",
-    "Belitang Hulu",
-    "Belitang"
+    {
+      "district_id": 1,
+      "kecamatan": "Sekadau Hilir"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sekadau Hulu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Nanga Taman"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Nanga Mahap"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Belitang Hilir"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Belitang Hulu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Belitang"
+    }
   ]
 }

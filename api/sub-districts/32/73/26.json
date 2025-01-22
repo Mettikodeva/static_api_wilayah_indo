@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pasir Endah",
-    "Cigending",
-    "Pasirwangi",
-    "Pasirjati",
-    "Pasanggrahan"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasir Endah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cigending"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pasirwangi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pasirjati"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pasanggrahan"
+    }
   ]
 }

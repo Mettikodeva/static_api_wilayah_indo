@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kartasura",
-    "Ngadirejo",
-    "Pucangan",
-    "Ngemplak",
-    "Gumpang",
-    "Makamhaji",
-    "Pabelan",
-    "Gonilan",
-    "Singopuran",
-    "Ngabeyan",
-    "Wirogunan",
-    "Kertonatan"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kartasura"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pucangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngemplak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gumpang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Makamhaji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pabelan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gonilan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Singopuran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngabeyan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wirogunan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kertonatan"
+    }
   ]
 }

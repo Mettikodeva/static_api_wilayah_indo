@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Okbifisil (Okbifisis)",
-    "Abmisibil (Apmisibil)",
-    "Manunggal (Okipur)",
-    "Iriding",
-    "Atoldol (Atolbol)",
-    "Oktanglap",
-    "Oksemar",
-    "Okaplo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Okbifisil (Okbifisis)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Abmisibil (Apmisibil)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manunggal (Okipur)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Iriding"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Atoldol (Atolbol)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Oktanglap"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Oksemar"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Okaplo"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Babakan Ciparay",
-    "Babakan",
-    "Sukahaji",
-    "Margahayu Utara",
-    "Margasuka",
-    "Cirangrang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Babakan Ciparay"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sukahaji"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Margahayu Utara"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Margasuka"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cirangrang"
+    }
   ]
 }

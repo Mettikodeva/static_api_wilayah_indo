@@ -1,30 +1,108 @@
 {
   "sub_districts": [
-    "Keraton",
-    "Jawa",
-    "Pasayangan (Pesayangan)",
-    "Murung Keraton",
-    "Sei/Sungai Paring",
-    "Tanjung Rema Darat",
-    "Sekumpul",
-    "Sei/Sungai Sipai",
-    "Pasayangan Selatan",
-    "Tanjung Rema",
-    "Bincau",
-    "Murung Kenanga",
-    "Tunggul Irang",
-    "Tambak Baru",
-    "Cindai Alus",
-    "Tungkaran",
-    "Tambak Baru Ulu",
-    "Bincau Muara",
-    "Tunggul Irang Ilir",
-    "Tunggul Irang Ulu",
-    "Labuan Tabu",
-    "Indra Sari",
-    "Jawa Laut",
-    "Pasayangan Utara",
-    "Pasayangan Barat",
-    "Tambak Baru Ilir"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Keraton"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jawa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasayangan (Pesayangan)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Murung Keraton"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei/Sungai Paring"
+    },
+    {
+      "sub_district_id": 1055,
+      "desa_kelurahan": "Tanjung Rema Darat"
+    },
+    {
+      "sub_district_id": 1059,
+      "desa_kelurahan": "Sekumpul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Sipai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasayangan Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Rema"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bincau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Murung Kenanga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tunggul Irang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tambak Baru"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Cindai Alus"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tungkaran"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Tambak Baru Ulu"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Bincau Muara"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Tunggul Irang Ilir"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Tunggul Irang Ulu"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Labuan Tabu"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Indra Sari"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Jawa Laut"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Pasayangan Utara"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Pasayangan Barat"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Tambak Baru Ilir"
+    }
   ]
 }

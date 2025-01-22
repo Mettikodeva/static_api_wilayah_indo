@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Leles",
-    "Ciburial",
-    "Jangkurang",
-    "Sukarame",
-    "Lembang",
-    "Cangkuang",
-    "Salamnunggal",
-    "Kandangmukti",
-    "Margaluyu",
-    "Cipancar",
-    "Haruman",
-    "Dano"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Leles"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciburial"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jangkurang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lembang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cangkuang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salamnunggal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kandangmukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cipancar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Haruman"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dano"
+    }
   ]
 }

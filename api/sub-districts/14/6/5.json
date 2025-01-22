@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kepenuhantengah (Kepenuhan Tengah)",
-    "Kepenuhan Barat",
-    "Kepenuhan Hilir",
-    "Kepenuhan Timur",
-    "Kepenuhan Barat Sei Rokan Jaya",
-    "Kepenuhan Raya",
-    "Kepenuhan Baru",
-    "Kepenuhan Barat Mulya",
-    "Ulak Patian",
-    "Rantau Binuang Sakti"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kepenuhantengah (Kepenuhan Tengah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kepenuhan Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kepenuhan Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kepenuhan Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kepenuhan Barat Sei Rokan Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kepenuhan Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kepenuhan Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kepenuhan Barat Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ulak Patian"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rantau Binuang Sakti"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Panglayungan",
-    "Cipedes",
-    "Nagarasari",
-    "Sukamanah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Panglayungan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cipedes"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nagarasari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukamanah"
+    }
   ]
 }

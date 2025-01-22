@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tembelangunung (Tembelang Gunung)",
-    "Pamutuh",
-    "Depok",
-    "Wonosido",
-    "Timbangsari",
-    "Sidomulyo",
-    "Kutorembet",
-    "Lebakbarang",
-    "Kapundutan",
-    "Bantarkulon (Bantar Kulon)",
-    "Mendolo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tembelangunung (Tembelang Gunung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pamutuh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonosido"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Timbangsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kutorembet"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lebakbarang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kapundutan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bantarkulon (Bantar Kulon)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mendolo"
+    }
   ]
 }

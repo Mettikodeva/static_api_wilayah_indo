@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Saka Taru",
-    "Lembah Bawang",
-    "Janyat",
-    "Tempapan",
-    "Papan Uduk",
-    "Papan Tembawang",
-    "Godang Damar",
-    "Kinande"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saka Taru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lembah Bawang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Janyat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tempapan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Papan Uduk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Papan Tembawang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Godang Damar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kinande"
+    }
   ]
 }

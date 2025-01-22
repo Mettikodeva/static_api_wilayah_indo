@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ciruas",
-    "Citerep",
-    "Pulo",
-    "Kadikaran",
-    "Kepandean",
-    "Gosara",
-    "Bumijaya",
-    "Penggalang",
-    "Pamong",
-    "Cigelam",
-    "Singamerta",
-    "Ranjeng",
-    "Beberan",
-    "Kaserangan",
-    "Pelawad"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciruas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Citerep"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadikaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kepandean"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gosara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumijaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Penggalang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pamong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cigelam"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Singamerta"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ranjeng"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Beberan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kaserangan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pelawad"
+    }
   ]
 }

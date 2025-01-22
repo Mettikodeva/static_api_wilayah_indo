@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cilallang",
-    "Kamanre",
-    "Tabbaja",
-    "Libukang",
-    "Wara",
-    "Salu Paremang",
-    "Salu Paremang Selatan (Saluparemang Selatan)",
-    "Bunga Eja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cilallang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kamanre"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tabbaja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Libukang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salu Paremang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salu Paremang Selatan (Saluparemang Selatan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bunga Eja"
+    }
   ]
 }

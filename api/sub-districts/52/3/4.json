@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Semaya",
-    "Sikur",
-    "Montong Baan (Montongbaan)",
-    "Loyok",
-    "Kota Raja (Kotaraja)",
-    "Tete Batu (Tetebatu)",
-    "Kembang Kuning",
-    "Montong Baan Selatan",
-    "Gelora",
-    "Darmasari",
-    "Tetebatu Selatan",
-    "Jeruk Manis",
-    "Sikur Selatan",
-    "Sikur Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Semaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sikur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Montong Baan (Montongbaan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Loyok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Raja (Kotaraja)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tete Batu (Tetebatu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kembang Kuning"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Montong Baan Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gelora"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Darmasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tetebatu Selatan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jeruk Manis"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sikur Selatan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sikur Barat"
+    }
   ]
 }

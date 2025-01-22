@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Parsaoran Ajibata",
-    "Sigapiton",
-    "Pardomuan Ajibata",
-    "Pardamean Ajibata",
-    "Motung",
-    "Horsik",
-    "Sirungkungon",
-    "Parsaoran Sibisa",
-    "Pardamean Sibisa",
-    "Pardomuan Motung"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Parsaoran Ajibata"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sigapiton"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pardomuan Ajibata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pardamean Ajibata"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Motung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Horsik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sirungkungon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parsaoran Sibisa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pardamean Sibisa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pardomuan Motung"
+    }
   ]
 }

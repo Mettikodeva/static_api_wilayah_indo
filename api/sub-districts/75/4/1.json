@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Torosiaje Jaya",
-    "Popayato",
-    "Telaga",
-    "Torosiaje",
-    "Bukit Tingki",
-    "Tunas Harapan",
-    "Trikora",
-    "Dambalo",
-    "Telaga Biru",
-    "Bumi Bahari"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Torosiaje Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Popayato"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Telaga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Torosiaje"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bukit Tingki"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tunas Harapan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Trikora"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Dambalo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Telaga Biru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bumi Bahari"
+    }
   ]
 }

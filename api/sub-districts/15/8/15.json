@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pelayang",
-    "Peninjau",
-    "Talang Selungko (Talang Silungko)",
-    "Pulau Kerakap",
-    "Seberang Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Peninjau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Selungko (Talang Silungko)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulau Kerakap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seberang Jaya"
+    }
   ]
 }

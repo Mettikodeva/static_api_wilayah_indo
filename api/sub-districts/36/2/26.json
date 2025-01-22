@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Panyaungan",
-    "Cihara",
-    "Ciparahu",
-    "Pondokpanjang",
-    "Citeupuseun (Citepuseun)",
-    "Lebakpeundeuy (Lebak Peundeuy)",
-    "Mekarsari",
-    "Karangkamulyan",
-    "Barunai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panyaungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cihara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciparahu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondokpanjang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Citeupuseun (Citepuseun)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebakpeundeuy (Lebak Peundeuy)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangkamulyan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Barunai"
+    }
   ]
 }

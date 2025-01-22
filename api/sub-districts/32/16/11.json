@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sertajaya",
-    "Tanjungbaru",
-    "Cipayung",
-    "Hegarmanah",
-    "Jatireja",
-    "Jatibaru",
-    "Labansari",
-    "Karangsari"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sertajaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungbaru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cipayung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatireja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatibaru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labansari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangsari"
+    }
   ]
 }

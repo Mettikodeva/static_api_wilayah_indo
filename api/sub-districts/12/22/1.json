@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kotapinang (Kota Pinang)",
-    "Simatahari",
-    "Mampang",
-    "Pasir Tuntung",
-    "Sisumut",
-    "Hadundung",
-    "Sosopan",
-    "Perkebunan Nomark (Perkebunan Normark)",
-    "Perkebunan Nagodang",
-    "Sungai Rumbia (Perkebunan Sei Rumbia)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kotapinang (Kota Pinang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simatahari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mampang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasir Tuntung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sisumut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hadundung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sosopan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perkebunan Nomark (Perkebunan Normark)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perkebunan Nagodang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Rumbia (Perkebunan Sei Rumbia)"
+    }
   ]
 }

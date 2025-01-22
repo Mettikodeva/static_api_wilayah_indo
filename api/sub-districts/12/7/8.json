@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Talun Kenas (Telun Kenas)",
-    "Gunung Rintih (Gunung Rintis)",
-    "Sumbul",
-    "Tandukan Raga (Tadukan Raga)",
-    "Limau Mungkur",
-    "Negara Beringin/Bringin",
-    "Lau Barus Baru",
-    "Juma/Jumma Tombak",
-    "Siguci",
-    "Kuta Jurung",
-    "Tala Peta",
-    "Lau Rakit",
-    "Penungkiren",
-    "Rambai",
-    "Lau Rempak (Lau Rempah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talun Kenas (Telun Kenas)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Rintih (Gunung Rintis)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumbul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tandukan Raga (Tadukan Raga)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limau Mungkur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Negara Beringin/Bringin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lau Barus Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Juma/Jumma Tombak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siguci"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kuta Jurung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tala Peta"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lau Rakit"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Penungkiren"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rambai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lau Rempak (Lau Rempah)"
+    }
   ]
 }

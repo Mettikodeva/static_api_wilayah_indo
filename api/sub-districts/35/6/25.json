@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tugurejo",
-    "Sumberejo (Sumberjo)",
-    "Paron",
-    "Gogorante",
-    "Doko",
-    "Sukorejo",
-    "Ngasem",
-    "Karangrejo",
-    "Kwadungan",
-    "Nambaan",
-    "Toyoresmi",
-    "Wonocatur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tugurejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberejo (Sumberjo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paron"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gogorante"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Doko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngasem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kwadungan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nambaan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Toyoresmi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wonocatur"
+    }
   ]
 }

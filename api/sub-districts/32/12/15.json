@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Bojongsari",
-    "Kepandean",
-    "Karangmalang",
-    "Karanganyar",
-    "Lemahmekar",
-    "Lemahabang",
-    "Margadadi",
-    "Paoman",
-    "Telukagung",
-    "Plumbon",
-    "Dukuh",
-    "Pekandangan Jaya",
-    "Singaraja",
-    "Singajaya",
-    "Pekandangan",
-    "Karangsong",
-    "Pabean Udik (Pabeanudik)",
-    "Tambak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kepandean"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karangmalang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lemahmekar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lemahabang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Margadadi"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Paoman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Telukagung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Plumbon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pekandangan Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Singaraja"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Singajaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pekandangan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Karangsong"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pabean Udik (Pabeanudik)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tambak"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kalinyamat Wetan",
-    "Bandung",
-    "Debong Kidul",
-    "Tunon",
-    "Keturen",
-    "Debong Kulon",
-    "Debong Tengah",
-    "Randugunting"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kalinyamat Wetan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bandung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Debong Kidul"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tunon"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Keturen"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Debong Kulon"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Debong Tengah"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Randugunting"
+    }
   ]
 }

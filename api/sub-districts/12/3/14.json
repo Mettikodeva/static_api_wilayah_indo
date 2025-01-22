@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Arse",
-    "Lancat",
-    "Sipogu",
-    "Pinagar",
-    "Pardomuan",
-    "Aek Haminjon (Arse Hanopan)",
-    "Nanggar Jati Huta Padang (Hutapadang)",
-    "Nanggar Jati",
-    "Natambang Roncitan",
-    "Dalihan Natolu"
+    {
+      "sub_district_id": 1039,
+      "desa_kelurahan": "Arse"
+    },
+    {
+      "sub_district_id": 1040,
+      "desa_kelurahan": "Lancat"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sipogu"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pinagar"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Aek Haminjon (Arse Hanopan)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Nanggar Jati Huta Padang (Hutapadang)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Nanggar Jati"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Natambang Roncitan"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Dalihan Natolu"
+    }
   ]
 }

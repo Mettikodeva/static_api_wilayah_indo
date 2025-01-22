@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lubawang",
-    "Kalisari",
-    "Tepos",
-    "Selabanteng (Selobanteng)",
-    "Banyuglugur",
-    "Telempong",
-    "Kalianget"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tepos"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Selabanteng (Selobanteng)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyuglugur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telempong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalianget"
+    }
   ]
 }

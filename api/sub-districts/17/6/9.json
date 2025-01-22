@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sungai Ipuh",
-    "Lubuk Sahung",
-    "Surian Bungkal",
-    "Sungai Gading",
-    "Pondok Baru",
-    "Sungai Jerinjing",
-    "Lubuk Bangko",
-    "Talang Buai",
-    "Aur Cina",
-    "Talang Medan",
-    "Sungai Ipuh Satu",
-    "Sungai Ipuh Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Ipuh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Sahung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Surian Bungkal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Gading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pondok Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Jerinjing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Bangko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talang Buai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aur Cina"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Talang Medan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Ipuh Satu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Ipuh Dua"
+    }
   ]
 }

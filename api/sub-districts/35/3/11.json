@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tamanan",
-    "Ngantru",
-    "Kelutan",
-    "Surodakan",
-    "Sumbergedong",
-    "Ngares",
-    "Karangsoko",
-    "Sambirejo",
-    "Sumberdadi",
-    "Rejowinangun",
-    "Sukosari",
-    "Parakan",
-    "Dawuhan"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tamanan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ngantru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kelutan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Surodakan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sumbergedong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngares"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangsoko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberdadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rejowinangun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukosari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Parakan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dawuhan"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Simanindo",
-    "Onan Runggu",
-    "Nainggolan",
-    "Palipi",
-    "Harian",
-    "Sianjar Mula Mula (Sianjur)",
-    "Ronggur Nihuta",
-    "Pangururan",
-    "Sitio-tio"
+    {
+      "district_id": 1,
+      "kecamatan": "Simanindo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Onan Runggu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Nainggolan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Palipi"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Harian"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sianjar Mula Mula (Sianjur)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Ronggur Nihuta"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pangururan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sitio-tio"
+    }
   ]
 }

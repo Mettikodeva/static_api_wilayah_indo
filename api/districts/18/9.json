@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Gedong Tataan",
-    "Negeri Katon",
-    "Tegineneng",
-    "Way Lima",
-    "Padang Cermin",
-    "Punduh Pidada",
-    "Kedondong",
-    "Marga Punduh",
-    "Way Khilau",
-    "Teluk Pandan",
-    "Way Ratai"
+    {
+      "district_id": 1,
+      "kecamatan": "Gedong Tataan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Negeri Katon"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tegineneng"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Way Lima"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Padang Cermin"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Punduh Pidada"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kedondong"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Marga Punduh"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Way Khilau"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Teluk Pandan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Way Ratai"
+    }
   ]
 }

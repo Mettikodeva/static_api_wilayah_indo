@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Karangsentul",
-    "Karangpule",
-    "Sokawera",
-    "Karangjambe",
-    "Bojanegara",
-    "Gemuruh",
-    "Dawuhan",
-    "Prigi",
-    "Padamara",
-    "Purbayasa",
-    "Kalitinggar",
-    "Mipiran",
-    "Karanggambas",
-    "Kalitinggar Kidul"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karangsentul"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangpule"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sokawera"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangjambe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojanegara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gemuruh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dawuhan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Prigi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padamara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purbayasa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalitinggar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mipiran"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karanggambas"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kalitinggar Kidul"
+    }
   ]
 }

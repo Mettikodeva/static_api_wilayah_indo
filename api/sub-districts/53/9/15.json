@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Uluwae",
-    "Inelika",
-    "Inegena",
-    "Wololika",
-    "Watukapu",
-    "Waewea",
-    "Nabelena",
-    "Genamere",
-    "Uluwae I",
-    "Uluwae II",
-    "Tura Muri",
-    "Bowado"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Uluwae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Inelika"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Inegena"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wololika"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watukapu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waewea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nabelena"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Genamere"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uluwae I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Uluwae II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tura Muri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bowado"
+    }
   ]
 }

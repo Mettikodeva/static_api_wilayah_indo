@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Moru",
-    "Probur",
-    "Morba",
-    "Pintumas (Pintu Mas)",
-    "Wolwal",
-    "Halerman",
-    "Kafelulang",
-    "Moramam",
-    "Pailelang",
-    "Wolwal Barat",
-    "Wolwal Tengah",
-    "Wolwal Selatan",
-    "Probur Utara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Moru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Probur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Morba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pintumas (Pintu Mas)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wolwal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Halerman"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kafelulang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Moramam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pailelang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wolwal Barat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wolwal Tengah"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wolwal Selatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Probur Utara"
+    }
   ]
 }

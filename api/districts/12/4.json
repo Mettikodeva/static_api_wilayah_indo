@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Hiliduho",
-    "Gido",
-    "Idanogawo (Idano Gawo)",
-    "Bawolato",
-    "Hiliserangkai (Hili Serangkai / Hilisaranggu)",
-    "Botomuzoi",
-    "Ulugawo",
-    "Ma'u",
-    "Somolo-Molo (Samolo)",
-    "Sogae'adu (Sogae Adu / Sogaeadu)"
+    {
+      "district_id": 5,
+      "kecamatan": "Hiliduho"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Gido"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Idanogawo (Idano Gawo)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bawolato"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Hiliserangkai (Hili Serangkai / Hilisaranggu)"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Botomuzoi"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Ulugawo"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Ma'u"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Somolo-Molo (Samolo)"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Sogae'adu (Sogae Adu / Sogaeadu)"
+    }
   ]
 }

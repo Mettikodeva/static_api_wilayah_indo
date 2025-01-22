@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Girikarto",
-    "Girisekar",
-    "Girimulyo",
-    "Giriwungu",
-    "Giriharjo",
-    "Girisuko"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Girikarto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Girisekar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Girimulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Giriwungu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Giriharjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Girisuko"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dofa",
-    "Lekokadai",
-    "Lekosula",
-    "Pas Ipa",
-    "Pelita",
-    "Johor (Johor Perda)",
-    "Lelyaba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dofa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lekokadai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lekosula"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pas Ipa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pelita"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Johor (Johor Perda)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lelyaba"
+    }
   ]
 }

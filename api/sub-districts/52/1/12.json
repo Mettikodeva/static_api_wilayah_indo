@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Lingsar",
-    "Batu Kumbang (Batu Kumbung)",
-    "Sigerongan",
-    "Duman",
-    "Karang Bayan",
-    "Langko",
-    "Dasan Geria",
-    "Peteluan Indah",
-    "Gegerung",
-    "Batu Mekar",
-    "Giri Madia",
-    "Bug-Bug",
-    "Gegelang",
-    "Saribaye",
-    "Gontoran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lingsar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Kumbang (Batu Kumbung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sigerongan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Duman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Bayan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dasan Geria"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Peteluan Indah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gegerung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Mekar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Giri Madia"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bug-Bug"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gegelang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Saribaye"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gontoran"
+    }
   ]
 }

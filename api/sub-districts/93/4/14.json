@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Yamkap",
-    "Amkum",
-    "Amaru",
-    "Amkai",
-    "Amagais",
-    "Erosaman (Ero Saman)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yamkap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Amkum"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amkai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Amagais"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Erosaman (Ero Saman)"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pakintelan",
-    "Mangunsari",
-    "Plalangan",
-    "Gunungpati (Gunung Pati)",
-    "Nongkosawit",
-    "Pongangan (Pungangan)",
-    "Ngijo",
-    "Patemon",
-    "Sekaran",
-    "Sukorejo",
-    "Sadeng",
-    "Cepoko",
-    "Jatirejo",
-    "Sumurrejo (Sumurejo)",
-    "Kalisegoro",
-    "Kandri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pakintelan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mangunsari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Plalangan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gunungpati (Gunung Pati)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nongkosawit"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pongangan (Pungangan)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ngijo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sekaran"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sadeng"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Cepoko"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Sumurrejo (Sumurejo)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kalisegoro"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kandri"
+    }
   ]
 }

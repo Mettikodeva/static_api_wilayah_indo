@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tatebal",
-    "Lenangguar",
-    "Ledang",
-    "Telaga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tatebal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lenangguar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ledang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telaga"
+    }
   ]
 }

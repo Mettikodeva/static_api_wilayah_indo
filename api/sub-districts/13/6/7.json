@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Batu Taba",
-    "Biaro Gadang",
-    "Lambah",
-    "Panampuang (Panampung)",
-    "Ampang Gadang",
-    "Pasia",
-    "Balai Gurah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Taba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Biaro Gadang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lambah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panampuang (Panampung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ampang Gadang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balai Gurah"
+    }
   ]
 }

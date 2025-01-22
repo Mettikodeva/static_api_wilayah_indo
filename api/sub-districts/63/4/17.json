@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sampurna",
-    "Jejangkit Barat",
-    "Bahandang",
-    "Jejangkit Timur",
-    "Cahaya Baru",
-    "Jejangkit Pasar",
-    "Jejangkit Muara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sampurna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jejangkit Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bahandang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jejangkit Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cahaya Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jejangkit Pasar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jejangkit Muara"
+    }
   ]
 }

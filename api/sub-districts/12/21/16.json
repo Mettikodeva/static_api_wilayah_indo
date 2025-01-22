@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gading",
-    "Huta Ruhom",
-    "Aek Siala",
-    "Bire",
-    "Sibontar",
-    "Paran Napa Jae",
-    "Paran Napa Dolok",
-    "Batusundung (Batu Sundung)",
-    "Sidongdong (Sidong-Dong)",
-    "Sisalean"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gading"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huta Ruhom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aek Siala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bire"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sibontar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paran Napa Jae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paran Napa Dolok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batusundung (Batu Sundung)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidongdong (Sidong-Dong)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sisalean"
+    }
   ]
 }

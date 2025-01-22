@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ampah Kota",
-    "Saing",
-    "Rodok",
-    "Ampah II (Ampah Dua)",
-    "Putai",
-    "Netampin (Netapin)",
-    "Sumber Garunggung (Sumber Garonggong)",
-    "Muara Awang"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Ampah Kota"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Saing"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rodok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ampah II (Ampah Dua)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Putai"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Netampin (Netapin)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sumber Garunggung (Sumber Garonggong)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Muara Awang"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Pulau Kupang",
-    "Pulau Mambulau",
-    "Sei/Sungai Lunuk",
-    "Sei Jangkit (Sei Jangkir)",
-    "Tamban Luar",
-    "Terusan Raya",
-    "Terusan Karya",
-    "Terusan Makmur",
-    "Terusan Mulya",
-    "Bamban Raya",
-    "Bangun Harjo",
-    "Terusan Baguntan Raya",
-    "Terusan Raya Barat",
-    "Terusan Raya Hulu (Terusan Raya Hilir)",
-    "Budi Mufakat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulau Kupang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Mambulau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Lunuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Jangkit (Sei Jangkir)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamban Luar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Terusan Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terusan Karya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Terusan Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Terusan Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bamban Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangun Harjo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Terusan Baguntan Raya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Terusan Raya Barat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Terusan Raya Hulu (Terusan Raya Hilir)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Budi Mufakat"
+    }
   ]
 }

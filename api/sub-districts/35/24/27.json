@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kedungkumpul",
-    "Dermolemahbang (Dermo Lemahbang)",
-    "Simbatan",
-    "Sumberjo",
-    "Canggah",
-    "Beru",
-    "Tambakmenjangan",
-    "Gempoltukmloko (Gempol Tukmloko)",
-    "Sarirejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungkumpul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dermolemahbang (Dermo Lemahbang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simbatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Canggah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tambakmenjangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gempoltukmloko (Gempol Tukmloko)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sarirejo"
+    }
   ]
 }

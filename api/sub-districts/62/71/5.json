@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Petuk Bukit",
-    "Panjehang",
-    "Petuk Barunai (Petuk Berunai)",
-    "Mungku Baru",
-    "Pager",
-    "Gaung Baru",
-    "Bukit Sua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Petuk Bukit"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Panjehang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Petuk Barunai (Petuk Berunai)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mungku Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pager"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gaung Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bukit Sua"
+    }
   ]
 }

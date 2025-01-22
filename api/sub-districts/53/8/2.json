@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Aejeti",
-    "Puutara",
-    "Paderape",
-    "Ndoriwoi",
-    "Rorurangga (Rendo Ranga)",
-    "Rendoraterua (Rendo Raterua)",
-    "Redorory (Redodori)",
-    "Kazo Kapo",
-    "Renga Menge"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aejeti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Puutara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paderape"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ndoriwoi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rorurangga (Rendo Ranga)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rendoraterua (Rendo Raterua)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Redorory (Redodori)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kazo Kapo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Renga Menge"
+    }
   ]
 }

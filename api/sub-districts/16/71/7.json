@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Talang Betutu",
-    "Sukajaya",
-    "Suka Rami (Sukarami)",
-    "Kebun Bunga",
-    "Suka Bangun",
-    "Jambe (Talang Jambe)",
-    "Sukodadi"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Talang Betutu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Suka Rami (Sukarami)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kebun Bunga"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Suka Bangun"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Jambe (Talang Jambe)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sukodadi"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Wedusan",
-    "Dumpil",
-    "Ngagel",
-    "Bakalan",
-    "Kenanti",
-    "Alasdowo",
-    "Banyutowo",
-    "Dukuhseti",
-    "Grogolan",
-    "Kembang",
-    "Tegalombo",
-    "Puncel"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wedusan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dumpil"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngagel"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bakalan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kenanti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alasdowo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banyutowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dukuhseti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Grogolan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kembang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tegalombo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Puncel"
+    }
   ]
 }

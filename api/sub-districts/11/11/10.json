@@ -1,50 +1,188 @@
 {
   "sub_districts": [
-    "Jangka Mesjid",
-    "Jangka Keutapang",
-    "Jangka Alue U",
-    "Jangka Alue",
-    "Jangka Alue Bie",
-    "Gampong Meulinteung",
-    "Paya Bieng",
-    "Meunasah Krueng",
-    "Barat Lanyan",
-    "Lamkuta",
-    "Geundot",
-    "Lueng",
-    "Kambuk (Kambuek)",
-    "Ruseb Ara",
-    "Ruseb Dayah",
-    "Bada Barat",
-    "Bada Timu (Bada Timur)",
-    "Tanjongan",
-    "Tanah Anoe (Tanoh Anoe)",
-    "Lhok Bugeng",
-    "Lampoh Rayeuk",
-    "Pulo Reudeup",
-    "Pulo Seuna",
-    "Linggong",
-    "Pulo Blang",
-    "Pulo Iboih (Pulo Iboh / Iboeh)",
-    "Abeuk Jaloh",
-    "Pulo U",
-    "Alue Buya",
-    "Alue Buya Pasi",
-    "Pante Sukon",
-    "Pante Paku",
-    "Bugak Blang",
-    "Bugak Mesjid",
-    "Bugak Krueng Matee (Bugak Krueng Mate)",
-    "Bugak Krueng",
-    "Pante Ranub",
-    "Pulo Pineung Meunasah Dua (II)",
-    "Punjot",
-    "Bugeng",
-    "Alue Kuta",
-    "Alue Bayeu Utang",
-    "Ulee Ceu (Ulee Ceue)",
-    "Kuala Cerape (Kuala Ceurape)",
-    "Pante Peusangan",
-    "Alue Bie Pusong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jangka Mesjid"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jangka Keutapang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jangka Alue U"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jangka Alue"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jangka Alue Bie"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gampong Meulinteung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paya Bieng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meunasah Krueng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Barat Lanyan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lamkuta"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Geundot"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lueng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kambuk (Kambuek)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ruseb Ara"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ruseb Dayah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bada Barat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bada Timu (Bada Timur)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjongan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanah Anoe (Tanoh Anoe)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lhok Bugeng"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lampoh Rayeuk"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pulo Reudeup"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pulo Seuna"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Linggong"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pulo Blang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pulo Iboih (Pulo Iboh / Iboeh)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Abeuk Jaloh"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Pulo U"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Alue Buya"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Alue Buya Pasi"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Pante Sukon"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pante Paku"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Bugak Blang"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Bugak Mesjid"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Bugak Krueng Matee (Bugak Krueng Mate)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Bugak Krueng"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Pante Ranub"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Pulo Pineung Meunasah Dua (II)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Punjot"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Bugeng"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Alue Kuta"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Alue Bayeu Utang"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Ulee Ceu (Ulee Ceue)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Kuala Cerape (Kuala Ceurape)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Pante Peusangan"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Alue Bie Pusong"
+    }
   ]
 }

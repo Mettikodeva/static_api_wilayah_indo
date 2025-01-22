@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Gedung Surian",
-    "Pura Mekar (Puramekar)",
-    "Cipta Waras",
-    "Tri Mulyo (Trimulyo)",
-    "Mekar Jaya (Mekarjaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gedung Surian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pura Mekar (Puramekar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cipta Waras"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tri Mulyo (Trimulyo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekar Jaya (Mekarjaya)"
+    }
   ]
 }

@@ -1,49 +1,184 @@
 {
   "sub_districts": [
-    "Jurong Balee",
-    "Aron Asan Kumbang",
-    "Cebrek",
-    "Jurong Mesjid",
-    "Meunasah Gantung",
-    "Babah Jurong",
-    "Keupula",
-    "Jareng",
-    "Arusan (Arosan)",
-    "Tanjong Krueng",
-    "Lancang",
-    "Pasi Lhok",
-    "Jeumeurang",
-    "Pusong",
-    "Meuraksa",
-    "Kayee Panyang",
-    "Kampong Panjoe",
-    "Kampong Asan",
-    "Meunasah Mesjid",
-    "Meunasah Mee",
-    "Meunasah Teungoh",
-    "Pasi ie Leubeue",
-    "Keude ie Leubeue",
-    "Sukon",
-    "Ara (Are)",
-    "Meunasah Krueng",
-    "Krueng Dhoe",
-    "Meunasah Baro",
-    "Bentayan",
-    "Kandang",
-    "Lamkawe",
-    "Puuk",
-    "Tanjong",
-    "Deyah Blang",
-    "Deyah Mon Ara",
-    "Keureumbok",
-    "Manyang (Mayang)",
-    "Matang Kuli",
-    "Rheung Rheung",
-    "Teumpeun (Tumpeun)",
-    "Blang Cut",
-    "Geulumpang",
-    "Aron Kuta Baro",
-    "Kampong Barat",
-    "Kampong Araih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jurong Balee"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aron Asan Kumbang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cebrek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jurong Mesjid"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meunasah Gantung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Babah Jurong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keupula"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jareng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Arusan (Arosan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjong Krueng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lancang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasi Lhok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jeumeurang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pusong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Meuraksa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kayee Panyang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kampong Panjoe"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kampong Asan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Meunasah Mesjid"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Meunasah Mee"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Meunasah Teungoh"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pasi ie Leubeue"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Keude ie Leubeue"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sukon"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Ara (Are)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Meunasah Krueng"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Krueng Dhoe"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Meunasah Baro"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Bentayan"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Kandang"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Lamkawe"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Puuk"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Tanjong"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Deyah Blang"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Deyah Mon Ara"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Keureumbok"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Manyang (Mayang)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Matang Kuli"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Rheung Rheung"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Teumpeun (Tumpeun)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Blang Cut"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Geulumpang"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Aron Kuta Baro"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Kampong Barat"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Kampong Araih"
+    }
   ]
 }

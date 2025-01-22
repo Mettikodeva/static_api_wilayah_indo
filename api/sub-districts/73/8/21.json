@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Biru",
-    "Ta",
-    "Watampone",
-    "Bukaka",
-    "Pappolo",
-    "Manurunge (Manurungnge)",
-    "Walanae (Walennae)",
-    "Masumpu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Biru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ta"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Watampone"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bukaka"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pappolo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Manurunge (Manurungnge)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Walanae (Walennae)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Masumpu"
+    }
   ]
 }

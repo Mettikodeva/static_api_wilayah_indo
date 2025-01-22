@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tambusai Utara",
-    "Mahato",
-    "Bangun Jaya",
-    "Simpang Harapan",
-    "Pagar Mayang",
-    "Payung Sekaki",
-    "Mekar Jaya",
-    "Tanjung Medan",
-    "Suka Damai",
-    "Rantau Sakti",
-    "Mahato Sakti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambusai Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mahato"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Harapan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagar Mayang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Payung Sekaki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Medan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rantau Sakti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mahato Sakti"
+    }
   ]
 }

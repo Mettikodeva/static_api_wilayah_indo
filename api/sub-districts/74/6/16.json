@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lamonggi",
-    "Tangkeno",
-    "Lengora",
-    "Enano",
-    "Ulungkura",
-    "Lengora Selatan",
-    "Lengora Pantai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lamonggi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tangkeno"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lengora"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Enano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulungkura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lengora Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lengora Pantai"
+    }
   ]
 }

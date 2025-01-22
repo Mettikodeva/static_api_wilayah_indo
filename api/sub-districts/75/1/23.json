@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Totopo",
-    "Bilato",
-    "Ilomata",
-    "Taula'a (Taulaa)",
-    "Juriya",
-    "Pelehu",
-    "Bumela",
-    "Lamahu",
-    "Musyawarah",
-    "Suka Damai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Totopo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bilato"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ilomata"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taula'a (Taulaa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Juriya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pelehu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bumela"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamahu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Musyawarah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suka Damai"
+    }
   ]
 }

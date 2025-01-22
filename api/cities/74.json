@@ -1,21 +1,72 @@
 {
   "cities": [
-    "Kolaka",
-    "Konawe",
-    "Muna",
-    "Buton",
-    "Konawe Selatan",
-    "Bombana",
-    "Wakatobi",
-    "Kolaka Utara",
-    "Konawe Utara",
-    "Buton Utara",
-    "Kolaka Timur",
-    "Konawe Kepulauan",
-    "Muna Barat",
-    "Buton Tengah",
-    "Buton Selatan",
-    "Kendari",
-    "Bau Bau"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kolaka"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Konawe"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Muna"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Buton"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Konawe Selatan"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Bombana"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Wakatobi"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Kolaka Utara"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Konawe Utara"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Buton Utara"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Kolaka Timur"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Konawe Kepulauan"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Muna Barat"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Buton Tengah"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Buton Selatan"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Kendari"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Bau Bau"
+    }
   ]
 }

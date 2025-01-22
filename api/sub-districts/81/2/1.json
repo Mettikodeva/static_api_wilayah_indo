@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ohoijang Watdek (Ohoijang / Ohoiyong Watdek)",
-    "Langgur",
-    "Faan",
-    "Sathean",
-    "Ibra",
-    "Ngabub",
-    "Ohoidertawun (Ohodertawun)",
-    "Kelanit",
-    "Kolser",
-    "Letman",
-    "Wearlilir",
-    "Ohoider Atas",
-    "Dudunwahan",
-    "Loon",
-    "Sitniohoi"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Ohoijang Watdek (Ohoijang / Ohoiyong Watdek)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Langgur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Faan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sathean"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ibra"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ngabub"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Ohoidertawun (Ohodertawun)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Kelanit"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Kolser"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Letman"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Wearlilir"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Ohoider Atas"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Dudunwahan"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Loon"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Sitniohoi"
+    }
   ]
 }

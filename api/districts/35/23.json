@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Kenduruan",
-    "Jatirogo",
-    "Bangilan",
-    "Bancar",
-    "Senori",
-    "Tambakboyo",
-    "Singgahan",
-    "Kerek",
-    "Parengan",
-    "Montong",
-    "Soko",
-    "Jenu",
-    "Merakurak",
-    "Rengel",
-    "Semanding",
-    "Tuban",
-    "Plumpang",
-    "Palang",
-    "Widang",
-    "Grabagan"
+    {
+      "district_id": 1,
+      "kecamatan": "Kenduruan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jatirogo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bangilan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bancar"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Senori"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tambakboyo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Singgahan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kerek"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Parengan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Montong"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Soko"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Jenu"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Merakurak"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Rengel"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Semanding"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tuban"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Plumpang"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Palang"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Widang"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Grabagan"
+    }
   ]
 }

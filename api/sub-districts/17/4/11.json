@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Muara Sahung",
-    "Tri Tunggal Bakti (Tri Tunggal Bhakti)",
-    "Ulak Lebar",
-    "Sumber Makmur",
-    "Ulak Bandung",
-    "Cinta Makmur",
-    "Bukit Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Sahung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tri Tunggal Bakti (Tri Tunggal Bhakti)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulak Lebar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulak Bandung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cinta Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Makmur"
+    }
   ]
 }

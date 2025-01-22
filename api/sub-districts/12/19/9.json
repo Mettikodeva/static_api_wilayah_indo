@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gambus Laut",
-    "Perupuk",
-    "Guntung",
-    "Barung-Barung",
-    "Titi Putih",
-    "Pasir Permit",
-    "Titi Merah",
-    "Pematang Panjang",
-    "Bulan-Bulan",
-    "Gunung Bandung",
-    "Lubuk Cuik",
-    "Tanah Itam Ilir",
-    "Pematang Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gambus Laut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perupuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Guntung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Barung-Barung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Titi Putih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir Permit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Titi Merah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pematang Panjang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulan-Bulan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunung Bandung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lubuk Cuik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanah Itam Ilir"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pematang Tengah"
+    }
   ]
 }

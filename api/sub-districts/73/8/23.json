@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bajoe",
-    "Cellu",
-    "Panyula",
-    "Waetuo",
-    "Palette (Pallette)",
-    "Tipojong (Tibojong)",
-    "Toro",
-    "Lonrae"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bajoe"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cellu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Panyula"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Waetuo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Palette (Pallette)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tipojong (Tibojong)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Toro"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lonrae"
+    }
   ]
 }

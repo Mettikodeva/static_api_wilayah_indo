@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Jatirejo",
-    "Gondang",
-    "Pacet",
-    "Trawas",
-    "Ngoro",
-    "Pungging",
-    "Kutorejo",
-    "Mojosari",
-    "Dlanggu",
-    "Bangsal",
-    "Puri",
-    "Trowulan",
-    "Sooko",
-    "Gedeg",
-    "Kemlagi",
-    "Jetis",
-    "Dawarblandong (Dawar Blandong)",
-    "Mojoanyar"
+    {
+      "district_id": 1,
+      "kecamatan": "Jatirejo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Gondang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pacet"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Trawas"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Ngoro"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pungging"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kutorejo"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mojosari"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Dlanggu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bangsal"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Puri"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Trowulan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Sooko"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Gedeg"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kemlagi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Jetis"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Dawarblandong (Dawar Blandong)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Mojoanyar"
+    }
   ]
 }

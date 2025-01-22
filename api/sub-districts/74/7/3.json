@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Waha",
-    "Onemay",
-    "Waitii Barat",
-    "Lamanggau",
-    "Waiti (Waitii)",
-    "Runduma",
-    "Patua",
-    "Teemoane",
-    "Kollo Soha",
-    "Patua Dua (II)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Waha"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Onemay"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waitii Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamanggau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waiti (Waitii)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Runduma"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Patua"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Teemoane"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kollo Soha"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Patua Dua (II)"
+    }
   ]
 }

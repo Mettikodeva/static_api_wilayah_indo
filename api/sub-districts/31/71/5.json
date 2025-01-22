@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Cempaka Putih Timur",
-    "Cempaka Putih Barat",
-    "Rawasari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cempaka Putih Timur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cempaka Putih Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rawasari"
+    }
   ]
 }

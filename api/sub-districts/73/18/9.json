@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sima",
-    "Simbuang",
-    "Pongbembe",
-    "Simbuang Batutallu (Simbuang Batuallo)",
-    "Makkodo",
-    "Puang Bembe Mesakada (Ponghembe)"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sima"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simbuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pongbembe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simbuang Batutallu (Simbuang Batuallo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Makkodo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Puang Bembe Mesakada (Ponghembe)"
+    }
   ]
 }

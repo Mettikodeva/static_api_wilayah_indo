@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Meranti Utara",
-    "Meranti Timur",
-    "Meranti Tengah",
-    "Pintu Pohan",
-    "Ambar Halim",
-    "Pintu Pohan Dolok",
-    "Halado"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meranti Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meranti Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meranti Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pintu Pohan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ambar Halim"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pintu Pohan Dolok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Halado"
+    }
   ]
 }

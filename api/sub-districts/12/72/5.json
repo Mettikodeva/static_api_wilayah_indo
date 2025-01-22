@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukaraja",
-    "Baringin Pancur Nauli (Bp Nauli)",
-    "Pardamean",
-    "Sukamaju",
-    "Parhorasan Nauli",
-    "Sukamakmur",
-    "Mekar Nauli"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Baringin Pancur Nauli (Bp Nauli)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pardamean"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Parhorasan Nauli"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sukamakmur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mekar Nauli"
+    }
   ]
 }

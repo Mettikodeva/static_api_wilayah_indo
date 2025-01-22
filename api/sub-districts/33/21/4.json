@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Bulusari",
-    "Dombo",
-    "Jetaksari",
-    "Kalisari",
-    "Karangasem",
-    "Prampelan (Perampelan)",
-    "Pilangsari",
-    "Tambakroto",
-    "Loireng",
-    "Sayung",
-    "Sriwulan",
-    "Bedono",
-    "Purwosari",
-    "Sidogemah",
-    "Gemulak",
-    "Timbulsloko",
-    "Surodadi",
-    "Tugu",
-    "Sidorejo",
-    "Banjarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulusari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dombo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jetaksari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangasem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Prampelan (Perampelan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pilangsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambakroto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Loireng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sayung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sriwulan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bedono"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sidogemah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gemulak"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Timbulsloko"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Surodadi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tugu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Banjarsari"
+    }
   ]
 }

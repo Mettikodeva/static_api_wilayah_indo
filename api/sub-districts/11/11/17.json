@@ -1,45 +1,168 @@
 {
   "sub_districts": [
-    "Paloh Dama",
-    "Paya Rangkuluh",
-    "Paloh Raya",
-    "Crung/Crueng Kumbang",
-    "Tanjong Siron",
-    "Balee Mee (Balee Me)",
-    "Bukit/Buket Dalam",
-    "Parang Sikureung",
-    "Cot Baroh",
-    "Paloh Peuradi",
-    "Cot Mee (Cot Me)",
-    "Blang Mee",
-    "Glee Putoh (Gle Putoh)",
-    "Tingkeum Baro",
-    "Tingkeum Manyang",
-    "Kulu",
-    "Babah Suak",
-    "Ulee Pusong",
-    "Pulo Nga",
-    "Meusee (Meuse)",
-    "Blang Panjo (Blang Panjoe)",
-    "Babah Jurong",
-    "Dayah Panjoe",
-    "Pulo Blang",
-    "Imbudee (Iembudee)",
-    "Pulo Siron/Siren",
-    "Jarommah Me (Jarummahme)",
-    "Jarommah Baroh (Jarummah Baroh)",
-    "Lhok Nga",
-    "Pulo Reudeup",
-    "Geulanggang Meunjee",
-    "Geulanggang Panah",
-    "Ujong Blang",
-    "Geulanggang Rayeuk",
-    "Dayah Mesjid",
-    "Keurumbok",
-    "Cot Ara",
-    "Rancong",
-    "Jambo Kajeung",
-    "Kulu Kuta",
-    "Pulo Awe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paloh Dama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paya Rangkuluh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paloh Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Crung/Crueng Kumbang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjong Siron"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balee Mee (Balee Me)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit/Buket Dalam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parang Sikureung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cot Baroh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paloh Peuradi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cot Mee (Cot Me)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Blang Mee"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Glee Putoh (Gle Putoh)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tingkeum Baro"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tingkeum Manyang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kulu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Babah Suak"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ulee Pusong"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pulo Nga"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Meusee (Meuse)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Blang Panjo (Blang Panjoe)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Babah Jurong"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Dayah Panjoe"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pulo Blang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Imbudee (Iembudee)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pulo Siron/Siren"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Jarommah Me (Jarummahme)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Jarommah Baroh (Jarummah Baroh)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Lhok Nga"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Pulo Reudeup"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Geulanggang Meunjee"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Geulanggang Panah"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Ujong Blang"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Geulanggang Rayeuk"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Dayah Mesjid"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Keurumbok"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Cot Ara"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Rancong"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Jambo Kajeung"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Kulu Kuta"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Pulo Awe"
+    }
   ]
 }

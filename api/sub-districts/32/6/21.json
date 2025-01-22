@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sirnajaya",
-    "Karang Jaya (Karangjaya)",
-    "Karanglayung",
-    "Citalahab"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sirnajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Jaya (Karangjaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanglayung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Citalahab"
+    }
   ]
 }

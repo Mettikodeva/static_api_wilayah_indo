@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Imandi",
-    "Tonom",
-    "Mogoyunggung",
-    "Modomang",
-    "Kembang Mertha",
-    "Dumoga",
-    "Pinonobatuan",
-    "Dumoga II",
-    "Pinonobatuan Barat",
-    "Amertha Sari",
-    "Kembang Sari",
-    "Amertha Buana",
-    "Mogoyunggung Satu",
-    "Mogoyunggung Dua",
-    "Dumoga Tiga",
-    "Dumoga Empat"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Imandi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tonom"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mogoyunggung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Modomang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kembang Mertha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dumoga"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pinonobatuan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Dumoga II"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pinonobatuan Barat"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Amertha Sari"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kembang Sari"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Amertha Buana"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Mogoyunggung Satu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Mogoyunggung Dua"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Dumoga Tiga"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Dumoga Empat"
+    }
   ]
 }

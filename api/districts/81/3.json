@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Tanimbar Selatan",
-    "Selaru",
-    "Wertamrian (Wer Tamrian)",
-    "Wermaktian (Wer Maktian)",
-    "Tanimbar Utara",
-    "Fordata (Yaru)",
-    "Wuar Labobar",
-    "Kormomolin",
-    "Nirunmas",
-    "Molu Maru"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanimbar Selatan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Selaru"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wertamrian (Wer Tamrian)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Wermaktian (Wer Maktian)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanimbar Utara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Fordata (Yaru)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wuar Labobar"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kormomolin"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Nirunmas"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Molu Maru"
+    }
   ]
 }

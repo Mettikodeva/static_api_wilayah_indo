@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Getentiri",
-    "Anggai",
-    "Butiptiri",
-    "Asiki",
-    "Kapogu",
-    "Miri"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Getentiri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Anggai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Butiptiri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Asiki"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kapogu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Miri"
+    }
   ]
 }

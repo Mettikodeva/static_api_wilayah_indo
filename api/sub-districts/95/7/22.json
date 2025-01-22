@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Anitila",
-    "Nanim",
-    "Lubutini",
-    "Tikome",
-    "Tikoyowa",
-    "Bogogunik",
-    "Wanggunom",
-    "Nindonak",
-    "Luagame"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Anitila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanim"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubutini"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tikome"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tikoyowa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bogogunik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wanggunom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nindonak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Luagame"
+    }
   ]
 }

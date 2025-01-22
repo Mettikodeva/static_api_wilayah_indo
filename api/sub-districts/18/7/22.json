@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Braja Harjosari",
-    "Braja Gemilang",
-    "Braja Indah",
-    "Braja Yekti",
-    "Braja Kencana",
-    "Braja Luhur",
-    "Braja Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Braja Harjosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Braja Gemilang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Braja Indah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Braja Yekti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Braja Kencana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Braja Luhur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Braja Mulya"
+    }
   ]
 }

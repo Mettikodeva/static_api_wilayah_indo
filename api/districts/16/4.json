@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Tanjungsakti Pumu (Tanjung Sakti Pumu)",
-    "Jarai",
-    "Kota Agung",
-    "Pulaupinang (Pulau Pinang)",
-    "Merapi Barat",
-    "Lahat",
-    "Pajar Bulan",
-    "Mulak Ulu",
-    "Kikim Selatan",
-    "Kikim Timur",
-    "Kikim Tengah",
-    "Kikim Barat",
-    "Pseksu",
-    "Gumay Talang",
-    "Pagar Gunung",
-    "Merapi Timur",
-    "Tanjung Sakti Pumi",
-    "Gumay Ulu",
-    "Merapi Selatan",
-    "Tanjungtebat (Tanjung Tebat)",
-    "Muarapayang",
-    "Sukamerindu",
-    "Mulak Sebingkai",
-    "Lahat Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanjungsakti Pumu (Tanjung Sakti Pumu)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Jarai"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kota Agung"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pulaupinang (Pulau Pinang)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Merapi Barat"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Lahat"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pajar Bulan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Mulak Ulu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kikim Selatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kikim Timur"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kikim Tengah"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kikim Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Pseksu"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Gumay Talang"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Pagar Gunung"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Merapi Timur"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Tanjung Sakti Pumi"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Gumay Ulu"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Merapi Selatan"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Tanjungtebat (Tanjung Tebat)"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Muarapayang"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Sukamerindu"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Mulak Sebingkai"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Lahat Selatan"
+    }
   ]
 }

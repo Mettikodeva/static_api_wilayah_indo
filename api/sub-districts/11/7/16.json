@@ -1,68 +1,260 @@
 {
   "sub_districts": [
-    "Tijue",
-    "Lampeudue Tunong (Lampeudeu Tunong)",
-    "Puuk",
-    "Lampeudue Baroh (Lampeudeu Baroh)",
-    "Paya",
-    "Mesjid Reuntoh (Mesjid Runtoh)",
-    "Dayah Teungoh",
-    "Baroh",
-    "Dayah Tanoh",
-    "Cot Geunduk (Cot Geunduek)",
-    "Tumpok Laweung",
-    "Ulee Ceue (Ulee Ceu Keulibeut)",
-    "Keude Keulibeut (Keudee Keulibeut)",
-    "Ulee Tutue",
-    "Dayah Tutong",
-    "Lampoh Lada",
-    "Keuniree (Keunire)",
-    "Tumpok 40",
-    "Cot Teungoh",
-    "Cot Rheng",
-    "Labui",
-    "Meunasah Gampong (Gampong)",
-    "Pulo Pisang",
-    "Lam Kuta (Lamkuta)",
-    "Kampong Pukat (Gampong Pukat)",
-    "Kampong Barat (Gampong Barat)",
-    "Paloh",
-    "Gampong Baro (Kampong Baro)",
-    "Pulo Bubee",
-    "Tibang",
-    "Rawa",
-    "Peukan Baro",
-    "Mancang",
-    "Gajah Aye (Gajah Ayee)",
-    "Lhok Keutapang",
-    "Dalueng",
-    "Ulee Ceue (Ulee Ceueteubeng)",
-    "Meucat (Meucat Teubeng)",
-    "Dayah Teubeng",
-    "Tanjong (Teubeng Tanjong)",
-    "Jawa (Jawa Teubeng)",
-    "Bayu (Bayu Teubeng)",
-    "Abo (Abo Teubeng)",
-    "Keutapang",
-    "Krueng Dhoe",
-    "Sirong",
-    "Keutumbu",
-    "Jeumpa",
-    "Raya Sanggeue",
-    "Jeuleupee (Dayah Jeuleupe)",
-    "Ujong Langgoe (Ujong Langgo)",
-    "Cot Glumpang (Cot Geulumpang)",
-    "Seriweuk (Seuri Weuk)",
-    "Mesjid Utue",
-    "Leubue (Leu Bue)",
-    "Batee",
-    "Raya Uteu (Raya Utue)",
-    "Seukembrok (Seukeumbrok)",
-    "Bie",
-    "Blang Kula (Blangkula)",
-    "Alue",
-    "Seuke",
-    "Paya Linteung",
-    "Puli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tijue"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lampeudue Tunong (Lampeudeu Tunong)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lampeudue Baroh (Lampeudeu Baroh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mesjid Reuntoh (Mesjid Runtoh)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dayah Teungoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baroh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dayah Tanoh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cot Geunduk (Cot Geunduek)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumpok Laweung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ulee Ceue (Ulee Ceu Keulibeut)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Keude Keulibeut (Keudee Keulibeut)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ulee Tutue"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dayah Tutong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lampoh Lada"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Keuniree (Keunire)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tumpok 40"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cot Teungoh"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Cot Rheng"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Labui"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Meunasah Gampong (Gampong)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pulo Pisang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lam Kuta (Lamkuta)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Kampong Pukat (Gampong Pukat)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kampong Barat (Gampong Barat)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Paloh"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Gampong Baro (Kampong Baro)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pulo Bubee"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Tibang"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Rawa"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Peukan Baro"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Mancang"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Gajah Aye (Gajah Ayee)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Lhok Keutapang"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Dalueng"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Ulee Ceue (Ulee Ceueteubeng)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Meucat (Meucat Teubeng)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Dayah Teubeng"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Tanjong (Teubeng Tanjong)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Jawa (Jawa Teubeng)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Bayu (Bayu Teubeng)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Abo (Abo Teubeng)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Keutapang"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Krueng Dhoe"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Sirong"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Keutumbu"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Jeumpa"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Raya Sanggeue"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Jeuleupee (Dayah Jeuleupe)"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Ujong Langgoe (Ujong Langgo)"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Cot Glumpang (Cot Geulumpang)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Seriweuk (Seuri Weuk)"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Mesjid Utue"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Leubue (Leu Bue)"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Batee"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Raya Uteu (Raya Utue)"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Seukembrok (Seukeumbrok)"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Bie"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Blang Kula (Blangkula)"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Alue"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Seuke"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Paya Linteung"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Puli"
+    }
   ]
 }

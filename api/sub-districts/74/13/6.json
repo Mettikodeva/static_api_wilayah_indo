@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kangkunawe",
-    "Maginti",
-    "Pajala",
-    "Abadi Jaya",
-    "Gala",
-    "Pasipadanga",
-    "Bangko",
-    "Kembar Maminasa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kangkunawe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maginti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pajala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Abadi Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasipadanga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kembar Maminasa"
+    }
   ]
 }

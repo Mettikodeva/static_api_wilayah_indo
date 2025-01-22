@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bumi Etam",
-    "Bumi Rapak",
-    "Bumi Jaya",
-    "Cipta Graha",
-    "Kadungan Jaya",
-    "Pengadan Baru",
-    "Mata Air",
-    "Bukit Permata"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumi Etam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bumi Rapak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bumi Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cipta Graha"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadungan Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pengadan Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mata Air"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Permata"
+    }
   ]
 }

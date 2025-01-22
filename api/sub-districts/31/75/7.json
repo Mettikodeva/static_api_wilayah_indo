@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Duren Sawit",
-    "Pondok Bambu",
-    "Klender",
-    "Pondok Kelapa",
-    "Malaka Sari",
-    "Malaka Jaya",
-    "Pondok Kopi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Duren Sawit"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pondok Bambu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klender"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pondok Kelapa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Malaka Sari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Malaka Jaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pondok Kopi"
+    }
   ]
 }

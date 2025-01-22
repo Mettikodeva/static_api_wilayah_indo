@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Pulau Sembilan (Pulausembilan)",
-    "Pulau Laut Barat (Pulaulaut Barat)",
-    "Pulau Laut Selatan (Pulaulaut Selatan)",
-    "Pulau Laut Timur (Pulaulaut Timur)",
-    "Pulau Sebuku (Pulausebuku)",
-    "Pulau Laut Utara (Pulaulaut Utara)",
-    "Kelumpang Selatan",
-    "Kelumpang Hulu",
-    "Kelumpang Tengah",
-    "Kelumpang Utara",
-    "Pamukan Selatan",
-    "Sampanahan",
-    "Pamukan Utara",
-    "Hampang",
-    "Sungai Durian (Sungaidurian)",
-    "Pulau Laut Tengah (Pulaulaut Tengah)",
-    "Kelumpang Hilir",
-    "Kelumpang Barat",
-    "Pamukan Barat",
-    "Pulau Laut Kepulauan (Pulaulaut Kepulauan)",
-    "Pulau Laut Tanjung Selayar",
-    "Pulaulaut Sigam"
+    {
+      "district_id": 1,
+      "kecamatan": "Pulau Sembilan (Pulausembilan)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pulau Laut Barat (Pulaulaut Barat)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pulau Laut Selatan (Pulaulaut Selatan)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pulau Laut Timur (Pulaulaut Timur)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pulau Sebuku (Pulausebuku)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pulau Laut Utara (Pulaulaut Utara)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kelumpang Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kelumpang Hulu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kelumpang Tengah"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kelumpang Utara"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pamukan Selatan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sampanahan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pamukan Utara"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Hampang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sungai Durian (Sungaidurian)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pulau Laut Tengah (Pulaulaut Tengah)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kelumpang Hilir"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kelumpang Barat"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Pamukan Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Pulau Laut Kepulauan (Pulaulaut Kepulauan)"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Pulau Laut Tanjung Selayar"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Pulaulaut Sigam"
+    }
   ]
 }

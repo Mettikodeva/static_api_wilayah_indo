@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Long Penaneh I",
-    "Long Kerioq",
-    "Long Penaneh II",
-    "Tiong Ohang",
-    "Long Penaneh III",
-    "Tiong Bu'u (Tiong Buu)",
-    "Naha Buan",
-    "Naha Tifab (Naha Tivab)",
-    "Naha Silat (Noha Silat)",
-    "Long Apari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Penaneh I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Kerioq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Penaneh II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiong Ohang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Long Penaneh III"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tiong Bu'u (Tiong Buu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Naha Buan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Naha Tifab (Naha Tivab)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Naha Silat (Noha Silat)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Apari"
+    }
   ]
 }

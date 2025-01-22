@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Fiditan",
-    "Ngadi",
-    "Dullah (Darat)",
-    "Labetawi",
-    "Tamedan",
-    "Ohoitahit",
-    "Ohoitel",
-    "Dullah Laut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fiditan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dullah (Darat)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labetawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamedan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ohoitahit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ohoitel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dullah Laut"
+    }
   ]
 }

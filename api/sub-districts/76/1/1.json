@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bambalamotu",
-    "Polewali",
-    "Randomayang",
-    "Pangiang",
-    "Kalola",
-    "Wulai"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bambalamotu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Polewali"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Randomayang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalola"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wulai"
+    }
   ]
 }

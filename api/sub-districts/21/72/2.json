@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Melayu Kota Piring",
-    "Kampung Bulang",
-    "Air Raja",
-    "Batu IX (Sembilan)",
-    "Pinang Kencana"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Melayu Kota Piring"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kampung Bulang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Air Raja"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Batu IX (Sembilan)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pinang Kencana"
+    }
   ]
 }

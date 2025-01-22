@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tambang Ulang",
-    "Sei/Sungai Pinang",
-    "Martadah",
-    "Sei/Sungai Jelai",
-    "Bingkulu",
-    "Gunung Raja",
-    "Pulau Sari",
-    "Kayu Abang",
-    "Martadah Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambang Ulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Pinang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Martadah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Jelai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bingkulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Raja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulau Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kayu Abang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Martadah Baru"
+    }
   ]
 }

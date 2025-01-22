@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Merbau",
-    "Gunung Meraksa",
-    "Kurup",
-    "Banu Ayu",
-    "Tanjung Dalam",
-    "Lubuk Batang Baru",
-    "Lubuk Batang Lama",
-    "Belatung",
-    "Karta Mulya (Karta Mulia)",
-    "Lunggaian",
-    "Bandar Agung",
-    "Tanjung Manggus",
-    "Markisa",
-    "Air Wall",
-    "Sumber Bahagia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Merbau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Meraksa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kurup"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banu Ayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Dalam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Batang Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Batang Lama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belatung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karta Mulya (Karta Mulia)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lunggaian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Manggus"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Markisa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Air Wall"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sumber Bahagia"
+    }
   ]
 }

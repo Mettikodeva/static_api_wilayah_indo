@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Essang",
-    "Lalue",
-    "Bulude",
-    "Maririk",
-    "Essang Selatan",
-    "Bulude Selatan",
-    "Lalue Tengah",
-    "Lalue Utara"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Essang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lalue"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulude"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Maririk"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Essang Selatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bulude Selatan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lalue Tengah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lalue Utara"
+    }
   ]
 }

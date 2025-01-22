@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sukadana",
-    "Werasari",
-    "Malausma",
-    "Lebakwangi",
-    "Cimuncang",
-    "Ciranca",
-    "Banyusari",
-    "Buninagara",
-    "Jagamulya",
-    "Girimukti",
-    "Kramat Jaya (Keramat Jaya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Werasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malausma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lebakwangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cimuncang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ciranca"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banyusari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buninagara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jagamulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kramat Jaya (Keramat Jaya)"
+    }
   ]
 }

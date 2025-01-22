@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Salimbatu (Salim Batu)",
-    "Silva Rahayu",
-    "Tanjung Buka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salimbatu (Salim Batu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silva Rahayu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Buka"
+    }
   ]
 }

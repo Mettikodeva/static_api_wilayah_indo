@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wanakerta",
-    "Pagon",
-    "Prapatan (Parapatan)",
-    "Purwadadi (Purwadadi Timur)",
-    "Belendung (Blendung)",
-    "Koranji",
-    "Panyingkiran",
-    "Pasirbungur",
-    "Purwadadi Barat",
-    "Rancamahi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanakerta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Prapatan (Parapatan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwadadi (Purwadadi Timur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Belendung (Blendung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koranji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panyingkiran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasirbungur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwadadi Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rancamahi"
+    }
   ]
 }

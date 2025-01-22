@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Suka Karya",
-    "Randai",
-    "Belaban",
-    "Runjai Jaya",
-    "Karya Baru",
-    "Riam Batu Gading (Riam Batu Gadig)",
-    "Batu Payung Dua (Batu Payung)",
-    "Bantan Sari",
-    "Pelanjau Jaya (Planjau Jaya)",
-    "Rangkung (Rangkong)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suka Karya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Randai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Belaban"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Runjai Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Riam Batu Gading (Riam Batu Gadig)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Batu Payung Dua (Batu Payung)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bantan Sari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pelanjau Jaya (Planjau Jaya)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Rangkung (Rangkong)"
+    }
   ]
 }

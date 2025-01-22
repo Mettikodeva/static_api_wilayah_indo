@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Karangrejo (Karang Rejo)",
-    "Bendan Dhuwur (Bendan Duwur)",
-    "Bendan Ngisor",
-    "Sampangan",
-    "Gajahmungkur (Gajah Mungkur)",
-    "Lempongsari",
-    "Petompon",
-    "Bendungan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karangrejo (Karang Rejo)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bendan Dhuwur (Bendan Duwur)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bendan Ngisor"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sampangan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gajahmungkur (Gajah Mungkur)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lempongsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Petompon"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bendungan"
+    }
   ]
 }

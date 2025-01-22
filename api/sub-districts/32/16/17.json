@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pantai Mekar",
-    "Pantai Bahagia",
-    "Pantai Bakti",
-    "Pantai Harapanjaya (Pantai Harapan Jaya)",
-    "Pantai Sederhana",
-    "Jayasakti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pantai Mekar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pantai Bahagia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pantai Bakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pantai Harapanjaya (Pantai Harapan Jaya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pantai Sederhana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jayasakti"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kalitekuk",
-    "Kemejing",
-    "Bulurejo",
-    "Sumberejo (Sumberrejo)",
-    "Bendung",
-    "Candirejo (Candi Rejo)",
-    "Rejosari",
-    "Karangsari (Karang Sari)",
-    "Pundungsari (Pundung Sari)",
-    "Semin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalitekuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemejing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bulurejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberejo (Sumberrejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bendung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Candirejo (Candi Rejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangsari (Karang Sari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pundungsari (Pundung Sari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Semin"
+    }
   ]
 }

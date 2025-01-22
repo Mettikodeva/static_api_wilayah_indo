@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Berngam",
-    "Satria",
-    "Setia",
-    "Kartini",
-    "Tangsi",
-    "Binjai",
-    "Pekan Binjai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Berngam"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Satria"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Setia"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kartini"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tangsi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Binjai"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pekan Binjai"
+    }
   ]
 }

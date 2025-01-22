@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Pantai Cermin",
-    "Perbaungan",
-    "Teluk Mengkudu",
-    "Sei Rampah",
-    "Tanjung Beringin",
-    "Bandar Khalipah / Khalifah",
-    "Dolok Merawan",
-    "Sipispis",
-    "Dolok Masihul",
-    "Kotarih",
-    "Silinda",
-    "Serba Jadi",
-    "Tebing Tinggi",
-    "Pegajahan",
-    "Sei Bamban",
-    "Tebing Syahbandar",
-    "Bintang Bayu"
+    {
+      "district_id": 1,
+      "kecamatan": "Pantai Cermin"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Perbaungan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Teluk Mengkudu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sei Rampah"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanjung Beringin"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bandar Khalipah / Khalifah"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Dolok Merawan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sipispis"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Dolok Masihul"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kotarih"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Silinda"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Serba Jadi"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tebing Tinggi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Pegajahan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sei Bamban"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Tebing Syahbandar"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Bintang Bayu"
+    }
   ]
 }

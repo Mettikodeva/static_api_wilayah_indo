@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Muara Jalai",
-    "Sawah",
-    "Kampung Panjang (Air Tiris)",
-    "Kayu Aro",
-    "Sei/Sungai Tonang",
-    "Sei/Sungai Jalau",
-    "Sendayan",
-    "Naga Beralih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Jalai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sawah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Panjang (Air Tiris)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kayu Aro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Tonang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Jalau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sendayan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Naga Beralih"
+    }
   ]
 }

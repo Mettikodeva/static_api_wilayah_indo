@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Karangmulya",
-    "Karangindah",
-    "Bojongmangu (Bojongmanggu)",
-    "Sukabungah",
-    "Sukamukti",
-    "Medalkrisna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangmulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangindah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongmangu (Bojongmanggu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukabungah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Medalkrisna"
+    }
   ]
 }

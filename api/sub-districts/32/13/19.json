@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Gunungtua",
-    "Cijambe",
-    "Cirangkong",
-    "Cimenteng",
-    "Bantarsari",
-    "Tanjungwangi",
-    "Cikadu",
-    "Sukahurip"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunungtua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cijambe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cirangkong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cimenteng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bantarsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungwangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikadu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukahurip"
+    }
   ]
 }

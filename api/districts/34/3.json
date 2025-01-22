@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Wonosari",
-    "Nglipar",
-    "Playen",
-    "Patuk",
-    "Paliyan",
-    "Panggang",
-    "Tepus",
-    "Semanu",
-    "Karangmojo",
-    "Ponjong",
-    "Rongkop",
-    "Semin",
-    "Ngawen",
-    "Gedangsari (Gedang Sari)",
-    "Saptosari (Sapto Sari)",
-    "Girisubo",
-    "Tanjungsari",
-    "Purwosari"
+    {
+      "district_id": 1,
+      "kecamatan": "Wonosari"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Nglipar"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Playen"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Patuk"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Paliyan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Panggang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tepus"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Semanu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Karangmojo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ponjong"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Rongkop"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Semin"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Ngawen"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Gedangsari (Gedang Sari)"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Saptosari (Sapto Sari)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Girisubo"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tanjungsari"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Purwosari"
+    }
   ]
 }

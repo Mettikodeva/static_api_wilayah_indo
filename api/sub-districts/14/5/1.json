@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Ukui I (Satu)",
-    "Air Hitam",
-    "Air Emas",
-    "Bukit Gajah",
-    "Bukit Jaya",
-    "Kampung Baru",
-    "Lubuk Kembang Bunga",
-    "Lubuk Kembang Sari",
-    "Silikuan Hulu",
-    "Tri Mulya Jaya",
-    "Ukui II (Dua)",
-    "Bagan Limau"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ukui I (Satu)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Emas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Gajah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Kembang Bunga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Kembang Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Silikuan Hulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tri Mulya Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ukui II (Dua)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bagan Limau"
+    }
   ]
 }

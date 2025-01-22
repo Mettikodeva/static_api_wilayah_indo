@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Karangwuni",
-    "Sedong Kidul",
-    "Sedong Lor",
-    "Windujaya",
-    "Winduhaji",
-    "Kertawangun",
-    "Penambangan (Panambangan)",
-    "Putat",
-    "Panongan",
-    "Panongan Lor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangwuni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sedong Kidul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sedong Lor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Windujaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Winduhaji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertawangun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penambangan (Panambangan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Putat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panongan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Panongan Lor"
+    }
   ]
 }

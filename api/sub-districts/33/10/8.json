@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Pakahan",
-    "Ngering",
-    "Rejoso",
-    "Titang",
-    "Somopuro",
-    "Tangkisan Pos",
-    "Gondangan",
-    "Bakung",
-    "Sumyang",
-    "Karangdukuh",
-    "Plawikan",
-    "Kraguman",
-    "Granting",
-    "Prawatan",
-    "Wonoboyo",
-    "Dompyongan",
-    "Joton",
-    "Tambakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngering"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rejoso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Titang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Somopuro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tangkisan Pos"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gondangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumyang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangdukuh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Plawikan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kraguman"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Granting"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Prawatan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wonoboyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dompyongan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Joton"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tambakan"
+    }
   ]
 }

@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Katurai/Katurei",
-    "Sagulubbeg (Sagulubek / Sagalubeg / Sagalubbek)",
-    "Pasakiat Taileleu (Pasakiat Taleleu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Katurai/Katurei"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sagulubbeg (Sagulubek / Sagalubeg / Sagalubbek)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasakiat Taileleu (Pasakiat Taleleu)"
+    }
   ]
 }

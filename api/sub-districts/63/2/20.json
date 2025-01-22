@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Lalak Utara",
-    "Tanjung Lalak Selatan",
-    "Pulau Kerayaan",
-    "Kerayaan Utara",
-    "Pulau Kerasian",
-    "Pulau Kerumputan",
-    "Teluk Aru",
-    "Teluk Kemuning",
-    "Oka-Oka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Lalak Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Lalak Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Kerayaan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kerayaan Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Kerasian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulau Kerumputan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluk Aru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Kemuning"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Oka-Oka"
+    }
   ]
 }

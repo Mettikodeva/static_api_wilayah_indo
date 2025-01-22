@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Selatpanjang Kota",
-    "Selatpanjang Barat",
-    "Selatpanjang Selatan",
-    "Selatpanjang Timur",
-    "Banglas",
-    "Alah Air",
-    "Alah Air Timur",
-    "Sesap",
-    "Banglas Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Selatpanjang Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Selatpanjang Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Selatpanjang Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Selatpanjang Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banglas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alah Air"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alah Air Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sesap"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Banglas Barat"
+    }
   ]
 }

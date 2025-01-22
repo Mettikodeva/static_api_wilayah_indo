@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Biwinapada",
-    "Kaimbulawa",
-    "Wakinamboro",
-    "Tongali",
-    "Lontoi",
-    "Karae",
-    "Batuawu",
-    "Nggulanggula",
-    "Waindawula",
-    "Lapara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biwinapada"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaimbulawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wakinamboro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tongali"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lontoi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batuawu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nggulanggula"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waindawula"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lapara"
+    }
   ]
 }

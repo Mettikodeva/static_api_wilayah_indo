@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kertamukti",
-    "Rawasari",
-    "Pusakajaya Selatan",
-    "Cikande",
-    "Kosambibatu",
-    "Pusakajaya Utara",
-    "Sukaratu",
-    "Ciptamargi",
-    "Mekarpohaci",
-    "Tanjungsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kertamukti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rawasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pusakajaya Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikande"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kosambibatu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pusakajaya Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukaratu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciptamargi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekarpohaci"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjungsari"
+    }
   ]
 }

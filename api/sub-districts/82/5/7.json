@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Waiboga",
-    "Soamole",
-    "Waiman",
-    "Fat Iba",
-    "Bega",
-    "Manaf"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waiboga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soamole"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waiman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fat Iba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bega"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manaf"
+    }
   ]
 }

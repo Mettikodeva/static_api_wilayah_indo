@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Benteng Tawa",
-    "Lanamai",
-    "Wolomeze",
-    "Ria",
-    "Ngara",
-    "Ria I",
-    "Wolomeze I",
-    "Benteng Tawa I",
-    "Lanamai I",
-    "Wolomeze II (Wolomese Dua)",
-    "Benteng Tawa II",
-    "Benteng Tawa III",
-    "Lanamai II",
-    "Kembang",
-    "Wate",
-    "Ngara I",
-    "Benteng Tawa IV",
-    "Benteng Tawa V",
-    "Nili Waru Sae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Benteng Tawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lanamai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wolomeze"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ria"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ria I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wolomeze I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Benteng Tawa I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lanamai I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wolomeze II (Wolomese Dua)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Benteng Tawa II"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Benteng Tawa III"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lanamai II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kembang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wate"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngara I"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Benteng Tawa IV"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Benteng Tawa V"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Nili Waru Sae"
+    }
   ]
 }

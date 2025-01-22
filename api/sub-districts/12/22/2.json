@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Perkebunan Perlabian",
-    "Perkebunan Teluk Panji",
-    "Perkebunan Tolan I/II",
-    "Perkebunan Batang Seponggol",
-    "Perkebunan Tolan (Pekan Tolan)",
-    "Air Merah",
-    "Teluk Panji (Kampung Teluk Panji)",
-    "Tanjung Medan",
-    "Perlabian (Kampung Perlabian)",
-    "Tanjung Selamat",
-    "Tanjung Mulia",
-    "Teluk Panji I",
-    "Teluk Panji II",
-    "Teluk Panji III",
-    "Teluk Panji IV"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perkebunan Perlabian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perkebunan Teluk Panji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Tolan I/II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Batang Seponggol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Tolan (Pekan Tolan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Merah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluk Panji (Kampung Teluk Panji)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Medan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perlabian (Kampung Perlabian)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Selamat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Mulia"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Teluk Panji I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Teluk Panji II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Teluk Panji III"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Teluk Panji IV"
+    }
   ]
 }

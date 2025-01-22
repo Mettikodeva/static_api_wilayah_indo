@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Durian",
-    "Pelita",
-    "Bulian",
-    "Berohol",
-    "Bandar Sakti",
-    "Pinang Mancung",
-    "Teluk Karang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pelita"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bulian"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Berohol"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bandar Sakti"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pinang Mancung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Teluk Karang"
+    }
   ]
 }

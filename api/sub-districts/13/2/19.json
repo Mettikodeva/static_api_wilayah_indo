@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Simpang Tanjuang Nan Ampek/IV",
-    "Kampung Batu Dalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Tanjuang Nan Ampek/IV"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kampung Batu Dalam"
+    }
   ]
 }

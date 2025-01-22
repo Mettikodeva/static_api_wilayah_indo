@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Toboali",
-    "Teladan",
-    "Tanjungketapang (Tanjung Ketapang)",
-    "Serdang",
-    "Jeriji",
-    "Bikang",
-    "Gadung",
-    "Rias",
-    "Kepoh",
-    "Kaposang/Keposang",
-    "Rindik"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Toboali"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Teladan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjungketapang (Tanjung Ketapang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Serdang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jeriji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bikang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gadung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rias"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kepoh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kaposang/Keposang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rindik"
+    }
   ]
 }

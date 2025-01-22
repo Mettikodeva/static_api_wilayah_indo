@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lonu",
-    "Tamit",
-    "Botugolu",
-    "Bunobogu (Bonobogu)",
-    "Kenamukan (Konamukan)",
-    "Ponipingan",
-    "Inalatan",
-    "Domag Mekar",
-    "Bunobogu Selatan",
-    "Pokobo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lonu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Botugolu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bunobogu (Bonobogu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kenamukan (Konamukan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ponipingan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Inalatan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Domag Mekar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bunobogu Selatan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pokobo"
+    }
   ]
 }

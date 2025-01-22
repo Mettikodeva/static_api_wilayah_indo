@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pakuhaji",
-    "Paku Alam",
-    "Bunisari (Bonasari)",
-    "Rawa Boni",
-    "Buaran Mangga",
-    "Buaran Bambu",
-    "Kalibaru",
-    "Kohod",
-    "Kramat",
-    "Sukawali",
-    "Surya Bahari",
-    "Kiara Payung",
-    "Laksana",
-    "Gaga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pakuhaji"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paku Alam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bunisari (Bonasari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rawa Boni"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buaran Mangga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buaran Bambu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalibaru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kohod"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukawali"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Surya Bahari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kiara Payung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Laksana"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gaga"
+    }
   ]
 }

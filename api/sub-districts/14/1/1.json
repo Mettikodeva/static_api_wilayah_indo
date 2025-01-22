@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bangkinang (Bangkinang Kota)",
-    "Langgini Sialang (Langgini)",
-    "Kumantan",
-    "Rindan Permai (Ridan Permai)"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bangkinang (Bangkinang Kota)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Langgini Sialang (Langgini)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kumantan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rindan Permai (Ridan Permai)"
+    }
   ]
 }

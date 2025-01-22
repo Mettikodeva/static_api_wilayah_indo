@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Wonosari",
-    "Pandansari",
-    "Girikerto",
-    "Ngrendeng",
-    "Hargosari",
-    "Pocol",
-    "Gendol",
-    "Sine",
-    "Sumberejo",
-    "Sumbersari",
-    "Kuniran",
-    "Tulakan",
-    "Ketanggung",
-    "Jagir",
-    "Kauman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pandansari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Girikerto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngrendeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hargosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pocol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gendol"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sine"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kuniran"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tulakan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ketanggung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jagir"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kauman"
+    }
   ]
 }

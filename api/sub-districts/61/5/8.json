@@ -1,47 +1,176 @@
 {
   "sub_districts": [
-    "Nanga Mau",
-    "Jambu",
-    "Tertung Mau",
-    "Mentunai",
-    "Tuguk",
-    "Natai Tebedak",
-    "Nyangkom",
-    "Melingkat",
-    "Nanga Tikan",
-    "Pelaik",
-    "Kerapa Sepan",
-    "Sei/Sungai Buaya",
-    "Pakak",
-    "Sungai Sintang",
-    "Sungai Garong",
-    "Paoh Desa",
-    "Jaya Sakti",
-    "Mekar Mandiri",
-    "Landau Beringin",
-    "Karya Baru",
-    "Bukit Segaloh",
-    "Engkerangan",
-    "Lalang Inggar",
-    "Linggam Permai",
-    "Sungai Menuang",
-    "Natai Lesung",
-    "Begendang Mal",
-    "Sungai Ranap",
-    "Lengkong Bindu",
-    "Nanga Lidau",
-    "Mengkirai",
-    "Tanjung Keliling",
-    "Buluk Jegara",
-    "Buluk Panjang",
-    "Tanjung Putar",
-    "Sungai Emang",
-    "Sungai Meraya",
-    "Kempas Raya",
-    "Ipoh Emang",
-    "Sungai Pengga",
-    "Batu Netak",
-    "Neran Baya",
-    "Monbai Begununk (Monbai Begunun)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Mau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tertung Mau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mentunai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuguk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Natai Tebedak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nyangkom"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Melingkat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nanga Tikan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pelaik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kerapa Sepan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sei/Sungai Buaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pakak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sungai Sintang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungai Garong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Paoh Desa"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Jaya Sakti"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mekar Mandiri"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Landau Beringin"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Karya Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bukit Segaloh"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Engkerangan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lalang Inggar"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Linggam Permai"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Sungai Menuang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Natai Lesung"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Begendang Mal"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sungai Ranap"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Lengkong Bindu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Nanga Lidau"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Mengkirai"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Tanjung Keliling"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Buluk Jegara"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Buluk Panjang"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Tanjung Putar"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Sungai Emang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Sungai Meraya"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Kempas Raya"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Ipoh Emang"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Sungai Pengga"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Batu Netak"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Neran Baya"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Monbai Begununk (Monbai Begunun)"
+    }
   ]
 }

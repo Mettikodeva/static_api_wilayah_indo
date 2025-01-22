@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Air Putih Baru",
-    "Tempel Rejo",
-    "Rimbo Recap",
-    "Watas Marga",
-    "Teladan (Desa Teladan)",
-    "Suka Marga",
-    "Lubuk Ubar",
-    "Pungguk Lalang",
-    "Turan Baru",
-    "Tanjung Dalam",
-    "Air Lanang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Air Putih Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tempel Rejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rimbo Recap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watas Marga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teladan (Desa Teladan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Marga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Ubar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pungguk Lalang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Turan Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Dalam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Air Lanang"
+    }
   ]
 }

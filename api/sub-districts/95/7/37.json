@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Muara",
-    "Lualo",
-    "Abua",
-    "Gikur",
-    "Gipura",
-    "Gulu",
-    "Bogangi",
-    "Golome",
-    "Wiyapur",
-    "Kuruguneri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lualo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Abua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gikur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gipura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bogangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golome"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wiyapur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kuruguneri"
+    }
   ]
 }

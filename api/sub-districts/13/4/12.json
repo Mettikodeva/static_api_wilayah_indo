@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Tanjung Alam",
-    "Barulak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Alam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barulak"
+    }
   ]
 }

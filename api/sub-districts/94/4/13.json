@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Harapan",
-    "Meekurima",
-    "Landun Mekar",
-    "Olaroa",
-    "Bintang Lima",
-    "Damai",
-    "Walani",
-    "Amole",
-    "Lamopi",
-    "Tunas Matoa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meekurima"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Landun Mekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Olaroa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bintang Lima"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Damai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Walani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Amole"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lamopi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tunas Matoa"
+    }
   ]
 }

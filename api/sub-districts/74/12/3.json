@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ladianta",
-    "Bangun Mekar",
-    "Noko",
-    "Tangkombuno",
-    "Dimba",
-    "Mata Dimba",
-    "Puurau",
-    "Watuondo (Watu Ondo)",
-    "Patande",
-    "Baho Bubu"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ladianta"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun Mekar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Noko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tangkombuno"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dimba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mata Dimba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puurau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watuondo (Watu Ondo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Patande"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baho Bubu"
+    }
   ]
 }

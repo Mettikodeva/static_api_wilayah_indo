@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Sungai Raya",
-    "Padang Batung",
-    "Telaga Langsat",
-    "Angkinang",
-    "Kandangan",
-    "Simpur",
-    "Daha Selatan",
-    "Daha Utara",
-    "Kalumpang (Kelumpang)",
-    "Loksado",
-    "Daha Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Sungai Raya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Padang Batung"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Telaga Langsat"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Angkinang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kandangan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Simpur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Daha Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Daha Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kalumpang (Kelumpang)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Loksado"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Daha Barat"
+    }
   ]
 }

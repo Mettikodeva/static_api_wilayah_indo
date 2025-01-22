@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Melak Ilir",
-    "Melak Ulu",
-    "Empas",
-    "Empakuq",
-    "Muara Bunyut",
-    "Muara Benangaq"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Melak Ilir"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Melak Ulu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Empas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Empakuq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Bunyut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muara Benangaq"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Peterongan",
-    "Keplaksari",
-    "Kepuhkembeng",
-    "Mancar",
-    "Tugusumberjo",
-    "Morosunggingan",
-    "Kebontemu",
-    "Dukuhklopo (Dukuh Klopo)",
-    "Tanjunggunung (Tanjung Gunung)",
-    "Bongkot",
-    "Senden",
-    "Ngrandulor (Ngrandu Lor)",
-    "Tengaran",
-    "Sumberagung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peterongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keplaksari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kepuhkembeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mancar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tugusumberjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Morosunggingan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebontemu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dukuhklopo (Dukuh Klopo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjunggunung (Tanjung Gunung)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bongkot"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Senden"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngrandulor (Ngrandu Lor)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tengaran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumberagung"
+    }
   ]
 }

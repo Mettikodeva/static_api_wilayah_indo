@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sarang Burung Danau",
-    "Sungai Nilam",
-    "Sarang Burung Kolam",
-    "Sarang Burung Usrat",
-    "Sarang Burung Kuala",
-    "Pelimpaan",
-    "Parit Setia",
-    "Bakau",
-    "Sungai Nyirih",
-    "Sentebang",
-    "Dungun Laut",
-    "Lambau",
-    "Mutus Darussalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarang Burung Danau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Nilam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sarang Burung Kolam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sarang Burung Usrat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sarang Burung Kuala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pelimpaan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parit Setia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Nyirih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sentebang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dungun Laut"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lambau"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Mutus Darussalam"
+    }
   ]
 }

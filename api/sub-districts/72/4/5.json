@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Buga",
-    "Batuilo",
-    "Kamalu",
-    "Muara Besar",
-    "Bilo",
-    "Labuan Lobo",
-    "Sambujan",
-    "Pulias",
-    "Kabetan",
-    "Pagaitan",
-    "Bambalaga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batuilo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kamalu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Besar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bilo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labuan Lobo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambujan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulias"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kabetan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagaitan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bambalaga"
+    }
   ]
 }

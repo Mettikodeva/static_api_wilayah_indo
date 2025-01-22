@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kotawaringin Hulu",
-    "Kotawaringin Hilir (Kota Waringin Hilir)",
-    "Babual Baboti",
-    "Tempayung",
-    "Sakabulin",
-    "Kinjil",
-    "Dawak",
-    "Riam Durian",
-    "Lalang",
-    "Rungun",
-    "Kondang",
-    "Suka Jaya (Sukajaya)",
-    "Suka Makmur",
-    "Sumber Mukti",
-    "Palih Baru",
-    "Ipuh Bangun Jaya",
-    "Sagu Suka Mulya (Sagu / Dusun Sukamulya)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kotawaringin Hulu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kotawaringin Hilir (Kota Waringin Hilir)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babual Baboti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tempayung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sakabulin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kinjil"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dawak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Riam Durian"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lalang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rungun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kondang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Jaya (Sukajaya)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumber Mukti"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Palih Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ipuh Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sagu Suka Mulya (Sagu / Dusun Sukamulya)"
+    }
   ]
 }

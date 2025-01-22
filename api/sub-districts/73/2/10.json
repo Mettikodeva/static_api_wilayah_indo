@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Palampang",
-    "Bonto Manai (Bontomanai)",
-    "Bonto Bangun (Bontobangun)",
-    "Karama",
-    "Bonto Lohe (Bontolohe)",
-    "Baji Minasa (Bajiminasa)",
-    "Bonto Matene",
-    "Tanah Harapan",
-    "Batukaroppa",
-    "Bonto Haru (Bontoharu)",
-    "Swatani",
-    "Bulo Lohe (Bulolohe)",
-    "Anrang",
-    "Pangalloang",
-    "Topanda"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Palampang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonto Manai (Bontomanai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonto Bangun (Bontobangun)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonto Lohe (Bontolohe)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baji Minasa (Bajiminasa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bonto Matene"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanah Harapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batukaroppa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonto Haru (Bontoharu)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Swatani"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bulo Lohe (Bulolohe)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Anrang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pangalloang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Topanda"
+    }
   ]
 }

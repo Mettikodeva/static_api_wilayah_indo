@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Wadaslintang",
-    "Kepil",
-    "Sapuran",
-    "Kaliwiro",
-    "Leksono",
-    "Selomerto",
-    "Kalikajar",
-    "Kertek",
-    "Wonosobo",
-    "Watumalang",
-    "Mojotengah",
-    "Garung",
-    "Kejajar",
-    "Sukoharjo",
-    "Kalibawang"
+    {
+      "district_id": 1,
+      "kecamatan": "Wadaslintang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kepil"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sapuran"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kaliwiro"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Leksono"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Selomerto"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kalikajar"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kertek"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Wonosobo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Watumalang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Mojotengah"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Garung"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kejajar"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sukoharjo"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kalibawang"
+    }
   ]
 }

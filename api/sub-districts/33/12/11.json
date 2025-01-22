@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kaliancar",
-    "Pare",
-    "Keloran",
-    "Kepatihan",
-    "Pule",
-    "Jendi",
-    "Singodutan",
-    "Gemantar",
-    "Jaten",
-    "Nambangan",
-    "Sendangijo"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kaliancar"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pare"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keloran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pule"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jendi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Singodutan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gemantar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jaten"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nambangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sendangijo"
+    }
   ]
 }

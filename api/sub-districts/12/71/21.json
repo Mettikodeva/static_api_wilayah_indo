@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Asam Kumbang",
-    "Tanjungsari (Tanjung Sari)",
-    "Padang Bulan Selayang II",
-    "Beringin",
-    "Padang Bulan Selayang I",
-    "Sempakata"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Asam Kumbang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjungsari (Tanjung Sari)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Padang Bulan Selayang II"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Padang Bulan Selayang I"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sempakata"
+    }
   ]
 }

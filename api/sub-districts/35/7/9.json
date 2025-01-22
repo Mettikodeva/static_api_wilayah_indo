@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sedayu",
-    "Turen",
-    "Tawangrejeni",
-    "Kemulan",
-    "Sawahan",
-    "Undaan",
-    "Gedok Kulon (Gedog Kulon)",
-    "Gedok Wetan (Gedog Wetan)",
-    "Talok",
-    "Tanggung",
-    "Jeru",
-    "Pagedangan",
-    "Sanankerto",
-    "Sananrejo",
-    "Kedok",
-    "Talangsuko",
-    "Tumpukrenteng"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sedayu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Turen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tawangrejeni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemulan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Undaan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gedok Kulon (Gedog Kulon)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedok Wetan (Gedog Wetan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanggung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jeru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pagedangan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sanankerto"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sananrejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kedok"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Talangsuko"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tumpukrenteng"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karuwisi",
-    "Panaikang",
-    "Tello Baru",
-    "Pampang",
-    "Karampuang",
-    "Tamamaung",
-    "Masale",
-    "Pandang",
-    "Karuwisi Utara",
-    "Sinrijala (Sinri Jala)",
-    "Paropo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karuwisi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Panaikang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tello Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pampang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Karampuang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tamamaung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Masale"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pandang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Karuwisi Utara"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sinrijala (Sinri Jala)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Paropo"
+    }
   ]
 }

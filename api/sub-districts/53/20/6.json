@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ledeke",
-    "Ledeunu",
-    "Bolua",
-    "Kolorae",
-    "Ballu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ledeke"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ledeunu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bolua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kolorae"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ballu"
+    }
   ]
 }

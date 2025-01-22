@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Taningkola",
-    "Bambu",
-    "Wakai",
-    "Una-Una",
-    "Tanjung Pude",
-    "Lembanya",
-    "Cendana",
-    "Binanguna",
-    "Kavetan",
-    "Tanimpo",
-    "Luangon"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taningkola"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bambu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wakai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Una-Una"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Pude"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lembanya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cendana"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Binanguna"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kavetan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanimpo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Luangon"
+    }
   ]
 }

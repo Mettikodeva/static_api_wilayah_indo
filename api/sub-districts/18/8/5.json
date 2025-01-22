@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tulang Bawang",
-    "Mesir Udik",
-    "Mesir Ilir",
-    "Sapto Renggo",
-    "Giri Harjo",
-    "Bumi Agung Wates",
-    "Serdang Kuring",
-    "Bumi Agung",
-    "Mekar Jaya",
-    "Kota Dewa (Putra Dewa)",
-    "Dewa Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tulang Bawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mesir Udik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mesir Ilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sapto Renggo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Giri Harjo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumi Agung Wates"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Serdang Kuring"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bumi Agung"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kota Dewa (Putra Dewa)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Dewa Agung"
+    }
   ]
 }

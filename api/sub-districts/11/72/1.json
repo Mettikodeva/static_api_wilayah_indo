@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Krueng Raya",
-    "Aneuk Laot",
-    "Kuta Timu (Kota Bawah Timur)",
-    "Kuta Barat (Kota Bawah Barat)",
-    "Kuta Ateuh (Kota Atas)"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Krueng Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aneuk Laot"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuta Timu (Kota Bawah Timur)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuta Barat (Kota Bawah Barat)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuta Ateuh (Kota Atas)"
+    }
   ]
 }

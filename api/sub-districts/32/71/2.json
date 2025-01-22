@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukasari",
-    "Baranangsiang",
-    "Katulampa",
-    "Sindangsari",
-    "Sindangrasa",
-    "Tajur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baranangsiang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Katulampa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sindangrasa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tajur"
+    }
   ]
 }

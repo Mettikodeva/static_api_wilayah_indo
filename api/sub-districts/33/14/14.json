@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Geneng",
-    "Jeruk",
-    "Sunggingan",
-    "Girimargo",
-    "Doyong",
-    "Soko",
-    "Brojol",
-    "Bagor",
-    "Gilirejo",
-    "Gilirejo Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Geneng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jeruk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sunggingan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Girimargo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Doyong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Soko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Brojol"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bagor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gilirejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gilirejo Baru"
+    }
   ]
 }

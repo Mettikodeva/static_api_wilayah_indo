@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lukun",
-    "Sungai Tohor",
-    "Nipah Sendanu",
-    "Tanjung Sari",
-    "Tanjung Gadai",
-    "Teluk Buntal",
-    "Kepau Baru",
-    "Sungai Tohor Barat",
-    "Sendanu Darul Ihsan",
-    "Batin Suir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lukun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Tohor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nipah Sendanu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Gadai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk Buntal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kepau Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Tohor Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sendanu Darul Ihsan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batin Suir"
+    }
   ]
 }

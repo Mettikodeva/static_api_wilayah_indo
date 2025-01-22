@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pancor",
-    "Selong (Selong Kota)",
-    "Kelayu Selatan",
-    "Denggen",
-    "Sekarteja",
-    "Majidi",
-    "Rakam",
-    "Sandu Baya (Sandubaya)",
-    "Kembang Sari",
-    "Kelayu Utara",
-    "Kelaju Jorong (Jorong)",
-    "Danggen Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pancor"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Selong (Selong Kota)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kelayu Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Denggen"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sekarteja"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Majidi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rakam"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sandu Baya (Sandubaya)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kembang Sari"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kelayu Utara"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kelaju Jorong (Jorong)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Danggen Timur"
+    }
   ]
 }

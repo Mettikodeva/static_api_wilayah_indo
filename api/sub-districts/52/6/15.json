@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bajo",
-    "Punti",
-    "Wadukopa",
-    "Kanata",
-    "Sai",
-    "Sampungu",
-    "Lewintana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bajo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Punti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wadukopa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kanata"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sampungu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lewintana"
+    }
   ]
 }

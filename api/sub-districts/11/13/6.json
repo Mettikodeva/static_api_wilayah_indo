@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gantung Geluni",
-    "Kutebukit (Kute / Kuta Bukit)",
-    "Bener Baru",
-    "Blang Bengkik (Blangbengkik)",
-    "Kong",
-    "Ume Lah",
-    "Cinta Maju",
-    "Porang Ayu",
-    "Tetingi",
-    "Anak Reje",
-    "Rak Lintang",
-    "Akang Siwah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gantung Geluni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kutebukit (Kute / Kuta Bukit)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bener Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Blang Bengkik (Blangbengkik)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ume Lah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cinta Maju"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Porang Ayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tetingi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Anak Reje"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rak Lintang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Akang Siwah"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Koto (Koto Menggamat)",
-    "Alur Keujrun",
-    "Jambo Papan",
-    "Malaka",
-    "Koto Indarung",
-    "Siurai-Urai",
-    "Kampung Sawah",
-    "Kampung Padang",
-    "Pulo Air",
-    "Lawe Melang",
-    "Mersak",
-    "Simpang Dua",
-    "Simpang Tiga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto (Koto Menggamat)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alur Keujrun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jambo Papan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malaka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Indarung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siurai-Urai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Sawah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampung Padang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulo Air"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lawe Melang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mersak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Simpang Dua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simpang Tiga"
+    }
   ]
 }

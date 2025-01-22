@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Payungsari",
-    "Karangjaya",
-    "Kertaraharja",
-    "Sungaibuntu",
-    "Dongkal",
-    "Kertamulya",
-    "Puspasari",
-    "Labanjaya",
-    "Jatimulya",
-    "Rangdumulya (Randumulya)",
-    "Kendaljaya (Kedaljaya)",
-    "Malangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Payungsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangjaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertaraharja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaibuntu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dongkal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kertamulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Puspasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labanjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jatimulya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rangdumulya (Randumulya)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kendaljaya (Kedaljaya)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Malangsari"
+    }
   ]
 }

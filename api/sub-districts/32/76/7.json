@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Cipayung",
-    "Cipayung Jaya",
-    "Ratu Jaya",
-    "Bojong Pondok Terong",
-    "Pondok Jaya (Pondokjaya)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cipayung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cipayung Jaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ratu Jaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bojong Pondok Terong"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pondok Jaya (Pondokjaya)"
+    }
   ]
 }

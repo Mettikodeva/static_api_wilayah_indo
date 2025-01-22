@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Nita",
-    "Takaplager",
-    "Tebuk",
-    "Ladogahar",
-    "Nitakloang",
-    "Wuliwutik",
-    "Lusitada",
-    "Bloro",
-    "Riit",
-    "Tilang",
-    "Nirangkliung",
-    "Mahebora",
-    "Nangablo",
-    "Kara Kabu",
-    "Tada Lado"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nita"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Takaplager"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tebuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ladogahar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nitakloang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wuliwutik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lusitada"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bloro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Riit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tilang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nirangkliung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mahebora"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nangablo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kara Kabu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tada Lado"
+    }
   ]
 }

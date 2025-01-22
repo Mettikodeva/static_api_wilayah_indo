@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Biak Kota",
-    "Biak Utara",
-    "Biak Timur",
-    "Numfor Barat",
-    "Numfor Timur",
-    "Biak Barat",
-    "Warsa",
-    "Padaido",
-    "Yendidori",
-    "Samofa",
-    "Yawosi",
-    "Andey",
-    "Swandiwe",
-    "Bruyadori",
-    "Orkeri",
-    "Poiru",
-    "Aimando Padaido",
-    "Oridek",
-    "Bondifuar"
+    {
+      "district_id": 1,
+      "kecamatan": "Biak Kota"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Biak Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Biak Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Numfor Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Numfor Timur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Biak Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Warsa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Padaido"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Yendidori"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Samofa"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Yawosi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Andey"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Swandiwe"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bruyadori"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Orkeri"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Poiru"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Aimando Padaido"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Oridek"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Bondifuar"
+    }
   ]
 }

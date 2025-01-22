@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Selebar",
-    "Gading Cempaka",
-    "Teluk Segara",
-    "Muara Bangka Hulu",
-    "Kampung Melayu",
-    "Ratu Agung",
-    "Ratu Samban",
-    "Sungai Serut",
-    "Singaran Pati"
+    {
+      "district_id": 1,
+      "kecamatan": "Selebar"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Gading Cempaka"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Teluk Segara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Muara Bangka Hulu"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kampung Melayu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Ratu Agung"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Ratu Samban"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sungai Serut"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Singaran Pati"
+    }
   ]
 }

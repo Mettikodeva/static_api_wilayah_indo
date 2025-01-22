@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Samaenre",
-    "Tungke",
-    "Selli",
-    "Bengo",
-    "Mattaropuli (Mattaro Puli)",
-    "Lili Riawang (Liliriawang)",
-    "Walimpong",
-    "Bulu Allaporenge (Bulu Allapporenge)",
-    "Mattirowalie (Mattiro Walie)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Samaenre"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tungke"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bengo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mattaropuli (Mattaro Puli)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lili Riawang (Liliriawang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Walimpong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulu Allaporenge (Bulu Allapporenge)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mattirowalie (Mattiro Walie)"
+    }
   ]
 }

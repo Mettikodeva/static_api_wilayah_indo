@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Panombeian",
-    "Pematang Panombean (Pematang Panombeian)",
-    "Nagori Bosar",
-    "Marjandi",
-    "Simpang Panei",
-    "Talun Kondot",
-    "Simbolon Tengkoh",
-    "Pematang Pane",
-    "Marjandi Pisang",
-    "Banuh Raya",
-    "Rukun Mulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panombeian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pematang Panombean (Pematang Panombeian)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nagori Bosar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marjandi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpang Panei"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talun Kondot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simbolon Tengkoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pematang Pane"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marjandi Pisang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banuh Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rukun Mulyo"
+    }
   ]
 }

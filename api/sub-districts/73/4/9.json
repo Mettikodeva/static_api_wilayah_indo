@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bulo-Bulo",
-    "Arungkeke",
-    "Palajau",
-    "Boronglamu (Borong Lamu)",
-    "Arungkeke Pallantikang",
-    "Kalumpangloe (Kalumpang Loe)",
-    "Kampala"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulo-Bulo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Arungkeke"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palajau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Boronglamu (Borong Lamu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arungkeke Pallantikang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalumpangloe (Kalumpang Loe)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampala"
+    }
   ]
 }

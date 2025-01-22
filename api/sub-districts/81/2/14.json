@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ohoidertutu",
-    "Matwair (Madwaer)",
-    "Somlain",
-    "Ohoiren",
-    "Ohoira",
-    "Warbal",
-    "Ur Pulau",
-    "Tanimbar Kei",
-    "Ohoidertom",
-    "Yatwav"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ohoidertutu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matwair (Madwaer)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Somlain"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ohoiren"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ohoira"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Warbal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ur Pulau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanimbar Kei"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ohoidertom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yatwav"
+    }
   ]
 }

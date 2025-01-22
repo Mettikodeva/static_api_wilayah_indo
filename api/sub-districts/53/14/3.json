@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Namodale",
-    "Mokdale",
-    "Metina",
-    "Kuli",
-    "Bebalain",
-    "Kolobolon",
-    "Helebeik",
-    "Sanggaoen",
-    "Holoama",
-    "Tuanatuk",
-    "Oelunggu",
-    "Oematamboli",
-    "Suelain",
-    "Baadale",
-    "Lekunik",
-    "Loleoen",
-    "Kuli Aisele",
-    "Oeleka"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Namodale"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mokdale"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Metina"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bebalain"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kolobolon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Helebeik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sanggaoen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Holoama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuanatuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Oelunggu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Oematamboli"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suelain"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baadale"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lekunik"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Loleoen"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kuli Aisele"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Oeleka"
+    }
   ]
 }

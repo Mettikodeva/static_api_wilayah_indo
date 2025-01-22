@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cilincing",
-    "Sukapura",
-    "Marunda",
-    "Kalibaru (Kali Baru)",
-    "Semper Timur",
-    "Rorotan",
-    "Semper Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cilincing"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukapura"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Marunda"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalibaru (Kali Baru)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Semper Timur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rorotan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Semper Barat"
+    }
   ]
 }

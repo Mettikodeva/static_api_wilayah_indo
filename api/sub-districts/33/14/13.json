@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ngembatpadas (Ngembat Padas)",
-    "Kragilan",
-    "Gemolong",
-    "Kwangen",
-    "Kaloran",
-    "Brangkal",
-    "Jatibatur",
-    "Peleman",
-    "Genengduwur (Geneng Duwur)",
-    "Tegaldowo",
-    "Purworejo",
-    "Jenalas",
-    "Kalangan",
-    "Nganti"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ngembatpadas (Ngembat Padas)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kragilan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gemolong"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kwangen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaloran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Brangkal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatibatur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peleman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Genengduwur (Geneng Duwur)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegaldowo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jenalas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kalangan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nganti"
+    }
   ]
 }

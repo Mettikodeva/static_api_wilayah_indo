@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ganti",
-    "Kabonga Besar",
-    "Kabonga Kecil",
-    "Gunung Bale",
-    "Maleni",
-    "Tanjung Batu",
-    "Boya",
-    "Labuan Bajo",
-    "Boneoge",
-    "Loli Oge (Lolioge)",
-    "Loli Tasibori (Tasiburi)",
-    "Loli Pesua",
-    "Loli Dondo",
-    "Loli Saluran"
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Ganti"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Kabonga Besar"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Kabonga Kecil"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Gunung Bale"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Maleni"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Tanjung Batu"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Boya"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Labuan Bajo"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Boneoge"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Loli Oge (Lolioge)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Loli Tasibori (Tasiburi)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Loli Pesua"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Loli Dondo"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Loli Saluran"
+    }
   ]
 }

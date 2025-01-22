@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Tempursari",
-    "Pronojiwo",
-    "Candipuro",
-    "Pasirian",
-    "Tempeh",
-    "Kunir",
-    "Yosowilangun",
-    "Rowokangkung",
-    "Tekung",
-    "Lumajang",
-    "Pasrujambe (Pasujambe)",
-    "Senduro",
-    "Gucialit",
-    "Padang",
-    "Sukodono",
-    "Kedungjajang",
-    "Jatiroto",
-    "Randuagung",
-    "Klakah",
-    "Ranuyoso",
-    "Sumbersuko"
+    {
+      "district_id": 1,
+      "kecamatan": "Tempursari"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pronojiwo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Candipuro"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pasirian"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tempeh"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kunir"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Yosowilangun"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Rowokangkung"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tekung"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Lumajang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pasrujambe (Pasujambe)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Senduro"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Gucialit"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Padang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sukodono"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kedungjajang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Jatiroto"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Randuagung"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Klakah"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Ranuyoso"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sumbersuko"
+    }
   ]
 }

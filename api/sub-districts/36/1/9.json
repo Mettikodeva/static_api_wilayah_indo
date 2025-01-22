@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sukadame",
-    "Pagelaran",
-    "Surakarta",
-    "Montor",
-    "Kertasana (Kartasana)",
-    "Bama",
-    "Margasana",
-    "Sindanglaya",
-    "Tegalpapak",
-    "Bulagor",
-    "Harapankarya",
-    "Senangsari",
-    "Margagiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukadame"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagelaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Surakarta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Montor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertasana (Kartasana)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margasana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindanglaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegalpapak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bulagor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Harapankarya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Senangsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Margagiri"
+    }
   ]
 }

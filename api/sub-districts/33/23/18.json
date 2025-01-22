@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bejen",
-    "Banjarsari",
-    "Jlegong",
-    "Prangkokan",
-    "Lowungu",
-    "Larangan Luwok",
-    "Congkrang",
-    "Kebondalem",
-    "Kemuning",
-    "Selosabrang",
-    "Tanjungsari (Tanjung Sari)",
-    "Petung",
-    "Duren",
-    "Ngaliyan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bejen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jlegong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Prangkokan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lowungu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Larangan Luwok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Congkrang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kemuning"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Selosabrang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjungsari (Tanjung Sari)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Petung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ngaliyan"
+    }
   ]
 }

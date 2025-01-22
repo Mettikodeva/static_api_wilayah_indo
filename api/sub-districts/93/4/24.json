@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tomor",
-    "Munu",
-    "Abamu",
-    "Tie",
-    "Koba",
-    "Sagapu",
-    "Jifak",
-    "Yensuku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tomor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Munu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Abamu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tie"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sagapu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jifak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yensuku"
+    }
   ]
 }

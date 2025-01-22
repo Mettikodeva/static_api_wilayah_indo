@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Marampa",
-    "Pengkendekan",
-    "Kanandede",
-    "Rinding Allo",
-    "Minanga",
-    "Komba",
-    "Limbong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marampa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pengkendekan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kanandede"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rinding Allo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Minanga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Komba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Limbong"
+    }
   ]
 }

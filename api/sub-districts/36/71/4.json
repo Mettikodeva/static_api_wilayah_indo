@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Belendung",
-    "Jurumudi",
-    "Benda",
-    "Pajang",
-    "Jurumudi Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Belendung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jurumudi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Benda"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pajang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jurumudi Baru"
+    }
   ]
 }

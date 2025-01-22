@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Melata",
-    "Nanuah",
-    "Batu Ampar",
-    "Lubuk Hiju",
-    "Topalan",
-    "Bukit Makmur",
-    "Modang Mas",
-    "Bukit Raya",
-    "Mukti Manunggal",
-    "Sumber Jaya",
-    "Bukit Harum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Melata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanuah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Hiju"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Topalan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Modang Mas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mukti Manunggal"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Harum"
+    }
   ]
 }

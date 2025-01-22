@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukmajaya",
-    "Abadi Jaya (Abadijaya)",
-    "Mekar Jaya (Mekarjaya)",
-    "Baktijaya",
-    "Cisalak",
-    "Tirtajaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukmajaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Abadi Jaya (Abadijaya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mekar Jaya (Mekarjaya)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Baktijaya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cisalak"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tirtajaya"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pasar Cerenti",
-    "Koto Peraku",
-    "Kompe Berangin",
-    "Sikakak",
-    "Kampung Baru",
-    "Pulaujambu (Pulau Jambu)",
-    "Koto Cerenti",
-    "Pulaubayur (Pulau Bayur)",
-    "Pulau Panjang Cerenti",
-    "Pesikaian/Pasikaian",
-    "Telukpauh (Teluk Pauh)",
-    "Tanjungmedan (Tanjung Medan)",
-    "Kampung Baru Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Cerenti"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Koto Peraku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kompe Berangin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sikakak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulaujambu (Pulau Jambu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto Cerenti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulaubayur (Pulau Bayur)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Panjang Cerenti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pesikaian/Pasikaian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Telukpauh (Teluk Pauh)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungmedan (Tanjung Medan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kampung Baru Timur"
+    }
   ]
 }

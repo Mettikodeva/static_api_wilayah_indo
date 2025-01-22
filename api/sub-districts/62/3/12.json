@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sei/Sungai Hanyo/Hanyu",
-    "Hurung Tabengan",
-    "Rahung Bungai",
-    "Bulau Ngandung",
-    "Tumbang Puroh/Puruh",
-    "Tangirang",
-    "Barunang II (Baronang II)",
-    "Hurung Tampang",
-    "Supang",
-    "Katanjung",
-    "Jakatan Pari",
-    "Tumbang Sirat",
-    "Dirung Koram",
-    "Mampai Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Hanyo/Hanyu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hurung Tabengan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rahung Bungai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulau Ngandung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Puroh/Puruh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tangirang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Barunang II (Baronang II)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hurung Tampang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Supang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Katanjung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jakatan Pari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tumbang Sirat"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Dirung Koram"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Mampai Jaya"
+    }
   ]
 }

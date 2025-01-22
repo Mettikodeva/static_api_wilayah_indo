@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Manyak Payed",
-    "Bendahara",
-    "Karang Baru",
-    "Seruway",
-    "Kota Kualasinpang (Kota Kuala Simpang)",
-    "Kejuruan Muda",
-    "Tamiang Hulu",
-    "Rantau",
-    "Banda Mulia",
-    "Bandar Pusaka",
-    "Tenggulun",
-    "Sekerak"
+    {
+      "district_id": 1,
+      "kecamatan": "Manyak Payed"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bendahara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Karang Baru"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Seruway"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kota Kualasinpang (Kota Kuala Simpang)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kejuruan Muda"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tamiang Hulu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Rantau"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Banda Mulia"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bandar Pusaka"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tenggulun"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sekerak"
+    }
   ]
 }

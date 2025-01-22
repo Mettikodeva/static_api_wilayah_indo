@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Hatib",
-    "Domoikati (Damoi Kati)",
-    "Dementin (Demetin)",
-    "Yanbra (Yanim)",
-    "Braso",
-    "Pupehabu",
-    "Bring",
-    "Nembu Gresi",
-    "Ibub",
-    "Swentab",
-    "Jagrang",
-    "Hyansip"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Hatib"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Domoikati (Damoi Kati)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dementin (Demetin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yanbra (Yanim)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Braso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pupehabu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bring"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nembu Gresi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ibub"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Swentab"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jagrang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hyansip"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Aji Jaya KNPI",
-    "Kecubung Jaya",
-    "Kecubung Mulya",
-    "Gedung Aji",
-    "Penawar",
-    "Penawar Baru",
-    "Aji Murni Jaya",
-    "Aji Mesir",
-    "Aji Permai Talang Buah",
-    "Bandar Aji Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aji Jaya KNPI"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kecubung Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kecubung Mulya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gedung Aji"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Penawar"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Penawar Baru"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Aji Murni Jaya"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Aji Mesir"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Aji Permai Talang Buah"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Bandar Aji Jaya"
+    }
   ]
 }

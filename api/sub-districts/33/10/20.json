@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Jatinom",
-    "Beteng",
-    "Randulanang",
-    "Mranggen",
-    "Jemawan",
-    "Gedaren",
-    "Cawan",
-    "Tibayan",
-    "Bengking",
-    "Temuireng",
-    "Bandungan",
-    "Kayumas",
-    "Socokangsi",
-    "Glagah",
-    "Krajan",
-    "Bonyokan",
-    "Pandeyan",
-    "Puluhan"
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Jatinom"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beteng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Randulanang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mranggen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jemawan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gedaren"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cawan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tibayan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bengking"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Temuireng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bandungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kayumas"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Socokangsi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Glagah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Krajan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bonyokan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pandeyan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Puluhan"
+    }
   ]
 }

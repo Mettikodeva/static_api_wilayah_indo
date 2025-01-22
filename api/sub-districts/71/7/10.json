@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tombatu Dua",
-    "Tombatu Dua Utara",
-    "Tombatu Dua Barat",
-    "Tombatu Dua Tengah",
-    "Tombatu Tiga",
-    "Tombatu Tiga Tengah",
-    "Kuyanga",
-    "Kuyanga Satu",
-    "Winorangian",
-    "Winorangian Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tombatu Dua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tombatu Dua Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tombatu Dua Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tombatu Dua Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tombatu Tiga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tombatu Tiga Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuyanga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuyanga Satu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Winorangian"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Winorangian Satu"
+    }
   ]
 }

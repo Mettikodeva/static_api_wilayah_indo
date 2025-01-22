@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Keramat Kubah",
-    "Sumber Sari",
-    "Muara Sentosa",
-    "Pasar Baru",
-    "Sei Raja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Keramat Kubah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Muara Sentosa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei Raja"
+    }
   ]
 }

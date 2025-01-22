@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Lembah Segar",
-    "Barangin",
-    "Silungkang",
-    "Talawi"
+    {
+      "district_id": 1,
+      "kecamatan": "Lembah Segar"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Barangin"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Silungkang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Talawi"
+    }
   ]
 }

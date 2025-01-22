@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Jambu",
-    "Penembang",
-    "Talang Ambung / Lambung",
-    "Taba Durian Sebakul",
-    "Lubuk Unen",
-    "Pungguk Ketupak (Pungguk Ketupat)",
-    "Pungguk Beringin",
-    "Ulak Lebar",
-    "Kelindang",
-    "Bajak II (Bajak I)",
-    "Lubuk Unen Baru",
-    "Padang Kedeper",
-    "Kelindang Atas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Penembang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Ambung / Lambung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taba Durian Sebakul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Unen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pungguk Ketupak (Pungguk Ketupat)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pungguk Beringin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ulak Lebar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kelindang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bajak II (Bajak I)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lubuk Unen Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang Kedeper"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kelindang Atas"
+    }
   ]
 }

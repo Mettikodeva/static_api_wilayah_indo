@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tasipi",
-    "Mandike",
-    "Bero",
-    "Santigi",
-    "Tondasi",
-    "Santiri",
-    "Tiga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tasipi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mandike"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bero"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Santigi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tondasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Santiri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tiga"
+    }
   ]
 }

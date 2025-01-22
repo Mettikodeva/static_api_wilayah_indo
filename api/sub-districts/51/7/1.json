@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Nongan",
-    "Rendang",
-    "Menanga",
-    "Besakih",
-    "Pempatan",
-    "Pesaban"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rendang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Menanga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Besakih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pempatan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pesaban"
+    }
   ]
 }

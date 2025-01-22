@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pido",
-    "Waisika",
-    "Kamot",
-    "Taramana",
-    "Nailang",
-    "Lippang",
-    "Kenarimbala",
-    "Air Mancur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pido"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waisika"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kamot"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taramana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nailang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lippang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kenarimbala"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Mancur"
+    }
   ]
 }

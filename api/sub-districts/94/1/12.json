@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bumi Raya",
-    "Waroki",
-    "Gerbang Sadu",
-    "Kali Semen (Kalisemen)",
-    "Wadio"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumi Raya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waroki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gerbang Sadu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kali Semen (Kalisemen)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wadio"
+    }
   ]
 }

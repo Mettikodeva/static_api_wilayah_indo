@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sirnajaya (Sirnajati)",
-    "Ridogalih",
-    "Ridomanah",
-    "Wibawamulya",
-    "Cibarusah Kota (Cibarusahkota)",
-    "Cibarusah Jaya (Cibarusahjaya)",
-    "Sindangmulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sirnajaya (Sirnajati)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ridogalih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ridomanah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wibawamulya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibarusah Kota (Cibarusahkota)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibarusah Jaya (Cibarusahjaya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindangmulya"
+    }
   ]
 }

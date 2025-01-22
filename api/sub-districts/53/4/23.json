@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Dubesi",
-    "Nanaet",
-    "Fohoeka",
-    "Nanaenoe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dubesi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanaet"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fohoeka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nanaenoe"
+    }
   ]
 }

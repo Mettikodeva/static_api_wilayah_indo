@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Toloa",
-    "Dokiri",
-    "Tuguiha",
-    "Tomalou",
-    "Gurabati",
-    "Tongowai",
-    "Mare Kofo (Marekofo)",
-    "Mare Gam (Maregam)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Toloa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dokiri"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tuguiha"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tomalou"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gurabati"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tongowai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mare Kofo (Marekofo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mare Gam (Maregam)"
+    }
   ]
 }

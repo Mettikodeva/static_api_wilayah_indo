@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tehang",
-    "Tumbang Samui",
-    "Tumbang Oroi",
-    "Luwuk Tukau",
-    "Putat Durei",
-    "Tumbang Mantuhe"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tehang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Samui"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbang Oroi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Luwuk Tukau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Putat Durei"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Mantuhe"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sekandis",
-    "Gunung Calang",
-    "Talusi",
-    "Sakalimau",
-    "Tanjung Samalantakan",
-    "Sakadoyan",
-    "Rampa Cengal (Rampacengal)",
-    "Sesulung",
-    "Pondok Labu",
-    "Mulyodadi",
-    "Sukadana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekandis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Calang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talusi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sakalimau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Samalantakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sakadoyan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rampa Cengal (Rampacengal)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sesulung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pondok Labu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mulyodadi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukadana"
+    }
   ]
 }

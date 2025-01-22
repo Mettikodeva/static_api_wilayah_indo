@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kedungbunder (Kedung Bunder)",
-    "Kembangarum",
-    "Kalipang",
-    "Sotojayan (Sutojayan)",
-    "Jingglong",
-    "Sukorejo",
-    "Jegu",
-    "Pandanarum",
-    "Bacem",
-    "Sumberjo",
-    "Kaulon"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kedungbunder (Kedung Bunder)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kembangarum"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalipang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sotojayan (Sutojayan)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jingglong"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Jegu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandanarum"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bacem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumberjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kaulon"
+    }
   ]
 }

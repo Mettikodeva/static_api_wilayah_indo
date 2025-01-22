@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Waihawa",
-    "Nenbura",
-    "Wogalirit",
-    "Watumerak",
-    "Wolonterang",
-    "Kloangpopot",
-    "Wolomotong",
-    "Mahe Tanah",
-    "Pelibaler"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waihawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nenbura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wogalirit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watumerak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wolonterang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kloangpopot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wolomotong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mahe Tanah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelibaler"
+    }
   ]
 }

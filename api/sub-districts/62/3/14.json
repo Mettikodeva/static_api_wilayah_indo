@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jangkang",
-    "Tumbang Tukun",
-    "Sei/Sungai Ringin",
-    "Kaburan",
-    "Balai Banjang",
-    "Tumbang Diring",
-    "Dandang",
-    "Hurung Kampin",
-    "Batu Sambung",
-    "Tumbang Nusa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jangkang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Tukun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Ringin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaburan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balai Banjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Diring"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dandang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hurung Kampin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Sambung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tumbang Nusa"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Pulau-Pulau Aru",
-    "Aru Selatan",
-    "Aru Tengah",
-    "Aru Utara",
-    "Aru Utara Timur Batuley",
-    "Sir-Sir",
-    "Aru Tengah Timur",
-    "Aru Tengah Selatan",
-    "Aru Selatan Timur",
-    "Aru Selatan Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Pulau-Pulau Aru"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Aru Selatan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Aru Tengah"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Aru Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Aru Utara Timur Batuley"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sir-Sir"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Aru Tengah Timur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Aru Tengah Selatan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Aru Selatan Timur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Aru Selatan Utara"
+    }
   ]
 }

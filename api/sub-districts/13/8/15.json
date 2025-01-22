@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Silayang",
-    "Muaro Sei/Sungai Lolo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muaro Sei/Sungai Lolo"
+    }
   ]
 }

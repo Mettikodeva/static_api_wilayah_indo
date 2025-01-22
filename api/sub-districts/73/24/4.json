@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Malili",
-    "Harapan",
-    "Laskap",
-    "Manurung",
-    "Wewang Riu (Wewangriu)",
-    "Baruga",
-    "Lakawali",
-    "Ussu",
-    "Tarabbi",
-    "Balantang",
-    "Atue",
-    "Pongkeru",
-    "Puncuk Indah (Puncak Indah)",
-    "Pasipasi",
-    "Lakawali Pantai"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Malili"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laskap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wewang Riu (Wewangriu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baruga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lakawali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ussu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tarabbi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balantang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Atue"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pongkeru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Puncuk Indah (Puncak Indah)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pasipasi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lakawali Pantai"
+    }
   ]
 }

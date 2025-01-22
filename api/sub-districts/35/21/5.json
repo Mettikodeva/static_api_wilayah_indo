@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Keraswetan (Keras Wetan)",
-    "Keniten",
-    "Tambakromo",
-    "Tepas",
-    "Geneng",
-    "Sidorejo",
-    "Baderan",
-    "Kasreman",
-    "Kersikan",
-    "Dempel",
-    "Klitik",
-    "Kersoharjo",
-    "Klampisan"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keraswetan (Keras Wetan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keniten"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tambakromo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tepas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Geneng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Baderan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kasreman"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kersikan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Dempel"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Klitik"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kersoharjo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Klampisan"
+    }
   ]
 }

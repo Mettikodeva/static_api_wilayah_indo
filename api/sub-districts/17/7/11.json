@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Embong",
-    "Embong I",
-    "Kota Baru",
-    "Kota Agung",
-    "Lemeu / Limau",
-    "Pangkalan",
-    "Tangua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Embong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Embong I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kota Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lemeu / Limau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangkalan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangua"
+    }
   ]
 }

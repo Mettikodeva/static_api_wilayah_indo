@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Sukajaya",
-    "Kota Batu",
-    "Pagar Dewa",
-    "Tanjung Jati",
-    "Gunung Aji",
-    "Pilla",
-    "Gunung Raya",
-    "Remanam Jaya",
-    "Kiwis Raya",
-    "Segigok Raya",
-    "Bumi Agung",
-    "Mekar Sari (Mekarsari)",
-    "Bedeng Tiga",
-    "Gedung Ranau",
-    "Tanjung Baru",
-    "Way Wangi Seminung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kota Batu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Dewa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Jati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Aji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pilla"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Remanam Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kiwis Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Segigok Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bumi Agung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Sari (Mekarsari)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bedeng Tiga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gedung Ranau"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Way Wangi Seminung"
+    }
   ]
 }

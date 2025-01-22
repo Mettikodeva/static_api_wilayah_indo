@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Munjul",
-    "Sidamulya",
-    "Mertapada Kulon",
-    "Mertapada Wetan",
-    "Buntet",
-    "Kanci Kulon",
-    "Kanci",
-    "Astanajapura",
-    "Kendal",
-    "Japura Kidul",
-    "Japura Bakti (Japurabakti)"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Munjul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidamulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mertapada Kulon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mertapada Wetan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buntet"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kanci Kulon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kanci"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Astanajapura"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kendal"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Japura Kidul"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Japura Bakti (Japurabakti)"
+    }
   ]
 }

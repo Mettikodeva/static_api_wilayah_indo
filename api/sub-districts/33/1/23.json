@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mertasinga",
-    "Gumilir",
-    "Karangtalun",
-    "Tritih Kulon",
-    "Kebonmanis"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mertasinga"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gumilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karangtalun"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tritih Kulon"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebonmanis"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Moyeba",
-    "Merestim (Maristim)",
-    "Inofina",
-    "Mosum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Moyeba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Merestim (Maristim)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Inofina"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mosum"
+    }
   ]
 }

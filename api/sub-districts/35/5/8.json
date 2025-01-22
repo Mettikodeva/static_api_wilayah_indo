@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pasiraman",
-    "Kaligrenjeng",
-    "Tambakrejo",
-    "Sumberboto",
-    "Gununggede (Gunung Gede)",
-    "Wonotirto",
-    "Ngeni",
-    "Ngadipuro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasiraman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaligrenjeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambakrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberboto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gununggede (Gunung Gede)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wonotirto"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngeni"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngadipuro"
+    }
   ]
 }

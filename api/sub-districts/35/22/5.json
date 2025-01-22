@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bubulan",
-    "Cancung",
-    "Clebung",
-    "Sumberbendo (Sumber Bendo)",
-    "Ngorogunung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bubulan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cancung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Clebung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberbendo (Sumber Bendo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngorogunung"
+    }
   ]
 }

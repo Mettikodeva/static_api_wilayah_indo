@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Suwangi (Suangi)",
-    "Sakra",
-    "Kabar",
-    "Rumbuk",
-    "Keselet",
-    "Sakra Selatan",
-    "Rumbuk Timur",
-    "Suwangi Timur",
-    "Moyot",
-    "Songak",
-    "Peresak",
-    "Kuang Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suwangi (Suangi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sakra"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kabar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rumbuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keselet"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sakra Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rumbuk Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suwangi Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Moyot"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Songak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Peresak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuang Baru"
+    }
   ]
 }

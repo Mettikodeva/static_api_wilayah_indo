@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tambak Lau Mulgab I (Tambak Lau Mulgap I)",
-    "Tambak Lau Mulgab II (Tambak Lau Mulgap II)",
-    "Gundaling I",
-    "Gundaling II",
-    "Daulu (Doulu)",
-    "Gurusinga",
-    "Raya",
-    "Rumah Brastagi/Berastagi",
-    "Sempajaya",
-    "Lau Gumba"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tambak Lau Mulgab I (Tambak Lau Mulgap I)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tambak Lau Mulgab II (Tambak Lau Mulgap II)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gundaling I"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gundaling II"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Daulu (Doulu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gurusinga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rumah Brastagi/Berastagi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sempajaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lau Gumba"
+    }
   ]
 }

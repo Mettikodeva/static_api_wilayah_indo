@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sugih Rawas (Sugih Waras)",
-    "Padang Sari",
-    "Padang Bindu",
-    "Saung Naga",
-    "Negeri Batin Baru",
-    "Kota Aman",
-    "Belambangan",
-    "Paninjauan (Peninjauan)",
-    "Nagar Agung",
-    "Simpang Saga",
-    "Perupus Blambangan",
-    "Kagelang Blambangan",
-    "Sukajadi Blambangan",
-    "Bedeng Blambangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sugih Rawas (Sugih Waras)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang Sari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Bindu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saung Naga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Negeri Batin Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kota Aman"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belambangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paninjauan (Peninjauan)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nagar Agung"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Simpang Saga"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Perupus Blambangan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kagelang Blambangan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sukajadi Blambangan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bedeng Blambangan"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Yalisomon",
-    "Yabi (Jabi)",
-    "Sobaham",
-    "Balinggama",
-    "Dohong",
-    "Hamik",
-    "Kulahaik",
-    "Simbuk",
-    "Puahuun",
-    "Silak Pahabol",
-    "Sele",
-    "Benembia",
-    "Hubik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yalisomon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yabi (Jabi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sobaham"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balinggama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dohong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hamik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kulahaik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simbuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puahuun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Silak Pahabol"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sele"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Benembia"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hubik"
+    }
   ]
 }

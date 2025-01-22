@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mamben Daya",
-    "Mamben Lauk/Lauq",
-    "Wanasaba",
-    "Karang Baru",
-    "Bebidas",
-    "Tembeng Putik",
-    "Wanasaba Lauk",
-    "Beriri Jarak",
-    "Bandok",
-    "Mamben Baru",
-    "Otak Rarangan",
-    "Jineng",
-    "Wanasaba Daya",
-    "Karang Baru Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mamben Daya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mamben Lauk/Lauq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wanasaba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bebidas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tembeng Putik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wanasaba Lauk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Beriri Jarak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mamben Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Otak Rarangan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jineng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wanasaba Daya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karang Baru Timur"
+    }
   ]
 }

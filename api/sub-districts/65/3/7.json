@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Long Pasia",
-    "Liang Lunuk",
-    "Pa' Ibang (Pa Ibang)",
-    "Pa' Amai (Pa Amai)",
-    "Pa' Kaber (Pa Kaber)",
-    "Pa' Tera (Pa Tera)",
-    "Pa' Sing (Pa Sing)",
-    "Pa' Dalan (Pa Dalan)",
-    "Long Birar",
-    "Pa' Upan (Pa Upan)",
-    "Long Budung",
-    "Long Pupung",
-    "Pa' Urang (Pa Urang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Pasia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Liang Lunuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pa' Ibang (Pa Ibang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pa' Amai (Pa Amai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pa' Kaber (Pa Kaber)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pa' Tera (Pa Tera)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pa' Sing (Pa Sing)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pa' Dalan (Pa Dalan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Birar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pa' Upan (Pa Upan)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Long Budung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Long Pupung"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pa' Urang (Pa Urang)"
+    }
   ]
 }

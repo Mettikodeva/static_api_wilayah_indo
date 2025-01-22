@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tuhembuasi",
-    "Hilibadalu",
-    "La'uri (Lauri)",
-    "Hilimbana",
-    "Saitagaramba (Saetagaramba)",
-    "Sogae'adu (Sogaeadu)",
-    "Baruzo",
-    "Tulumbaho",
-    "Sisarahili Sogae'adu (Sisarahili Sogeadu)",
-    "We'a-we'a (Wea-Wea)",
-    "Sihare'o Sogae'adu (Sihareo Sogaeadu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuhembuasi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilibadalu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "La'uri (Lauri)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hilimbana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saitagaramba (Saetagaramba)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sogae'adu (Sogaeadu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baruzo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tulumbaho"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sisarahili Sogae'adu (Sisarahili Sogeadu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "We'a-we'a (Wea-Wea)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sihare'o Sogae'adu (Sihareo Sogaeadu)"
+    }
   ]
 }

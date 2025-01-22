@@ -1,32 +1,116 @@
 {
   "districts": [
-    "Malingping",
-    "Panggarangan",
-    "Bayah",
-    "Cipanas",
-    "Muncang",
-    "Leuwidamar",
-    "Bojongmanik",
-    "Gunungkencana (Gunung Kencana)",
-    "Banjarsari",
-    "Cileles",
-    "Cimarga",
-    "Sajira",
-    "Maja",
-    "Rangkasbitung",
-    "Warunggunung",
-    "Cijaku",
-    "Cikulur",
-    "Cibadak",
-    "Cibeber",
-    "Cilograng",
-    "Wanasalam",
-    "Sobang",
-    "Curug bitung (Curugbitung)",
-    "Kalanganyar",
-    "Lebakgedong",
-    "Cihara",
-    "Cirinten",
-    "Cigemlong (Cigemblong)"
+    {
+      "district_id": 1,
+      "kecamatan": "Malingping"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Panggarangan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bayah"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Cipanas"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Muncang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Leuwidamar"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bojongmanik"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gunungkencana (Gunung Kencana)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Banjarsari"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Cileles"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Cimarga"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sajira"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Maja"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Rangkasbitung"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Warunggunung"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Cijaku"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Cikulur"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Cibadak"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Cibeber"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Cilograng"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Wanasalam"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Sobang"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Curug bitung (Curugbitung)"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Kalanganyar"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Lebakgedong"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Cihara"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Cirinten"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Cigemlong (Cigemblong)"
+    }
   ]
 }

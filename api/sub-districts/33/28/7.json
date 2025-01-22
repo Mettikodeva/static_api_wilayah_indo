@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kedungwungu",
-    "Mokaha",
-    "Penyalahan",
-    "Sitail (Setail)",
-    "Sumbarang",
-    "Cerih",
-    "Gantungan",
-    "Argatawang",
-    "Padasari",
-    "Capar",
-    "Lebakwangi",
-    "Dukuhbangsa",
-    "Jatinegara",
-    "Luwijawa",
-    "Lembasari (Lembahsari)",
-    "Tamansari",
-    "Wotgalih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungwungu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mokaha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Penyalahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sitail (Setail)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumbarang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cerih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gantungan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Argatawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Capar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lebakwangi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dukuhbangsa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jatinegara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Luwijawa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lembasari (Lembahsari)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wotgalih"
+    }
   ]
 }

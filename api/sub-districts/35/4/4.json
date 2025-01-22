@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pakel",
-    "Pucung Lor",
-    "Srikaton",
-    "Padangan",
-    "Banjarsari",
-    "Pulerejo",
-    "Bendosari",
-    "Ngantru",
-    "Mojoagung",
-    "Batokan",
-    "Kepuhrejo",
-    "Pojok",
-    "Pinggirsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakel"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pucung Lor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Srikaton"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulerejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bendosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngantru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mojoagung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batokan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kepuhrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pinggirsari"
+    }
   ]
 }

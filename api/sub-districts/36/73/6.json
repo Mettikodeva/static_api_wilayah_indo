@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Taktakan",
-    "Sayar",
-    "Pancur",
-    "Kuranji",
-    "Kalanganyar (Kalang Anyar)",
-    "Cilowong",
-    "Panggungjati",
-    "Drangong",
-    "Umbul Tengah",
-    "Sepang",
-    "Lialang",
-    "Taman Baru (Tamanbaru)",
-    "Cibendung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Taktakan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sayar"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pancur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kuranji"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kalanganyar (Kalang Anyar)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cilowong"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Panggungjati"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Drangong"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Umbul Tengah"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sepang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Lialang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Taman Baru (Tamanbaru)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Cibendung"
+    }
   ]
 }

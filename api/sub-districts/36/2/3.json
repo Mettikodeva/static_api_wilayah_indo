@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bayah Barat",
-    "Sawarna",
-    "Cidikit",
-    "Suwakan",
-    "Cimancak",
-    "Darmasari",
-    "Bayah Timur",
-    "Cisuren",
-    "Pasirgombong",
-    "Sawarna Timur",
-    "Pamubulan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bayah Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sawarna"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cidikit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suwakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cimancak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Darmasari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bayah Timur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cisuren"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pasirgombong"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sawarna Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pamubulan"
+    }
   ]
 }

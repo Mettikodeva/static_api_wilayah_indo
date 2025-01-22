@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ngepungsari",
-    "Jatipurwo",
-    "Jatipuro",
-    "Jatisobo",
-    "Jatiwarno",
-    "Jatimulyo",
-    "Jatisuko",
-    "Jatiharjo",
-    "Jatikuwung",
-    "Jatiroyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngepungsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatipurwo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatipuro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatisobo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatiwarno"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatimulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatisuko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatiharjo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatikuwung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatiroyo"
+    }
   ]
 }

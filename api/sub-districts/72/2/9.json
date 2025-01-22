@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Gintu",
-    "Runde",
-    "Badangkaiya (Badangkaia)",
-    "Bakekau",
-    "Bulili",
-    "Bewa",
-    "Pada",
-    "Bomba"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gintu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Runde"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Badangkaiya (Badangkaia)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakekau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulili"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bewa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pada"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bomba"
+    }
   ]
 }

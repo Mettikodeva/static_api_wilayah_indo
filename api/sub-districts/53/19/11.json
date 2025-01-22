@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Satar Padut",
-    "Satar Punda",
-    "Nampar Tabang",
-    "Lencur",
-    "Liang Deruk",
-    "Haju Wangi",
-    "Satar Kampas",
-    "Golo Mangung",
-    "Golo Wontong",
-    "Golo Munga Barat",
-    "Satar Punda Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Satar Padut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Satar Punda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nampar Tabang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lencur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Liang Deruk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Haju Wangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Satar Kampas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Golo Mangung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Golo Wontong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Golo Munga Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Satar Punda Barat"
+    }
   ]
 }

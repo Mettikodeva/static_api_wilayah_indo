@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Purwakarta",
-    "Campaka",
-    "Jatiluhur",
-    "Plered",
-    "Sukatani",
-    "Darangdan",
-    "Maniis",
-    "Tegalwaru (Tegal Waru)",
-    "Wanayasa",
-    "Pasawahan",
-    "Bojong",
-    "Babakancikao",
-    "Bungursari",
-    "Cibatu",
-    "Sukasari",
-    "Pondoksalam",
-    "Kiarapedes"
+    {
+      "district_id": 1,
+      "kecamatan": "Purwakarta"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Campaka"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Jatiluhur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Plered"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sukatani"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Darangdan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Maniis"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tegalwaru (Tegal Waru)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Wanayasa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pasawahan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bojong"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Babakancikao"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Bungursari"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Cibatu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sukasari"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pondoksalam"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kiarapedes"
+    }
   ]
 }

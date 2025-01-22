@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ranoketang Atas",
-    "Tondanauw (Toundanouw / Toundanou)",
-    "Lobu Satu",
-    "Lobu Dua",
-    "Tondanouw Satu (Toundanouw Satu)",
-    "Toundanouw Atas",
-    "Ranoketang Atas Satu",
-    "Lobu Kota",
-    "Lobu Atas",
-    "Lobu"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ranoketang Atas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tondanauw (Toundanouw / Toundanou)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lobu Satu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lobu Dua"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tondanouw Satu (Toundanouw Satu)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Toundanouw Atas"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ranoketang Atas Satu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lobu Kota"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lobu Atas"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lobu"
+    }
   ]
 }

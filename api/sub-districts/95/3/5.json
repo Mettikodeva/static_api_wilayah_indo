@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Samenage",
-    "Haleroma",
-    "Muke",
-    "Pona",
-    "Ison",
-    "Asotapo",
-    "Hirin",
-    "Notnarek",
-    "Hugilokon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Samenage"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Haleroma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muke"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pona"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ison"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Asotapo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hirin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Notnarek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hugilokon"
+    }
   ]
 }

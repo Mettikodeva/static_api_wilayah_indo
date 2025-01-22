@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dumaring",
-    "Talisayan",
-    "Campur Sari",
-    "Bumi Jaya",
-    "Tunggal Bumi",
-    "Sumber Mulya (Sumber Mulia)",
-    "Suka Murya",
-    "Purna Sari Jaya",
-    "Eka Sapta",
-    "Capuak"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dumaring"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talisayan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Campur Sari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bumi Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tunggal Bumi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sumber Mulya (Sumber Mulia)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Suka Murya"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Purna Sari Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Eka Sapta"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Capuak"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Poncol",
-    "Parang",
-    "Lembeyan",
-    "Takeran",
-    "Kawedanan",
-    "Magetan",
-    "Plaosan",
-    "Panekan",
-    "Sukomoro",
-    "Bendo",
-    "Maospati",
-    "Barat",
-    "Karangrejo",
-    "Karas",
-    "Kartoharjo (Kertoharjo)",
-    "Ngariboyo",
-    "Nguntoronadi",
-    "Sidorejo"
+    {
+      "district_id": 1,
+      "kecamatan": "Poncol"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Parang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Lembeyan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Takeran"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kawedanan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Magetan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Plaosan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Panekan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sukomoro"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bendo"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Maospati"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Barat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Karangrejo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Karas"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kartoharjo (Kertoharjo)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Ngariboyo"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Nguntoronadi"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sidorejo"
+    }
   ]
 }

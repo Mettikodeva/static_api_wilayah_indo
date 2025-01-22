@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ujuna",
-    "Balaroa",
-    "Kamonji",
-    "Baru",
-    "Lere",
-    "Siranindi"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ujuna"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Balaroa"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kamonji"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lere"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Siranindi"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Batu Tambun",
-    "Kinipan",
-    "Ginih",
-    "Benakitan",
-    "Liku",
-    "Mengkalang",
-    "Karang Mas",
-    "Kina",
-    "Jamuat (Jemuat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Tambun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kinipan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ginih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Benakitan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Liku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mengkalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Mas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kina"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jamuat (Jemuat)"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Giri Mulya",
-    "Kuranji",
-    "Waringin Tunggal",
-    "Mustika",
-    "Indra Lokajaya (Indra Loka Jaya)",
-    "Karang Intan",
-    "Ringkit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Giri Mulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuranji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waringin Tunggal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mustika"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Indra Lokajaya (Indra Loka Jaya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Intan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ringkit"
+    }
   ]
 }

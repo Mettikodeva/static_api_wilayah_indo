@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Batok",
-    "Durenan",
-    "Winong",
-    "Tawangrejo",
-    "Gemarang",
-    "Sebayi",
-    "Nampu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Durenan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tawangrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gemarang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sebayi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nampu"
+    }
   ]
 }

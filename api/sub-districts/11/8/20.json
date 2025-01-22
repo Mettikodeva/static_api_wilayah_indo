@@ -1,43 +1,160 @@
 {
   "sub_districts": [
-    "Blang Ara (Gampong Blang Ara)",
-    "Tgk.Dibanda Pirak (Teungku Dibanda Pirak)",
-    "Paya Meudru",
-    "Blang Sialet",
-    "Buket Guru",
-    "Glumpang/Geulumpang Pirak",
-    "Alue Lhok (Gampong Alue Lhok)",
-    "Seuneubok Aceh (Gampong Seuneubok Aceh)",
-    "Buket Pidie",
-    "Kebon Pirak (Keubon Pirak)",
-    "Alue Leukot (Gampong Alue Leukot)",
-    "Blang Mane",
-    "Peureupok",
-    "Ulue Bieng (Alue Bieng)",
-    "Pante Seuleumak",
-    "Meuria Seuleumak",
-    "Tunong Krueng",
-    "Geureughek",
-    "Meunye Seuleumak",
-    "Simpang",
-    "Tumpok Mesjid",
-    "Jok",
-    "Leuhong",
-    "Tanjong Burunyong (Tanjong Beurunyong)",
-    "Keude Paya Bakong",
-    "Blang Gunci",
-    "Gampong Nga",
-    "Mampree (Gampong Mampree)",
-    "Matang Panyang",
-    "Tanjung Drien (Tanjong Drien)",
-    "Asan Seuleumak",
-    "Tgk. Dibanda Tek-Tek (Teungku Dibanda Tektek)",
-    "Cot Teufah (Cot Tufah)",
-    "Pucok Alue Seuleumak",
-    "Lueng",
-    "Cempeudak (Ceumpeudak)",
-    "Blang Paku",
-    "Blang Dalam",
-    "Blang Pante"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Blang Ara (Gampong Blang Ara)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tgk.Dibanda Pirak (Teungku Dibanda Pirak)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paya Meudru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Blang Sialet"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buket Guru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Glumpang/Geulumpang Pirak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alue Lhok (Gampong Alue Lhok)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Seuneubok Aceh (Gampong Seuneubok Aceh)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buket Pidie"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kebon Pirak (Keubon Pirak)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Alue Leukot (Gampong Alue Leukot)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Blang Mane"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Peureupok"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ulue Bieng (Alue Bieng)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pante Seuleumak"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Meuria Seuleumak"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tunong Krueng"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Geureughek"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Meunye Seuleumak"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Simpang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tumpok Mesjid"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Jok"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Leuhong"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tanjong Burunyong (Tanjong Beurunyong)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Keude Paya Bakong"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Blang Gunci"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Gampong Nga"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Mampree (Gampong Mampree)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Matang Panyang"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Tanjung Drien (Tanjong Drien)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Asan Seuleumak"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Tgk. Dibanda Tek-Tek (Teungku Dibanda Tektek)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Cot Teufah (Cot Tufah)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Pucok Alue Seuleumak"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Lueng"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Cempeudak (Ceumpeudak)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Blang Paku"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Blang Dalam"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Blang Pante"
+    }
   ]
 }

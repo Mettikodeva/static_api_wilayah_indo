@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Sari",
-    "Boke",
-    "Jia",
-    "Bugis",
-    "Naru",
-    "Rasabou",
-    "Sangia",
-    "Na'e",
-    "Rai O'i",
-    "Parangina",
-    "Kowo",
-    "Buncu",
-    "Poja",
-    "Bajo Pulo",
-    "Naru Barat",
-    "Tanah Putih",
-    "Lamera",
-    "Oi Maci"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boke"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jia"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bugis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rasabou"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sangia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Na'e"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rai O'i"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Parangina"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kowo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Buncu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Poja"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bajo Pulo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Naru Barat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanah Putih"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lamera"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Oi Maci"
+    }
   ]
 }

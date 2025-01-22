@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sariwangi",
-    "Sukaharja (Sukaraharja)",
-    "Jayaratu",
-    "Linggasirna",
-    "Sirnasari",
-    "Sukamulih",
-    "Selawangi",
-    "Jayaputra"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sariwangi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaharja (Sukaraharja)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jayaratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Linggasirna"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sirnasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamulih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selawangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jayaputra"
+    }
   ]
 }

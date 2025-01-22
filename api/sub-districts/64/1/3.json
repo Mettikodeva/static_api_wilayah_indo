@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Lempesu",
-    "Bekoso",
-    "Damit",
-    "Suatang",
-    "Suliliran",
-    "Pasir Belengkong",
-    "Sangkuriman",
-    "Laburan",
-    "Suliliran Baru",
-    "Keresik Bura",
-    "Laburan Baru",
-    "Seniung Jaya",
-    "Sunge Batu",
-    "Olong Pinang",
-    "Suatang Keteban"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lempesu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bekoso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Damit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suatang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suliliran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir Belengkong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sangkuriman"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Laburan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suliliran Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keresik Bura"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Laburan Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Seniung Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sunge Batu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Olong Pinang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suatang Keteban"
+    }
   ]
 }

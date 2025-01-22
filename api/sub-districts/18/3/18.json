@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Batu Nangkop",
-    "Negara Bumi",
-    "Melungun Ratu",
-    "Negeri Campang Jaya",
-    "Pampang Tanggub/Tangguk Jaya",
-    "Negeri Galih/Galik Rejo",
-    "Ratu Jaya",
-    "Mekar Sari (Mekar Asri)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Nangkop"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Negara Bumi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Melungun Ratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Negeri Campang Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pampang Tanggub/Tangguk Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Negeri Galih/Galik Rejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ratu Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Sari (Mekar Asri)"
+    }
   ]
 }

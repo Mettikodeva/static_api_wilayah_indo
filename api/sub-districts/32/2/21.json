@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Jampangkulon (Jampang Kulon)",
-    "Bojonggenteng (Bojong Genteng)",
-    "Cikarang",
-    "Bojongsari",
-    "Nagraksari",
-    "Mekarjaya",
-    "Tanjung",
-    "Ciparay",
-    "Padajaya",
-    "Karanganyar",
-    "Cikaranggeusan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jampangkulon (Jampang Kulon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojonggenteng (Bojong Genteng)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikarang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nagraksari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ciparay"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Padajaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cikaranggeusan"
+    }
   ]
 }

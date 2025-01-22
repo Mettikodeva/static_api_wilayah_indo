@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lembo",
-    "Alo-Alo",
-    "Puulemo",
-    "Padaleu",
-    "Bungguosu",
-    "Puusiambu",
-    "Taipa",
-    "Tongalino (Tonggalino)",
-    "Pasir Putih",
-    "Laramo",
-    "Lapulu",
-    "Watuwula"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lembo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alo-Alo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Puulemo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padaleu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bungguosu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puusiambu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taipa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tongalino (Tonggalino)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Laramo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lapulu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watuwula"
+    }
   ]
 }

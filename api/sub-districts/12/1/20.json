@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sibuluan Nalambok",
-    "Sarudik",
-    "Pasir Bidang",
-    "Pondok Batu",
-    "Sipan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sibuluan Nalambok"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sarudik"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasir Bidang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pondok Batu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sipan"
+    }
   ]
 }

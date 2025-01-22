@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cijagra",
-    "Lingkar Selatan",
-    "Burangrang",
-    "Paledang",
-    "Turangga",
-    "Malabar",
-    "Cikawao"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cijagra"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lingkar Selatan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Burangrang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Paledang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Turangga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Malabar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cikawao"
+    }
   ]
 }

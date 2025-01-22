@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukamulya",
-    "Sukarindik",
-    "Bungursari",
-    "Sukajaya",
-    "Cibunigeulis",
-    "Bantarsari",
-    "Sukalaksana"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukarindik"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bungursari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cibunigeulis"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bantarsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukalaksana"
+    }
   ]
 }

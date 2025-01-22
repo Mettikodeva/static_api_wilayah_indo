@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mekar Indah",
-    "Halimaung Jaya",
-    "Bangun Harja/Harjo",
-    "Kartika Bhakti/Bakti",
-    "Pematang Panjang",
-    "Sei/Sungai Bakau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekar Indah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Halimaung Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangun Harja/Harjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kartika Bhakti/Bakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pematang Panjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Bakau"
+    }
   ]
 }

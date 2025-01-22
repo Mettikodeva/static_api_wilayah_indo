@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tasikserai (Tasik Serai)",
-    "Tasikserai Barat (Tasik Serai Barat)",
-    "Kualapenaso (Kuala Penaso)",
-    "Beringin",
-    "Kotopaitberingin (Koto Pait Beringin)",
-    "Melibur",
-    "Tasikserai Timur (Tasik Serai Timur)",
-    "Tasiktebingserai (Tasik Tebing Serai)",
-    "Seraiwangi (Serai Wangi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tasikserai (Tasik Serai)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tasikserai Barat (Tasik Serai Barat)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kualapenaso (Kuala Penaso)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kotopaitberingin (Koto Pait Beringin)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Melibur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tasikserai Timur (Tasik Serai Timur)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tasiktebingserai (Tasik Tebing Serai)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seraiwangi (Serai Wangi)"
+    }
   ]
 }

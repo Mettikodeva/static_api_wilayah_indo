@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "So E (Soe)",
-    "Cendana",
-    "Oebesa",
-    "Taubneno",
-    "Nonohonis",
-    "Karang Sirih (Karang Siri)",
-    "Nunumeu",
-    "Kobekamusa",
-    "Oe Kefan (Oekefan)",
-    "Kota Baru",
-    "Kampung Baru",
-    "Kuatae",
-    "Noemeto"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "So E (Soe)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cendana"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Oebesa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Taubneno"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nonohonis"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang Sirih (Karang Siri)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Nunumeu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kobekamusa"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Oe Kefan (Oekefan)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuatae"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Noemeto"
+    }
   ]
 }

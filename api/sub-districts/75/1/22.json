@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Hutadaa",
-    "Buhu",
-    "Luwoo",
-    "Bunggalo",
-    "Bulota"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hutadaa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buhu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Luwoo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bunggalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulota"
+    }
   ]
 }

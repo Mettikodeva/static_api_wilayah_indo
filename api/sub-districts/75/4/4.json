@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Marisa Selatan",
-    "Marisa Utara",
-    "Teratai",
-    "Pohuwato",
-    "Batubilotahu (Batubilotahu Indah)",
-    "Palopo",
-    "Pohuwato Timur",
-    "Bulangita"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marisa Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marisa Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teratai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pohuwato"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Batubilotahu (Batubilotahu Indah)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Palopo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pohuwato Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bulangita"
+    }
   ]
 }

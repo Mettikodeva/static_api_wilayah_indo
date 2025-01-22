@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bumi Dipasena Utama",
-    "Bumi Dipasena Agung",
-    "Bumi Dipasena Jaya",
-    "Bumi Dipasena Abadi",
-    "Bumi Dipasena Makmur",
-    "Bumi Sentosa (Bumi Dipasena Sentosa)",
-    "Bumi Dipasena Mulya",
-    "Bumi Dipasena Sejahtera"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumi Dipasena Utama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bumi Dipasena Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bumi Dipasena Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bumi Dipasena Abadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Dipasena Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Sentosa (Bumi Dipasena Sentosa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bumi Dipasena Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bumi Dipasena Sejahtera"
+    }
   ]
 }

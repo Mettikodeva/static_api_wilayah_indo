@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sumberberas",
-    "Kedungrejo",
-    "Tembokrejo",
-    "Sumbersewu",
-    "Blambangan",
-    "Tapanrejo",
-    "Wringinputih (Wringin Putih)",
-    "Tambakrejo",
-    "Kedungringin",
-    "Kumendung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberberas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tembokrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumbersewu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blambangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tapanrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wringinputih (Wringin Putih)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambakrejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungringin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kumendung"
+    }
   ]
 }

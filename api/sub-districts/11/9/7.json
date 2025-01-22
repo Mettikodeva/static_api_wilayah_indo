@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Seuneubok",
-    "Suak Lamatan",
-    "Alus Alus",
-    "Batu Ralang",
-    "Ulul Mayang (Manyang)",
-    "Kebun Baru",
-    "Badegong",
-    "Latiung",
-    "Pasir Tinggi",
-    "Labuhan Jaya",
-    "Labuhan Bajau",
-    "Blang Sebel",
-    "Ana Ao",
-    "Lataling",
-    "Pulau Bangkalak (Pulau Bengkalak)",
-    "Labuhan Bakti",
-    "Trans Jernge",
-    "Trans Meranti (Trans Maranti)",
-    "Trans Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seuneubok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suak Lamatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alus Alus"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Ralang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulul Mayang (Manyang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebun Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Badegong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Latiung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Tinggi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuhan Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Labuhan Bajau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Blang Sebel"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ana Ao"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lataling"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pulau Bangkalak (Pulau Bengkalak)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Labuhan Bakti"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Trans Jernge"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Trans Meranti (Trans Maranti)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Trans Baru"
+    }
   ]
 }

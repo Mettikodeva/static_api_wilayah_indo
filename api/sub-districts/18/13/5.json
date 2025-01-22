@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kebuayan",
-    "Way Nukak",
-    "Way Sindi",
-    "Penengahan",
-    "Menyancang",
-    "Laay",
-    "Penggawa V Ulu",
-    "Penggawa V Tengah",
-    "Way Sindi Utara",
-    "Tembakak Way Sindi (Tebakak Way Sidi)",
-    "Way Sindi Hanuan",
-    "Asahan Way Sindi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebuayan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Way Nukak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Way Sindi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Penengahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Menyancang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laay"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penggawa V Ulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penggawa V Tengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Way Sindi Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tembakak Way Sindi (Tebakak Way Sidi)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Way Sindi Hanuan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Asahan Way Sindi"
+    }
   ]
 }

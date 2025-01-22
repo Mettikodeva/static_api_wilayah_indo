@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Aek Loba Pekan",
-    "Aek Loba Afdeling I",
-    "Alang Bombon (Bonbon)",
-    "Sengon Sari",
-    "Lobbu Jior (Lobu Jiur)",
-    "Rawa Sari",
-    "Aek Loba"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Aek Loba Pekan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aek Loba Afdeling I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alang Bombon (Bonbon)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sengon Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lobbu Jior (Lobu Jiur)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rawa Sari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Aek Loba"
+    }
   ]
 }

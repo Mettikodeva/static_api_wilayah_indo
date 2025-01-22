@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Yabomaida",
-    "Akoubaida",
-    "Dauwagu",
-    "Ganeyetaka",
-    "Yabomaida II",
-    "Bodatadi",
-    "Ibouwagu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yabomaida"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Akoubaida"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dauwagu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ganeyetaka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yabomaida II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bodatadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ibouwagu"
+    }
   ]
 }

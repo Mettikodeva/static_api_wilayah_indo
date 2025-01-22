@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mangolo",
-    "Kolakaasi (Kolakaasih)",
-    "Sea",
-    "Latambaga",
-    "Sakuli",
-    "Induha",
-    "Ulunggolaka"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mangolo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kolakaasi (Kolakaasih)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sea"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Latambaga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sakuli"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Induha"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ulunggolaka"
+    }
   ]
 }

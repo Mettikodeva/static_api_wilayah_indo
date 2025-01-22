@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wanim",
-    "Lolat",
-    "Bunde",
-    "Serahak",
-    "Webile",
-    "Dinggila",
-    "Esalek",
-    "Denema"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanim"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lolat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bunde"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Serahak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Webile"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dinggila"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Esalek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Denema"
+    }
   ]
 }

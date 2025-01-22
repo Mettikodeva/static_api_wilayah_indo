@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Yarmatum (Yermatum)",
-    "Reyob",
-    "Kaprus",
-    "Seimeba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yarmatum (Yermatum)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Reyob"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaprus"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seimeba"
+    }
   ]
 }

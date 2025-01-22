@@ -1,36 +1,132 @@
 {
   "districts": [
-    "Siantar",
-    "Gunung Malela",
-    "Gunung Maligas",
-    "Panei",
-    "Panombeian Panei / Pane",
-    "Jorlang Hataran",
-    "Raya Kahean",
-    "Bosar Maligas",
-    "Sidamanik",
-    "Pamatang Sidamanik (Pematang Sidamanik)",
-    "Tanah Jawa",
-    "Hatonduhan",
-    "Dolok Panribuan",
-    "Purba",
-    "Haranggaol Horisan (Haranggaol Horison)",
-    "Girsang Sipangan Bolon",
-    "Dolok Batu Nanggar",
-    "Huta Bayu Raja",
-    "Jawa Maraja Bah Jambi",
-    "Dolok Pardamean",
-    "Pematang Bandar",
-    "Bandar Huluan",
-    "Bandar",
-    "Bandar Masilam",
-    "Silimakuta",
-    "Dolok Silou (Dolok Silau)",
-    "Silou Kahean",
-    "Tapian Dolok",
-    "Raya",
-    "Ujung Padang",
-    "Pamatang Silima Huta (Pematang)",
-    "Dolog Masagal"
+    {
+      "district_id": 1,
+      "kecamatan": "Siantar"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Gunung Malela"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Gunung Maligas"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Panei"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Panombeian Panei / Pane"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Jorlang Hataran"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Raya Kahean"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bosar Maligas"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sidamanik"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pamatang Sidamanik (Pematang Sidamanik)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tanah Jawa"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Hatonduhan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Dolok Panribuan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Purba"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Haranggaol Horisan (Haranggaol Horison)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Girsang Sipangan Bolon"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Dolok Batu Nanggar"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Huta Bayu Raja"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Jawa Maraja Bah Jambi"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Dolok Pardamean"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Pematang Bandar"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Bandar Huluan"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Bandar"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Bandar Masilam"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Silimakuta"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Dolok Silou (Dolok Silau)"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Silou Kahean"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Tapian Dolok"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Raya"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Ujung Padang"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Pamatang Silima Huta (Pematang)"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Dolog Masagal"
+    }
   ]
 }

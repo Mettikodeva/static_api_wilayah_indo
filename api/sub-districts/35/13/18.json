@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Brumbungan Lor",
-    "Jatiadi",
-    "Klaseman",
-    "Pesisir",
-    "Bulang",
-    "Randupitu",
-    "Pikatan",
-    "Sebaung",
-    "Sumberkerang",
-    "Banyuanyar Lor",
-    "Curahsawo",
-    "Pajurangan",
-    "Gending"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Brumbungan Lor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatiadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klaseman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pesisir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Randupitu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pikatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sebaung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberkerang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banyuanyar Lor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Curahsawo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pajurangan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gending"
+    }
   ]
 }

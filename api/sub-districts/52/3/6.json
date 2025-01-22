@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Setanggor",
-    "Jantuk",
-    "Padamara",
-    "Dasan Lekong",
-    "Sukamulia",
-    "Paok Pampang",
-    "Sukamulia Timur",
-    "Nyiur Tebel",
-    "Setanggor Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Setanggor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jantuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padamara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dasan Lekong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamulia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paok Pampang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamulia Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nyiur Tebel"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Setanggor Selatan"
+    }
   ]
 }

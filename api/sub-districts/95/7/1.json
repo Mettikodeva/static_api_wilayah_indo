@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bokon",
-    "Oyi",
-    "Gurika",
-    "Olume",
-    "Dura",
-    "Langgalo",
-    "Kuapur",
-    "Wadinalome",
-    "Yilondum",
-    "Palunggame",
-    "Ginime"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bokon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oyi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gurika"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Olume"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dura"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Langgalo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kuapur"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wadinalome"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Yilondum"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Palunggame"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Ginime"
+    }
   ]
 }

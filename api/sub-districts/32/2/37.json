@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pabuaran",
-    "Ciwalat",
-    "Sirnasari",
-    "Bantarsari",
-    "Sukajaya",
-    "Cibadak",
-    "Lembur Sawah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciwalat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sirnasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bantarsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lembur Sawah"
+    }
   ]
 }

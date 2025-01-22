@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Perlang",
-    "Batu Beriga",
-    "Lubuk Besar",
-    "Kulur",
-    "Lubuk Lingkuk",
-    "Lubuk Pabrik",
-    "Trubus",
-    "Kulur Ilir (Kulur Hilir)",
-    "Belimbing"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Perlang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Beriga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Besar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kulur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Lingkuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Pabrik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Trubus"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kulur Ilir (Kulur Hilir)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Belimbing"
+    }
   ]
 }

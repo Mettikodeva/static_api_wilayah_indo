@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lae Balno",
-    "Napagaluh (Napa Galuh)",
-    "Sikoran",
-    "Situbuh-Tubuh",
-    "Biskang",
-    "Sintuban Makmur (Situban Makmur)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lae Balno"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Napagaluh (Napa Galuh)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sikoran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Situbuh-Tubuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Biskang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sintuban Makmur (Situban Makmur)"
+    }
   ]
 }

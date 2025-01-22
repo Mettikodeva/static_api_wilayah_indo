@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Baler Bale Agung",
-    "Banjar Tengah",
-    "Lelateng",
-    "Loloan Barat",
-    "Cupel",
-    "Baluk",
-    "Banyu Biru (Banyubiru)",
-    "Kaliakah",
-    "Berangbang",
-    "Tegal Badeng Timur",
-    "Tegal Badeng Barat",
-    "Pengambengan"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Baler Bale Agung"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Banjar Tengah"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Lelateng"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Loloan Barat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cupel"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baluk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banyu Biru (Banyubiru)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaliakah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Berangbang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegal Badeng Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tegal Badeng Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pengambengan"
+    }
   ]
 }

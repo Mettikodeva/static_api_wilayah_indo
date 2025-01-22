@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Masaran",
-    "Kayu Bulan",
-    "Kota Baru",
-    "Penda Muntei",
-    "Tapen",
-    "Pujon",
-    "Marapit (Merapit)",
-    "Manis",
-    "Karukus",
-    "Bajuh",
-    "Barunang",
-    "Buhut Jaya",
-    "Hurung Pukung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Masaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kayu Bulan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Penda Muntei"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tapen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pujon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marapit (Merapit)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karukus"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bajuh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Barunang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Buhut Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Hurung Pukung"
+    }
   ]
 }

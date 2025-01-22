@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Angkola Barat",
-    "Batang Toru",
-    "Angkola Timur",
-    "Sipirok",
-    "Saipar Dolok Hole",
-    "Angkola Selatan",
-    "Batang Angkola",
-    "Arse",
-    "Marancar",
-    "Sayur Matinggi",
-    "Aek Bilah",
-    "Muara Batang Toru",
-    "Tano Tombangan Angkola",
-    "Angkola Sangkunur",
-    "Angkola Muara Tais"
+    {
+      "district_id": 1,
+      "kecamatan": "Angkola Barat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Batang Toru"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Angkola Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sipirok"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Saipar Dolok Hole"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Angkola Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Batang Angkola"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Arse"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Marancar"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sayur Matinggi"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Aek Bilah"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Muara Batang Toru"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Tano Tombangan Angkola"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Angkola Sangkunur"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Angkola Muara Tais"
+    }
   ]
 }

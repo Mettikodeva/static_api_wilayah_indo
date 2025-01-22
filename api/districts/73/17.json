@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Basse Sangtempe (Bassesang Tempe / Bastem)",
-    "Larompong",
-    "Suli",
-    "Bajo",
-    "Bua Ponrang (Bupon)",
-    "Walenrang",
-    "Belopa",
-    "Bua",
-    "Lamasi",
-    "Larompong Selatan",
-    "Ponrang",
-    "Latimojong",
-    "Kamanre",
-    "Belopa Utara",
-    "Walenrang Barat",
-    "Walenrang Utara",
-    "Walenrang Timur",
-    "Lamasi Timur",
-    "Suli Barat",
-    "Bajo Barat",
-    "Ponrang Selatan",
-    "Basse Sangtempe Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Basse Sangtempe (Bassesang Tempe / Bastem)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Larompong"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Suli"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bajo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bua Ponrang (Bupon)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Walenrang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Belopa"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bua"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lamasi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Larompong Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ponrang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Latimojong"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kamanre"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Belopa Utara"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Walenrang Barat"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Walenrang Utara"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Walenrang Timur"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Lamasi Timur"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Suli Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Bajo Barat"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Ponrang Selatan"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Basse Sangtempe Utara"
+    }
   ]
 }

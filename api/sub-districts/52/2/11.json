@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Montong Sapah",
-    "Ungga",
-    "Kabul",
-    "Pelambik",
-    "Darek",
-    "Ranggagata",
-    "Pandan Indah",
-    "Serage",
-    "Montong Ajan",
-    "Batu Jangkih",
-    "Teduh",
-    "Pandan Tinggang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Montong Sapah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ungga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kabul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelambik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Darek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ranggagata"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pandan Indah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Serage"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Montong Ajan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Jangkih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teduh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pandan Tinggang"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pamebut",
-    "Agenggen",
-    "Yugumuak",
-    "Wilewak",
-    "Lambera",
-    "Wobulo",
-    "Mugalolo",
-    "Manggame",
-    "Jerusalem",
-    "Wiyabubu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pamebut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Agenggen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yugumuak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wilewak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lambera"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wobulo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mugalolo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manggame"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jerusalem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wiyabubu"
+    }
   ]
 }

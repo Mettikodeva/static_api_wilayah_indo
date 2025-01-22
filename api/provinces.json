@@ -1,154 +1,156 @@
-[
-  {
-    "id": "11",
-    "name": "Aceh (NAD)"
-  },
-  {
-    "id": "12",
-    "name": "Sumatera Utara"
-  },
-  {
-    "id": "13",
-    "name": "Sumatera Barat"
-  },
-  {
-    "id": "14",
-    "name": "Riau"
-  },
-  {
-    "id": "15",
-    "name": "Jambi"
-  },
-  {
-    "id": "16",
-    "name": "Sumatera Selatan"
-  },
-  {
-    "id": "17",
-    "name": "Bengkulu"
-  },
-  {
-    "id": "18",
-    "name": "Lampung"
-  },
-  {
-    "id": "19",
-    "name": "Kepulauan Bangka Belitung"
-  },
-  {
-    "id": "21",
-    "name": "Kepulauan Riau"
-  },
-  {
-    "id": "31",
-    "name": "DKI Jakarta"
-  },
-  {
-    "id": "32",
-    "name": "Jawa Barat"
-  },
-  {
-    "id": "33",
-    "name": "Jawa Tengah"
-  },
-  {
-    "id": "34",
-    "name": "DI Yogyakarta"
-  },
-  {
-    "id": "35",
-    "name": "Jawa Timur"
-  },
-  {
-    "id": "36",
-    "name": "Banten"
-  },
-  {
-    "id": "51",
-    "name": "Bali"
-  },
-  {
-    "id": "52",
-    "name": "Nusa Tenggara Barat (NTB)"
-  },
-  {
-    "id": "53",
-    "name": "Nusa Tenggara Timur (NTT)"
-  },
-  {
-    "id": "61",
-    "name": "Kalimantan Barat"
-  },
-  {
-    "id": "62",
-    "name": "Kalimantan Tengah"
-  },
-  {
-    "id": "63",
-    "name": "Kalimantan Selatan"
-  },
-  {
-    "id": "64",
-    "name": "Kalimantan Timur"
-  },
-  {
-    "id": "65",
-    "name": "Kalimantan Utara"
-  },
-  {
-    "id": "71",
-    "name": "Sulawesi Utara"
-  },
-  {
-    "id": "72",
-    "name": "Sulawesi Tengah"
-  },
-  {
-    "id": "73",
-    "name": "Sulawesi Selatan"
-  },
-  {
-    "id": "74",
-    "name": "Sulawesi Tenggara"
-  },
-  {
-    "id": "75",
-    "name": "Gorontalo"
-  },
-  {
-    "id": "76",
-    "name": "Sulawesi Barat"
-  },
-  {
-    "id": "81",
-    "name": "Maluku"
-  },
-  {
-    "id": "82",
-    "name": "Maluku Utara"
-  },
-  {
-    "id": "91",
-    "name": "Papua"
-  },
-  {
-    "id": "92",
-    "name": "Papua Barat Daya"
-  },
-  {
-    "id": "92",
-    "name": "Papua Barat"
-  },
-  {
-    "id": "93",
-    "name": "Papua Selatan"
-  },
-  {
-    "id": "94",
-    "name": "Papua Tengah"
-  },
-  {
-    "id": "95",
-    "name": "Papua Pegunungan"
-  }
-]
+{
+  "provinces": [
+    {
+      "province_id": "11",
+      "provinsi": "Aceh (NAD)"
+    },
+    {
+      "province_id": "12",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "province_id": "13",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "province_id": "14",
+      "provinsi": "Riau"
+    },
+    {
+      "province_id": "15",
+      "provinsi": "Jambi"
+    },
+    {
+      "province_id": "16",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "province_id": "17",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "province_id": "18",
+      "provinsi": "Lampung"
+    },
+    {
+      "province_id": "19",
+      "provinsi": "Kepulauan Bangka Belitung"
+    },
+    {
+      "province_id": "21",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "province_id": "31",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "province_id": "32",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "province_id": "33",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "province_id": "34",
+      "provinsi": "DI Yogyakarta"
+    },
+    {
+      "province_id": "35",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "province_id": "36",
+      "provinsi": "Banten"
+    },
+    {
+      "province_id": "51",
+      "provinsi": "Bali"
+    },
+    {
+      "province_id": "52",
+      "provinsi": "Nusa Tenggara Barat (NTB)"
+    },
+    {
+      "province_id": "53",
+      "provinsi": "Nusa Tenggara Timur (NTT)"
+    },
+    {
+      "province_id": "61",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "province_id": "62",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "province_id": "63",
+      "provinsi": "Kalimantan Selatan"
+    },
+    {
+      "province_id": "64",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "province_id": "65",
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "province_id": "71",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "province_id": "72",
+      "provinsi": "Sulawesi Tengah"
+    },
+    {
+      "province_id": "73",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "province_id": "74",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "province_id": "75",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "province_id": "76",
+      "provinsi": "Sulawesi Barat"
+    },
+    {
+      "province_id": "81",
+      "provinsi": "Maluku"
+    },
+    {
+      "province_id": "82",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "province_id": "91",
+      "provinsi": "Papua"
+    },
+    {
+      "province_id": "92",
+      "provinsi": "Papua Barat Daya"
+    },
+    {
+      "province_id": "92",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "province_id": "93",
+      "provinsi": "Papua Selatan"
+    },
+    {
+      "province_id": "94",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "province_id": "95",
+      "provinsi": "Papua Pegunungan"
+    }
+  ]
+}

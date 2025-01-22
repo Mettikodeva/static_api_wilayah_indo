@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Enok",
-    "Pusaran",
-    "Telukmedan (Teluk Medan)",
-    "Pantaiseberang Makmur (Pantai Seberang Makmur)",
-    "Pengalihan",
-    "Sungaiambat (Sungai Ambat)",
-    "Simpang Tiga",
-    "Rantau Panjang",
-    "Sungairukam (Sungai Rukam)",
-    "Bagan Jaya",
-    "Suhada",
-    "Jaya Bhakti",
-    "Sungailokan (Sungai Lokan)",
-    "Simpang Tiga Daratan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Enok"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pusaran"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Telukmedan (Teluk Medan)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pantaiseberang Makmur (Pantai Seberang Makmur)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pengalihan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaiambat (Sungai Ambat)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungairukam (Sungai Rukam)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bagan Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suhada"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jaya Bhakti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungailokan (Sungai Lokan)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Simpang Tiga Daratan"
+    }
   ]
 }

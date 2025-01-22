@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Nagarawangi",
-    "Cibunar",
-    "Pangadegan",
-    "Sukahayu",
-    "Sukamaju",
-    "Pamekaran",
-    "Rancakalong",
-    "Sukasirnarasa",
-    "Cibungur",
-    "Pasirbiru (Pasir Biru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nagarawangi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibunar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangadegan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukahayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pamekaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rancakalong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukasirnarasa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cibungur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasirbiru (Pasir Biru)"
+    }
   ]
 }

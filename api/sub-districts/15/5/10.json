@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bukit Subur",
-    "Tri Jaya (Trijaya)",
-    "Mekar Jaya",
-    "Ujung Tanjung",
-    "Tanjung Baru",
-    "Tanjung Mulia (Tanjungmulya)",
-    "Adipura Kencana",
-    "Bukit Jaya",
-    "Tanjung Sari",
-    "Tanjung Lebar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukit Subur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tri Jaya (Trijaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ujung Tanjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Mulia (Tanjungmulya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Adipura Kencana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Lebar"
+    }
   ]
 }

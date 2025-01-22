@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tambangan",
-    "Jaho",
-    "Singgalang",
-    "Paninjauan",
-    "Panyalaian",
-    "Koto Laweh",
-    "Aie Angek (Aia/Air Angek)",
-    "Pandai Sikek",
-    "Koto Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jaho"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Singgalang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paninjauan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panyalaian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koto Laweh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aie Angek (Aia/Air Angek)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pandai Sikek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Koto Baru"
+    }
   ]
 }

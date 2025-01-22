@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Batununggal",
-    "Wates",
-    "Mengger",
-    "Kujangsari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batununggal"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mengger"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kujangsari"
+    }
   ]
 }

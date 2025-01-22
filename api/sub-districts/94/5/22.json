@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Jiwot",
-    "Gunaluk",
-    "Kugiame",
-    "Wuyunggame",
-    "Deogi",
-    "Jugumi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jiwot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunaluk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kugiame"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wuyunggame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Deogi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jugumi"
+    }
   ]
 }

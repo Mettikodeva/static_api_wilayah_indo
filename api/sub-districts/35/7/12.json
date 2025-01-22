@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Ternyang",
-    "Senggreng",
-    "Sambigede",
-    "Ngebrug (Ngebruk)",
-    "Jatiguwi",
-    "Sumberpucung",
-    "Karangkates"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ternyang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Senggreng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sambigede"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngebrug (Ngebruk)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatiguwi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberpucung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangkates"
+    }
   ]
 }

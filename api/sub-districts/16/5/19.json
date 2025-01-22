@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sumber Harta",
-    "Sumber Jaya",
-    "Sukamaju",
-    "Jamburejo",
-    "Sumber Sari",
-    "Suka Mulya (Sukamulya)",
-    "Sukajaya",
-    "Madang",
-    "Sukarami Jaya",
-    "Sumber Asri"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sumber Harta"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jamburejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Mulya (Sukamulya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Madang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukarami Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber Asri"
+    }
   ]
 }

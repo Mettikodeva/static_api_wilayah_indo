@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanah Kuning",
-    "Mangkupadi",
-    "Sajau",
-    "Wonomulyo (Wono Mulyo)",
-    "Tanjung Agung",
-    "Binai",
-    "Sajau Hilir (Sajau Timur)",
-    "Pura Sajau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanah Kuning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangkupadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sajau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonomulyo (Wono Mulyo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Binai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sajau Hilir (Sajau Timur)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pura Sajau"
+    }
   ]
 }

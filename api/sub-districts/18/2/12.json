@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gaya Baru VI (Gaya Baru Enam)",
-    "Sumber Katon",
-    "Srikaton (Sri Katon)",
-    "Gaya Baru VII (Gaya Baru Tujuh)",
-    "Gaya Baru IV (Gaya Baru Empat)",
-    "Gaya Baru III (Gaya Baru Tiga)",
-    "Gaya Baru II (Gaya Baru Dua)",
-    "Gaya Baru VIII (Gaya Baru Delapan)",
-    "Gaya Baru I (Gaya Baru Satu)",
-    "Mataram Ilir",
-    "Rawa Betik",
-    "Srimulya Jaya (Sri Mulya Jaya)",
-    "Kenanga Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gaya Baru VI (Gaya Baru Enam)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Katon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Srikaton (Sri Katon)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gaya Baru VII (Gaya Baru Tujuh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gaya Baru IV (Gaya Baru Empat)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gaya Baru III (Gaya Baru Tiga)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gaya Baru II (Gaya Baru Dua)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gaya Baru VIII (Gaya Baru Delapan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gaya Baru I (Gaya Baru Satu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mataram Ilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rawa Betik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Srimulya Jaya (Sri Mulya Jaya)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kenanga Sari"
+    }
   ]
 }

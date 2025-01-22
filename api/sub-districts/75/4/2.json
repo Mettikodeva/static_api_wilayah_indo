@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lemito",
-    "Wonggarasi Barat",
-    "Lomuli",
-    "Lemito Utara",
-    "Kenari",
-    "Wonggarasi Tengah",
-    "Suka Damai",
-    "Babalonge"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lemito"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonggarasi Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lomuli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lemito Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kenari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonggarasi Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Babalonge"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bondo Boghila",
-    "Lete Konda",
-    "Karuni",
-    "Totok",
-    "Rama Dana",
-    "Wee Mananda",
-    "Pogo Tena",
-    "Payola Umbu",
-    "Wee Kambala",
-    "Loko Kalada",
-    "Lete Konda Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bondo Boghila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lete Konda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karuni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Totok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rama Dana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wee Mananda"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pogo Tena"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Payola Umbu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wee Kambala"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Loko Kalada"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lete Konda Selatan"
+    }
   ]
 }

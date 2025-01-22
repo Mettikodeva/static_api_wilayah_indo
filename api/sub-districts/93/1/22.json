@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kawe",
-    "Wetau",
-    "Pembri",
-    "Sibenda",
-    "Wantarma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kawe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wetau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pembri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sibenda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wantarma"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Long Nawang",
-    "Nawang Baru",
-    "Long Temunyat/Temuyat",
-    "Long Betaoh",
-    "Long Payau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Nawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nawang Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Temunyat/Temuyat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Long Betaoh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Long Payau"
+    }
   ]
 }

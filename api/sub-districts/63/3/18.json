@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Rantau Bujur",
-    "Lok Tanah (Loktanah)",
-    "Telaga Baru",
-    "Rampah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantau Bujur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lok Tanah (Loktanah)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telaga Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rampah"
+    }
   ]
 }

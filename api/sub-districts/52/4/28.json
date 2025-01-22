@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Senawang",
-    "Kelawis",
-    "Mungkin",
-    "Sebeok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Senawang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kelawis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mungkin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sebeok"
+    }
   ]
 }

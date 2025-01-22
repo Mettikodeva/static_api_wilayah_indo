@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bunga Melur",
-    "Karang Dapo",
-    "Lubuk Gung",
-    "Gunung Tiga",
-    "Suka Merindu",
-    "Mentiring",
-    "Cahaya Batin",
-    "Awat Mata",
-    "Nusuk",
-    "Tanjung Harapan",
-    "Gunung Tiga II",
-    "Padang Panjang",
-    "Masria Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunga Melur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Dapo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Gung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Tiga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Merindu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mentiring"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cahaya Batin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Awat Mata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nusuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Tiga II"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang Panjang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Masria Baru"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sidanga",
-    "Lata Lata",
-    "Sengga Baru",
-    "Arumamang",
-    "Palamea",
-    "Doko (Doku)",
-    "Bisori",
-    "Marikapal",
-    "Kukupang (Kakupang)",
-    "Imbu Imbu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidanga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lata Lata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sengga Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arumamang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Palamea"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Doko (Doku)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bisori"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Marikapal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kukupang (Kakupang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Imbu Imbu"
+    }
   ]
 }

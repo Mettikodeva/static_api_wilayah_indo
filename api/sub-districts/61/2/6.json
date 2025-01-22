@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Toho Hilir (Toho Ilir)",
-    "Pak Laheng",
-    "Kecurit",
-    "Terap",
-    "Sepang",
-    "Pak Utan (Pakutan)",
-    "Benuang",
-    "Sambora (Sembora / Samboro)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Toho Hilir (Toho Ilir)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pak Laheng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kecurit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Terap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sepang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pak Utan (Pakutan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Benuang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sambora (Sembora / Samboro)"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Santian",
-    "Poli",
-    "Manufui",
-    "Nenotes",
-    "Naifatu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Santian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Poli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manufui"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nenotes"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naifatu"
+    }
   ]
 }

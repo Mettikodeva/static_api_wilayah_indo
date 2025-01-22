@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Ababi",
-    "Tiying Tali (Tiyingtali)",
-    "Bunutan",
-    "Tista",
-    "Abang",
-    "Pidpid",
-    "Datah",
-    "Culik",
-    "Purwakerti",
-    "Kerta Mandala",
-    "Labasari (Laba Sari)",
-    "Nawa Kerti (Nawakerti)",
-    "Kesimpar",
-    "Tribuana (Tri Buana)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ababi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tiying Tali (Tiyingtali)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bunutan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tista"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Abang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pidpid"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Datah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Culik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwakerti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kerta Mandala"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Labasari (Laba Sari)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nawa Kerti (Nawakerti)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kesimpar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tribuana (Tri Buana)"
+    }
   ]
 }

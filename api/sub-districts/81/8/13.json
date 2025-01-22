@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Nabar",
-    "Elsulith",
-    "Naumatang",
-    "Lurang",
-    "Uhak",
-    "Eray"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nabar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Elsulith"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Naumatang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lurang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uhak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Eray"
+    }
   ]
 }

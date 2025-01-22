@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Toapaya Asri",
-    "Toapaya",
-    "Toapaya Utara",
-    "Toapaya Selatan"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Toapaya Asri"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Toapaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toapaya Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toapaya Selatan"
+    }
   ]
 }

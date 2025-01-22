@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tano Bato",
-    "Aek Ngali",
-    "Hutarimbaru",
-    "Hayuraja",
-    "Huta Julu",
-    "Kayu Laut",
-    "Lumban Dolok",
-    "Roburan Dolok",
-    "Roburan Lombang",
-    "Huta Raja",
-    "Pagaran Gala-Gala"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tano Bato"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aek Ngali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hutarimbaru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hayuraja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Huta Julu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kayu Laut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lumban Dolok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Roburan Dolok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Roburan Lombang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Huta Raja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pagaran Gala-Gala"
+    }
   ]
 }

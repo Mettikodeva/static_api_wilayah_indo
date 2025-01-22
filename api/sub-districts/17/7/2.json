@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukau Kayo (Suka Kayo)",
-    "Tik Tebing (Atas Tebing)",
-    "Tabeak Blau",
-    "Tabeak Blau I",
-    "Daneo / Daneu / Danau",
-    "Blau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukau Kayo (Suka Kayo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tik Tebing (Atas Tebing)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabeak Blau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tabeak Blau I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Daneo / Daneu / Danau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Blau"
+    }
   ]
 }

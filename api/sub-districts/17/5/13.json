@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pagar",
-    "Muara Simpur",
-    "Pagar Agung",
-    "Pagar Banyu",
-    "Sipur/Simpur Ijang",
-    "Air Keruh",
-    "Hargo Binangun",
-    "Mekar Jaya",
-    "Giri Nanto",
-    "Banyu Kencana",
-    "Muara Nibung",
-    "Tanjung Agung",
-    "Giri Mulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Simpur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagar Banyu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sipur/Simpur Ijang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Keruh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hargo Binangun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Giri Nanto"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banyu Kencana"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Nibung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Giri Mulya"
+    }
   ]
 }

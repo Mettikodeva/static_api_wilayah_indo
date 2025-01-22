@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sungai Berbari",
-    "Sungai Limau",
-    "Dosan",
-    "Benayah",
-    "Pebadaran",
-    "Dusun Pusaka",
-    "Perincit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Berbari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Limau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dosan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Benayah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pebadaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dusun Pusaka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Perincit"
+    }
   ]
 }

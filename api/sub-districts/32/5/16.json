@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Caringin",
-    "Cintamanik",
-    "Cinta",
-    "Sindanggalih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cintamanik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cinta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindanggalih"
+    }
   ]
 }

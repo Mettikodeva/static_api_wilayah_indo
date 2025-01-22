@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Laham",
-    "Long Gelawang",
-    "Muara Ratah",
-    "Danum Paroy",
-    "Nyaribungan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Laham"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Gelawang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Ratah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Danum Paroy"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nyaribungan"
+    }
   ]
 }

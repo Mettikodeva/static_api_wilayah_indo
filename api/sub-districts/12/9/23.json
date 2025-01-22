@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Alam",
-    "Perkebunan Sei Dadap I/II",
-    "Perkebunan Sei Dadap III/IV",
-    "Sei Kamah I",
-    "Sei Kamah II",
-    "Bahung Sibatu-Batu",
-    "Sei Alim Hasak",
-    "Tanjung Asri",
-    "Sei Kamah Baru",
-    "Pasiran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Alam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perkebunan Sei Dadap I/II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Sei Dadap III/IV"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Kamah I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Kamah II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bahung Sibatu-Batu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei Alim Hasak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Asri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei Kamah Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasiran"
+    }
   ]
 }

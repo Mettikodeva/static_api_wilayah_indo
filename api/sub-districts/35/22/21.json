@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kedungsumber",
-    "Kedungsari",
-    "Papringan",
-    "Soko",
-    "Pandantoyo",
-    "Belun",
-    "Temayang",
-    "Bakulan",
-    "Jono",
-    "Ngujung",
-    "Buntalan",
-    "Pancur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungsumber"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Papringan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Soko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pandantoyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Temayang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakulan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jono"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngujung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Buntalan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pancur"
+    }
   ]
 }

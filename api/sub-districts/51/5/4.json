@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Paksebali",
-    "Sampalan Tengah",
-    "Sampalan Kelod (Sampalan Klod)",
-    "Sulang",
-    "Gunaksa",
-    "Kusamba",
-    "Kampung Kusamba",
-    "Pesinggahan",
-    "Dawan Kelod (Dawan Klod)",
-    "Pikat",
-    "Dawan Kaler",
-    "Besan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paksebali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sampalan Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sampalan Kelod (Sampalan Klod)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sulang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunaksa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kusamba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Kusamba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pesinggahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dawan Kelod (Dawan Klod)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pikat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dawan Kaler"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Besan"
+    }
   ]
 }

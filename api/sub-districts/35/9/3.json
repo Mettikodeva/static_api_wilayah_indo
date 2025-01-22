@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jamintoro",
-    "Jatiroto",
-    "Kaliglagah",
-    "Jambesari",
-    "Yosorati",
-    "Sumberagung (Sumber Agung)",
-    "Gelang",
-    "Rowotengah (Rowo Tengah)",
-    "Pringgowirawan",
-    "Karangbayat (Karang Bayat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jamintoro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatiroto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaliglagah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jambesari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yosorati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gelang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rowotengah (Rowo Tengah)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pringgowirawan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangbayat (Karang Bayat)"
+    }
   ]
 }

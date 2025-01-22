@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bongkaran",
-    "Nyamplungan",
-    "Krembangan Utara",
-    "Tanjung Perak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bongkaran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nyamplungan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Krembangan Utara"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjung Perak"
+    }
   ]
 }

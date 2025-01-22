@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tarau",
-    "Serui Kota",
-    "Serui Jaya",
-    "Serui Laut",
-    "Banawa",
-    "Turu",
-    "Pasir Hitam",
-    "Pasir Putih",
-    "Manaini",
-    "Imandoa",
-    "Barawaikap",
-    "Bawai",
-    "Nundawipi"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tarau"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Serui Kota"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Serui Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Serui Laut"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banawa"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Turu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pasir Hitam"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Manaini"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Imandoa"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Barawaikap"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Bawai"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Nundawipi"
+    }
   ]
 }

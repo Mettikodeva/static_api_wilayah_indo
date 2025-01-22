@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pucanglaban",
-    "Kalidawe",
-    "Panggungkalak",
-    "Kaligentong",
-    "Sumberbendo",
-    "Manding",
-    "Panggunguni",
-    "Sumberdadap",
-    "Demuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pucanglaban"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalidawe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panggungkalak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaligentong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumberbendo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manding"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panggunguni"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumberdadap"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Demuk"
+    }
   ]
 }

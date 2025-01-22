@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tepa",
-    "Imroing",
-    "Tela",
-    "Yaltubung",
-    "Wanuwui (Manuwui)",
-    "Letsiara",
-    "Lewah",
-    "Hertuti",
-    "Sinairusi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tepa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Imroing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tela"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yaltubung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wanuwui (Manuwui)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Letsiara"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lewah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hertuti"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sinairusi"
+    }
   ]
 }

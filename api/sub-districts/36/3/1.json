@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Balaraja",
-    "Cangkudu",
-    "Talagasari",
-    "Tobat",
-    "Sentul",
-    "Gembong",
-    "Sukamurni (Suka Murni)",
-    "Saga",
-    "Sentul Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Balaraja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cangkudu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talagasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tobat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gembong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukamurni (Suka Murni)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Saga"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sentul Jaya"
+    }
   ]
 }

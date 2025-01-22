@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Salumokanan",
-    "Salumokanan Barat",
-    "Buangin",
-    "Bambang Buda",
-    "Leko",
-    "Kirak",
-    "Salumokanan Utara",
-    "Sampale"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salumokanan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salumokanan Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buangin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bambang Buda"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Leko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kirak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salumokanan Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sampale"
+    }
   ]
 }

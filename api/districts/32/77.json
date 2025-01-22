@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Cimahi Selatan",
-    "Cimahi Tengah",
-    "Cimahi Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Cimahi Selatan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Cimahi Tengah"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Cimahi Utara"
+    }
   ]
 }

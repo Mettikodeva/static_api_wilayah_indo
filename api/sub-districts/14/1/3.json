@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Tambang",
-    "Kuapan",
-    "Gobah",
-    "Teluk Kenidai",
-    "Aursati",
-    "Padang Luas",
-    "Terantang",
-    "Kualu",
-    "Rimba/Rimbo Panjang",
-    "Parit Baru",
-    "Kemang Indah",
-    "Kualu Nenas",
-    "Tarai Bangun",
-    "Sei/Sungai Pinang",
-    "Balam Jaya",
-    "Pulaupermai (Pulau Permai)",
-    "Palungraya (Palung Raya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gobah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Kenidai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aursati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padang Luas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terantang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kualu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rimba/Rimbo Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Parit Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kemang Indah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kualu Nenas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tarai Bangun"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sei/Sungai Pinang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Balam Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pulaupermai (Pulau Permai)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Palungraya (Palung Raya)"
+    }
   ]
 }

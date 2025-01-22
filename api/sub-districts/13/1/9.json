@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Punggasan",
-    "Air Haji",
-    "Punggasan Utara",
-    "Punggasan Timur",
-    "Padang XI Punggasan",
-    "Lagan Mudik Punggasan",
-    "Lagan Hilir Punggasan",
-    "Air Haji Tenggara",
-    "Pasar Lama Muara Air Haji",
-    "Pasar Bukit Air Haji",
-    "Air Haji Barat",
-    "Air Haji Tengah",
-    "Rantau Simalenang Air Haji",
-    "Muara Gadang Air Haji (Muaragadang Air Haji)",
-    "Sungai Sirah Air Haji (Sungaisirah Air Haji)",
-    "Muara Kandis Punggasan (Muarakandis Punggasan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Punggasan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Haji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Punggasan Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Punggasan Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang XI Punggasan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lagan Mudik Punggasan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lagan Hilir Punggasan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Haji Tenggara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasar Lama Muara Air Haji"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasar Bukit Air Haji"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Air Haji Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Air Haji Tengah"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rantau Simalenang Air Haji"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muara Gadang Air Haji (Muaragadang Air Haji)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungai Sirah Air Haji (Sungaisirah Air Haji)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Muara Kandis Punggasan (Muarakandis Punggasan)"
+    }
   ]
 }

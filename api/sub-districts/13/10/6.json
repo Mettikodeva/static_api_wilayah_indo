@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Timpeh",
-    "Taratak Tinggi",
-    "Tabek (Penyebrangan)",
-    "Panyubarangan (Panyuberangan)",
-    "Ranah Palabi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Timpeh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taratak Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tabek (Penyebrangan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panyubarangan (Panyuberangan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ranah Palabi"
+    }
   ]
 }

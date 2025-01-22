@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cipocok Jaya",
-    "Karundang",
-    "Panancangan",
-    "Banjar Agung (Banjaragung)",
-    "Banjarsari",
-    "Tembong",
-    "Dalung",
-    "Gelam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cipocok Jaya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Karundang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Panancangan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Banjar Agung (Banjaragung)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tembong"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dalung"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gelam"
+    }
   ]
 }

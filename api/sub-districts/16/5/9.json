@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasar Muara Beliti",
-    "Pedang (Dusun Pedang)",
-    "Muara Beliti Baru",
-    "Mana Resmi",
-    "Bumi Agung",
-    "Suro (Dusun Suro)",
-    "Tanah Periuk (Tanah Periuk I)",
-    "Ketuan Jaya",
-    "Air Satan",
-    "Durian Remuk",
-    "Satan Indah Jaya",
-    "Air Lesing"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasar Muara Beliti"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pedang (Dusun Pedang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Beliti Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mana Resmi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Agung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suro (Dusun Suro)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanah Periuk (Tanah Periuk I)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ketuan Jaya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Air Satan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Durian Remuk"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Satan Indah Jaya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Air Lesing"
+    }
   ]
 }

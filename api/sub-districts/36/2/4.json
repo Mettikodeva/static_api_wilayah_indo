@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Cipanas",
-    "Girilaya",
-    "Malangsari",
-    "Bintangresmi",
-    "Talagahiang/Talagahiyang",
-    "Luhurjaya",
-    "Haurgajrug",
-    "Giriharja",
-    "Sukasari",
-    "Jayapura",
-    "Sipayung",
-    "Bintangsari",
-    "Pasirhaur",
-    "Harumsari"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cipanas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Girilaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bintangresmi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talagahiang/Talagahiyang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Luhurjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Haurgajrug"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Giriharja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jayapura"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sipayung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bintangsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pasirhaur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Harumsari"
+    }
   ]
 }

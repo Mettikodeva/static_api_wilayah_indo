@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Wondenggobak",
-    "Jiginikime",
-    "Puncak Senyum",
-    "Anggutari",
-    "Wunagelo",
-    "Dondo",
-    "Tanoba",
-    "Niruwi",
-    "Yalikambi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wondenggobak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jiginikime"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puncak Senyum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Anggutari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wunagelo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dondo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanoba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Niruwi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yalikambi"
+    }
   ]
 }

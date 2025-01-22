@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sendangtirto (Sendang Tirto)",
-    "Tegaltirto (Tegal Tirto)",
-    "Kalitirto (Kali Tirto)",
-    "Jogotirto (Jogo Tirto)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sendangtirto (Sendang Tirto)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tegaltirto (Tegal Tirto)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalitirto (Kali Tirto)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jogotirto (Jogo Tirto)"
+    }
   ]
 }

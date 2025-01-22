@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Paniai Timur",
-    "Paniai Barat",
-    "Aradide",
-    "Bogabaida",
-    "Bibida",
-    "Dumadama",
-    "Siriwo",
-    "Kebo",
-    "Yatamo",
-    "Ekadide",
-    "Wegee Muka",
-    "Wegee Bino",
-    "Pugo Dagi",
-    "Muye",
-    "Nakama",
-    "Teluk Deya",
-    "Yagai",
-    "Youtadi",
-    "Baya Biru",
-    "Deiyai Miyo",
-    "Dogomo",
-    "Aweida",
-    "Topiyai",
-    "Fajar Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Paniai Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Paniai Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Aradide"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bogabaida"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bibida"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Dumadama"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Siriwo"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kebo"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Yatamo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ekadide"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wegee Muka"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Wegee Bino"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pugo Dagi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Muye"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Nakama"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Teluk Deya"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Yagai"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Youtadi"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Baya Biru"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Deiyai Miyo"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Dogomo"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Aweida"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Topiyai"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Fajar Timur"
+    }
   ]
 }

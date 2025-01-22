@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mataru Selatan",
-    "Mataru Utara",
-    "Lakatuli",
-    "Mataru Timur",
-    "Kamaifui",
-    "Mataru Barat",
-    "Taman Mataru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mataru Selatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mataru Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lakatuli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mataru Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kamaifui"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mataru Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taman Mataru"
+    }
   ]
 }

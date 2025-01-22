@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Taraju",
-    "Cikubang",
-    "Deudeul",
-    "Purwarahayu",
-    "Singasari",
-    "Banyuasih",
-    "Raksasari",
-    "Kertaraharja",
-    "Pageralam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taraju"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikubang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deudeul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwarahayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Singasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banyuasih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Raksasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kertaraharja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pageralam"
+    }
   ]
 }

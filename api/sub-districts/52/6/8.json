@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Dori Dungga",
-    "Kala",
-    "O'o",
-    "Mbawa",
-    "Palama",
-    "Rora",
-    "Mpili",
-    "Bumi Pajo",
-    "Ndano Na'e"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dori Dungga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "O'o"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mbawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rora"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mpili"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bumi Pajo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ndano Na'e"
+    }
   ]
 }

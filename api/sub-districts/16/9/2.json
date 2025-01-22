@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tanjung Bulan",
-    "Pulau Beringin",
-    "Aromantai",
-    "Tanjung Kari",
-    "Simpang Pancur",
-    "Pagar Agung",
-    "Gunung Batu",
-    "Kemu",
-    "Anugerah Kemu",
-    "Kemu Ulu",
-    "Pematang Obar",
-    "Tanjung Bulan Ulu",
-    "Pulau Beringin Utara"
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Bulan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulau Beringin"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Aromantai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjung Kari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Simpang Pancur"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gunung Batu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kemu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Anugerah Kemu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kemu Ulu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pematang Obar"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanjung Bulan Ulu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pulau Beringin Utara"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bone Tondo",
-    "Bhone Kainsetala (Bone Kancitala)",
-    "Bone Lolibu",
-    "Oelongko",
-    "Matombura"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bone Tondo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bhone Kainsetala (Bone Kancitala)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bone Lolibu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Oelongko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Matombura"
+    }
   ]
 }

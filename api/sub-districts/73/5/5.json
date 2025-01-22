@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bonto Kanang (Bontokanang)",
-    "Bontomarannu (Bonto Marannu)",
-    "Mangindara",
-    "Bontokassi (Bonto Kassi)",
-    "Bentang",
-    "Barangmamase (Baramamase)",
-    "Sawakong",
-    "Popo",
-    "Tarowang",
-    "Kalukubodo",
-    "Kadatong",
-    "Kale Bentang (Kale Bentan)",
-    "Kanaeng"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bonto Kanang (Bontokanang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bontomarannu (Bonto Marannu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mangindara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bontokassi (Bonto Kassi)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bentang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Barangmamase (Baramamase)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sawakong"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Popo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tarowang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kalukubodo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kadatong"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kale Bentang (Kale Bentan)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kanaeng"
+    }
   ]
 }

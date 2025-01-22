@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Koto Baru (Kota Baru)",
-    "Koto Limau Manis",
-    "Kampung Tengah",
-    "Dujung Sakti",
-    "Permai Indah",
-    "Srimenanti (Baru Sri Menanti)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Baru (Kota Baru)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Limau Manis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dujung Sakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Permai Indah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Srimenanti (Baru Sri Menanti)"
+    }
   ]
 }

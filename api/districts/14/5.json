@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Ukui",
-    "Pangkalan Kerinci",
-    "Pangkalan Kuras",
-    "Pangkalan Lesung",
-    "Langgam",
-    "Pelalawan",
-    "Kerumutan",
-    "Bunut",
-    "Teluk Meranti",
-    "Kuala Kampar",
-    "Bandar Sei Kijang",
-    "Bandar Petalangan"
+    {
+      "district_id": 1,
+      "kecamatan": "Ukui"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pangkalan Kerinci"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pangkalan Kuras"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pangkalan Lesung"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Langgam"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pelalawan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kerumutan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bunut"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Teluk Meranti"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kuala Kampar"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bandar Sei Kijang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bandar Petalangan"
+    }
   ]
 }

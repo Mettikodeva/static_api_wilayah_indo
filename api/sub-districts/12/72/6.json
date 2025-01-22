@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sumber Jaya",
-    "Tambun Nabolon",
-    "Naga Pita",
-    "Pondok Sayur",
-    "Tanjung Tongah",
-    "Naga Pitu",
-    "Tanjung Pinggir"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tambun Nabolon"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Naga Pita"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pondok Sayur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tanjung Tongah"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Naga Pitu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tanjung Pinggir"
+    }
   ]
 }

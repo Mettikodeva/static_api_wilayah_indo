@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Pakis",
-    "Sobo",
-    "Kebalenan",
-    "Penganjuran",
-    "Tukangkayu",
-    "Kertosari",
-    "Karangrejo",
-    "Kepatihan",
-    "Panderejo",
-    "Singonegaran",
-    "Temenggungan",
-    "Kampungmelayu (Kampung Melayu)",
-    "Kampungmandar (Kampung Mandar)",
-    "Lateng",
-    "Singotrunan",
-    "Pengantigan",
-    "Tamanbaru",
-    "Sumberrejo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pakis"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sobo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kebalenan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Penganjuran"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tukangkayu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kertosari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Panderejo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Singonegaran"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Temenggungan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kampungmelayu (Kampung Melayu)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kampungmandar (Kampung Mandar)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Lateng"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Singotrunan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Pengantigan"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tamanbaru"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Sumberrejo"
+    }
   ]
 }

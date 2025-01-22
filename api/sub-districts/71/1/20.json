@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Mariri Lama",
-    "Mariri Baru",
-    "Nonapan II (Nonapan Dua)",
-    "Nonapan I (Nonapan Satu)",
-    "Wineru",
-    "Gogaluman",
-    "Poigar I (Poigar)",
-    "Nanasi",
-    "Pomoman",
-    "Tiberias",
-    "Mondatong",
-    "Poigar II",
-    "Poigar III",
-    "Mariri Dua (II)",
-    "Mariri Satu (I)",
-    "Nonapan Baru",
-    "Nanasi Timur",
-    "Nonapan",
-    "Tanjung Mariri",
-    "Mondatong Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mariri Lama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mariri Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nonapan II (Nonapan Dua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nonapan I (Nonapan Satu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wineru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gogaluman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Poigar I (Poigar)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nanasi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pomoman"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tiberias"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mondatong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Poigar II"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Poigar III"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mariri Dua (II)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mariri Satu (I)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nonapan Baru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Nanasi Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nonapan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanjung Mariri"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mondatong Baru"
+    }
   ]
 }

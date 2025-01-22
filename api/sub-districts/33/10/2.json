@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Gentan",
-    "Karangturi",
-    "Jogoprayan",
-    "Kragilan",
-    "Ngandong",
-    "Kerten",
-    "Katekan",
-    "Sawit",
-    "Muruh",
-    "Mutihan",
-    "Baturan",
-    "Mlese",
-    "Gesikan",
-    "Jabung",
-    "Towangsan",
-    "Ceporan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gentan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangturi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jogoprayan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kragilan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngandong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kerten"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Katekan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sawit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muruh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mutihan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baturan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mlese"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gesikan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jabung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Towangsan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ceporan"
+    }
   ]
 }

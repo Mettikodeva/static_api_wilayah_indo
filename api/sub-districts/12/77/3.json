@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Batunadua Jae",
-    "Batunadua Julu",
-    "Purwodadi",
-    "Gunung Hasahatan",
-    "Ujunggurap (Ujung Gurab)",
-    "Aek Tuhul",
-    "Baruas",
-    "Siloting",
-    "Aek Bayur",
-    "Pudun Jae",
-    "Pudun Julu",
-    "Batang Bahal",
-    "Aek Najaji",
-    "Simirik",
-    "Bargottopong (Bargot Topong)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batunadua Jae"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Batunadua Julu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Hasahatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ujunggurap (Ujung Gurab)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aek Tuhul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baruas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siloting"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aek Bayur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pudun Jae"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pudun Julu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batang Bahal"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Aek Najaji"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Simirik"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bargottopong (Bargot Topong)"
+    }
   ]
 }

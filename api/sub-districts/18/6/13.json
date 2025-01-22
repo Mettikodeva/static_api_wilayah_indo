@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kebumen",
-    "Sidomulyo",
-    "Sumber Rejo",
-    "Tegal Binangun",
-    "Argopeni",
-    "Margodadi",
-    "Margoyoso",
-    "Dadapan",
-    "Simpang Kanan",
-    "Wonoharjo",
-    "Sumber Mulyo",
-    "Argomulyo",
-    "Sidorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebumen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegal Binangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Argopeni"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margoyoso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dadapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Kanan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonoharjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Mulyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Argomulyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sidorejo"
+    }
   ]
 }

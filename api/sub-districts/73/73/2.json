@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Batupasi",
-    "Sabbang Paru (Sabbamparu / Saabbang Baru)",
-    "Salobulo",
-    "Penggoli",
-    "Luminda",
-    "Pattene (Patte'ne)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Batupasi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sabbang Paru (Sabbamparu / Saabbang Baru)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Salobulo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Penggoli"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Luminda"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pattene (Patte'ne)"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tambahan",
-    "Kuta Tengah",
-    "Lae Nuaha",
-    "Sungai Raya",
-    "Gunung Meriah",
-    "Silumboyah",
-    "Pandan",
-    "Tualang",
-    "Pangaribuan",
-    "Sigambir Gambir",
-    "Bakal Julu",
-    "Sipoltong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuta Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lae Nuaha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Meriah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silumboyah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pandan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tualang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangaribuan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sigambir Gambir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bakal Julu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sipoltong"
+    }
   ]
 }

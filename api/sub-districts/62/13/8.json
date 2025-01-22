@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Puri",
-    "Lenggang",
-    "Batuah",
-    "Unsum",
-    "Baruyan",
-    "Turan Amis",
-    "Malintut (Malintot)",
-    "Tangkum",
-    "Sibung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lenggang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batuah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Unsum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baruyan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Turan Amis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malintut (Malintot)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tangkum"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sibung"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Mebba",
-    "Menia",
-    "Raeloro",
-    "Naawawi",
-    "Teriwu",
-    "Raenalulu",
-    "Raedewa",
-    "Ledeana",
-    "Depe",
-    "Raemude",
-    "Raekore",
-    "Raenyale",
-    "Raemadia",
-    "Delo",
-    "Roboaba",
-    "Djadu",
-    "Ledekepaka",
-    "Titinalede"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mebba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Menia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raeloro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Naawawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teriwu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Raenalulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Raedewa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ledeana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Depe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Raemude"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Raekore"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Raenyale"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Raemadia"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Delo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Roboaba"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Djadu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ledekepaka"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Titinalede"
+    }
   ]
 }

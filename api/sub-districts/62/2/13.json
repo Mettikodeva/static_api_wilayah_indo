@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pundu",
-    "Keruing",
-    "Parit",
-    "Pantai Harapan",
-    "Pelantaran",
-    "Tumbang Koling/Kuling",
-    "Sudan",
-    "Bukit Batu",
-    "Bukit Raya",
-    "Selucing",
-    "Sungai Ubar Mandiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pundu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keruing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pantai Harapan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pelantaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Koling/Kuling"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sudan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Batu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bukit Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Selucing"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Ubar Mandiri"
+    }
   ]
 }

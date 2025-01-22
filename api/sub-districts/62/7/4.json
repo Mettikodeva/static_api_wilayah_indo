@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanjung Hanau/Hana",
-    "Parang Batang",
-    "Bahaur",
-    "Pembuang Hulu I",
-    "Pembuang Hulu II",
-    "Derangga",
-    "Paring Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Hanau/Hana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Parang Batang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bahaur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pembuang Hulu I"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pembuang Hulu II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Derangga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Paring Raya"
+    }
   ]
 }

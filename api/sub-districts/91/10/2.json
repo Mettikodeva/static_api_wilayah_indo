@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bota-Bora",
-    "Toganto",
-    "Samanente",
-    "Kanderjan",
-    "Omte",
-    "Safrom Tane",
-    "Denender",
-    "Safron Tane",
-    "Denander",
-    "Waaf"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bota-Bora"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toganto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Samanente"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kanderjan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Omte"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Safrom Tane"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Denender"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Safron Tane"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Denander"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Waaf"
+    }
   ]
 }

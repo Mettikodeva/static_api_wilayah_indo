@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Iman",
-    "Sukarami",
-    "Pajar Bulan",
-    "Padang Hangat",
-    "Kemang Manis",
-    "Penyandingan",
-    "Sinar Jaya",
-    "Tanjung Pandan",
-    "Padang Baru"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanjung Iman"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukarami"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pajar Bulan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Hangat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kemang Manis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sinar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Pandan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Baru"
+    }
   ]
 }

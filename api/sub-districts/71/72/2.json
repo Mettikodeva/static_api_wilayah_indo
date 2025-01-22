@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wangurer Barat",
-    "Paceda",
-    "Madidir Ure",
-    "Kadoodan",
-    "Madidir Weru",
-    "Madidir Unet",
-    "Wangurer Timur",
-    "Wangurer Utara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wangurer Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Paceda"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Madidir Ure"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kadoodan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Madidir Weru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Madidir Unet"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Wangurer Timur"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Wangurer Utara"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Yensawai Timur",
-    "Yensawai Barat",
-    "Arefi Timur",
-    "Arefi Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yensawai Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yensawai Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Arefi Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arefi Selatan"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lakahang",
-    "Periangan",
-    "Malatiro",
-    "Tabulahan",
-    "Saluleang",
-    "Tampak Kurra",
-    "Gandang Dewata",
-    "Burana",
-    "Salubakka",
-    "Pangandaran",
-    "Talopak",
-    "Peu' (Peu)",
-    "Timoro",
-    "Lakahang Utama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lakahang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Periangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malatiro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tabulahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saluleang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tampak Kurra"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gandang Dewata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Burana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Salubakka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pangandaran"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Talopak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Peu' (Peu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Timoro"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lakahang Utama"
+    }
   ]
 }

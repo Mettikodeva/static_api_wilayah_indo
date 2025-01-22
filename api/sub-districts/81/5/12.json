@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Hote",
-    "Banggoi",
-    "Waematakabo",
-    "Waiketam Baru",
-    "Waisamet",
-    "Aki Jaya",
-    "Jakarta Baru",
-    "Silohan",
-    "Sumber Agung",
-    "Rukun Jaya",
-    "Jembatan Basah",
-    "Dreamland Hills",
-    "Banggoi Pancorang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hote"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banggoi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waematakabo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waiketam Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waisamet"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aki Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jakarta Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Silohan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rukun Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jembatan Basah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dreamland Hills"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banggoi Pancorang"
+    }
   ]
 }

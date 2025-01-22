@@ -1,16 +1,56 @@
 {
   "cities": [
-    "Sorong",
-    "Manokwari",
-    "Fak Fak",
-    "Sorong Selatan",
-    "Raja Ampat",
-    "Teluk Bintuni",
-    "Teluk Wondama",
-    "Kaimana",
-    "Tambrauw",
-    "Maybrat",
-    "Manokwari Selatan",
-    "Pegunungan Arfak"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Sorong"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Manokwari"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Fak Fak"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Sorong Selatan"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Raja Ampat"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Teluk Bintuni"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Teluk Wondama"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Kaimana"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Tambrauw"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Maybrat"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Manokwari Selatan"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Pegunungan Arfak"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Sorong"
+    }
   ]
 }

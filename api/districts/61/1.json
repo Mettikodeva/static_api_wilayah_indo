@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Sambas",
-    "Teluk Keramat",
-    "Jawai",
-    "Tebas",
-    "Pemangkat",
-    "Sejangkung",
-    "Selakau",
-    "Paloh",
-    "Sajingan Besar",
-    "Subah",
-    "Galing",
-    "Tekarang",
-    "Semparuk",
-    "Sajad",
-    "Sebawi",
-    "Jawai Selatan",
-    "Tangaran",
-    "Salatiga",
-    "Selakau Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Sambas"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Teluk Keramat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Jawai"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tebas"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pemangkat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sejangkung"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Selakau"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Paloh"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sajingan Besar"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Subah"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Galing"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tekarang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Semparuk"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sajad"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sebawi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Jawai Selatan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tangaran"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Salatiga"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Selakau Timur"
+    }
   ]
 }

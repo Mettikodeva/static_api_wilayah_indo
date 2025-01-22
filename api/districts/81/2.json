@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Kei Kecil",
-    "Kei Besar",
-    "Kei Besar Selatan",
-    "Kei Besar Utara Timur",
-    "Kei Kecil Timur",
-    "Kei Kecil Barat",
-    "Manyeuw",
-    "Hoat Sorbay",
-    "Kei Besar Utara Barat",
-    "Kei Besar Selatan Barat",
-    "Kei Kecil Timur Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Kei Kecil"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kei Besar"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kei Besar Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kei Besar Utara Timur"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kei Kecil Timur"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kei Kecil Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Manyeuw"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Hoat Sorbay"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kei Besar Utara Barat"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Kei Besar Selatan Barat"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kei Kecil Timur Selatan"
+    }
   ]
 }

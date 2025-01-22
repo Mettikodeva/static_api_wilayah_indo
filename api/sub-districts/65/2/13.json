@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Setulang",
-    "Setarap",
-    "Punan Setarap",
-    "Batu Kajang",
-    "Gong Solok",
-    "Punan Gong Solok",
-    "Long Adiu",
-    "Punan Long Adiu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Setulang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Setarap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Punan Setarap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Kajang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gong Solok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Punan Gong Solok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Long Adiu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Punan Long Adiu"
+    }
   ]
 }

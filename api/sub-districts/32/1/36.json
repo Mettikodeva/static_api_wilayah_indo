@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjungsari",
-    "Selawangi",
-    "Tanjungrasa",
-    "Antajaya",
-    "Pasir Tanjung",
-    "Cibadak",
-    "Sukarasa",
-    "Sirnasari",
-    "Buanajaya",
-    "Sirnarasa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selawangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjungrasa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Antajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasir Tanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukarasa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sirnasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buanajaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirnarasa"
+    }
   ]
 }

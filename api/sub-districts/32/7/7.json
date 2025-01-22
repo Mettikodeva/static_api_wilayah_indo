@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Medanglayang",
-    "Panumbangan",
-    "Sukakerta",
-    "Golat",
-    "Sindangherang",
-    "Banjarangsana",
-    "Payungagung",
-    "Tanjungmulya",
-    "Payungsari",
-    "Jayagiri",
-    "Kertaraharja",
-    "Sindangmukti",
-    "Sindangbarang",
-    "Buanamekar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Medanglayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panumbangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukakerta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Golat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sindangherang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjarangsana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Payungagung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungmulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Payungsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jayagiri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kertaraharja"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangmukti"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sindangbarang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Buanamekar"
+    }
   ]
 }

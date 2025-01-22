@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Bengkalis",
-    "Bantan",
-    "Bukit Batu",
-    "Mandau",
-    "Rupat",
-    "Rupat Utara",
-    "Siak Kecil",
-    "Pinggir",
-    "Bandar Laksamana",
-    "Talang Muandau",
-    "Bathin Solapan"
+    {
+      "district_id": 1,
+      "kecamatan": "Bengkalis"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bantan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bukit Batu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mandau"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Rupat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Rupat Utara"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Siak Kecil"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pinggir"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bandar Laksamana"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Talang Muandau"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bathin Solapan"
+    }
   ]
 }

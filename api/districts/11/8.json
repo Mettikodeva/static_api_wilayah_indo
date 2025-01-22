@@ -1,31 +1,112 @@
 {
   "districts": [
-    "Baktiya",
-    "Dewantara",
-    "Kuta Makmur",
-    "Lhoksukon",
-    "Matangkuli",
-    "Muara Batu",
-    "Meurah Mulia",
-    "Samudera",
-    "Seunuddon (Seunudon)",
-    "Syamtalira Aron",
-    "Syamtalira Bayu",
-    "Tanah Luas",
-    "Tanah Pasir",
-    "T. Jambo Aye (Tanah Jambo Aye)",
-    "Sawang",
-    "Nisam",
-    "Cot Girek",
-    "Langkahan",
-    "Baktiya Barat",
-    "Paya Bakong",
-    "Nibong",
-    "Simpang Kramat (Keramat)",
-    "Lapang",
-    "Pirak Timur",
-    "Geuredong Pase",
-    "Banda Baro",
-    "Nisam Antara"
+    {
+      "district_id": 1,
+      "kecamatan": "Baktiya"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Dewantara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kuta Makmur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lhoksukon"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Matangkuli"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Muara Batu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Meurah Mulia"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Samudera"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Seunuddon (Seunudon)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Syamtalira Aron"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Syamtalira Bayu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tanah Luas"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tanah Pasir"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "T. Jambo Aye (Tanah Jambo Aye)"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sawang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Nisam"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Cot Girek"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Langkahan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Baktiya Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Paya Bakong"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Nibong"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Simpang Kramat (Keramat)"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Lapang"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pirak Timur"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Geuredong Pase"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Banda Baro"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Nisam Antara"
+    }
   ]
 }

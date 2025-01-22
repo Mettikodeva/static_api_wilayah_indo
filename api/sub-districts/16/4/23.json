@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lebuay Bandung",
-    "Sirah Pulau",
-    "Gunung Kembang",
-    "Prabu Menang",
-    "Banjar Sari",
-    "Arahan",
-    "Nanjungan",
-    "Sengkuang",
-    "Tanjung Lontar",
-    "Gedung Agung",
-    "Muara Lawai",
-    "Tanjung Jambu",
-    "Cempaka Wangi",
-    "Lematang Jaya"
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Lebuay Bandung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sirah Pulau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Kembang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Prabu Menang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banjar Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nanjungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sengkuang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Lontar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gedung Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muara Lawai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Jambu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cempaka Wangi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lematang Jaya"
+    }
   ]
 }

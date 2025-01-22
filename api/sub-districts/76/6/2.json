@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Polo Pangale",
-    "Pangale",
-    "Sartanamaju (Sartana Maju)",
-    "Polo Lereng",
-    "Kuo",
-    "Polo Camba",
-    "Lamba Lamba",
-    "Kombiling",
-    "Lemo-Lemo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Polo Pangale"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangale"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sartanamaju (Sartana Maju)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Polo Lereng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Polo Camba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lamba Lamba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kombiling"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lemo-Lemo"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tandun",
-    "Kumain",
-    "Bona Tapung (Bono Tapung)",
-    "Dayo",
-    "Tapung Jaya",
-    "Puo Raya",
-    "Sei/Sungai Kuning",
-    "Koto Tandun",
-    "Tandun Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tandun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kumain"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bona Tapung (Bono Tapung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dayo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tapung Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puo Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Kuning"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Tandun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tandun Barat"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Blumah",
-    "Kediten",
-    "Tlogopayung",
-    "Wonodadi",
-    "Manggungmangu",
-    "Tirtomulyo",
-    "Karanganyar",
-    "Jurangagung",
-    "Jati",
-    "Wadas",
-    "Bendosari",
-    "Mojoagung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Blumah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kediten"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tlogopayung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonodadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manggungmangu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tirtomulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jurangagung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wadas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bendosari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mojoagung"
+    }
   ]
 }

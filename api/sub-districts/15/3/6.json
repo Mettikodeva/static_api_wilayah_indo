@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Mandiangin",
-    "Rangkiling Simpang",
-    "Pemusiran",
-    "Gurun Tuo Simpang",
-    "Gurun Mudo",
-    "Gurun Tuo",
-    "Rangkiling",
-    "Mandiangin Tuo",
-    "Kertopati (Kerto Pati)",
-    "Muaro Ketalo",
-    "Taman Dewa (Desa Taman Dewa)",
-    "Simpang Kertopati",
-    "Bukit Peranginan (Bukitperanginan)",
-    "Gurun Baru",
-    "Kute Jaye",
-    "Mandiangin Pasar",
-    "Sungai Rotan (Sungairotan)",
-    "Talang Serdang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mandiangin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rangkiling Simpang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pemusiran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gurun Tuo Simpang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gurun Mudo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gurun Tuo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rangkiling"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mandiangin Tuo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kertopati (Kerto Pati)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muaro Ketalo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Taman Dewa (Desa Taman Dewa)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Simpang Kertopati"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukit Peranginan (Bukitperanginan)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Gurun Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kute Jaye"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Mandiangin Pasar"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sungai Rotan (Sungairotan)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Talang Serdang"
+    }
   ]
 }

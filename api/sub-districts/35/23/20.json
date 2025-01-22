@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ngarum",
-    "Ngrejeng",
-    "Grabagan",
-    "Waleran",
-    "Banyubang",
-    "Gesikan",
-    "Ngandong",
-    "Dahor",
-    "Dermawuharjo (Dermawuhardjo)",
-    "Menyunyur",
-    "Pakis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngarum"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngrejeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Grabagan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waleran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyubang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gesikan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngandong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dahor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dermawuharjo (Dermawuhardjo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Menyunyur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pakis"
+    }
   ]
 }

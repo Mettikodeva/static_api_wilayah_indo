@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tegal Sari Mandala I",
-    "Tegal Sari Mandala II",
-    "Tegal Sari Mandala III",
-    "Denai",
-    "Binjai",
-    "Medan Tenggara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tegal Sari Mandala I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tegal Sari Mandala II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tegal Sari Mandala III"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Denai"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Binjai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Medan Tenggara"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Limo Koto",
-    "Koto Kaciak",
-    "Ganggo Mudiak",
-    "Ganggo Hilia",
-    "Koto Kaciak Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Limo Koto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Kaciak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ganggo Mudiak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ganggo Hilia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto Kaciak Barat"
+    }
   ]
 }

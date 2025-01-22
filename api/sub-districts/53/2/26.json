@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Naip",
-    "Fatutnana",
-    "Oepliki",
-    "Oe'ekam (Oe Ekam / Oelekam)",
-    "Teas",
-    "Oebaki",
-    "Eno Nabuasa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Naip"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fatutnana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oepliki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oe'ekam (Oe Ekam / Oelekam)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oebaki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Eno Nabuasa"
+    }
   ]
 }

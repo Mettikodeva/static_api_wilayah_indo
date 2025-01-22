@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pakembaran",
-    "Kagok",
-    "Procot",
-    "Kudaile",
-    "Slawi Wetan",
-    "Kalisapu",
-    "Dukuh Ringin (Dukuhwringin)",
-    "Dukuhsalam (Dukuh Salam)",
-    "Slawi Kulon",
-    "Trayeman"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pakembaran"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kagok"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Procot"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kudaile"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Slawi Wetan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalisapu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dukuh Ringin (Dukuhwringin)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dukuhsalam (Dukuh Salam)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Slawi Kulon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trayeman"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kampung Baru",
-    "Pasar Muara Tembesi",
-    "Jebak",
-    "Ampelu",
-    "Rambutan Masam",
-    "Rantau Kapas Mudo",
-    "Rantau Kapas Tuo",
-    "Sungai Pulai",
-    "Pulau",
-    "Tanjung Marwo",
-    "Suka Ramai (Sukaramai)",
-    "Ampelu Mudo",
-    "Pelayangan",
-    "Pematang Lima Suku"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasar Muara Tembesi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jebak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ampelu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rambutan Masam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Kapas Mudo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rantau Kapas Tuo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Pulai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Marwo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Ramai (Sukaramai)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ampelu Mudo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pelayangan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pematang Lima Suku"
+    }
   ]
 }

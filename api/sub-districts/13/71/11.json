@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Balai Gadang",
-    "Lubuk Minturun",
-    "Aie Pacah (Air Pacah)",
-    "Dadok Tunggul Hitam",
-    "Koto Panjang Ikua Koto",
-    "Koto Pulai",
-    "Batipuh Panjang",
-    "Padang Sarai",
-    "Lubuk Buaya",
-    "Batang Kabung Ganting",
-    "Bungo Pasang",
-    "Parupuk Tabing",
-    "Pasir/Pasie Nan Tigo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Balai Gadang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lubuk Minturun"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Aie Pacah (Air Pacah)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Dadok Tunggul Hitam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Koto Panjang Ikua Koto"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Koto Pulai"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Batipuh Panjang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Padang Sarai"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lubuk Buaya"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Batang Kabung Ganting"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bungo Pasang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Parupuk Tabing"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pasir/Pasie Nan Tigo"
+    }
   ]
 }

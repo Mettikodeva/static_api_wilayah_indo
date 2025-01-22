@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Karangrejo",
-    "Manisrejo",
-    "Mantren",
-    "Gondang",
-    "Sambirembe",
-    "Patihan",
-    "Pelem",
-    "Baluk",
-    "Gebyog",
-    "Maron",
-    "Prampelan",
-    "Grabahan",
-    "Kauman"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Manisrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mantren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sambirembe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Patihan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pelem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baluk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gebyog"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maron"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Prampelan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Grabahan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kauman"
+    }
   ]
 }

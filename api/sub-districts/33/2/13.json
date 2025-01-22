@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gerduren",
-    "Karangtalun Kidul",
-    "Kaliurip",
-    "Karangtalun Lor",
-    "Purwojati",
-    "Klapasawit",
-    "Karangmangu",
-    "Kaliputih",
-    "Kaliwangi",
-    "Kalitapen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gerduren"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangtalun Kidul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaliurip"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangtalun Lor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purwojati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klapasawit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangmangu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaliputih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaliwangi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalitapen"
+    }
   ]
 }

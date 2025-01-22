@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ladongi",
-    "Atula",
-    "Raa-Raa",
-    "Welala",
-    "Putemata",
-    "Lalowosula (Lalowusula)",
-    "Wunggoloko",
-    "Anggaloosi (Anggoloosi)",
-    "Pombeyoha",
-    "Tongandiu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ladongi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Atula"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Raa-Raa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Welala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Putemata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lalowosula (Lalowusula)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wunggoloko"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anggaloosi (Anggoloosi)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pombeyoha"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tongandiu"
+    }
   ]
 }

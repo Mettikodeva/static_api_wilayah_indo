@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Taipa",
-    "Meko",
-    "Toinasa",
-    "Salukaia",
-    "Uranosari",
-    "Owini"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taipa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toinasa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salukaia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uranosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Owini"
+    }
   ]
 }

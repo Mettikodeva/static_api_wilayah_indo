@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Wamlana",
-    "Balbalu",
-    "Waspait",
-    "Waedanga",
-    "Lemanpoli",
-    "Waelana-lana",
-    "Waereman",
-    "Waemite",
-    "Wasi",
-    "Waekose",
-    "Wamana Baru",
-    "Raheriat",
-    "Wainibe (Waenibe)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wamlana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balbalu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waspait"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waedanga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lemanpoli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waelana-lana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waereman"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waemite"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wasi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waekose"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wamana Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Raheriat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wainibe (Waenibe)"
+    }
   ]
 }

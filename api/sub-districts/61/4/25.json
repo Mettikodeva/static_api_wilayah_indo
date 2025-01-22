@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Beringin Jaya",
-    "Sei/Sungai Melayu Baru",
-    "Suka Mulia/Mulya",
-    "Karya Mukti",
-    "Piansak",
-    "Jairan Jaya",
-    "Kepuluk",
-    "Sei/Sungai Melayu Jaya",
-    "Sei/Sungai Melayu",
-    "Mekar Jaya",
-    "Makmur Abadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Melayu Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Mulia/Mulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karya Mukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Piansak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jairan Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kepuluk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Melayu Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Melayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Makmur Abadi"
+    }
   ]
 }

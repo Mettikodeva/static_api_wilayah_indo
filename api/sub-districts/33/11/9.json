@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pandeyan",
-    "Telukan",
-    "Parangjoro",
-    "Pondok",
-    "Langenharjo",
-    "Gedangan",
-    "Madegondo",
-    "Grogol",
-    "Kadokan",
-    "Kwarasan",
-    "Sanggrahan",
-    "Manang",
-    "Banaran",
-    "Cemani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandeyan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telukan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parangjoro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langenharjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Madegondo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kadokan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kwarasan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sanggrahan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Manang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cemani"
+    }
   ]
 }

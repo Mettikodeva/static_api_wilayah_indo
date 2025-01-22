@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Waris",
-    "Arso",
-    "Senggi",
-    "Web",
-    "Skanto",
-    "Arso Timur",
-    "Towe",
-    "Arso Barat",
-    "Mannem",
-    "Yaffi",
-    "Kaisenar"
+    {
+      "district_id": 1,
+      "kecamatan": "Waris"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Arso"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Senggi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Web"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Skanto"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Arso Timur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Towe"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Arso Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mannem"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Yaffi"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kaisenar"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gerantung",
-    "Jontlak",
-    "Sasake",
-    "Jurang Jaler",
-    "Beraim",
-    "Batunyala",
-    "Lajut",
-    "Pengadang",
-    "Kelebuh",
-    "Pejanggik",
-    "Dakung",
-    "Prai Meke",
-    "Lelong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gerantung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jontlak"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sasake"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jurang Jaler"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Beraim"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batunyala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lajut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pengadang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kelebuh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pejanggik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dakung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Prai Meke"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lelong"
+    }
   ]
 }

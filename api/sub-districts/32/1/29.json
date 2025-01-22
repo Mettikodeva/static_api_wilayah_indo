@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Padasuka",
-    "Mekarjaya",
-    "Sukaharja",
-    "Parakan",
-    "Ciomas",
-    "Pagelaran",
-    "Sukamakmur",
-    "Ciapus",
-    "Kota Batu",
-    "Laladon",
-    "Ciomas Rahayu"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaharja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ciomas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagelaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamakmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciapus"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kota Batu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Laladon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ciomas Rahayu"
+    }
   ]
 }

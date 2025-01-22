@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Ngampilan",
-    "Notoprajan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ngampilan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Notoprajan"
+    }
   ]
 }

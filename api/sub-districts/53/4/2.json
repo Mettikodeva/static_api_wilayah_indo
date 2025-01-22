@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Silawan",
-    "Tulakadi",
-    "Sadi",
-    "Umaklaran",
-    "Manleten",
-    "Fatuba'a",
-    "Dafala",
-    "Takirin",
-    "Bauho",
-    "Sarabau (Sabarau / Saraban)",
-    "Tialai",
-    "Halimodok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silawan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tulakadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Umaklaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manleten"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fatuba'a"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dafala"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Takirin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bauho"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sarabau (Sabarau / Saraban)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tialai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Halimodok"
+    }
   ]
 }

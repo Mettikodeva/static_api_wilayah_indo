@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Baun",
-    "Sumbekas",
-    "Metnayam",
-    "Metbelum",
-    "Salem",
-    "Metbesa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumbekas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Metnayam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Metbelum"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Salem"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Metbesa"
+    }
   ]
 }

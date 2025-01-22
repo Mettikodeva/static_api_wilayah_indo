@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Cangkuang",
-    "Serang Wetan",
-    "Serang Kulon",
-    "Gembongan Mekar (Gembonganmekar)",
-    "Gembongan",
-    "Babakan Gebang (Babakangebang)",
-    "Babakan",
-    "Bojonggebang",
-    "Sumber Kidul",
-    "Sumber Lor",
-    "Kudumulya",
-    "Kudukeras",
-    "Pakusamben",
-    "Karangwangun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cangkuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Serang Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Serang Kulon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gembongan Mekar (Gembonganmekar)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gembongan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Babakan Gebang (Babakangebang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojonggebang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Kidul"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber Lor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kudumulya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kudukeras"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pakusamben"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangwangun"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Puluk",
-    "Kelandiruma",
-    "Pupet",
-    "Pilokoma",
-    "Gimurik",
-    "Wandibet",
-    "Meningimte",
-    "Bungok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puluk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kelandiruma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pupet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pilokoma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gimurik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wandibet"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meningimte"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bungok"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pepera",
-    "Okbon",
-    "Yun Muku",
-    "Denom",
-    "Bon Yakwol",
-    "Ok Telabe (Ok Telab)",
-    "Wok Bakon"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pepera"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Okbon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yun Muku"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Denom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bon Yakwol"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ok Telabe (Ok Telab)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wok Bakon"
+    }
   ]
 }

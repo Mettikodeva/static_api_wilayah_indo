@@ -1,53 +1,200 @@
 {
   "sub_districts": [
-    "Balue Tanoh",
-    "Balue Kulu",
-    "Meunasah Empeh (Lhok Empeh)",
-    "Cot Sukon",
-    "Mns Dayah Tuha",
-    "Kampong Cot",
-    "Paloh Jeureula",
-    "Barieh",
-    "Kandang",
-    "Riweuek (Riweuk)",
-    "Mancang",
-    "Kampong Pisang Bucue",
-    "Bucue",
-    "Lhok Panah",
-    "Murong Cot",
-    "Cumbok Lie",
-    "Lam Ujong",
-    "Murong Lhok",
-    "Blang Cut",
-    "Cot Cantek",
-    "Blang Kumot Baroh",
-    "B. Kumot Tunong",
-    "Cumbok Niwa",
-    "Leupeuem Mesjid (Leupeum Mesjid)",
-    "Pulo Jeumpa",
-    "Beutong Pocut",
-    "Beutong Perlak",
-    "Gampong Jumpa (Kampong Jeumpa)",
-    "Pantee Krueng (Pante Krueng)",
-    "Jurong Pante",
-    "Mali Lamkuta (Lamkuta)",
-    "Mali Uke (Meunasah Uke)",
-    "Mali Mesjid",
-    "Mali Cot",
-    "Tangkueng (Tang Kueng)",
-    "Lhok Mee (Lhok Me)",
-    "Lameue Mns. Raya (Meunasah Raya)",
-    "Lameue Meunasah Baro",
-    "Lameue Mns. Lueng (Meunasah Lueng)",
-    "Pulo Kreumbok (Pulo Kerumbok)",
-    "Mns Raya Kp Pisang",
-    "Mns Blang Sakti",
-    "Perlak Baroh",
-    "Lingkok",
-    "Pasar Kota Bakti",
-    "Mns Balee",
-    "Perlak Asan",
-    "Kampong Baro",
-    "Mali Guyui"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balue Tanoh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balue Kulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meunasah Empeh (Lhok Empeh)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cot Sukon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mns Dayah Tuha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampong Cot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paloh Jeureula"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Barieh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kandang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Riweuek (Riweuk)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mancang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kampong Pisang Bucue"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bucue"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lhok Panah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Murong Cot"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cumbok Lie"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lam Ujong"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Murong Lhok"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Blang Cut"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Cot Cantek"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Blang Kumot Baroh"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "B. Kumot Tunong"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Cumbok Niwa"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Leupeuem Mesjid (Leupeum Mesjid)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Pulo Jeumpa"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Beutong Pocut"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Beutong Perlak"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Gampong Jumpa (Kampong Jeumpa)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Pantee Krueng (Pante Krueng)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Jurong Pante"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Mali Lamkuta (Lamkuta)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Mali Uke (Meunasah Uke)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Mali Mesjid"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Mali Cot"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tangkueng (Tang Kueng)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Lhok Mee (Lhok Me)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Lameue Mns. Raya (Meunasah Raya)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Lameue Meunasah Baro"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Lameue Mns. Lueng (Meunasah Lueng)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Pulo Kreumbok (Pulo Kerumbok)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Mns Raya Kp Pisang"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Mns Blang Sakti"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Perlak Baroh"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Lingkok"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Pasar Kota Bakti"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Mns Balee"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Perlak Asan"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Kampong Baro"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Mali Guyui"
+    }
   ]
 }

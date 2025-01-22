@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karye / Kariye",
-    "Batani",
-    "Segame",
-    "Palur Satu",
-    "Palur Dua",
-    "Sople",
-    "Bakata"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karye / Kariye"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batani"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Segame"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Palur Satu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Palur Dua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sople"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bakata"
+    }
   ]
 }

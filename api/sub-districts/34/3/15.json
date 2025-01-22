@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Krambilsawit (Krambil Sawit)",
-    "Ngloro (Nglora)",
-    "Jetis",
-    "Kepek",
-    "Kanigoro",
-    "Monggol",
-    "Planjan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Krambilsawit (Krambil Sawit)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngloro (Nglora)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kepek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kanigoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Monggol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Planjan"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Labi Labi",
-    "Iga",
-    "Tatam",
-    "Marimoi",
-    "Bololo",
-    "Helaitetor",
-    "Dowongi Jaya",
-    "Majiko Tongone"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labi Labi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Iga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tatam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marimoi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bololo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Helaitetor"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dowongi Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Majiko Tongone"
+    }
   ]
 }

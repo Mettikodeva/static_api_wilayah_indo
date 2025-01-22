@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Triwidadi",
-    "Sendangsari",
-    "Guwosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Triwidadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sendangsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Guwosari"
+    }
   ]
 }

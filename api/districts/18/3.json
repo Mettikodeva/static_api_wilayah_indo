@@ -1,27 +1,96 @@
 {
   "districts": [
-    "Bukit Kemuning",
-    "Kotabumi",
-    "Sungkai Selatan",
-    "Tanjung Raja",
-    "Abung Timur",
-    "Abung Barat",
-    "Abung Selatan",
-    "Sungkai Utara",
-    "Kotabumi Utara",
-    "Kotabumi Selatan",
-    "Abung Tengah",
-    "Abung Tinggi",
-    "Abung Semuli",
-    "Abung Surakarta",
-    "Muara Sungkai",
-    "Bunga Mayang",
-    "Hulu Sungkai",
-    "Sungkai Tengah",
-    "Abung Pekurun",
-    "Sungkai Jaya",
-    "Sungkai Barat",
-    "Abung Kunang",
-    "Blambangan Pagar"
+    {
+      "district_id": 1,
+      "kecamatan": "Bukit Kemuning"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kotabumi"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sungkai Selatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tanjung Raja"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Abung Timur"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Abung Barat"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Abung Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sungkai Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kotabumi Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kotabumi Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Abung Tengah"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Abung Tinggi"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Abung Semuli"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Abung Surakarta"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Muara Sungkai"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bunga Mayang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Hulu Sungkai"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Sungkai Tengah"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Abung Pekurun"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Sungkai Jaya"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sungkai Barat"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Abung Kunang"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Blambangan Pagar"
+    }
   ]
 }

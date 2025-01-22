@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasirangin (Pasir Angin)",
-    "Mekarsari",
-    "Mampir",
-    "Dayeuh",
-    "Gandoang",
-    "Jatisari",
-    "Cileungsi Kidul",
-    "Cipeucang",
-    "Situsari (Setu Sari)",
-    "Cipenjo",
-    "Limusnunggal (Limus Nunggal)",
-    "Cileungsi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasirangin (Pasir Angin)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mampir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dayeuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gandoang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cileungsi Kidul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cipeucang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Situsari (Setu Sari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cipenjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Limusnunggal (Limus Nunggal)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cileungsi"
+    }
   ]
 }

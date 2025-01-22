@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Kuantan Mudik",
-    "Kuantan Tengah",
-    "Singingi",
-    "Kuantan Hilir",
-    "Cerenti",
-    "Benai",
-    "Gunungtoar (Gunung Toar)",
-    "Singingi Hilir",
-    "Pangean",
-    "Logas Tanah Darat",
-    "Inuman",
-    "Hulu Kuantan",
-    "Kuantan Hilir Seberang",
-    "Sentajo Raya",
-    "Pucuk Rantau"
+    {
+      "district_id": 1,
+      "kecamatan": "Kuantan Mudik"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kuantan Tengah"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Singingi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kuantan Hilir"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cerenti"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Benai"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Gunungtoar (Gunung Toar)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Singingi Hilir"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pangean"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Logas Tanah Darat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Inuman"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Hulu Kuantan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kuantan Hilir Seberang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sentajo Raya"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Pucuk Rantau"
+    }
   ]
 }

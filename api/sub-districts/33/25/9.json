@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Menjangan",
-    "Karangtengah",
-    "Mangunharjo",
-    "Tenggulangharjo",
-    "Kalimanggis",
-    "Keborangan",
-    "Jatisari",
-    "Subah",
-    "Kumejing",
-    "Durenombo",
-    "Clapar",
-    "Adinuso",
-    "Sengon",
-    "Gondang",
-    "Kuripan",
-    "Kemiri Barat",
-    "Kemiri Timur"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Menjangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangunharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tenggulangharjo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalimanggis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keborangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Subah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kumejing"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Durenombo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Clapar"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Adinuso"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sengon"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Gondang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Kemiri Barat"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Kemiri Timur"
+    }
   ]
 }

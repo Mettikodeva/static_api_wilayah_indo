@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Manggala",
-    "Senempak",
-    "Nanga Pintas",
-    "Landau Garong",
-    "Bina Jaya",
-    "Mandau Baru",
-    "Pelinggang",
-    "Nyanggai",
-    "Sei/Sungai Bakah",
-    "Bayur Raya",
-    "Landau Tubun",
-    "Nanga Kelawai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manggala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Senempak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nanga Pintas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Landau Garong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bina Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mandau Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pelinggang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nyanggai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Bakah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bayur Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Landau Tubun"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Nanga Kelawai"
+    }
   ]
 }

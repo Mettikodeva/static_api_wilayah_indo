@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Heatnem",
-    "Wililimo",
-    "Yabem",
-    "Waukahilapok",
-    "Aleak",
-    "Inanekelok",
-    "Witalak",
-    "Mulukmo",
-    "Landia",
-    "Filia",
-    "Isugunik",
-    "Hitelowa",
-    "Duabalek"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Heatnem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wililimo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yabem"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waukahilapok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Aleak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Inanekelok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Witalak"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mulukmo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Landia"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Filia"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Isugunik"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Hitelowa"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Duabalek"
+    }
   ]
 }

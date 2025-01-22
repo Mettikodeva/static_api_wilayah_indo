@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kanekes",
-    "Cisimeut",
-    "Cibungur",
-    "Leuwidamar",
-    "Lebakparahiang (Lebak Parahiang)",
-    "Sangkanwangi",
-    "Nayagati",
-    "Bojongmenteng (Bojong Menteng)",
-    "Margawangi",
-    "Wantisari",
-    "Jalupangmulya (Jalupang Mulya)",
-    "Cisimeut Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kanekes"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cisimeut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibungur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Leuwidamar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lebakparahiang (Lebak Parahiang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sangkanwangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nayagati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojongmenteng (Bojong Menteng)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Margawangi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wantisari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jalupangmulya (Jalupang Mulya)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cisimeut Raya"
+    }
   ]
 }

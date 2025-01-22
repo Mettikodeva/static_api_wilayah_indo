@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Serang",
-    "Klangenan",
-    "Danawinangun",
-    "Pakantingan (Pekantingan)",
-    "Jemaras Kidul",
-    "Jemaras Lor",
-    "Slangit",
-    "Kreyo",
-    "Bangodua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klangenan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Danawinangun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakantingan (Pekantingan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jemaras Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jemaras Lor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Slangit"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kreyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bangodua"
+    }
   ]
 }

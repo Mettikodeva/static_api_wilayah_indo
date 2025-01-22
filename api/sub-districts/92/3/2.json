@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Werba",
-    "Kiat",
-    "Purwasak",
-    "Wurkendik",
-    "Kwuhkendak",
-    "Purwahab Tonggo",
-    "Pahger Nkindik",
-    "Werba Utara",
-    "Porum"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Werba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kiat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwasak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wurkendik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kwuhkendak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purwahab Tonggo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pahger Nkindik"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Werba Utara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Porum"
+    }
   ]
 }

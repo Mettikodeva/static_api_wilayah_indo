@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mangon",
-    "Fagudu",
-    "Waibau",
-    "Falahu",
-    "Fatcei",
-    "Fogi",
-    "Waihama",
-    "Wai Ipa",
-    "Umaloya",
-    "Pastina",
-    "Wailau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mangon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fagudu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waibau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Falahu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fatcei"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fogi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waihama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wai Ipa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Umaloya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pastina"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wailau"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bade",
-    "Geturki",
-    "Mememu",
-    "Gimikia (Gemikya)",
-    "Banamepe",
-    "Yodom",
-    "Isyaman"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bade"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Geturki"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mememu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gimikia (Gemikya)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banamepe"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Yodom"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Isyaman"
+    }
   ]
 }

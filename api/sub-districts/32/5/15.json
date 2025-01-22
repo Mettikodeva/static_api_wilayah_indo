@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sukawening",
-    "Sukamukti",
-    "Mekarluyu",
-    "Sukaluyu",
-    "Sudalarang",
-    "Sukasono",
-    "Sukahaji",
-    "Pasanggrahan",
-    "Maripari",
-    "Mekarwangi",
-    "Mekar Hurip (Mekarhurip)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukawening"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekarluyu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukaluyu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sudalarang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukasono"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukahaji"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasanggrahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maripari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekar Hurip (Mekarhurip)"
+    }
   ]
 }

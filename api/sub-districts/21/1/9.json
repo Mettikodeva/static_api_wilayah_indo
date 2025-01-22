@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Teluk Sekuni",
-    "Batu Lepuk",
-    "Kampung Hilir",
-    "Kampung Melayu",
-    "Pulau Mentebung",
-    "Pulau Pinang",
-    "Kukup",
-    "Pengikik"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Teluk Sekuni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Lepuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Hilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Melayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Mentebung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulau Pinang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kukup"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pengikik"
+    }
   ]
 }

@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Kelapa Gading Timur",
-    "Pegangsaan Dua",
-    "Kelapa Gading Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kelapa Gading Timur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pegangsaan Dua"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kelapa Gading Barat"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kebonan",
-    "Kudus",
-    "Duren",
-    "Sumberwringin",
-    "Papringan",
-    "Ranupakis",
-    "Tegalrandu",
-    "Klakah",
-    "Mlawang",
-    "Sruni",
-    "Tegalciut",
-    "Sawaran Lor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebonan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kudus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberwringin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Papringan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ranupakis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegalrandu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Klakah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mlawang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sruni"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tegalciut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawaran Lor"
+    }
   ]
 }

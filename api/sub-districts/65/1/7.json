@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lepak Aru",
-    "Long Lasan",
-    "Long Peso",
-    "Long Bia",
-    "Muara Pengean",
-    "Long Lian",
-    "Long Yiin/Pelaah",
-    "Long Lejuh (Long Leju)",
-    "Long Pelban (Long Peleban)",
-    "Long Buang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lepak Aru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Lasan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Peso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Long Bia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Pengean"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Long Lian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Long Yiin/Pelaah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Long Lejuh (Long Leju)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Long Pelban (Long Peleban)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Buang"
+    }
   ]
 }

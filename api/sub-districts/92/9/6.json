@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wau",
-    "Syukwo (Warmandi)",
-    "Waibem",
-    "Weyaf",
-    "Weprari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Syukwo (Warmandi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waibem"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Weyaf"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Weprari"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karang Agung",
-    "Lubar",
-    "Tanjung Sari",
-    "Simpangan",
-    "Bungin Campang",
-    "Simpang Agung",
-    "Sinar Mulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karang Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bungin Campang"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Simpang Agung"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sinar Mulyo"
+    }
   ]
 }

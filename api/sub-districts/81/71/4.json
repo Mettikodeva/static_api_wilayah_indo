@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tihu",
-    "Hunuth (Durian Patah)",
-    "Poka",
-    "Rumah Tiga",
-    "Wayame",
-    "Tawiri",
-    "Hative Besar",
-    "Laha"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tihu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hunuth (Durian Patah)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Poka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rumah Tiga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wayame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tawiri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hative Besar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laha"
+    }
   ]
 }

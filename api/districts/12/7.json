@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Gunung Meriah",
-    "Tanjung Morawa",
-    "Sibolangit",
-    "Kutalimbaru",
-    "Pancur Batu",
-    "Namo Rambe (Namorambe)",
-    "Biru-Biru (Sibiru-biru)",
-    "STM Hilir (Sinembah Tanjung Muda Hilir)",
-    "Bangun Purba",
-    "Galang",
-    "STM Hulu (Sinembah Tanjung Muda Hulu)",
-    "Patumbak",
-    "Deli Tua",
-    "Sunggal",
-    "Hamparan Perak",
-    "Labuhan Deli",
-    "Percut Sei Tuan",
-    "Batang Kuis",
-    "Lubuk Pakam",
-    "Pagar Merbau",
-    "Pantai Labu",
-    "Beringin"
+    {
+      "district_id": 1,
+      "kecamatan": "Gunung Meriah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Morawa"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sibolangit"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kutalimbaru"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pancur Batu"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Namo Rambe (Namorambe)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Biru-Biru (Sibiru-biru)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "STM Hilir (Sinembah Tanjung Muda Hilir)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bangun Purba"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Galang"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "STM Hulu (Sinembah Tanjung Muda Hulu)"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Patumbak"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Deli Tua"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Sunggal"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Hamparan Perak"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Labuhan Deli"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Percut Sei Tuan"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Batang Kuis"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Lubuk Pakam"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Pagar Merbau"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Pantai Labu"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Beringin"
+    }
   ]
 }

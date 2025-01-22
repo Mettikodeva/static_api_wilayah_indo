@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Ujung Padang",
-    "Huta Parik",
-    "Dusun Ulu",
-    "Tinjoan",
-    "Sayur Matinggi",
-    "Taratak Nagodang",
-    "Sordang Bolon",
-    "Teluk Lapian (Teluk Tapian)",
-    "Tanjung Rapuan",
-    "Pagar Bosi",
-    "Bangun Sordang",
-    "Aek Gerger Sidodadi",
-    "Pulo Pitu Marihat",
-    "Siringan Ringan",
-    "Riah Na Poso",
-    "Sei Merbau",
-    "Kampung Lalang",
-    "Sordang Baru",
-    "Banjar Hulu",
-    "Rawa Masin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ujung Padang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Huta Parik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dusun Ulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tinjoan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sayur Matinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taratak Nagodang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sordang Bolon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Lapian (Teluk Tapian)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Rapuan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagar Bosi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangun Sordang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Aek Gerger Sidodadi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulo Pitu Marihat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Siringan Ringan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Riah Na Poso"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sei Merbau"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kampung Lalang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sordang Baru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Banjar Hulu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Rawa Masin"
+    }
   ]
 }

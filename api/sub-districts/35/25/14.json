@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Gulomantung",
-    "Sidomukti",
-    "Kebomas",
-    "Kawis Anyar (Kawisanyar)",
-    "Ngargosari",
-    "Gending",
-    "Sidomoro",
-    "Tenggulunan",
-    "Singosari",
-    "Indro",
-    "Dahanrejo",
-    "Kembangan",
-    "Kedayang (Kedanyang)",
-    "Randuagung",
-    "Klangonan",
-    "Sukorejo",
-    "Giri",
-    "Segoromadu",
-    "Karangkiring (Karangkering)",
-    "Prambangan",
-    "Sekarkurung"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gulomantung"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kebomas"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kawis Anyar (Kawisanyar)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Ngargosari"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Gending"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Sidomoro"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Tenggulunan"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Singosari"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Indro"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dahanrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kembangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedayang (Kedanyang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Randuagung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klangonan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Giri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Segoromadu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Karangkiring (Karangkering)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Prambangan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sekarkurung"
+    }
   ]
 }

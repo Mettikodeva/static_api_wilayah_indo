@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tegalgondo",
-    "Kepuharjo",
-    "Ngenep",
-    "Ngijo",
-    "Ampeldento",
-    "Girimoyo",
-    "Bocek",
-    "Donowarih",
-    "Tawangargo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tegalgondo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kepuharjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngenep"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngijo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ampeldento"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Girimoyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bocek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Donowarih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tawangargo"
+    }
   ]
 }

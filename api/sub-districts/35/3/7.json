@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Ngadimulyo",
-    "Bogoran",
-    "Timahan",
-    "Bendoagung",
-    "Karangrejo",
-    "Sugihan",
-    "Senden"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngadimulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bogoran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bendoagung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sugihan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Senden"
+    }
   ]
 }

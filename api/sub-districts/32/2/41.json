@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sagaranten",
-    "Curugluhur",
-    "Cibaregbeg",
-    "Pasanggrahan",
-    "Datarnangka",
-    "Puncakmanggis",
-    "Hegarmanah",
-    "Gunungbentang (Gunung Bentang)",
-    "Sinarbentang (Sinar Bentang)",
-    "Cibitung",
-    "Margaluyu",
-    "Mekarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sagaranten"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Curugluhur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibaregbeg"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasanggrahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Datarnangka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puncakmanggis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunungbentang (Gunung Bentang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinarbentang (Sinar Bentang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cibitung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekarsari"
+    }
   ]
 }

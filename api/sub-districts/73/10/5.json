@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Balleanging (Balleangin)",
-    "Balocci Baru",
-    "Tonasa",
-    "Majannang",
-    "Tompobulu (Tompo Bulu)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Balleanging (Balleangin)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Balocci Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tonasa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Majannang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tompobulu (Tompo Bulu)"
+    }
   ]
 }

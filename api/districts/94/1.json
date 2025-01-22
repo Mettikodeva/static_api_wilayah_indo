@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Nabire",
-    "Napan",
-    "Yaur",
-    "Uwapa",
-    "Wanggar",
-    "Siriwo",
-    "Makimi",
-    "Teluk Umar",
-    "Teluk Kimi",
-    "Yaro",
-    "Wapoga",
-    "Nabire Barat",
-    "Moora",
-    "Dipa",
-    "Menou"
+    {
+      "district_id": 1,
+      "kecamatan": "Nabire"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Napan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Yaur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Uwapa"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wanggar"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Siriwo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Makimi"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Teluk Umar"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Teluk Kimi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Yaro"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wapoga"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Nabire Barat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Moora"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Dipa"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Menou"
+    }
   ]
 }

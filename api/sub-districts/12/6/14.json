@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kubu Colia (Kubucolia)",
-    "Ujung Sampun",
-    "Bukit",
-    "Melas",
-    "Sampun",
-    "Sugihen",
-    "Dolat Rayat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kubu Colia (Kubucolia)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ujung Sampun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Melas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sampun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sugihen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dolat Rayat"
+    }
   ]
 }

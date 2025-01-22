@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Marga Tunggal (Margatunggal)",
-    "Giri Yoso (Giriyoso)",
-    "Kertosono",
-    "Margoyoso",
-    "Bumi Rejo",
-    "Sidodadi",
-    "Marga Tani (Margatani)",
-    "Sukowono",
-    "Purwodadi",
-    "Dono Rejo",
-    "Ngesti Boga I (Ngestiboga I)",
-    "Ngesti Boga II (Ngestiboga II)",
-    "Ngestikarya"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Marga Tunggal (Margatunggal)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Giri Yoso (Giriyoso)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kertosono"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margoyoso"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bumi Rejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marga Tani (Margatani)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukowono"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dono Rejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ngesti Boga I (Ngestiboga I)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ngesti Boga II (Ngestiboga II)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ngestikarya"
+    }
   ]
 }

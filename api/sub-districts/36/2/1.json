@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Cilangkahan",
-    "Pagelaran",
-    "Sukaraja",
-    "Malingping Utara",
-    "Bolang",
-    "Cipeundeuy",
-    "Rahong",
-    "Kadujajar",
-    "Kersaratu",
-    "Malingping Selatan",
-    "Sumberwaras (Sumber Waras)",
-    "Sukamanah",
-    "Senanghati",
-    "Sangiang (Sanghiang)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilangkahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagelaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Malingping Utara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bolang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cipeundeuy"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rahong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kadujajar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kersaratu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Malingping Selatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sumberwaras (Sumber Waras)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sukamanah"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Senanghati"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sangiang (Sanghiang)"
+    }
   ]
 }

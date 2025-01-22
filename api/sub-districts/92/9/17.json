@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Miri",
-    "Meis",
-    "Aifamas",
-    "Meinad",
-    "Atafrumek",
-    "Ifiam",
-    "Wufmana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Miri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aifamas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meinad"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Atafrumek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ifiam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wufmana"
+    }
   ]
 }

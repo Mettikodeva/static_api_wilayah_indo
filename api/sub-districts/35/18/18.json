@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sugihwaras",
-    "Ngluyu",
-    "Tempuran",
-    "Lengkong Lor",
-    "Gampeng",
-    "Bajang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sugihwaras"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngluyu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lengkong Lor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gampeng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bajang"
+    }
   ]
 }

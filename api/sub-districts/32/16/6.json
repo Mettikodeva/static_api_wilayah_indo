@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jatimulya",
-    "Lambangsari",
-    "Lambangjaya",
-    "Tambun",
-    "Setiadarma",
-    "Setiamekar",
-    "Mekarsari",
-    "Tridaya Sakti",
-    "Mangunjaya",
-    "Sumberjaya (Sumber Jaya)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jatimulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lambangsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lambangjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Setiadarma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Setiamekar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tridaya Sakti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mangunjaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumberjaya (Sumber Jaya)"
+    }
   ]
 }

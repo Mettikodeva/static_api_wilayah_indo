@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Buruakol",
-    "Capalulu",
-    "Urifola",
-    "Mangoli",
-    "Wailoba",
-    "Paslal",
-    "Waitulia",
-    "Wai U",
-    "Jere"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buruakol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Capalulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urifola"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mangoli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wailoba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paslal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waitulia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wai U"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jere"
+    }
   ]
 }

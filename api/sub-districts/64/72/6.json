@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Loa Bakung",
-    "Loa Buah",
-    "Karang Asam Ulu",
-    "Lok Bahu",
-    "Teluk Lerong Ulu",
-    "Karang Asam Ilir",
-    "Karang Anyar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Loa Bakung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Loa Buah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karang Asam Ulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lok Bahu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Teluk Lerong Ulu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang Asam Ilir"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karang Anyar"
+    }
   ]
 }

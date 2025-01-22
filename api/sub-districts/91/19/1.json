@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Fanindi",
-    "Odori",
-    "Biniki",
-    "Didiabolo",
-    "Warbefondi (Waberfondi / Warbepondi)",
-    "Awaki",
-    "Maryaidori"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fanindi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Odori"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Biniki"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Didiabolo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Warbefondi (Waberfondi / Warbepondi)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Awaki"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Maryaidori"
+    }
   ]
 }

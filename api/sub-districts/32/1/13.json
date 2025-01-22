@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pabuaran",
-    "Bojongbaru (Bojong Baru)",
-    "Cimanggis",
-    "Susukan",
-    "Ragajaya",
-    "Kedungwaringin (Kedung Waringin)",
-    "Waringinjaya (Waringin Jaya)",
-    "Rawapanjang (Rawa Panjang)",
-    "Bojonggede (Bojong Gede)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bojongbaru (Bojong Baru)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimanggis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Susukan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ragajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedungwaringin (Kedung Waringin)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waringinjaya (Waringin Jaya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rawapanjang (Rawa Panjang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bojonggede (Bojong Gede)"
+    }
   ]
 }

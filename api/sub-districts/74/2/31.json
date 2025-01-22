@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ambodiaa",
-    "Nekudu",
-    "Lasada",
-    "Asinua Jaya",
-    "Angohi",
-    "Awua Jaya",
-    "Awua Sari",
-    "Asipako"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ambodiaa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nekudu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lasada"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asinua Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Angohi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Awua Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Awua Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Asipako"
+    }
   ]
 }

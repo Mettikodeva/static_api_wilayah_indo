@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lhok Asan",
-    "Darul Aman",
-    "Alue Awe",
-    "Darussalam",
-    "Rayeuk Jawa",
-    "Dayah Seupeng",
-    "Uram Jalan",
-    "Peudari",
-    "Krueng Mbang",
-    "Pulo Meuria",
-    "Suka Damai (Sukadamai)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lhok Asan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Darul Aman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alue Awe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Darussalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rayeuk Jawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dayah Seupeng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uram Jalan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Peudari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Krueng Mbang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulo Meuria"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Damai (Sukadamai)"
+    }
   ]
 }

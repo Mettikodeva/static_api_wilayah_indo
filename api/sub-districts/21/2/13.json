@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Parit",
-    "Tulang",
-    "Selat Mendaun (Selatmendaun)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tulang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selat Mendaun (Selatmendaun)"
+    }
   ]
 }

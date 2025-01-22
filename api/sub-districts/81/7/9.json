@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Meror",
-    "Dosimar",
-    "Batugoyang",
-    "Salarem",
-    "Siya",
-    "Beltubur",
-    "Karey",
-    "Jorang",
-    "Gomar Sungai (Gomarsungai)",
-    "Gomar Meti (Gomarmeti)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meror"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dosimar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batugoyang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salarem"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beltubur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karey"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jorang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gomar Sungai (Gomarsungai)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gomar Meti (Gomarmeti)"
+    }
   ]
 }

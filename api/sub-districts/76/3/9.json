@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Minake",
-    "Malabo",
-    "Sindagamanik",
-    "Parondobulawan",
-    "Tamalantik",
-    "Mannababa",
-    "Mesakada",
-    "Ballabatu",
-    "Pambe",
-    "Salurano",
-    "Talimbung",
-    "Kanan"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Minake"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malabo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sindagamanik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parondobulawan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamalantik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mannababa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mesakada"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ballabatu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pambe"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Salurano"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talimbung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kanan"
+    }
   ]
 }

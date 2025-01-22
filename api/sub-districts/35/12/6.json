@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Paowan",
-    "Sumberkolak (Sumber Kolak)",
-    "Wringinanom",
-    "Kilensari",
-    "Peleyan",
-    "Alasmalang (Alas Malang)",
-    "Duwet",
-    "Gelung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paowan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberkolak (Sumber Kolak)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wringinanom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kilensari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peleyan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alasmalang (Alas Malang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Duwet"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gelung"
+    }
   ]
 }

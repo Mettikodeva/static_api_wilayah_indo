@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mentikan",
-    "Kauman",
-    "Pulorejo",
-    "Prajuritkulon (Prajurit Kulon)",
-    "Surodinawan",
-    "Blooto"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mentikan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pulorejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Prajuritkulon (Prajurit Kulon)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Surodinawan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Blooto"
+    }
   ]
 }

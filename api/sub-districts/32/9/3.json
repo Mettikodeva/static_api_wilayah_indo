@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Astanalanggar",
-    "Barisan",
-    "Losari Kidul",
-    "Panggangsari",
-    "Losari Lor",
-    "Mulyasari",
-    "Kalirahayu",
-    "Kalisari",
-    "Ambulu",
-    "Tawangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Astanalanggar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barisan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Losari Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panggangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Losari Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalirahayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ambulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tawangsari"
+    }
   ]
 }

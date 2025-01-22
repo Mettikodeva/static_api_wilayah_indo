@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Mur",
-    "Agham",
-    "Waghien/Koba",
-    "Khatan",
-    "Monana",
-    "Wagin",
-    "Waman",
-    "Ima",
-    "Kogoyaman",
-    "Magabag",
-    "Tereyemu",
-    "Yatan",
-    "Linggua",
-    "Waruwe",
-    "Ghanu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Agham"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waghien/Koba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Khatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Monana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wagin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Waman"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ima"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kogoyaman"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Magabag"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tereyemu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Yatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Linggua"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Waruwe"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Ghanu"
+    }
   ]
 }

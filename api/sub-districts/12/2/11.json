@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Manalu",
-    "Manalu Purba",
-    "Manalu Dolok",
-    "Hutajulu",
-    "Aek Raja",
-    "Hutatinggi",
-    "Lobusunut",
-    "Sisordak",
-    "Pertengahan",
-    "Hutatua",
-    "Hutajulu Parbalik/Purbalik",
-    "Horisan Ranggitgit (Horison Ranggigit)",
-    "Purba Dolok",
-    "Batuarimo (Batu Arimo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manalu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manalu Purba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manalu Dolok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hutajulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aek Raja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hutatinggi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lobusunut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sisordak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pertengahan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hutatua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hutajulu Parbalik/Purbalik"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Horisan Ranggitgit (Horison Ranggigit)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Purba Dolok"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batuarimo (Batu Arimo)"
+    }
   ]
 }

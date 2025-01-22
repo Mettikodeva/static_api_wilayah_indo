@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Petani",
-    "Airkulim (Air Kulim)",
-    "Buluhmanis (Buluh Manis)",
-    "Bumbung",
-    "Pamesi",
-    "Kesumboampai",
-    "Bathinsobanga (Bathin Sobanga)",
-    "Sebangar",
-    "Boncahmahang (Boncah Mahang)",
-    "Balaimakam (Balai Makam)",
-    "Tambusaibatangdui (Tambusai Batang Dui)",
-    "Simpangpadang (Simpang Padang)",
-    "Pematangobo (Pematang Obo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Petani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Airkulim (Air Kulim)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buluhmanis (Buluh Manis)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bumbung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pamesi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kesumboampai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bathinsobanga (Bathin Sobanga)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sebangar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Boncahmahang (Boncah Mahang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balaimakam (Balai Makam)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambusaibatangdui (Tambusai Batang Dui)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Simpangpadang (Simpang Padang)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pematangobo (Pematang Obo)"
+    }
   ]
 }

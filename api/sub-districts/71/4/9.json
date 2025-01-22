@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Peret",
-    "Ighik",
-    "Birang",
-    "Akas",
-    "Damau",
-    "Damau Bowone (Damau Bawone)",
-    "Taduwale",
-    "Akas Balane"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peret"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ighik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Birang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Akas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Damau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Damau Bowone (Damau Bawone)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taduwale"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Akas Balane"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mot / Moot",
-    "Milki",
-    "Yubu",
-    "Muara Asbi",
-    "Tual"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mot / Moot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Milki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yubu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Asbi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tual"
+    }
   ]
 }

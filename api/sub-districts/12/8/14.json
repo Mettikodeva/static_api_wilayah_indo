@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tiga Runggu",
-    "Purba Tongah",
-    "Pematang Purba",
-    "Urung Purba",
-    "Purba Sipinggan",
-    "Hinalang",
-    "Purba Dolok (Purba Dolog)",
-    "Tano Tinggir",
-    "Seribu Jandi (Seribu Jadi)",
-    "Huta Raja",
-    "Bandar Sauhur",
-    "Bunga Sampang",
-    "Nagori Tongah",
-    "Urung Pane"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tiga Runggu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purba Tongah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pematang Purba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urung Purba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purba Sipinggan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hinalang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purba Dolok (Purba Dolog)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tano Tinggir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seribu Jandi (Seribu Jadi)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Huta Raja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bandar Sauhur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bunga Sampang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nagori Tongah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Urung Pane"
+    }
   ]
 }

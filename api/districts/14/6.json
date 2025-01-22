@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Ujung Batu",
-    "Rokan IV Koto",
-    "Rambah",
-    "Tambusai",
-    "Kepenuhan",
-    "Kunto Darussalam",
-    "Rambah Samo",
-    "Rambah Hilir",
-    "Tambusai Utara",
-    "Bangun Purba",
-    "Tandun",
-    "Kabun",
-    "Bonai Darussalam",
-    "Pagaran Tapah Darussalam",
-    "Kepenuhan Hulu",
-    "Pendalian IV Koto"
+    {
+      "district_id": 1,
+      "kecamatan": "Ujung Batu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Rokan IV Koto"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Rambah"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tambusai"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kepenuhan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kunto Darussalam"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Rambah Samo"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Rambah Hilir"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tambusai Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bangun Purba"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tandun"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kabun"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Bonai Darussalam"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Pagaran Tapah Darussalam"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kepenuhan Hulu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pendalian IV Koto"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Golopura",
-    "Wirini",
-    "Nileme",
-    "Libome",
-    "Kulia",
-    "Yamiga",
-    "Gubugame",
-    "Kamenak",
-    "Perime",
-    "Wadinawi",
-    "Nengguga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Golopura"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wirini"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nileme"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Libome"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kulia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yamiga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gubugame"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kamenak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perime"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wadinawi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nengguga"
+    }
   ]
 }

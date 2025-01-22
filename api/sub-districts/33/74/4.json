@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tambakrejo",
-    "Kaligawe",
-    "Sawah Besar (Sawahbesar)",
-    "Sambirejo",
-    "Siwalan",
-    "Pandean Lamper",
-    "Gayamsari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tambakrejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kaligawe"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sawah Besar (Sawahbesar)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Siwalan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pandean Lamper"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gayamsari"
+    }
   ]
 }

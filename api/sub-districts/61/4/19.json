@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Menyumbung",
-    "Senduruhan",
-    "Cinta Manis",
-    "Beginci Darat",
-    "Benua Krio",
-    "Riam Dadap",
-    "Sekukun (Sekunkun)",
-    "Batu Lapis",
-    "Krio Hulu",
-    "Kenyabur",
-    "Sunge Bengaras (Sungai Bengaras)",
-    "Lubuk Kakap"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Menyumbung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Senduruhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cinta Manis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beginci Darat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benua Krio"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Riam Dadap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sekukun (Sekunkun)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Lapis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Krio Hulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kenyabur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sunge Bengaras (Sungai Bengaras)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lubuk Kakap"
+    }
   ]
 }

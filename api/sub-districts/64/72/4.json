@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Selili",
-    "Sungai Dama",
-    "Sidomulyo",
-    "Sidodamai",
-    "Pelita"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Selili"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sungai Dama"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sidodamai"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pelita"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pasar Lais",
-    "Datar Lebar",
-    "Air Padang",
-    "Durian Daun",
-    "Dusun Rajo/Raja",
-    "Lubuk Lesung",
-    "Pal 30 (Pal Tiga Puluh)",
-    "Jagobayo (Jago Bayo)",
-    "Talang Rasau",
-    "Lubuk Gedang",
-    "Suka Langu",
-    "Taba Baru",
-    "Kalbang"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pasar Lais"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Datar Lebar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Padang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Durian Daun"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dusun Rajo/Raja"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lubuk Lesung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pal 30 (Pal Tiga Puluh)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jagobayo (Jago Bayo)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Talang Rasau"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lubuk Gedang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Suka Langu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Taba Baru"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kalbang"
+    }
   ]
 }

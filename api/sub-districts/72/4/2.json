@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Banagan",
-    "Kabinuang",
-    "Ogotua",
-    "Tompoh",
-    "Bambapula",
-    "Malambigu",
-    "Simatang Tanjung",
-    "Simatang Utara",
-    "Sese",
-    "Ogolali",
-    "Balaroa",
-    "Stadong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banagan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kabinuang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ogotua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tompoh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bambapula"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malambigu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simatang Tanjung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simatang Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sese"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ogolali"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Balaroa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Stadong"
+    }
   ]
 }

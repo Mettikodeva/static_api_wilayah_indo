@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Nangka",
-    "Muhi Bersatu",
-    "Suka Maju",
-    "Cempaka Putih",
-    "Kiung",
-    "Kelayu (Kelayuk)",
-    "Suti Semarang",
-    "Tapen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nangka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muhi Bersatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cempaka Putih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kiung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelayu (Kelayuk)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suti Semarang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tapen"
+    }
   ]
 }

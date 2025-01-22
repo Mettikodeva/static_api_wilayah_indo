@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Pelayar",
-    "Tanjung Sungkai",
-    "Tanjung Tengah",
-    "Tanjung Kunyit",
-    "Teluk Tamiang (Teluk Tamiyang)",
-    "Gosong Panjang",
-    "Kampung Baru",
-    "Tata Mekar",
-    "Bandar Raya",
-    "Bangun Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Pelayar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Sungkai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Kunyit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Tamiang (Teluk Tamiyang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gosong Panjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tata Mekar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandar Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bangun Rejo"
+    }
   ]
 }

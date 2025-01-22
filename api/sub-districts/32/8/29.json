@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Karangkancana",
-    "Kaduagung",
-    "Segong",
-    "Tanjungkerta",
-    "Sukasari",
-    "Margacina",
-    "Jabranti",
-    "Simpayjaya",
-    "Cihanjaro"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangkancana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaduagung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Segong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungkerta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margacina"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jabranti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpayjaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cihanjaro"
+    }
   ]
 }

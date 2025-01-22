@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sungai Limau (Sei Limau)",
-    "Maspul",
-    "Aji Kuning",
-    "Bukit Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Limau (Sei Limau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maspul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aji Kuning"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Harapan"
+    }
   ]
 }

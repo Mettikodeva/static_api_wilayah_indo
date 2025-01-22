@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sibiogud",
-    "Krobut",
-    "Tubyam",
-    "Sakumi",
-    "Tombrok",
-    "Sisrang",
-    "Ngisrow",
-    "Itkau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sibiogud"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Krobut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tubyam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sakumi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tombrok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sisrang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngisrow"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Itkau"
+    }
   ]
 }

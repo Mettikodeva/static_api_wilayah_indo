@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Kedi",
-    "Soasio (Soa-Sio)",
-    "Totala",
-    "Tolofuo",
-    "Tuguis",
-    "Tasye",
-    "Laba Besar",
-    "Laba Kecil",
-    "Bakun",
-    "Buo",
-    "Kahatola",
-    "Bosala",
-    "Salu",
-    "Bantoli (Bantol)",
-    "Linggua",
-    "Tomodo",
-    "Totala Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soasio (Soa-Sio)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Totala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tolofuo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuguis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tasye"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laba Besar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Laba Kecil"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bakun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Buo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kahatola"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bosala"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Salu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bantoli (Bantol)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Linggua"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Tomodo"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Totala Jaya"
+    }
   ]
 }

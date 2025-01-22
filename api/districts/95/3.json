@@ -1,55 +1,208 @@
 {
   "districts": [
-    "Kurima",
-    "Anggruk",
-    "Ninia",
-    "Silimo",
-    "Samenage",
-    "Nalca",
-    "Dekai",
-    "Obio",
-    "Suru Suru",
-    "Wusama",
-    "Amuma",
-    "Musaik",
-    "Pasema",
-    "Hogio",
-    "Mugi",
-    "Soba",
-    "Werima",
-    "Tangma",
-    "Ukha",
-    "Panggema",
-    "Kosarek",
-    "Nipsan",
-    "Ubahak",
-    "Pronggoli",
-    "Walma",
-    "Yahuliambut",
-    "Hereapini",
-    "Ubalihi",
-    "Talambo",
-    "Puldama",
-    "Endomen",
-    "Kona",
-    "Dirwemna",
-    "Holuwon",
-    "Lolat",
-    "Soloikma",
-    "Sela",
-    "Korupun",
-    "Langda",
-    "Bomela",
-    "Suntamon",
-    "Seradala",
-    "Sobaham",
-    "Kabianggama",
-    "Kwelamdua",
-    "Kwikma",
-    "Hilipuk",
-    "Duram",
-    "Yogosem",
-    "Kayo",
-    "Sumo"
+    {
+      "district_id": 1,
+      "kecamatan": "Kurima"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Anggruk"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ninia"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Silimo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Samenage"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Nalca"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Dekai"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Obio"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Suru Suru"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Wusama"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Amuma"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Musaik"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pasema"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Hogio"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Mugi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Soba"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Werima"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tangma"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Ukha"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Panggema"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kosarek"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Nipsan"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Ubahak"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pronggoli"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Walma"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Yahuliambut"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Hereapini"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Ubalihi"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Talambo"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Puldama"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Endomen"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Kona"
+    },
+    {
+      "district_id": 33,
+      "kecamatan": "Dirwemna"
+    },
+    {
+      "district_id": 34,
+      "kecamatan": "Holuwon"
+    },
+    {
+      "district_id": 35,
+      "kecamatan": "Lolat"
+    },
+    {
+      "district_id": 36,
+      "kecamatan": "Soloikma"
+    },
+    {
+      "district_id": 37,
+      "kecamatan": "Sela"
+    },
+    {
+      "district_id": 38,
+      "kecamatan": "Korupun"
+    },
+    {
+      "district_id": 39,
+      "kecamatan": "Langda"
+    },
+    {
+      "district_id": 40,
+      "kecamatan": "Bomela"
+    },
+    {
+      "district_id": 41,
+      "kecamatan": "Suntamon"
+    },
+    {
+      "district_id": 42,
+      "kecamatan": "Seradala"
+    },
+    {
+      "district_id": 43,
+      "kecamatan": "Sobaham"
+    },
+    {
+      "district_id": 44,
+      "kecamatan": "Kabianggama"
+    },
+    {
+      "district_id": 45,
+      "kecamatan": "Kwelamdua"
+    },
+    {
+      "district_id": 46,
+      "kecamatan": "Kwikma"
+    },
+    {
+      "district_id": 47,
+      "kecamatan": "Hilipuk"
+    },
+    {
+      "district_id": 48,
+      "kecamatan": "Duram"
+    },
+    {
+      "district_id": 49,
+      "kecamatan": "Yogosem"
+    },
+    {
+      "district_id": 50,
+      "kecamatan": "Kayo"
+    },
+    {
+      "district_id": 51,
+      "kecamatan": "Sumo"
+    }
   ]
 }

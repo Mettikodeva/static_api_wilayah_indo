@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Rangkiang Luluih",
-    "Batu Bajanjang (Batu Banjajang)",
-    "Garabak Data",
-    "Tanjung Balik Sumiso",
-    "Simanau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rangkiang Luluih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Bajanjang (Batu Banjajang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Garabak Data"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Balik Sumiso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simanau"
+    }
   ]
 }

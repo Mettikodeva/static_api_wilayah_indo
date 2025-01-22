@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ringinpitu",
-    "Ngambakrejo",
-    "Kapung",
-    "Mrisi",
-    "Kaliwenang",
-    "Sugihmanik",
-    "Tanggungharjo",
-    "Brabo",
-    "Padang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ringinpitu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngambakrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kapung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mrisi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kaliwenang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sugihmanik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanggungharjo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Brabo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang"
+    }
   ]
 }

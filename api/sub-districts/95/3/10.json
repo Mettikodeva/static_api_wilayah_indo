@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Apdagma (Apdakma)",
-    "Sabin",
-    "Mugi (Mogi)",
-    "Harap",
-    "Suok",
-    "Mul",
-    "Kolodoma",
-    "Sangatur",
-    "Sowaling",
-    "Yerekama",
-    "Walkuma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Apdagma (Apdakma)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sabin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mugi (Mogi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Harap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kolodoma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sangatur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sowaling"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yerekama"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Walkuma"
+    }
   ]
 }

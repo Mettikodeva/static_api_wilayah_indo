@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kemumu",
-    "Tebing Kaning",
-    "Sidodadi",
-    "Sumber Agung",
-    "Pematang Sapang",
-    "Pagar Banyu",
-    "Gardu",
-    "Kali",
-    "Kalai Duai",
-    "Pagar Ruyung",
-    "Air Merah",
-    "Gunung Besar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kemumu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebing Kaning"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pematang Sapang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagar Banyu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gardu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kali"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalai Duai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagar Ruyung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Air Merah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gunung Besar"
+    }
   ]
 }

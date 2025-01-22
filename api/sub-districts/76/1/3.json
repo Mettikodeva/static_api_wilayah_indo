@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Baras",
-    "Balanti",
-    "Motu",
-    "Bulu Parigi",
-    "Towoni (Toroni)",
-    "Kasano"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baras"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balanti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Motu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bulu Parigi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Towoni (Toroni)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kasano"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Benoa",
-    "Tanjung Benoa",
-    "Jimbaran",
-    "Pecatu",
-    "Ungasan",
-    "Kutuh"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Benoa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung Benoa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jimbaran"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pecatu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ungasan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kutuh"
+    }
   ]
 }

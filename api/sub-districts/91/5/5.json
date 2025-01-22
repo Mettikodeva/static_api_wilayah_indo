@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Poom I",
-    "Serewen",
-    "Poom II",
-    "Mokiroan",
-    "Rasiri (Woisiri)",
-    "Warioi",
-    "Humbe Awai",
-    "Nurawi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Poom I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Serewen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Poom II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mokiroan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rasiri (Woisiri)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Warioi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Humbe Awai"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nurawi"
+    }
   ]
 }

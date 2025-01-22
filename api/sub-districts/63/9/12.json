@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Waling",
-    "Usih",
-    "Bintang Ara",
-    "Burum",
-    "Panaan",
-    "Dambung Raya (Dambung / Raya)",
-    "Argo Mulyo",
-    "Bumi Makmur",
-    "Hegarmanah (Hegar Manah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waling"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Usih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bintang Ara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Burum"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panaan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dambung Raya (Dambung / Raya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Argo Mulyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bumi Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hegarmanah (Hegar Manah)"
+    }
   ]
 }

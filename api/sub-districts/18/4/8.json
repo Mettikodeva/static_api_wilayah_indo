@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sekincau",
-    "Pampangan",
-    "Waspada",
-    "Tiga Jaya",
-    "Giham Sukamaju"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sekincau"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pampangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waspada"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tiga Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Giham Sukamaju"
+    }
   ]
 }

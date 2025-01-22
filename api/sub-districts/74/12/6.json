@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sawaea",
-    "Wungkolo",
-    "Bobolio",
-    "Wawosou (Wawouso)",
-    "Lawey",
-    "Baku Baku",
-    "Sawapatani (Sawa Patani)",
-    "Wawouso Baru",
-    "Puuwatu",
-    "Wawoone (Wawo One)",
-    "Langgara Jaya"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sawaea"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wungkolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bobolio"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wawosou (Wawouso)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lawey"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baku Baku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawapatani (Sawa Patani)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wawouso Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puuwatu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wawoone (Wawo One)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Langgara Jaya"
+    }
   ]
 }

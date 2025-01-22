@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pangkut",
-    "Nanga Mua",
-    "Sukarami (Sukaramai)",
-    "Gandis",
-    "Kerabu",
-    "Sambi",
-    "Penyombaan (Penyobaan)",
-    "Pandau",
-    "Riam",
-    "Panahan",
-    "Sungai Dau"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pangkut"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Mua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukarami (Sukaramai)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gandis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kerabu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sambi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penyombaan (Penyobaan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pandau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Riam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Panahan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Dau"
+    }
   ]
 }

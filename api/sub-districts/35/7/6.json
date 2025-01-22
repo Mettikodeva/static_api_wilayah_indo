@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Lebakharjo",
-    "Wirotaman",
-    "Tamanasri",
-    "Tirtomarto",
-    "Purwoharjo",
-    "Sidorenggo",
-    "Tirtomoyo",
-    "Argoyuwono",
-    "Mulyoasri",
-    "Tawangagung",
-    "Simojayan",
-    "Tamansari",
-    "Sonowangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebakharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wirotaman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamanasri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tirtomarto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purwoharjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidorenggo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tirtomoyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Argoyuwono"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mulyoasri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tawangagung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simojayan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sonowangi"
+    }
   ]
 }

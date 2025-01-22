@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Hubukiak / Hubikiak",
-    "Hituma (Hetuma)",
-    "Dokopku",
-    "Likino",
-    "Musiamia",
-    "Husoak",
-    "Hom-hom",
-    "Musiamia Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hubukiak / Hubikiak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hituma (Hetuma)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dokopku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Likino"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Musiamia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Husoak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hom-hom"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Musiamia Dua"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pasir Panjang (Pasirpanjang)",
-    "Paudean",
-    "Batulubang",
-    "Papusungan",
-    "Pancuran",
-    "Dorbolaang (Dorbolaan)",
-    "Kelapa Dua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasir Panjang (Pasirpanjang)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Paudean"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Batulubang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Papusungan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pancuran"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Dorbolaang (Dorbolaan)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kelapa Dua"
+    }
   ]
 }

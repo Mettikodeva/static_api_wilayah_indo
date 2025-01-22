@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Wee Karou",
-    "Sobawawi (Soba Wawi)",
-    "Loda Pare",
-    "Wee Dabo",
-    "Dira Tana",
-    "Bera Dolu",
-    "Doka Kaka",
-    "Tana Rara",
-    "Bali Ledo",
-    "Dedekadu (Dede Kadu)",
-    "Ubu Pede",
-    "Tema Tana",
-    "Ubu Raya",
-    "Manola"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wee Karou"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sobawawi (Soba Wawi)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Loda Pare"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Wee Dabo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Dira Tana"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bera Dolu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Doka Kaka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tana Rara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bali Ledo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dedekadu (Dede Kadu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ubu Pede"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tema Tana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ubu Raya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Manola"
+    }
   ]
 }

@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Salaman",
-    "Borobudur",
-    "Ngluwar",
-    "Salam",
-    "Srumbung",
-    "Dukun",
-    "Sawangan",
-    "Muntilan",
-    "Mungkid",
-    "Mertoyudan",
-    "Tempuran",
-    "Kajoran",
-    "Kaliangkrik",
-    "Bandongan",
-    "Candimulyo",
-    "Pakis",
-    "Ngablak",
-    "Grabag",
-    "Tegalrejo",
-    "Secang",
-    "Windusari"
+    {
+      "district_id": 1,
+      "kecamatan": "Salaman"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Borobudur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ngluwar"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Salam"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Srumbung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Dukun"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sawangan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Muntilan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mungkid"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Mertoyudan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tempuran"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kajoran"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kaliangkrik"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Bandongan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Candimulyo"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pakis"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Ngablak"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Grabag"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tegalrejo"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Secang"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Windusari"
+    }
   ]
 }

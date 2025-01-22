@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pentat",
-    "Lembonah",
-    "Muara Nayan",
-    "Mancong",
-    "Perigiq",
-    "Muara Ohong",
-    "Tanjung Jone",
-    "Tanjung Isuy",
-    "Tanjung Jan",
-    "Pulau Lanting",
-    "Muara Tae",
-    "Bekokong Makmur (Resak Bekokong)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pentat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lembonah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Nayan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mancong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perigiq"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Ohong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Jone"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Isuy"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Jan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Lanting"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Tae"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bekokong Makmur (Resak Bekokong)"
+    }
   ]
 }

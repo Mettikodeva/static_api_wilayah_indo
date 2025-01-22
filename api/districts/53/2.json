@@ -1,36 +1,132 @@
 {
   "districts": [
-    "Kota Soe",
-    "Mollo Selatan",
-    "Mollo Utara",
-    "Amanuban Timur",
-    "Amanuban Tengah",
-    "Amanuban Selatan",
-    "Amanuban Barat",
-    "Amanatun Selatan",
-    "Amanatun Utara",
-    "KI'E (Kie, Ki'e)",
-    "Kuanfatu",
-    "Fatumnasi",
-    "Polen",
-    "Batu Putih",
-    "Boking",
-    "Toianas",
-    "Nunkolo",
-    "Oenino",
-    "Kolbano",
-    "Kot Olin",
-    "Kualin",
-    "Mollo Barat",
-    "Kok Baun",
-    "Noebana",
-    "Santian",
-    "Noebeba",
-    "Kuatnana",
-    "Fautmolo",
-    "Fatukopa",
-    "Mollo Tengah",
-    "Tobu",
-    "Nunbena"
+    {
+      "district_id": 1,
+      "kecamatan": "Kota Soe"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mollo Selatan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mollo Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Amanuban Timur"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Amanuban Tengah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Amanuban Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Amanuban Barat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Amanatun Selatan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Amanatun Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "KI'E (Kie, Ki'e)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kuanfatu"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Fatumnasi"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Polen"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Batu Putih"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Boking"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Toianas"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Nunkolo"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Oenino"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kolbano"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kot Olin"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kualin"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Mollo Barat"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Kok Baun"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Noebana"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Santian"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Noebeba"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Kuatnana"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Fautmolo"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Fatukopa"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Mollo Tengah"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Tobu"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Nunbena"
+    }
   ]
 }

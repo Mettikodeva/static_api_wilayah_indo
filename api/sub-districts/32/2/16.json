@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cicurug",
-    "Nyangkowek",
-    "Tenjolaya",
-    "Benda",
-    "Pasawahan",
-    "Cisaat",
-    "Purwasari",
-    "Caringin",
-    "Tenjoayu",
-    "Kutajaya",
-    "Mekarsari",
-    "Bangbayang",
-    "Nanggerang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cicurug"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nyangkowek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tenjolaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Benda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasawahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cisaat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purwasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tenjoayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kutajaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bangbayang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nanggerang"
+    }
   ]
 }

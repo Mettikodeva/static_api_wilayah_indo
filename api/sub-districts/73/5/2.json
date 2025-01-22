@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mangadu",
-    "Lengkese",
-    "Topejawa",
-    "Lakatong",
-    "Banggae",
-    "Bontomanai"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mangadu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lengkese"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Topejawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lakatong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banggae"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bontomanai"
+    }
   ]
 }

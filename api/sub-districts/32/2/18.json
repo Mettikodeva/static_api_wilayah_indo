@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kalapanunggal (Kalapa Nunggal)",
-    "Palasari Girang",
-    "Pulosari",
-    "Makasari",
-    "Kadununggal",
-    "Walang Sari (Walangsari)",
-    "Gunungendut (Gunung Endut)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalapanunggal (Kalapa Nunggal)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Palasari Girang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Makasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kadununggal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Walang Sari (Walangsari)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunungendut (Gunung Endut)"
+    }
   ]
 }

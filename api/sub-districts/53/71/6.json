@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Airmata (Air Mata)",
-    "Lai Lai Bisi Kopan",
-    "Bonipoi",
-    "Solor",
-    "Tode Kisar",
-    "Merdeka",
-    "Oeba",
-    "Fatubesi",
-    "Pasir Panjang",
-    "Nefonaek"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Airmata (Air Mata)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lai Lai Bisi Kopan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bonipoi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Solor"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tode Kisar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Merdeka"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Oeba"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Fatubesi"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pasir Panjang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Nefonaek"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kawunganten (Kaunganten)",
-    "Sindangsari",
-    "Cikaum Barat",
-    "Cikaum Timur",
-    "Tanjungsari Barat",
-    "Mekarsari",
-    "Tanjungsari Timur",
-    "Gandasari",
-    "Pasirmuncang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kawunganten (Kaunganten)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikaum Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikaum Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjungsari Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungsari Timur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gandasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasirmuncang"
+    }
   ]
 }

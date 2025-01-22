@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Air Kelik",
-    "Mempaya",
-    "Burong Mandi (Burung Mandi)",
-    "Mengkubang",
-    "Sukamandi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Kelik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mempaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Burong Mandi (Burung Mandi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mengkubang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamandi"
+    }
   ]
 }

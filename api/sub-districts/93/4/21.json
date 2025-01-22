@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Piramat",
-    "Bawos",
-    "Akan Tapak",
-    "Tauro",
-    "Bagair",
-    "Wiyar",
-    "Kagas",
-    "Mapane",
-    "Ainamsato",
-    "Amaita"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Piramat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bawos"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Akan Tapak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tauro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bagair"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wiyar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kagas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mapane"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ainamsato"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Amaita"
+    }
   ]
 }

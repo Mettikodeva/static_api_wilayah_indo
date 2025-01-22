@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Makalisung",
-    "Waleo",
-    "Lilang",
-    "Lansot",
-    "Kema III (Kema Tiga)",
-    "Kema II (Kema Dua)",
-    "Kema I (Kema Satu)",
-    "Tontalete",
-    "Tontaalete Rok-rok",
-    "Waleo Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Makalisung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waleo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lilang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lansot"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kema III (Kema Tiga)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kema II (Kema Dua)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kema I (Kema Satu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tontalete"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tontaalete Rok-rok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waleo Dua"
+    }
   ]
 }

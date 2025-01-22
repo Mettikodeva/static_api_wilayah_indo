@@ -1,45 +1,168 @@
 {
   "sub_districts": [
-    "Rheum Barat",
-    "Rheum Barouh/Baroh",
-    "Rheum Timu (Rheum Timur)",
-    "Blang Kuta Coh",
-    "Blang Kuta Dua Meunasah",
-    "Lancang",
-    "Blang Teumulek",
-    "Meunasah Mesjid",
-    "Jurong Binjee",
-    "Blang Mane Dua Meunasah",
-    "Blang Mane Barat",
-    "Balee",
-    "Arongan",
-    "Meunasah Mamplam",
-    "Pulo Dapong",
-    "Ceurucok (Ceureucok)",
-    "Ie Rhob Geulumpang/Glumpang",
-    "Ie Rhob Barat",
-    "Ie Rhob Timu (Ie Rhob Timur)",
-    "Ie Rhob Babah Lueng",
-    "Glee Meudong (Gle Meundong)",
-    "Pulo Drien",
-    "Meunasah Dayah",
-    "Cot Trieng",
-    "Krueng Meuseugob",
-    "Lhok Tanoh",
-    "Blang Tambue",
-    "Keude Tambue",
-    "Meunasah Asan",
-    "Peuneulet Tunong",
-    "Cure Tunong",
-    "Cure Baroh",
-    "Peuneulet Baroh",
-    "Ulee Kareung",
-    "Blang Payang (Blang Panyang)",
-    "Calok",
-    "Alue Leuhop (Alue Leuhob)",
-    "Paku",
-    "Lhok Mane",
-    "Tambue Barat",
-    "Meunasah Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rheum Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rheum Barouh/Baroh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rheum Timu (Rheum Timur)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Blang Kuta Coh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blang Kuta Dua Meunasah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lancang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Blang Teumulek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meunasah Mesjid"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jurong Binjee"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Blang Mane Dua Meunasah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Blang Mane Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Balee"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Arongan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Meunasah Mamplam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pulo Dapong"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ceurucok (Ceureucok)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ie Rhob Geulumpang/Glumpang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ie Rhob Barat"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ie Rhob Timu (Ie Rhob Timur)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ie Rhob Babah Lueng"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Glee Meudong (Gle Meundong)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pulo Drien"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Meunasah Dayah"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Cot Trieng"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Krueng Meuseugob"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Lhok Tanoh"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Blang Tambue"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Keude Tambue"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Meunasah Asan"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Peuneulet Tunong"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Cure Tunong"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Cure Baroh"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Peuneulet Baroh"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Ulee Kareung"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Blang Payang (Blang Panyang)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Calok"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Alue Leuhop (Alue Leuhob)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Paku"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Lhok Mane"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Tambue Barat"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Meunasah Barat"
+    }
   ]
 }

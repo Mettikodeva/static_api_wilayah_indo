@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Betumonga",
-    "Silabu",
-    "Saumanganya (Saumanganyak)"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Betumonga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Silabu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Saumanganya (Saumanganyak)"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sei Semayang",
-    "Lalang (Kampung Lalang)",
-    "Puji Mulyo",
-    "Paya Geli",
-    "Mulio Rejo (Mulyo Rejo)",
-    "Purwodadi",
-    "Sumber Melati Diski (Sm Diski)",
-    "Tanjung Gusta",
-    "Helvetia",
-    "Medan Krio",
-    "Sei Mencirim",
-    "Sukamaju (Suka Maju)",
-    "Sunggal Kanan (Tunggal Kanan / Sungal Kanan)",
-    "Serbajadi (Sukajadi / Serba Jadi)",
-    "Telaga Sari",
-    "Tanjung Selamat",
-    "Sei Beras Sekata"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei Semayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lalang (Kampung Lalang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puji Mulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paya Geli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mulio Rejo (Mulyo Rejo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Melati Diski (Sm Diski)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Gusta"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Helvetia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Medan Krio"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sei Mencirim"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukamaju (Suka Maju)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sunggal Kanan (Tunggal Kanan / Sungal Kanan)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Serbajadi (Sukajadi / Serba Jadi)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Telaga Sari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanjung Selamat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sei Beras Sekata"
+    }
   ]
 }

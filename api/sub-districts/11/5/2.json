@@ -1,48 +1,180 @@
 {
   "sub_districts": [
-    "Keude Aron",
-    "Kampung Masjid (Mesjid)",
-    "Padang Mancang",
-    "Meunasah Buloh",
-    "Alue Tampak",
-    "Beureugang",
-    "Marek",
-    "Pasi Jambu",
-    "Meunasah Ara",
-    "Meunasah Rayeuk",
-    "Simpang",
-    "Peunia",
-    "Tumpok Ladang",
-    "Pasi Teungoh",
-    "Putim",
-    "Meunasah Rambot",
-    "Pasi Jeumpa",
-    "Palimbungan",
-    "Muko",
-    "Meunasah Gantung",
-    "Blang Geunang",
-    "Puuk",
-    "Tanjong Bungong (Tanjong Bunga)",
-    "Alue On",
-    "Tanjong Meulaboh",
-    "Keude Tanjong",
-    "Pungkie",
-    "Pucok Pungkie",
-    "Teladan (Teuladan)",
-    "Pasi Ara",
-    "Meunuang Tanjong (Menuang Tanjong)",
-    "Alue Lhee",
-    "Blang Dalam",
-    "Teupin Panah",
-    "Drien Caleue (Drien Calee)",
-    "Alue Peudeung",
-    "Pasi Meugat",
-    "Babah Meulaboh",
-    "Pasi Kumbang",
-    "Padang Sikabu",
-    "Sawang Teubei (Sawang Teubee)",
-    "Alue Lhok",
-    "Butu Jaya (Batu Jaya)",
-    "Keuramat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Aron"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kampung Masjid (Mesjid)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Mancang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meunasah Buloh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Alue Tampak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beureugang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasi Jambu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meunasah Ara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meunasah Rayeuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simpang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Peunia"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tumpok Ladang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pasi Teungoh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Putim"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Meunasah Rambot"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pasi Jeumpa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Palimbungan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Muko"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Meunasah Gantung"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Blang Geunang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Puuk"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanjong Bungong (Tanjong Bunga)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Alue On"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tanjong Meulaboh"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Keude Tanjong"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Pungkie"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Pucok Pungkie"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Teladan (Teuladan)"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Pasi Ara"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Meunuang Tanjong (Menuang Tanjong)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Alue Lhee"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Blang Dalam"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Teupin Panah"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Drien Caleue (Drien Calee)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Alue Peudeung"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Pasi Meugat"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Babah Meulaboh"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Pasi Kumbang"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Padang Sikabu"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Sawang Teubei (Sawang Teubee)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Alue Lhok"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Butu Jaya (Batu Jaya)"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Keuramat"
+    }
   ]
 }

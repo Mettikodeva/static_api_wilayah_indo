@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Aikmel",
-    "Kalijaga",
-    "Kembang Kerang",
-    "Aikmel Utara",
-    "Kalijaga Timur",
-    "Kalijaga Selatan",
-    "Aikmel Barat",
-    "Kembang Kerang Daya",
-    "Toya",
-    "Kalijaga Tengah",
-    "Bagik Nyaka Santri",
-    "Aik Prapa",
-    "Aikmel Timur",
-    "Keroya"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aikmel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalijaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kembang Kerang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aikmel Utara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalijaga Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalijaga Selatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aikmel Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kembang Kerang Daya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Toya"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kalijaga Tengah"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bagik Nyaka Santri"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Aik Prapa"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Aikmel Timur"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Keroya"
+    }
   ]
 }

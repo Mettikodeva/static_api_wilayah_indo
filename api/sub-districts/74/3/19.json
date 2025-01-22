@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Dana",
-    "Wali",
-    "Lakapodo",
-    "Wakadia",
-    "Matarawa",
-    "Bhangkali Barat",
-    "Bangkali",
-    "Labaha"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Dana"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wali"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lakapodo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wakadia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matarawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bhangkali Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangkali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Labaha"
+    }
   ]
 }

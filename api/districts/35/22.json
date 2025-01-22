@@ -1,32 +1,116 @@
 {
   "districts": [
-    "Ngraho",
-    "Tambakrejo",
-    "Ngambon",
-    "Ngasem",
-    "Bubulan",
-    "Dander",
-    "Sugihwaras",
-    "Kedungadem",
-    "Kepohbaru",
-    "Baureno",
-    "Kanor",
-    "Sumberejo",
-    "Balen",
-    "Kapas",
-    "Bojonegoro",
-    "Kalitidu",
-    "Malo",
-    "Purwosari",
-    "Padangan",
-    "Kasiman",
-    "Temayang",
-    "Margomulyo",
-    "Trucuk",
-    "Sukosewu",
-    "Kedewan",
-    "Gondang",
-    "Sekar",
-    "Gayam"
+    {
+      "district_id": 1,
+      "kecamatan": "Ngraho"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tambakrejo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ngambon"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ngasem"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bubulan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Dander"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sugihwaras"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kedungadem"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kepohbaru"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Baureno"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kanor"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sumberejo"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Balen"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kapas"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bojonegoro"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kalitidu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Malo"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Purwosari"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Padangan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kasiman"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Temayang"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Margomulyo"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Trucuk"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Sukosewu"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Kedewan"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Gondang"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Sekar"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Gayam"
+    }
   ]
 }

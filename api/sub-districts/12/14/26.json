@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sifitubanua",
-    "Siwalu Banua (Siwalubanua)",
-    "Sitolu Banua",
-    "Silima Banua (Silimabanua Somambawa)",
-    "Mehaga",
-    "Sihare'o (Sihareo)",
-    "Golambanua II",
-    "Oladano",
-    "Fanedanu",
-    "Hiliorahua Tasua",
-    "Somambawa",
-    "Gabungan Tasua",
-    "Hilialawa",
-    "Sinar Susua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sifitubanua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siwalu Banua (Siwalubanua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sitolu Banua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Silima Banua (Silimabanua Somambawa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mehaga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sihare'o (Sihareo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Golambanua II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oladano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Fanedanu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hiliorahua Tasua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Somambawa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gabungan Tasua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hilialawa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinar Susua"
+    }
   ]
 }

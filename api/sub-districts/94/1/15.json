@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kunupi / Obaipoto",
-    "Ogiyai (Ogiay/Waisai)",
-    "Lokodimi / Bokomidi",
-    "Yegeugi (Yageugi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kunupi / Obaipoto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ogiyai (Ogiay/Waisai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lokodimi / Bokomidi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yegeugi (Yageugi)"
+    }
   ]
 }

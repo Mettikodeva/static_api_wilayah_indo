@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lara",
-    "Marannu",
-    "Beringin Jaya",
-    "Mukti Jaya",
-    "Mekar Sari Jaya",
-    "Mukti Tama",
-    "Lembang-Lembang",
-    "Lawewe",
-    "Polewali",
-    "Sumpira"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marannu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mukti Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekar Sari Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mukti Tama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lembang-Lembang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lawewe"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Polewali"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumpira"
+    }
   ]
 }

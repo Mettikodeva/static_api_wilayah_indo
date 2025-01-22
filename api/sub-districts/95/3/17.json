@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lokon",
-    "Luarima",
-    "Werima",
-    "Hanoasuok",
-    "Wesagalep",
-    "Wesama",
-    "Weasi (Hesmat)",
-    "Weriaput",
-    "Suesi",
-    "Nesuwen",
-    "Esema Husage",
-    "Libuk",
-    "Hagawen",
-    "Hepia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lokon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Luarima"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Werima"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hanoasuok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wesagalep"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wesama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Weasi (Hesmat)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Weriaput"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suesi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nesuwen"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Esema Husage"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Libuk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hagawen"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hepia"
+    }
   ]
 }

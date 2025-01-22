@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lebak",
-    "Bulungan",
-    "Suwawal Timur",
-    "Kawak",
-    "Tanjung",
-    "Plajan",
-    "Slagi",
-    "Mambak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lebak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bulungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suwawal Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kawak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Plajan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Slagi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mambak"
+    }
   ]
 }

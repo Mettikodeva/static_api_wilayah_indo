@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pananjung",
-    "Sukajadi",
-    "Cimanganten",
-    "Jati",
-    "Rancabango",
-    "Sukawangi",
-    "Sirnajaya",
-    "Tanjung Kamuning (Tanjungkamuning)",
-    "Mekarjaya",
-    "Langensari",
-    "Mekarwangi",
-    "Pasawahan",
-    "Panjiwangi"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pananjung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimanganten"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rancabango"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukawangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sirnajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Kamuning (Tanjungkamuning)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langensari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasawahan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Panjiwangi"
+    }
   ]
 }

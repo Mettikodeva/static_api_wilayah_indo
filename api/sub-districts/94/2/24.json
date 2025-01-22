@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Guna",
-    "Mandura",
-    "Lugubago",
-    "Andugir",
-    "Muara Miguni",
-    "Abili",
-    "Pereya",
-    "Ginimanggen",
-    "Laworege",
-    "Wumbiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Guna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mandura"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lugubago"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Andugir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Miguni"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Abili"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pereya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ginimanggen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Laworege"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wumbiri"
+    }
   ]
 }

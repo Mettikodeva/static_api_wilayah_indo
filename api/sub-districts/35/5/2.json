@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Jati",
-    "Temenggungan",
-    "Besuki",
-    "Tunjung",
-    "Bakung",
-    "Mangunan",
-    "Karanggondang",
-    "Ringinanom",
-    "Sukorejo",
-    "Slemanan",
-    "Sumbersari",
-    "Bendorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Temenggungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Besuki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mangunan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karanggondang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ringinanom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Slemanan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bendorejo"
+    }
   ]
 }

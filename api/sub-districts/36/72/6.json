@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kotasari",
-    "Grogol (Gerogol)",
-    "Rawa Arum",
-    "Gerem"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kotasari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Grogol (Gerogol)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rawa Arum"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gerem"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Falabisahaya",
-    "Modapia",
-    "Modapuhi",
-    "Pastabulu",
-    "Saniahaya",
-    "Minaluli",
-    "Modapuhi Trans"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Falabisahaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Modapia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Modapuhi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pastabulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saniahaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Minaluli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Modapuhi Trans"
+    }
   ]
 }

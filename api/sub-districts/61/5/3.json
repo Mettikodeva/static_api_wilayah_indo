@@ -1,43 +1,160 @@
 {
   "sub_districts": [
-    "Nanga Sepauk",
-    "Tanjung Ria",
-    "Sekubang",
-    "Kenyauk",
-    "Lengkenat",
-    "Manis Raya",
-    "Temiang Kapuas",
-    "Ensabang",
-    "Mait Hilir",
-    "Sekujam Timbai",
-    "Semuntai",
-    "Sirang Setambang",
-    "Nanga Libau",
-    "Bernayau",
-    "Sinar Pekayau",
-    "Nanga Pari",
-    "Buluh Kuning",
-    "Temawang Muntai",
-    "Tawang Sari",
-    "Gernis Jaya",
-    "Paoh Benua",
-    "Bedayan",
-    "Tanjung Hulu",
-    "Sungai Raya",
-    "Landau Panjang",
-    "Bangun",
-    "Sukau Bersatu",
-    "Kemantan",
-    "Peninsung",
-    "Sepulut",
-    "Temawang Bulai",
-    "Sungai Segak",
-    "Tanjung Balai",
-    "Sinar Harapan",
-    "Riam Kempadik",
-    "Nanga Layung",
-    "Limau Bakti",
-    "Tanjung Mawang",
-    "Sungai Jaung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Sepauk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Ria"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sekubang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenyauk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lengkenat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manis Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Temiang Kapuas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ensabang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mait Hilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sekujam Timbai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Semuntai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sirang Setambang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nanga Libau"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bernayau"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sinar Pekayau"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nanga Pari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Buluh Kuning"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Temawang Muntai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tawang Sari"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Gernis Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Paoh Benua"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bedayan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanjung Hulu"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sungai Raya"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Landau Panjang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Bangun"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sukau Bersatu"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Kemantan"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Peninsung"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sepulut"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Temawang Bulai"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Sungai Segak"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Tanjung Balai"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Sinar Harapan"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Riam Kempadik"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Nanga Layung"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Limau Bakti"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Tanjung Mawang"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Sungai Jaung"
+    }
   ]
 }

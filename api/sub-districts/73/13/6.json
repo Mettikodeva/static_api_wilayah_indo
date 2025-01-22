@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Siengkang",
-    "Pattirosompe",
-    "Tempe",
-    "Maddukelleng (Maddukkelleng)",
-    "Watallipue",
-    "Mattiro Tappareng (Mattirotappareng)",
-    "Laelo",
-    "Salo Menraleng (Salomenraleng)",
-    "Campalagi (Cempalagi)",
-    "Lapongkoda",
-    "Teddaopu",
-    "Paddupa (Padduppa)",
-    "Wiring Palenae (Wiringpalennae)",
-    "Attakkae (Atakkae)",
-    "Sitampae",
-    "Bulu Pabbulu (Bulupabbulu)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Siengkang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pattirosompe"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tempe"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Maddukelleng (Maddukkelleng)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Watallipue"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mattiro Tappareng (Mattirotappareng)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Laelo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Salo Menraleng (Salomenraleng)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Campalagi (Cempalagi)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lapongkoda"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Teddaopu"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Paddupa (Padduppa)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Wiring Palenae (Wiringpalennae)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Attakkae (Atakkae)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Sitampae"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Bulu Pabbulu (Bulupabbulu)"
+    }
   ]
 }

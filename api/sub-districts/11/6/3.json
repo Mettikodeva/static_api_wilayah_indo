@@ -1,56 +1,212 @@
 {
   "sub_districts": [
-    "Reukih Dayah",
-    "Indrapuri",
-    "Lam Leubok (Lamleubok)",
-    "Empee Ara",
-    "Limo Blang",
-    "Limo Mesjid",
-    "Limo Lamleuweung (Limo Lamluweung / Lamlueng)",
-    "Lheue (Lheue Jeumpa)",
-    "Meusale (Meusalee Lhok)",
-    "Cureh",
-    "Cot Kareung",
-    "Lamlung (Lam Lueng)",
-    "Meureu Ulee Titie (Mureu Ulee Titi)",
-    "Meureu Bueng-U (Mureu Bueng-Ue)",
-    "Mureu Baro",
-    "Mureu Lam Glumpang",
-    "Pasar Indrapuri",
-    "Manggra",
-    "Reukih Kupula (Reukih Keupula)",
-    "Lam Ilie Mesjid",
-    "Lam Ilie Tengoh (Lam Ilie Teungoh)",
-    "Lam Ilie Ganto",
-    "Meunara",
-    "Aneuk Glee",
-    "Krueng Lamkareung",
-    "Sinyeu",
-    "Seureumo",
-    "Ulee Kareung",
-    "Lambeutong (Lam Beutong)",
-    "Lampupok Baro",
-    "Lampupok Raya",
-    "Seulangai",
-    "Riting",
-    "Sihom Lhok",
-    "Sihom Cot",
-    "Seot/Seuot Baroh",
-    "Seot/Seuot Tunong",
-    "Lampanah Ranjo",
-    "Lampanah Teungoh",
-    "Lampanah Dayah",
-    "Lampanah Baro",
-    "Lampanah Tunong",
-    "Groet Blang (Grot Meunasah Blang)",
-    "Groet Manyang (Grot Meunasah Manyang)",
-    "Groet Baro (Grot Meunasah Baro)",
-    "Jruek Bak Kreh",
-    "Jruek Balee",
-    "Mon Alue",
-    "Lambeunot (Lambunot)",
-    "Ulee Ue (Ulee Oe)",
-    "Lamsiot (Lam Siot)",
-    "Lingom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Reukih Dayah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Indrapuri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lam Leubok (Lamleubok)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Empee Ara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limo Blang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Limo Mesjid"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Limo Lamleuweung (Limo Lamluweung / Lamlueng)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lheue (Lheue Jeumpa)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meusale (Meusalee Lhok)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cureh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cot Kareung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lamlung (Lam Lueng)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Meureu Ulee Titie (Mureu Ulee Titi)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Meureu Bueng-U (Mureu Bueng-Ue)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mureu Baro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mureu Lam Glumpang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pasar Indrapuri"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Manggra"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Reukih Kupula (Reukih Keupula)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lam Ilie Mesjid"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lam Ilie Tengoh (Lam Ilie Teungoh)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lam Ilie Ganto"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Meunara"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Aneuk Glee"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Krueng Lamkareung"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sinyeu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Seureumo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Ulee Kareung"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Lambeutong (Lam Beutong)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Lampupok Baro"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Lampupok Raya"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Seulangai"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Riting"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Sihom Lhok"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Sihom Cot"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Seot/Seuot Baroh"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Seot/Seuot Tunong"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Lampanah Ranjo"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Lampanah Teungoh"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Lampanah Dayah"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Lampanah Baro"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Lampanah Tunong"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Groet Blang (Grot Meunasah Blang)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Groet Manyang (Grot Meunasah Manyang)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Groet Baro (Grot Meunasah Baro)"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Jruek Bak Kreh"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Jruek Balee"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Mon Alue"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Lambeunot (Lambunot)"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Ulee Ue (Ulee Oe)"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Lamsiot (Lam Siot)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Lingom"
+    }
   ]
 }

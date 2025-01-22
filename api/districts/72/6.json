@@ -1,13 +1,40 @@
 {
   "districts": [
-    "Bungku Tengah",
-    "Bungku Selatan",
-    "Menui Kepulauan",
-    "Bungku Barat",
-    "Bumi Raya",
-    "Bahodopi",
-    "Wita Ponda",
-    "Bungku Pesisir",
-    "Bungku Timur"
+    {
+      "district_id": 5,
+      "kecamatan": "Bungku Tengah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bungku Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Menui Kepulauan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bungku Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bumi Raya"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bahodopi"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Wita Ponda"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bungku Pesisir"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Bungku Timur"
+    }
   ]
 }

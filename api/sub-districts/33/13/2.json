@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Jatisawit",
-    "Petung",
-    "Wonokeling",
-    "Jatiyoso",
-    "Tlobo",
-    "Wonorejo",
-    "Beruk",
-    "Karangsari",
-    "Wukirsawit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jatisawit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Petung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wonokeling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatiyoso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tlobo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beruk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wukirsawit"
+    }
   ]
 }

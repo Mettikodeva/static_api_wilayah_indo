@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Malaka Tengah",
-    "Malaka Barat",
-    "Wewiku",
-    "Weliman",
-    "Rinhat",
-    "Io Kufeu",
-    "Sasitamean",
-    "Laenmanen",
-    "Malaka Timur",
-    "Kobalima Timur",
-    "Kobalima",
-    "Botin Leobele"
+    {
+      "district_id": 1,
+      "kecamatan": "Malaka Tengah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Malaka Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wewiku"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Weliman"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Rinhat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Io Kufeu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sasitamean"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Laenmanen"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Malaka Timur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kobalima Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kobalima"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Botin Leobele"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wasior I",
-    "Rado",
-    "Dotir",
-    "Maniwak",
-    "Wasior II",
-    "Maimare (Maimari)",
-    "Moru (Gayabaru)",
-    "Manopi",
-    "Ramiki",
-    "Iriati"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wasior I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rado"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dotir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maniwak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wasior II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maimare (Maimari)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Moru (Gayabaru)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manopi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ramiki"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Iriati"
+    }
   ]
 }

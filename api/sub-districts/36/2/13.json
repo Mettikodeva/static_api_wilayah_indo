@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tanjungsari (Tanjung Sari)",
-    "Maja",
-    "Sangiang",
-    "Binong",
-    "Gubugan Cibeureum (Gubugcibeureum)",
-    "Mekarsari",
-    "Padasuka",
-    "Curugbadak (Curug Badak)",
-    "Sindangmulya",
-    "Cilangkap",
-    "Pasirkembang (Pasir Kembang)",
-    "Pasirkecapi (Pasir Kecapi)",
-    "Buyut Mekar (Buyut)",
-    "Maja Baru"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjungsari (Tanjung Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sangiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Binong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gubugan Cibeureum (Gubugcibeureum)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Curugbadak (Curug Badak)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sindangmulya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cilangkap"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pasirkembang (Pasir Kembang)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pasirkecapi (Pasir Kecapi)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Buyut Mekar (Buyut)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Maja Baru"
+    }
   ]
 }

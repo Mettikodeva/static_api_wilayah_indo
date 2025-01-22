@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Motoboi Kecil",
-    "Mongondow",
-    "Pombundayan (Pobundayan)",
-    "Poyowa Besar Satu (Poyowa Besar I)",
-    "Poyowa Besar Dua (Poyowa Besar II)",
-    "Tabang",
-    "Bungko",
-    "Kopandakan Satu (Kopandakan I)",
-    "Poyowa Kecil"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Motoboi Kecil"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mongondow"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pombundayan (Pobundayan)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Poyowa Besar Satu (Poyowa Besar I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Poyowa Besar Dua (Poyowa Besar II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tabang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bungko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kopandakan Satu (Kopandakan I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Poyowa Kecil"
+    }
   ]
 }

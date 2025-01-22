@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kety (Ketty)",
-    "Letoda",
-    "Sera",
-    "Yamluli",
-    "Lolotwara (Lolotuara)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kety (Ketty)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Letoda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sera"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yamluli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lolotwara (Lolotuara)"
+    }
   ]
 }

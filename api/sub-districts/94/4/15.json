@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Limau Asri Timur",
-    "Wangirja",
-    "Iwaka",
-    "Naena Muktipura",
-    "Mulia Kencana",
-    "Pigapu",
-    "Limau Asri Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Limau Asri Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wangirja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Iwaka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Naena Muktipura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mulia Kencana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pigapu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Limau Asri Barat"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tebet Timur",
-    "Tebet Barat",
-    "Menteng Dalam",
-    "Kebon Baru",
-    "Bukit Duri",
-    "Manggarai Selatan",
-    "Manggarai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tebet Timur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tebet Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Menteng Dalam"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kebon Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bukit Duri"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Manggarai Selatan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Manggarai"
+    }
   ]
 }

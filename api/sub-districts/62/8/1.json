@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mendawai",
-    "Padang",
-    "Natai Sedawak",
-    "Pudu",
-    "Kartamulia (Karta Mulya / Mulia)",
-    "Sukaraja",
-    "Pangkalan Muntai",
-    "Petarikan"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mendawai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Natai Sedawak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pudu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kartamulia (Karta Mulya / Mulia)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangkalan Muntai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Petarikan"
+    }
   ]
 }

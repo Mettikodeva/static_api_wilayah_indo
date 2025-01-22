@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Patiala Bawa",
-    "Wailibo (Welibo)",
-    "Lamboya Bawah (Laboya Bawa)",
-    "Watu Karere",
-    "Kabu Karudi",
-    "Rajak (Rajaka)",
-    "Sodan (Sodana)",
-    "Laboya Dete",
-    "Ringu Rara",
-    "Bodo Hula",
-    "Pala Moko"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Patiala Bawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wailibo (Welibo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamboya Bawah (Laboya Bawa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watu Karere"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kabu Karudi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rajak (Rajaka)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sodan (Sodana)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Laboya Dete"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ringu Rara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bodo Hula"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pala Moko"
+    }
   ]
 }

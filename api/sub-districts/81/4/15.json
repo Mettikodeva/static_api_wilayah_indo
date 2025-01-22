@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ubung",
-    "Jikumarasa (Jikumerasa)",
-    "Waimiting (Waemiting)",
-    "Sawa",
-    "Waeperang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ubung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jikumarasa (Jikumerasa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waimiting (Waemiting)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waeperang"
+    }
   ]
 }

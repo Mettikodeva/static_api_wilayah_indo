@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Teja (Tunjung Teja)",
-    "Sukasari",
-    "Panunggulan",
-    "Malanggah",
-    "Kemuning (Kamuning)",
-    "Bojong Menteng",
-    "Bojong Catang",
-    "Bojong Pandan",
-    "Pancaregang (Pancarecang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Teja (Tunjung Teja)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panunggulan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malanggah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemuning (Kamuning)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bojong Menteng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bojong Catang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojong Pandan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pancaregang (Pancarecang)"
+    }
   ]
 }

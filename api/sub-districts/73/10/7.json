@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Labakkang",
-    "Mangallekana",
-    "Pundata Baji",
-    "Borimasunggu",
-    "Pattalassang (Patallassang)",
-    "Manakku",
-    "Gentung",
-    "Batara",
-    "Taraweang",
-    "Kanaungan",
-    "Bonto Manai",
-    "Kassi Loe",
-    "Bara Batu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Labakkang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mangallekana"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pundata Baji"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Borimasunggu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pattalassang (Patallassang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manakku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gentung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taraweang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kanaungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bonto Manai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kassi Loe"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bara Batu"
+    }
   ]
 }

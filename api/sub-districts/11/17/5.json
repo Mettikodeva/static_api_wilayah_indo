@@ -1,44 +1,164 @@
 {
   "sub_districts": [
-    "Bale Atu",
-    "Bale Redelong",
-    "Batin Wih Pongas",
-    "Belang Ara (Blang Ara)",
-    "Blang Sentang",
-    "Blang Tampu",
-    "Bujang",
-    "Delung Tue",
-    "Hakim Tunggul Naru",
-    "Isaq Busur",
-    "Kenawat Redelong (Kenawat Redlong)",
-    "Kute Lintang",
-    "Panji Mulia I",
-    "Panji Mulia II",
-    "Pasar Simpang Tiga",
-    "Reje Guru",
-    "Rembele",
-    "Sedie Jadi (Sidie Jadi)",
-    "Tingkem Asli",
-    "Tingkem Benyer",
-    "Tingkem Bersatu",
-    "Ujung Gele",
-    "Uning Bersah",
-    "Gunung Teritit (Uning Teritit)",
-    "Waq Pondok Sayur",
-    "Babussalam",
-    "Paya Gajah",
-    "Kute Tanyung (Kute Tanjung)",
-    "Meluem",
-    "Delung Asli",
-    "Pilar Jaya",
-    "Serule Kayu",
-    "Uring",
-    "Mupakat Jadi",
-    "Kute Kering",
-    "Blang Panas",
-    "Mutiara Baru",
-    "Bukit Bersatu",
-    "Godang",
-    "Karang Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bale Atu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bale Redelong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batin Wih Pongas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belang Ara (Blang Ara)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blang Sentang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blang Tampu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bujang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Delung Tue"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hakim Tunggul Naru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Isaq Busur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kenawat Redelong (Kenawat Redlong)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kute Lintang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Panji Mulia I"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Panji Mulia II"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pasar Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Reje Guru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Rembele"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sedie Jadi (Sidie Jadi)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tingkem Asli"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tingkem Benyer"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tingkem Bersatu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Ujung Gele"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Uning Bersah"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Gunung Teritit (Uning Teritit)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Waq Pondok Sayur"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Babussalam"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Paya Gajah"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Kute Tanyung (Kute Tanjung)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Meluem"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Delung Asli"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pilar Jaya"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Serule Kayu"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Uring"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Mupakat Jadi"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Kute Kering"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Blang Panas"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Mutiara Baru"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Bukit Bersatu"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Godang"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Karang Rejo"
+    }
   ]
 }

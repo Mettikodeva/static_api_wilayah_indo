@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Karanglangu",
-    "Panimbo",
-    "Deras",
-    "Kentengsari",
-    "Ngombak",
-    "Prigi",
-    "Kedungjati",
-    "Klitikan",
-    "Padas",
-    "Kalimaro",
-    "Jumo",
-    "Wates"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karanglangu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panimbo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deras"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kentengsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngombak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Prigi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedungjati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Klitikan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalimaro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jumo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wates"
+    }
   ]
 }

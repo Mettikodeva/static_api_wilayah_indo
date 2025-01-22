@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Cipta Karya",
-    "Suka Bangun",
-    "Karya Bhakti",
-    "Suka Maju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipta Karya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suka Bangun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karya Bhakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Maju"
+    }
   ]
 }

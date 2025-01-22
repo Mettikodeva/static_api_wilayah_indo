@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pasar Muara Sipongi",
-    "Bandar Panjang",
-    "Bandar Panjang Tuo",
-    "Kampung Pinang",
-    "Koto Baringin",
-    "Limau Manis",
-    "Ranjo Batu",
-    "Sibinail",
-    "Simpang Mandepo",
-    "Tamiang Mudo",
-    "Tanjung Alai",
-    "Tanjung Medan",
-    "Muara Kumpulan",
-    "Aek Botung",
-    "Koto Boru",
-    "Tanjung Larangan"
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Pasar Muara Sipongi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandar Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandar Panjang Tuo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Pinang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Baringin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Limau Manis"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ranjo Batu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sibinail"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Simpang Mandepo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tamiang Mudo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjung Alai"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjung Medan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Muara Kumpulan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Aek Botung"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Koto Boru"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tanjung Larangan"
+    }
   ]
 }

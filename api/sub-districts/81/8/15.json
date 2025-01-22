@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Moning",
-    "Arwala",
-    "Ilway",
-    "Kahilin",
-    "Ilpokil",
-    "Tomliapat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Moning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Arwala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ilway"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kahilin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ilpokil"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tomliapat"
+    }
   ]
 }

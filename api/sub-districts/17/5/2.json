@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lubuk Kebur",
-    "Pasar Tais",
-    "Lubuk Lintang",
-    "Talang Saling",
-    "Dusun Baru",
-    "Talang Dantuk",
-    "Napal"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lubuk Kebur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pasar Tais"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Lubuk Lintang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Talang Saling"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Dusun Baru"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Talang Dantuk"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Napal"
+    }
   ]
 }

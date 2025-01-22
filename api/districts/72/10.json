@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Sigi Biromaru",
-    "Palolo",
-    "Nokilalaki",
-    "Lindu",
-    "Kulawi",
-    "Kulawi Selatan",
-    "Pipikoro",
-    "Gumbasa",
-    "Dolo Selatan",
-    "Tanambulava",
-    "Dolo Barat",
-    "Dolo",
-    "Kinovaro",
-    "Marawola",
-    "Marawola Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Sigi Biromaru"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Palolo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Nokilalaki"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lindu"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kulawi"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kulawi Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pipikoro"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gumbasa"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Dolo Selatan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tanambulava"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Dolo Barat"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Dolo"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kinovaro"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Marawola"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Marawola Barat"
+    }
   ]
 }

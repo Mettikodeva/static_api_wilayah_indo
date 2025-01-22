@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Candi",
-    "Kumai Hulu",
-    "Kumai Hilir",
-    "Sei/Sungai Cabang",
-    "Teluk Pulai",
-    "Sabuai (Sebuai)",
-    "Keraya",
-    "Teluk Bogam",
-    "Sei/Sungai Bakau",
-    "Kubu",
-    "Sei/Sungai Kapitan",
-    "Batu Belaman",
-    "Sei/Sungai Tendang",
-    "Sei/Sungai Sekonyer",
-    "Sei/Sungai Bedaun",
-    "Bumi Harjo",
-    "Pangkalan Satu",
-    "Sebuai Timur (Sabuai Timur)"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kumai Hulu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Kumai Hilir"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Cabang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Pulai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sabuai (Sebuai)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Keraya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Bogam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Bakau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kubu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Kapitan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Belaman"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei/Sungai Tendang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sei/Sungai Sekonyer"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sei/Sungai Bedaun"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bumi Harjo"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Pangkalan Satu"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Sebuai Timur (Sabuai Timur)"
+    }
   ]
 }

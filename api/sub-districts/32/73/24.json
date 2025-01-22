@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sukamiskin",
-    "Cisaranten Bina Harapan (Cisarenten Bina Harapan)",
-    "Cisaranten Kulon",
-    "Sindanglaya/Cisantre n Endah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukamiskin"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cisaranten Bina Harapan (Cisarenten Bina Harapan)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cisaranten Kulon"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sindanglaya/Cisantre n Endah"
+    }
   ]
 }

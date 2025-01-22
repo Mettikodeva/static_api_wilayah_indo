@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Dembe II",
-    "Wongkaditi Timur",
-    "Wongkaditi Barat",
-    "Dulomo Selatan",
-    "Dulomo Utara",
-    "Dembe Jaya"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dembe II"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wongkaditi Timur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wongkaditi Barat"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Dulomo Selatan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Dulomo Utara"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Dembe Jaya"
+    }
   ]
 }

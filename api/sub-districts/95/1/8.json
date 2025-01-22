@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wolo (Wollo)",
-    "Kukurima",
-    "Pirambor (Pirambot)",
-    "Tegabaga",
-    "Wollo Timur",
-    "Alugi",
-    "Wunan",
-    "Wodloma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wolo (Wollo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kukurima"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pirambor (Pirambot)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tegabaga"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wollo Timur"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Alugi"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Wunan"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Wodloma"
+    }
   ]
 }

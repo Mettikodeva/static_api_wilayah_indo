@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sumo",
-    "Uam",
-    "Maku",
-    "Obokain",
-    "Jibuk",
-    "Wenapong",
-    "Muara Balim",
-    "Hunisi",
-    "Boor",
-    "Wirilu",
-    "Kwiriside"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Obokain"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jibuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wenapong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Balim"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hunisi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Boor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wirilu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kwiriside"
+    }
   ]
 }

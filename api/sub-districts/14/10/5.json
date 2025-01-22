@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Teluk Belitung",
-    "Meranti Bunting",
-    "Lukit",
-    "Bagan Melibur",
-    "Pelantai",
-    "Tanjung Kulim",
-    "Mekar Sari",
-    "Mayang Sari",
-    "Sungai Anak Kamal",
-    "Sungai Tengah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Teluk Belitung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meranti Bunting"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lukit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bagan Melibur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pelantai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanjung Kulim"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Mayang Sari"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sungai Anak Kamal"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sungai Tengah"
+    }
   ]
 }

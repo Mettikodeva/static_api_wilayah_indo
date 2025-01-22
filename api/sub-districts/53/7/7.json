@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Nelle Urung",
-    "Nelle Wutung",
-    "Nelle Barat",
-    "Nella Lorang (Nelle Lorang)",
-    "Manubura"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nelle Urung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nelle Wutung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nelle Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nella Lorang (Nelle Lorang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manubura"
+    }
   ]
 }

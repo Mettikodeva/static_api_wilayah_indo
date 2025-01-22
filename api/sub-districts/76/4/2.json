@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Pappang",
-    "Laliko",
-    "Bonde",
-    "Katumbangan Lemo",
-    "Panyampa",
-    "Suruang",
-    "Lampoko",
-    "Katumbangan",
-    "Lapeo",
-    "Parappe",
-    "Ongko",
-    "Kenje",
-    "Sumarang (Sumarrang)",
-    "Botto",
-    "Gattungan",
-    "Padang Timur",
-    "Padang",
-    "Lagi-Agi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pappang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laliko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonde"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Katumbangan Lemo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panyampa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suruang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lampoko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Katumbangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lapeo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Parappe"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ongko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kenje"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumarang (Sumarrang)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Botto"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gattungan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Padang Timur"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Padang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lagi-Agi"
+    }
   ]
 }

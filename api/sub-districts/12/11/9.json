@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Simanduma",
-    "Bandar Huta Usang",
-    "Onan Lama",
-    "Lingga Raja",
-    "Laksa",
-    "Tanjung Saluksuk",
-    "Bukit Tinggi (Bukittinggi)",
-    "Simartugan",
-    "Kuta Usang",
-    "Lingga Raja II",
-    "Mbinanga",
-    "Bukit Baru",
-    "Perrik Mbue"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simanduma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandar Huta Usang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Onan Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lingga Raja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Laksa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Saluksuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Tinggi (Bukittinggi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simartugan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuta Usang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lingga Raja II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mbinanga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Perrik Mbue"
+    }
   ]
 }

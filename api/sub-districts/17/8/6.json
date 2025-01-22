@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Kabawetan/Tangsi Baru",
-    "Bandung Baru",
-    "Bukit Sari",
-    "Tugu Rejo (Tugurejo)",
-    "Suka Sari (Sukasari)",
-    "Air Sempiang",
-    "Tangsi Duren",
-    "Babakan Bogor",
-    "Barat Wetan",
-    "Pematang Donok",
-    "Sumber Sari",
-    "Mekar Sari",
-    "Sido Makmur",
-    "Sido Rejo",
-    "Bandung Jaya"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kabawetan/Tangsi Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandung Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Sari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tugu Rejo (Tugurejo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Sari (Sukasari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Sempiang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangsi Duren"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babakan Bogor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Barat Wetan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pematang Donok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sido Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sido Rejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bandung Jaya"
+    }
   ]
 }

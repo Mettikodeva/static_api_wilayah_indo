@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pamulang Barat",
-    "Benda Baru",
-    "Pondok Benda",
-    "Pondok Cabe Udik",
-    "Pondok Cabe Ilir",
-    "Kedaung",
-    "Bambuapus (Bambu Apus)",
-    "Pamulang Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pamulang Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Benda Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pondok Benda"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pondok Cabe Udik"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pondok Cabe Ilir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kedaung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bambuapus (Bambu Apus)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pamulang Timur"
+    }
   ]
 }

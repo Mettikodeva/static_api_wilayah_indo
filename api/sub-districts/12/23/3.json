@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kampung Mesjid",
-    "Kuala Bangka",
-    "Sei/Sungai Sentang",
-    "Teluk Piai",
-    "Tanjung Mangedar",
-    "Teluk Binjai",
-    "Sei/Sungai Apung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Mesjid"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Bangka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Sentang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Piai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Mangedar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk Binjai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Apung"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Billa",
-    "Karita",
-    "Kuki Talu",
-    "Tapil",
-    "Tarimbang",
-    "Waikanabu",
-    "Pindu Horomi (Hurani)",
-    "Praing Kareha",
-    "Wudi Pandak",
-    "Bangga Watu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Billa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karita"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuki Talu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapil"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tarimbang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waikanabu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pindu Horomi (Hurani)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Praing Kareha"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wudi Pandak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangga Watu"
+    }
   ]
 }

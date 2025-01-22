@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lobu",
-    "Bolobungkang",
-    "Niubulan",
-    "Kadodi",
-    "Uha Uhangon",
-    "Bahingin",
-    "Uwe Daka-Daka",
-    "Balean",
-    "Dolom",
-    "Lambuli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lobu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bolobungkang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Niubulan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadodi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uha Uhangon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bahingin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uwe Daka-Daka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balean"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dolom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lambuli"
+    }
   ]
 }

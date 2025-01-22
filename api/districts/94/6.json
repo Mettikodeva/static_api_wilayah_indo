@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Kamu",
-    "Mapia",
-    "Piyaiye",
-    "Kamu Utara",
-    "Sukikai Selatan",
-    "Mapia Barat",
-    "Kamu Selatan",
-    "Kamu Timur",
-    "Mapia Tengah",
-    "Dogiyai"
+    {
+      "district_id": 1,
+      "kecamatan": "Kamu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mapia"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Piyaiye"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kamu Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sukikai Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mapia Barat"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kamu Selatan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kamu Timur"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mapia Tengah"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Dogiyai"
+    }
   ]
 }

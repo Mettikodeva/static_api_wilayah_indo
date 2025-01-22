@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Long Kali",
-    "Muara Telake",
-    "Sebakung",
-    "Bente Tualan (Bente / Tualan)",
-    "Mendik",
-    "Munggu",
-    "Muara Pias",
-    "Muara Toyu",
-    "Perkuwen (Perkuwin)",
-    "Pinang Jatus",
-    "Muara Lambakan",
-    "Kepala Telake",
-    "Mendik Makmur",
-    "Mendik Karya",
-    "Mendik Bhakti",
-    "Sebakung Taka (Sebakung IV)",
-    "Maruat",
-    "Sebakung Makmur",
-    "Petiku",
-    "Muara Adang II (Muaraadang II)",
-    "Makmur Jaya",
-    "Gunung Putar (Gunungputar)",
-    "Putang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Long Kali"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Telake"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebakung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bente Tualan (Bente / Tualan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mendik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Munggu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Pias"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Toyu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perkuwen (Perkuwin)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pinang Jatus"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Lambakan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kepala Telake"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mendik Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mendik Karya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mendik Bhakti"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sebakung Taka (Sebakung IV)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Maruat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sebakung Makmur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Petiku"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Muara Adang II (Muaraadang II)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Makmur Jaya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Gunung Putar (Gunungputar)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Putang"
+    }
   ]
 }

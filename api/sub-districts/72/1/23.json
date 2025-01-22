@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nambo Padang",
-    "Nambo Bosaa",
-    "Nambo Lempek",
-    "Nambo Lempek Baru",
-    "Lontio",
-    "Lontio Baru",
-    "Koyoan",
-    "Koyoan Permai",
-    "Padungnyo",
-    "Sayambongin (Sayangbongin)",
-    "Lumbe"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nambo Padang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nambo Bosaa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nambo Lempek"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Nambo Lempek Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lontio"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lontio Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koyoan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koyoan Permai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padungnyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sayambongin (Sayangbongin)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lumbe"
+    }
   ]
 }

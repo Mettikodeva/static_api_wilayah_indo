@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Serongga",
-    "Tarjun",
-    "Langadai",
-    "Pulau Panci",
-    "Pelajau Baru",
-    "Tegal Rejo",
-    "Mandala",
-    "Telagasari (Telaga Sari)",
-    "Sahapi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serongga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tarjun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Langadai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulau Panci"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pelajau Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegal Rejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Telagasari (Telaga Sari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sahapi"
+    }
   ]
 }

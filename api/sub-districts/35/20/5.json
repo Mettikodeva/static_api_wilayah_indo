@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Kawedanan",
-    "Rejosari",
-    "Sampung",
-    "Mangunrejo",
-    "Giripurno",
-    "Ngentep",
-    "Balerejo",
-    "Garon",
-    "Tladan",
-    "Pojok",
-    "Ngunut",
-    "Tulung",
-    "Bogem",
-    "Jambangan",
-    "Selorejo",
-    "Sugihrejo",
-    "Ngadirejo",
-    "Karangrejo",
-    "Genengan",
-    "Mojorejo"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kawedanan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sampung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mangunrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Giripurno"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngentep"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balerejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Garon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tladan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngunut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tulung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bogem"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jambangan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Selorejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sugihrejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Genengan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mojorejo"
+    }
   ]
 }

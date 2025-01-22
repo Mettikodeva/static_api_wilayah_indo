@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dambalo",
-    "Milango",
-    "Jembatan Merah",
-    "Bubode",
-    "Leyao",
-    "Molantadu",
-    "Huidu Melito",
-    "Bulango Raya",
-    "Tanjung Karang",
-    "Mutiara Laut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dambalo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Milango"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jembatan Merah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bubode"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Leyao"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Molantadu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Huidu Melito"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bulango Raya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Karang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mutiara Laut"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sabuhur",
-    "Jorong",
-    "Asam Asam",
-    "Batalang",
-    "Swarangan",
-    "Muara Asam Asam",
-    "Alur",
-    "Asri Mulya (Asri Mulia)",
-    "Karang Rejo",
-    "Asam Jaya",
-    "Simpang Empat Sungai Baru (Sungaibaru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sabuhur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jorong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Asam Asam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batalang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Swarangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Asam Asam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Asri Mulya (Asri Mulia)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Rejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Asam Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simpang Empat Sungai Baru (Sungaibaru)"
+    }
   ]
 }

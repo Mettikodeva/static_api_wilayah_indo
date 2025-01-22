@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pompengan",
-    "Bulolondong",
-    "Pompengan Pantai",
-    "Seriti",
-    "Salupao (Salu Pao)",
-    "To'lemo (To Lemo)",
-    "Pelalan",
-    "Pompengan Tengah",
-    "Pompengan Utara (Pompengan Timur)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pompengan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bulolondong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pompengan Pantai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seriti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salupao (Salu Pao)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "To'lemo (To Lemo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pelalan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pompengan Tengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pompengan Utara (Pompengan Timur)"
+    }
   ]
 }

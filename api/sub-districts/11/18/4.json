@@ -1,49 +1,184 @@
 {
   "sub_districts": [
-    "Keude Ulee Gle (Keude Ulee Glee)",
-    "Gampong Ulee Gle (Gampong Ulee Glee)",
-    "Blang Dalam",
-    "Pulo",
-    "Gampong Baro (Kampung Baro)",
-    "Meuko Kuthang",
-    "Uteun Bayu",
-    "Alue Ketapang (Alue Keutapang)",
-    "Jaulanga Barat (Jeulanga Barat)",
-    "Kumba",
-    "Babah Krueng",
-    "Pohroh",
-    "Seunong",
-    "Alue Mee (Alue Me)",
-    "Blang Kuta",
-    "Drien Tujoh",
-    "Alue Sane",
-    "Gahru (Gaharu)",
-    "Lhok Pusong",
-    "Paya Pisang Klat",
-    "Cot Geurefai (Cot Geurufai)",
-    "Muko Dayah (Meuko Dayah)",
-    "Meuko Buloh (Muko Buloh)",
-    "Peulakan Tunong",
-    "Adan",
-    "Meugit Kayee Panyang (Meugit Kayei Panyang)",
-    "Meugit Sagoe",
-    "Meurandeh Alue",
-    "Reudeup Melayu",
-    "Meunasah Paku",
-    "Jeulanga Mata Ie",
-    "Jeulanga Mesjid",
-    "Pulo Gapu",
-    "Blang Miroe (Blang Mirou)",
-    "Beurasan",
-    "Cot Keng",
-    "Krueng Kiran",
-    "Asan Kumbang",
-    "Drien Bungong",
-    "Peulakan Cebrek",
-    "Paya Tunong",
-    "Peulakan Tambo",
-    "Paya Baroh",
-    "Meuko Baroh",
-    "Kuta Krueng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keude Ulee Gle (Keude Ulee Glee)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gampong Ulee Gle (Gampong Ulee Glee)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blang Dalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gampong Baro (Kampung Baro)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Meuko Kuthang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uteun Bayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Alue Ketapang (Alue Keutapang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jaulanga Barat (Jeulanga Barat)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kumba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Babah Krueng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pohroh"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Seunong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Alue Mee (Alue Me)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Blang Kuta"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Drien Tujoh"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Alue Sane"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gahru (Gaharu)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lhok Pusong"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Paya Pisang Klat"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cot Geurefai (Cot Geurufai)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Muko Dayah (Meuko Dayah)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Meuko Buloh (Muko Buloh)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Peulakan Tunong"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Adan"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Meugit Kayee Panyang (Meugit Kayei Panyang)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Meugit Sagoe"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Meurandeh Alue"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Reudeup Melayu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Meunasah Paku"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Jeulanga Mata Ie"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Jeulanga Mesjid"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Pulo Gapu"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Blang Miroe (Blang Mirou)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Beurasan"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Cot Keng"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Krueng Kiran"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Asan Kumbang"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Drien Bungong"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Peulakan Cebrek"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Paya Tunong"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Peulakan Tambo"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Paya Baroh"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Meuko Baroh"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Kuta Krueng"
+    }
   ]
 }

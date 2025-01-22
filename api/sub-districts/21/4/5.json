@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pancur",
-    "Bukit Harapan",
-    "Duara",
-    "Limbung",
-    "Resun",
-    "Sekanah",
-    "Linau",
-    "Sungaibesar (Sungai Besar)",
-    "Rantau Panjang",
-    "Resun Pesisir"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pancur"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Duara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Limbung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Resun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sekanah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Linau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungaibesar (Sungai Besar)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Resun Pesisir"
+    }
   ]
 }

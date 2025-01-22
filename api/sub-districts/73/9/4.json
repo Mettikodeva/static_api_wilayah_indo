@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Baji Pamai",
-    "Pallantikang",
-    "Baju Bodoa",
-    "Bori Kamase",
-    "Mattiro Tasi",
-    "Majannang",
-    "Bori Masunggu (Borimasunggu)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baji Pamai"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pallantikang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Baju Bodoa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bori Kamase"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mattiro Tasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Majannang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bori Masunggu (Borimasunggu)"
+    }
   ]
 }

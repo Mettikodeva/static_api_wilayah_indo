@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sei Piring",
-    "Pulau Rakyat Tua",
-    "Pulau Rakyat Pekan",
-    "Orika",
-    "Manis",
-    "Tunggul (Tunggul 45)",
-    "Bangun",
-    "Persatuan",
-    "Padang Mahondang",
-    "Ofa Padang Mahondang",
-    "Baru",
-    "Mekar Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei Piring"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Rakyat Tua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Rakyat Pekan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Orika"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunggul (Tunggul 45)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Persatuan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Mahondang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ofa Padang Mahondang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Sari"
+    }
   ]
 }

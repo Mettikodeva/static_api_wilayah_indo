@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nule",
-    "Kaleb",
-    "Batu",
-    "Kaera",
-    "Mawar",
-    "Merdeka",
-    "Ombay",
-    "Lekom",
-    "Bungabali (Bunga Bali)",
-    "Tereweng (Treweng)",
-    "Lalafang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nule"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaleb"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaera"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mawar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Merdeka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ombay"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lekom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bungabali (Bunga Bali)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tereweng (Treweng)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lalafang"
+    }
   ]
 }

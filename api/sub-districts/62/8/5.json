@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kenawan",
-    "Laman Baru",
-    "Ajang",
-    "Semantun",
-    "Nibung Terjun",
-    "Natai Kondang",
-    "Sembikuan (Sembi Kuan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kenawan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laman Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ajang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Semantun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nibung Terjun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Natai Kondang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sembikuan (Sembi Kuan)"
+    }
   ]
 }

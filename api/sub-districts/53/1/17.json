@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Teunbaun",
-    "Soba",
-    "Toobaun",
-    "Niukbaun",
-    "Tunbaun",
-    "Nekbaun",
-    "Merbaun",
-    "Erbaun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Teunbaun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Soba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Toobaun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Niukbaun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunbaun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nekbaun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Merbaun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Erbaun"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lukuwingir (Luku Wingir / Wikir)",
-    "Waibidi (Waimbidi)",
-    "Laimeta (Lai Meta)",
-    "Mahubokul (Mahu Bokul)",
-    "Marada Mundi",
-    "Maidang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lukuwingir (Luku Wingir / Wikir)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waibidi (Waimbidi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laimeta (Lai Meta)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mahubokul (Mahu Bokul)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marada Mundi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maidang"
+    }
   ]
 }

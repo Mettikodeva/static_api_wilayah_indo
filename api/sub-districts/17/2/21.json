@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Apur",
-    "Lawang Agung",
-    "Lubuk Alai",
-    "Karang Pinang",
-    "Tanjung Agung",
-    "Pengambang",
-    "Jabi",
-    "Tanjung Herang (Tanjung Heran)",
-    "Air Nau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Apur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lawang Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Alai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Pinang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pengambang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jabi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Herang (Tanjung Heran)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Air Nau"
+    }
   ]
 }

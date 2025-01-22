@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ombo",
-    "Tondo",
-    "Jonooge",
-    "Dampal",
-    "Sipi",
-    "Tanjung Padang",
-    "Balintuma",
-    "Sibado",
-    "Tompe",
-    "Lompio",
-    "Lende",
-    "Lende Tovea",
-    "Ujumbou. (Ujumbo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ombo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tondo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jonooge"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dampal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sipi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Padang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balintuma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sibado"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tompe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lompio"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lende"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lende Tovea"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ujumbou. (Ujumbo)"
+    }
   ]
 }

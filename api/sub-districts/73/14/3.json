@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lawawoi",
-    "Arawa",
-    "Bangkai",
-    "Uluale",
-    "Batu Lappa (Batulappa)",
-    "Lainungan",
-    "Carawali",
-    "Buae",
-    "Mattirotasi",
-    "Ciro-Ciroe"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lawawoi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Arawa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bangkai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Uluale"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Batu Lappa (Batulappa)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lainungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Carawali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buae"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mattirotasi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ciro-Ciroe"
+    }
   ]
 }

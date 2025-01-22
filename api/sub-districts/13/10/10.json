@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sei/Sungai Limau",
-    "Alahan Nan Tigo",
-    "Lubuk Besar",
-    "Tanjung Alam",
-    "Sinamar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Limau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alahan Nan Tigo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lubuk Besar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Alam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sinamar"
+    }
   ]
 }

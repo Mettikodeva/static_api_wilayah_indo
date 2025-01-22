@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Hegarmanah",
-    "Bojongpicung",
-    "Cibarengkok",
-    "Kemang",
-    "Sukajaya",
-    "Jati",
-    "Cikondang",
-    "Sukarama",
-    "Sukaratu",
-    "Neglasari",
-    "Jatisari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojongpicung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibarengkok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kemang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cikondang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukarama"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukaratu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jatisari"
+    }
   ]
 }

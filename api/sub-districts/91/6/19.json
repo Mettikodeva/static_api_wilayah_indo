@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mios Mangguandi",
-    "Supraima",
-    "Samber Pasi",
-    "Pasi",
-    "Mbromsi",
-    "Karabai",
-    "Saribra",
-    "Nyansoren",
-    "Sasarari (Sasari)",
-    "Padaido",
-    "Yeri",
-    "Anobo",
-    "Yen Manaina"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mios Mangguandi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Supraima"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Samber Pasi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mbromsi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karabai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Saribra"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nyansoren"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sasarari (Sasari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padaido"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yeri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Anobo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Yen Manaina"
+    }
   ]
 }

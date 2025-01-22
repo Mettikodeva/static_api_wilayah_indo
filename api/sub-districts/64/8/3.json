@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Senambah",
-    "Ngayau",
-    "Muara Bengkal Ilir",
-    "Muara Bengkal Ulu",
-    "Benua Baru",
-    "Mulupan",
-    "Batu Balai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Senambah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngayau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Bengkal Ilir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Bengkal Ulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benua Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mulupan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batu Balai"
+    }
   ]
 }

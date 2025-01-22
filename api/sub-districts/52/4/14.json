@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Boal",
-    "Jotang",
-    "Empang Atas",
-    "Empang Bawa (Empang Bawah)",
-    "Ongko",
-    "Lamenta",
-    "Gapit",
-    "Pamanto",
-    "Bunga Eja",
-    "Jotang Beru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Boal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jotang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Empang Atas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Empang Bawa (Empang Bawah)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ongko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lamenta"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gapit"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pamanto"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bunga Eja"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jotang Beru"
+    }
   ]
 }

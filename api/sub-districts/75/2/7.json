@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bubaa",
-    "Lito",
-    "Limbatihu",
-    "Bukit Karya",
-    "Apitalawu (Apitalawo)",
-    "Bangga",
-    "Towayu",
-    "Olibu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bubaa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lito"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Limbatihu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Karya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Apitalawu (Apitalawo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Towayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Olibu"
+    }
   ]
 }

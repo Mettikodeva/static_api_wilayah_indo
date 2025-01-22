@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Maloku",
-    "Mangkura",
-    "Pisang Selatan",
-    "Pisang Utara",
-    "Baru",
-    "Bulogading",
-    "Lae - Lae",
-    "Losari",
-    "Sawerigading",
-    "Lajangiru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Maloku"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mangkura"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pisang Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pisang Utara"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bulogading"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lae - Lae"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Losari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sawerigading"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lajangiru"
+    }
   ]
 }

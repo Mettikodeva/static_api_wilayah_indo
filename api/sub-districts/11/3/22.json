@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tunong Bugeng",
-    "Cempeudak",
-    "Buket Tufah",
-    "Tunong Ulee Gajah",
-    "Keudondong",
-    "Seuneubok Panton",
-    "Buket Teumpeun",
-    "Keude Blang",
-    "Paya Kruep",
-    "Tunong Paya Kruep",
-    "Alue Siwah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tunong Bugeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cempeudak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buket Tufah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunong Ulee Gajah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keudondong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seuneubok Panton"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buket Teumpeun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Keude Blang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paya Kruep"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tunong Paya Kruep"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Alue Siwah"
+    }
   ]
 }

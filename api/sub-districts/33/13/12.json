@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ngasem",
-    "Bolon",
-    "Malangjiwan",
-    "Paulan",
-    "Gajahan",
-    "Blulukan",
-    "Gawanan",
-    "Gedongan",
-    "Tohudan",
-    "Baturan",
-    "Klodran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngasem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bolon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malangjiwan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paulan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gajahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Blulukan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gawanan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gedongan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tohudan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baturan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Klodran"
+    }
   ]
 }

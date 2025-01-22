@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sururey",
-    "Tuhubea",
-    "Sungedes",
-    "Inyaub",
-    "Saugemeba",
-    "Kobrey",
-    "Kopo",
-    "Dugahani",
-    "Tomstera",
-    "Kostera",
-    "Anuk",
-    "Menesrij"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sururey"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tuhubea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungedes"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Inyaub"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saugemeba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kobrey"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kopo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dugahani"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tomstera"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kostera"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anuk"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Menesrij"
+    }
   ]
 }

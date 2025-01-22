@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ninati",
-    "Upyetetko",
-    "Kawaktembut",
-    "Tembutka",
-    "Timka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ninati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Upyetetko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kawaktembut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tembutka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Timka"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Plumbon",
-    "Karanganyar",
-    "Cemeng",
-    "Bedoro",
-    "Toyogo",
-    "Banyurip (Banyuurip)",
-    "Gringging",
-    "Banaran",
-    "Sambungmacan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Plumbon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cemeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bedoro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toyogo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banyurip (Banyuurip)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gringging"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sambungmacan"
+    }
   ]
 }

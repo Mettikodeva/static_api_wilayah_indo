@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bina Karya Jaya",
-    "Bina Karya Utama",
-    "Bina Karya Sakti",
-    "Joharan",
-    "Rantau Jaya Baru",
-    "Rantau Jaya Ilir",
-    "Bina Karya Baru (Binakarya Baru)",
-    "Mranggi Jaya",
-    "Mekar Jaya",
-    "Rantau Jaya makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bina Karya Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bina Karya Utama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bina Karya Sakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Joharan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Jaya Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rantau Jaya Ilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bina Karya Baru (Binakarya Baru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mranggi Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rantau Jaya makmur"
+    }
   ]
 }

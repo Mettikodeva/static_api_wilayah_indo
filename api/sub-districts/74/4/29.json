@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wasuemba",
-    "Wabula",
-    "Wasampela",
-    "Holimombo",
-    "Koholimembona (Koholimombona)",
-    "Wabula Satu",
-    "Bajo Bahari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wasuemba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wabula"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wasampela"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Holimombo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koholimembona (Koholimombona)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wabula Satu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bajo Bahari"
+    }
   ]
 }

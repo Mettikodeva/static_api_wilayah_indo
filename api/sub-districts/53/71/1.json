@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Namosain",
-    "Nunbaun Sabu",
-    "Nunbaun Delha",
-    "Nunhila",
-    "Fatufeto",
-    "Manutapen",
-    "Mantasi",
-    "Alak",
-    "Batu Plat (Batuplat)",
-    "Manulai II",
-    "Naioni",
-    "Penkase Oeleta"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Namosain"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nunbaun Sabu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nunbaun Delha"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nunhila"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Fatufeto"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Manutapen"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mantasi"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Alak"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Batu Plat (Batuplat)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Manulai II"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Naioni"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Penkase Oeleta"
+    }
   ]
 }

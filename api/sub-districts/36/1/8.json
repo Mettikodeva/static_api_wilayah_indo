@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pasanggrahan",
-    "Sukasaba",
-    "Gunungbatu",
-    "Panacaran",
-    "Curuglanglang",
-    "Munjul",
-    "Cibitung",
-    "Kotadukuh",
-    "Lebak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasanggrahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukasaba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunungbatu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Panacaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curuglanglang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Munjul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cibitung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kotadukuh"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lebak"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kuripan",
-    "Padang Rindu",
-    "Negeri Ratu",
-    "Kerbang Dalam",
-    "Kota Karang",
-    "Balam",
-    "Way Narta",
-    "Kerbang Langgar",
-    "Walur",
-    "Batu Raja",
-    "Pemancar",
-    "Gedau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang Rindu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Negeri Ratu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kerbang Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Karang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Way Narta"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kerbang Langgar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Walur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Raja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pemancar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gedau"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Meranti Pandak",
-    "Lembah Damai",
-    "Limbungan Baru",
-    "Sri Meranti",
-    "Palas",
-    "Umban Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Meranti Pandak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lembah Damai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Limbungan Baru"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sri Meranti"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Palas"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Umban Sari"
+    }
   ]
 }

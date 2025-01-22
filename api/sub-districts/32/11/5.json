@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cisitu",
-    "Situmekar",
-    "Pajagan",
-    "Cigintung",
-    "Sundamekar",
-    "Linggajaya",
-    "Ranjeng",
-    "Cilopang",
-    "Cimarga",
-    "Cinangsi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisitu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Situmekar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pajagan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cigintung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sundamekar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Linggajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ranjeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cilopang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cimarga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cinangsi"
+    }
   ]
 }

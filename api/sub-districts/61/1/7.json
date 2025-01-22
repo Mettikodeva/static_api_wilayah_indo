@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Semelagi Besar",
-    "Sungai Daun",
-    "Sungai Rusa",
-    "Sungai Nyirih",
-    "Kuala",
-    "Parit Baru",
-    "Twi Mentibar",
-    "Bentunai",
-    "Pangkalan Bemban",
-    "Parit Kongsi",
-    "Gayung Bersambut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Semelagi Besar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Daun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Rusa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Nyirih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kuala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parit Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Twi Mentibar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bentunai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pangkalan Bemban"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Parit Kongsi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gayung Bersambut"
+    }
   ]
 }

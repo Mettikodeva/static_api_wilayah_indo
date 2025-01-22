@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pagutan",
-    "Punduhsari",
-    "Kepuhsari",
-    "Pijiharjo",
-    "Bero",
-    "Gunungan",
-    "Karanglor"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pagutan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Punduhsari"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kepuhsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pijiharjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bero"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanglor"
+    }
   ]
 }

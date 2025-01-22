@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Langnga (Langa)",
-    "Pallameang",
-    "Massulowalie",
-    "Mattombong",
-    "Mattongang Tongang",
-    "Patobong",
-    "Samaenre",
-    "Mattirotasi (Mattiro Tasi)",
-    "Siwolong Polong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Langnga (Langa)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pallameang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Massulowalie"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mattombong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mattongang Tongang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Patobong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Samaenre"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mattirotasi (Mattiro Tasi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Siwolong Polong"
+    }
   ]
 }

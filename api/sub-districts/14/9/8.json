@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Koto Baru",
-    "Petai",
-    "Sungaipaku (Sungai Paku)",
-    "Tanjungpauh (Tanjung Pauh)",
-    "Simpang Raya",
-    "Sungaibuluh (Sungai Buluh)",
-    "Suka Damai",
-    "Sumber Jaya",
-    "Muara Bahan",
-    "Bukitraya (Bukit Raya)",
-    "Beringin Jaya",
-    "Suka Maju (Sukamaju)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Petai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungaipaku (Sungai Paku)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjungpauh (Tanjung Pauh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpang Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungaibuluh (Sungai Buluh)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumber Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Bahan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukitraya (Bukit Raya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Maju (Sukamaju)"
+    }
   ]
 }

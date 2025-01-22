@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lukaken",
-    "Miami",
-    "Waoba (Wuroba/Waroba)",
-    "Yogonima",
-    "Tomisa",
-    "Helepalegem",
-    "Siliwa",
-    "Sumunikama",
-    "Kemisake"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lukaken"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Miami"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waoba (Wuroba/Waroba)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yogonima"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tomisa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Helepalegem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Siliwa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumunikama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kemisake"
+    }
   ]
 }

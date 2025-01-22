@@ -1,26 +1,92 @@
 {
   "districts": [
-    "Selo",
-    "Ampel",
-    "Cepogo",
-    "Musuk",
-    "Boyolali",
-    "Mojosongo",
-    "Teras",
-    "Sawit",
-    "Banyudono",
-    "Sambi",
-    "Ngemplak",
-    "Nogosari",
-    "Simo",
-    "Karanggede",
-    "Klego",
-    "Andong",
-    "Kemusu",
-    "Wonosegoro",
-    "Juwangi",
-    "Gladagsari",
-    "Tamansari",
-    "Wonosamodro"
+    {
+      "district_id": 1,
+      "kecamatan": "Selo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ampel"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Cepogo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Musuk"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Boyolali"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mojosongo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Teras"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sawit"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Banyudono"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sambi"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ngemplak"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Nogosari"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Simo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Karanggede"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Klego"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Andong"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kemusu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Wonosegoro"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Juwangi"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Gladagsari"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Tamansari"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Wonosamodro"
+    }
   ]
 }

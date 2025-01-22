@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kokoleh Satu",
-    "Kokoleh Dua",
-    "Paslaten",
-    "Kaweruan",
-    "Wangurer",
-    "Batu",
-    "Werot"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kokoleh Satu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kokoleh Dua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paslaten"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaweruan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wangurer"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Werot"
+    }
   ]
 }

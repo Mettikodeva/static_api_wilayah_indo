@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Batu Tangga",
-    "Hinas Kiri",
-    "Pembakulan",
-    "Nateh",
-    "Tandilang",
-    "Muara Hungi",
-    "Atiran",
-    "Batu Perahu",
-    "Aing Bantai",
-    "Juhu",
-    "Datar Batung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Tangga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hinas Kiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pembakulan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nateh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tandilang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Hungi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Atiran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Perahu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aing Bantai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Juhu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Datar Batung"
+    }
   ]
 }

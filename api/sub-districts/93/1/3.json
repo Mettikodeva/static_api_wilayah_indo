@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Okaba",
-    "Wambi",
-    "Makaling",
-    "Alatep",
-    "Iwol",
-    "Duf Miraf (Dufmiraf)",
-    "Alaku",
-    "Sanggase",
-    "Es Wambi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Okaba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wambi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Makaling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alatep"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Iwol"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Duf Miraf (Dufmiraf)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alaku"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sanggase"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Es Wambi"
+    }
   ]
 }

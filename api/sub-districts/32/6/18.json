@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mandalahayu",
-    "Mulyasari",
-    "Kawitan",
-    "Mandalawangi",
-    "Karyawangi",
-    "Tanjungsari",
-    "Mandalaguna",
-    "Karyamandala",
-    "Banjarwaringin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mandalahayu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kawitan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mandalawangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karyawangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mandalaguna"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karyamandala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjarwaringin"
+    }
   ]
 }

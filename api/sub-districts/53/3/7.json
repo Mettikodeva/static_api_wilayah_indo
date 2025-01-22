@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ponu",
-    "Motadik",
-    "Nonotbatan (Nonatbatan)",
-    "Sifaniha",
-    "Maukabatan",
-    "Kotafoun",
-    "Tuamese",
-    "Oemanu",
-    "Nifutasi"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ponu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Motadik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nonotbatan (Nonatbatan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sifaniha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maukabatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kotafoun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuamese"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oemanu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nifutasi"
+    }
   ]
 }

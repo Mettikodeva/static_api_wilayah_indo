@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kotalama",
-    "Mergosono",
-    "Bumiayu",
-    "Wonokoyo",
-    "Buring",
-    "Kedungkandang",
-    "Lesanpuro",
-    "Sawojajar",
-    "Madyopuro",
-    "Cemorokandang",
-    "Arjowinangun",
-    "Tlogowaru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kotalama"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mergosono"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bumiayu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wonokoyo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Buring"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kedungkandang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lesanpuro"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sawojajar"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Madyopuro"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Cemorokandang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Arjowinangun"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tlogowaru"
+    }
   ]
 }

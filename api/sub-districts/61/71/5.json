@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sungaibangkong (Sei / Sungai Bangkong)",
-    "Daratsekip (Darat Sekip)",
-    "Tengah",
-    "Mariana",
-    "Sungaijawi (Sei / Sungai Jawi)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungaibangkong (Sei / Sungai Bangkong)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Daratsekip (Darat Sekip)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tengah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mariana"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sungaijawi (Sei / Sungai Jawi)"
+    }
   ]
 }

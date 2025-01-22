@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jadirejo",
-    "Kampung Tengah",
-    "Kampung Melayu",
-    "Kedung Sari (Kedungsari)",
-    "Harjosari",
-    "Sukajadi",
-    "Pulau Karomah"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jadirejo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kampung Tengah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kampung Melayu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kedung Sari (Kedungsari)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Harjosari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pulau Karomah"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Mulak",
-    "Pulau Pinang",
-    "Tanjung Sirih",
-    "Lubuk Sepang",
-    "Karang Dalam",
-    "Kuba",
-    "Jati",
-    "Pagar Batu",
-    "Muara Siban",
-    "Perigi"
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Mulak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Pinang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Sirih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lubuk Sepang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karang Dalam"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kuba"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pagar Batu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Muara Siban"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Perigi"
+    }
   ]
 }

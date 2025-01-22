@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Milangodaa",
-    "Londoun (Londuun)",
-    "Marisa",
-    "Tahele",
-    "Bunto",
-    "Maleo",
-    "Kelapa Lima"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Milangodaa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Londoun (Londuun)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Marisa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tahele"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bunto"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maleo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kelapa Lima"
+    }
   ]
 }

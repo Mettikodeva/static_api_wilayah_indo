@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Luwuk",
-    "Baru",
-    "Soho",
-    "Bungin",
-    "Karaton (Keraton)",
-    "Kaleke (Keleke)",
-    "Bungin Timur",
-    "Mangkio Baru-Hanga Permai (Mangkio Baru)",
-    "Tontouan",
-    "Lumpoknyo"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Luwuk"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Soho"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bungin"
+    },
+    {
+      "sub_district_id": 1031,
+      "desa_kelurahan": "Karaton (Keraton)"
+    },
+    {
+      "sub_district_id": 1033,
+      "desa_kelurahan": "Kaleke (Keleke)"
+    },
+    {
+      "sub_district_id": 1034,
+      "desa_kelurahan": "Bungin Timur"
+    },
+    {
+      "sub_district_id": 1035,
+      "desa_kelurahan": "Mangkio Baru-Hanga Permai (Mangkio Baru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tontouan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lumpoknyo"
+    }
   ]
 }

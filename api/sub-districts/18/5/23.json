@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Gedung Harapan",
-    "Gedung Asri",
-    "Gedung Rejo Sakti",
-    "Pasar Batang",
-    "Suka Makmur",
-    "Karya Makmur",
-    "Wono Rejo",
-    "Panca Tunggal Jaya",
-    "Sumber Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gedung Harapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gedung Asri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gedung Rejo Sakti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar Batang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karya Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wono Rejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panca Tunggal Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Sari"
+    }
   ]
 }

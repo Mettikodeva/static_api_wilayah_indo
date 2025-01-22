@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Lompoe",
-    "WT. Bacukiki (Wattang Bacukiki)",
-    "Lemoe",
-    "Galung Maloang"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lompoe"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "WT. Bacukiki (Wattang Bacukiki)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lemoe"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Galung Maloang"
+    }
   ]
 }

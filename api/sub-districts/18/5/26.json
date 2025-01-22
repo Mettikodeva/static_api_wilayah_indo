@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bangun Rejo",
-    "Paduan Rajawali (Panduan Rajawali)",
-    "Karya Bhakti (Karya Bakti)",
-    "Sukarame",
-    "Bina Bumi",
-    "Mulyo Aji (Mulya Aji)",
-    "Kecubung Raya",
-    "Marga Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun Rejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paduan Rajawali (Panduan Rajawali)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karya Bhakti (Karya Bakti)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bina Bumi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulyo Aji (Mulya Aji)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kecubung Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Marga Jaya"
+    }
   ]
 }

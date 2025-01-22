@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cisompet",
-    "Cihaurkuning",
-    "Margamulya",
-    "Sukamukti",
-    "Sukanagara",
-    "Cikondang",
-    "Depok",
-    "Panyindangan",
-    "Jatisari",
-    "Neglasari",
-    "Sindangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisompet"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cihaurkuning"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margamulya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukanagara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cikondang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Depok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panyindangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sindangsari"
+    }
   ]
 }

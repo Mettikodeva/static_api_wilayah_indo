@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mega",
-    "Selewok",
-    "Malaworsai",
-    "Kwade",
-    "Bonem",
-    "Warafor",
-    "Warmasi",
-    "Warmanen",
-    "Namuas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mega"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selewok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malaworsai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kwade"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Warafor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Warmasi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Warmanen"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Namuas"
+    }
   ]
 }

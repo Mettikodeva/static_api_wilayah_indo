@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Seusina",
-    "Kopong",
-    "Namangkewa",
-    "Iantena (Ian Tena)",
-    "Umagera",
-    "Geliting",
-    "Waiara",
-    "Wairkoja",
-    "Watukobu"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Seusina"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kopong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Namangkewa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Iantena (Ian Tena)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Umagera"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Geliting"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Waiara"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Wairkoja"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Watukobu"
+    }
   ]
 }

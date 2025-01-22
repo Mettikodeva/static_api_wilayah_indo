@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Noling",
-    "Tanjong",
-    "Buntu Batu",
-    "Tampumia",
-    "Padang Tuju",
-    "Padang Kamburi",
-    "Malenggang",
-    "Balutan",
-    "Padang Ma'bud (Padang Ma Bud)",
-    "Saluinduk"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Noling"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buntu Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tampumia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Tuju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padang Kamburi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malenggang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balutan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padang Ma'bud (Padang Ma Bud)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saluinduk"
+    }
   ]
 }

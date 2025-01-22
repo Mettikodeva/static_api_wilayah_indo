@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Muncangela",
-    "Karoya",
-    "Susukan",
-    "Cimaranten",
-    "Cipicung",
-    "Pamulihan",
-    "Salareuma",
-    "Suganangan",
-    "Sukamukti",
-    "Mekarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muncangela"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karoya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Susukan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cimaranten"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipicung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pamulihan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salareuma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suganangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarsari"
+    }
   ]
 }

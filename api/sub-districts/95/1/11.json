@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Yalengga (Yelengga)",
-    "Taganik",
-    "Wananuk",
-    "Pilimo",
-    "Tumun",
-    "Akorek",
-    "Manili",
-    "Aipakma",
-    "Wugurima",
-    "Bitti",
-    "Wamanuk Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yalengga (Yelengga)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taganik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wananuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pilimo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Akorek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manili"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aipakma"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wugurima"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bitti"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wamanuk Dua"
+    }
   ]
 }

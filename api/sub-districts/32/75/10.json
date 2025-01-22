@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Jatisampurna",
-    "Jatikarya",
-    "Jatiranggon",
-    "Jatirangga",
-    "Jatiraden"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jatisampurna"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jatikarya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jatiranggon"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jatirangga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jatiraden"
+    }
   ]
 }

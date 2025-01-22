@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tabukeker",
-    "Ponalo",
-    "Timi",
-    "Wuragi",
-    "Tiwa",
-    "Dingun",
-    "Lura Marah",
-    "Pelek",
-    "Beyongwi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tabukeker"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ponalo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wuragi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tiwa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dingun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lura Marah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pelek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Beyongwi"
+    }
   ]
 }

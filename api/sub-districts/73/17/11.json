@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Padang Subur",
-    "Padang Sappa",
-    "Tirowali",
-    "Mario",
-    "Muladimeng (Maladimeng)",
-    "Buntu Kamiri",
-    "Tumale",
-    "Buntu Nanna (Buntu Kanna)",
-    "Tampa",
-    "Parekaju"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padang Subur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Padang Sappa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tirowali"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mario"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muladimeng (Maladimeng)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Buntu Kamiri"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tumale"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Buntu Nanna (Buntu Kanna)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tampa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Parekaju"
+    }
   ]
 }

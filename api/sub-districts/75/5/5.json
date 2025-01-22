@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tolinggula Tengah",
-    "Tolinggula Pantai",
-    "Tolinggula Ulu",
-    "Limbato",
-    "Papulangi (Papualangi)",
-    "Molangga",
-    "Cempaka Putih",
-    "Tolite Jaya",
-    "Ilomangga",
-    "Ilotunggulo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tolinggula Tengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tolinggula Pantai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tolinggula Ulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Limbato"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Papulangi (Papualangi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Molangga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cempaka Putih"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tolite Jaya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ilomangga"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ilotunggulo"
+    }
   ]
 }

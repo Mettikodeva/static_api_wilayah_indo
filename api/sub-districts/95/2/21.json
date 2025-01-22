@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Okma",
-    "Oktae",
-    "Tinibil",
-    "Okdilam",
-    "Autpahik",
-    "Tomka",
-    "Okpa",
-    "Okhaka",
-    "Honkuding",
-    "Bomding",
-    "Okdunam",
-    "Paune"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Okma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oktae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tinibil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Okdilam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Autpahik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tomka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Okpa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Okhaka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Honkuding"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bomding"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Okdunam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paune"
+    }
   ]
 }

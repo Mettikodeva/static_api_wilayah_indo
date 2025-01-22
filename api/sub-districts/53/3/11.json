@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tuabatan",
-    "Akomi",
-    "Bijaepasu",
-    "Neonasi",
-    "Nian",
-    "Tuabatan Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuabatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Akomi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bijaepasu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Neonasi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuabatan Barat"
+    }
   ]
 }

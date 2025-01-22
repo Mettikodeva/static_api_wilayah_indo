@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Masalle",
-    "Batu Ke'de (Batu Kede)",
-    "Mundan",
-    "Buntu Sarong",
-    "Rampunan",
-    "Tongkonan Basse"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Masalle"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Ke'de (Batu Kede)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mundan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buntu Sarong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rampunan"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Tongkonan Basse"
+    }
   ]
 }

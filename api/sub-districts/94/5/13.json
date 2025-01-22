@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Aguit",
-    "Kembru",
-    "Molu",
-    "Belaba",
-    "Makuma",
-    "Tinoti",
-    "Nilime"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aguit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kembru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Molu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belaba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Makuma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tinoti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nilime"
+    }
   ]
 }

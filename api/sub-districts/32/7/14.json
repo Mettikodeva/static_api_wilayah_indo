@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukadana",
-    "Salakaria",
-    "Margaharja",
-    "Margajaya",
-    "Bunter",
-    "Ciparigi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salakaria"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Margaharja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Margajaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bunter"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ciparigi"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Kelay",
-    "Talisayan",
-    "Sambaliung",
-    "Segah",
-    "Tanjung Redeb",
-    "Gunung Tabur",
-    "Pulau Derawan",
-    "Biduk-Biduk",
-    "Teluk Bayur",
-    "Tabalar",
-    "Maratua",
-    "Batu Putih",
-    "Biatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Kelay"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Talisayan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sambaliung"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Segah"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanjung Redeb"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Gunung Tabur"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Pulau Derawan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Biduk-Biduk"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Teluk Bayur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tabalar"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Maratua"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Batu Putih"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Biatan"
+    }
   ]
 }

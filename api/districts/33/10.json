@@ -1,30 +1,108 @@
 {
   "districts": [
-    "Prambanan",
-    "Gantiwarno",
-    "Wedi",
-    "Bayat",
-    "Cawas",
-    "Trucuk",
-    "Kebonarum",
-    "Jogonalan",
-    "Manisrenggo",
-    "Karangnongko",
-    "Ceper",
-    "Pedan",
-    "Karangdowo",
-    "Juwiring",
-    "Wonosari",
-    "Delanggu",
-    "Polanharjo",
-    "Karanganom",
-    "Tulung",
-    "Jatinom",
-    "Kemalang",
-    "Ngawen",
-    "Kalikotes",
-    "Klaten Utara",
-    "Klaten Tengah",
-    "Klaten Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Prambanan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Gantiwarno"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wedi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bayat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cawas"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Trucuk"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kebonarum"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Jogonalan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Manisrenggo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Karangnongko"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ceper"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pedan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Karangdowo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Juwiring"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Wonosari"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Delanggu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Polanharjo"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Karanganom"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tulung"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Jatinom"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kemalang"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Ngawen"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Kalikotes"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Klaten Utara"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Klaten Tengah"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Klaten Selatan"
+    }
   ]
 }

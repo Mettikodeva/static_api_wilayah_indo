@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batu Menyan",
-    "Cilimus",
-    "Gebang",
-    "Hanura",
-    "Hurun",
-    "Munca",
-    "Sidodadi",
-    "Sukajaya Lempasing",
-    "Talang Mulya",
-    "Tanjung Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Menyan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilimus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gebang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hanura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hurun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Munca"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukajaya Lempasing"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Talang Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Agung"
+    }
   ]
 }

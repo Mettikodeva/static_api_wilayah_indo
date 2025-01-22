@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Periuk",
-    "Gembor",
-    "Gebang Raya",
-    "Sangiang Jaya",
-    "Periuk Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Periuk"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gembor"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gebang Raya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sangiang Jaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Periuk Jaya"
+    }
   ]
 }

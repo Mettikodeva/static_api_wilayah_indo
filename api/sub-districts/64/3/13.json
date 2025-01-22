@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Biatan Ulu",
-    "Biatan Ilir",
-    "Karangan",
-    "Biatan Lempake",
-    "Manunggal Jaya",
-    "Biatan Bapinang",
-    "Biatan Baru",
-    "Bukit Makmur Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biatan Ulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Biatan Ilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Biatan Lempake"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manunggal Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Biatan Bapinang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Biatan Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Makmur Jaya"
+    }
   ]
 }

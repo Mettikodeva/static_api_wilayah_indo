@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ngadirejo",
-    "Jatirejo",
-    "Banyukambang",
-    "Sidomulyo",
-    "Wonoasri",
-    "Plumpungrejo",
-    "Bancong",
-    "Purwosari",
-    "Klitik",
-    "Buduran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banyukambang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonoasri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Plumpungrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bancong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klitik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Buduran"
+    }
   ]
 }

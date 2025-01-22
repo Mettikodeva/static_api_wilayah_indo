@@ -1,30 +1,108 @@
 {
   "sub_districts": [
-    "Sifalaete",
-    "Hilimbawodesolo (Hilimbawo Desolo)",
-    "Dahana",
-    "Bawodesolo",
-    "Tuhegeo I",
-    "Simanaere",
-    "Humene",
-    "Siwalubanua II",
-    "Helefanikha",
-    "Tetehosi I",
-    "Fowa",
-    "Binaka",
-    "Idanotae",
-    "Tetehosi II",
-    "Lolo'ana'a Idanoi (Loloanaa Idanoi)",
-    "Siwalubanua I",
-    "Hilihambawa",
-    "Awa'ai (Awaai)",
-    "Lewuoguru Idanoi",
-    "Fadoro",
-    "Hiliweto Idanoi",
-    "Hilimbowo Idanoi",
-    "Onowaembo",
-    "Ombolata",
-    "Samasi",
-    "Tuhegeo II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sifalaete"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilimbawodesolo (Hilimbawo Desolo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dahana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bawodesolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuhegeo I"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simanaere"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Humene"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siwalubanua II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Helefanikha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tetehosi I"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Fowa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binaka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Idanotae"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tetehosi II"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lolo'ana'a Idanoi (Loloanaa Idanoi)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Siwalubanua I"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Hilihambawa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Awa'ai (Awaai)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lewuoguru Idanoi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Fadoro"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Hiliweto Idanoi"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Hilimbowo Idanoi"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Onowaembo"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ombolata"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Samasi"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tuhegeo II"
+    }
   ]
 }

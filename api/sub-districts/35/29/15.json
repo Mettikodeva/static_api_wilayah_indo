@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mandala",
-    "Pakondang",
-    "Matanair",
-    "Tambaksari",
-    "Banasare (Bana Sare)",
-    "Bunbarat",
-    "Karang Nangka (Karangnangka)",
-    "Basoka",
-    "Duko",
-    "Rubaru",
-    "Kalebengan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pakondang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matanair"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambaksari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banasare (Bana Sare)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bunbarat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Nangka (Karangnangka)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Basoka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Duko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rubaru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalebengan"
+    }
   ]
 }

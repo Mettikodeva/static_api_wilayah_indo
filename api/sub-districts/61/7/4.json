@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bumi Emas",
-    "Sabalo (Sebalo)",
-    "Tirta Kencana",
-    "Bhakti/Bakti Mulya",
-    "Bani Amas/Emas",
-    "Setia Budi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bumi Emas"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sabalo (Sebalo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tirta Kencana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bhakti/Bakti Mulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bani Amas/Emas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Setia Budi"
+    }
   ]
 }

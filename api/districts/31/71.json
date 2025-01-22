@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Gambir",
-    "Sawah Besar",
-    "Kemayoran",
-    "Senen",
-    "Cempaka Putih",
-    "Menteng",
-    "Tanah Abang",
-    "Johar Baru"
+    {
+      "district_id": 1,
+      "kecamatan": "Gambir"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sawah Besar"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kemayoran"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Senen"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Cempaka Putih"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Menteng"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tanah Abang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Johar Baru"
+    }
   ]
 }

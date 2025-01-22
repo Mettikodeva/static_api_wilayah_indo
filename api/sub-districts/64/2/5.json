@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Saliki (Seliki)",
-    "Salok Palai",
-    "Muara Badak Ulu",
-    "Muara Badak Ilir",
-    "Tanjung Limau",
-    "Tanah Datar",
-    "Badak Baru",
-    "Suka Damai",
-    "Badak Mekar",
-    "Gas Alam Badak I",
-    "Batu Batu",
-    "Sallo Cela (Salo Cella)",
-    "Sungai Bawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saliki (Seliki)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salok Palai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Badak Ulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Badak Ilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Limau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanah Datar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Badak Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Badak Mekar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gas Alam Badak I"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Batu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sallo Cela (Salo Cella)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungai Bawang"
+    }
   ]
 }

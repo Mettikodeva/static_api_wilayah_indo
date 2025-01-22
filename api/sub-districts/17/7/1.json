@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kampung Jawa",
-    "Pasar Muara Aman",
-    "Gandung",
-    "Tunggang",
-    "Talang Ulu",
-    "Nangai Amen",
-    "Lebong Tambang",
-    "Ladang Palembang",
-    "Kampung Dalam",
-    "Kampung Muara Aman",
-    "Lokasari",
-    "Gandung Baru"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kampung Jawa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pasar Muara Aman"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gandung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunggang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Ulu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Nangai Amen"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lebong Tambang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Ladang Palembang"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kampung Dalam"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kampung Muara Aman"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Lokasari"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Gandung Baru"
+    }
   ]
 }

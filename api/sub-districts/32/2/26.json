@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ciracap",
-    "Cikangkung",
-    "Gunungbatu",
-    "Purwasedar",
-    "Pasirpanjang",
-    "Mekarsari",
-    "Ujung Genteng (Ujunggenteng)",
-    "Pangumbahan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciracap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikangkung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunungbatu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwasedar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasirpanjang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ujung Genteng (Ujunggenteng)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangumbahan"
+    }
   ]
 }

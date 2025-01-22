@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pulau Panjang",
-    "Argam",
-    "Lalasa",
-    "Magat",
-    "Ruku Ruku",
-    "Perik Basaranggi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Argam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lalasa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Magat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ruku Ruku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perik Basaranggi"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Yamara",
-    "Wembi",
-    "Wonorejo",
-    "Pyawi",
-    "Sawyatami",
-    "Wambes",
-    "Uskwar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yamara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wembi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pyawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sawyatami"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wambes"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uskwar"
+    }
   ]
 }

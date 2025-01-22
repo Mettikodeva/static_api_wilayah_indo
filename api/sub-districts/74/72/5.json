@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Liwuto",
-    "Sukanayo (Sukanaeyo)",
-    "Lakologou (Lakologuo)",
-    "Waruruma",
-    "Kadolomoko",
-    "Kadolo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Liwuto"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukanayo (Sukanaeyo)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lakologou (Lakologuo)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Waruruma"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kadolomoko"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kadolo"
+    }
   ]
 }

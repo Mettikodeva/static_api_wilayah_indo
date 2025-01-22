@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Sepang (Sepang Simin)",
-    "Kurun",
-    "Tewah",
-    "Kahayan Hulu Utara",
-    "Rungan",
-    "Manuhing",
-    "Mihing Raya",
-    "Damang Batu",
-    "Miri Manasa",
-    "Rungan Hulu",
-    "Manuhing Raya (Mahuning Raya)",
-    "Rungan Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Sepang (Sepang Simin)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kurun"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tewah"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kahayan Hulu Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Rungan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Manuhing"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mihing Raya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Damang Batu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Miri Manasa"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Rungan Hulu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Manuhing Raya (Mahuning Raya)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Rungan Barat"
+    }
   ]
 }

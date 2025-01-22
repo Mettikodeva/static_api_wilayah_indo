@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kaputihan",
-    "Setiawangi",
-    "Sukakerta",
-    "Neglasari",
-    "Jatiwaras",
-    "Papayan",
-    "Ciwarak",
-    "Kersagalih",
-    "Mandalamekar",
-    "Kertarahayu",
-    "Mandalahurip"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaputihan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Setiawangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukakerta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatiwaras"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Papayan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ciwarak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kersagalih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mandalamekar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertarahayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mandalahurip"
+    }
   ]
 }

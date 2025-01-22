@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tunggul Payung (Tunggulpayung)",
-    "Tugu",
-    "Nunuk",
-    "Tempel",
-    "Pangauban",
-    "Tegalasari (Telagasari)",
-    "Langgengsari",
-    "Tamansari",
-    "Lelea",
-    "Cempeh",
-    "Tempelkulon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tunggul Payung (Tunggulpayung)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tugu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nunuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tempel"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangauban"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalasari (Telagasari)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Langgengsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lelea"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cempeh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tempelkulon"
+    }
   ]
 }

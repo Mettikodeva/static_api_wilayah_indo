@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ciater",
-    "Rawabuntu (Rawa Buntu)",
-    "Rawa Mekarjaya (Rawa Mekar Jaya)",
-    "Lengkong Gudang",
-    "Lengkong Wetan",
-    "Buaran",
-    "Lengkong Gudang Timur",
-    "Cilenggang",
-    "Serpong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ciater"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rawabuntu (Rawa Buntu)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rawa Mekarjaya (Rawa Mekar Jaya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lengkong Gudang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lengkong Wetan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Buaran"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Lengkong Gudang Timur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cilenggang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Serpong"
+    }
   ]
 }

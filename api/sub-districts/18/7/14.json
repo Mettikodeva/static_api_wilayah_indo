@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Donomulyo",
-    "Nyampir",
-    "Bumi Tinggi",
-    "Lehan",
-    "Marga Mulya",
-    "Catur Swako",
-    "Mulyo Asri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Donomulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nyampir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bumi Tinggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lehan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marga Mulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Catur Swako"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulyo Asri"
+    }
   ]
 }

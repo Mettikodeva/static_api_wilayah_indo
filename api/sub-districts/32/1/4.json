@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gununggeulis (Gunung Geulis)",
-    "Cilebut Timur",
-    "Cilebut Barat",
-    "Cibanon",
-    "Nagrak",
-    "Sukatani",
-    "Sukaraja",
-    "Cikeas",
-    "Pasir Jambu",
-    "Cimandala",
-    "Cijujung",
-    "Cadasngampar (Cadas Ngampar)",
-    "Pasirlaja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gununggeulis (Gunung Geulis)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cilebut Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cilebut Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibanon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nagrak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikeas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Jambu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cimandala"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cijujung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cadasngampar (Cadas Ngampar)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasirlaja"
+    }
   ]
 }

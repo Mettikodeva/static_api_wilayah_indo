@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Tinambung",
-    "Campalagian",
-    "Wonomulyo",
-    "Polewali",
-    "Tutar (Tubbi Taramanu, Tutallu)",
-    "Binuang",
-    "Tapango",
-    "Mapilli",
-    "Matangnga",
-    "Luyo",
-    "Limboro",
-    "Balanipa",
-    "Anreapi",
-    "Matakali",
-    "Allu (Alu)",
-    "Bulo"
+    {
+      "district_id": 1,
+      "kecamatan": "Tinambung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Campalagian"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wonomulyo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Polewali"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tutar (Tubbi Taramanu, Tutallu)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Binuang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tapango"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mapilli"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Matangnga"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Luyo"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Limboro"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Balanipa"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Anreapi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Matakali"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Allu (Alu)"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bulo"
+    }
   ]
 }

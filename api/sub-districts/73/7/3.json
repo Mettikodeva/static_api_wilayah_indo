@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Semataring (Samataring)",
-    "Sanjai",
-    "Pattalassang",
-    "Panaikang",
-    "Saukang",
-    "Kampala",
-    "Lasiai",
-    "Biroro",
-    "Kaloling",
-    "Pasimarannu",
-    "Tongke-Tongke",
-    "Salohe",
-    "Bongki Lengkese"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Semataring (Samataring)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sanjai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pattalassang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panaikang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saukang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lasiai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Biroro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaloling"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasimarannu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tongke-Tongke"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Salohe"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bongki Lengkese"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tumbur",
-    "Lorulun",
-    "Atubul Dol",
-    "Amdasa",
-    "Sangliat Krawain",
-    "Arui Bab",
-    "Arui Das",
-    "Sangliat Dol",
-    "Atubul Da"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lorulun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Atubul Dol"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amdasa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sangliat Krawain"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Arui Bab"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Arui Das"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sangliat Dol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Atubul Da"
+    }
   ]
 }

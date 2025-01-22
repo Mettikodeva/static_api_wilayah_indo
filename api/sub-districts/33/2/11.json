@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Binangun",
-    "Pasinggangan",
-    "Kedunggede",
-    "Karangrau",
-    "Kejawar",
-    "Danaraja",
-    "Kedunguter",
-    "Sudagaran",
-    "Pekunden",
-    "Kalisube",
-    "Dawuhan",
-    "Papringan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Binangun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasinggangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedunggede"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangrau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kejawar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Danaraja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedunguter"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sudagaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pekunden"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalisube"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dawuhan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Papringan"
+    }
   ]
 }

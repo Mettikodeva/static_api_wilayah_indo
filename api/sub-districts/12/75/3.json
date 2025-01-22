@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bandar Senembah",
-    "Limau Mungkur",
-    "Limau Sundai",
-    "Paya Roba (Payaroba)",
-    "Suka Maju",
-    "Sukaramai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bandar Senembah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Limau Mungkur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Limau Sundai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Paya Roba (Payaroba)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sukaramai"
+    }
   ]
 }

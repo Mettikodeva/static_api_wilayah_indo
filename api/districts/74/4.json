@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Pasarwajo (Pasar Wajo)",
-    "Kapontori",
-    "Lasalimu",
-    "Lasalimu Selatan",
-    "Siotapina (Siontapia / Siontapina)",
-    "Wolowa",
-    "Wabula"
+    {
+      "district_id": 11,
+      "kecamatan": "Pasarwajo (Pasar Wajo)"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Kapontori"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Lasalimu"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Lasalimu Selatan"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Siotapina (Siontapia / Siontapina)"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Wolowa"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Wabula"
+    }
   ]
 }

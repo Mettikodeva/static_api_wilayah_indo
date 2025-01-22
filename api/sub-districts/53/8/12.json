@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Watuneso",
-    "Hubatuwa/Hobatua",
-    "Wolosambi",
-    "Woloaro/Woloara",
-    "Detupera",
-    "Wololelea (Wololela A)",
-    "Liabeke",
-    "Fatamari",
-    "Ranggatalo",
-    "Nua Lima",
-    "Tanaroga",
-    "Bu Tanalagu",
-    "Mbewawora"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Watuneso"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hubatuwa/Hobatua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wolosambi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Woloaro/Woloara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Detupera"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wololelea (Wololela A)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Liabeke"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Fatamari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ranggatalo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nua Lima"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanaroga"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bu Tanalagu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mbewawora"
+    }
   ]
 }

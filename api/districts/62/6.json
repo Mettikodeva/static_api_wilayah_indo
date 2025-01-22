@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Kamipang",
-    "Katingan Hilir",
-    "Tewang Sangalang Garing",
-    "Pulau Malan",
-    "Katingan Tengah",
-    "Sanaman Mantikei (Senamang Mantikei)",
-    "Marikit",
-    "Katingan Hulu",
-    "Mendawai",
-    "Katingan Kuala",
-    "Tasik Payawan",
-    "Petak Malai",
-    "Bukit Raya"
+    {
+      "district_id": 1,
+      "kecamatan": "Kamipang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Katingan Hilir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tewang Sangalang Garing"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Pulau Malan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Katingan Tengah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sanaman Mantikei (Senamang Mantikei)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Marikit"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Katingan Hulu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Mendawai"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Katingan Kuala"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tasik Payawan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Petak Malai"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Bukit Raya"
+    }
   ]
 }

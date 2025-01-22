@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mate",
-    "Serkos",
-    "Solta Baru",
-    "Wadoi",
-    "Isogo",
-    "Sibae",
-    "Mogibi",
-    "Odeare",
-    "Siri-siri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mate"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Serkos"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Solta Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wadoi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Isogo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sibae"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mogibi"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Odeare"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Siri-siri"
+    }
   ]
 }

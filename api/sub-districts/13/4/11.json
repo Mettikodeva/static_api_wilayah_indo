@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Atar",
-    "Padang Ganting"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Atar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang Ganting"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tayadun",
-    "Poongan",
-    "Bongo",
-    "Doulan",
-    "Kantanan",
-    "Kodolagon",
-    "Negeri Lama",
-    "Bokat IV",
-    "Bokat",
-    "Butukan",
-    "Tikopo",
-    "Bukamog",
-    "Tang",
-    "Duamayo (Duwamayo)",
-    "Langudon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tayadun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Poongan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bongo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Doulan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kantanan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kodolagon"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Negeri Lama"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bokat IV"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bokat"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Butukan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tikopo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bukamog"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tang"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Duamayo (Duwamayo)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Langudon"
+    }
   ]
 }

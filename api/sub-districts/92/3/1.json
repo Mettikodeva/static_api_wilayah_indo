@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Fak Fak Selatan",
-    "Fak Fak Utara",
-    "Gewerpe",
-    "Lusi Peri",
-    "Wrikapal"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Fak Fak Selatan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Fak Fak Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gewerpe"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lusi Peri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wrikapal"
+    }
   ]
 }

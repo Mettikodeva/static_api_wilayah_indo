@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pattallassang",
-    "Pallantikang",
-    "Somba Bella (Sombabella)",
-    "Kalabbirang",
-    "Maradekaya (Mardekaya)",
-    "Pappa",
-    "Bajeng",
-    "Sabintang",
-    "Salaka"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pattallassang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pallantikang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Somba Bella (Sombabella)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalabbirang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Maradekaya (Mardekaya)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pappa"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bajeng"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sabintang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Salaka"
+    }
   ]
 }

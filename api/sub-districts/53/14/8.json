@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lenguselu",
-    "Daleholu",
-    "Dodaek",
-    "Tebole",
-    "Inaoe",
-    "Nggelodae",
-    "Pilasue"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lenguselu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Daleholu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dodaek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tebole"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Inaoe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nggelodae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pilasue"
+    }
   ]
 }

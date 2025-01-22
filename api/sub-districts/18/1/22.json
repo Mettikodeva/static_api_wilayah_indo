@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bangun Sari (Bangunsari)",
-    "Purwodadi Dalam",
-    "Sidomukti",
-    "Wawasan",
-    "Mulyosari (Mulyo Sari)",
-    "Wonodadi",
-    "Kertosari",
-    "Malangsari (Malang Sari)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangun Sari (Bangunsari)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purwodadi Dalam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wawasan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mulyosari (Mulyo Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wonodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kertosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Malangsari (Malang Sari)"
+    }
   ]
 }

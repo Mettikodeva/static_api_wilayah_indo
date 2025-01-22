@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Nekan",
-    "Semangit (Semanget)",
-    "Entikong",
-    "Pala Pasang (Pala Asang / Palapasang)",
-    "Suruh Tembawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nekan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semangit (Semanget)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Entikong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pala Pasang (Pala Asang / Palapasang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suruh Tembawang"
+    }
   ]
 }

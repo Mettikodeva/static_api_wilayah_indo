@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lede",
-    "Todoli",
-    "Tolong",
-    "Langganu",
-    "Balohang (Balahong)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lede"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Todoli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tolong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langganu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balohang (Balahong)"
+    }
   ]
 }

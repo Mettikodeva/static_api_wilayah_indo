@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Wulanggitang",
-    "Titehena",
-    "Larantuka",
-    "Ile Mandiri",
-    "Tanjung Bunga",
-    "Solor Barat",
-    "Solor Timur",
-    "Adonara Barat",
-    "Wotan Ulumando",
-    "Adonara Timur",
-    "Kelubagolit",
-    "Witihama",
-    "Ile Boleng",
-    "Demon Pagong",
-    "Lewolema",
-    "Ile Bura",
-    "Adonara",
-    "Adonara Tengah",
-    "Solor Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Wulanggitang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Titehena"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Larantuka"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ile Mandiri"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanjung Bunga"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Solor Barat"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Solor Timur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Adonara Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Wotan Ulumando"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Adonara Timur"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kelubagolit"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Witihama"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Ile Boleng"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Demon Pagong"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Lewolema"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Ile Bura"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Adonara"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Adonara Tengah"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Solor Selatan"
+    }
   ]
 }

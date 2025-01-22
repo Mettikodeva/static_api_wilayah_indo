@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kamatubun",
-    "Rumahsalut (Rumasalut)",
-    "Welutu",
-    "Themin",
-    "Weratan",
-    "Wermatang",
-    "Batu Putih",
-    "Makatian (Makatiang)",
-    "Marantutul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kamatubun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rumahsalut (Rumasalut)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Welutu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Themin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Weratan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wermatang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Makatian (Makatiang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marantutul"
+    }
   ]
 }

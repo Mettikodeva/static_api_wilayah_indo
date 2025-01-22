@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bobomani (Bomomani)",
-    "Abaimaida",
-    "Bonakunu",
-    "Dawaikunu",
-    "Magode (Magone)",
-    "Diyoudimi",
-    "Obaikagopa (Abaugi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bobomani (Bomomani)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Abaimaida"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonakunu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawaikunu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Magode (Magone)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Diyoudimi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Obaikagopa (Abaugi)"
+    }
   ]
 }

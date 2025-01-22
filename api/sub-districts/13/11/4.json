@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lubuk/Lubuak Malako",
-    "Bidar Alam",
-    "Padang Air Dingin",
-    "Padang Limau Sundai",
-    "Padang Gantiang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuk/Lubuak Malako"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bidar Alam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Air Dingin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Limau Sundai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padang Gantiang"
+    }
   ]
 }

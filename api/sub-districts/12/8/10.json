@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sipolha Horison (Sipolha Horisan)",
-    "Sait Buttu Saribu",
-    "Pematang Sidamanik",
-    "Sarimattin",
-    "Bandar Manik",
-    "Jorlang Huluan",
-    "Sihaporas",
-    "Pematang Tambun Raya",
-    "Simantin",
-    "Gorak"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sipolha Horison (Sipolha Horisan)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sait Buttu Saribu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pematang Sidamanik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sarimattin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandar Manik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jorlang Huluan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sihaporas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pematang Tambun Raya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simantin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gorak"
+    }
   ]
 }

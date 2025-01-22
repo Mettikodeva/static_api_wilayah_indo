@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kebun Tebeng",
-    "Tanah Patah",
-    "Nusa Indah",
-    "Kebun Beler",
-    "Kebun Kenanga",
-    "Sawah Lebar",
-    "Sawah Lebar Baru",
-    "Lempuing"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kebun Tebeng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanah Patah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nusa Indah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kebun Beler"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebun Kenanga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sawah Lebar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sawah Lebar Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lempuing"
+    }
   ]
 }

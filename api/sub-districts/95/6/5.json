@@ -1,65 +1,248 @@
 {
   "sub_districts": [
-    "Welarek",
-    "Werenggik",
-    "Saly",
-    "Mabualem",
-    "Pisanggo",
-    "Welarekpunu (Welearekpunu)",
-    "Hindalimuhuk (Hindalimukuk)",
-    "Menepini",
-    "Soharam",
-    "Kampol",
-    "Tahamak",
-    "Punui (Funui)",
-    "Sakam",
-    "Sinahal",
-    "Samaria",
-    "Hamboik",
-    "Mohobiye",
-    "Halialo",
-    "Walingkapma",
-    "Kayalem",
-    "Seherek",
-    "Halisek",
-    "Wompoli",
-    "Fikfak",
-    "Mohonu",
-    "Pikohofari (Dikohobari)",
-    "Feingkama",
-    "Holowi",
-    "Poik (Poik Satu)",
-    "Koum",
-    "Hobut",
-    "Mondek (Montek)",
-    "Mamion (Mamioan)",
-    "Selek",
-    "Ambiliki",
-    "Ubalihi",
-    "Salema",
-    "Selebi",
-    "Langam",
-    "Pami",
-    "Pirang",
-    "Poholanggen",
-    "Nangkulamulan",
-    "Irarek",
-    "Ampolongsili",
-    "Sumtan (Suntam)",
-    "Ulum",
-    "Kayo",
-    "Panal",
-    "Hilariki",
-    "Tinmuhuk",
-    "Yahamer",
-    "Helebol",
-    "Silfal",
-    "Sukalimi",
-    "Nohonil",
-    "Lasik",
-    "Panalulun",
-    "Wasupahik",
-    "Folongsili",
-    "Amuluk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Welarek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Werenggik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Saly"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mabualem"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pisanggo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Welarekpunu (Welearekpunu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hindalimuhuk (Hindalimukuk)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Menepini"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Soharam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kampol"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tahamak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Punui (Funui)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sakam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinahal"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Samaria"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Hamboik"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mohobiye"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Halialo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Walingkapma"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kayalem"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Seherek"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Halisek"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wompoli"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Fikfak"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Mohonu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pikohofari (Dikohobari)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Feingkama"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Holowi"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Poik (Poik Satu)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Koum"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Hobut"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Mondek (Montek)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Mamion (Mamioan)"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Selek"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Ambiliki"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Ubalihi"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Salema"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Selebi"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Langam"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Pami"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Pirang"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Poholanggen"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Nangkulamulan"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Irarek"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Ampolongsili"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Sumtan (Suntam)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Ulum"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Kayo"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Panal"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Hilariki"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Tinmuhuk"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Yahamer"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Helebol"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Silfal"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Sukalimi"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Nohonil"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Lasik"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Panalulun"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Wasupahik"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Folongsili"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Amuluk"
+    }
   ]
 }

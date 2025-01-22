@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ouw",
-    "Ullath",
-    "Siri Sori Islam (Siri Sori)",
-    "Siri-Sori Amalatu",
-    "Mahu",
-    "Tuhaha",
-    "Ihamahu",
-    "Iha",
-    "Nolloth (Noloth)",
-    "Itawaka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ouw"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ullath"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siri Sori Islam (Siri Sori)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siri-Sori Amalatu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mahu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuhaha"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ihamahu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Iha"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nolloth (Noloth)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Itawaka"
+    }
   ]
 }

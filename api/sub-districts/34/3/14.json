@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Hargomulyo (Hargo Mulyo)",
-    "Mertelu",
-    "Watugajah (Watu Gajah)",
-    "Sampang",
-    "Serut",
-    "Ngalang",
-    "Tegalrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hargomulyo (Hargo Mulyo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mertelu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Watugajah (Watu Gajah)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sampang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Serut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tegalrejo"
+    }
   ]
 }

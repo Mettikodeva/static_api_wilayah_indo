@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Aralle",
-    "Ralle Anak",
-    "Panetean",
-    "Uhailanu",
-    "Aralle Utara",
-    "Uhaidaho",
-    "Baruru",
-    "Ralleanak Utara",
-    "Pamoseang Pangga",
-    "Kalabe",
-    "Aralle Selatan",
-    "Hahangan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Aralle"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ralle Anak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panetean"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uhailanu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aralle Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uhaidaho"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baruru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ralleanak Utara"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pamoseang Pangga"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kalabe"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Aralle Selatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Hahangan"
+    }
   ]
 }

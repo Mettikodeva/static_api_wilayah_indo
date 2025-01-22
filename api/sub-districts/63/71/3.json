@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Belitung Utara",
-    "Belitung Selatan",
-    "Pelambuan",
-    "Telaga Biru",
-    "Telawang",
-    "Teluk Tiram",
-    "Kuin Selatan",
-    "Kuin Cerucuk",
-    "Basirih"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Belitung Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Belitung Selatan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pelambuan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Telaga Biru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Telawang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Teluk Tiram"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kuin Selatan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kuin Cerucuk"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Basirih"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tawakua",
-    "Tampinna",
-    "Solo",
-    "Taripa",
-    "Mantadulu",
-    "Balirejo",
-    "Maliwowo",
-    "Lamaeto",
-    "Watangpanua",
-    "Wanasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tawakua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tampinna"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Solo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taripa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mantadulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balirejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maliwowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamaeto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Watangpanua"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wanasari"
+    }
   ]
 }

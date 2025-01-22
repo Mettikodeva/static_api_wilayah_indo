@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Tanjung Pinang Barat",
-    "Tanjung Pinang Timur",
-    "Tanjung Pinang Kota",
-    "Bukit Bestari"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanjung Pinang Barat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Pinang Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tanjung Pinang Kota"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bukit Bestari"
+    }
   ]
 }

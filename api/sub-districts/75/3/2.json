@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Padengo",
-    "Olohuta (Oluhuta)",
-    "Tumbihe",
-    "Pauwo",
-    "Olohuta Utara (Oluhuta Utara)",
-    "Dutohe",
-    "Tanggilingo",
-    "Toto Selatan",
-    "Poowo",
-    "Talango",
-    "Poowo Barat",
-    "Dutohe Barat"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Padengo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Olohuta (Oluhuta)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tumbihe"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pauwo"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Olohuta Utara (Oluhuta Utara)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dutohe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanggilingo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Toto Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Poowo"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Talango"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Poowo Barat"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Dutohe Barat"
+    }
   ]
 }

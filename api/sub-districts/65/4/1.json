@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tideng Pale",
-    "Limbu Sedulun",
-    "Sebidai",
-    "Sedulun",
-    "Tideng Pale Timur",
-    "Gunawan",
-    "Sebawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tideng Pale"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Limbu Sedulun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebidai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sedulun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tideng Pale Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunawan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sebawang"
+    }
   ]
 }

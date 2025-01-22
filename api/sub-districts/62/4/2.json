@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mengkatip",
-    "Sei/Sungai Jaya",
-    "Mahajandau/Mahanjau",
-    "Kalanis",
-    "Lehai",
-    "Damparan",
-    "Teluk Timbau",
-    "Batilap",
-    "Batampang",
-    "Mangkatir"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mengkatip"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mahajandau/Mahanjau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalanis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lehai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Damparan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluk Timbau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batilap"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batampang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mangkatir"
+    }
   ]
 }

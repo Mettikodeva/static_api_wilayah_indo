@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Obolma",
-    "Ibiroma",
-    "Hihundes",
-    "Wanem",
-    "Anjelma",
-    "Pusuaga",
-    "Wulik Punua",
-    "Kilise",
-    "Air Garam",
-    "Esalien",
-    "Lukulema",
-    "Tukuarek",
-    "Kima",
-    "Yagarelo",
-    "Soroh",
-    "Eroma",
-    "Lotia (Huglot)",
-    "Wuluagaima (Huluagaima)",
-    "Huken",
-    "Huguma",
-    "Parela",
-    "Wakunyama",
-    "Hesmat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Obolma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ibiroma"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hihundes"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wanem"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Anjelma"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Pusuaga"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Wulik Punua"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Kilise"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Air Garam"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Esalien"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Lukulema"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Tukuarek"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Kima"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Yagarelo"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Soroh"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Eroma"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Lotia (Huglot)"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Wuluagaima (Huluagaima)"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Huken"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Huguma"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Parela"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Wakunyama"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Hesmat"
+    }
   ]
 }

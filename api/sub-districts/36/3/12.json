@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sindangsari (Sindang Sari)",
-    "Kutabumi (Kuta Bumi)",
-    "Kuta Jaya",
-    "Kuta Baru",
-    "Pasar Kemis",
-    "Sukamantri",
-    "Pangadegan",
-    "Gelam Jaya",
-    "Suka Asih (Sukaasih)"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sindangsari (Sindang Sari)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kutabumi (Kuta Bumi)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kuta Jaya"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kuta Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasar Kemis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukamantri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pangadegan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gelam Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suka Asih (Sukaasih)"
+    }
   ]
 }

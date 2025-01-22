@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Babakan",
-    "Caringin",
-    "Serdang Wetan",
-    "Babat",
-    "Ciangir",
-    "Legok",
-    "Palasari (Pala Sari)",
-    "Bojongkamal (Bojong Kamal)",
-    "Rancagong",
-    "Kamuning (Kemuning)",
-    "Cirarab"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Serdang Wetan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Babat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ciangir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Legok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Palasari (Pala Sari)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bojongkamal (Bojong Kamal)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rancagong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kamuning (Kemuning)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cirarab"
+    }
   ]
 }

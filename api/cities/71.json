@@ -1,19 +1,64 @@
 {
   "cities": [
-    "Bolaang Mongondow",
-    "Minahasa",
-    "Kepulauan Sangihe",
-    "Kepulauan Talaud",
-    "Minahasa Selatan",
-    "Minahasa Utara",
-    "Minahasa Tenggara",
-    "Bolaang Mongondow Utara",
-    "Kepulauan Siau Tagulandang Biaro (Sitaro)",
-    "Bolaang Mongondow Timur",
-    "Bolaang Mongondow Selatan",
-    "Manado",
-    "Bitung",
-    "Tomohon",
-    "Kotamobagu"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Bolaang Mongondow"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Minahasa"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Kepulauan Sangihe"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Kepulauan Talaud"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Minahasa Selatan"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Minahasa Utara"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Minahasa Tenggara"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Bolaang Mongondow Utara"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Kepulauan Siau Tagulandang Biaro (Sitaro)"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Bolaang Mongondow Timur"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Bolaang Mongondow Selatan"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Manado"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Bitung"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Tomohon"
+    },
+    {
+      "city_id": 74,
+      "kabupaten_kota": "Kotamobagu"
+    }
   ]
 }

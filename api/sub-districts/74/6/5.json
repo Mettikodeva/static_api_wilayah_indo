@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Teomokole",
-    "Rahampuu",
-    "Rahadopi",
-    "Tirongkotua"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Teomokole"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Rahampuu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rahadopi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tirongkotua"
+    }
   ]
 }

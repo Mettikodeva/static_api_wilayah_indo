@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Leato Utara",
-    "Leato Selatan",
-    "Talumolo",
-    "Botu",
-    "Bugis"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Leato Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Leato Selatan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Talumolo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Botu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bugis"
+    }
   ]
 }

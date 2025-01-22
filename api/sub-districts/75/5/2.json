@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Pontolo",
-    "Molingkapoto (Molinggapoto)",
-    "Leboto",
-    "Posso",
-    "Titidu",
-    "Moluo",
-    "Mootinelo",
-    "Bualemo",
-    "Bulalo",
-    "Katialada",
-    "Ombulodata",
-    "Alata Karya",
-    "Cisadane",
-    "Botuwombata",
-    "Botungobungo",
-    "Molingkapoto Selatan",
-    "Pontolo Atas",
-    "Masuru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pontolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Molingkapoto (Molinggapoto)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Leboto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Posso"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Titidu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Moluo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mootinelo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bualemo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bulalo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Katialada"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ombulodata"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Alata Karya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Cisadane"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Botuwombata"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Botungobungo"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Molingkapoto Selatan"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Pontolo Atas"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Masuru"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Oelomin",
-    "Tasikona",
-    "Oemasi",
-    "Usapi Sonbai (Usapisonbai)",
-    "Oenif",
-    "Tunfeu",
-    "Oepaha",
-    "Bone",
-    "Taloitan (Taloetan)",
-    "Oben",
-    "Bismark (Bismarak)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oelomin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tasikona"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oemasi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Usapi Sonbai (Usapisonbai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oenif"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunfeu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Oepaha"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bone"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taloitan (Taloetan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Oben"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bismark (Bismarak)"
+    }
   ]
 }

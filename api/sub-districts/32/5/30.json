@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cikelet",
-    "Linggamanik",
-    "Kertamukti",
-    "Cogadog (Cigadog)",
-    "Pamalayan",
-    "Karangsari",
-    "Cijambe",
-    "Girimukti",
-    "Ciroyom",
-    "Awassagara",
-    "Tipar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikelet"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Linggamanik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertamukti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cogadog (Cigadog)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pamalayan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cijambe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciroyom"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Awassagara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tipar"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Seribu Dolok (Saribu Dolok)",
-    "Bangun Mariah/Meriah",
-    "Purba Sinombah",
-    "Purba Tua",
-    "Purba Tua Baru",
-    "Sinar Baru",
-    "Purbatua Etek"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Seribu Dolok (Saribu Dolok)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangun Mariah/Meriah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purba Sinombah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purba Tua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purba Tua Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinar Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Purbatua Etek"
+    }
   ]
 }

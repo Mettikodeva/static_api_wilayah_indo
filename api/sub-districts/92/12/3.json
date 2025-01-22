@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Inyebuow",
-    "Imbeisba",
-    "Usti",
-    "Memti",
-    "Koney",
-    "Membey"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Inyebuow"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Imbeisba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Usti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Memti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koney"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Membey"
+    }
   ]
 }

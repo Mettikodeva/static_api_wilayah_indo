@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Peucangpari",
-    "Cibungur",
-    "Mugijaya",
-    "Cikate",
-    "Cigemblong",
-    "Cikadongdong",
-    "Cikaret",
-    "Wangunjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peucangpari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibungur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mugijaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikate"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cigemblong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cikadongdong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikaret"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wangunjaya"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Air Sebayur",
-    "Air Sekamanak",
-    "Air Simpang",
-    "Bukit Makmur",
-    "Marga Bhakti (Marga Bakti)",
-    "Bumi Harjo",
-    "Sumber Mulya",
-    "Gunung Payung",
-    "Bukit Harapan",
-    "Tanjung Muara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Sebayur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Sekamanak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Simpang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marga Bhakti (Marga Bakti)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Harjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Payung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Muara"
+    }
   ]
 }

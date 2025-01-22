@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Inam",
-    "Jandurauw",
-    "Inambuari",
-    "Sitori",
-    "Untorey",
-    "Nabisai",
-    "Arumi",
-    "Karawi",
-    "Arampak",
-    "Barona (Wasabiti)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Inam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jandurauw"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Inambuari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sitori"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Untorey"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nabisai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Arumi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karawi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Arampak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Barona (Wasabiti)"
+    }
   ]
 }

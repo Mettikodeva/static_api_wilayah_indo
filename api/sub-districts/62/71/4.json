@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bereng Bengkel",
-    "Kalampangan",
-    "Kereng Bangkirai",
-    "Kameloh Baru",
-    "Danau Tundai",
-    "Sabaru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bereng Bengkel"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kalampangan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kereng Bangkirai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kameloh Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Danau Tundai"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sabaru"
+    }
   ]
 }

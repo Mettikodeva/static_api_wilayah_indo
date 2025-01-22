@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Matebo (Muara Tebo)",
-    "Tebing Tinggi",
-    "Bedaro Rampak",
-    "Mangun Jayo",
-    "Teluk Pandak",
-    "Tengah Ulu",
-    "Semabu",
-    "Kandang",
-    "Pelayang",
-    "Sungai Keruh",
-    "Aburan Batang Tebo",
-    "Sungai Alai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Matebo (Muara Tebo)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bedaro Rampak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mangun Jayo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Pandak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tengah Ulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Semabu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kandang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelayang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Keruh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aburan Batang Tebo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Alai"
+    }
   ]
 }

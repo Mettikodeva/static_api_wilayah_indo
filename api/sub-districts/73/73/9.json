@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Temmalebba",
-    "Balandai",
-    "Rampoang",
-    "Tobulung",
-    "Buntu Datu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Temmalebba"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Balandai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rampoang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tobulung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Buntu Datu"
+    }
   ]
 }

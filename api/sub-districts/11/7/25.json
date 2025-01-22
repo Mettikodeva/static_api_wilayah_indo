@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Gintong",
-    "Mesjid Beureuleung",
-    "Beureuleung",
-    "Baroh",
-    "Mee Beureuleung (Meunasah Mee)",
-    "Paya",
-    "Teungoh",
-    "Pangge Pilok (Pangge / Pilok)",
-    "Karieng",
-    "Grong Grong",
-    "Nicah (Nicah Meuaneuk)",
-    "Mesjid Memeuaneuk",
-    "Daka",
-    "Sentosa",
-    "Sukon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gintong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mesjid Beureuleung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Beureuleung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baroh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mee Beureuleung (Meunasah Mee)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teungoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pangge Pilok (Pangge / Pilok)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karieng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Grong Grong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nicah (Nicah Meuaneuk)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mesjid Memeuaneuk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Daka"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sentosa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sukon"
+    }
   ]
 }

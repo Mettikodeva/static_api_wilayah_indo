@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Tomohon Selatan",
-    "Tomohon Tengah",
-    "Tomohon Utara",
-    "Tomohon Barat",
-    "Tomohon Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Tomohon Selatan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tomohon Tengah"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tomohon Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tomohon Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tomohon Timur"
+    }
   ]
 }

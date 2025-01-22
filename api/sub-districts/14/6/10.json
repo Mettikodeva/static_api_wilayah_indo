@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pasir Agung",
-    "Pasir Intan",
-    "Rambah Jaya",
-    "Bangun Purba",
-    "Bangun Purba Timur Jaya",
-    "Bangun Purba Barat",
-    "Tangun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasir Intan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rambah Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangun Purba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangun Purba Timur Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangun Purba Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangun"
+    }
   ]
 }

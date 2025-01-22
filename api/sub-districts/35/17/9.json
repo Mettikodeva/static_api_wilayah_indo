@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Jombatan",
-    "Kaliwungu",
-    "Jelakombo",
-    "Kepanjen",
-    "Mojongapit",
-    "Plandi",
-    "Kepatihan",
-    "Pulolor (Pulo Lor)",
-    "Sengon",
-    "Tunggorono",
-    "Denanyar",
-    "Jombang",
-    "Candimulyo (Candi Mulyo)",
-    "Tambakrejo (Tambak Rejo)",
-    "Banjardowo (Banjar Dowo)",
-    "Sambongdukuh (Sambong Dukuh)",
-    "Dapurkejambon (Dapur Kejambon)",
-    "Jabon",
-    "Plosogeneng",
-    "Sumberjo"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jombatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kaliwungu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jelakombo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kepanjen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mojongapit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Plandi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulolor (Pulo Lor)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sengon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tunggorono"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Denanyar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jombang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Candimulyo (Candi Mulyo)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tambakrejo (Tambak Rejo)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banjardowo (Banjar Dowo)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sambongdukuh (Sambong Dukuh)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Dapurkejambon (Dapur Kejambon)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jabon"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Plosogeneng"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sumberjo"
+    }
   ]
 }

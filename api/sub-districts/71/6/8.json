@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Suwaan",
-    "Kuwil",
-    "Kawangkoan",
-    "Kolongan",
-    "Maumbi",
-    "Kaleosan",
-    "Watutumou (Watutumou I)",
-    "Kolongan Tetempangan",
-    "Kawangkoan Baru",
-    "Kalawat",
-    "Watutumou Dua (Watutumou II)",
-    "Watutumou Tiga (Watutumou III)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suwaan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuwil"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kawangkoan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kolongan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Maumbi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaleosan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watutumou (Watutumou I)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kolongan Tetempangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kawangkoan Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalawat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Watutumou Dua (Watutumou II)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watutumou Tiga (Watutumou III)"
+    }
   ]
 }

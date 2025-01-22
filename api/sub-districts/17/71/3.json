@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Berkas",
-    "Pasar Baru",
-    "Jitra (Pasar Jitra)",
-    "Pasar Melintang",
-    "Kebun Roos/Ros",
-    "Tengah Padang",
-    "Bajak (Kampung Teleng)",
-    "Pondok Besi",
-    "Kebun Keling",
-    "Sumur Meleleh",
-    "Malabero/Malabro",
-    "Pintu Batu",
-    "Kampung Bali"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Berkas"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jitra (Pasar Jitra)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar Melintang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebun Roos/Ros"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tengah Padang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bajak (Kampung Teleng)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pondok Besi"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kebun Keling"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sumur Meleleh"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Malabero/Malabro"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Pintu Batu"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Kampung Bali"
+    }
   ]
 }

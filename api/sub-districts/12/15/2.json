@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sukaramai",
-    "Kuta Saga (Kutasaga)",
-    "Kuta Mariah/Meriah",
-    "Kuta Dame (Kutadame)",
-    "Perpulungen (Parpulungan / Parpulungen)",
-    "Pardomuan",
-    "Majanggut I",
-    "Majanggut II",
-    "Surung Mersada",
-    "Perduhapen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukaramai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuta Saga (Kutasaga)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuta Mariah/Meriah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuta Dame (Kutadame)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perpulungen (Parpulungan / Parpulungen)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Majanggut I"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Majanggut II"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Surung Mersada"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Perduhapen"
+    }
   ]
 }

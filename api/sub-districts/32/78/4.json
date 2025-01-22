@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Indihiang",
-    "Sirnagalih",
-    "Parakannyasag",
-    "Panyingkiran",
-    "Sukamaju Kaler (Sukamajukaler)",
-    "Sukamaju Kidul (Sukamajukidul)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Indihiang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sirnagalih"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Parakannyasag"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Panyingkiran"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sukamaju Kaler (Sukamajukaler)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sukamaju Kidul (Sukamajukidul)"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sebuntal",
-    "Santan Ulu",
-    "Santan Tengah",
-    "Santan Ilir",
-    "Kersik",
-    "Bunga Putih",
-    "Makarti",
-    "Prangat Selatan (Perangat Selatan)",
-    "Prangat Baru (Perangat Baru)",
-    "Semangko (Semangkok)",
-    "Sambera Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sebuntal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Santan Ulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Santan Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Santan Ilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kersik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bunga Putih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Makarti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Prangat Selatan (Perangat Selatan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Prangat Baru (Perangat Baru)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Semangko (Semangkok)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sambera Baru"
+    }
   ]
 }

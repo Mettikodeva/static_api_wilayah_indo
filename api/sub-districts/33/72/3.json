@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Joyosuran",
-    "Semanggi",
-    "Pasarkliwon (Pasar Kliwon)",
-    "Gajahan",
-    "Baluwarti",
-    "Kampungbaru (Kampung Baru)",
-    "Kedunglumbu (Kedung Lumbu)",
-    "Sangkrah",
-    "Kauman",
-    "Mojo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Joyosuran"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Semanggi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasarkliwon (Pasar Kliwon)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gajahan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Baluwarti"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kampungbaru (Kampung Baru)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kedunglumbu (Kedung Lumbu)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sangkrah"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mojo"
+    }
   ]
 }

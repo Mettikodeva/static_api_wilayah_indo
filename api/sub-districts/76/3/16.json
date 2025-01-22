@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Buntumalangka",
-    "Ranteberan",
-    "Kebanga",
-    "Salurindu",
-    "Taora",
-    "Kabae",
-    "Salutambun Barat",
-    "Penatangan",
-    "Salutambun Timur",
-    "Salutambun",
-    "Aralle Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buntumalangka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ranteberan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kebanga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salurindu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taora"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kabae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salutambun Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penatangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Salutambun Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Salutambun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Aralle Timur"
+    }
   ]
 }

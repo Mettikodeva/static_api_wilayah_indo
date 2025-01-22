@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Gayungan",
-    "Menanggal",
-    "Dukuh Menanggal",
-    "Ketintang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gayungan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Menanggal"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dukuh Menanggal"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ketintang"
+    }
   ]
 }

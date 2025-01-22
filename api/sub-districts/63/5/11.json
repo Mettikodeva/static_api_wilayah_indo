@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Salam Babaris",
-    "Suato Lama",
-    "Kambang Habang Lama",
-    "Pantai Cabe",
-    "Suato Baru",
-    "Kambang Habang Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salam Babaris"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suato Lama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kambang Habang Lama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pantai Cabe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suato Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kambang Habang Baru"
+    }
   ]
 }

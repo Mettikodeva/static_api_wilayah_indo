@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Parsingguran I",
-    "Hutapaung (Huta Paung)",
-    "Pollung",
-    "Hutajulu (Huta Julu)",
-    "Ria-Ria",
-    "Parsingguran II",
-    "Pansurbatu (Pansur Batu)",
-    "Aek Nauli I",
-    "Aek Nauli II",
-    "Pandumaan",
-    "Sipituhuta (Sipitu Huta)",
-    "Pardomuan",
-    "Hutapaung Utara (Huta Paung Utara)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parsingguran I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hutapaung (Huta Paung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pollung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hutajulu (Huta Julu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ria-Ria"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parsingguran II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pansurbatu (Pansur Batu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aek Nauli I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aek Nauli II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pandumaan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sipituhuta (Sipitu Huta)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hutapaung Utara (Huta Paung Utara)"
+    }
   ]
 }

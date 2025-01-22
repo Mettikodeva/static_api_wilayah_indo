@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pangkalan Lesung",
-    "Dusun Tua",
-    "Genduang",
-    "Mayang Sari",
-    "Rawang Sari",
-    "Mulya Subur (Mulia Subur / Mulyasubur)",
-    "Sari Mulya (Sari Mulia / Sarimulya)",
-    "Sari Makmur",
-    "Tanjung Kuyo",
-    "Pesaguan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pangkalan Lesung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dusun Tua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Genduang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mayang Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rawang Sari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mulya Subur (Mulia Subur / Mulyasubur)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sari Mulya (Sari Mulia / Sarimulya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sari Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Kuyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pesaguan"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sawiat",
-    "Sasnek",
-    "Elles",
-    "Sodrofoyo",
-    "Sfakyo",
-    "Wensough",
-    "Ween",
-    "Wendi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sawiat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sasnek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Elles"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sodrofoyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sfakyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wensough"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ween"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wendi"
+    }
   ]
 }

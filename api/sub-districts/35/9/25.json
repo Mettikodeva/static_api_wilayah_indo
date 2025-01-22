@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sucopangepok (Suco Pangepok)",
-    "Panduman",
-    "Sukojember (Suko Jember)",
-    "Jelbuk",
-    "Sukowiryo",
-    "Sugerkidul (Suger Kidul)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sucopangepok (Suco Pangepok)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panduman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukojember (Suko Jember)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jelbuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukowiryo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sugerkidul (Suger Kidul)"
+    }
   ]
 }

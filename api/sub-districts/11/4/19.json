@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Merah Said",
-    "Berawang Dewal",
-    "Gegarang",
-    "Telege Sari",
-    "Jeget Ayu",
-    "Paya Tungel/Tunggal",
-    "Jagong Jeget",
-    "Bukit Sari",
-    "Bukit Kemuning",
-    "Paya Dedep"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Merah Said"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Berawang Dewal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gegarang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telege Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jeget Ayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paya Tungel/Tunggal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jagong Jeget"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Sari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bukit Kemuning"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paya Dedep"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Purworejo",
-    "Sarikemuning",
-    "Pandansari",
-    "Senduro",
-    "Burno",
-    "Kandangtepus",
-    "Kandangan",
-    "Bedayu",
-    "Bedayutalang",
-    "Wonocepokoayu",
-    "Argosari",
-    "Ranupani"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sarikemuning"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pandansari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Senduro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Burno"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kandangtepus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kandangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bedayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bedayutalang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wonocepokoayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Argosari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ranupani"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Fajar Mataram",
-    "Rejosari Mataram",
-    "Qurnia Mataram",
-    "Trimulyo Mataram",
-    "Utama Jaya Mataram",
-    "Sumber Agung Mataram",
-    "Varia Agung Mataram (Varia Agung)",
-    "Wirata Agung Mataram",
-    "Dharma Agung Mataram",
-    "Bumi Setia Mataram",
-    "Subing Karya",
-    "Banjar Agung Mataram"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fajar Mataram"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rejosari Mataram"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Qurnia Mataram"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Trimulyo Mataram"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Utama Jaya Mataram"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Agung Mataram"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Varia Agung Mataram (Varia Agung)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wirata Agung Mataram"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dharma Agung Mataram"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Setia Mataram"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Subing Karya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banjar Agung Mataram"
+    }
   ]
 }

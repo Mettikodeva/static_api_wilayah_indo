@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Oreng",
-    "Olung Muro",
-    "Olung Hanangan",
-    "Dirung Lingkin",
-    "Datah Kotou",
-    "Tahujan Ontu",
-    "Puruk Kambang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Oreng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Olung Muro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Olung Hanangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dirung Lingkin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Datah Kotou"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tahujan Ontu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puruk Kambang"
+    }
   ]
 }

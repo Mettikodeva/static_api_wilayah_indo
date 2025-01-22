@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Waetawa",
-    "Waesili",
-    "Lena",
-    "Simi",
-    "Waelikut",
-    "Wamsisi",
-    "Pohon Batu",
-    "Waeteba (Waetaba)",
-    "Hote",
-    "Waemasing",
-    "Batu Kasa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waetawa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waesili"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lena"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waelikut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wamsisi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pohon Batu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waeteba (Waetaba)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hote"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waemasing"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Kasa"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Seti",
-    "Kobisonta",
-    "Wailoping",
-    "Tihuana",
-    "Waitila",
-    "Waiputih",
-    "Waimusal",
-    "Tanah Merah",
-    "Aketernate",
-    "Namto",
-    "Loping Mulyo",
-    "Wonosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kobisonta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wailoping"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tihuana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waitila"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waiputih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waimusal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aketernate"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Namto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Loping Mulyo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wonosari"
+    }
   ]
 }

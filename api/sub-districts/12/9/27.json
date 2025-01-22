@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Urung Pane",
-    "Sei Silau Tua",
-    "Sei Silau Barat",
-    "Silau Maraja",
-    "Bangun Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Urung Pane"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei Silau Tua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei Silau Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Silau Maraja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangun Sari"
+    }
   ]
 }

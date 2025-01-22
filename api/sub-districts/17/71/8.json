@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kampung Kelawi/Klawi",
-    "Sukamerindu (Suka Merindu)",
-    "Semarang",
-    "Tanjung Agung",
-    "Tanjung Jaya",
-    "Surabaya",
-    "Pasar Bengkulu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Kelawi/Klawi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sukamerindu (Suka Merindu)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Semarang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung Jaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Surabaya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pasar Bengkulu"
+    }
   ]
 }

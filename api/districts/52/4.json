@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Lunyuk",
-    "Alas",
-    "Utan",
-    "Batu Lanteh (Batulanteh)",
-    "Sumbawa",
-    "Moyo Hilir",
-    "Moyo Hulu",
-    "Ropang",
-    "Lape (Lape Lopok)",
-    "Plampang",
-    "Empang",
-    "Alas Barat",
-    "Labuhan Badas",
-    "Labangka",
-    "Buer",
-    "Rhee",
-    "Unter Iwes (Unterwiris)",
-    "Moyo Utara",
-    "Maronge",
-    "Tarano",
-    "Lopok",
-    "Lenangguar",
-    "Orong Telu",
-    "Lantung"
+    {
+      "district_id": 2,
+      "kecamatan": "Lunyuk"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Alas"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Utan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Batu Lanteh (Batulanteh)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sumbawa"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Moyo Hilir"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Moyo Hulu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ropang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lape (Lape Lopok)"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Plampang"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Empang"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Alas Barat"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Labuhan Badas"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Labangka"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Buer"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Rhee"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Unter Iwes (Unterwiris)"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Moyo Utara"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Maronge"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Tarano"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Lopok"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Lenangguar"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Orong Telu"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Lantung"
+    }
   ]
 }

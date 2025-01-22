@@ -1,36 +1,132 @@
 {
   "sub_districts": [
-    "Raburia",
-    "Riaraja",
-    "Mbotutenda",
-    "Wologai",
-    "Ndetundora I",
-    "Ndetundora II",
-    "Tomberabu 1",
-    "Tomberabu II",
-    "Nakuramba",
-    "Wolokaro",
-    "Ja Moke Asa",
-    "Emburia",
-    "Randotonda",
-    "Rukuramba (Ruku Ramba)",
-    "Tinabani",
-    "Ndetundora III",
-    "Uzuramba",
-    "Tonggopapa (Tonggopajoa)",
-    "Wologai Dua",
-    "Worhopapa",
-    "Wawonato",
-    "Jejaraja",
-    "Tendambonggi",
-    "Randorama",
-    "Ranoramba",
-    "Peozakaramba",
-    "Embutheru",
-    "Nuaja",
-    "Wajakea Jaya",
-    "Nemboramba",
-    "Embu Ngena",
-    "Uzuramba Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Raburia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Riaraja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mbotutenda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wologai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ndetundora I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ndetundora II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tomberabu 1"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tomberabu II"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nakuramba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wolokaro"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ja Moke Asa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Emburia"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Randotonda"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rukuramba (Ruku Ramba)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tinabani"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ndetundora III"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Uzuramba"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tonggopapa (Tonggopajoa)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wologai Dua"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Worhopapa"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Wawonato"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Jejaraja"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tendambonggi"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Randorama"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Ranoramba"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Peozakaramba"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Embutheru"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Nuaja"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Wajakea Jaya"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Nemboramba"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Embu Ngena"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Uzuramba Barat"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Selamat",
-    "Simpang Selayang",
-    "Namo Gajah (Namu Gajah)",
-    "Kemenangan Tani",
-    "Laucih (Lau Cih)",
-    "Sidomulyo",
-    "Ladang Bambu",
-    "Simalingkar B",
-    "Mangga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Selamat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Simpang Selayang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Namo Gajah (Namu Gajah)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kemenangan Tani"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Laucih (Lau Cih)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ladang Bambu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Simalingkar B"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mangga"
+    }
   ]
 }

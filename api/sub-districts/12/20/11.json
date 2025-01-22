@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Siancimun",
-    "Bolatan",
-    "Pasir Bara",
-    "Gunung Intan",
-    "Mompang I",
-    "Gunung Manaon III",
-    "Sihopuk Baru",
-    "Sihopuk Lama",
-    "Rondaman",
-    "Hutabaru Nangka",
-    "Situmbaga",
-    "Batang Pane I",
-    "Batang Pane II",
-    "Batang Pane III"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siancimun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bolatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasir Bara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Intan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mompang I"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Manaon III"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sihopuk Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sihopuk Lama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rondaman"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hutabaru Nangka"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Situmbaga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batang Pane I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batang Pane II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batang Pane III"
+    }
   ]
 }

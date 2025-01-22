@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dungkait",
-    "Lebani",
-    "Labuang Rano",
-    "Pasabu (Pasa Bu)",
-    "Tanete Pao",
-    "Pangasaan",
-    "Ahu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dungkait"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lebani"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labuang Rano"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasabu (Pasa Bu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanete Pao"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangasaan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ahu"
+    }
   ]
 }

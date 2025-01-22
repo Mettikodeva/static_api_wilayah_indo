@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lamasi Pantai",
-    "Tanete",
-    "Rantai Damai (Rante Damai)",
-    "Taba (Tabah)",
-    "Kendekan",
-    "Pangalli",
-    "Seba-Seba",
-    "Suka Damai (Sukadamai)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lamasi Pantai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanete"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rantai Damai (Rante Damai)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taba (Tabah)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kendekan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangalli"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seba-Seba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Damai (Sukadamai)"
+    }
   ]
 }

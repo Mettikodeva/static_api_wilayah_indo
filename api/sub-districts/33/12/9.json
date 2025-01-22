@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mojopuro (Mojopura)",
-    "Wuryantoro",
-    "Genukharjo",
-    "Sumberejo",
-    "Mlopoharjo",
-    "Pulutan Kulon (Pulutankulon)",
-    "Pulutan Wetan (Pulutanwetan)",
-    "Gumiwang Lor (Gumiwanglor)"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mojopuro (Mojopura)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wuryantoro"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Genukharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mlopoharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulutan Kulon (Pulutankulon)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulutan Wetan (Pulutanwetan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gumiwang Lor (Gumiwanglor)"
+    }
   ]
 }

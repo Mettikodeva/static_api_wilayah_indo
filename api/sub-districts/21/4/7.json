@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bukitlangkap (Bukit Langkap)",
-    "Keton",
-    "Pekaka",
-    "Kerandin",
-    "Sungai Pinang",
-    "Kudung",
-    "Teluk",
-    "Belungkur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukitlangkap (Bukit Langkap)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keton"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pekaka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kerandin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungai Pinang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kudung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Teluk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belungkur"
+    }
   ]
 }

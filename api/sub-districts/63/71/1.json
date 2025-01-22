@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mantuil",
-    "Kelayan Selatan",
-    "Pekauman",
-    "Kelayan Barat",
-    "Kelayan Tengah",
-    "Kelayan Dalam",
-    "Murung Raya",
-    "Kelayan Timur",
-    "Tanjung Pagar",
-    "Pemurus Dalam",
-    "Pemurus Baru",
-    "Basirih Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mantuil"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kelayan Selatan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pekauman"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kelayan Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kelayan Tengah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kelayan Dalam"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Murung Raya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kelayan Timur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tanjung Pagar"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pemurus Dalam"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pemurus Baru"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Basirih Selatan"
+    }
   ]
 }

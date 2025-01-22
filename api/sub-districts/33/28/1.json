@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Prupuk Selatan",
-    "Kaligayam",
-    "Dukuh Tengah",
-    "Wanasari",
-    "Danaraja",
-    "Jembayat",
-    "Margasari",
-    "Pakulaut",
-    "Karangdawa",
-    "Kalisalak",
-    "Jatilaba",
-    "Prupuk Utara",
-    "Marga Ayu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Prupuk Selatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaligayam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dukuh Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Danaraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jembayat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pakulaut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangdawa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalisalak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jatilaba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Prupuk Utara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Marga Ayu"
+    }
   ]
 }

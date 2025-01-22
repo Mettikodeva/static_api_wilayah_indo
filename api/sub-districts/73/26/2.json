@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bori",
-    "Pangli (Pangli Palawa)",
-    "Palawa' (Palawa)",
-    "Deri' (Deri)",
-    "Pangli Selatan",
-    "Buntu Lobo",
-    "Parinding",
-    "Bori' Ranteletok",
-    "Bori' Lombongan (Bori Lombongan)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bori"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pangli (Pangli Palawa)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Palawa' (Palawa)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Deri' (Deri)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pangli Selatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buntu Lobo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parinding"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bori' Ranteletok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bori' Lombongan (Bori Lombongan)"
+    }
   ]
 }

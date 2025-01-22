@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Baros",
-    "Cigugur Tengah",
-    "Karangmekar",
-    "Setiamanah",
-    "Padasuka",
-    "Cimahi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baros"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cigugur Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karangmekar"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Setiamanah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cimahi"
+    }
   ]
 }

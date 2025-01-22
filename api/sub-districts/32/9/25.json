@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kalianyar",
-    "Pangurangan Kulon (Panguragan Kulon)",
-    "Pangurangan Wetan (Panguragan Wetan)",
-    "Pangurangan Lor (Panguragan Lor)",
-    "Pangurangan (Panguragan)",
-    "Gujeg",
-    "Lemahtamba",
-    "Karanganyar",
-    "Kroya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalianyar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangurangan Kulon (Panguragan Kulon)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangurangan Wetan (Panguragan Wetan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pangurangan Lor (Panguragan Lor)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pangurangan (Panguragan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gujeg"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lemahtamba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kroya"
+    }
   ]
 }

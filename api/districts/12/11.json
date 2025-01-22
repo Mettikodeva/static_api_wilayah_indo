@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Sidikalang",
-    "Sumbul",
-    "Tigalingga (Tiga Lingga)",
-    "Siempat Nempu",
-    "Silima Pungga Pungga",
-    "Tanah Pinem",
-    "Siempat Nempu Hulu",
-    "Siempat Nempu Hilir",
-    "Pegagan Hilir",
-    "Parbuluan",
-    "Lae Parira",
-    "Gunung Sitember",
-    "Berampu (Brampu)",
-    "Silahisabungan (Silahi Sabungan)",
-    "Sitinjo"
+    {
+      "district_id": 1,
+      "kecamatan": "Sidikalang"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sumbul"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tigalingga (Tiga Lingga)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Siempat Nempu"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Silima Pungga Pungga"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tanah Pinem"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Siempat Nempu Hulu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Siempat Nempu Hilir"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pegagan Hilir"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Parbuluan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Lae Parira"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Gunung Sitember"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Berampu (Brampu)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Silahisabungan (Silahi Sabungan)"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sitinjo"
+    }
   ]
 }

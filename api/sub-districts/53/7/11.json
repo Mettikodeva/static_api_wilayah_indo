@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Hokor",
-    "Wolonwalu",
-    "Wolokoli",
-    "Bola",
-    "Umauta",
-    "Ipir",
-    "Bura Bekor",
-    "Watukrus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hokor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wolonwalu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wolokoli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bola"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umauta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ipir"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bura Bekor"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Watukrus"
+    }
   ]
 }

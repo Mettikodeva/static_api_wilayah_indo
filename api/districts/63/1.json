@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Takisung",
-    "Jorong",
-    "Pelaihari",
-    "Kurau",
-    "Bati Bati",
-    "Panyipatan",
-    "Kintap",
-    "Tambang Ulang",
-    "Batu Ampar",
-    "Bajuin",
-    "Bumi Makmur"
+    {
+      "district_id": 1,
+      "kecamatan": "Takisung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jorong"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pelaihari"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kurau"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bati Bati"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Panyipatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kintap"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tambang Ulang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Batu Ampar"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bajuin"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bumi Makmur"
+    }
   ]
 }

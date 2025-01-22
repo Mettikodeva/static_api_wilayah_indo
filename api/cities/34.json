@@ -1,9 +1,24 @@
 {
   "cities": [
-    "Kulon Progo",
-    "Bantul",
-    "Gunungkidul",
-    "Sleman",
-    "Yogyakarta"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kulon Progo"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Bantul"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Gunungkidul"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Sleman"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Yogyakarta"
+    }
   ]
 }

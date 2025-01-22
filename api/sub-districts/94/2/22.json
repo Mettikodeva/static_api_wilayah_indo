@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nioga",
-    "Yonggi",
-    "Wonggi",
-    "Wambagalo",
-    "Jigonikme",
-    "Muruwi",
-    "Wutime",
-    "Gibaga",
-    "Papak",
-    "Wanduri",
-    "Walom"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nioga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yonggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wonggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wambagalo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jigonikme"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muruwi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wutime"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gibaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Papak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wanduri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Walom"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kelong",
-    "Mapur",
-    "Numbing",
-    "Air Glubi/Gelubi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kelong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mapur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Numbing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Glubi/Gelubi"
+    }
   ]
 }

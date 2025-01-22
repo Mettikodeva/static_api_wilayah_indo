@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Akkajeng",
-    "Assorajang (Assorajange)",
-    "Minangae",
-    "Akkotengeng",
-    "Sakkoli",
-    "Barangmamase",
-    "Salobulo",
-    "Towalida",
-    "Alewadeng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Akkajeng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Assorajang (Assorajange)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Minangae"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Akkotengeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sakkoli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Barangmamase"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salobulo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Towalida"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Alewadeng"
+    }
   ]
 }

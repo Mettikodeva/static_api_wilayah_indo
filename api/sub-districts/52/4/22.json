@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pelat",
-    "Kerekeh",
-    "Boak",
-    "Jorok",
-    "Kerato",
-    "Pungka",
-    "Uma Beringin",
-    "Nijang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kerekeh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Boak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jorok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kerato"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pungka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uma Beringin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nijang"
+    }
   ]
 }

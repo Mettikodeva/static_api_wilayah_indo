@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sisobaoho",
-    "Bawozamaiwo",
-    "Sitolubanua (Sitolu Banua)",
-    "Lologundre",
-    "Iraonogaila",
-    "Tigaserangkai (Tiga Serangkai)",
-    "Onowaembo (Ono Waembo)",
-    "Onolimbu (Ono Limbu)",
-    "Haliadulo (Hiliadulo)",
-    "Sisobambowo",
-    "Lolowau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sisobaoho"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bawozamaiwo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sitolubanua (Sitolu Banua)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lologundre"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Iraonogaila"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tigaserangkai (Tiga Serangkai)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Onowaembo (Ono Waembo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Onolimbu (Ono Limbu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Haliadulo (Hiliadulo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sisobambowo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lolowau"
+    }
   ]
 }

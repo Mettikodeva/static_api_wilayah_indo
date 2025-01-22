@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Nenas",
-    "Fatumnasi",
-    "Nuapin",
-    "Kuanoel",
-    "Mutis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nenas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fatumnasi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nuapin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuanoel"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mutis"
+    }
   ]
 }

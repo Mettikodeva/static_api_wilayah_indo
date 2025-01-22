@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Bangkalan",
-    "Socah",
-    "Burneh",
-    "Kamal",
-    "Arosbaya",
-    "Geger",
-    "Klampis",
-    "Sepulu",
-    "Tanjung Bumi (Tanjungbumi)",
-    "Kokop",
-    "Kwanyar",
-    "Labang",
-    "Tanah Merah",
-    "Tragah",
-    "Blega",
-    "Modung",
-    "Konang",
-    "Galis"
+    {
+      "district_id": 1,
+      "kecamatan": "Bangkalan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Socah"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Burneh"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kamal"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Arosbaya"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Geger"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Klampis"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sepulu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tanjung Bumi (Tanjungbumi)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kokop"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kwanyar"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Labang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tanah Merah"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tragah"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Blega"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Modung"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Konang"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Galis"
+    }
   ]
 }

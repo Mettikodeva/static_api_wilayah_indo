@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sukamulya",
-    "Tegalurung",
-    "Langensari",
-    "Bayur Lor",
-    "Bayur Kidul",
-    "Kiara",
-    "Manggungjaya",
-    "Sumurgede",
-    "Muktijaya",
-    "Pasirukem",
-    "Pasirjaya",
-    "Sukajaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tegalurung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Langensari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bayur Lor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bayur Kidul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kiara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manggungjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sumurgede"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muktijaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasirukem"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasirjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukajaya"
+    }
   ]
 }

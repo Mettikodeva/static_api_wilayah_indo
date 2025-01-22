@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Kappuna",
-    "Bone",
-    "Baliase",
-    "Kasimbong",
-    "Pincara",
-    "Baloli (Balebo)",
-    "Pombakka",
-    "Rompu",
-    "Lantang Tallang",
-    "Lapapa",
-    "Lero",
-    "Masamba",
-    "Pandak",
-    "Sepakat",
-    "Pongo",
-    "Laba",
-    "Toradda (Torada)",
-    "Sumilin (Sumillin)",
-    "Kamiri"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kappuna"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bone"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Baliase"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kasimbong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pincara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baloli (Balebo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pombakka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rompu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lantang Tallang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lapapa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lero"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Masamba"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pandak"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sepakat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pongo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Laba"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Toradda (Torada)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sumilin (Sumillin)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kamiri"
+    }
   ]
 }

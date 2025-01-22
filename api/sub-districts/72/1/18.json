@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tombos",
-    "Dondo",
-    "Sepe",
-    "Booy",
-    "Tintingon (Tintingan)",
-    "Resarna",
-    "Giwang",
-    "Tongke",
-    "Gorontalo",
-    "Poyang",
-    "Tanggawas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tombos"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dondo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sepe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Booy"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tintingon (Tintingan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Resarna"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Giwang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tongke"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gorontalo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Poyang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanggawas"
+    }
   ]
 }

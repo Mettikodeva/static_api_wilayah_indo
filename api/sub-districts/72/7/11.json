@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tobing",
-    "Paisumusoni (Paisumosoni)",
-    "Tobungin",
-    "Mansamat A",
-    "Mansamat B",
-    "Kampung Baru",
-    "Tinangkung",
-    "Gansal",
-    "Bobu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tobing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paisumusoni (Paisumosoni)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tobungin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mansamat A"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mansamat B"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tinangkung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gansal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bobu"
+    }
   ]
 }

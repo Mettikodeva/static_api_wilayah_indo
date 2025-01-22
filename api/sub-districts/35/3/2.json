@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ngulungkulon",
-    "Sobo",
-    "Ngulungwetan",
-    "Craken",
-    "Masaran",
-    "Tawing",
-    "Karangturi",
-    "Munjungan",
-    "Besuki",
-    "Bendoroto",
-    "Bangun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngulungkulon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sobo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngulungwetan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Craken"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Masaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tawing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangturi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Munjungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Besuki"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bendoroto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangun"
+    }
   ]
 }

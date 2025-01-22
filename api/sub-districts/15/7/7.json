@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kampung Singkep",
-    "Nibung Putih",
-    "Rano",
-    "Talang Babat",
-    "Parit Culum I",
-    "Parit Culum II",
-    "Telukdawan (Teluk Dawan)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kampung Singkep"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nibung Putih"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rano"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Talang Babat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Parit Culum I"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Parit Culum II"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Telukdawan (Teluk Dawan)"
+    }
   ]
 }

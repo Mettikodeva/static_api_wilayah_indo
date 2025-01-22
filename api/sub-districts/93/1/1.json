@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Samkai",
-    "Karang Indah",
-    "Mandala",
-    "Maro",
-    "Kelapa Lima",
-    "Rimba Jaya",
-    "Bambu Pemali",
-    "Seringgu Jaya",
-    "Kamundu",
-    "Kamahedoga",
-    "Muli",
-    "Nasem",
-    "Wasur",
-    "Bokem",
-    "Buti",
-    "Nggolar"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Samkai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karang Indah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Maro"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kelapa Lima"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rimba Jaya"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bambu Pemali"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Seringgu Jaya"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kamundu"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kamahedoga"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Muli"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nasem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wasur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bokem"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Buti"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nggolar"
+    }
   ]
 }

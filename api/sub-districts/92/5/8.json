@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Puper",
-    "Yenbekaki (Yembekaki)",
-    "Urbinasopen",
-    "Yensener (Yesner)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puper"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yenbekaki (Yembekaki)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urbinasopen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yensener (Yesner)"
+    }
   ]
 }

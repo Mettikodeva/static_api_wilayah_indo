@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kosambi Barat",
-    "Salembaran Jaya (Salembaran Raya)",
-    "Dadap",
-    "Kosambi Timur",
-    "Salembaran Jati",
-    "Ranga Rengas (Rawa Rengas)",
-    "Rawa Burung",
-    "Cengklong",
-    "Belimbing",
-    "Jati Mulya (Jatimulya)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kosambi Barat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Salembaran Jaya (Salembaran Raya)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Dadap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kosambi Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salembaran Jati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ranga Rengas (Rawa Rengas)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawa Burung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cengklong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belimbing"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jati Mulya (Jatimulya)"
+    }
   ]
 }

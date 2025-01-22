@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bontoramba",
-    "Bulusibatang",
-    "Balumbungan (Balumbungang)",
-    "Bangkalaloe",
-    "Datara",
-    "Maero",
-    "Kareloe",
-    "Batujala",
-    "Bulusuka",
-    "Tanammawang",
-    "Lentu",
-    "Baraya"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bontoramba"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulusibatang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balumbungan (Balumbungang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bangkalaloe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Datara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maero"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kareloe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batujala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulusuka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanammawang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lentu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Baraya"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanjungmedang (Tanjung Medang)",
-    "Telukrhu (Teluk Rhu)",
-    "Tanjungpunak (Tanjung Punak)",
-    "Kador",
-    "Titi Akar",
-    "Hutan Ayu",
-    "Suka Damai",
-    "Puteri Sembilan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungmedang (Tanjung Medang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Telukrhu (Teluk Rhu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjungpunak (Tanjung Punak)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kador"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Titi Akar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hutan Ayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Puteri Sembilan"
+    }
   ]
 }

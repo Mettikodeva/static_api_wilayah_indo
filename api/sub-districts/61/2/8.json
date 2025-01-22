@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wajok Hilir (Wajo Hilir)",
-    "Sei/Sungai Nipah",
-    "Peniti Luar",
-    "Wajok Hulu (Wajo Hulu)",
-    "Jungkat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wajok Hilir (Wajo Hilir)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Nipah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Peniti Luar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wajok Hulu (Wajo Hulu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jungkat"
+    }
   ]
 }

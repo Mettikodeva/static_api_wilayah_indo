@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karangsari",
-    "Pepedan",
-    "Pekiringan",
-    "Grantung",
-    "Rajawana",
-    "Tajug",
-    "Tamansari",
-    "Baleraksa",
-    "Tunjungmuli",
-    "Kramat",
-    "Sirau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pepedan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pekiringan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Grantung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rajawana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tajug"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baleraksa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tunjungmuli"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sirau"
+    }
   ]
 }

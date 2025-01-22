@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lewa Paku (Lewapaku)",
-    "Kambuhapang (Kambu Hapang)",
-    "Kambata Wundut",
-    "Kondamara",
-    "Matawai Pawali",
-    "Rakawatu",
-    "Tana Rara (Tanarara)",
-    "Bidi Hunga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lewa Paku (Lewapaku)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kambuhapang (Kambu Hapang)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kambata Wundut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kondamara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matawai Pawali"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rakawatu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tana Rara (Tanarara)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bidi Hunga"
+    }
   ]
 }

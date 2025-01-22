@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Beru",
-    "Kota Baru",
-    "Nangameting",
-    "Waioti",
-    "Wairotang",
-    "Koja Doi (Kojadoi)",
-    "Kojagete",
-    "Lepo Lima (Lepolima)",
-    "Perumaan (Parumaan)",
-    "Watugong",
-    "Gong Bekor"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Beru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nangameting"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Waioti"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wairotang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koja Doi (Kojadoi)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kojagete"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lepo Lima (Lepolima)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perumaan (Parumaan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Watugong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gong Bekor"
+    }
   ]
 }

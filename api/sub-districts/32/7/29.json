@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Cimaragas",
-    "Beber",
-    "Raksabaya",
-    "Bojongmalang",
-    "Jayaraksa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cimaragas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beber"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Raksabaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojongmalang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jayaraksa"
+    }
   ]
 }

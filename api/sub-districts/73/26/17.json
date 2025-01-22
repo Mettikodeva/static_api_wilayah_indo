@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "To'yasa Akung",
-    "Batu Limbong",
-    "Bangkelekila",
-    "Tampan Bonga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "To'yasa Akung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Limbong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangkelekila"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tampan Bonga"
+    }
   ]
 }

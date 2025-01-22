@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Siau Timur",
-    "Siau Barat",
-    "Tagulandang",
-    "Siau Timur Selatan",
-    "Siau Barat Selatan",
-    "Tagulandang Utara",
-    "Biaro",
-    "Siau Barat Utara",
-    "Siau Tengah",
-    "Tagulandang Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Siau Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Siau Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tagulandang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Siau Timur Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Siau Barat Selatan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tagulandang Utara"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Biaro"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Siau Barat Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Siau Tengah"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tagulandang Selatan"
+    }
   ]
 }

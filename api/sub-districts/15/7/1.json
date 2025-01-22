@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Muara Sabak Ilir",
-    "Muara Sabak Ulu",
-    "Alang-Alang",
-    "Lambur",
-    "Simbur Naik",
-    "Lambur I",
-    "Lambur II",
-    "Kota Raja",
-    "Siau Dalam",
-    "Sungai Ular",
-    "Kota Harapan",
-    "Kuala Simbur"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Muara Sabak Ilir"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Muara Sabak Ulu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alang-Alang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lambur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simbur Naik"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lambur I"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lambur II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kota Raja"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Siau Dalam"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sungai Ular"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kota Harapan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kuala Simbur"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sukamaju",
-    "Kertajaya",
-    "Mangunjaya",
-    "Sindangjaya (Sindang Jaya)",
-    "Jangraga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangunjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindangjaya (Sindang Jaya)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jangraga"
+    }
   ]
 }

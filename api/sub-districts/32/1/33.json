@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Putat Nutug",
-    "Ciseeng",
-    "Parigi Mekar",
-    "Cibentang",
-    "Cibeuteung Udik",
-    "Karihkil",
-    "Babakan",
-    "Cihoe (Cihowe)",
-    "Cibeuteung Muara",
-    "Kuripan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Putat Nutug"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciseeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parigi Mekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibentang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibeuteung Udik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karihkil"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cihoe (Cihowe)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cibeuteung Muara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kuripan"
+    }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "districts": [
-    "Kepulauan Seribu Utara",
-    "Kepulauan Seribu Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Kepulauan Seribu Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kepulauan Seribu Selatan"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Girian Atas",
-    "Girian Weru Satu (I)",
-    "Girian Bawah",
-    "Girian Permai",
-    "Girian Weru Dua (II)",
-    "Girian Indah",
-    "Wangurer"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Girian Atas"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Girian Weru Satu (I)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Girian Bawah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Girian Permai"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Girian Weru Dua (II)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Girian Indah"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wangurer"
+    }
   ]
 }

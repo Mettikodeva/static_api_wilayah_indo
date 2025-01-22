@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wanasari",
-    "Sidamulya",
-    "Tanjung",
-    "Jati",
-    "Simpar",
-    "Parigimulya",
-    "Sidajaya",
-    "Padamulya",
-    "Kosambi",
-    "Manyingsal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidamulya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parigimulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidajaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padamulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kosambi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Manyingsal"
+    }
   ]
 }

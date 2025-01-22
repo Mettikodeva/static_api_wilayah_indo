@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Citapen",
-    "Pasiragung",
-    "Tundagan (Tudagan)",
-    "Bunigeulis",
-    "Hantara",
-    "Pakapasan Girang",
-    "Cikondang",
-    "Pakapasan Hilir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Citapen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasiragung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tundagan (Tudagan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bunigeulis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hantara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pakapasan Girang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikondang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pakapasan Hilir"
+    }
   ]
 }

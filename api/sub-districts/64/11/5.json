@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Delang Kerohong (Delang Krohong)",
-    "Long Pakaq",
-    "Long Lunuk",
-    "Long Isun",
-    "Naha Aru (Naha Aruq)",
-    "Datah Naha",
-    "Lirung Ubing",
-    "Long Pahangai I",
-    "Long Pahangai II",
-    "Long Tuyoq",
-    "Liu Mulang",
-    "Long Pakaq Baru",
-    "Long Lunuk Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Delang Kerohong (Delang Krohong)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Pakaq"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Lunuk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Long Isun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naha Aru (Naha Aruq)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Datah Naha"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lirung Ubing"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Long Pahangai I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Long Pahangai II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Tuyoq"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Liu Mulang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Long Pakaq Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Long Lunuk Baru"
+    }
   ]
 }

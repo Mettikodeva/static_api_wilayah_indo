@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanjung Agung",
-    "Sukau Datang",
-    "Sukau Datang I",
-    "Gunung Alam",
-    "Tabeak Blau II",
-    "Kota Baru Santan",
-    "Tik Teleu",
-    "Pelabai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukau Datang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukau Datang I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Alam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabeak Blau II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Baru Santan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tik Teleu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pelabai"
+    }
   ]
 }

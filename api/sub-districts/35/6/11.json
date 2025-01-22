@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bulupasar",
-    "Wonosari",
-    "Kambingan",
-    "Tanjung",
-    "Wates",
-    "Menang",
-    "Tengger Kidul",
-    "Semanding",
-    "Sitimerto (Sitimert0)",
-    "Pagu",
-    "Bendo",
-    "Semen",
-    "Jagung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulupasar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kambingan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tengger Kidul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Semanding"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sitimerto (Sitimert0)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Semen"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jagung"
+    }
   ]
 }

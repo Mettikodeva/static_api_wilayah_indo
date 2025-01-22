@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tuwa",
-    "Omu",
-    "Simoro",
-    "Pakuli",
-    "Pandere",
-    "Kalawara",
-    "Pakuli Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuwa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Omu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simoro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pakuli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pandere"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalawara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakuli Utara"
+    }
   ]
 }

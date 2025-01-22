@@ -1,11 +1,32 @@
 {
   "cities": [
-    "Bangka",
-    "Belitung",
-    "Bangka Selatan",
-    "Bangka Tengah",
-    "Bangka Barat",
-    "Belitung Timur",
-    "Pangkal Pinang"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Bangka"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Belitung"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Bangka Selatan"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Bangka Tengah"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Bangka Barat"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Belitung Timur"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Pangkal Pinang"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Trikora",
-    "Nanggo",
-    "Dinggilimo",
-    "Kora Jaya",
-    "Korambirik",
-    "Anggulpa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Trikora"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanggo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dinggilimo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kora Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Korambirik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anggulpa"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ulahahan",
-    "Laha Kaba (Lahakaba)",
-    "Lafa",
-    "Yamalatu",
-    "Hunisi",
-    "Laimu",
-    "Maneoratu (Maneo Ratu)",
-    "Tehua",
-    "Laha",
-    "Wolu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ulahahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laha Kaba (Lahakaba)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lafa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yamalatu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hunisi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laimu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maneoratu (Maneo Ratu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tehua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Laha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wolu"
+    }
   ]
 }

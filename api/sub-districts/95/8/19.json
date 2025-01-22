@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Nirkuri",
-    "Binime",
-    "Uenoma",
-    "Pasebem",
-    "Sigmie",
-    "Nirigimbirik",
-    "Oldobo",
-    "Likubuk",
-    "Kokujondumu",
-    "Kurigi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nirkuri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Binime"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Uenoma"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasebem"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sigmie"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nirigimbirik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Oldobo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Likubuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kokujondumu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kurigi"
+    }
   ]
 }

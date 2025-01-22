@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bangsri",
-    "Ngemplak",
-    "Doplang",
-    "Gerdu",
-    "Karang",
-    "Salam",
-    "Karangpandan (Karang Pandan)",
-    "Tohkuning",
-    "Gondangmanis",
-    "Dayu",
-    "Harjosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangsri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngemplak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Doplang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gerdu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangpandan (Karang Pandan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tohkuning"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gondangmanis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dayu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Harjosari"
+    }
   ]
 }

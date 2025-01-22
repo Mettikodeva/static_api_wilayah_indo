@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gentuma",
-    "Dumolodo",
-    "Molonggota",
-    "Ipilo",
-    "Langke",
-    "Pasalae",
-    "Nanati Jaya",
-    "Ketapang",
-    "Motomingo",
-    "Durian",
-    "Bohusami"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gentuma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dumolodo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Molonggota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ipilo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langke"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasalae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nanati Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Motomingo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bohusami"
+    }
   ]
 }

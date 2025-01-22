@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Banjarharjo",
-    "Alastuwo",
-    "Macanan",
-    "Nangsri",
-    "Kemiri",
-    "Kebak",
-    "Waru",
-    "Pulosari",
-    "Malanggaten",
-    "Kaliwuluh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjarharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alastuwo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Macanan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nangsri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Malanggaten"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kaliwuluh"
+    }
   ]
 }

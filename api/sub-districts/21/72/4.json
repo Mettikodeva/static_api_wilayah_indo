@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tanjung Pinang Timur",
-    "Dompak",
-    "Tanjung Ayun Sakti",
-    "Sei Jang",
-    "Tanjung Unggat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Pinang Timur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dompak"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Ayun Sakti"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sei Jang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung Unggat"
+    }
   ]
 }

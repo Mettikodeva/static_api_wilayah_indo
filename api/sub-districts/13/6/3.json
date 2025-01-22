@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung Sani",
-    "Sungai Batang",
-    "Maninjau",
-    "Bayua",
-    "Koto Kaciak",
-    "Duo Koto",
-    "Koto Gadang Anam Koto",
-    "Koto Malintang",
-    "Paninjauan",
-    "Dalko"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Sani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Batang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maninjau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bayua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Koto Kaciak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Duo Koto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Gadang Anam Koto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Koto Malintang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paninjauan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dalko"
+    }
   ]
 }

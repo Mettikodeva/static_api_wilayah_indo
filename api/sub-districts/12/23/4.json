@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Aek Korsik",
-    "Bandar Selamat",
-    "Perkebunan Padang Halaban",
-    "Perkebunan Panigoran",
-    "Sidomulyo",
-    "Karang Ayer (Anyar)",
-    "Padang Maninjau",
-    "Purworejo (Purwo Rejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aek Korsik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandar Selamat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Padang Halaban"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Panigoran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Ayer (Anyar)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padang Maninjau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purworejo (Purwo Rejo)"
+    }
   ]
 }

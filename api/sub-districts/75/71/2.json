@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Biawao",
-    "Biawu",
-    "Limba B",
-    "Limba U Satu (Limba U I)",
-    "Limba U Dua (Limba U II)"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Biawao"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Biawu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Limba B"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Limba U Satu (Limba U I)"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Limba U Dua (Limba U II)"
+    }
   ]
 }

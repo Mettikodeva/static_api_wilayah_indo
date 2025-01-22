@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bonder",
-    "Banyu Urip",
-    "Mangkung",
-    "Kateng",
-    "Setanggor",
-    "Penujak",
-    "Selong Belanak (Selong Blanak)",
-    "Mekar Sari",
-    "Batujai",
-    "Tanak Rarang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonder"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banyu Urip"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangkung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kateng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Setanggor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Penujak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selong Belanak (Selong Blanak)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batujai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanak Rarang"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Paya Dua",
-    "Cot Jabet",
-    "Ulee Nyeue (Ulee Nyeu)",
-    "Paya Uleue",
-    "Jamuan",
-    "Alue Keurinyai (Alue Keureunyai)",
-    "Sangkelan",
-    "Blang Pala",
-    "Paya Beunyet (Paya Beunyot)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paya Dua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cot Jabet"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulee Nyeue (Ulee Nyeu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paya Uleue"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jamuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alue Keurinyai (Alue Keureunyai)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sangkelan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blang Pala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paya Beunyet (Paya Beunyot)"
+    }
   ]
 }

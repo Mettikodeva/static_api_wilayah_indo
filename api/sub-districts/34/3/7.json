@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Giripanggung",
-    "Sumberwungu (Sumber Wungu)",
-    "Sidoharjo",
-    "Tepus",
-    "Purwodadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Giripanggung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberwungu (Sumber Wungu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tepus"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purwodadi"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Brondong",
-    "Pabean Ilir (Pabeanilir)",
-    "Pagirikan",
-    "Pasekan",
-    "Karanganyar",
-    "Totoran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Brondong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pabean Ilir (Pabeanilir)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pagirikan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasekan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Totoran"
+    }
   ]
 }

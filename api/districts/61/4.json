@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Matan Hilir Utara",
-    "Marau",
-    "Manis Mata",
-    "Kendawangan",
-    "Sandai",
-    "Sungai Laur",
-    "Simpang Hulu",
-    "Nanga Tayap",
-    "Matan Hilir Selatan",
-    "Tumbang Titi",
-    "Jelai Hulu",
-    "Delta Pawan",
-    "Muara Pawan",
-    "Benua Kayong",
-    "Hulu Sungai",
-    "Simpang Dua",
-    "Air Upas",
-    "Singkup",
-    "Pemahan",
-    "Sungai Melayu Rayak"
+    {
+      "district_id": 1,
+      "kecamatan": "Matan Hilir Utara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Marau"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Manis Mata"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kendawangan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sandai"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sungai Laur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Simpang Hulu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Nanga Tayap"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Matan Hilir Selatan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tumbang Titi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Jelai Hulu"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Delta Pawan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Muara Pawan"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Benua Kayong"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Hulu Sungai"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Simpang Dua"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Air Upas"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Singkup"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Pemahan"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Sungai Melayu Rayak"
+    }
   ]
 }

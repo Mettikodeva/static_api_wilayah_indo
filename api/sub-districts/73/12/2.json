@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Appanang",
-    "Jennae",
-    "Galung",
-    "Jampu",
-    "Pattojo",
-    "Timusu",
-    "Rompegading",
-    "Barang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Appanang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jennae"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Galung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jampu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pattojo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Timusu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rompegading"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Barang"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Senama Nenek (Sinama Nenek)",
-    "Kasikan",
-    "Bukit Kemuning",
-    "Danau Lancang",
-    "Muara Intan",
-    "Intan Jaya",
-    "Tanah Datar",
-    "Rimba Jaya",
-    "Rimba Makmur",
-    "Rimba Beringin",
-    "Sukaramai",
-    "Sumber Sari",
-    "Kusau Makmur",
-    "Talang Danto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Senama Nenek (Sinama Nenek)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kasikan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Kemuning"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Danau Lancang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Intan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Intan Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanah Datar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rimba Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rimba Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rimba Beringin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukaramai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kusau Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talang Danto"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Dolok Nauli",
-    "Pansurbatu",
-    "Pardomuan Nauli",
-    "Siantar Naipospos",
-    "Sibalanga",
-    "Pagaran Lambung III",
-    "Pagaran Lambung IV",
-    "Adian Koting (Adiankoting)",
-    "Pangaran Pisang",
-    "Banuaji IV",
-    "Banuaji I",
-    "Banuaji II",
-    "Pangaran Lambung I (Pagaran Lambung I)",
-    "Pangaran Lambung II (Pagaran Lambung II)",
-    "Pansurbatu I",
-    "Pansurbatu II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dolok Nauli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pansurbatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pardomuan Nauli"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siantar Naipospos"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sibalanga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagaran Lambung III"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagaran Lambung IV"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Adian Koting (Adiankoting)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pangaran Pisang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banuaji IV"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banuaji I"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banuaji II"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pangaran Lambung I (Pagaran Lambung I)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pangaran Lambung II (Pagaran Lambung II)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pansurbatu I"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pansurbatu II"
+    }
   ]
 }

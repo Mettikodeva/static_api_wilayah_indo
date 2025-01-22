@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Landasan Ulin Barat",
-    "Landasan Ulin Tengah",
-    "Landasan Ulin Utara",
-    "Landasan Ulin Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Landasan Ulin Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Landasan Ulin Tengah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Landasan Ulin Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Landasan Ulin Selatan"
+    }
   ]
 }

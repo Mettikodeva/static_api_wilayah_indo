@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pegatan/Pagatan Hilir",
-    "Pegatan/Pagatan Hulu",
-    "Kampung Keramat (Kampung Melayu)",
-    "Kampung Tengah",
-    "Jaya Makmur",
-    "Subur Indah",
-    "Kampung Baru",
-    "Bangun Jaya (Mangun Jaya)",
-    "Setia Mulia",
-    "Singam Raya",
-    "Sebangau Jaya",
-    "Sungai Kaki",
-    "Selat Baning",
-    "Makmur Utama",
-    "Bumi Subur",
-    "Bakung Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pegatan/Pagatan Hilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pegatan/Pagatan Hulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampung Keramat (Kampung Melayu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Tengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jaya Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Subur Indah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangun Jaya (Mangun Jaya)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Setia Mulia"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Singam Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sebangau Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Kaki"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Selat Baning"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Makmur Utama"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bumi Subur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bakung Raya"
+    }
   ]
 }

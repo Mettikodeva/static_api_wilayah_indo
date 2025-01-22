@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Towuntu",
-    "Towuntu Timur",
-    "Towuntu Barat",
-    "Tolombukan",
-    "Tolombukan Satu",
-    "Tolombukan Barat",
-    "Liwutung",
-    "Liwutung Satu",
-    "Liwutung Dua",
-    "Poniki",
-    "Maulit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Towuntu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Towuntu Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Towuntu Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tolombukan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tolombukan Satu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tolombukan Barat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Liwutung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Liwutung Satu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Liwutung Dua"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Poniki"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maulit"
+    }
   ]
 }

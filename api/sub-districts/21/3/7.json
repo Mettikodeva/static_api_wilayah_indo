@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Ranai Kota",
-    "Ranai Darat",
-    "Bandarsyah",
-    "Batu Hitam",
-    "Sungai Ulu",
-    "Sepempang",
-    "Batu Gajah"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Ranai Kota"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Ranai Darat"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Bandarsyah"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Batu Hitam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Ulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sepempang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batu Gajah"
+    }
   ]
 }

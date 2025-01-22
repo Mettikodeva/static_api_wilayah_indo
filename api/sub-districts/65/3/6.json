@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pembeliangan",
-    "Apas",
-    "Kunyit",
-    "Tetaban",
-    "Kekayap",
-    "Bebanas",
-    "Lulu",
-    "Sujau",
-    "Melasu Baru",
-    "Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pembeliangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Apas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kunyit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tetaban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kekayap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bebanas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sujau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Melasu Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Harapan"
+    }
   ]
 }

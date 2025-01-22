@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Eban",
-    "Sallu",
-    "Noepesu",
-    "Fatuneno",
-    "Suanae",
-    "Lemon",
-    "Fatunisuan",
-    "Haulasi",
-    "Neotoko",
-    "Fatutasu",
-    "Manusasi",
-    "Saenam",
-    "Sa'tab"
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Eban"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Sallu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Noepesu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fatuneno"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suanae"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lemon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Fatunisuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Haulasi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Neotoko"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Fatutasu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Manusasi"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Saenam"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sa'tab"
+    }
   ]
 }

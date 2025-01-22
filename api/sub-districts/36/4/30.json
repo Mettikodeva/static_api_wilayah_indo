@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Anyar",
-    "Sindang Mandi (Sindangmandi)",
-    "Cikoneng",
-    "Tanjung Manis (Tanjungmanis)",
-    "Bandulu",
-    "Bunihara",
-    "Kosambironyok (Kosambi Ronyok)",
-    "Banjarsari",
-    "Mekarsari",
-    "Sindangkarya",
-    "Tambang Ayam",
-    "Grogol Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Anyar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindang Mandi (Sindangmandi)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikoneng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Manis (Tanjungmanis)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bunihara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kosambironyok (Kosambi Ronyok)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sindangkarya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tambang Ayam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Grogol Indah"
+    }
   ]
 }

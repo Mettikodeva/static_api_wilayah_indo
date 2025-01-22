@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Dayun",
-    "Banjar Seminai",
-    "Teluk Merbau",
-    "Merangkai",
-    "Lubuk Tilam (Lubuk Tilan)",
-    "Berumbung Baru (Tilan)",
-    "Pangkalan Makmur",
-    "Buana Makmur",
-    "Suka Mulia/Mulya",
-    "Sawit Permai",
-    "Sialang Sakti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dayun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banjar Seminai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Merbau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Merangkai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Tilam (Lubuk Tilan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Berumbung Baru (Tilan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangkalan Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buana Makmur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Mulia/Mulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sawit Permai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sialang Sakti"
+    }
   ]
 }

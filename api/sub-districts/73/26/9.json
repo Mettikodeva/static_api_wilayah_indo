@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tikala",
-    "Buntu Barana",
-    "Buntu Batu",
-    "Sereale",
-    "Embatau",
-    "Benteng Ka'do To'rea",
-    "Pangden"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tikala"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Buntu Barana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buntu Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sereale"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Embatau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benteng Ka'do To'rea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangden"
+    }
   ]
 }

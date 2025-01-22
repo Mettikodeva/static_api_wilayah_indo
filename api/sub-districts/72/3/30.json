@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Ogoamas I",
-    "Ogoamas II",
-    "Lenju",
-    "Pesik",
-    "Bengkoli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ogoamas I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ogoamas II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lenju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pesik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bengkoli"
+    }
   ]
 }

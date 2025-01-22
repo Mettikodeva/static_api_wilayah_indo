@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Batu Putih",
-    "Waemputang",
-    "Kali Baru",
-    "Akacipong",
-    "La Ea"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waemputang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kali Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Akacipong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "La Ea"
+    }
   ]
 }

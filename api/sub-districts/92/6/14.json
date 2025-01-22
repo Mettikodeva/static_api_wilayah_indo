@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tofoi",
-    "Tanah Merah",
-    "Saengga",
-    "Forada",
-    "Materabu Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tofoi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanah Merah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Saengga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Forada"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Materabu Jaya"
+    }
   ]
 }

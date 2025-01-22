@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kuto Panji",
-    "Air Jukung",
-    "Bukit Ketok",
-    "Remodong Indah",
-    "Air Asam",
-    "Mantung",
-    "Belinyu",
-    "Gunung Muda",
-    "Gunung Pelawan",
-    "Riding Panjang",
-    "Lumut",
-    "Bintet"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kuto Panji"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Air Jukung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bukit Ketok"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Remodong Indah"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Air Asam"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Mantung"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Belinyu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Muda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Pelawan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Riding Panjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bintet"
+    }
   ]
 }

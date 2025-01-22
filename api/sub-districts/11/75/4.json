@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Pasir Belo",
-    "Bawan",
-    "Sigerun (Sigrun)",
-    "Jabi-Jabi",
-    "Lae Simolap",
-    "Lae Langge",
-    "Suka Maju",
-    "Gunung Bakti",
-    "Jambi Baru",
-    "Pulau Kedep (Pulo Kedep)",
-    "Pulo Belen (Pulau Belen / Pulo Bellen)",
-    "Singgersing",
-    "Namo Buaya (Namo Buayo)",
-    "Cipar Pari/Pare",
-    "Bunga Tanjung",
-    "Cipar Pari/Pare Timur",
-    "Darul Makmur",
-    "Jabi-Jabi Barat",
-    "Batu Napal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Belo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bawan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sigerun (Sigrun)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jabi-Jabi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lae Simolap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lae Langge"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Bakti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jambi Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Kedep (Pulo Kedep)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulo Belen (Pulau Belen / Pulo Bellen)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Singgersing"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Namo Buaya (Namo Buayo)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Cipar Pari/Pare"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bunga Tanjung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Cipar Pari/Pare Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Darul Makmur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Jabi-Jabi Barat"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Batu Napal"
+    }
   ]
 }

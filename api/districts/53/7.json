@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Paga",
-    "Mego",
-    "Lela",
-    "Nita",
-    "Alok",
-    "Palue",
-    "Nelle (Maumerei)",
-    "Talibura",
-    "Waigete",
-    "Kewapante",
-    "Bola",
-    "Magepanda",
-    "Waiblama",
-    "Alok Barat",
-    "Alok Timur",
-    "Koting",
-    "Tana Wawo",
-    "Hewokloang",
-    "Kangae",
-    "Doreng",
-    "Mapitara"
+    {
+      "district_id": 1,
+      "kecamatan": "Paga"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mego"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Lela"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Nita"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Alok"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Palue"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Nelle (Maumerei)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Talibura"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Waigete"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kewapante"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bola"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Magepanda"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Waiblama"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Alok Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Alok Timur"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Koting"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tana Wawo"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Hewokloang"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Kangae"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Doreng"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Mapitara"
+    }
   ]
 }

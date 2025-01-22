@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Labuan (Labuan Induk)",
-    "Labuan Salumbone",
-    "Labuan Panimba",
-    "Labuan Lelea",
-    "Labuan Kungguma",
-    "Labuan Toposo",
-    "Labuan Lumbubaka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuan (Labuan Induk)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Labuan Salumbone"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Labuan Panimba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuan Lelea"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Labuan Kungguma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labuan Toposo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Labuan Lumbubaka"
+    }
   ]
 }

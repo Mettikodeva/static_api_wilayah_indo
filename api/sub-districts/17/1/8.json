@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Keban Jati",
-    "Tanjung Beringin",
-    "Suka Negeri",
-    "Sukarami",
-    "Palak Bengkerung",
-    "Sukamaju (Suka Maju)",
-    "Pino Baru",
-    "Penandingan",
-    "Suka Bandung",
-    "Maras"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keban Jati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Beringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Negeri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukarami"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Palak Bengkerung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamaju (Suka Maju)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pino Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penandingan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Bandung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maras"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ketapang",
-    "Triwung Lor",
-    "Triwung Kidul",
-    "Pohsangit Kidul",
-    "Kademangan",
-    "Pilang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Triwung Lor"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Triwung Kidul"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pohsangit Kidul"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kademangan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pilang"
+    }
   ]
 }

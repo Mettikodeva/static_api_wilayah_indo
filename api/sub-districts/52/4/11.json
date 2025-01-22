@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lebin",
-    "Lebangkar",
-    "Ropang",
-    "Lawin",
-    "Ranan"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lebin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lebangkar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ropang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lawin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ranan"
+    }
   ]
 }

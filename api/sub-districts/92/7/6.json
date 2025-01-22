@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Yombekiri I (Yembe Kiri)",
-    "Isenebuay (Isenebuai / Senebuay / Senebuai)",
-    "Yomakan",
-    "Iseren (Isren)",
-    "Yembekiri II",
-    "Yariari",
-    "Wetitindau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yombekiri I (Yembe Kiri)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Isenebuay (Isenebuai / Senebuay / Senebuai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yomakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Iseren (Isren)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yembekiri II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yariari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wetitindau"
+    }
   ]
 }

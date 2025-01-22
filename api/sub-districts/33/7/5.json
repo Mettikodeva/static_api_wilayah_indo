@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Leksono",
-    "Sawangan",
-    "Lipursari",
-    "Selokromo",
-    "Sojokerto",
-    "Besani",
-    "Jlamprang",
-    "Wonokerto",
-    "Jonggolsari",
-    "Kalimendong",
-    "Timbang",
-    "Pacarmulyo",
-    "Durensawit",
-    "Manggis"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Leksono"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sawangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lipursari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selokromo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sojokerto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Besani"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jlamprang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jonggolsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalimendong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Timbang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pacarmulyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Durensawit"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Manggis"
+    }
   ]
 }

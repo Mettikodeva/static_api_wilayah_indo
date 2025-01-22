@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Ujungtebu",
-    "Siketug",
-    "Lebak",
-    "Pondok Kaharu (Pondok Kahuru)",
-    "Sukabares",
-    "Sukarena",
-    "Sukadana",
-    "Cemplang",
-    "Cisitu",
-    "Citaman",
-    "Panyaungan Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ujungtebu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siketug"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lebak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondok Kaharu (Pondok Kahuru)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukabares"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukarena"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cemplang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cisitu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Citaman"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panyaungan Jaya"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Nipah Panjang I",
-    "Nipah Panjang II",
-    "Simpang Jelita",
-    "Simpang Datuk",
-    "Teluk Kijing",
-    "Sungai Raya",
-    "Pemusiran",
-    "Sungai Tering",
-    "Sungai Jeruk",
-    "Bunga Tanjung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Nipah Panjang I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nipah Panjang II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Jelita"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Datuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Kijing"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pemusiran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Tering"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Jeruk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bunga Tanjung"
+    }
   ]
 }

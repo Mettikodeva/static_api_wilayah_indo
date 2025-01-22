@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bintuju",
-    "Huta Tonga",
-    "Basilam Baru",
-    "Sipangko",
-    "Huta Holbung",
-    "Muara Tais I",
-    "Muara Tais II",
-    "Muara Tais III",
-    "Janji Mauli MT",
-    "Pargumbangan",
-    "Pangaribuan",
-    "Pasir Matogu",
-    "Sori Manoan",
-    "Muara Purba Nauli",
-    "Tatengger"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bintuju"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Huta Tonga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Basilam Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sipangko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Huta Holbung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Tais I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Tais II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Tais III"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Janji Mauli MT"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pargumbangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pangaribuan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasir Matogu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sori Manoan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muara Purba Nauli"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tatengger"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kedamin Hulu",
-    "Kedamin Hilir",
-    "Sei/Sungai Uluk",
-    "Jaras",
-    "Melapi",
-    "Kedamin Darat",
-    "Tanjung Jati",
-    "Sayut",
-    "Urang Unsa",
-    "Suka Maju",
-    "Cempaka Baru",
-    "Beringin Jaya",
-    "Bungan Jaya",
-    "Tanjunglokang",
-    "Kereho (Kereho Semula)",
-    "Ingko' Tambe (Ingko Tambe)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kedamin Hulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kedamin Hilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sei/Sungai Uluk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jaras"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Melapi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kedamin Darat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tanjung Jati"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sayut"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Urang Unsa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cempaka Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bungan Jaya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjunglokang"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kereho (Kereho Semula)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Ingko' Tambe (Ingko Tambe)"
+    }
   ]
 }

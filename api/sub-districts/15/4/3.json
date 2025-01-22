@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Muara Bulian",
-    "Teratai",
-    "Sridadi",
-    "Pasar Baru",
-    "Rengas Condong",
-    "Pasar Terusan",
-    "Simpang Terusan",
-    "Malapari",
-    "Napal Sisik",
-    "Rambahan",
-    "Olak",
-    "Muaro Singoan (Muara Singoan)",
-    "Aro",
-    "Rantau Puri",
-    "Sungai Baung",
-    "Bajubang Laut",
-    "Singkawang",
-    "Tenam",
-    "Sungai Buluh",
-    "Kilangan",
-    "Pelayangan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Muara Bulian"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Teratai"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sridadi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasar Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rengas Condong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasar Terusan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang Terusan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Malapari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Napal Sisik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rambahan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Olak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muaro Singoan (Muara Singoan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Aro"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rantau Puri"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sungai Baung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bajubang Laut"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Singkawang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tenam"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kilangan"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Pelayangan"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sibargot",
-    "Bandar Kumbul",
-    "Tanjung Medan",
-    "Janji",
-    "Tebing Linggahara",
-    "AFD.I Rantauprapat",
-    "AFD.II Rantauprapat",
-    "Aek Buru Selatan (Perkebunan Aek Buru Selatan)",
-    "Kampung Baru",
-    "Tebing Linggahara Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sibargot"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandar Kumbul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Medan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Janji"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tebing Linggahara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "AFD.I Rantauprapat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "AFD.II Rantauprapat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aek Buru Selatan (Perkebunan Aek Buru Selatan)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tebing Linggahara Baru"
+    }
   ]
 }

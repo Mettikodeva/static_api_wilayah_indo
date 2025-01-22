@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Galinggang",
-    "Tampelas",
-    "Telaga",
-    "Parupuk",
-    "Karuing",
-    "Jahanjang",
-    "Tumbang Runen",
-    "Baun Bango",
-    "Asem Kumbang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Galinggang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tampelas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parupuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karuing"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jahanjang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Runen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baun Bango"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Asem Kumbang"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tumbang Kunyi",
-    "Kalapeh Baru",
-    "Tumbang Masao",
-    "Batu Makap",
-    "Olong Liko",
-    "Teluk/Telok Jolo",
-    "Laas Baru",
-    "Tumbang Molut (Tumbang Mulut)",
-    "Tumbang Tuan"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tumbang Kunyi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalapeh Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Masao"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Makap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Olong Liko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk/Telok Jolo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laas Baru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tumbang Molut (Tumbang Mulut)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tumbang Tuan"
+    }
   ]
 }

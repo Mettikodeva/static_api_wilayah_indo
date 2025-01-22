@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Wek I",
-    "Wek II",
-    "Wek III",
-    "Wek IV",
-    "Tanobato (Tano Bato)",
-    "Tobat",
-    "Batang Ayumi Jae",
-    "Batang Ayumi Julu",
-    "Sadabuan",
-    "Panyanggar",
-    "Bonan Dolok",
-    "Losung Batu",
-    "Timbangan",
-    "Bincar",
-    "Kantin",
-    "Kayu Ombun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Wek I"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wek II"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wek III"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wek IV"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanobato (Tano Bato)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tobat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Batang Ayumi Jae"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Batang Ayumi Julu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sadabuan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Panyanggar"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bonan Dolok"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Losung Batu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Timbangan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Bincar"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kantin"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kayu Ombun"
+    }
   ]
 }

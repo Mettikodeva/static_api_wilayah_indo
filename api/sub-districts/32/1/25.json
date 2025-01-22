@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cisarua",
-    "Batulayang (Batu Layang)",
-    "Jogjogan",
-    "Cibeureum",
-    "Cilember",
-    "Citeko",
-    "Tugu Selatan",
-    "Leuwimalang",
-    "Kopo",
-    "Tugu Utara"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batulayang (Batu Layang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jogjogan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibeureum"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cilember"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Citeko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tugu Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Leuwimalang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kopo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tugu Utara"
+    }
   ]
 }

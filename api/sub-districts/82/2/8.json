@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Banemo",
-    "Bobane Jaya",
-    "Bobane Indah",
-    "Mareala (Moreala)",
-    "Sibenpope (Sibenpopo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banemo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bobane Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bobane Indah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mareala (Moreala)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sibenpope (Sibenpopo)"
+    }
   ]
 }

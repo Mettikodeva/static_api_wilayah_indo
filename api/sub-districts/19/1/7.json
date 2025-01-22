@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Riau",
-    "Pangkal Niur",
-    "Pugul",
-    "Cit",
-    "Deniang",
-    "Silip",
-    "Mapur",
-    "Banyu Asin",
-    "Berbura"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Riau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pangkal Niur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pugul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Deniang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Silip"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mapur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banyu Asin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Berbura"
+    }
   ]
 }

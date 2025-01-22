@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Ba'tan",
-    "Pantanakan Lolo",
-    "Tallulolo",
-    "Rinding Batu",
-    "Angin Angin",
-    "Sangbua'",
-    "Tadongkon"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ba'tan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pantanakan Lolo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tallulolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rinding Batu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Angin Angin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sangbua'"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tadongkon"
+    }
   ]
 }

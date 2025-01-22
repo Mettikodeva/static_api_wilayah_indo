@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Suntamon",
-    "Tapasik",
-    "Bulbul",
-    "Dirik",
-    "Yup",
-    "Bongkok",
-    "Masumkon",
-    "Binalkon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suntamon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tapasik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bulbul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dirik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yup"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bongkok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Masumkon"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Binalkon"
+    }
   ]
 }

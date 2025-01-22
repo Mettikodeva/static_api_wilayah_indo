@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pangkalan Bunut Terap (Pangkalan Bunut)",
-    "Petani",
-    "Merbau",
-    "Sungai Buluh",
-    "Lubuk Mas",
-    "Balam Merah",
-    "Bagan Labah (Bagan Laguh)",
-    "Lubuk Mandian Gajah",
-    "Keriung",
-    "Sialang Kayu Batu"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pangkalan Bunut Terap (Pangkalan Bunut)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Petani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Merbau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Buluh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Mas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Balam Merah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bagan Labah (Bagan Laguh)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lubuk Mandian Gajah"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Keriung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sialang Kayu Batu"
+    }
   ]
 }

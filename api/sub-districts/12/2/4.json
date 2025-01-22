@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Situmeang Habinsaran",
-    "Hutauruk",
-    "Simanungkalit",
-    "Situmeang Hasundutan",
-    "Sipahutar",
-    "Tapian Nauli",
-    "Huta Raja",
-    "Lobu Singkam (Lobusingkam)",
-    "Rura Julu Dolok",
-    "Rura Julu Toruan",
-    "Hutaraja Hasundutan (Huta Raja Hasundutan)",
-    "Pagarbatu (Pagar Batu)",
-    "Hutaraja Simanungkalit",
-    "Hutauruk Hasundutan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Situmeang Habinsaran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hutauruk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simanungkalit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Situmeang Hasundutan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sipahutar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tapian Nauli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Huta Raja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lobu Singkam (Lobusingkam)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rura Julu Dolok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rura Julu Toruan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hutaraja Hasundutan (Huta Raja Hasundutan)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pagarbatu (Pagar Batu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hutaraja Simanungkalit"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Hutauruk Hasundutan"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Karangbolong",
-    "Katumbiri",
-    "Waringinjaya",
-    "Karyabuana",
-    "Tarumanagara",
-    "Ciseureuheun",
-    "Banyuasih",
-    "Cigeulis",
-    "Sinarjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangbolong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Katumbiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waringinjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karyabuana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tarumanagara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ciseureuheun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banyuasih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cigeulis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sinarjaya"
+    }
   ]
 }

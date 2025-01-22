@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tumbang Marikoi",
-    "Lawang Kanji",
-    "Tumbang Mahuroi",
-    "Karetau Rambangun",
-    "Karetau Sarian",
-    "Tumbang Posu",
-    "Tumbang Maraya",
-    "Tumbang Anoi"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tumbang Marikoi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lawang Kanji"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Mahuroi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karetau Rambangun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karetau Sarian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Posu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Maraya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Anoi"
+    }
   ]
 }

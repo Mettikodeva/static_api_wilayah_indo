@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sungai Pakning",
-    "Sejangat",
-    "Dompas",
-    "Pangkalan Jambi",
-    "Sungai Selari",
-    "Buruk Bakul",
-    "Bukit Batu",
-    "Sukajadi",
-    "Batang Duku",
-    "Pakning Asal"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sungai Pakning"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sejangat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dompas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pangkalan Jambi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Selari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buruk Bakul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Batu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Batang Duku"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pakning Asal"
+    }
   ]
 }

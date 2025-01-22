@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cenang",
-    "Dukuhmaja",
-    "Jatirokeh",
-    "Karangsembung",
-    "Songgom",
-    "Wanacala",
-    "Wanatawang",
-    "Gegerkunci",
-    "Jatimakmur",
-    "Songgom Lor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cenang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dukuhmaja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatirokeh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangsembung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Songgom"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wanacala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wanatawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gegerkunci"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatimakmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Songgom Lor"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kasinguncu",
-    "Mapane",
-    "Tabalu",
-    "Betania",
-    "Toini",
-    "Bega",
-    "Masamba",
-    "Saatu",
-    "Pinedapa",
-    "Masani",
-    "Tokorondo",
-    "Tiwaa",
-    "Lanto Jaya",
-    "Lape",
-    "Towu",
-    "Ueralulu"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kasinguncu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mapane"
+    },
+    {
+      "sub_district_id": 1031,
+      "desa_kelurahan": "Tabalu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Betania"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Toini"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bega"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Masamba"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Saatu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pinedapa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Masani"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tokorondo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tiwaa"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Lanto Jaya"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Lape"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Towu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Ueralulu"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sembungharjo",
-    "Kudu",
-    "Karangroto",
-    "Genuksari",
-    "Banjardowo",
-    "Gebangsari",
-    "Trimulyo",
-    "Penggaron Lor",
-    "Muktiharjo Lor",
-    "Bangetayu Kulon",
-    "Bangetayu Wetan",
-    "Terboyo Kulon",
-    "Terboyo Wetan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sembungharjo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kudu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karangroto"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Genuksari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Banjardowo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gebangsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Trimulyo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Penggaron Lor"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Muktiharjo Lor"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Bangetayu Kulon"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bangetayu Wetan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Terboyo Kulon"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Terboyo Wetan"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bumi Ratu",
-    "Labuhan Ratu Pasar",
-    "Sinar Galih (Sirna Galih)",
-    "Labuhan Ratu Kampung",
-    "Gedung Ketapang",
-    "Kota Agung",
-    "Ketapang",
-    "Karang Rejo I (Karang Rejo)",
-    "Banjar Ketapang",
-    "Sidodadi",
-    "Gunung Labuhan (Gunung Labuan)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bumi Ratu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labuhan Ratu Pasar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sinar Galih (Sirna Galih)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labuhan Ratu Kampung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedung Ketapang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kota Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Rejo I (Karang Rejo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banjar Ketapang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Gunung Labuhan (Gunung Labuan)"
+    }
   ]
 }

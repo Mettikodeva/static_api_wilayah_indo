@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mala-Mala",
-    "Awo",
-    "Koroha",
-    "Kamisi",
-    "Lametuna",
-    "Meeto",
-    "Kalu-Kaluku",
-    "Jabal Nur",
-    "Jabal Kubis",
-    "Sawangaoha (Sawanggaoha)",
-    "Ainani Tajriani",
-    "Delang-Delang"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mala-Mala"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Awo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koroha"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kamisi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lametuna"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meeto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalu-Kaluku"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jabal Nur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jabal Kubis"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sawangaoha (Sawanggaoha)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ainani Tajriani"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Delang-Delang"
+    }
   ]
 }

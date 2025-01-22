@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Doli-doli Idanotae (Doli Doli Idano Tae)",
-    "Hiliana'a Gomo",
-    "Lawa Lawa Luo Gomo",
-    "Lolosoni",
-    "Orahili Gomo",
-    "Sifaoro'asi Gomo",
-    "Tanoniko'o",
-    "Suka Maju Mohili",
-    "Orahili Sibohou",
-    "Gunung Gabungan",
-    "Umbu Orahua"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Doli-doli Idanotae (Doli Doli Idano Tae)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hiliana'a Gomo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lawa Lawa Luo Gomo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lolosoni"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Orahili Gomo"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sifaoro'asi Gomo"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Tanoniko'o"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Suka Maju Mohili"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Orahili Sibohou"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Gunung Gabungan"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Umbu Orahua"
+    }
   ]
 }

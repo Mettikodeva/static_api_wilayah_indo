@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pekaleme",
-    "Teleme",
-    "Giko",
-    "Kungge",
-    "Kotorambur",
-    "Miyanagame",
-    "Karu",
-    "Tabuh",
-    "Gwak Dugunik",
-    "Minegimen",
-    "Ambirik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pekaleme"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teleme"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Giko"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kungge"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kotorambur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Miyanagame"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tabuh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gwak Dugunik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Minegimen"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ambirik"
+    }
   ]
 }

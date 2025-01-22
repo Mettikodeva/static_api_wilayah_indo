@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Kauman",
-    "Sarirejo",
-    "Sawahan",
-    "Mojosari",
-    "Wonokusumo",
-    "Sumbertanggul",
-    "Belahantengah",
-    "Awang Awang",
-    "Seduri",
-    "Mojosulur",
-    "Randubango",
-    "Jotangan",
-    "Menanggal",
-    "Pekukuhan",
-    "Modopuro",
-    "Kebondalem",
-    "Kedunggempol",
-    "Ngimbangan",
-    "Leminggir"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sarirejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mojosari"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Wonokusumo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumbertanggul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belahantengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Awang Awang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seduri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mojosulur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Randubango"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jotangan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Menanggal"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pekukuhan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Modopuro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kedunggempol"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ngimbangan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Leminggir"
+    }
   ]
 }

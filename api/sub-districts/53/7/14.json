@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Hewuli",
-    "Wailiti",
-    "Wolomarang",
-    "Wuring"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Hewuli"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wailiti"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wolomarang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Wuring"
+    }
   ]
 }

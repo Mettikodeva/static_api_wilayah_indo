@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tellang Kere (Tellangkere)",
-    "Lagori",
-    "Gaya Baru",
-    "Tapong",
-    "Sadar",
-    "Tondong",
-    "Samaenre",
-    "Bonto Masunggu",
-    "Pallawa",
-    "Polewali",
-    "Batu Putih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tellang Kere (Tellangkere)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lagori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gaya Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tapong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sadar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tondong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Samaenre"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonto Masunggu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pallawa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Polewali"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Putih"
+    }
   ]
 }

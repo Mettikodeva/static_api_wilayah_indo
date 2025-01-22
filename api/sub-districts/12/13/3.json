@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Gunung Baringin",
-    "Aek Nabara",
-    "Hutaimbaru (Huta Rimbaru Gb)",
-    "Huta Bangun",
-    "Huta Tinggi",
-    "Pagur",
-    "Pardomuan",
-    "Parmompang",
-    "Ranto Natas",
-    "Sirangkap",
-    "Tanjung",
-    "Tebing Tinggi",
-    "Tanjung Julu",
-    "Banjar Lancat",
-    "Padang Laru"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gunung Baringin"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aek Nabara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hutaimbaru (Huta Rimbaru Gb)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Huta Bangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Huta Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parmompang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ranto Natas"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirangkap"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Julu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banjar Lancat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Padang Laru"
+    }
   ]
 }

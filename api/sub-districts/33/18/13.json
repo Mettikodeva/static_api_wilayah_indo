@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bermi",
-    "Kedungbulus",
-    "Semirejo",
-    "Wonosekar",
-    "Gembong",
-    "Plukaran",
-    "Bageng",
-    "Pohgading",
-    "Klakahkasihan (Klakah Kasian)",
-    "Ketanggan",
-    "Sitiluhur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bermi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungbulus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semirejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonosekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gembong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Plukaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bageng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pohgading"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klakahkasihan (Klakah Kasian)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ketanggan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sitiluhur"
+    }
   ]
 }

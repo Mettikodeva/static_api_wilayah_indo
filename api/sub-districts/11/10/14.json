@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kuala Baru Laut",
-    "Kuala Baru Sungai",
-    "Suka Jaya",
-    "Kayu Menang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuala Baru Laut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Baru Sungai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kayu Menang"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bonto Manai",
-    "Bonto Lebang",
-    "Bonto Sunggu",
-    "Bonto Atu",
-    "Bonto Rita",
-    "Bonto Langkasa",
-    "Bonto Jaya",
-    "Bonto Jai",
-    "Bonto Cinde",
-    "Bonto Loe",
-    "Bonto Salluang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bonto Manai"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bonto Lebang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bonto Sunggu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bonto Atu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bonto Rita"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bonto Langkasa"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bonto Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bonto Jai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bonto Cinde"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonto Loe"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bonto Salluang"
+    }
   ]
 }

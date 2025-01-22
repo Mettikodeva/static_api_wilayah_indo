@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Lampenai",
-    "Tarengge",
-    "Maramba",
-    "Cendana Hijau",
-    "Bawalipu",
-    "Kalaena",
-    "Lera",
-    "Kanawatu",
-    "Bahari",
-    "Karambua (Korombua)",
-    "Pepuro Barat",
-    "Balo-Balo (Balobalo)",
-    "Rinjani",
-    "Tarengge Timur",
-    "Madani",
-    "Tabaroge",
-    "Arolipu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lampenai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tarengge"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maramba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cendana Hijau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bawalipu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalaena"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lera"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kanawatu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bahari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karambua (Korombua)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pepuro Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Balo-Balo (Balobalo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rinjani"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tarengge Timur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Madani"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tabaroge"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Arolipu"
+    }
   ]
 }

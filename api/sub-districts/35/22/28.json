@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gayam",
-    "Begadon",
-    "Ringintunggal",
-    "Mojodelik",
-    "Brabowan",
-    "Bonorejo",
-    "Beged",
-    "Katur",
-    "Ngraho",
-    "Sudu",
-    "Cengungklung",
-    "Manukan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gayam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Begadon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ringintunggal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mojodelik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Brabowan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bonorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beged"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Katur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngraho"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sudu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cengungklung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Manukan"
+    }
   ]
 }

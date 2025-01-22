@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pura Jaya (Purajaya)",
-    "Pura Wiwitan (Purawiwitan)",
-    "Tribudi Syukur (Tri Budisukur)",
-    "Muara Jaya Satu (I)",
-    "Muara Jaya Dua (II)",
-    "Tribudi Makmur",
-    "Tugu Mulya",
-    "Cipta Mulya",
-    "Muara Baru",
-    "Sinar Luas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pura Jaya (Purajaya)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pura Wiwitan (Purawiwitan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tribudi Syukur (Tri Budisukur)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Jaya Satu (I)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Jaya Dua (II)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tribudi Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tugu Mulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cipta Mulya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sinar Luas"
+    }
   ]
 }

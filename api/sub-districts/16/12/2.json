@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sukarami",
-    "Tanjung Baru",
-    "Prabu Menang",
-    "Tanding Marga",
-    "Karang Tanding",
-    "Lubuk Tampui",
-    "Tempirai",
-    "Tempirai Selatan",
-    "Kota Baru",
-    "Tempirai Utara (Tempurai Utara)",
-    "Tempirai Timur (Tempurai Timur)",
-    "Tambak",
-    "Muara Ikan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukarami"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Prabu Menang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanding Marga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Tanding"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Tampui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tempirai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tempirai Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tempirai Utara (Tempurai Utara)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tempirai Timur (Tempurai Timur)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tambak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muara Ikan"
+    }
   ]
 }

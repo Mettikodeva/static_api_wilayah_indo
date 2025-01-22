@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Baye",
-    "Bangsongan",
-    "Senden",
-    "Sambirobyong",
-    "Mukuh",
-    "Sukoharjo",
-    "Jambu",
-    "Sekaran",
-    "Padangan",
-    "Nanggungan",
-    "Semambung",
-    "Kayen Kidul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baye"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangsongan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Senden"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sambirobyong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mukuh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukoharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sekaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Padangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nanggungan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Semambung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kayen Kidul"
+    }
   ]
 }

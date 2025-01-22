@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Batutumpang",
-    "Citalang",
-    "Tegalwaru",
-    "Tegalsari",
-    "Warungjeruk",
-    "Galumpit",
-    "Sukahaji",
-    "Karoya",
-    "Cadassari",
-    "Cadasmekar",
-    "Cisarua",
-    "Sukamulya",
-    "Pasanggrahan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batutumpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Citalang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tegalwaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Warungjeruk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Galumpit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukahaji"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karoya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cadassari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cadasmekar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasanggrahan"
+    }
   ]
 }

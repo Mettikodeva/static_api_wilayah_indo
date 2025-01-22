@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bancea",
-    "Boe",
-    "Pendolo",
-    "Pandayora",
-    "Mayoa",
-    "Uelene",
-    "Mayasari (Maya Sari)",
-    "Pandajaya (Panda Jaya)",
-    "Mayajaya (Maya Jaya)",
-    "Bangunjaya (Bangun Jaya)",
-    "Panjo",
-    "Pasir Putih"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bancea"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Boe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pendolo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pandayora"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mayoa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Uelene"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mayasari (Maya Sari)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pandajaya (Panda Jaya)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mayajaya (Maya Jaya)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bangunjaya (Bangun Jaya)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Panjo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Pasir Putih"
+    }
   ]
 }

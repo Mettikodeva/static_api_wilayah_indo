@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Savana Jaya",
-    "Waetele",
-    "Waekasar",
-    "Waenetat",
-    "Waekerta",
-    "Wanareja",
-    "Gogorea"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Savana Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waetele"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waekasar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waenetat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Waekerta"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wanareja"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Gogorea"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kelapa Tujuh",
-    "Tanjungaman (Tanjung Aman)",
-    "Kota Alam",
-    "Tanjungharapan (Tanjung Harapan)",
-    "Tanjungsenang (Tanjung Senang)",
-    "Mulang Maya",
-    "Bandar Putih",
-    "Karang Agung",
-    "Curup Guruh (Curup Guruh Kagungan)",
-    "Jerangkang",
-    "Way Melan",
-    "Taman Jaya",
-    "Alam Jaya",
-    "Sinar Mas Alam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kelapa Tujuh"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjungaman (Tanjung Aman)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kota Alam"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tanjungharapan (Tanjung Harapan)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tanjungsenang (Tanjung Senang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mulang Maya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bandar Putih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curup Guruh (Curup Guruh Kagungan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jerangkang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Way Melan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taman Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Alam Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sinar Mas Alam"
+    }
   ]
 }

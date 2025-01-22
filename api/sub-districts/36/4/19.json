@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Petir",
-    "Cirangkong",
-    "Tambiluk",
-    "Sindangsari",
-    "Padasuka",
-    "Seuat",
-    "Nagarapadang (Nagara Padang)",
-    "Kadugenep",
-    "Cirendeu (Cireundeu)",
-    "Sanding",
-    "Kampung Baru",
-    "Mekar Baru (Mekarbaru)",
-    "Seuat Jaya",
-    "Kubang Jaya",
-    "Bojong Nangka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Petir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cirangkong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambiluk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seuat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nagarapadang (Nagara Padang)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kadugenep"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cirendeu (Cireundeu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sanding"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Baru (Mekarbaru)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Seuat Jaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kubang Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bojong Nangka"
+    }
   ]
 }

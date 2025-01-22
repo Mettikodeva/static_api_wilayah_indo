@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sika Makmur",
-    "Segoy Makmur (Segoi Makmur)",
-    "Mukti Utama",
-    "Sumber Sari",
-    "Melan",
-    "Tanah Abang",
-    "Sumber Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sika Makmur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Segoy Makmur (Segoi Makmur)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mukti Utama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Melan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanah Abang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Agung"
+    }
   ]
 }

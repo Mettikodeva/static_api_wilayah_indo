@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kedamaian",
-    "Bumi Kedamaian",
-    "Tanjungagung Raya (Tanjung Agung Raya)",
-    "Tanjungbaru (Tanjung Baru)",
-    "Kalibalau Kencana (Kali Balok / Balau Kencana)",
-    "Tanjungraya (Tanjung Raya)",
-    "Tanjunggading (Tanjung Gading)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kedamaian"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bumi Kedamaian"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjungagung Raya (Tanjung Agung Raya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjungbaru (Tanjung Baru)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kalibalau Kencana (Kali Balok / Balau Kencana)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjungraya (Tanjung Raya)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanjunggading (Tanjung Gading)"
+    }
   ]
 }

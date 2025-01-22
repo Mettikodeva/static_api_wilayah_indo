@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Ansudu (Ansubi)",
-    "Betaf",
-    "Yamben (Jamber/Beneraf)",
-    "Sunum (Yamna)",
-    "Komra",
-    "Betaf Dua (Betaf II / Tamnir)",
-    "Ansudu Dua (Ansudu II / Srem)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ansudu (Ansubi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Betaf"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yamben (Jamber/Beneraf)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sunum (Yamna)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Komra"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Betaf Dua (Betaf II / Tamnir)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ansudu Dua (Ansudu II / Srem)"
+    }
   ]
 }

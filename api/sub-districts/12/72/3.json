@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Melayu",
-    "Martoba",
-    "Baru",
-    "Sukadame",
-    "Kahean",
-    "Sigulanggulang (Sigulang Gulang I)",
-    "Bane"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Melayu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Martoba"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukadame"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kahean"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sigulanggulang (Sigulang Gulang I)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bane"
+    }
   ]
 }

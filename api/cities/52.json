@@ -1,13 +1,44 @@
 {
   "cities": [
-    "Lombok Barat",
-    "Lombok Tengah",
-    "Lombok Timur",
-    "Sumbawa",
-    "Dompu",
-    "Bima",
-    "Sumbawa Barat",
-    "Lombok Utara",
-    "Mataram"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Lombok Barat"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Lombok Tengah"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Lombok Timur"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Sumbawa"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Dompu"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Bima"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Sumbawa Barat"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Lombok Utara"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Mataram"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Bima"
+    }
   ]
 }

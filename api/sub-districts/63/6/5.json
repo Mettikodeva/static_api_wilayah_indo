@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kandangan Kota",
-    "Kandangan Utara",
-    "Kandangan Barat",
-    "Jambu Hilir",
-    "Gambah Luar",
-    "Gambah Luar Muka",
-    "Gambah Dalam",
-    "Gambah Dalam Barat",
-    "Sei/Sungai Kupang",
-    "Bangkau",
-    "Lungau",
-    "Sei/Sungai Paring",
-    "Bariang",
-    "Amawang Kiri",
-    "Amawang Kiri Muka",
-    "Amawang Kanan",
-    "Tibung Raya",
-    "Baluti"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kandangan Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kandangan Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kandangan Barat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jambu Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gambah Luar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gambah Luar Muka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gambah Dalam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gambah Dalam Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Kupang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bangkau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lungau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sei/Sungai Paring"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bariang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Amawang Kiri"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Amawang Kiri Muka"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Amawang Kanan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tibung Raya"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Baluti"
+    }
   ]
 }

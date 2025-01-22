@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pakan Sinayan",
-    "Kubu Gadang",
-    "Bulakan Balai Kandi",
-    "Payolansek",
-    "Talang",
-    "Padang Tinggi Piliang",
-    "Koto Tangah",
-    "Subarang Batuang",
-    "Parik Rantang",
-    "Parak Batuang",
-    "Nunang Daya Bangun",
-    "Labuah Basilang",
-    "Ibuah",
-    "Tanjuang Pauh",
-    "Tanjuanggodang Sungai Pinago",
-    "Padangtongah Balainanduo",
-    "Padangdata Tanahmati"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pakan Sinayan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kubu Gadang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bulakan Balai Kandi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Payolansek"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Talang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Padang Tinggi Piliang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Koto Tangah"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Subarang Batuang"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Parik Rantang"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Parak Batuang"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Nunang Daya Bangun"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Labuah Basilang"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Ibuah"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Tanjuang Pauh"
+    },
+    {
+      "sub_district_id": 1032,
+      "desa_kelurahan": "Tanjuanggodang Sungai Pinago"
+    },
+    {
+      "sub_district_id": 1033,
+      "desa_kelurahan": "Padangtongah Balainanduo"
+    },
+    {
+      "sub_district_id": 1034,
+      "desa_kelurahan": "Padangdata Tanahmati"
+    }
   ]
 }

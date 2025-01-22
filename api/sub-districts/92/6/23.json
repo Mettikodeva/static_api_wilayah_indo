@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Meyado (Mayado/Meyabo)",
-    "Barma",
-    "Barma Baru (Stencool)",
-    "Vasco Damneen (Vesco Damnem/Sten)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Meyado (Mayado/Meyabo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barma Baru (Stencool)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Vasco Damneen (Vesco Damnem/Sten)"
+    }
   ]
 }

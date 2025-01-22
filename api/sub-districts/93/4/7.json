@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Binam",
-    "Wagabus",
-    "Burbis",
-    "Bubis",
-    "Karbis",
-    "Jinak",
-    "Wowi",
-    "Soray",
-    "Waganu Dua",
-    "Waijens",
-    "Bumu",
-    "Kapayap Satu",
-    "Kapayap Dua",
-    "Emnam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Binam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wagabus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Burbis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bubis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karbis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jinak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wowi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Soray"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waganu Dua"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Waijens"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bumu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kapayap Satu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kapayap Dua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Emnam"
+    }
   ]
 }

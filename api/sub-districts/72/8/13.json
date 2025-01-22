@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tomoli",
-    "Toribulu",
-    "Sienjo",
-    "Pinotu",
-    "Singura",
-    "Tomoli Selatan (Tomili Selatan)",
-    "Sibalago (Sibolago)",
-    "Toribulu Selatan",
-    "Tomoli Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tomoli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toribulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sienjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pinotu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Singura"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tomoli Selatan (Tomili Selatan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sibalago (Sibolago)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Toribulu Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tomoli Utara"
+    }
   ]
 }

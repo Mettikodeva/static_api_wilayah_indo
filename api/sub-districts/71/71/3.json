@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Singkil Satu",
-    "Singkil Dua",
-    "Wawonasa",
-    "Karame",
-    "Ketang Baru",
-    "Ternate Baru",
-    "Kombos Barat",
-    "Kombos Timur",
-    "Ternate Tanjung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Singkil Satu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Singkil Dua"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wawonasa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karame"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ketang Baru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Ternate Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kombos Barat"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kombos Timur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ternate Tanjung"
+    }
   ]
 }

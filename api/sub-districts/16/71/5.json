@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "18 Ilir",
-    "16 Ilir",
-    "13 Ilir",
-    "14 Ilir",
-    "15 Ilir",
-    "17 Ilir",
-    "20 Ilir D. III (20 Ilir III)",
-    "20 Ilir D IV (20 Ilir IV)",
-    "20 Ilir D. I (20 Ilir I)",
-    "Sungai Pangeran (Sei Pangeran)",
-    "Kepandean Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "18 Ilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "16 Ilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "13 Ilir"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "14 Ilir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "15 Ilir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "17 Ilir"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "20 Ilir D. III (20 Ilir III)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "20 Ilir D IV (20 Ilir IV)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "20 Ilir D. I (20 Ilir I)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sungai Pangeran (Sei Pangeran)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kepandean Baru"
+    }
   ]
 }

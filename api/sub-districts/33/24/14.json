@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Bulugede",
-    "Margosari",
-    "Donosari",
-    "Lanji",
-    "Tambakrejo",
-    "Kebonharjo",
-    "Purwokerto",
-    "Jambearum",
-    "Purwosari",
-    "Sukolilan",
-    "Bangunrejo",
-    "Kumpulrejo",
-    "Magersari",
-    "Wonosari",
-    "Pidodowetan (Pidodo Wetan / Widodo Wetan)",
-    "Pidodokulon (Pidodo Kulon / Widodo Kulon)",
-    "Bangunsari",
-    "Kartikajaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulugede"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Margosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Donosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lanji"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambakrejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebonharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purwokerto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambearum"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukolilan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bangunrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kumpulrejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Magersari"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pidodowetan (Pidodo Wetan / Widodo Wetan)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pidodokulon (Pidodo Kulon / Widodo Kulon)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bangunsari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kartikajaya"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cikaobandung",
-    "Jatimekar",
-    "Jatiluhur",
-    "Cilegong",
-    "Kembangkuning",
-    "Cibinong",
-    "Bunder",
-    "Mekargalih",
-    "Cisalada",
-    "Parakanlima"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cikaobandung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatimekar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatiluhur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cilegong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kembangkuning"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibinong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bunder"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekargalih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cisalada"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Parakanlima"
+    }
   ]
 }

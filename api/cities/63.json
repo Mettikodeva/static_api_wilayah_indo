@@ -1,17 +1,56 @@
 {
   "cities": [
-    "Tanah Laut",
-    "Kotabaru",
-    "Banjar",
-    "Barito Kuala",
-    "Tapin",
-    "Hulu Sungai Selatan",
-    "Hulu Sungai Tengah",
-    "Hulu Sungai Utara",
-    "Tabalong",
-    "Tanah Bumbu",
-    "Balangan",
-    "Banjarmasin",
-    "Banjarbaru"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Tanah Laut"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Kotabaru"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Banjar"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Barito Kuala"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Tapin"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Hulu Sungai Selatan"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Hulu Sungai Tengah"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Hulu Sungai Utara"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Tabalong"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Tanah Bumbu"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Balangan"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Banjarmasin"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Banjarbaru"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sanur",
-    "Makmur",
-    "Semunad",
-    "Sekikilan",
-    "Kalunsayan (Kulunsayan / Kalun Sayan)",
-    "Tembalang",
-    "Salang",
-    "Tinampak I",
-    "Tinampak II",
-    "Naputi",
-    "Tau Baru",
-    "Balatikon (Blatikon / Belatikan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sanur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Makmur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semunad"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sekikilan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalunsayan (Kulunsayan / Kalun Sayan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tembalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tinampak I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tinampak II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Naputi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tau Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Balatikon (Blatikon / Belatikan)"
+    }
   ]
 }

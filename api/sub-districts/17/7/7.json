@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Karang Dapo Atas",
-    "Bukit Nibung",
-    "Karang Dapo Bawah",
-    "Pungguk Pedaro",
-    "Talang Kerinci",
-    "Pelabuhan Talang Liak (Pelabuhan Talang Leak)",
-    "Talang Liak I (Talang Leak I)",
-    "Talang Liak II (Talang Leak II)",
-    "Bungin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karang Dapo Atas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Nibung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Dapo Bawah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pungguk Pedaro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talang Kerinci"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pelabuhan Talang Liak (Pelabuhan Talang Leak)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Liak I (Talang Leak I)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talang Liak II (Talang Leak II)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bungin"
+    }
   ]
 }

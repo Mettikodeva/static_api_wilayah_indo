@@ -1,6 +1,12 @@
 {
   "sub_districts": [
-    "Paninggahan",
-    "Muaro Pingai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paninggahan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muaro Pingai"
+    }
   ]
 }

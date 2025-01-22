@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mahahe",
-    "Salobaja (Sulobaja)",
-    "Tobadak",
-    "Palongaan (Polongaan)",
-    "Batu Parigi",
-    "Bambadaru",
-    "Sejati",
-    "Saloadak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mahahe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salobaja (Sulobaja)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tobadak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Palongaan (Polongaan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Parigi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bambadaru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sejati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Saloadak"
+    }
   ]
 }

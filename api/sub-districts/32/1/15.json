@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ciampea",
-    "Cinangka",
-    "Cihideungudik (Cihideung Udik)",
-    "Bojongjengkol (Bojong Jengkol)",
-    "Tegalwaru (Tegal Waru)",
-    "Cibuntu",
-    "Cicadas",
-    "Cibadak",
-    "Bojongrangkas (Bojong Rangkas)",
-    "Cihideunghilir (Cihideung Ilir)",
-    "Cibanteng",
-    "Benteng",
-    "Ciampea Udik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ciampea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cinangka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cihideungudik (Cihideung Udik)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojongjengkol (Bojong Jengkol)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegalwaru (Tegal Waru)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibuntu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cicadas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bojongrangkas (Bojong Rangkas)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cihideunghilir (Cihideung Ilir)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cibanteng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ciampea Udik"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lado",
-    "Sipayo",
-    "Bondoyong",
-    "Sidoan Selatan",
-    "Sidoan Timur",
-    "Sidoan",
-    "Sidoan Barat",
-    "Ogobagis",
-    "Muara Jaya",
-    "Bainaa Selatan",
-    "Sintuwu Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lado"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sipayo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bondoyong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidoan Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidoan Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidoan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidoan Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ogobagis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muara Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bainaa Selatan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sintuwu Raya"
+    }
   ]
 }

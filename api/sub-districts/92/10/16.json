@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Adoh",
-    "Temel",
-    "Sosian",
-    "Segior",
-    "Orain",
-    "Rawas",
-    "Orsu",
-    "Soan",
-    "Warbo",
-    "Woman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Adoh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Temel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sosian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Segior"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Orain"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawas"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Orsu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Soan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Warbo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Woman"
+    }
   ]
 }

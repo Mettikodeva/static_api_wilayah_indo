@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sumberejo",
-    "Nolokerto",
-    "Kumpulrejo",
-    "Karangtengah",
-    "Sarirejo",
-    "Krajankulon",
-    "Kutoharjo",
-    "Wonorejo",
-    "Mororejo"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nolokerto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kumpulrejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sarirejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Krajankulon"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kutoharjo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mororejo"
+    }
   ]
 }

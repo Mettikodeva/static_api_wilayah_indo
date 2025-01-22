@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Jangkung",
-    "Tanjung",
-    "Agung",
-    "Hikun",
-    "Banyu Tajun",
-    "Pamarangan Kiwa",
-    "Puain Kiwa",
-    "Juai",
-    "Mahe Seberang",
-    "Kambitin",
-    "Wayau",
-    "Garunggung",
-    "Kitang",
-    "Sei/Sungai Pimping",
-    "Kambitin Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jangkung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Agung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Hikun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyu Tajun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pamarangan Kiwa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puain Kiwa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Juai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mahe Seberang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kambitin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wayau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Garunggung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kitang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sei/Sungai Pimping"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kambitin Raya"
+    }
   ]
 }

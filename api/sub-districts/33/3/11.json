@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ponjen",
-    "Buara",
-    "Brakas",
-    "Bungkanel",
-    "Lumpang",
-    "Karanggedang",
-    "Kabunderan",
-    "Jambudesa",
-    "Maribaya",
-    "Karanganyar",
-    "Banjarkerta",
-    "Kalijaran",
-    "Kaliori"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ponjen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Brakas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bungkanel"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lumpang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karanggedang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kabunderan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambudesa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maribaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banjarkerta"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kalijaran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kaliori"
+    }
   ]
 }

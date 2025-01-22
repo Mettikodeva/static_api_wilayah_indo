@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Fajar Bulan (Pajar Bulan)",
-    "Puralaksana (Pura Laksana)",
-    "Karang Agung",
-    "Mutar Alam",
-    "Tanjung Raya",
-    "Sukananti",
-    "Sukaraja",
-    "Padang Tambak",
-    "Tambak Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Fajar Bulan (Pajar Bulan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Puralaksana (Pura Laksana)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mutar Alam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukananti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padang Tambak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tambak Jaya"
+    }
   ]
 }

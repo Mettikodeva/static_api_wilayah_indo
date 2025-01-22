@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Barrang Caddi",
-    "Barrang Lompo",
-    "Kodingareng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Barrang Caddi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Barrang Lompo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kodingareng"
+    }
   ]
 }

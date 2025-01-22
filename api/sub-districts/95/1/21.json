@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Usilimo",
-    "Siba",
-    "Wosiala",
-    "Gua Wisata",
-    "Undulumo",
-    "Fikha",
-    "Meagamia",
-    "Alona",
-    "Abutpuk",
-    "Isaiman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Usilimo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wosiala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gua Wisata"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Undulumo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Fikha"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Meagamia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Alona"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Abutpuk"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Isaiman"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Durian Depun",
-    "Pulo Geto (Pulogeto)",
-    "Taba Mulan",
-    "Lubuk Penyamun",
-    "Simpang Kota Bingin",
-    "Bukit Barisan",
-    "Batu Ampar",
-    "Pulo Geto Baru"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Durian Depun"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulo Geto (Pulogeto)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taba Mulan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Penyamun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpang Kota Bingin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Barisan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulo Geto Baru"
+    }
   ]
 }

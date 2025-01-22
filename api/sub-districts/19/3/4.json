@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jelutung II",
-    "Gudang",
-    "Bangka Kota",
-    "Rajik",
-    "Sebagin",
-    "Simpang Rimba",
-    "Permis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jelutung II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gudang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangka Kota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rajik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebagin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpang Rimba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Permis"
+    }
   ]
 }

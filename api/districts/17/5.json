@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Sukaraja",
-    "Seluma",
-    "Talo",
-    "Semidang Alas",
-    "Semidang Alas Maras",
-    "Air Periukan",
-    "Lubuk Sandi",
-    "Seluma Barat",
-    "Seluma Timur",
-    "Seluma Utara",
-    "Seluma Selatan",
-    "Talo Kecil",
-    "Ulu Talo",
-    "Ilir Talo"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukaraja"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Seluma"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Talo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Semidang Alas"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Semidang Alas Maras"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Air Periukan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lubuk Sandi"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Seluma Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Seluma Timur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Seluma Utara"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Seluma Selatan"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Talo Kecil"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Ulu Talo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Ilir Talo"
+    }
   ]
 }

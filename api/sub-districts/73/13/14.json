@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ballaere (Ballere)",
-    "Awota",
-    "Keera",
-    "Lalliseng",
-    "Paojepe",
-    "Inrello",
-    "Pattirolokka",
-    "Awo",
-    "Ciromanie",
-    "Labawang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ballaere (Ballere)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Awota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keera"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lalliseng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paojepe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Inrello"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pattirolokka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Awo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciromanie"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labawang"
+    }
   ]
 }

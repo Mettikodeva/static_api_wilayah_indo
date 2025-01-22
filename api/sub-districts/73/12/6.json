@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Donri-Donri",
-    "Lalabatariaja (Lalabata Riaja)",
-    "Leworeng",
-    "Labokong",
-    "Sering",
-    "Pesse",
-    "Tottong",
-    "Kessing",
-    "Pising (Solie)"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Donri-Donri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lalabatariaja (Lalabata Riaja)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Leworeng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labokong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sering"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pesse"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tottong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kessing"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pising (Solie)"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bandongan",
-    "Salamkanci",
-    "Sukosari",
-    "Tonoboyo",
-    "Gandusari",
-    "Sidorejo",
-    "Trasan",
-    "Banyuwangi",
-    "Kedungsari",
-    "Sukodadi",
-    "Kebonagung",
-    "Kalegen",
-    "Ngepanrejo",
-    "Rejosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Salamkanci"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tonoboyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gandusari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Trasan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banyuwangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedungsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukodadi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalegen"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngepanrejo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rejosari"
+    }
   ]
 }

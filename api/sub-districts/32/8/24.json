@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cileuya",
-    "Margamukti",
-    "Gunungsari",
-    "Cimahi",
-    "Kananga",
-    "Cikeusal",
-    "Mekarjaya",
-    "Sukajaya",
-    "Mulyajaya",
-    "Cimulya"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cileuya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Margamukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cimahi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kananga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikeusal"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mulyajaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cimulya"
+    }
   ]
 }

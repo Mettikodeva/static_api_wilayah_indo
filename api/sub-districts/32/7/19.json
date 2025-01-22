@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pamarican",
-    "Sidamulih",
-    "Kertahayu",
-    "Sukamukti",
-    "Bangunsari",
-    "Neglasari",
-    "Bantarsari",
-    "Margajaya",
-    "Sukajaya",
-    "Sukahurip",
-    "Sukajadi",
-    "Sidaharja",
-    "Pasirnagara",
-    "Mekarmulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pamarican"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidamulih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertahayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangunsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bantarsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Margajaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukahurip"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidaharja"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasirnagara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekarmulya"
+    }
   ]
 }

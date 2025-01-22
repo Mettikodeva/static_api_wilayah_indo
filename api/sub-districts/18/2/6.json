@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Nunggal Rejo",
-    "Badran Sari",
-    "Sri Sawahan",
-    "Toto Katon",
-    "Tanggul Angin",
-    "Ngesti Rahayu",
-    "Mojopahit (Mojo Pahit)",
-    "Asto Mulyo",
-    "Sido Mulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nunggal Rejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Badran Sari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sri Sawahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Toto Katon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanggul Angin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngesti Rahayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mojopahit (Mojo Pahit)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Asto Mulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sido Mulyo"
+    }
   ]
 }

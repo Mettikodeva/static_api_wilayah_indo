@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Maruwai (Maruway)",
-    "Meukisi",
-    "Endokisi",
-    "Buseryo",
-    "Senamay (Snamay)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maruwai (Maruway)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meukisi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Endokisi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buseryo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Senamay (Snamay)"
+    }
   ]
 }

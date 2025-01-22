@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Talun",
-    "Kamulan",
-    "Bajang",
-    "Kaweron",
-    "Tumpang",
-    "Kendalrejo",
-    "Pasirharjo",
-    "Jeblog",
-    "Jabung",
-    "Bendosewu",
-    "Wonorejo",
-    "Duren",
-    "Sragi",
-    "Jajar"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Talun"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kamulan"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bajang"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kaweron"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kendalrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasirharjo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jeblog"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jabung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bendosewu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sragi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jajar"
+    }
   ]
 }

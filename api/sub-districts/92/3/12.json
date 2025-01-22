@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Waserat",
-    "Wambar",
-    "Kotam",
-    "Kwama",
-    "Kalamanuk",
-    "Wayati Timur",
-    "Wayati",
-    "Wayati Barat",
-    "Krabelang",
-    "Wambar Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waserat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wambar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kotam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kwama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalamanuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wayati Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wayati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wayati Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Krabelang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wambar Timur"
+    }
   ]
 }

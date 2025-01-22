@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kampung Diilir",
-    "Koto Beringin",
-    "Maliki Air",
-    "Tanjung",
-    "Koto Teluk",
-    "Kampung Dalam",
-    "Simpang Tiga Rawang",
-    "Larik Kemahan",
-    "Dusun Diilir",
-    "Paling Serumpun",
-    "Koto Dian",
-    "Tanjung Muda/Mudo",
-    "Cempaka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kampung Diilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Beringin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maliki Air"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Teluk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampung Dalam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simpang Tiga Rawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Larik Kemahan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dusun Diilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paling Serumpun"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Koto Dian"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Muda/Mudo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cempaka"
+    }
   ]
 }

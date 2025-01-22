@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tirtomulyo",
-    "Parangtritis",
-    "Donotirto",
-    "Tirtosari",
-    "Tirtohargo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tirtomulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Parangtritis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Donotirto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tirtosari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tirtohargo"
+    }
   ]
 }

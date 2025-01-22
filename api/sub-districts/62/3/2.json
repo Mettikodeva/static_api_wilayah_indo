@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mambulau",
-    "Hampatung",
-    "Dahirang",
-    "Barimba",
-    "Sei/Sungai Pasah",
-    "Bakungin",
-    "Sei/Sungai Asam",
-    "Saka Batur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mambulau"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Hampatung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dahirang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Barimba"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei/Sungai Pasah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakungin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Asam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Saka Batur"
+    }
   ]
 }

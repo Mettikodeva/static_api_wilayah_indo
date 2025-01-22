@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sepang",
-    "Tista",
-    "Bongancina",
-    "Pucaksari",
-    "Telaga",
-    "Titab",
-    "Subuk",
-    "Tinggarsari",
-    "Kedia (Kedis)",
-    "Kekeran",
-    "Busungbiu",
-    "Pelapuan",
-    "Bengkel",
-    "Umejero",
-    "Sepang Kelod"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tista"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bongancina"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pucaksari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Telaga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Titab"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Subuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tinggarsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kedia (Kedis)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kekeran"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Busungbiu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pelapuan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bengkel"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Umejero"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sepang Kelod"
+    }
   ]
 }

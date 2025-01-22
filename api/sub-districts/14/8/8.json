@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bunga Raya",
-    "Jati Baru",
-    "Jayapura (Jaya Pura)",
-    "Kemuning Muda",
-    "Buatan/Buantan Lestari",
-    "Tuah Indrapura",
-    "Langsat Permai",
-    "Temusai",
-    "Dayang Suri (Dayangsuri)",
-    "Suak Merambai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunga Raya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jati Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jayapura (Jaya Pura)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kemuning Muda"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Buatan/Buantan Lestari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tuah Indrapura"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Langsat Permai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Temusai"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dayang Suri (Dayangsuri)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Suak Merambai"
+    }
   ]
 }

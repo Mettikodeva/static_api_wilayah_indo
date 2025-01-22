@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Temiang",
-    "Taba Renah / Rena",
-    "Kerta Pati",
-    "Pagar Jati",
-    "Karang Are",
-    "Datar Penokot / Penokat",
-    "Layang Lekat",
-    "Tumbuk",
-    "Talang Curup",
-    "Rena Kandis",
-    "Arga Indah I",
-    "Keroya",
-    "Kerta Pati Mudik",
-    "Rena Jaya"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Temiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Taba Renah / Rena"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kerta Pati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pagar Jati"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karang Are"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Datar Penokot / Penokat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Layang Lekat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tumbuk"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Talang Curup"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rena Kandis"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Arga Indah I"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Keroya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kerta Pati Mudik"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Rena Jaya"
+    }
   ]
 }

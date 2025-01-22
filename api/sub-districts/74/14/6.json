@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Watulea",
-    "Bombonawulu",
-    "Bantea",
-    "Lakapera",
-    "Walando",
-    "Waliko",
-    "Wakea Kea",
-    "Rahia",
-    "Wadiabero",
-    "Kolowa",
-    "Kamama Mekar",
-    "Lowu Lowu"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Watulea"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bombonawulu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bantea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lakapera"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Walando"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waliko"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wakea Kea"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rahia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wadiabero"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kolowa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kamama Mekar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lowu Lowu"
+    }
   ]
 }

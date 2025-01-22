@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Air Duku",
-    "Cawang Baru",
-    "Simpang Nangka",
-    "Air Putih Kali Bandung",
-    "Air Meles Atas",
-    "Sambirejo",
-    "Suban Ayam",
-    "Cawang Lama",
-    "Sumber Urip",
-    "Sumber Bening",
-    "Karang Jaya",
-    "Kayu Manis",
-    "Kampung Baru",
-    "Kali Padang"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Air Duku"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cawang Baru"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Simpang Nangka"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Air Putih Kali Bandung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Meles Atas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suban Ayam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cawang Lama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Urip"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber Bening"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karang Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kayu Manis"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kali Padang"
+    }
   ]
 }

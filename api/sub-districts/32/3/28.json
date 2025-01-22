@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cipanas",
-    "Cimacan",
-    "Ciloto",
-    "Sindanglaya",
-    "Batulawang",
-    "Palasari",
-    "Sindangjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipanas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimacan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciloto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindanglaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batulawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sindangjaya"
+    }
   ]
 }

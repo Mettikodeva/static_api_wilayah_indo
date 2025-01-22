@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kaonda",
-    "Windesi",
-    "Munggui",
-    "Karawi",
-    "Asai",
-    "Rosbori",
-    "Waisani",
-    "Saruman",
-    "Aryobu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaonda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Windesi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Munggui"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Asai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rosbori"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waisani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Saruman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aryobu"
+    }
   ]
 }

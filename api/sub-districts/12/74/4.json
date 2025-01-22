@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sei Merbau",
-    "Pematang Pasir",
-    "Perjuangan",
-    "Kapias Pulau Buaya",
-    "Beting Kwala/Kuala Kapias"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sei Merbau"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pematang Pasir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Perjuangan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kapias Pulau Buaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Beting Kwala/Kuala Kapias"
+    }
   ]
 }

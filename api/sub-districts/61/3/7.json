@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Balai Karangan",
-    "Pengadang",
-    "Sotok",
-    "Kenaman",
-    "Raut Muara",
-    "Engkahan",
-    "Bungkang",
-    "Lubuk Sabuk",
-    "Sei/Sungai Tekam",
-    "Melenggang (Malenggang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balai Karangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pengadang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sotok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenaman"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Raut Muara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Engkahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bungkang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Sabuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Tekam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Melenggang (Malenggang)"
+    }
   ]
 }

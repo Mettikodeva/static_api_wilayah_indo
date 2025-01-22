@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tarlawi",
-    "Ntori",
-    "Maria",
-    "Pesa",
-    "Raba",
-    "Kambilo",
-    "Maria Utara",
-    "Kombo",
-    "Rianmau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tarlawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ntori"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maria"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pesa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Raba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kambilo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Maria Utara"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kombo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rianmau"
+    }
   ]
 }

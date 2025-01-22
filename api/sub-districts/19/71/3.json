@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pasir Garam",
-    "Lontong Pancur",
-    "Ketapang",
-    "Ampui",
-    "Rejo Sari (Rejosari)"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasir Garam"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lontong Pancur"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ampui"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    }
   ]
 }

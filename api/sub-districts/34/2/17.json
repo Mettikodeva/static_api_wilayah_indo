@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Argodadi",
-    "Argorejo",
-    "Argosari",
-    "Argomulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Argodadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Argorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Argosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Argomulyo"
+    }
   ]
 }

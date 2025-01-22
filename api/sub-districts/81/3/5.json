@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lelingluan",
-    "Ritabel",
-    "Ridool",
-    "Watidal",
-    "Kilobar (Keliober)",
-    "Kelaan",
-    "Lamdesar Barat",
-    "Lamdesar Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lelingluan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ritabel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ridool"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watidal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kilobar (Keliober)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelaan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lamdesar Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamdesar Timur"
+    }
   ]
 }

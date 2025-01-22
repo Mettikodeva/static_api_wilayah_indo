@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kemiri",
-    "Janjangwulung (Jangjangwulung)",
-    "Palangsari (Palang Sari)",
-    "Puspo",
-    "Jimbaran",
-    "Pusung Malang",
-    "Keduwung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Janjangwulung (Jangjangwulung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palangsari (Palang Sari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Puspo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jimbaran"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pusung Malang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keduwung"
+    }
   ]
 }

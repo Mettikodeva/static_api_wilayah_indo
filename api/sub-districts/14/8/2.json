@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sungai Apit",
-    "Teluk Lanus",
-    "Tanjung Kuras",
-    "Parit I/II",
-    "Teluk Mesjid",
-    "Sungai Kayu Ara",
-    "Lalang",
-    "Mengkapan",
-    "Sungai Rawa",
-    "Penyengat",
-    "Teluk Batil",
-    "Bungsur (Bunsur)",
-    "Harapan",
-    "Kayu Ara Permai",
-    "Rawa Mekar Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Apit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Teluk Lanus"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Kuras"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parit I/II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Mesjid"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Kayu Ara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lalang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mengkapan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Rawa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Penyengat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Teluk Batil"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bungsur (Bunsur)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Harapan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kayu Ara Permai"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Rawa Mekar Jaya"
+    }
   ]
 }

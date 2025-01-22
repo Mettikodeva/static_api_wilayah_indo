@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Banyurejo (Banyu Rejo)",
-    "Tambakrejo (Tambak Rejo)",
-    "Sumberrejo (Sumber Rejo)",
-    "Pondokrejo (Pondok Rejo)",
-    "Mororejo (Moro Rejo)",
-    "Margorejo (Margo Rejo)",
-    "Lumbungrejo (Lumbung Rejo)",
-    "Merdikorejo (Merdiko Rejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyurejo (Banyu Rejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tambakrejo (Tambak Rejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberrejo (Sumber Rejo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pondokrejo (Pondok Rejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mororejo (Moro Rejo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margorejo (Margo Rejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lumbungrejo (Lumbung Rejo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Merdikorejo (Merdiko Rejo)"
+    }
   ]
 }

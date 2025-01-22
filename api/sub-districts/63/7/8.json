@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sumanggi Semerang / Seberang",
-    "Sumanggi",
-    "Ilung",
-    "Maringgit",
-    "Telang",
-    "Labunganak",
-    "Hapingin",
-    "Dangu",
-    "Ilung Tengah",
-    "Haur Gading",
-    "Awang",
-    "Awang Baru",
-    "Muara Rintis",
-    "Ilung Pasar Lama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumanggi Semerang / Seberang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumanggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ilung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maringgit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Telang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Labunganak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hapingin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dangu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ilung Tengah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Haur Gading"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Awang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Awang Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Muara Rintis"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ilung Pasar Lama"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Gadingsari",
-    "Sumber Waru (Sumberwaru)",
-    "Kembangan",
-    "Baratan",
-    "Binakal",
-    "Jeruksoksok",
-    "Sumber Tengah (Sumbertengah)",
-    "Bendelan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gadingsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Waru (Sumberwaru)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kembangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baratan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binakal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jeruksoksok"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Tengah (Sumbertengah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bendelan"
+    }
   ]
 }

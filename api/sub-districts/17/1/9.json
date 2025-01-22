@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Batu Panco",
-    "Batu Kuning",
-    "Bandar Agung",
-    "Merambung",
-    "Simpang Pino",
-    "Talang Tinggi",
-    "Keban Jati",
-    "Lubuk Tapi",
-    "Kayu Ajaran",
-    "Air Tenam Dalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Panco"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Kuning"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Merambung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpang Pino"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Tinggi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keban Jati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Tapi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kayu Ajaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Air Tenam Dalam"
+    }
   ]
 }

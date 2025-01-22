@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Saring Sungai Bubu",
-    "Saring Sungai Binjai",
-    "Sepunggur",
-    "Serdangan",
-    "Satiung",
-    "Api-Api",
-    "Pakatellu",
-    "Manurung",
-    "Batarang",
-    "Mekar Jaya",
-    "Pulau Tanjung",
-    "UPT Karya Bakti (Karya Bhakti)",
-    "Salimuran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saring Sungai Bubu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Saring Sungai Binjai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sepunggur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Serdangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Satiung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Api-Api"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pakatellu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manurung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batarang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulau Tanjung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "UPT Karya Bakti (Karya Bhakti)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Salimuran"
+    }
   ]
 }

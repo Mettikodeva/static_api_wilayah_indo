@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kambowa",
-    "Bubu",
-    "Lahumoko (Lahamoko Jaya)",
-    "Morindino",
-    "Pongkowulu (Pongkawulu)",
-    "Lagundi",
-    "Konde (Kondo)",
-    "Mata",
-    "Bubu Barat",
-    "Bente",
-    "Baluara"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kambowa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bubu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lahumoko (Lahamoko Jaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Morindino"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pongkowulu (Pongkawulu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lagundi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Konde (Kondo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bubu Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bente"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baluara"
+    }
   ]
 }

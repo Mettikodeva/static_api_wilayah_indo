@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Hutaraja",
-    "Muara Manompas",
-    "Muara Ampolu",
-    "Bandar Hapinis",
-    "Pardamean",
-    "Tarapung Raya",
-    "Muara Opu (Muara Upu)",
-    "Simarlelan",
-    "Muara Huta Raja"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Hutaraja"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Muara Manompas"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Muara Ampolu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandar Hapinis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pardamean"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tarapung Raya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Opu (Muara Upu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simarlelan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Muara Huta Raja"
+    }
   ]
 }

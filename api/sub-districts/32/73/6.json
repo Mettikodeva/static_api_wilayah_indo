@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Husen Sastranegara",
-    "Arjuna",
-    "Pajajaran",
-    "Pasir Kaliki",
-    "Pamoyanan",
-    "Sukaraja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Husen Sastranegara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Arjuna"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pajajaran"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pasir Kaliki"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pamoyanan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sukaraja"
+    }
   ]
 }

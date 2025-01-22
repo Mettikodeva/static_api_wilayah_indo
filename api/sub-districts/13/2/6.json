@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Batu Banyak",
-    "Batu Bajanjang",
-    "Koto Laweh",
-    "Limau Lunggo",
-    "Koto Gadang Koto Anau (Koto Anau)",
-    "Selayo Tanang B. Sileh (Salayo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Banyak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Bajanjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koto Laweh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Limau Lunggo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Gadang Koto Anau (Koto Anau)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Selayo Tanang B. Sileh (Salayo)"
+    }
   ]
 }

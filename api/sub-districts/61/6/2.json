@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Teluk Sindur",
-    "Bika",
-    "Jelemuk",
-    "Bika Hulu",
-    "Nanga Manday",
-    "Melapi Manday",
-    "Penyeluang",
-    "Jongkong Manday"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teluk Sindur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bika"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jelemuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bika Hulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nanga Manday"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Melapi Manday"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Penyeluang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jongkong Manday"
+    }
   ]
 }

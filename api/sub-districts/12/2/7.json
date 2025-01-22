@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Silosung",
-    "Dolok Sanggul",
-    "Simangumban Jae",
-    "Aek Nabara",
-    "Dolok Saut",
-    "Simangumban Julu",
-    "Lobu Sihim",
-    "Pardomuan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silosung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dolok Sanggul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simangumban Jae"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aek Nabara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dolok Saut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simangumban Julu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lobu Sihim"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pardomuan"
+    }
   ]
 }

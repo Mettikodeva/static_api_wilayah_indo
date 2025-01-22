@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Malino",
-    "Buluttana (Bulutana)",
-    "Gantarang",
-    "Pattapang",
-    "Bonto Lerung",
-    "Garassi",
-    "Parigi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Malino"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Buluttana (Bulutana)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gantarang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Pattapang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bonto Lerung"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Garassi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parigi"
+    }
   ]
 }

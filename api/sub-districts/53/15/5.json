@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Wae Kelambu",
-    "Labuan Bajo",
-    "Komodo",
-    "Pasir Putih",
-    "Pasir Panjang",
-    "Golo Mori",
-    "Warloka",
-    "Golo Bilas",
-    "Macang Tanggar",
-    "Watu Nggelek",
-    "Golo Pongkor",
-    "Nggorang",
-    "Papa Garang",
-    "Batu Cermin",
-    "Gorontalo",
-    "Tiwu Nampar",
-    "Seraya Marannu",
-    "Compang Longgo",
-    "Pantar"
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Wae Kelambu"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Labuan Bajo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Komodo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasir Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Golo Mori"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Warloka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Golo Bilas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Macang Tanggar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Watu Nggelek"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Golo Pongkor"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Nggorang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Papa Garang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Batu Cermin"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Gorontalo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tiwu Nampar"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Seraya Marannu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Compang Longgo"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Pantar"
+    }
   ]
 }

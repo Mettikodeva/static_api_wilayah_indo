@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Margasari Hulu (Margasari Ulu)",
-    "Candi Laras",
-    "Baringin A",
-    "Marampiau",
-    "Pabaungan Hilir",
-    "Pabaungan Hulu",
-    "Sei/Sungai Rutas",
-    "Baringin B",
-    "Marampiau Hilir",
-    "Sei/Sungai Rutas Hulu",
-    "Baulin",
-    "Pabaungan Pantai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Margasari Hulu (Margasari Ulu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Candi Laras"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baringin A"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marampiau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pabaungan Hilir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pabaungan Hulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Rutas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Baringin B"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marampiau Hilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei/Sungai Rutas Hulu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baulin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pabaungan Pantai"
+    }
   ]
 }

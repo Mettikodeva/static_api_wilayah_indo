@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Pakis",
-    "Banyusidi",
-    "Losari",
-    "Daseh",
-    "Gumelem",
-    "Kaponan",
-    "Kragilan",
-    "Ketundan",
-    "Daleman Kidul",
-    "Petung",
-    "Bawang",
-    "Rejosari",
-    "Kajangkoso",
-    "Munengwarangan (Muneng Warangan)",
-    "Gondangsari",
-    "Kenalan",
-    "Pogalan",
-    "Gejagan",
-    "Muneng",
-    "Jambewangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banyusidi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Losari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Daseh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gumelem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaponan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kragilan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketundan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Daleman Kidul"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Petung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bawang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kajangkoso"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Munengwarangan (Muneng Warangan)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gondangsari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kenalan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pogalan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gejagan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Muneng"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Jambewangi"
+    }
   ]
 }

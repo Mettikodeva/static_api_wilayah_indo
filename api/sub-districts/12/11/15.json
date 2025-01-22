@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Panji Dabutar (Bako)",
-    "Sitinjo",
-    "Sitinjo I",
-    "Sitinjo II"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panji Dabutar (Bako)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sitinjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sitinjo I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sitinjo II"
+    }
   ]
 }

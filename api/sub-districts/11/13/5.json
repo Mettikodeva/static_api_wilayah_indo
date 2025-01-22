@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pining (Pinding)",
-    "Pertik",
-    "Ekan",
-    "Uring",
-    "Gajah",
-    "Pintu Rime",
-    "Pepelah",
-    "Pasir Putih",
-    "Lesten"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pining (Pinding)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pertik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ekan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Uring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gajah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pintu Rime"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pepelah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lesten"
+    }
   ]
 }

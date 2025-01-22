@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Woitombo",
-    "Inebenggi",
-    "Horodopi",
-    "Nelombu",
-    "Watupute",
-    "Puosu",
-    "Ulu Mowewe",
-    "Lapangisi",
-    "Sabi-sabila",
-    "Lambo Tua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Woitombo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Inebenggi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Horodopi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nelombu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watupute"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Puosu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ulu Mowewe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lapangisi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sabi-sabila"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lambo Tua"
+    }
   ]
 }

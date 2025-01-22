@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Palangga",
-    "Wapunto",
-    "Ghonsuma (Ghonsume)",
-    "Lagasa",
-    "Ghone Bhalano",
-    "Lasunapa",
-    "Banggai"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Palangga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wapunto"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ghonsuma (Ghonsume)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lagasa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ghone Bhalano"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lasunapa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banggai"
+    }
   ]
 }

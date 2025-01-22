@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Jumo",
-    "Jamusan",
-    "Kertosari",
-    "Giyono",
-    "Gununggempol (Gunung Gempol)",
-    "Padureso",
-    "Barang",
-    "Jombor",
-    "Ketitang",
-    "Morobongo",
-    "Karangtejo",
-    "Sukomarto",
-    "Gedongsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jumo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jamusan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Giyono"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gununggempol (Gunung Gempol)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Padureso"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Barang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jombor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ketitang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Morobongo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karangtejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukomarto"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gedongsari"
+    }
   ]
 }

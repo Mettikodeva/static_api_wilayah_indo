@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Moyongkota",
-    "Bangunan Wuwuk",
-    "Bangkudai Barat (Bongkudai Barat)",
-    "Bongkudai",
-    "Moyongkota Baru",
-    "Moonow",
-    "Inaton",
-    "Bangunan Wuwuk Timur",
-    "Pinonobatuan",
-    "Tangaton"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Moyongkota"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangunan Wuwuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangkudai Barat (Bongkudai Barat)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bongkudai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Moyongkota Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Moonow"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Inaton"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangunan Wuwuk Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pinonobatuan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tangaton"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tri Rejo Mulyo",
-    "Tri Jaya",
-    "Sidoharjo",
-    "Sidomulyo",
-    "Bogatama (Boga Tama)",
-    "Wiratama",
-    "Tri Tunggal Jaya",
-    "Pulo Gadung",
-    "Sidodadi",
-    "Dwimulyo (Dwi Mulyo)",
-    "Rejo Sari (Rejosari)",
-    "Wira Agung Sari (Wiraagung Sari)",
-    "Sidomakmur",
-    "Trikarya (Tri Karya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tri Rejo Mulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tri Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bogatama (Boga Tama)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wiratama"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tri Tunggal Jaya"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pulo Gadung"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Dwimulyo (Dwi Mulyo)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Wira Agung Sari (Wiraagung Sari)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sidomakmur"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Trikarya (Tri Karya)"
+    }
   ]
 }

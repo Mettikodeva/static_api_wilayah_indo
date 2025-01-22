@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjung Selor Ulu/Hulu",
-    "Tanjung Selor Ilir/Hilir",
-    "Tanjung Selor Timur",
-    "Jelarai Selor",
-    "Gunung Seriang",
-    "Bumi Rahayu",
-    "Gunung Sari",
-    "Apung",
-    "Tengkapak"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Selor Ulu/Hulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Selor Ilir/Hilir"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tanjung Selor Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jelarai Selor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Seriang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Rahayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Apung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tengkapak"
+    }
   ]
 }

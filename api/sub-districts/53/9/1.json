@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Aimere",
-    "Foa",
-    "Keligejo",
-    "Aimere Timur",
-    "Heawea",
-    "Legelapu",
-    "Lekogoko (Lekogoku)",
-    "Binawali",
-    "Kila",
-    "Waesae",
-    "Mawwo Kisa"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Aimere"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Foa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keligejo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Aimere Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Heawea"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Legelapu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lekogoko (Lekogoku)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Binawali"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kila"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Waesae"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Mawwo Kisa"
+    }
   ]
 }

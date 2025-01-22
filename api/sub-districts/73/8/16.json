@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Maccope",
-    "Carebbu",
-    "Cumpiga",
-    "Paccing",
-    "Lattekko (Lettekko)",
-    "Matuju",
-    "Unra",
-    "Kading",
-    "Mallari",
-    "Kajuara",
-    "Jaling",
-    "Bulumpare'e (Bulumparee)",
-    "Abbanuang",
-    "Lappoase (Lappo Ase)",
-    "Awolagading (Awo Lagading)",
-    "Carigading (Cari Gading)",
-    "Cakkebone (Cakke Bone)",
-    "Mappalo Ulaweng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Maccope"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Carebbu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cumpiga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Paccing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lattekko (Lettekko)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Matuju"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Unra"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kading"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mallari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kajuara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jaling"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bulumpare'e (Bulumparee)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Abbanuang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lappoase (Lappo Ase)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Awolagading (Awo Lagading)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Carigading (Cari Gading)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Cakkebone (Cakke Bone)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mappalo Ulaweng"
+    }
   ]
 }

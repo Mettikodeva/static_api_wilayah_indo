@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bantargadung",
-    "Mangunjaya",
-    "Bojonggaling",
-    "Limusnunggal",
-    "Bantargebang",
-    "Buanajaya",
-    "Boyong Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bantargadung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangunjaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojonggaling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Limusnunggal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bantargebang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buanajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Boyong Sari"
+    }
   ]
 }

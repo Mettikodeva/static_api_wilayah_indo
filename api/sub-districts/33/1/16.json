@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Panulisan",
-    "Matenggeng",
-    "Ciwalen",
-    "Dayeuhluhur",
-    "Hanum",
-    "Datar",
-    "Bingkeng",
-    "Bolang",
-    "Kutaagung",
-    "Cijeruk",
-    "Cilumping",
-    "Sumpinghayu",
-    "Panulisan Barat",
-    "Panulisan Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panulisan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matenggeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciwalen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dayeuhluhur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hanum"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Datar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bingkeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bolang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kutaagung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cijeruk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cilumping"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumpinghayu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Panulisan Barat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Panulisan Timur"
+    }
   ]
 }

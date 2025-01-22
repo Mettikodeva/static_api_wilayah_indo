@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "19 Nopember",
-    "Wundulako",
-    "Lamekongga",
-    "Kowioha",
-    "Silea",
-    "Ngapa",
-    "Towua (Towua I)",
-    "Bende",
-    "Unamendaa (Una Mendaa)",
-    "Tikonu",
-    "Sabiona (Sabiano)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "19 Nopember"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wundulako"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lamekongga"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kowioha"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Silea"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Ngapa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Towua (Towua I)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bende"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Unamendaa (Una Mendaa)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tikonu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sabiona (Sabiano)"
+    }
   ]
 }

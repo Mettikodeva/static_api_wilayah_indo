@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Giripurno",
-    "Giritengah",
-    "Tuksongo",
-    "Majaksingi",
-    "Kenalan",
-    "Bigaran",
-    "Sambeng",
-    "Candirejo",
-    "Ngargogondo",
-    "Wanurejo",
-    "Borobudur",
-    "Tanjungsari",
-    "Karanganyar",
-    "Karangrejo",
-    "Ngadiharjo",
-    "Kebonsari",
-    "Tegalarum",
-    "Kembanglimus",
-    "Wringinputih",
-    "Bumiharjo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Giripurno"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Giritengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tuksongo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Majaksingi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kenalan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bigaran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Candirejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ngargogondo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wanurejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Borobudur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ngadiharjo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tegalarum"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kembanglimus"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wringinputih"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bumiharjo"
+    }
   ]
 }

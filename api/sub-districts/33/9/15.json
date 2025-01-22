@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kalangan",
-    "Sendangrejo",
-    "Tanjung",
-    "Jaten",
-    "Blumbang",
-    "Sangge",
-    "Banyuurip (Banyu Urip)",
-    "Bade",
-    "Klego",
-    "Gondanglegi",
-    "Karanggatak",
-    "Sumberagung (Sumber Agung)",
-    "Karangmojo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sendangrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jaten"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blumbang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sangge"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banyuurip (Banyu Urip)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bade"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klego"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gondanglegi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karanggatak"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sumberagung (Sumber Agung)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karangmojo"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Isim",
-    "Duhugesa",
-    "Tubes",
-    "Umuhousi (Umousi)",
-    "Tahosta (Tohosta)",
-    "Hugamod (Hugomot)",
-    "Disihu (Dihisu)",
-    "Inyuara",
-    "Disra (Desra)",
-    "Mindermes",
-    "Sibjo",
-    "Dibera"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Isim"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Duhugesa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tubes"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Umuhousi (Umousi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tahosta (Tohosta)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hugamod (Hugomot)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Disihu (Dihisu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Inyuara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Disra (Desra)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mindermes"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sibjo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dibera"
+    }
   ]
 }

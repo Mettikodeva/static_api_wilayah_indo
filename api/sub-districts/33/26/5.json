@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mesoyi",
-    "Jolotigo",
-    "Sengare",
-    "Donowangun",
-    "Talun",
-    "Banjarsari",
-    "Kalirejo",
-    "Batursari",
-    "Karangasem",
-    "Krompeng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mesoyi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jolotigo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sengare"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Donowangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batursari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangasem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Krompeng"
+    }
   ]
 }

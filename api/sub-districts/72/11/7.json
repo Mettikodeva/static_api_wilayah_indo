@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Adean",
-    "Badumpayan",
-    "Timbong",
-    "Mominit",
-    "Gonggong",
-    "Monsongan",
-    "Tintingo",
-    "Pososlalongo (Posos Lalongo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Adean"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Badumpayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timbong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mominit"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gonggong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Monsongan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tintingo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pososlalongo (Posos Lalongo)"
+    }
   ]
 }

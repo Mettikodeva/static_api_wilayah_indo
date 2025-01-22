@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sampeantaba",
-    "Emea",
-    "Moahino",
-    "Solonsa",
-    "Lantula Jaya",
-    "Puntari Makmur",
-    "Bumi Harapan",
-    "Solonsa Jaya",
-    "Ungkaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sampeantaba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Emea"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Moahino"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Solonsa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lantula Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Puntari Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumi Harapan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Solonsa Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ungkaya"
+    }
   ]
 }

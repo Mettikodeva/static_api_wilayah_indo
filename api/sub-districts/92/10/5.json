@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kambufatem",
-    "Kambufatem Utara",
-    "Fatase",
-    "Hosyo Ata",
-    "Waybomatah",
-    "Siyo",
-    "Hasweh",
-    "Fatem",
-    "Hosyo Banah (Hosiobanah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kambufatem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kambufatem Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fatase"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hosyo Ata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waybomatah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siyo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hasweh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Fatem"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hosyo Banah (Hosiobanah)"
+    }
   ]
 }

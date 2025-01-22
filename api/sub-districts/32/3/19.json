@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tanggeung",
-    "Rawagede",
-    "Cilongsong",
-    "Margaluyu",
-    "Karangtengah",
-    "Pagermaneuh",
-    "Bojongpetir",
-    "Pasirjambu",
-    "Sirnajaya",
-    "Kertajaya",
-    "Sukajaya",
-    "Padaluyu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanggeung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rawagede"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cilongsong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagermaneuh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bojongpetir"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasirjambu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirnajaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Padaluyu"
+    }
   ]
 }

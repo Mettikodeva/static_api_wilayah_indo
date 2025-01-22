@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kebokura",
-    "Sumpiuh",
-    "Kradenan",
-    "Nusadadi",
-    "Selandaka",
-    "Karanggedang",
-    "Kemiri",
-    "Pandak",
-    "Kuntili",
-    "Lebeng",
-    "Selanegara",
-    "Bogangin",
-    "Banjarpanepen",
-    "Ketanda"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kebokura"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sumpiuh"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Kradenan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nusadadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Selandaka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karanggedang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pandak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuntili"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lebeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selanegara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bogangin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banjarpanepen"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketanda"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Ngemplak Simongan",
-    "Manyaran",
-    "Krapyak",
-    "Tambakharjo (Tambak Harjo)",
-    "Kalibanteng Kulon",
-    "Kalibanteng Kidul",
-    "Gisikdrono",
-    "Bongsari",
-    "Bojongsalaman",
-    "Salamanmloyo",
-    "Cabean",
-    "Karangayu (Karang Ayu)",
-    "Krobokan",
-    "Tawangsari",
-    "Tawangmas",
-    "Kembangarum"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ngemplak Simongan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Manyaran"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Krapyak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tambakharjo (Tambak Harjo)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kalibanteng Kulon"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kalibanteng Kidul"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Gisikdrono"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bongsari"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bojongsalaman"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Salamanmloyo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Cabean"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Karangayu (Karang Ayu)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Krobokan"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tawangsari"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Tawangmas"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Kembangarum"
+    }
   ]
 }

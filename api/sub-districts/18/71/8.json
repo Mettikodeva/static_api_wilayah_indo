@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Bakung",
-    "Kuripan",
-    "Negeri Olok Gading",
-    "Sukarame II",
-    "Batu Putuk"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Negeri Olok Gading"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sukarame II"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Batu Putuk"
+    }
   ]
 }

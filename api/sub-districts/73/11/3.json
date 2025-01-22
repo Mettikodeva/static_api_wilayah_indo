@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Coppo",
-    "Mangempang",
-    "Sumpang Binangae",
-    "Sepee",
-    "Tuwung",
-    "Palakka",
-    "Tompo",
-    "Anabanua",
-    "Galung",
-    "Siawung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Coppo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mangempang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sumpang Binangae"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sepee"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tuwung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palakka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tompo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Anabanua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Galung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siawung"
+    }
   ]
 }

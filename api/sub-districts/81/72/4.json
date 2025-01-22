@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tubyal",
-    "Kaimear",
-    "Lokwirin",
-    "Finualen",
-    "Sermaf"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tubyal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaimear"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lokwirin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Finualen"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sermaf"
+    }
   ]
 }

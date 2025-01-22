@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Yubiah",
-    "Karetubun",
-    "Setta",
-    "Hohoyor",
-    "Arne",
-    "Aus Tiwit",
-    "Johafah",
-    "Yukase",
-    "Serma",
-    "Kfaa",
-    "Arne Timur",
-    "Nauwita"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yubiah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karetubun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Setta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hohoyor"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Arne"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aus Tiwit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Johafah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yukase"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Serma"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kfaa"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Arne Timur"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Nauwita"
+    }
   ]
 }

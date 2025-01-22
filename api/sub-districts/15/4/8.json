@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Terusan (Kelurahan Terusan)",
-    "Bulian Jaya",
-    "Tidar Kuranji",
-    "Kehidupan Baru",
-    "Bukit Sari",
-    "Karya Mukti",
-    "Terusan",
-    "Danau Embat"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Terusan (Kelurahan Terusan)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bulian Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tidar Kuranji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kehidupan Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukit Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karya Mukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Terusan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Danau Embat"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Banua Lawas",
-    "Kelua (Klua)",
-    "Tanta",
-    "Tanjung",
-    "Haruai",
-    "Murung Pudak",
-    "Muara Uya",
-    "Muara Harus",
-    "Pugaan",
-    "Upau",
-    "Jaro",
-    "Bintang Ara"
+    {
+      "district_id": 1,
+      "kecamatan": "Banua Lawas"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kelua (Klua)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tanta"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tanjung"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Haruai"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Murung Pudak"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Muara Uya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Muara Harus"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pugaan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Upau"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Jaro"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bintang Ara"
+    }
   ]
 }

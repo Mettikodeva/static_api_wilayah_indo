@@ -1,25 +1,88 @@
 {
   "sub_districts": [
-    "Megang Sakti I",
-    "Talang Ubi",
-    "Muara Megang",
-    "Megang Sakti II",
-    "Megang Sakti III",
-    "Megang Sakti IV",
-    "Jajaran Baru",
-    "Sumber Rejo",
-    "Rejo Sari (Rejosari)",
-    "Mekar Sari (Mekarsari)",
-    "Campur Sari",
-    "Tegal Sari",
-    "Marga Puspita",
-    "Megang Sakti V",
-    "Pagar Ayu",
-    "Karya Mulia",
-    "Wonosari",
-    "Trisakti",
-    "Jajaran Baru II",
-    "Muara Megang I",
-    "Mulyo Sari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Megang Sakti I"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Talang Ubi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Megang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Megang Sakti II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Megang Sakti III"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Megang Sakti IV"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jajaran Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mekar Sari (Mekarsari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Campur Sari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tegal Sari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Marga Puspita"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Megang Sakti V"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pagar Ayu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karya Mulia"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Trisakti"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jajaran Baru II"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Muara Megang I"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Mulyo Sari"
+    }
   ]
 }

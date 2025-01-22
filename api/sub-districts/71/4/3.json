@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Alo",
-    "Nunu",
-    "Rainis",
-    "Bantane",
-    "Tabang",
-    "Parangen",
-    "Bantane Utara",
-    "Tabang Barat",
-    "Nunu Utara",
-    "Rainis Batupenga (Rainis Baru Penga)",
-    "Alo Utara"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nunu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rainis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bantane"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tabang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Parangen"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bantane Utara"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tabang Barat"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Nunu Utara"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Rainis Batupenga (Rainis Baru Penga)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Alo Utara"
+    }
   ]
 }

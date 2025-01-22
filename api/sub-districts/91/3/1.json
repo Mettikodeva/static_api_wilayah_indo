@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sentani Kota",
-    "Dobonsolo",
-    "Hinekombe",
-    "Sereh",
-    "Yobeh",
-    "Ifale (Ilfele)",
-    "Keheran (Kehiran)",
-    "Ifar Besar",
-    "Hobong",
-    "Yahim"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sentani Kota"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dobonsolo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Hinekombe"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sereh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yobeh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ifale (Ilfele)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keheran (Kehiran)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ifar Besar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hobong"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Yahim"
+    }
   ]
 }

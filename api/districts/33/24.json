@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Plantungan",
-    "Pageruyung (Pagerruyung)",
-    "Sukorejo",
-    "Patean",
-    "Singorojo",
-    "Limbangan",
-    "Boja",
-    "Kaliwungu",
-    "Brangsong",
-    "Pegandon",
-    "Gemuh",
-    "Weleri",
-    "Cepiring",
-    "Patebon",
-    "Kendal",
-    "Rowosari",
-    "Kangkung",
-    "Ringinarum",
-    "Ngampel",
-    "Kaliwungu Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Plantungan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pageruyung (Pagerruyung)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sukorejo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Patean"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Singorojo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Limbangan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Boja"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kaliwungu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Brangsong"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pegandon"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Gemuh"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Weleri"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Cepiring"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Patebon"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kendal"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Rowosari"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kangkung"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Ringinarum"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Ngampel"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kaliwungu Selatan"
+    }
   ]
 }

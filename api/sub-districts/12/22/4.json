@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Langga Payung",
-    "Batang Nadenggan",
-    "Sabungan",
-    "Hajoran",
-    "Ujung Gading",
-    "Huta Godang",
-    "Parimburan",
-    "Sampean",
-    "Marsonja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Langga Payung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batang Nadenggan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sabungan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hajoran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ujung Gading"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Huta Godang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parimburan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sampean"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marsonja"
+    }
   ]
 }

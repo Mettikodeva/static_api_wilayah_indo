@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tambun",
-    "Tuweley",
-    "Nalu",
-    "Baru",
-    "Panasakan",
-    "Sidoarjo",
-    "Dadakitan",
-    "Buntuna",
-    "Lelean Nono",
-    "Pangi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tambun"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tuweley"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Nalu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Panasakan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sidoarjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dadakitan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Buntuna"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lelean Nono"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pangi"
+    }
   ]
 }

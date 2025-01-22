@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Samaenre",
-    "Mattunreng Tellue",
-    "Kompang",
-    "Baru",
-    "Pattongko",
-    "Saotengnga",
-    "Saohiring",
-    "Kanrung",
-    "Saotanre",
-    "Bonto",
-    "Gantarang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Samaenre"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mattunreng Tellue"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kompang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pattongko"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saotengnga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Saohiring"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kanrung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Saotanre"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bonto"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gantarang"
+    }
   ]
 }

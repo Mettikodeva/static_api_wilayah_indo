@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sungai Buaya",
-    "Panggung Jaya",
-    "Sungai Sidang",
-    "Sidang Sido Rahayu",
-    "Sidang Way Puji",
-    "Sidang Bandar Anom",
-    "Panggung Rejo",
-    "Sidang Iso Mukti",
-    "Sidang Kurnia Agung",
-    "Telogo Rejo",
-    "Sidang Gunung Tiga",
-    "Sidang Muara Jaya",
-    "Sidang Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Buaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panggung Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Sidang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidang Sido Rahayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidang Way Puji"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidang Bandar Anom"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Panggung Rejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidang Iso Mukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidang Kurnia Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Telogo Rejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidang Gunung Tiga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidang Muara Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sidang Makmur"
+    }
   ]
 }

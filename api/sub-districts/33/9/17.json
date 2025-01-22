@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Watugede",
-    "Kedungrejo",
-    "Sarimulyo",
-    "Klewor",
-    "Bawu",
-    "Kendel",
-    "Kemusu",
-    "Genengsari",
-    "Kedungmulyo",
-    "Wonoharjo (Wanoharjo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Watugede"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sarimulyo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klewor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bawu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kendel"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kemusu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Genengsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kedungmulyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wonoharjo (Wanoharjo)"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cicau",
-    "Sukamahi",
-    "Pasiranji (Pasirpanji)",
-    "Hegarmukti",
-    "Jayamukti",
-    "Pasirtanjung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cicau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukamahi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasiranji (Pasirpanji)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hegarmukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jayamukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasirtanjung"
+    }
   ]
 }

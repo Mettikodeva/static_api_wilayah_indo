@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "1 Ulu",
-    "2 Ulu",
-    "3 / 4 Ulu (3-4 Ulu)",
-    "5 Ulu",
-    "7 Ulu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "1 Ulu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "2 Ulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "3 / 4 Ulu (3-4 Ulu)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "5 Ulu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "7 Ulu"
+    }
   ]
 }

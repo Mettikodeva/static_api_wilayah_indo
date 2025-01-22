@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kandang Limun",
-    "Bentiring",
-    "Pematang Gubernur",
-    "Rawa Makmur",
-    "Beringin Raya",
-    "Bentiring Permai",
-    "Rawa Makmur Permai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kandang Limun"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bentiring"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pematang Gubernur"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Rawa Makmur"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Beringin Raya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bentiring Permai"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Rawa Makmur Permai"
+    }
   ]
 }

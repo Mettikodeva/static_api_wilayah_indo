@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Loea",
-    "Simbalae (Simbalai)",
-    "Lamoare",
-    "Iwoikondo",
-    "Peatoa",
-    "Lalowura",
-    "Mataiwoi",
-    "Teposua",
-    "Tinomu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Loea"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Simbalae (Simbalai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamoare"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Iwoikondo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peatoa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lalowura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mataiwoi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teposua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tinomu"
+    }
   ]
 }

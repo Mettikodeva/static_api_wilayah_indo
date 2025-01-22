@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kamal",
-    "Banyuajuh (Binajuh / Banyu Ajuh)",
-    "Gili Barat",
-    "Gili Timur",
-    "Gili Anyar",
-    "Tellang (Telang)",
-    "Pendabah (Pendebeh)",
-    "Tajungan",
-    "Kebun",
-    "Tangjungjati (Tanjung Jati)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kamal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banyuajuh (Binajuh / Banyu Ajuh)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gili Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gili Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gili Anyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tellang (Telang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pendabah (Pendebeh)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tajungan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kebun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tangjungjati (Tanjung Jati)"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Tanjunganom (Tanjung Anom)",
-    "Warujayeng",
-    "Kedungombo (Kedung Ombo)",
-    "Sumberkepuh",
-    "Wates",
-    "Malangsari",
-    "Getas",
-    "Sonobekel",
-    "Ngadirejo",
-    "Banjaranyar (Banjar Anyar)",
-    "Sidoharjo",
-    "Kampungbaru",
-    "Jogomerto",
-    "Kedungrejo",
-    "Sambirejo",
-    "Demangan"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tanjunganom (Tanjung Anom)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Warujayeng"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungombo (Kedung Ombo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumberkepuh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malangsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Getas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sonobekel"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjaranyar (Banjar Anyar)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kampungbaru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jogomerto"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kedungrejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Demangan"
+    }
   ]
 }

@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Gunting",
-    "Pakukerto",
-    "Glagahsari (Glagah Sari)",
-    "Sukorejo",
-    "Karangsono",
-    "Sebandung",
-    "Dukuhsari (Dukuh Sari)",
-    "Lecari",
-    "Lemahbang",
-    "Ngadimulyo",
-    "Tanjungarum",
-    "Suwayuwo",
-    "Mojotengah",
-    "Kalirejo",
-    "Candibinangun (Candi Binangun)",
-    "Kenduruan",
-    "Sukorame",
-    "Curahrejo (Curah Rejo)",
-    "Wonokerto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunting"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pakukerto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Glagahsari (Glagah Sari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangsono"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sebandung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dukuhsari (Dukuh Sari)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lecari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lemahbang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ngadimulyo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjungarum"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suwayuwo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mojotengah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Candibinangun (Candi Binangun)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kenduruan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sukorame"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Curahrejo (Curah Rejo)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Wonokerto"
+    }
   ]
 }

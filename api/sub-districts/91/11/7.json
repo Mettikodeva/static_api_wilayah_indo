@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Towe Hitam",
-    "Towe Atas",
-    "Terfones",
-    "Tefalma (Tefanma)",
-    "Bias",
-    "Milki",
-    "Lules",
-    "Jember",
-    "Niliti",
-    "Pris"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Towe Hitam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Towe Atas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Terfones"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tefalma (Tefanma)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bias"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Milki"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lules"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jember"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Niliti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pris"
+    }
   ]
 }

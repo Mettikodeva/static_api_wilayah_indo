@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Borong",
-    "Lamba Leda Selatan (Poco Ranaka)",
-    "Lamba Leda",
-    "Sambi Rampas",
-    "Elar",
-    "Kota Komba",
-    "Rana Mese",
-    "Lamba Leda Timur (Poco Ranaka Timur)",
-    "Elar Selatan",
-    "Kota Komba Utara",
-    "Lamba Leda Utara",
-    "Congkar"
+    {
+      "district_id": 1,
+      "kecamatan": "Borong"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Lamba Leda Selatan (Poco Ranaka)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Lamba Leda"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sambi Rampas"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Elar"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kota Komba"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Rana Mese"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Lamba Leda Timur (Poco Ranaka Timur)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Elar Selatan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kota Komba Utara"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Lamba Leda Utara"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Congkar"
+    }
   ]
 }

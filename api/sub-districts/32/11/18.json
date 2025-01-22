@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kotakaler",
-    "Situ",
-    "Talun",
-    "Padasuka",
-    "Mulyasari",
-    "Girimukti",
-    "Mekarjaya",
-    "Margamukti",
-    "Sirnamulya",
-    "Kebonjati",
-    "Jatihurip",
-    "Jatimulya",
-    "Rancamulya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kotakaler"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Situ"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Talun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mulyasari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Margamukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sirnamulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kebonjati"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jatihurip"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jatimulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rancamulya"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pare",
-    "Sidorejo",
-    "Sambirejo",
-    "Gedangsewu",
-    "Sumberbendo",
-    "Darungan",
-    "Bendo",
-    "Pelem",
-    "Tulungrejo",
-    "Tertek"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pare"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gedangsewu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberbendo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Darungan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pelem"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tulungrejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tertek"
+    }
   ]
 }

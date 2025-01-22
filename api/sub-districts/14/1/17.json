@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pulau Birandang",
-    "Pulau Rambai",
-    "Kampar",
-    "Koto Perambahan",
-    "Sei/Sungai Putih",
-    "Deli Makmur",
-    "Sungaitarap (Sungai Tarap)",
-    "Tanjungbungo (Tanjung Bungo)",
-    "Sawahbaru (Sawah Baru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Birandang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulau Rambai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koto Perambahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei/Sungai Putih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Deli Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungaitarap (Sungai Tarap)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungbungo (Tanjung Bungo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sawahbaru (Sawah Baru)"
+    }
   ]
 }

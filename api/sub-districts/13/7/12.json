@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Maek",
-    "Banja Loweh (Banja Laweh)",
-    "Baruah Gunuang",
-    "Sungai Naniang",
-    "Koto Tangah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banja Loweh (Banja Laweh)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baruah Gunuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Naniang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Tangah"
+    }
   ]
 }

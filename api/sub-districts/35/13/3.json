@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Wonoasri",
-    "Jatisari",
-    "Kedawung",
-    "Karangrejo",
-    "Resongo",
-    "Menyono",
-    "Wringinanom (Wringin Anom)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonoasri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Resongo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Menyono"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wringinanom (Wringin Anom)"
+    }
   ]
 }

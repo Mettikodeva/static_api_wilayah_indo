@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kayuadi",
-    "Batang",
-    "Nyiur Indah",
-    "Tambuna",
-    "Jinato",
-    "Rajuni",
-    "Latondu",
-    "Tarupa",
-    "Khusus Pasitallu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayuadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nyiur Indah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambuna"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jinato"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rajuni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Latondu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tarupa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Khusus Pasitallu"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tarok Dipo",
-    "Bukit Cangang Kayu Ramang",
-    "Pakan Kurai",
-    "Aur Tajungkang/Tgh. Sawah",
-    "Benteng Pasar Atas",
-    "Kayu Kubu",
-    "Bukik Apik Puhun (Bukit Apit Puhun)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tarok Dipo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bukit Cangang Kayu Ramang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pakan Kurai"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Aur Tajungkang/Tgh. Sawah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Benteng Pasar Atas"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kayu Kubu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bukik Apik Puhun (Bukit Apit Puhun)"
+    }
   ]
 }

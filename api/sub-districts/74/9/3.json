@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Langgikima",
-    "Molore",
-    "Lameruru",
-    "Sarimukti",
-    "Morombo Pantai",
-    "Polora Indah",
-    "Pariama",
-    "Tobimeita",
-    "Alenggo",
-    "Mekar Jaya",
-    "Molore Pantai",
-    "Ngapa Inia"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Langgikima"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Molore"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lameruru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sarimukti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Morombo Pantai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Polora Indah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pariama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tobimeita"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Alenggo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Molore Pantai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ngapa Inia"
+    }
   ]
 }

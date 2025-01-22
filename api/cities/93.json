@@ -1,8 +1,20 @@
 {
   "cities": [
-    "Merauke",
-    "Boven Digoel",
-    "Mappi",
-    "Asmat"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Merauke"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Boven Digoel"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Mappi"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Asmat"
+    }
   ]
 }

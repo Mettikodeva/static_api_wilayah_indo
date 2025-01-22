@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Sihitang",
-    "Pijor Koling",
-    "Palopat (Pal IV) Pijor Koling",
-    "Salambue",
-    "Purbatua Pijor Koling",
-    "Sigulang",
-    "Manunggang Julu",
-    "Goti",
-    "Manegen",
-    "Huta Koje (Huta Koje Pijor Koling)",
-    "Hutalimbong (Huta Limbong)",
-    "Huta Padang",
-    "Perkebunan Pijor Koling",
-    "Labuhan Labo",
-    "Huta Lombang",
-    "Manunggang Jae",
-    "Labuhan Rasoki",
-    "Tarutung Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sihitang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pijor Koling"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Palopat (Pal IV) Pijor Koling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salambue"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Purbatua Pijor Koling"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sigulang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manunggang Julu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Goti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manegen"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Huta Koje (Huta Koje Pijor Koling)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hutalimbong (Huta Limbong)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Huta Padang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Perkebunan Pijor Koling"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Labuhan Labo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Huta Lombang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Manunggang Jae"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Labuhan Rasoki"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tarutung Baru"
+    }
   ]
 }

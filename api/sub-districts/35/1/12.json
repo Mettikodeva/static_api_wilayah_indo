@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pagerkidul (Pager Kidul)",
-    "Pagerlor (Pager Lor)",
-    "Sukorejo",
-    "Sudimoro",
-    "Ketanggung",
-    "Klepu (Kelepu)",
-    "Sembowo",
-    "Karangmulyo (Karang Mulyo)",
-    "Gunungrejo (Gunung Rejo)",
-    "Sumberejo (Sumber Rejo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagerkidul (Pager Kidul)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagerlor (Pager Lor)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sudimoro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ketanggung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Klepu (Kelepu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sembowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangmulyo (Karang Mulyo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunungrejo (Gunung Rejo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumberejo (Sumber Rejo)"
+    }
   ]
 }

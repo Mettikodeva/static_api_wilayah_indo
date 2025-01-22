@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Wonokusumo",
-    "Mangli Wetan",
-    "Taal",
-    "Mrawan",
-    "Gunung Anyar (Gununganyar)",
-    "Jurang Sapi (Jurangsapi)",
-    "Cindogo",
-    "Kalitapen",
-    "Tapen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonokusumo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mangli Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mrawan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Anyar (Gununganyar)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jurang Sapi (Jurangsapi)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cindogo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalitapen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tapen"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Baurung",
-    "Baruga",
-    "Baruga Dhua (Baruga Dua)",
-    "Labuang",
-    "Tande",
-    "Lembang",
-    "Labuang Utara",
-    "Tande Timur",
-    "Buttu Baruga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Baurung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baruga"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Baruga Dhua (Baruga Dua)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Labuang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tande"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lembang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Labuang Utara"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tande Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buttu Baruga"
+    }
   ]
 }

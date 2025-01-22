@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Cidamar",
-    "Cibuluh",
-    "Cisalak",
-    "Cimaragang",
-    "Mekarjaya",
-    "Kertajadi",
-    "Sukapura",
-    "Gelarpawitan",
-    "Karangwangi",
-    "Karyabakti",
-    "Jayapura",
-    "Neglasari",
-    "Puncakbaru",
-    "Gelarwangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cidamar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibuluh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cisalak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cimaragang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertajadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukapura"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gelarpawitan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangwangi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karyabakti"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jayapura"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Puncakbaru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gelarwangi"
+    }
   ]
 }

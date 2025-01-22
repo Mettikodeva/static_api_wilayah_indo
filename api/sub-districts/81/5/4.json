@@ -1,28 +1,100 @@
 {
   "sub_districts": [
-    "Kataloka",
-    "Amarsekaru",
-    "Ondor",
-    "Day",
-    "Mida",
-    "Loko",
-    "Sera",
-    "Kulugowa",
-    "Rumeon",
-    "Kelibingan",
-    "Ilili",
-    "Namalean",
-    "Dulak",
-    "Kilalir Kilwouw",
-    "Kilotak",
-    "Kilean",
-    "Kaforing",
-    "Arewang",
-    "Usun Kataloka",
-    "Buan Kataloka",
-    "Rumanama Kotawouw Kataloka",
-    "Sikaro Kataloka",
-    "Aroa Kataloka",
-    "Dada Kataloka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kataloka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amarsekaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ondor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Day"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mida"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Loko"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sera"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kulugowa"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Rumeon"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Kelibingan"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Ilili"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Namalean"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Dulak"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Kilalir Kilwouw"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Kilotak"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Kilean"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Kaforing"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Arewang"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Usun Kataloka"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Buan Kataloka"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Rumanama Kotawouw Kataloka"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Sikaro Kataloka"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Aroa Kataloka"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Dada Kataloka"
+    }
   ]
 }

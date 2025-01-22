@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tanjung Sangalang",
-    "Penda Barania",
-    "Bukit Rawi",
-    "Tuwung",
-    "Sigi",
-    "Petuk Liti",
-    "Bukit Liti",
-    "Bahu Palawa",
-    "Pamarunan",
-    "Balukon (Balukun)",
-    "Bukit Bamba",
-    "Tahawa",
-    "Parahangan",
-    "Bereng Rambang (Bareng Rambang)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Sangalang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Penda Barania"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Rawi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tuwung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sigi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Petuk Liti"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Liti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bahu Palawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pamarunan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balukon (Balukun)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit Bamba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tahawa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Parahangan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bereng Rambang (Bareng Rambang)"
+    }
   ]
 }

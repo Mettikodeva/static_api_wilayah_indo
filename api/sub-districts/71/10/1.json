@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kayumoyondi",
-    "Tombolikat",
-    "Tutuyan",
-    "Togid",
-    "Dodap",
-    "Dodap Pantai",
-    "Tutuyan II",
-    "Tutuyan III",
-    "Tombolikat Selatan",
-    "Dodop Mikasa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayumoyondi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tombolikat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tutuyan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Togid"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dodap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dodap Pantai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tutuyan II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tutuyan III"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tombolikat Selatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dodop Mikasa"
+    }
   ]
 }

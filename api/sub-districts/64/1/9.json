@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kerang",
-    "Lomu",
-    "Segendang",
-    "Mengkudu",
-    "Riwang",
-    "Langgai",
-    "Petangis",
-    "Tampakan",
-    "Kerang Dayo",
-    "Saing Prupuk",
-    "Bai Jaya",
-    "Pengguren Jaya",
-    "Tebru Paser Damai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kerang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lomu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Segendang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mengkudu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Riwang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langgai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Petangis"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tampakan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kerang Dayo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saing Prupuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bai Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pengguren Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tebru Paser Damai"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Semampir",
-    "Sidomukti",
-    "Kraksaan Wetan",
-    "Kandang Jati Kulon (Kandangjati Kulon)",
-    "Patokan",
-    "Kregenan (Keregenan)",
-    "Rondokuning",
-    "Bulu",
-    "Rangang (Rangkang)",
-    "Kandang Jati Wetan (Kandangjati Wetan)",
-    "Alassumur Kulon",
-    "Sumberlele",
-    "Tamansari (Taman Sari)",
-    "Asembakor",
-    "Kebonagung",
-    "Sidopekso",
-    "Kalibuntu",
-    "Asembagus"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Semampir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kraksaan Wetan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kandang Jati Kulon (Kandangjati Kulon)"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Patokan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kregenan (Keregenan)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rondokuning"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rangang (Rangkang)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kandang Jati Wetan (Kandangjati Wetan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Alassumur Kulon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumberlele"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tamansari (Taman Sari)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Asembakor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sidopekso"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kalibuntu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Asembagus"
+    }
   ]
 }

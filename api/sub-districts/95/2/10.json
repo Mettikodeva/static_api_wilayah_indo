@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bime",
-    "Bob",
-    "Kameme",
-    "Calab",
-    "Limiri",
-    "Teli",
-    "Lim Lim",
-    "Bunggon",
-    "Perem",
-    "Turwe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bime"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bob"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kameme"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Calab"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Limiri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teli"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lim Lim"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bunggon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Perem"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Turwe"
+    }
   ]
 }

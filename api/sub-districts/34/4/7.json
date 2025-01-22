@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Caturtunggal (Catur Tunggal)",
-    "Maguwoharjo",
-    "Condongcatur (Condong Catur)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Caturtunggal (Catur Tunggal)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maguwoharjo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Condongcatur (Condong Catur)"
+    }
   ]
 }

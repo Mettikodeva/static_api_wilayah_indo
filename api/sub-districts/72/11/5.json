@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lalong",
-    "Lipulalongo",
-    "Paisulamo",
-    "Alasan",
-    "Mansalean",
-    "Bontosi",
-    "Lipu Talas (Liputalas)",
-    "Padingkian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lalong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lipulalongo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paisulamo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alasan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mansalean"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bontosi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lipu Talas (Liputalas)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padingkian"
+    }
   ]
 }

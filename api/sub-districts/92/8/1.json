@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Kaimana Kota",
-    "Krooy",
-    "Marsi",
-    "Namatota",
-    "Lobo",
-    "Trikora",
-    "Tanggaromi",
-    "Sisir",
-    "Foroma Jaya",
-    "Murano",
-    "Mai Mai",
-    "Lumira",
-    "Kamaka",
-    "Coa",
-    "Saria",
-    "Jarati",
-    "Sara",
-    "Werua",
-    "Oray"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kaimana Kota"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Krooy"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Marsi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Namatota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lobo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trikora"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanggaromi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sisir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Foroma Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Murano"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mai Mai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lumira"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kamaka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Coa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Saria"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jarati"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sara"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Werua"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Oray"
+    }
   ]
 }

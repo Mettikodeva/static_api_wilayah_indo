@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Wajo",
-    "Lamangga",
-    "Melai",
-    "Baadia",
-    "Tanganapada"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wajo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Lamangga"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Melai"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Baadia"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tanganapada"
+    }
   ]
 }

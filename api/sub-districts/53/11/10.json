@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kaliuda",
-    "Kuruwaki",
-    "Tana Manang (Tanamanang)",
-    "Mburukulu",
-    "Pamburu",
-    "Lambakara",
-    "Tamma",
-    "Palanggai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaliuda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuruwaki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tana Manang (Tanamanang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mburukulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pamburu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lambakara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamma"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palanggai"
+    }
   ]
 }

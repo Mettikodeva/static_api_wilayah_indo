@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Panabari Hutatonga",
-    "Aek Uncim",
-    "Panindoan",
-    "Aek Kahombu",
-    "Batu Horpak",
-    "Situmba",
-    "Purba Tua",
-    "Lumban Jabi-Jabi",
-    "Ingul Jae",
-    "Sisoma",
-    "Lumban Ratus",
-    "Kota Tua",
-    "Simaninggir Tano Tombangan (Simaninggir TT)",
-    "Huta Raja (Hutaraja)",
-    "Harean",
-    "Aek Parupuk",
-    "Tanjung Medan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Panabari Hutatonga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aek Uncim"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panindoan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aek Kahombu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Horpak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Situmba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purba Tua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lumban Jabi-Jabi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ingul Jae"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sisoma"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lumban Ratus"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kota Tua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simaninggir Tano Tombangan (Simaninggir TT)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Huta Raja (Hutaraja)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Harean"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Aek Parupuk"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tanjung Medan"
+    }
   ]
 }

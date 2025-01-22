@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Aek Bange",
-    "Aek Korsik",
-    "Aek Ledong",
-    "Ledong Barat",
-    "Aek Nabuntu",
-    "Ledong Timur",
-    "Padang Sipirok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aek Bange"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aek Korsik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aek Ledong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ledong Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aek Nabuntu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ledong Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padang Sipirok"
+    }
   ]
 }

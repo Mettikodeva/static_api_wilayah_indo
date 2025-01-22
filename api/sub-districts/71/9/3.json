@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bahoi",
-    "Balehumara",
-    "Lesah",
-    "Boto",
-    "Mohongsawang (Mohonsawang)",
-    "Apengsala",
-    "Mulengan (Mulengen)",
-    "Mahangiang",
-    "Tulusang (Tulusan)",
-    "Haasi",
-    "Pumpente",
-    "Laingpatehi",
-    "Lesah Rende",
-    "Barangka Pehe",
-    "Pahiama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bahoi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Balehumara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lesah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Boto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mohongsawang (Mohonsawang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Apengsala"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mulengan (Mulengen)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mahangiang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tulusang (Tulusan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Haasi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pumpente"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Laingpatehi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lesah Rende"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Barangka Pehe"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pahiama"
+    }
   ]
 }

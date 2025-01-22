@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Grugu",
-    "Bringkeng",
-    "Ujungmanik",
-    "Kubangkangkung",
-    "Bojong",
-    "Mentasan",
-    "Kalijeruk",
-    "Kawunganten",
-    "Sarwadadi",
-    "Kawunganten Lor",
-    "Babakan",
-    "Sidaurip"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Grugu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bringkeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujungmanik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kubangkangkung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mentasan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalijeruk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kawunganten"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sarwadadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kawunganten Lor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sidaurip"
+    }
   ]
 }

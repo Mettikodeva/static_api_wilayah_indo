@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sei/Sungai Kambat",
-    "Sei/Sungai Rasau",
-    "Simpang Nungki",
-    "Sawahan",
-    "Bantuil",
-    "Badandan",
-    "Sei/Sungai Tunjang",
-    "Sei/Sungai Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Kambat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Rasau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Nungki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bantuil"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Badandan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei/Sungai Tunjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sei/Sungai Raya"
+    }
   ]
 }

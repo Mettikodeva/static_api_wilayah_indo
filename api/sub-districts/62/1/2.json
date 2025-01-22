@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Mendawai Seberang",
-    "Mendawai",
-    "Madurejo",
-    "Sidorejo",
-    "Raja",
-    "Raja Seberang",
-    "Baru",
-    "Tanjung Putri",
-    "Pasir Panjang",
-    "Rangda",
-    "Kenambui",
-    "Runtu",
-    "Umpang",
-    "Kumpai Batu Bawah",
-    "Kumpai Batu Atas",
-    "Natai Raya",
-    "Medang Sari (Medangsari)",
-    "Natai Baru",
-    "Tanjung Terantang",
-    "Sulung (Sulung Kenambui / Kanam Bui)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mendawai Seberang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mendawai"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Madurejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Raja"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Raja Seberang"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Putri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasir Panjang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rangda"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kenambui"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Runtu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Umpang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kumpai Batu Bawah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kumpai Batu Atas"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Natai Raya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Medang Sari (Medangsari)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Natai Baru"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tanjung Terantang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sulung (Sulung Kenambui / Kanam Bui)"
+    }
   ]
 }

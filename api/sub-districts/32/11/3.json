@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Darmaraja",
-    "Darmajaya",
-    "Sukamenak",
-    "Sukaratu",
-    "Cikeusi",
-    "Cipeuteuy",
-    "Cieunteung",
-    "Karangpakuan (Karang Pakuan)",
-    "Pakualam (Paku Alam)",
-    "Neglasari",
-    "Tarunajaya",
-    "Ranggon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Darmaraja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Darmajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukamenak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukaratu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cikeusi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cipeuteuy"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cieunteung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangpakuan (Karang Pakuan)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pakualam (Paku Alam)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Neglasari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tarunajaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ranggon"
+    }
   ]
 }

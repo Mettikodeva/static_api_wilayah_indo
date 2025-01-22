@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Motongkad Utara",
-    "Motongkad",
-    "Motongkad Selatan",
-    "Atoga",
-    "Atoga Timur",
-    "Motongkad Tengah",
-    "Molobog",
-    "Molobog Barat",
-    "Jiko",
-    "Jiko Utara",
-    "Molobog Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Motongkad Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Motongkad"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Motongkad Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Atoga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Atoga Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Motongkad Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Molobog"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Molobog Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jiko"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jiko Utara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Molobog Timur"
+    }
   ]
 }

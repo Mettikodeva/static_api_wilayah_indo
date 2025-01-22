@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mekarsari (Mekar Sari)",
-    "Tamban Raya",
-    "Tinggiran Tengah",
-    "Tinggiran Darat",
-    "Jelapat II",
-    "Tamban Raya Baru",
-    "Tinggiran Baru",
-    "Karang Mekar",
-    "Indah Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekarsari (Mekar Sari)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamban Raya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tinggiran Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tinggiran Darat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jelapat II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamban Raya Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tinggiran Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karang Mekar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Indah Sari"
+    }
   ]
 }

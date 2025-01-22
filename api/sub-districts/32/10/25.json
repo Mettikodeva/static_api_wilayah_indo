@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pasirayu",
-    "Sindang",
-    "Garawastu",
-    "Indrakila",
-    "Gunungkuning (Gunung Kuning)",
-    "Sangkanhurip",
-    "Bayureja"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasirayu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Garawastu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Indrakila"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunungkuning (Gunung Kuning)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sangkanhurip"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bayureja"
+    }
   ]
 }

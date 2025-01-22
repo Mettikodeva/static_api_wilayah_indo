@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kepayang",
-    "Kedondong",
-    "Belimbing",
-    "Durian",
-    "Lubuk Rukam",
-    "Bindu",
-    "Mendala",
-    "Peninjauan",
-    "Saung Naga",
-    "Makartitama (Makarti Tama)",
-    "Espetiga",
-    "Makarti Jaya",
-    "Mitra Kencana",
-    "Penilikan",
-    "Panji Jaya (Panti Jaya)",
-    "Karang Dapo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kepayang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedondong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Belimbing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Durian"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Rukam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bindu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mendala"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Peninjauan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saung Naga"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Makartitama (Makarti Tama)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Espetiga"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Makarti Jaya"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Mitra Kencana"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Penilikan"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Panji Jaya (Panti Jaya)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Karang Dapo"
+    }
   ]
 }

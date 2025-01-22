@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Parung",
-    "Cigadung",
-    "Pasirkareumbi",
-    "Karanganyar",
-    "Soklat",
-    "Sukamelang",
-    "Dangdeur",
-    "Wanareja"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Parung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cigadung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pasirkareumbi"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Soklat"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sukamelang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dangdeur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Wanareja"
+    }
   ]
 }

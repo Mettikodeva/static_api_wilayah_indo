@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Akle",
-    "Uitiuh Ana",
-    "Onansila (Oenansila)",
-    "Uitiuh Tuan",
-    "Naiken (Naikean)",
-    "Uiboa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Akle"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uitiuh Ana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Onansila (Oenansila)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Uitiuh Tuan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Naiken (Naikean)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uiboa"
+    }
   ]
 }

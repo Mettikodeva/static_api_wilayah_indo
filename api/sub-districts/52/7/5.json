@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Desa Beru",
-    "Tepas",
-    "Bangkat Monteh (Bangkat Monte)",
-    "Sapugara Bree",
-    "Tepas Sepakat",
-    "Lamuntet",
-    "Rarak Ronges",
-    "Moteng",
-    "Seminar Salit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Desa Beru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tepas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bangkat Monteh (Bangkat Monte)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sapugara Bree"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tepas Sepakat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamuntet"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rarak Ronges"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Moteng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seminar Salit"
+    }
   ]
 }

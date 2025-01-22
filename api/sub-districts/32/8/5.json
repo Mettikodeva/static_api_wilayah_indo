@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cipondoh (Cipondok)",
-    "Sindangjawa",
-    "Ciangir",
-    "Cibingbin",
-    "Citenjo",
-    "Dukuhbadag",
-    "Bantarpanjang",
-    "Sukamaju",
-    "Sukaharja",
-    "Cisaat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipondoh (Cipondok)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sindangjawa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciangir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibingbin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Citenjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dukuhbadag"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bantarpanjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukaharja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cisaat"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Lingkok",
-    "Pante Kulu",
-    "Uke (Ukee)",
-    "Pante Siren",
-    "Pulo Raya",
-    "Cut",
-    "Dayah Meunara (Dayah Menara)",
-    "Paloh Naleung (Paloh Naleueng)",
-    "Pulo Lhoih (Pulo Loh / Loih)",
-    "Mesjid Tongpudeng (Mesjid Tumpeudeng)",
-    "Blang Thoe (Blang Tho)",
-    "Asan Tongpudeng (Asan Tumpeudeng)",
-    "Alue"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lingkok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pante Kulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Uke (Ukee)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pante Siren"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulo Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dayah Meunara (Dayah Menara)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paloh Naleung (Paloh Naleueng)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulo Lhoih (Pulo Loh / Loih)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mesjid Tongpudeng (Mesjid Tumpeudeng)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Blang Thoe (Blang Tho)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Asan Tongpudeng (Asan Tumpeudeng)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Alue"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tidung",
-    "Kassi-Kassi",
-    "Mappala",
-    "Buakana",
-    "Bonto Makkio",
-    "Rappocini",
-    "Balla Parang (Ballaparang)",
-    "Banta-Bantaeng",
-    "Karunrung",
-    "Gunung Sari",
-    "Minasa Upa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tidung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kassi-Kassi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mappala"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Buakana"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bonto Makkio"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rappocini"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Balla Parang (Ballaparang)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Banta-Bantaeng"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Karunrung"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Gunung Sari"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Minasa Upa"
+    }
   ]
 }

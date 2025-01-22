@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tamaona",
-    "Ta'binjai",
-    "Erelembang",
-    "Kanreapia",
-    "Pao",
-    "Balassuka",
-    "Mamampang",
-    "Tonasa",
-    "Bolaromang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tamaona"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ta'binjai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Erelembang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kanreapia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pao"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balassuka"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mamampang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tonasa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bolaromang"
+    }
   ]
 }

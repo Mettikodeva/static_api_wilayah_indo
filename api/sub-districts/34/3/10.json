@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Umbulrejo (Umbul Rejo)",
-    "Sawahan",
-    "Tambakromo",
-    "Kenteng",
-    "Sumbergiri (Sumber Giri)",
-    "Genjahan",
-    "Ponjong",
-    "Karangasem (Karang Asem)",
-    "Bedoyo",
-    "Sidorejo",
-    "Gombang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Umbulrejo (Umbul Rejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambakromo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenteng"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumbergiri (Sumber Giri)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Genjahan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ponjong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangasem (Karang Asem)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bedoyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gombang"
+    }
   ]
 }

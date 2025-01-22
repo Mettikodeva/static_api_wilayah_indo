@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sukanagara",
-    "Sukajembar",
-    "Sukakarya",
-    "Ciguha",
-    "Sukamekar",
-    "Gunungsari",
-    "Sukalaksana",
-    "Sukarame",
-    "Sindangsari",
-    "Jayagiri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukanagara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukajembar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukakarya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciguha"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamekar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukalaksana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukarame"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jayagiri"
+    }
   ]
 }

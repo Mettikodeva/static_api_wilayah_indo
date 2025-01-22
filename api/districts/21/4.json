@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Singkep",
-    "Lingga",
-    "Senayang",
-    "Singkep Barat",
-    "Lingga Utara",
-    "Singkep Pesisir",
-    "Lingga Timur",
-    "Selayar",
-    "Singkep Selatan",
-    "Kepulauan Posek",
-    "Katang Bidare",
-    "Temiang Pesisir",
-    "Bakung Serumpun"
+    {
+      "district_id": 1,
+      "kecamatan": "Singkep"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Lingga"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Senayang"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Singkep Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Lingga Utara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Singkep Pesisir"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lingga Timur"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Selayar"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Singkep Selatan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kepulauan Posek"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Katang Bidare"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Temiang Pesisir"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Bakung Serumpun"
+    }
   ]
 }

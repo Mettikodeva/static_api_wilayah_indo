@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Karangduren (Karang Duren)",
-    "Karang Semanding",
-    "Tutul",
-    "Balungkulon (Balung Kulon)",
-    "Balunglor (Balung Lor)",
-    "Balungkidul (Balung Kidul)",
-    "Curahlele",
-    "Gumelar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangduren (Karang Duren)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Semanding"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tutul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Balungkulon (Balung Kulon)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balunglor (Balung Lor)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balungkidul (Balung Kidul)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Curahlele"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gumelar"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Malaju",
-    "Lasi",
-    "Mbuju",
-    "Kiwu",
-    "Taropo",
-    "Karama (Kramat 2 / Keramat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malaju"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lasi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mbuju"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kiwu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Taropo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karama (Kramat 2 / Keramat)"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Malangke",
-    "Bone Bone",
-    "Masamba",
-    "Sabbang",
-    "Rongkong (Limbong)",
-    "Sukamaju",
-    "Seko",
-    "Malangke Barat",
-    "Rampi",
-    "Mappedeceng",
-    "Baebunta",
-    "Tana Lili",
-    "Sukamaju Selatan",
-    "Baebunta Selatan",
-    "Sabbang Selatan"
+    {
+      "district_id": 1,
+      "kecamatan": "Malangke"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bone Bone"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Masamba"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sabbang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Rongkong (Limbong)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Sukamaju"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Seko"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Malangke Barat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Rampi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Mappedeceng"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Baebunta"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tana Lili"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Sukamaju Selatan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Baebunta Selatan"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sabbang Selatan"
+    }
   ]
 }

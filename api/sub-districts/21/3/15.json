@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanjung",
-    "Ceruk",
-    "Kelanga",
-    "Pengadah",
-    "Sebadai Ulu",
-    "Limau Manis",
-    "Seleman"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ceruk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kelanga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pengadah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sebadai Ulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Limau Manis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seleman"
+    }
   ]
 }

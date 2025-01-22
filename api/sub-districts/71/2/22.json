@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kayuum (Kayuuwi)",
-    "Kayuuwi Satu",
-    "Kanonang Satu",
-    "Kanonang Dua",
-    "Kanonang Empat",
-    "Kanonang Lima",
-    "Tombasian Atas",
-    "Tombasian Atas Satu",
-    "Tombasian Bawah",
-    "Ranolambot"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayuum (Kayuuwi)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kayuuwi Satu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kanonang Satu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kanonang Dua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kanonang Empat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kanonang Lima"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tombasian Atas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tombasian Atas Satu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tombasian Bawah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ranolambot"
+    }
   ]
 }

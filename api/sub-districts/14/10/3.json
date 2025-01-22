@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tanjung Samak",
-    "Tanjung Medang",
-    "Gemala Sari",
-    "Topang",
-    "Penyagun",
-    "Repan",
-    "Tanjung Bakau",
-    "Teluk Samak",
-    "Sungai Gayung Kiri",
-    "Citra Damai",
-    "Dwi Tunggal",
-    "Wonosari",
-    "Tebun",
-    "Tanjung Gemuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Samak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Medang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gemala Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Topang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penyagun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Repan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjung Bakau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Teluk Samak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sungai Gayung Kiri"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Citra Damai"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dwi Tunggal"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tebun"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjung Gemuk"
+    }
   ]
 }

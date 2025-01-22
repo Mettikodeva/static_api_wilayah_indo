@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Moa (Moa Lakor)",
-    "Damer",
-    "Mdona Hyera (Mndona Hiera)",
-    "Babar Barat (Pulau Pulau Babar)",
-    "Pulau-pulau Babar Timur",
-    "Wetar Selatan",
-    "Kisar Selatan (Pulau Pulau Terselatan)",
-    "Pulau Leti (Letti Moa Lakor)",
-    "Pulau Masela",
-    "Dawelor Dawera",
-    "Pulau Wetang",
-    "Pulau Lakor",
-    "Wetar Utara",
-    "Wetar Barat",
-    "Wetar Timur",
-    "Kepulauan Roma (Romang)",
-    "Kisar Utara"
+    {
+      "district_id": 1,
+      "kecamatan": "Moa (Moa Lakor)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Damer"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mdona Hyera (Mndona Hiera)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Babar Barat (Pulau Pulau Babar)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pulau-pulau Babar Timur"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Wetar Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kisar Selatan (Pulau Pulau Terselatan)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pulau Leti (Letti Moa Lakor)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pulau Masela"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Dawelor Dawera"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pulau Wetang"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Pulau Lakor"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Wetar Utara"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Wetar Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Wetar Timur"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kepulauan Roma (Romang)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kisar Utara"
+    }
   ]
 }

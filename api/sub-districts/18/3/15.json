@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Negeri Ujung Karang",
-    "Bandar Agung",
-    "Karang Sari",
-    "Karang Rejo II",
-    "Karang Sakti",
-    "Karang Mulyo",
-    "Banjar Negeri",
-    "Banjar Ratu",
-    "Negeri Ratu",
-    "Pakuon Agung (Pakuan Agung)",
-    "Sumber Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Negeri Ujung Karang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandar Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karang Rejo II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karang Sakti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Mulyo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjar Negeri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjar Ratu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Negeri Ratu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pakuon Agung (Pakuan Agung)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Agung"
+    }
   ]
 }

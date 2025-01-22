@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Lambunu",
-    "Wanagading",
-    "Kotanagaya",
-    "Margapura",
-    "Petunasugi",
-    "Siendeng",
-    "Lambunu Utara",
-    "Gunungsari",
-    "Tirtanagaya",
-    "Anutapura",
-    "Lambunu Timur",
-    "Bukit Makmur",
-    "Ogorandu",
-    "Ganongol Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambunu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanagading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kotanagaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margapura"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Petunasugi"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Siendeng"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lambunu Utara"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Tirtanagaya"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Anutapura"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Lambunu Timur"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Bukit Makmur"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Ogorandu"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Ganongol Sari"
+    }
   ]
 }

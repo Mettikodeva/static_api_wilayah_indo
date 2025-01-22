@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bonemarambe",
-    "Wambuloli",
-    "Lagili",
-    "Bungi",
-    "Wantopi",
-    "Inulu",
-    "Lasori",
-    "Batubanawa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bonemarambe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wambuloli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lagili"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bungi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wantopi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Inulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lasori"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batubanawa"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lima Puluh Kota",
-    "Mangkai Baru",
-    "Mangkai Lama",
-    "Perkebunan Dolok",
-    "Perkebunan Kwala Gunung",
-    "Antara",
-    "Perkebunan Lima Puluh",
-    "Perkebunan Limau Manis",
-    "Perkebunan Tanah Gambus",
-    "Simpang Gambus",
-    "Sumber Makmur",
-    "Sumber Padi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lima Puluh Kota"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mangkai Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mangkai Lama"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Perkebunan Dolok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Perkebunan Kwala Gunung"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Antara"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Perkebunan Lima Puluh"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Perkebunan Limau Manis"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Perkebunan Tanah Gambus"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Simpang Gambus"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sumber Padi"
+    }
   ]
 }

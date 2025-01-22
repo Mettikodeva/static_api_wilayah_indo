@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Simpang Tonang",
-    "Cubadak",
-    "Simpang Tonang Selatan",
-    "Simpang Tonang Utara",
-    "Cubadak Timur",
-    "Cubadak Tengah",
-    "Cubadak Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Tonang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cubadak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Tonang Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Tonang Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cubadak Timur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cubadak Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cubadak Barat"
+    }
   ]
 }

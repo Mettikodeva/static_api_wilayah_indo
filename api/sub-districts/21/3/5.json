@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sedanau",
-    "Mekar Jaya",
-    "Binjai",
-    "Piantengah (Pian Tengah)",
-    "Selaut"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sedanau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binjai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Piantengah (Pian Tengah)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Selaut"
+    }
   ]
 }

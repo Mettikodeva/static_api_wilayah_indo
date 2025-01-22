@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Renda",
-    "Todo",
-    "Gulung",
-    "Popo",
-    "Lia",
-    "Kole",
-    "Ling",
-    "Nao",
-    "Cireng",
-    "Ruang",
-    "Mata Wae"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Renda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Todo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gulung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Popo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lia"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kole"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ling"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nao"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cireng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ruang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mata Wae"
+    }
   ]
 }

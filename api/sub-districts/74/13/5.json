@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Parura Jaya",
-    "Katangana",
-    "Kasimpa Jaya",
-    "Sangia Tiworo",
-    "Barakkah (Barakka)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parura Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Katangana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kasimpa Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sangia Tiworo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Barakkah (Barakka)"
+    }
   ]
 }

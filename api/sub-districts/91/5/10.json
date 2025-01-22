@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ambai I",
-    "Kawipi",
-    "Wamori",
-    "Adiwipi",
-    "Ambai II",
-    "Mambawi",
-    "Baisore",
-    "Rondepi",
-    "Imboriawa",
-    "Bairei",
-    "Aiwaraggani",
-    "Toroa",
-    "Marawi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ambai I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kawipi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wamori"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Adiwipi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ambai II"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mambawi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baisore"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rondepi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Imboriawa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bairei"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Aiwaraggani"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Toroa"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Marawi"
+    }
   ]
 }

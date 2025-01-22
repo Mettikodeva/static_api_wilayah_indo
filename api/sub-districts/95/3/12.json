@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Usaregeik (Usaragek)",
-    "Lidipmu",
-    "Sumegen",
-    "Hendikma",
-    "Bue",
-    "Haletuk",
-    "Dekbok",
-    "Yeriko",
-    "Weleheikma",
-    "Esaikma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Usaregeik (Usaragek)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lidipmu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumegen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hendikma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bue"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Haletuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dekbok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yeriko"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Weleheikma"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Esaikma"
+    }
   ]
 }

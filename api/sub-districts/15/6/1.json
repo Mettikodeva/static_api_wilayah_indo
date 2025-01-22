@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pelabuhan Dagang",
-    "Badang",
-    "Tanjungtayas (Tanjung Tayas)",
-    "Kuala Dasal",
-    "Pematang Pauh",
-    "Taman Raja",
-    "Brasau",
-    "Gemuruh",
-    "Pematang Tembesu",
-    "Badang Sepakat"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pelabuhan Dagang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Badang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungtayas (Tanjung Tayas)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuala Dasal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang Pauh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taman Raja"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Brasau"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Gemuruh"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pematang Tembesu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Badang Sepakat"
+    }
   ]
 }

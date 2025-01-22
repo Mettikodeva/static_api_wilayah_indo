@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Gunung Besar",
-    "Kinciran",
-    "Negla Sari",
-    "Kedaton",
-    "Sri Bandung",
-    "Subik",
-    "Gunung Sadar",
-    "Gunung Gijul",
-    "Pekurun Barat",
-    "Pekurun Selatan",
-    "Pekurun Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunung Besar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kinciran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Negla Sari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedaton"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sri Bandung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Subik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Sadar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Gijul"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pekurun Barat"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pekurun Selatan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pekurun Utara"
+    }
   ]
 }

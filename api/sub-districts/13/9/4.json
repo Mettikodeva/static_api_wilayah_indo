@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bojakan",
-    "Sotboyak",
-    "Mongan Poula/Paula",
-    "Muara/Muaro Sikabaluan",
-    "Sirilogui",
-    "Malancan (Malancang)"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojakan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sotboyak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mongan Poula/Paula"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara/Muaro Sikabaluan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sirilogui"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Malancan (Malancang)"
+    }
   ]
 }

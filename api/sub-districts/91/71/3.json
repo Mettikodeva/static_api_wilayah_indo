@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Asano",
-    "Awiyo",
-    "Yobe",
-    "Abepantai",
-    "Kota Baru",
-    "Vim",
-    "Wahno",
-    "Way Mhorock",
-    "Nafri",
-    "Engros (Enggros)",
-    "Koya Koso"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Asano"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Awiyo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Yobe"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Abepantai"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Vim"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Wahno"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Way Mhorock"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nafri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Engros (Enggros)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koya Koso"
+    }
   ]
 }

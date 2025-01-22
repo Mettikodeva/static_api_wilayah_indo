@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mekarmukti",
-    "Karangwangi",
-    "Jayabaya (Jagabaya)",
-    "Cijayana",
-    "Mekarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekarmukti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangwangi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jayabaya (Jagabaya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cijayana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekarsari"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanjung Sarang Elang",
-    "Ajamu (Perkebunan IV Ajamu)",
-    "Teluk Sentosa",
-    "Cinta Makmur",
-    "Sei Sentosa",
-    "Maranti/Meranti Paham",
-    "Sijawijawi (Sei Jawi Jawi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Sarang Elang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ajamu (Perkebunan IV Ajamu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Sentosa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cinta Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Sentosa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maranti/Meranti Paham"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sijawijawi (Sei Jawi Jawi)"
+    }
   ]
 }

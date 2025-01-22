@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Modayag",
-    "Liberia",
-    "Purworejo",
-    "Buyandi",
-    "Tobongon",
-    "Lanut",
-    "Badaro",
-    "Modayag Barat",
-    "Modayag Timur",
-    "Purworejo Timur",
-    "Liberia Timur",
-    "Purworejo Tengah",
-    "Candi Rejo",
-    "Sumber Rejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Modayag"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Liberia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buyandi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tobongon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lanut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Badaro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Modayag Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Modayag Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Purworejo Timur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Liberia Timur"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Purworejo Tengah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Candi Rejo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sumber Rejo"
+    }
   ]
 }

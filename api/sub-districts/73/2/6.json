@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Tanah Jaya",
-    "Laikang",
-    "Tambangan",
-    "Lembanna",
-    "Possi Tanah",
-    "Tanah Toa (Tanah Towa)",
-    "Bonto Biraeng",
-    "Lembang",
-    "Batu Nilamung (Batunilamung)",
-    "Mattoanging",
-    "Malleleng",
-    "Bonto Baji",
-    "Bonto Rannu (Bontorannu)",
-    "Pattiroang",
-    "Sapanang",
-    "Sangkala",
-    "Lembang Lohe (Lembanglohe)",
-    "Lolisang",
-    "Pantama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Jaya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Laikang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lembanna"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Possi Tanah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanah Toa (Tanah Towa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bonto Biraeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lembang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batu Nilamung (Batunilamung)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mattoanging"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Malleleng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bonto Baji"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bonto Rannu (Bontorannu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pattiroang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sapanang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sangkala"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lembang Lohe (Lembanglohe)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lolisang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pantama"
+    }
   ]
 }

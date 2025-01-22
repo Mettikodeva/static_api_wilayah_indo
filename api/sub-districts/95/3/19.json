@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ukha",
-    "Kuleken",
-    "Amisangi",
-    "Wenapuk",
-    "Eki",
-    "Yelepunu",
-    "Siolorema",
-    "Musanarek",
-    "Walialema",
-    "Lua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ukha"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuleken"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amisangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wenapuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Eki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yelepunu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Siolorema"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Musanarek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Walialema"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lua"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Puncu",
-    "Asmorobangun",
-    "Manggis",
-    "Sidomulyo",
-    "Watugede",
-    "Gadungan",
-    "Wonorejo",
-    "Satak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puncu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asmorobangun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manggis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Watugede"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gadungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Satak"
+    }
   ]
 }

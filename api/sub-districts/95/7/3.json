@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kemiri",
-    "Mamiri",
-    "Kotorambur",
-    "Yorenime",
-    "Waganenga",
-    "Gembilani",
-    "Nambume",
-    "Tengenawi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mamiri"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kotorambur"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Yorenime"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Waganenga"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Gembilani"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Nambume"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Tengenawi"
+    }
   ]
 }

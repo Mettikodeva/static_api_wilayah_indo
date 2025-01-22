@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pondok Betung",
-    "Pondok Pucung",
-    "Pondok Karya",
-    "Pondok Jaya",
-    "Pondok Aren",
-    "Pondok Kacang Barat",
-    "Pondok Kacang Timur",
-    "Parigi (Perigi Lama)",
-    "Parigi Baru (Perigi Baru)",
-    "Jurangmangu Barat (Jurang Mangu Barat)",
-    "Jurangmangu Timur (Jurang Mangu Timur)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pondok Betung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pondok Pucung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pondok Karya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pondok Jaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pondok Aren"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pondok Kacang Barat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pondok Kacang Timur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Parigi (Perigi Lama)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Parigi Baru (Perigi Baru)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Jurangmangu Barat (Jurang Mangu Barat)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Jurangmangu Timur (Jurang Mangu Timur)"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Putrapinggan",
-    "Emplak",
-    "Bagolo",
-    "Pamotan",
-    "Kalipucang",
-    "Cibuluh",
-    "Banjarharja",
-    "Tunggilis",
-    "Ciparakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Putrapinggan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Emplak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bagolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pamotan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalipucang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cibuluh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banjarharja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tunggilis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciparakan"
+    }
   ]
 }

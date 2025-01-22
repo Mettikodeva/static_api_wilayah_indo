@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pasanggrahan Baru (Pasanggrahan)",
-    "Kotakulon",
-    "Regolwetan (Regol Wetan)",
-    "Cipameungpeuk",
-    "Sukagalih",
-    "Baginda",
-    "Cipancar",
-    "Citengah",
-    "Gunasari",
-    "Sukajaya",
-    "Margamekar",
-    "Ciherang",
-    "Margalaksana",
-    "Mekar Rahayu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasanggrahan Baru (Pasanggrahan)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kotakulon"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Regolwetan (Regol Wetan)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cipameungpeuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukagalih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baginda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cipancar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Citengah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunasari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Margamekar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ciherang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Margalaksana"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mekar Rahayu"
+    }
   ]
 }

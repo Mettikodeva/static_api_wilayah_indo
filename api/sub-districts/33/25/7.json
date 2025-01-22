@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Surodadi",
-    "Sentul",
-    "Plelen",
-    "Kutosari",
-    "Mentosari",
-    "Gringsing",
-    "Yosorejo",
-    "Krengseng",
-    "Sawangan",
-    "Ketanggan",
-    "Lebo",
-    "Kebondalem",
-    "Sidorejo",
-    "Tedunan",
-    "Madugowongjati"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Surodadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Plelen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kutosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mentosari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gringsing"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yosorejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Krengseng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sawangan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ketanggan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lebo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tedunan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Madugowongjati"
+    }
   ]
 }

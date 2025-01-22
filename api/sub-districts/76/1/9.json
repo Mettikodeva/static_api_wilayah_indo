@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Malei (Malei II)",
-    "Pedanda (Pedanda II)",
-    "Batu Oge",
-    "Martasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malei (Malei II)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pedanda (Pedanda II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Oge"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Martasari"
+    }
   ]
 }

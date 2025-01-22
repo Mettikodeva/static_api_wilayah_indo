@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Rantau Panjang",
-    "Sukajaya",
-    "Banjar Agung",
-    "Ruos",
-    "Gunung Cahya",
-    "Bumi Jaya (Bumijaya)",
-    "Bendi",
-    "Pekuolan",
-    "Pelawi",
-    "Majar",
-    "Bumi Agung Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantau Panjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banjar Agung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ruos"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Cahya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Jaya (Bumijaya)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bendi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pekuolan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelawi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Majar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bumi Agung Jaya"
+    }
   ]
 }

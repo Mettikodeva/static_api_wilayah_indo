@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Woropko (Waropko)",
-    "Winiktit",
-    "Kanggewot",
-    "Jetetkun / Yetetkun",
-    "Inggembit (Enggembit)",
-    "Wametkapa",
-    "Wombon",
-    "Upkim",
-    "Ikcan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Woropko (Waropko)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Winiktit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kanggewot"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jetetkun / Yetetkun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Inggembit (Enggembit)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wametkapa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wombon"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Upkim"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ikcan"
+    }
   ]
 }

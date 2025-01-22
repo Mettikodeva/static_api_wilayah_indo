@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Beneik",
-    "Ganusa (Garusa)",
-    "Guriyad (Guryard)",
-    "Sentosa (Santosa)",
-    "Sawesuma (Sawa Suma)",
-    "Nandalzi (Nandaizi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Beneik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ganusa (Garusa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Guriyad (Guryard)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sentosa (Santosa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sawesuma (Sawa Suma)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nandalzi (Nandaizi)"
+    }
   ]
 }

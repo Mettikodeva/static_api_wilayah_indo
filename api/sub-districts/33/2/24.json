@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Karangklesem (Karang Klesem)",
-    "Teluk",
-    "Berkoh",
-    "Purwokerto Kidul",
-    "Purwokerto Kulon",
-    "Karangpucung (Karang Pucung)",
-    "Tanjung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karangklesem (Karang Klesem)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Teluk"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Berkoh"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Purwokerto Kidul"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Purwokerto Kulon"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karangpucung (Karang Pucung)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanjung"
+    }
   ]
 }

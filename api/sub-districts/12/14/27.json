@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sifalago Gomo",
-    "Balohili Gomo",
-    "Bohalu",
-    "Orsedes",
-    "Sinar Helaowo",
-    "Siholi",
-    "Tuhegafoa",
-    "Perjuangan",
-    "Lewa-Lewa",
-    "Siraha (Sirahia)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sifalago Gomo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balohili Gomo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bohalu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Orsedes"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sinar Helaowo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siholi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tuhegafoa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perjuangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lewa-Lewa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siraha (Sirahia)"
+    }
   ]
 }

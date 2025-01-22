@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasar Bembah (Pasar Bemba)",
-    "Tepi Laut (Tepian Laut)",
-    "Pasar Kerkap",
-    "Air Napal",
-    "Talang Kering",
-    "Selubuk",
-    "Pasar Tebat",
-    "Lubuk Tanjung",
-    "Pukur (Dusun Pukur)",
-    "Pasar Palik",
-    "Tebing Kandang",
-    "Talang Jarang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasar Bembah (Pasar Bemba)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tepi Laut (Tepian Laut)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasar Kerkap"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Air Napal"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Kering"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selubuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasar Tebat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lubuk Tanjung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pukur (Dusun Pukur)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pasar Palik"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tebing Kandang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Talang Jarang"
+    }
   ]
 }

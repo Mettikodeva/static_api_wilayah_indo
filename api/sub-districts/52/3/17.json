@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tanjung",
-    "Suryawangi (Surya Wangi)",
-    "Ijobalit",
-    "Geres",
-    "Labuhan Haji",
-    "Peneda Gandor (Penedagandor)",
-    "Teros",
-    "Korleko",
-    "Kertasari",
-    "Tirtanadi",
-    "Banjarsari",
-    "Korleko Selatan"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Suryawangi (Surya Wangi)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ijobalit"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Geres"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuhan Haji"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Peneda Gandor (Penedagandor)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teros"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Korleko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kertasari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tirtanadi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Korleko Selatan"
+    }
   ]
 }

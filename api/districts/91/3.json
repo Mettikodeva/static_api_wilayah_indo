@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Sentani",
-    "Sentani Timur",
-    "Depapre",
-    "Sentani Barat",
-    "Kemtuk",
-    "Kemtuk Gresi",
-    "Nimboran",
-    "Nimbokrang",
-    "Unurum Guay",
-    "Demta",
-    "Kaureh",
-    "Ebungfao (Ebungfau / Ebungfa)",
-    "Waibu",
-    "Nambluong",
-    "Yapsi",
-    "Airu",
-    "Raveni Rara (Ravenirara)",
-    "Gresi Selatan",
-    "Yokari"
+    {
+      "district_id": 1,
+      "kecamatan": "Sentani"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Sentani Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Depapre"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sentani Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kemtuk"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kemtuk Gresi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Nimboran"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Nimbokrang"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Unurum Guay"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Demta"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kaureh"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Ebungfao (Ebungfau / Ebungfa)"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Waibu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Nambluong"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Yapsi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Airu"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Raveni Rara (Ravenirara)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Gresi Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Yokari"
+    }
   ]
 }

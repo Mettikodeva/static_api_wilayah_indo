@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tengah Peulumat",
-    "Paya Peulumat",
-    "Padang Peulumat",
-    "Aur Peulumat",
-    "Limau Saring",
-    "Beutong",
-    "Peuneulop (Peunalop)",
-    "Gunung Rotan",
-    "Keumumu Hilir",
-    "Keumumu Hulu",
-    "Keumumu Seberang",
-    "Sawang Indah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tengah Peulumat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Paya Peulumat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Peulumat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aur Peulumat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limau Saring"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Beutong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Peuneulop (Peunalop)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Rotan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Keumumu Hilir"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keumumu Hulu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Keumumu Seberang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sawang Indah"
+    }
   ]
 }

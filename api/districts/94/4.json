@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Mimika Baru",
-    "Agimuga",
-    "Mimika Timur",
-    "Mimika Barat",
-    "Jita",
-    "Jila",
-    "Mimika Timur Jauh",
-    "Mimika Tengah",
-    "Kuala Kencana",
-    "Tembagapura",
-    "Mimika Barat Jauh",
-    "Mimika Barat Tengah",
-    "Kwamki Narama",
-    "Hoya",
-    "Iwaka",
-    "Wania",
-    "Amar",
-    "Alama"
+    {
+      "district_id": 1,
+      "kecamatan": "Mimika Baru"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Agimuga"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Mimika Timur"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Mimika Barat"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Jita"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Jila"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mimika Timur Jauh"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mimika Tengah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kuala Kencana"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tembagapura"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Mimika Barat Jauh"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mimika Barat Tengah"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kwamki Narama"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Hoya"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Iwaka"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Wania"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Amar"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Alama"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Pahandut",
-    "Bukit Batu",
-    "Jekan Raya",
-    "Sabangau (Sebangau)",
-    "Rakumpit"
+    {
+      "district_id": 1,
+      "kecamatan": "Pahandut"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bukit Batu"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Jekan Raya"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sabangau (Sebangau)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Rakumpit"
+    }
   ]
 }

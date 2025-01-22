@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Paniki Bawah",
-    "Lapangan",
-    "Mapanget Barat",
-    "Kima Atas",
-    "Buha",
-    "Bengkol",
-    "Kairagi Satu",
-    "Kairagi Dua",
-    "Paniki Satu",
-    "Paniki Dua"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Paniki Bawah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lapangan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mapanget Barat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kima Atas"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Buha"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bengkol"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kairagi Satu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kairagi Dua"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Paniki Satu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Paniki Dua"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Fatuketi",
-    "Dualaus (Dua Laus)",
-    "Jenilu",
-    "Kenebibi",
-    "Leosama",
-    "Kabuna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fatuketi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dualaus (Dua Laus)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jenilu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kenebibi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Leosama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kabuna"
+    }
   ]
 }

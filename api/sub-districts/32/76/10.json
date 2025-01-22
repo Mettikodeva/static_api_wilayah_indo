@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tapos",
-    "Leuwinanggung",
-    "Sukatani",
-    "Sukamaju Baru",
-    "Jatijajar",
-    "Cilangkap",
-    "Cimpaeun"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tapos"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Leuwinanggung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukamaju Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jatijajar"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cilangkap"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cimpaeun"
+    }
   ]
 }

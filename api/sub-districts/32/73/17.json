@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Situsaeur",
-    "Kebon Lega",
-    "Cibaduyut",
-    "Mekarwangi",
-    "Cibaduyut Kidul",
-    "Cibaduyut Wetan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Situsaeur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kebon Lega"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cibaduyut"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cibaduyut Kidul"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cibaduyut Wetan"
+    }
   ]
 }

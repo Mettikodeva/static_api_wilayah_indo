@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Batu Taba",
-    "Sumpur",
-    "Padang Laweh Malalo",
-    "Guguak Malalo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Taba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumpur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Padang Laweh Malalo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Guguak Malalo"
+    }
   ]
 }

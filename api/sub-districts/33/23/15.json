@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Selopampang",
-    "Tanggulanom",
-    "Jetis",
-    "Salamrejo",
-    "Ngaditirto",
-    "Bulan",
-    "Kacepit (Kecepit)",
-    "Gambasan",
-    "Bumiayu",
-    "Kebonagung",
-    "Bagusan",
-    "Plumbon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selopampang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanggulanom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jetis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salamrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngaditirto"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bulan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kacepit (Kecepit)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gambasan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bumiayu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kebonagung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bagusan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Plumbon"
+    }
   ]
 }

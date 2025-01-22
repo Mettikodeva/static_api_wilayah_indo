@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Bulang Lintang",
-    "Pulau Buluh",
-    "Temoyong",
-    "Batu Legong",
-    "Pantai Gelam",
-    "Pulau Setokok"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bulang Lintang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pulau Buluh"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Temoyong"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Batu Legong"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pantai Gelam"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pulau Setokok"
+    }
   ]
 }

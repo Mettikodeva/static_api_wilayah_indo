@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Pancoran Mas",
-    "Cimanggis",
-    "Sawangan",
-    "Limo",
-    "Sukmajaya",
-    "Beji",
-    "Cipayung",
-    "Cilodong",
-    "Cinere",
-    "Tapos",
-    "Bojongsari"
+    {
+      "district_id": 1,
+      "kecamatan": "Pancoran Mas"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Cimanggis"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sawangan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Limo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sukmajaya"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Beji"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Cipayung"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Cilodong"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Cinere"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tapos"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bojongsari"
+    }
   ]
 }

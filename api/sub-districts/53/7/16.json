@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Koting A",
-    "Koting B",
-    "Koting C",
-    "Koting D",
-    "Paubekor",
-    "Ribang",
-    "Watu Repa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koting A"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koting B"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Koting C"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koting D"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paubekor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ribang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watu Repa"
+    }
   ]
 }

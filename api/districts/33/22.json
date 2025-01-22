@@ -1,23 +1,80 @@
 {
   "districts": [
-    "Getasan",
-    "Tengaran",
-    "Susukan",
-    "Suruh",
-    "Pabelan",
-    "Tuntang",
-    "Banyubiru",
-    "Jambu",
-    "Sumowono",
-    "Ambarawa",
-    "Bawen",
-    "Bringin",
-    "Bergas",
-    "Pringapus",
-    "Bancak",
-    "Kaliwungu",
-    "Ungaran Barat",
-    "Ungaran Timur",
-    "Bandungan"
+    {
+      "district_id": 1,
+      "kecamatan": "Getasan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tengaran"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Susukan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Suruh"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pabelan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tuntang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Banyubiru"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Jambu"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sumowono"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Ambarawa"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bawen"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Bringin"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Bergas"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Pringapus"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bancak"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Kaliwungu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Ungaran Barat"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Ungaran Timur"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Bandungan"
+    }
   ]
 }

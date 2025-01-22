@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Warnasari",
-    "Dringo (Deringo)",
-    "Lebak Denok (Lebakdenok)",
-    "Taman Baru (Tamanbaru)",
-    "Kebonsari",
-    "Samangraya",
-    "Citangkil"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Warnasari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dringo (Deringo)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lebak Denok (Lebakdenok)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Taman Baru (Tamanbaru)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebonsari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Samangraya"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Citangkil"
+    }
   ]
 }

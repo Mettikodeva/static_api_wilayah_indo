@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Nonongan Utara",
-    "Salu",
-    "Salu Sopai",
-    "Tombang Langda",
-    "Marante",
-    "Langda",
-    "Nonongan Selatan",
-    "Salu Sarre (Salu Rante)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Nonongan Utara"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Salu Sopai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tombang Langda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marante"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Langda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nonongan Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salu Sarre (Salu Rante)"
+    }
   ]
 }

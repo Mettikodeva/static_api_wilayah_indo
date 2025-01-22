@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sungai Pinang",
-    "Serijabo",
-    "Sungai Pinang II",
-    "Talang Dukun",
-    "Tanjung Serian (Tajung Serian)",
-    "Penyandingan",
-    "Sungai Pinang III",
-    "Pinang Jaya",
-    "Sungai Pinang I",
-    "Pinang Mas",
-    "Sungai Pinang Lagati",
-    "Sungai Pinang Nibung",
-    "Seri Jabo Baru (Serijabo Baru)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sungai Pinang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serijabo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Pinang II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Dukun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Serian (Tajung Serian)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Pinang III"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pinang Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Pinang I"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pinang Mas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Pinang Lagati"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Pinang Nibung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Seri Jabo Baru (Serijabo Baru)"
+    }
   ]
 }

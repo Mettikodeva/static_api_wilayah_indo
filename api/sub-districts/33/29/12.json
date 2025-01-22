@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Babakan",
-    "Blubuk",
-    "Bojongsari",
-    "Dukuhsalam",
-    "Jatisawit (Jati Sawit)",
-    "Kalibuntu",
-    "Karangdempel",
-    "Karangjunti",
-    "Karangsambung",
-    "Kecipir",
-    "Kedungneng",
-    "Limbangan",
-    "Losari Kidul",
-    "Losari Lor",
-    "Negla",
-    "Pekauman",
-    "Pengabean",
-    "Prapag Kidul",
-    "Prapag Lor",
-    "Randegan (Radegan)",
-    "Randusari",
-    "Rungkang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Blubuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dukuhsalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatisawit (Jati Sawit)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalibuntu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangdempel"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangjunti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangsambung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kecipir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedungneng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Limbangan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Losari Kidul"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Losari Lor"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Negla"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pekauman"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pengabean"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Prapag Kidul"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Prapag Lor"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Randegan (Radegan)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Randusari"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Rungkang"
+    }
   ]
 }

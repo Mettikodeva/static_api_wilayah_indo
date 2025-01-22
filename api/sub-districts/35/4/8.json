@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bungur",
-    "Babadan",
-    "Sukowiyono",
-    "Sembon",
-    "Sukowidodo",
-    "Tanjungsari",
-    "Gedangan",
-    "Sukodono",
-    "Karangrejo",
-    "Sukorejo",
-    "Punjul",
-    "Jeli",
-    "Tulungrejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bungur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babadan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukowiyono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sembon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukowidodo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjungsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukodono"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Punjul"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jeli"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tulungrejo"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Karawang Kulon",
-    "Adiarsa Barat",
-    "Tanjungpura",
-    "Tanjungmekar",
-    "Tunggakjati",
-    "Karawangpawitan (Karangpawitan)",
-    "Nagasari",
-    "Mekarjati"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Karawang Kulon"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Adiarsa Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjungpura"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjungmekar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tunggakjati"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Karawangpawitan (Karangpawitan)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Nagasari"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Mekarjati"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Batulak",
-    "Boso",
-    "Dolik",
-    "Fulai (Jikolamo/Fulay)",
-    "Gumirah (Gumira)",
-    "Moloku",
-    "Nurjihat",
-    "Posi Posi",
-    "Samat",
-    "Samo",
-    "Suka Damai",
-    "Tokaka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batulak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boso"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dolik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fulai (Jikolamo/Fulay)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gumirah (Gumira)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Moloku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nurjihat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Posi Posi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Samat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Samo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tokaka"
+    }
   ]
 }

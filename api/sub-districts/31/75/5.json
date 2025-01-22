@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Gedong",
-    "Baru",
-    "Cijantung",
-    "Kalisari",
-    "Pekayon"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gedong"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cijantung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pekayon"
+    }
   ]
 }

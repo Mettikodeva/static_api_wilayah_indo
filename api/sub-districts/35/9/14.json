@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Pakis",
-    "Kemuning Sari Lor (Kemuningsari Lor)",
-    "Panti",
-    "Glagahwero",
-    "Suci",
-    "Kemiri",
-    "Serut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakis"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kemuning Sari Lor (Kemuningsari Lor)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Glagahwero"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suci"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Serut"
+    }
   ]
 }

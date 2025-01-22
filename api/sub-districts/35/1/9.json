@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kebondalem",
-    "Gedangan",
-    "Ngreco (Ngereco)",
-    "Kasihan",
-    "Pucangombo",
-    "Gemaharjo",
-    "Ploso",
-    "Tegalombo",
-    "Kemuning",
-    "Tahunan",
-    "Tahunan Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kebondalem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gedangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngreco (Ngereco)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kasihan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pucangombo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gemaharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ploso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tegalombo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kemuning"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tahunan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tahunan Baru"
+    }
   ]
 }

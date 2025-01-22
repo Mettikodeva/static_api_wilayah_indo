@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sine",
-    "Sragen Kulon",
-    "Sragen Tengah",
-    "Sragen Wetan",
-    "Nglorog",
-    "Karang Tengah",
-    "Tangkil",
-    "Kedungupit"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sine"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sragen Kulon"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sragen Tengah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sragen Wetan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nglorog"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang Tengah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tangkil"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedungupit"
+    }
   ]
 }

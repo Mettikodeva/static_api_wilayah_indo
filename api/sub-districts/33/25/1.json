@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Silurah",
-    "Sodong",
-    "Gringgingsari",
-    "Kedungmalang",
-    "Sendang",
-    "Wonotunggal",
-    "Brokoh",
-    "Wates",
-    "Brayo",
-    "Kemligi",
-    "Sigayam",
-    "Kreyo",
-    "Siwatu",
-    "Dringo",
-    "Penangkan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silurah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sodong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gringgingsari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungmalang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wonotunggal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Brokoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Brayo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kemligi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sigayam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kreyo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Siwatu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dringo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Penangkan"
+    }
   ]
 }

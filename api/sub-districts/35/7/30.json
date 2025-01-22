@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Pujiharjo",
-    "Sumbertangkil",
-    "Kepatihan",
-    "Jogomulyan",
-    "Tlogosari",
-    "Tirtoyudo",
-    "Sukorejo",
-    "Ampelgading",
-    "Tamankuncaran",
-    "Gadungsari",
-    "Wonoagung",
-    "Tamansatriyan",
-    "Purwodadi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pujiharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumbertangkil"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jogomulyan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tlogosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tirtoyudo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ampelgading"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tamankuncaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gadungsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonoagung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tamansatriyan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Purwodadi"
+    }
   ]
 }

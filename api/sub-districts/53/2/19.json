@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kolbano",
-    "Noesiu",
-    "Pene Selatan",
-    "Oetuke",
-    "Babuin",
-    "Oeleu",
-    "Se'i (Sei)",
-    "Nununamat",
-    "Pana",
-    "Haunobenak",
-    "Ofu",
-    "Spaha"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kolbano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Noesiu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pene Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Oetuke"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Babuin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oeleu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Se'i (Sei)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nununamat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Haunobenak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ofu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Spaha"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Longgar",
-    "Apara",
-    "Bemun",
-    "Mesiang",
-    "Gomo Gomo",
-    "Jambu Air",
-    "Warabal"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Longgar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Apara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bemun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mesiang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gomo Gomo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jambu Air"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Warabal"
+    }
   ]
 }

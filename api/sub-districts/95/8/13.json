@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Yenggelo",
-    "Maima",
-    "Nolo",
-    "Wuarem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yenggelo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maima"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wuarem"
+    }
   ]
 }

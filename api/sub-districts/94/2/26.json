@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kiyage",
-    "Wanggiba",
-    "Amuringgik",
-    "Tenggabanggwi",
-    "Tumbiwolu",
-    "Kelandu",
-    "Ambo",
-    "Atoli"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kiyage"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wanggiba"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Amuringgik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tenggabanggwi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbiwolu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelandu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ambo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Atoli"
+    }
   ]
 }

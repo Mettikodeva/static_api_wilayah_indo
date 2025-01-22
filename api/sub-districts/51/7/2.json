@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tangkup",
-    "Talibeng",
-    "Sidemen",
-    "Sangkan Gunung",
-    "Telaga Tawang",
-    "Sinduwati (Sindu Wati)",
-    "Tri Eka Buana",
-    "Kerta Buana (Kertha Buana)",
-    "Lakasari (Lokasari)",
-    "Wismakerta (Wisma Kerta)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tangkup"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talibeng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidemen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sangkan Gunung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Telaga Tawang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sinduwati (Sindu Wati)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tri Eka Buana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kerta Buana (Kertha Buana)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lakasari (Lokasari)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wismakerta (Wisma Kerta)"
+    }
   ]
 }

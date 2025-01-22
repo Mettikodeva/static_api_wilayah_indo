@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Rampi",
-    "Onondowa (Onondoa)",
-    "Leboni",
-    "Dodolo",
-    "Sulaku",
-    "Tedeboe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rampi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Onondowa (Onondoa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Leboni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dodolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sulaku"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tedeboe"
+    }
   ]
 }

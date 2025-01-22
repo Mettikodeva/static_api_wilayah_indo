@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Malimongan Baru",
-    "Wajo Baru",
-    "Gaddong",
-    "Bontoala",
-    "Baraya",
-    "Layang",
-    "Parang Layang",
-    "Bontoala Tua",
-    "Bontoala Parang",
-    "Tompo Balang",
-    "Bunga Ejaya",
-    "Timungan Lompoa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Malimongan Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wajo Baru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gaddong"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bontoala"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Baraya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Layang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Parang Layang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bontoala Tua"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bontoala Parang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tompo Balang"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bunga Ejaya"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Timungan Lompoa"
+    }
   ]
 }

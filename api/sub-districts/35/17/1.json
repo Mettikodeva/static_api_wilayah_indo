@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Jantiganggong",
-    "Kepuhkajang",
-    "Sumberagung",
-    "Pagerwojo",
-    "Perak",
-    "Sembung",
-    "Glagahan",
-    "Kalangsemanding (Kalang Semanding)",
-    "Gadingmangu",
-    "Plosogenuk",
-    "Sukorejo",
-    "Temuwulan",
-    "Cangkringrandu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jantiganggong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kepuhkajang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberagung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagerwojo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sembung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Glagahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kalangsemanding (Kalang Semanding)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gadingmangu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Plosogenuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Temuwulan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cangkringrandu"
+    }
   ]
 }

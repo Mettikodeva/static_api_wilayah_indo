@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lubuak Tarok",
-    "Lalan",
-    "Buluah Kasok",
-    "Kampung Dalam",
-    "Silongo",
-    "Latang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuak Tarok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lalan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buluah Kasok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Dalam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Silongo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Latang"
+    }
   ]
 }

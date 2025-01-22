@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jugosari",
-    "Jarit",
-    "Candipuro",
-    "Sumberejo (Sumberwuluh)",
-    "Sumber Wuluh (Sumberrejo)",
-    "Sumber Mujur (Sumbermujur)",
-    "Penanggal",
-    "Tambahrejo",
-    "Klopo Sawit (Kloposawit)",
-    "Tumpeng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jugosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jarit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Candipuro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberejo (Sumberwuluh)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumber Wuluh (Sumberrejo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Mujur (Sumbermujur)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penanggal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tambahrejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Klopo Sawit (Kloposawit)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tumpeng"
+    }
   ]
 }

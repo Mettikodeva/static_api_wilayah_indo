@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lanipa",
-    "Majapahit",
-    "Labipi",
-    "Latali",
-    "Pasampang",
-    "Tarengga",
-    "To'lemo",
-    "Salulotong (Salutotong)",
-    "Powalaa",
-    "Kalahunde"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lanipa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Majapahit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labipi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Latali"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasampang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tarengga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "To'lemo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Salulotong (Salutotong)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Powalaa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalahunde"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Neggea",
-    "Wulagumi",
-    "Kombama",
-    "Wenggenambut",
-    "Nenggeagin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Neggea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wulagumi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kombama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wenggenambut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nenggeagin"
+    }
   ]
 }

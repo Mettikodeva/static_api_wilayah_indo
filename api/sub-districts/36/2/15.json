@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sukarendah",
-    "Warunggunung",
-    "Cibuah",
-    "Pasir Tangkil (Pasirtangkil)",
-    "Baros",
-    "Banjarsari",
-    "Padasuka",
-    "Sukaraja",
-    "Jagabaya",
-    "Selaraja",
-    "Cempaka",
-    "Sindangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukarendah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Warunggunung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibuah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasir Tangkil (Pasirtangkil)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baros"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banjarsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukaraja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jagabaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Selaraja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangsari"
+    }
   ]
 }

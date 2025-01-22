@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wasian",
-    "Panasen",
-    "Tountimomor",
-    "Totolan",
-    "Passo (Paso)",
-    "Kalawiran",
-    "Touliang",
-    "Simbel",
-    "Wailang",
-    "Bukit Tinggi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wasian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panasen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tountimomor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Totolan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Passo (Paso)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalawiran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Touliang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simbel"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wailang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Tinggi"
+    }
   ]
 }

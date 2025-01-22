@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Kora",
-    "Nanggoal",
-    "Wenam",
-    "Wilimi",
-    "Brutnai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kora"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanggoal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wenam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wilimi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Brutnai"
+    }
   ]
 }

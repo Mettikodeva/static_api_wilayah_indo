@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mattiro Sompe",
-    "Mattiro Bintang",
-    "Mattiro Deceng",
-    "Mattiro Langi",
-    "Mattiro Matae",
-    "Mattiro Ujung",
-    "Mattiro Dolangeng",
-    "Mattiro Bone",
-    "Mattaro Adae"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mattiro Sompe"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Mattiro Bintang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mattiro Deceng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mattiro Langi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mattiro Matae"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mattiro Ujung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mattiro Dolangeng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mattiro Bone"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mattaro Adae"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tolandona",
-    "Baruta Lestari",
-    "Doda Bahari",
-    "Baruta",
-    "Baruta Analalaki (Baruta Analaki)",
-    "Tolandona Matanaeo"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tolandona"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baruta Lestari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Doda Bahari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baruta"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baruta Analalaki (Baruta Analaki)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tolandona Matanaeo"
+    }
   ]
 }

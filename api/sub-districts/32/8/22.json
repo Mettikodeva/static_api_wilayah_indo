@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Silebu",
-    "Patalagan",
-    "Kahiyangan",
-    "Tajurbuntu",
-    "Pancalang",
-    "Sumbakeling",
-    "Sarewu",
-    "Sindangkempeng",
-    "Rajawetan",
-    "Tenjolayar",
-    "Mekarjaya",
-    "Tarikolot",
-    "Danalampah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silebu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Patalagan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kahiyangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tajurbuntu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pancalang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumbakeling"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sarewu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindangkempeng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rajawetan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tenjolayar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tarikolot"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Danalampah"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lumoy",
-    "Masawoy",
-    "Ulima",
-    "Kampung Baru",
-    "Siwar",
-    "Selasi",
-    "Elara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lumoy"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Masawoy"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulima"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siwar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Selasi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Elara"
+    }
   ]
 }

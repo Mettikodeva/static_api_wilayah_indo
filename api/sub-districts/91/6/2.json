@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Sarwom",
-    "Andei",
-    "Waromi",
-    "Kobeoser",
-    "Mambesak",
-    "Saukobye",
-    "Yobdi",
-    "Dernafi",
-    "Rosayendi (Rosayendo)",
-    "Warsansan",
-    "Nermnu",
-    "Korem",
-    "Mnuswor",
-    "Dofyo Wafor",
-    "Warbon",
-    "Wari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sarwom"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Andei"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waromi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kobeoser"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mambesak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Saukobye"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yobdi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dernafi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rosayendi (Rosayendo)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Warsansan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Nermnu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Korem"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mnuswor"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Dofyo Wafor"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Warbon"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wari"
+    }
   ]
 }

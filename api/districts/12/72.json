@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Siantar Timur",
-    "Siantar Barat",
-    "Siantar Utara",
-    "Siantar Selatan",
-    "Siantar Marihat",
-    "Siantar Martoba",
-    "Siantar Sitalasari",
-    "Siantar Marimbun"
+    {
+      "district_id": 1,
+      "kecamatan": "Siantar Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Siantar Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Siantar Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Siantar Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Siantar Marihat"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Siantar Martoba"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Siantar Sitalasari"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Siantar Marimbun"
+    }
   ]
 }

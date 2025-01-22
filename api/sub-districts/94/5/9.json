@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tayai",
-    "Kordesi",
-    "Faisau",
-    "Fokri",
-    "Foisa",
-    "Duaita",
-    "Dervos"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tayai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kordesi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Faisau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fokri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Foisa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Duaita"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dervos"
+    }
   ]
 }

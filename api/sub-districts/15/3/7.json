@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lubuk Jering",
-    "Jernih",
-    "Desa Baru",
-    "Semurung",
-    "Lubuk Kepayang",
-    "Pematang Kabau",
-    "Bukit Suban",
-    "Mentawak Baru",
-    "Mentawak Ulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lubuk Jering"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jernih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Desa Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Semurung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Kepayang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pematang Kabau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bukit Suban"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mentawak Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mentawak Ulu"
+    }
   ]
 }

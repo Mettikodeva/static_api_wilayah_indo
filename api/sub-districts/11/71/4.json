@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Jeulingke",
-    "Tibang",
-    "Deah Raya",
-    "Alue Naga",
-    "Ie Masen Kayee Adang (Iemasen Kaye Adang)",
-    "Pineung",
-    "Lamgugob",
-    "Kopelma Darussalam",
-    "Rukoh",
-    "Peurada (Gampong Peurada)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jeulingke"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tibang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Deah Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alue Naga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ie Masen Kayee Adang (Iemasen Kaye Adang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pineung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lamgugob"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kopelma Darussalam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rukoh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Peurada (Gampong Peurada)"
+    }
   ]
 }

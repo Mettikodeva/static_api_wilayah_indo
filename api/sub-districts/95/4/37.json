@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Banggeri",
-    "Igari",
-    "Tina",
-    "Telelomi",
-    "Kopenawai",
-    "Wunggi",
-    "Baganagapur",
-    "Milineri",
-    "Mili",
-    "Geyaneri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banggeri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Igari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tina"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telelomi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kopenawai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wunggi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baganagapur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Milineri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mili"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Geyaneri"
+    }
   ]
 }

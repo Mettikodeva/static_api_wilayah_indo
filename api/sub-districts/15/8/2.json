@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Rantau Duku",
-    "Talang Sungai Bungo",
-    "Rantau Pandan",
-    "Leban",
-    "Lubuk Kayu Aro",
-    "Lubuk Mayan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantau Duku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Sungai Bungo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rantau Pandan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Leban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Kayu Aro"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lubuk Mayan"
+    }
   ]
 }

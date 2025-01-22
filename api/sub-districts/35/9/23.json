@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lengkong",
-    "Kawangrejo",
-    "Tamansari",
-    "Mumbulsari",
-    "Suco",
-    "Lampeji",
-    "Karang Kedawung (Karangkedawung)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lengkong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawangrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mumbulsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suco"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lampeji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Kedawung (Karangkedawung)"
+    }
   ]
 }

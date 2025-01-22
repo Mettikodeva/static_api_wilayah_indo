@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Olais",
-    "Lasi",
-    "Kakan",
-    "Basmuti",
-    "Kusi",
-    "Kuanfatu",
-    "Kelle",
-    "Taupi",
-    "Oebo",
-    "Kusi Utara",
-    "Kelle Tunan",
-    "Noebeba",
-    "Oehan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Olais"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lasi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Basmuti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kusi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kuanfatu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kelle"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Taupi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Oebo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kusi Utara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kelle Tunan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Noebeba"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Oehan"
+    }
   ]
 }

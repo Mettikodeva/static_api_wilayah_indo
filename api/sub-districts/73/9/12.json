@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Allepolea",
-    "Maccini Baji",
-    "Soreang",
-    "Mattirodeceng (Mattiro Deceng)",
-    "Marannu (Marrannu)",
-    "Bonto Marrannu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Allepolea"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Maccini Baji"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Soreang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mattirodeceng (Mattiro Deceng)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Marannu (Marrannu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bonto Marrannu"
+    }
   ]
 }

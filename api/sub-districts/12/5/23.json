@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pematang Tengah",
-    "Damar Condong",
-    "Perkebunan Damar Condong",
-    "Perkebunan Perapen",
-    "Limau Mungkur",
-    "Serang Jaya Hilir",
-    "Serang Jaya",
-    "Sala Haji (Salahaji)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pematang Tengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Damar Condong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perkebunan Damar Condong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Perapen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Limau Mungkur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Serang Jaya Hilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Serang Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sala Haji (Salahaji)"
+    }
   ]
 }

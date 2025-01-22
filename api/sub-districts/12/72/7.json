@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Gurilla",
-    "Bah Kapul",
-    "Setia Negara",
-    "Bukit Sofa/Shofa",
-    "Bah Sorma"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gurilla"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bah Kapul"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Setia Negara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bukit Sofa/Shofa"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bah Sorma"
+    }
   ]
 }

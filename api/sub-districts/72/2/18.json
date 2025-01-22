@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kilo",
-    "Kawende",
-    "Kalora",
-    "Tambarana",
-    "Tumora",
-    "Tri Mulya",
-    "Bakti Agung",
-    "Tobe",
-    "Membuke",
-    "Maranda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kilo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawende"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalora"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tambarana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumora"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tri Mulya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bakti Agung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tobe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Membuke"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maranda"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Lunang",
-    "Lunang Utara",
-    "Lunang Selatan",
-    "Lunang Barat",
-    "Sindang Lunang",
-    "Pondok Parian Lunang",
-    "Lunang Tengah",
-    "Lunang Satu",
-    "Lunang Dua",
-    "Lunang Tiga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lunang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lunang Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lunang Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lunang Barat"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sindang Lunang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pondok Parian Lunang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lunang Tengah"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lunang Satu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lunang Dua"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lunang Tiga"
+    }
   ]
 }

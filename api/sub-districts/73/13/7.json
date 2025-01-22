@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Macero",
-    "Malangke (Malakke)",
-    "Belawa",
-    "Ongkoe",
-    "Lepangeng (Leppangeng)",
-    "Wele",
-    "Limporilau (Limpo Rilau)",
-    "Sappa",
-    "Lautang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Macero"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Malangke (Malakke)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Belawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ongkoe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lepangeng (Leppangeng)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wele"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Limporilau (Limpo Rilau)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sappa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lautang"
+    }
   ]
 }

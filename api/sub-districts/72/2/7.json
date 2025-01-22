@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dodolo",
-    "Kaduwaa",
-    "Watumaeta",
-    "Sedoa",
-    "Alitupu",
-    "Wuasa",
-    "Bumi Banyusari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dodolo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaduwaa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watumaeta"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sedoa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Alitupu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wuasa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bumi Banyusari"
+    }
   ]
 }

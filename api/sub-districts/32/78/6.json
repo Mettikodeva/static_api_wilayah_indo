@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Setiaratu",
-    "Kersanagara",
-    "Kota Baru (Kotabaru)",
-    "Awipari",
-    "Setianagara",
-    "Ciherang",
-    "Ciakar",
-    "Margabakti",
-    "Setiajaya"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Setiaratu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kersanagara"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kota Baru (Kotabaru)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Awipari"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Setianagara"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Ciherang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Ciakar"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Margabakti"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Setiajaya"
+    }
   ]
 }

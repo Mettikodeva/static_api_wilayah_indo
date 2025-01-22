@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bobos",
-    "Cikalahang",
-    "Mandala",
-    "Dukupuntang",
-    "Balad",
-    "Cangkoak",
-    "Cisaat",
-    "Sindangmekar",
-    "Sindangjawa",
-    "Kepunduan",
-    "Girinata",
-    "Cipanas",
-    "Kedongdong Kidul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bobos"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cikalahang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mandala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dukupuntang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balad"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cangkoak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cisaat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindangmekar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sindangjawa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kepunduan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Girinata"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cipanas"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kedongdong Kidul"
+    }
   ]
 }

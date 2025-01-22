@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Muara",
-    "Purwawinangun",
-    "Keraton",
-    "Surakarta",
-    "Karangreja",
-    "Suranenggala Kidul",
-    "Suranenggala Kulon",
-    "Suranenggala Lor",
-    "Suranenggala"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwawinangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Keraton"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Surakarta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangreja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suranenggala Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suranenggala Kulon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Suranenggala Lor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Suranenggala"
+    }
   ]
 }

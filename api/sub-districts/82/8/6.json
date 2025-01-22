@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Waikadai",
-    "Losseng",
-    "Kawadang",
-    "Sofan",
-    "Mantarara",
-    "Belo",
-    "Kamaya",
-    "Waikoka",
-    "Waikadai Sula"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waikadai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Losseng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kawadang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sofan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mantarara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kamaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Waikoka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waikadai Sula"
+    }
   ]
 }

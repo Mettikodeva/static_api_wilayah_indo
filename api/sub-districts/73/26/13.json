@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sapan",
-    "Buntu Minanga",
-    "Serambu (Sarambu)",
-    "Rante Uma",
-    "Talimbangan",
-    "Pulu' Pulu'",
-    "Paonganan",
-    "Parandangan",
-    "Roroan Barra'-Barra'",
-    "Pangkung Batu",
-    "Pengkaroan Manuk (Pangkoroan Manuk)",
-    "Batu Busa (Batu Basa)",
-    "Ponglu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sapan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buntu Minanga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Serambu (Sarambu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rante Uma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talimbangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulu' Pulu'"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Paonganan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parandangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Roroan Barra'-Barra'"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pangkung Batu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pengkaroan Manuk (Pangkoroan Manuk)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Batu Busa (Batu Basa)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ponglu"
+    }
   ]
 }

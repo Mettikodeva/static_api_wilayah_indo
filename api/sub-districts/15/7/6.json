@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Rantau Indah",
-    "Kuala Dendang",
-    "Kota Kandis Dendang (Kuta / Koto Kandis Dendang)",
-    "Koto Kandis",
-    "Sido Mukti",
-    "Catur Rahayu",
-    "Jati Mulyo"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Rantau Indah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuala Dendang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kota Kandis Dendang (Kuta / Koto Kandis Dendang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Kandis"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sido Mukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Catur Rahayu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jati Mulyo"
+    }
   ]
 }

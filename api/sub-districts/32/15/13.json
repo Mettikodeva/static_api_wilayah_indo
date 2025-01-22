@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Dawuan Timur",
-    "Kalihurip",
-    "Cikampek Kota",
-    "Dawuan Tengah",
-    "Cikampek Selatan",
-    "Cikampek Pusaka",
-    "Cikampek Barat",
-    "Cikampek Timur",
-    "Kamojing",
-    "Dawuan Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dawuan Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalihurip"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikampek Kota"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawuan Tengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cikampek Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikampek Pusaka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikampek Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cikampek Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kamojing"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dawuan Barat"
+    }
   ]
 }

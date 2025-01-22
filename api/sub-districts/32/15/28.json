@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cigunungsari",
-    "Wargasetra",
-    "Mekarbuana",
-    "Cintalaksana",
-    "Cintawargi",
-    "Cintalanggeng",
-    "Kutalanggeng",
-    "Kutamaneuh",
-    "Cipurwasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cigunungsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wargasetra"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekarbuana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cintalaksana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cintawargi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cintalanggeng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kutalanggeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kutamaneuh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cipurwasari"
+    }
   ]
 }

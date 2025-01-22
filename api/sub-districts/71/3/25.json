@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Marore",
-    "Kawio",
-    "Matutuang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marore"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawio"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matutuang"
+    }
   ]
 }

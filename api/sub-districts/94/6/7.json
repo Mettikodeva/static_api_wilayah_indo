@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Puweta/Pueta I",
-    "Pouwouda (Pouwoda / Pouwuoda)",
-    "Puweta/Pueta II",
-    "Botumuma (Botumoma)",
-    "Obaibega",
-    "Digikebo",
-    "Bogiyoteugi",
-    "Matadi",
-    "Tuwaida",
-    "Yepo (Makidimi)",
-    "Ugikagouda",
-    "Ugikebo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puweta/Pueta I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pouwouda (Pouwoda / Pouwuoda)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Puweta/Pueta II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Botumuma (Botumoma)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Obaibega"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Digikebo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bogiyoteugi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Matadi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tuwaida"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yepo (Makidimi)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ugikagouda"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ugikebo"
+    }
   ]
 }

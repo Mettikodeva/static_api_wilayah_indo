@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bluuran (Blu Uran)",
-    "Tlambah",
-    "Bulmatet",
-    "Poreh",
-    "Karangpenang Oloh (Karang Penang Oloh)",
-    "Karangpenang Onjur (Karang Penang Onjur)",
-    "Gunung Kesan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bluuran (Blu Uran)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tlambah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bulmatet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Poreh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangpenang Oloh (Karang Penang Oloh)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangpenang Onjur (Karang Penang Onjur)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Kesan"
+    }
   ]
 }

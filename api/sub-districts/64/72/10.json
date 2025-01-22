@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Simpang Tiga (Loa Janan Ilir)",
-    "Tani Aman",
-    "Sengkotek",
-    "Harapan Baru",
-    "Rapak Dalam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Simpang Tiga (Loa Janan Ilir)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tani Aman"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sengkotek"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Harapan Baru"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rapak Dalam"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Mensusai",
-    "Kerengas",
-    "Mantan",
-    "Nanga Suhaid",
-    "Tanjung (Tanjung Kapuas)",
-    "Madang Permai",
-    "Laut Tawang",
-    "Jongkong Hulu",
-    "Menapar",
-    "Lubuk Pengail",
-    "Tanjung Harapan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mensusai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kerengas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mantan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nanga Suhaid"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung (Tanjung Kapuas)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Madang Permai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Laut Tawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jongkong Hulu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Menapar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lubuk Pengail"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Harapan"
+    }
   ]
 }

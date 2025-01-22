@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lambhuk",
-    "Lamteh",
-    "Ilie",
-    "Pango Raya",
-    "Pango Deah",
-    "Ceurih",
-    "Doi/Doy",
-    "Lamglumpang",
-    "Ie Masen Ulee Kareng (Iemasen Ulee Kareng)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lambhuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lamteh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ilie"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pango Raya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pango Deah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ceurih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Doi/Doy"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamglumpang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ie Masen Ulee Kareng (Iemasen Ulee Kareng)"
+    }
   ]
 }

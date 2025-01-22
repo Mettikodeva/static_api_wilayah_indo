@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tinggi Raja",
-    "Sumber Harapan",
-    "Terusan Tengah",
-    "Piasa Ulu",
-    "Sidomulyo",
-    "Teladan",
-    "Padang Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tinggi Raja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Harapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Terusan Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Piasa Ulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teladan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padang Sari"
+    }
   ]
 }

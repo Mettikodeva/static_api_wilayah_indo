@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Luang Barat",
-    "Luang Timur",
-    "Elo",
-    "Rumkisar (Romkisar)",
-    "Lelang",
-    "Mahaleta",
-    "Romdara",
-    "Rotnama",
-    "Batugajah (Batu Gajah)",
-    "Pupliora (Pupioliora)",
-    "Regoha"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Luang Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Luang Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Elo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rumkisar (Romkisar)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lelang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mahaleta"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Romdara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rotnama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batugajah (Batu Gajah)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pupliora (Pupioliora)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Regoha"
+    }
   ]
 }

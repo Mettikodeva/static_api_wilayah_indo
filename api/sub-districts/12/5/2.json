@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Tanjung Langkat",
-    "Perkebunan Tanjung Keliling",
-    "Perkebunan Gelugur Langkat",
-    "Perkebunan Tambunan",
-    "Perkebunan Bandar Telu",
-    "Naman Jahe",
-    "Turangi",
-    "Ujung Teran (Ujung Terang)",
-    "Pama/Pamah Tambunan",
-    "Minta Kasih",
-    "Ujung Bandar",
-    "Lau Tepu",
-    "Parangguam",
-    "Ponco Warno (Panco Warno)",
-    "Adin Tengah",
-    "Lau Lugur (Lau Gugur)",
-    "Pancur Ido"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tanjung Langkat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perkebunan Tanjung Keliling"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Perkebunan Gelugur Langkat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perkebunan Tambunan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perkebunan Bandar Telu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Naman Jahe"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Turangi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ujung Teran (Ujung Terang)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pama/Pamah Tambunan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Minta Kasih"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ujung Bandar"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lau Tepu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Parangguam"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Ponco Warno (Panco Warno)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Adin Tengah"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Lau Lugur (Lau Gugur)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pancur Ido"
+    }
   ]
 }

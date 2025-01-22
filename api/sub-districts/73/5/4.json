@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Panrannuangku",
-    "Manongkoki",
-    "Malewang",
-    "Palleko",
-    "Mattompodale (Mattompodalle)",
-    "Parang Luara",
-    "Lassang",
-    "Pa'rappunganta (Pa Rappunganta)",
-    "Towata",
-    "Lassang Barat"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Panrannuangku"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Manongkoki"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Malewang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Palleko"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mattompodale (Mattompodalle)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Parang Luara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lassang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pa'rappunganta (Pa Rappunganta)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Towata"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lassang Barat"
+    }
   ]
 }

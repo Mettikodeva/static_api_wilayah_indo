@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Rante Balla (Ranteballa)",
-    "Kadundung",
-    "Ulusalu",
-    "Lambanan",
-    "Tabang",
-    "Boneposi",
-    "Pangi",
-    "Pajang",
-    "Buntu Sarek",
-    "To'barru (Tobaru)",
-    "Tibussan",
-    "To'lajuk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rante Balla (Ranteballa)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kadundung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulusalu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lambanan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tabang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Boneposi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pangi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pajang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buntu Sarek"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "To'barru (Tobaru)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tibussan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "To'lajuk"
+    }
   ]
 }

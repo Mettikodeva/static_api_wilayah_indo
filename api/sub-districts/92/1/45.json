@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Saluk",
-    "Klawaren (Klawren)",
-    "Woloin",
-    "Klalin Mos",
-    "Kwari",
-    "Kamlin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saluk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Klawaren (Klawren)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Woloin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klalin Mos"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kwari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kamlin"
+    }
   ]
 }

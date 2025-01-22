@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mamungaa",
-    "Kaidundu Barat",
-    "Mopuya",
-    "Kaidundu",
-    "Bukit Hijau",
-    "Mamungaa Timur",
-    "Dunggilata",
-    "Pinomotiga",
-    "Patoa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mamungaa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaidundu Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mopuya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaidundu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukit Hijau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mamungaa Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dunggilata"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pinomotiga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Patoa"
+    }
   ]
 }

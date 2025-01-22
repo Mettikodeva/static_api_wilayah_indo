@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tagime",
-    "Porome",
-    "Onggobalo",
-    "Lakwame",
-    "Yordania Tulak",
-    "Gume Kupari",
-    "Wandinggunie",
-    "Mulugame",
-    "Lapeyo",
-    "Yanggapura",
-    "Yogobur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tagime"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Porome"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Onggobalo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lakwame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yordania Tulak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gume Kupari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wandinggunie"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mulugame"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lapeyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yanggapura"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yogobur"
+    }
   ]
 }

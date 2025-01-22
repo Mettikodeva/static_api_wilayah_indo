@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cisarua",
-    "Ciuyah",
-    "Cimara",
-    "Bantarmara",
-    "Cipandanwangi",
-    "Cisalak",
-    "Kebonkalapa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisarua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciuyah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cimara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bantarmara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipandanwangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cisalak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kebonkalapa"
+    }
   ]
 }

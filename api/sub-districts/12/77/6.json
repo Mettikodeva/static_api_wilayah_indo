@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Joring Lombang",
-    "Batu Layan",
-    "Simasom",
-    "Pintu Langit Jae",
-    "Mompang",
-    "Rimba Soping",
-    "Simatohir",
-    "Joring Natobang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Joring Lombang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Layan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simasom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pintu Langit Jae"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mompang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rimba Soping"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Simatohir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Joring Natobang"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pineleng I (Pineleng Satu)",
-    "Pineleng II (Pineleng Dua)",
-    "Sea I",
-    "Sea II",
-    "Winagun Atas (Winangun Atas)",
-    "Warembungan",
-    "Sea",
-    "Kali",
-    "Kali Selatan",
-    "Pineleng Dua Indah",
-    "Lotta",
-    "Sea Mitra",
-    "Sea Tumpengan",
-    "Pineleng Satu Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pineleng I (Pineleng Satu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pineleng II (Pineleng Dua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sea I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sea II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Winagun Atas (Winangun Atas)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Warembungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sea"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kali"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kali Selatan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pineleng Dua Indah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Lotta"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sea Mitra"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sea Tumpengan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pineleng Satu Timur"
+    }
   ]
 }

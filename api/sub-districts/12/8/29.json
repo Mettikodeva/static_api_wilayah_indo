@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Merek Raya",
-    "Dalig Raya",
-    "Sondi Raya",
-    "Pematang Raya",
-    "Baringin Raya",
-    "Raya Bayu",
-    "Bahapal Raya",
-    "Siporkas",
-    "Sihubu Raya",
-    "Raya Bosi",
-    "Silou Huluan",
-    "Silou Buttu",
-    "Bongguran Kariahan",
-    "Simbou Baru",
-    "Dame Raya",
-    "Limag Raya",
-    "Lokkung Raya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Merek Raya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dalig Raya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sondi Raya"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pematang Raya"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Baringin Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Raya Bayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bahapal Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Siporkas"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sihubu Raya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Raya Bosi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Silou Huluan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Silou Buttu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bongguran Kariahan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Simbou Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Dame Raya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Limag Raya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Lokkung Raya"
+    }
   ]
 }

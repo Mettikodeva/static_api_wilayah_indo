@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Niki Niki",
-    "Taebesa",
-    "Nakfunu",
-    "Oe'ekam (Oeekam)",
-    "Baki",
-    "Tumu",
-    "Noebesa",
-    "Nobi Nobi",
-    "Sopo",
-    "Bone",
-    "Maunum Niki Niki"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Niki Niki"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taebesa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nakfunu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oe'ekam (Oeekam)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Noebesa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nobi Nobi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sopo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bone"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maunum Niki Niki"
+    }
   ]
 }

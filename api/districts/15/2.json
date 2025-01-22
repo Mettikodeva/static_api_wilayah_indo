@@ -1,28 +1,100 @@
 {
   "districts": [
-    "Jangkat",
-    "Bangko",
-    "Muara Siau",
-    "Sungai Manau",
-    "Tabir",
-    "Pamenang",
-    "Tabir Ulu",
-    "Tabir Selatan",
-    "Lembah Masurai",
-    "Bangko Barat",
-    "Nalo Tantan (Nalo Tatan)",
-    "Batang Masumai",
-    "Pamenang Barat",
-    "Tabir Ilir",
-    "Tabir Timur",
-    "Renah Pembarap",
-    "Pangkalan Jambu",
-    "Jangkat Timur (Sungai Tenang)",
-    "Renah Pamenang (Renah Pemenang)",
-    "Pamenang Selatan",
-    "Margo Tabir",
-    "Tabir Lintas",
-    "Tabir Barat",
-    "Tiang Pumpung"
+    {
+      "district_id": 1,
+      "kecamatan": "Jangkat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bangko"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Muara Siau"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sungai Manau"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tabir"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pamenang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Tabir Ulu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tabir Selatan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Lembah Masurai"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bangko Barat"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Nalo Tantan (Nalo Tatan)"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Batang Masumai"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Pamenang Barat"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tabir Ilir"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Tabir Timur"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Renah Pembarap"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Pangkalan Jambu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Jangkat Timur (Sungai Tenang)"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Renah Pamenang (Renah Pemenang)"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Pamenang Selatan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Margo Tabir"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Tabir Lintas"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Tabir Barat"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Tiang Pumpung"
+    }
   ]
 }

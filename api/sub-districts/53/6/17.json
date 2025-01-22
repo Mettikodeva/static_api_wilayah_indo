@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sagu",
-    "Kolimasang",
-    "Kolilanang",
-    "Tikatukan (Tikatukang)",
-    "Nisa Nulan (Nisanulan)",
-    "Lamahoda",
-    "Adonara",
-    "Kolipetung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sagu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kolimasang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kolilanang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tikatukan (Tikatukang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nisa Nulan (Nisanulan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lamahoda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Adonara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kolipetung"
+    }
   ]
 }

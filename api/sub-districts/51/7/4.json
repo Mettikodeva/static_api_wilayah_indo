@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Subagan",
-    "Padang Kerta",
-    "Karang asem (Karangasem)",
-    "Bugbug",
-    "Tumbu",
-    "Seraya (Seraya Tengah)",
-    "Seraya Barat",
-    "Seraya Timur",
-    "Pertima",
-    "Tegalinggah (Tegallinggah)",
-    "Bukit"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Subagan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Padang Kerta"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karang asem (Karangasem)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bugbug"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seraya (Seraya Tengah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seraya Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Seraya Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pertima"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tegalinggah (Tegallinggah)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bukit"
+    }
   ]
 }

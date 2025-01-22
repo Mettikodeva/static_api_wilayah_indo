@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Widoro",
-    "Sawahan",
-    "Kalak",
-    "Sendang",
-    "Klepu",
-    "Gedompol",
-    "Cemeng",
-    "Gendaran",
-    "Sukodono",
-    "Sekar",
-    "Donorojo",
-    "Belah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Widoro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sawahan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klepu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedompol"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cemeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gendaran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukodono"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sekar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Donorojo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Belah"
+    }
   ]
 }

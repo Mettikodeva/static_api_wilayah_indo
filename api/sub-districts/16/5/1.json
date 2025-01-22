@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "B. Srikaton",
-    "Surodadi",
-    "Tegal Rejo",
-    "Trikoyo",
-    "Kalibening",
-    "Widodo",
-    "Wonokerto",
-    "Nawangsasi (Nawangsari)",
-    "Sukomulyo",
-    "Wukirsari",
-    "Ngadirejo",
-    "Dwijaya",
-    "Siti Harjo",
-    "Mataram",
-    "Tambahasri",
-    "Wonorejo",
-    "Sidoharjo",
-    "Triwikaton"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "B. Srikaton"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Surodadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tegal Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Trikoyo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kalibening"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Widodo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nawangsasi (Nawangsari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukomulyo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wukirsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ngadirejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dwijaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Siti Harjo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mataram"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tambahasri"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sidoharjo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Triwikaton"
+    }
   ]
 }

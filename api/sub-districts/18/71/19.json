@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kota Karang",
-    "Kota Karang Raya",
-    "Parwata (Perwata)",
-    "Keteguhan",
-    "Sukamaju",
-    "Way Tataan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kota Karang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kota Karang Raya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Parwata (Perwata)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Keteguhan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Way Tataan"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Galela",
-    "Tobelo",
-    "Tobelo Selatan",
-    "Kao",
-    "Malifut",
-    "Loloda Utara",
-    "Tobelo Utara",
-    "Tobelo Tengah",
-    "Tobelo Timur",
-    "Tobelo Barat",
-    "Galela Barat",
-    "Galela Utara",
-    "Galela Selatan",
-    "Loloda Kepulauan",
-    "Kao Utara",
-    "Kao Barat",
-    "Kao Teluk"
+    {
+      "district_id": 4,
+      "kecamatan": "Galela"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tobelo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tobelo Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Kao"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Malifut"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Loloda Utara"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tobelo Utara"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tobelo Tengah"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tobelo Timur"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tobelo Barat"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Galela Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Galela Utara"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Galela Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Loloda Kepulauan"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Kao Utara"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kao Barat"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Kao Teluk"
+    }
   ]
 }

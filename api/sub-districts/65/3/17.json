@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tang Paye",
-    "Long Rungan",
-    "Long Kelupan",
-    "Long Padi",
-    "Tang Badui",
-    "Binuang",
-    "Long Mutan",
-    "Pa' Milau (Pa Milau)",
-    "Ba' Liku (Ba Liku)",
-    "Long Rian",
-    "Pa' Yalau (Pa Yalau)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tang Paye"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Rungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Kelupan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Long Padi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tang Badui"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Binuang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Long Mutan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pa' Milau (Pa Milau)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ba' Liku (Ba Liku)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Long Rian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pa' Yalau (Pa Yalau)"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Antapani Kulon",
-    "Antapani Tengah",
-    "Antapani Kidul",
-    "Antapani Wetan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Antapani Kulon"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Antapani Tengah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Antapani Kidul"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Antapani Wetan"
+    }
   ]
 }

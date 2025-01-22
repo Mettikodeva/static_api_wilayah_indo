@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pelita (Pelita Jaya)",
-    "Indong",
-    "Waya",
-    "Leleongusu (Loleongusu)",
-    "Akedabo",
-    "Bobo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pelita (Pelita Jaya)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Indong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Leleongusu (Loleongusu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Akedabo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bobo"
+    }
   ]
 }

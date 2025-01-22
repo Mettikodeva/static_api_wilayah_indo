@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Anjungan Melancar",
-    "Anjungan Dalam",
-    "Kepayang",
-    "Pak Bulu",
-    "Dema"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Anjungan Melancar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Anjungan Dalam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kepayang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pak Bulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dema"
+    }
   ]
 }

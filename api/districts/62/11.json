@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Pandih Batu",
-    "Kahayan Kuala",
-    "Kahayan Tengah",
-    "Banama Tingang",
-    "Kahayan Hilir",
-    "Maliku",
-    "Jabiren Raya",
-    "Sebangau Kuala"
+    {
+      "district_id": 1,
+      "kecamatan": "Pandih Batu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kahayan Kuala"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kahayan Tengah"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Banama Tingang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kahayan Hilir"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Maliku"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Jabiren Raya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sebangau Kuala"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Teratau",
-    "Namun",
-    "Jaro",
-    "Solan",
-    "Muang",
-    "Lano",
-    "Purui",
-    "Garagata",
-    "Nalui"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teratau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Namun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jaro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Solan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lano"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purui"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Garagata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nalui"
+    }
   ]
 }

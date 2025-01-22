@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Ampenan Selatan",
-    "Ampenan Tengah",
-    "Pejeruk",
-    "Ampenan Utara",
-    "Taman Sari (Tamansari)",
-    "Banjar",
-    "Kebun Sari (Kebunsari)",
-    "Pajarakan Karya",
-    "Dayan Peken (Doyan Peken)",
-    "Bintaro"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ampenan Selatan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ampenan Tengah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pejeruk"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ampenan Utara"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Taman Sari (Tamansari)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Banjar"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kebun Sari (Kebunsari)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Pajarakan Karya"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Dayan Peken (Doyan Peken)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bintaro"
+    }
   ]
 }

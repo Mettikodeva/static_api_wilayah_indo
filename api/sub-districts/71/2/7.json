@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tember",
-    "Kamanga",
-    "Sendangan",
-    "Talikuran",
-    "Tempok",
-    "Liba",
-    "Tolok",
-    "Kamanga Dua",
-    "Tempok Selatan",
-    "Tolok Satu"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tember"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kamanga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sendangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talikuran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tempok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Liba"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tolok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kamanga Dua"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tempok Selatan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tolok Satu"
+    }
   ]
 }

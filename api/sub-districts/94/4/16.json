@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kamoro Jaya",
-    "Wonosari Jaya",
-    "Inauga",
-    "Kadun Jaya",
-    "Nawaripi",
-    "Mawokau Jaya",
-    "Mandiri Jaya"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kamoro Jaya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Wonosari Jaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Inauga"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kadun Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nawaripi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mawokau Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mandiri Jaya"
+    }
   ]
 }

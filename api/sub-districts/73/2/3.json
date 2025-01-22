@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanahl Lemo (Tanah Lemo)",
-    "Sapo Lohe (Sapolohe)",
-    "Benjala",
-    "Tanah Beru",
-    "Bira",
-    "Ara",
-    "Darudiah (Darubiah)",
-    "Lembanna"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanahl Lemo (Tanah Lemo)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sapo Lohe (Sapolohe)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Benjala"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanah Beru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bira"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Darudiah (Darubiah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lembanna"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pelawi Utara",
-    "Berandan Barat (Brandan Barat)",
-    "Berandan Timur Baru (Brandan Timur Baru)",
-    "Berandan Timur (Brandan Timur)",
-    "Securai Utara",
-    "Teluk Meku",
-    "Pelawi Selatan",
-    "Securai Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pelawi Utara"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Berandan Barat (Brandan Barat)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Berandan Timur Baru (Brandan Timur Baru)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Berandan Timur (Brandan Timur)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Securai Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Meku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelawi Selatan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Securai Selatan"
+    }
   ]
 }

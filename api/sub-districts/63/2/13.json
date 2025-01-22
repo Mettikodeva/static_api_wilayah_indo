@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bepara",
-    "Betung",
-    "Sekayu Baru",
-    "Bakau",
-    "Binturung",
-    "Harapan Baru",
-    "Balaimea",
-    "Tamiang (Tamiyang)",
-    "Kalian",
-    "Mulyoharjo (Mulyo Harjo)",
-    "Pamukan Indah",
-    "Wonorejo",
-    "Lintang Jaya"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bepara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Betung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sekayu Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Binturung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Harapan Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Balaimea"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tamiang (Tamiyang)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalian"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mulyoharjo (Mulyo Harjo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pamukan Indah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lintang Jaya"
+    }
   ]
 }

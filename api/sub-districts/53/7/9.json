@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Runut",
-    "Egon",
-    "Pogon",
-    "Aibura",
-    "Wairbleler",
-    "Hoder",
-    "Wairterang",
-    "Nangatobong",
-    "Watudiran",
-    "Mahe Kelan",
-    "Egon Buluk"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Runut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Egon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pogon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aibura"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wairbleler"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hoder"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wairterang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nangatobong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Watudiran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mahe Kelan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Egon Buluk"
+    }
   ]
 }

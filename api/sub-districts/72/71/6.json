@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Nunu",
-    "Palupi",
-    "Tawanjuka",
-    "Pengawu",
-    "Duyu",
-    "Boyaoge"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Nunu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Palupi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tawanjuka"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pengawu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Duyu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Boyaoge"
+    }
   ]
 }

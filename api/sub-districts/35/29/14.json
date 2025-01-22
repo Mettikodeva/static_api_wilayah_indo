@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Slopeng",
-    "Semaan",
-    "Batubellah Barat (Batubelah Barat)",
-    "Batubellah Timur (Batubelah Timur)",
-    "Kecer",
-    "Bates",
-    "Bringin",
-    "Jelbudan",
-    "Kerta Barat",
-    "Kerta Timur",
-    "Nyapar",
-    "Dasuk Barat",
-    "Dasuk Timur",
-    "Dasuk Laok",
-    "Mantajun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Slopeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semaan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batubellah Barat (Batubelah Barat)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batubellah Timur (Batubelah Timur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kecer"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bates"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bringin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jelbudan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kerta Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kerta Timur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nyapar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dasuk Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dasuk Timur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dasuk Laok"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mantajun"
+    }
   ]
 }

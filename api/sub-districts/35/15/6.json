@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Kalisampurno",
-    "Ketapang",
-    "Kalitengah",
-    "Gempolsari (Gempol Sari)",
-    "Sentul",
-    "Penatarsewu",
-    "Banjarasri (Banjar Asri)",
-    "Banjarpanji (Banjar Panji)",
-    "Kedungbanteng (Kedung Banteng)",
-    "Kalidawir",
-    "Putat",
-    "Ngaban",
-    "Kludan",
-    "Boro",
-    "Kedensari",
-    "Ketegan",
-    "Ganggangpanjang (Ganggang Panjang)",
-    "Randegan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalisampurno"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalitengah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gempolsari (Gempol Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penatarsewu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banjarasri (Banjar Asri)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjarpanji (Banjar Panji)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedungbanteng (Kedung Banteng)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kalidawir"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Putat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ngaban"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kludan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Boro"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kedensari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ketegan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ganggangpanjang (Ganggang Panjang)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Randegan"
+    }
   ]
 }

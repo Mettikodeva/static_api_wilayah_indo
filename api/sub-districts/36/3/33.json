@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mekar Baru",
-    "Kedaung",
-    "Cijeruk",
-    "Waliwis",
-    "Klutuk",
-    "Jenggot",
-    "Kosambi Dalam",
-    "Gandaria (Ganda Ria)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekar Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedaung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cijeruk"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waliwis"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klutuk"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jenggot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kosambi Dalam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gandaria (Ganda Ria)"
+    }
   ]
 }

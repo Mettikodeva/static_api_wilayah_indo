@@ -1,52 +1,196 @@
 {
   "sub_districts": [
-    "Baroh (Baroh Ujong Rimba)",
-    "Alue Jojo (Jojo)",
-    "Kampong Cot Usi (Gampong Cot Usi)",
-    "Dayah Usi",
-    "Paloh Lhok Usi",
-    "Campli Usi",
-    "Mee Tanjong",
-    "Mesjid Usi",
-    "Paloh Raya",
-    "Nibong",
-    "Baro Ujong Rimba",
-    "Rinti",
-    "Didoh",
-    "Meugit",
-    "Empeh",
-    "Blang Riek",
-    "Bale Ujong Rimba",
-    "Mon Ara",
-    "Kulam Ara",
-    "Blangong Basah",
-    "Rambong",
-    "Kampong Lada (Gampong Lada)",
-    "Dayah Kumba",
-    "Cot Khutang (Cot Kuthang)",
-    "Dayah Tanoh",
-    "Ulee Tutue",
-    "Beureueh II",
-    "Mesjid Jeurat Manyang",
-    "Paloh Tinggi",
-    "Karieng",
-    "Sagoe Tumpeun (Sagoe Teumpeun)",
-    "Tong Peria (Tong Pria)",
-    "Tong Weng",
-    "Pulo Drien",
-    "Mesjid Gumpueng",
-    "Ulee Gampong",
-    "Barieh",
-    "Jumphoh Adan (Jumphoi Adan)",
-    "Mee Adan (Me Adan)",
-    "Dayah Adan",
-    "Alue Adan",
-    "Rambot Adan",
-    "Meucat Adan",
-    "Tiba Mesjid (Mesjid Tiba)",
-    "Tiba Raya",
-    "Reubat",
-    "Simbe (Simbee / Blang Simbee)",
-    "Jiem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baroh (Baroh Ujong Rimba)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alue Jojo (Jojo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kampong Cot Usi (Gampong Cot Usi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dayah Usi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paloh Lhok Usi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Campli Usi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mee Tanjong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mesjid Usi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paloh Raya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nibong"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baro Ujong Rimba"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rinti"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Didoh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Meugit"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Empeh"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Blang Riek"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bale Ujong Rimba"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mon Ara"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kulam Ara"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Blangong Basah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Rambong"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kampong Lada (Gampong Lada)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Dayah Kumba"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Cot Khutang (Cot Kuthang)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Dayah Tanoh"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Ulee Tutue"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Beureueh II"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Mesjid Jeurat Manyang"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Paloh Tinggi"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Karieng"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Sagoe Tumpeun (Sagoe Teumpeun)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Tong Peria (Tong Pria)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Tong Weng"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Pulo Drien"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Mesjid Gumpueng"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Ulee Gampong"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Barieh"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Jumphoh Adan (Jumphoi Adan)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Mee Adan (Me Adan)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Dayah Adan"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Alue Adan"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Rambot Adan"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Meucat Adan"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Tiba Mesjid (Mesjid Tiba)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Tiba Raya"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Reubat"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Simbe (Simbee / Blang Simbee)"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Jiem"
+    }
   ]
 }

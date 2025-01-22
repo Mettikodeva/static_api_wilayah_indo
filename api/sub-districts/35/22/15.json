@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Jetak",
-    "Mojokampung",
-    "Kepatihan",
-    "Sumbang",
-    "Klangon",
-    "Ledok Kulon",
-    "Ledok Wetan",
-    "Kadipaten",
-    "Ngrowo",
-    "Karang Pacar",
-    "Banjarrejo (Banjarejo)",
-    "Pacul",
-    "Sukorejo",
-    "Kauman",
-    "Campurejo",
-    "Mulyoagung",
-    "Kalirejo",
-    "Semanding"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jetak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mojokampung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kepatihan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sumbang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Klangon"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ledok Kulon"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ledok Wetan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kadipaten"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Ngrowo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Karang Pacar"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Banjarrejo (Banjarejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pacul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Campurejo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mulyoagung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Semanding"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sosor Gadong",
-    "Unte Boang",
-    "Sibintang",
-    "Barambang",
-    "Siantar Ca",
-    "Muara Bolak",
-    "Huta Tombak",
-    "Siantar Dolok",
-    "Baringin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sosor Gadong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Unte Boang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sibintang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Barambang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siantar Ca"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Bolak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Huta Tombak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siantar Dolok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Baringin"
+    }
   ]
 }

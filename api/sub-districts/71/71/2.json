@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bitung Karangria (Bitungkarangria)",
-    "Tuminting",
-    "Tumumpa Satu",
-    "Maasing",
-    "Sindulang Satu",
-    "Sindulang Dua",
-    "Islam (Kampung Islam)",
-    "Tumumpa Dua",
-    "Sumompo",
-    "Mahawu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bitung Karangria (Bitungkarangria)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tuminting"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tumumpa Satu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Maasing"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sindulang Satu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Sindulang Dua"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Islam (Kampung Islam)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tumumpa Dua"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sumompo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Mahawu"
+    }
   ]
 }

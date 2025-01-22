@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kawangkoan Bawah",
-    "Rumoong Bawah (Kelurahan Rumoong Bawah)",
-    "Kapitu",
-    "Rumoong Bawah",
-    "Tewasen",
-    "Pondos",
-    "Elusan",
-    "Teep",
-    "Wakan",
-    "Teep Trans"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kawangkoan Bawah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rumoong Bawah (Kelurahan Rumoong Bawah)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kapitu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rumoong Bawah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tewasen"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pondos"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Elusan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teep"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wakan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teep Trans"
+    }
   ]
 }

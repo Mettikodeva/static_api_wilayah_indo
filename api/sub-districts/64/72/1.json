@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Rawa Makmur",
-    "Handil Bakti",
-    "Bukuan",
-    "Simpang Pasir",
-    "Bantuas"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Rawa Makmur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Handil Bakti"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bukuan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Simpang Pasir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Bantuas"
+    }
   ]
 }

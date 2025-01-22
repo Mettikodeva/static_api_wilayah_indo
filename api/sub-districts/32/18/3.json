@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kertaharja",
-    "Ciparanti",
-    "Legokjawa",
-    "Masawah",
-    "Cimerak",
-    "Sukajaya",
-    "Kertamukti",
-    "Sindangsari",
-    "Batumalang",
-    "Mekarsari",
-    "Limusgede"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kertaharja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciparanti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Legokjawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Masawah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cimerak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kertamukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Batumalang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Limusgede"
+    }
   ]
 }

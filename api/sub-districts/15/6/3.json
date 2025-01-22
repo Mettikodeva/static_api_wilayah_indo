@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Teluknilau (Teluk Nilau)",
-    "Parit Pudin",
-    "Sungaiserindit (Sei / Sungai Serindit)",
-    "Mekar Jati",
-    "Sungaipampang (Sungai Pampang)",
-    "Parit Sidang",
-    "Sungaijering (Sungai Jering)",
-    "Parit Bilal",
-    "SuakSamin (Suak Samin)",
-    "Sungaibaung (Sungai Baung)",
-    "Karya Maju",
-    "Sungairaya (Sungai Raya)",
-    "Pasar Senin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Teluknilau (Teluk Nilau)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parit Pudin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungaiserindit (Sei / Sungai Serindit)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Jati"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungaipampang (Sungai Pampang)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Parit Sidang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sungaijering (Sungai Jering)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Parit Bilal"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "SuakSamin (Suak Samin)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sungaibaung (Sungai Baung)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Karya Maju"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sungairaya (Sungai Raya)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pasar Senin"
+    }
   ]
 }

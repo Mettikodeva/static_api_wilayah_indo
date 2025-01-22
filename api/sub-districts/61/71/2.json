@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Paritmayor (Parit Mayor)",
-    "Banjar Serasan",
-    "Saigon",
-    "Tanjunghulu (Tanjung Hulu)",
-    "Tanjunghilir (Tanjung Hilir)",
-    "Dalambugis (Dalam Bugis)",
-    "Tambelansampit (Tambelan Sampit)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Paritmayor (Parit Mayor)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Banjar Serasan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Saigon"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanjunghulu (Tanjung Hulu)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjunghilir (Tanjung Hilir)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Dalambugis (Dalam Bugis)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tambelansampit (Tambelan Sampit)"
+    }
   ]
 }

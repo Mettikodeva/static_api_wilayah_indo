@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Gambir",
-    "Cideng",
-    "Petojo Utara",
-    "Petojo Selatan",
-    "Kebon Kelapa",
-    "Duri Pulo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gambir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cideng"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Petojo Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Petojo Selatan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebon Kelapa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Duri Pulo"
+    }
   ]
 }

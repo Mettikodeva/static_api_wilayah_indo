@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Besusu Barat",
-    "Besusu Tengah",
-    "Besusu Timur",
-    "Lolu Selatan",
-    "Lolu Utara"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Besusu Barat"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Besusu Tengah"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Besusu Timur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lolu Selatan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lolu Utara"
+    }
   ]
 }

@@ -1,52 +1,196 @@
 {
   "sub_districts": [
-    "Mengani",
-    "Binyan",
-    "Ulian",
-    "Bunutin",
-    "Langgahan",
-    "Lembean",
-    "Manikliyu",
-    "Bayung Cerik (Bayungcerik)",
-    "Mangguh",
-    "Belancan",
-    "Katung",
-    "Banua",
-    "Abuan",
-    "Bonyoh",
-    "Sekaan",
-    "Bayung Gede (Bayunggede)",
-    "Sekardadi",
-    "Kedisan",
-    "Buahan",
-    "Abangsongan (Abang Songan)",
-    "Suter",
-    "Batudinding (Batu Dinding)",
-    "Terunyan",
-    "Songan A",
-    "Songan B",
-    "Batur Selatan",
-    "Batur Tengah",
-    "Batur Utara",
-    "Kintamani",
-    "Serai (Serahi)",
-    "Daup",
-    "Awan",
-    "Gunungbau",
-    "Belanga",
-    "Batukaang",
-    "Belantih",
-    "Catur",
-    "Pengejaran",
-    "Selulung",
-    "Satra",
-    "Dausa",
-    "Bantang",
-    "Sukawana",
-    "Kutuh",
-    "Subaya",
-    "Siakin (Siyakin)",
-    "Pinggan",
-    "Belandingan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mengani"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Binyan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ulian"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bunutin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langgahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lembean"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manikliyu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bayung Cerik (Bayungcerik)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mangguh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Belancan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Katung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Abuan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bonyoh"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sekaan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bayung Gede (Bayunggede)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sekardadi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kedisan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Buahan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Abangsongan (Abang Songan)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Suter"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Batudinding (Batu Dinding)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Terunyan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Songan A"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Songan B"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Batur Selatan"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Batur Tengah"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Batur Utara"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Kintamani"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Serai (Serahi)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Daup"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Awan"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Gunungbau"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Belanga"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Batukaang"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Belantih"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Catur"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Pengejaran"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Selulung"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Satra"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Dausa"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Bantang"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Sukawana"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Kutuh"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Subaya"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Siakin (Siyakin)"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Pinggan"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Belandingan"
+    }
   ]
 }

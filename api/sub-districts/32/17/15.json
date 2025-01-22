@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sirnajaya",
-    "Gununghalu",
-    "Bunijaya",
-    "Celak",
-    "Cilangari",
-    "Sindangjaya",
-    "Sukasari",
-    "Tamanjaya",
-    "Wargasaluyu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sirnajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gununghalu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bunijaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Celak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cilangari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sindangjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamanjaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wargasaluyu"
+    }
   ]
 }

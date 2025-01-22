@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mandeu Raimanus (Raimanus)",
-    "Renrua",
-    "Dua Koran (Duakoran)",
-    "Mandeu",
-    "Rafae",
-    "Faturika",
-    "Leuntolu",
-    "Teun",
-    "Tasain"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mandeu Raimanus (Raimanus)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Renrua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dua Koran (Duakoran)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mandeu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rafae"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Faturika"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Leuntolu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tasain"
+    }
   ]
 }

@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Rejowinangun",
-    "Prenggan",
-    "Purbayan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Rejowinangun"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Prenggan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Purbayan"
+    }
   ]
 }

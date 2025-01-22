@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cengkareng Barat",
-    "Duri Kosambi",
-    "Rawa Buaya",
-    "Kedaung Kali Angke",
-    "Kapuk",
-    "Cengkareng Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cengkareng Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Duri Kosambi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rawa Buaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kedaung Kali Angke"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kapuk"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cengkareng Timur"
+    }
   ]
 }

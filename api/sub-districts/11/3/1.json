@@ -1,49 +1,184 @@
 {
   "sub_districts": [
-    "Alue Luddin Sa (Alur Ludin I / Satu)",
-    "Alue Luddin Dua (Alur Ludin II / Dua)",
-    "Alue Dalam",
-    "Dama Pulo Sa (Dama Pulo I)",
-    "Dama Pulo Dua (Dama Polo II)",
-    "Buket Kulam",
-    "Seuneubok Teungoh",
-    "Jungka Gajah",
-    "Seuneubok Simpang",
-    "Matang Pineung",
-    "Lhok Geulumpang",
-    "Blang Buket",
-    "Meunasah Keutapang",
-    "Buket Rumia/Rumiya",
-    "Alue Gadeng",
-    "Kapai Baro",
-    "Seuneubok Tuha Sa (Seuneubok Tuha I)",
-    "Seuneubok Tuha Dua (Seuneubok Tuha II)",
-    "Seuneubok Buloh",
-    "Gaseh Sayang",
-    "Alue Lhok (Alur Lhok)",
-    "Trieng Gadeng",
-    "Grong-Grong",
-    "Matang Geuto (Matang Geutou)",
-    "Alue Merbo (Alur Merbo)",
-    "Buket Raya",
-    "Gampong Keude (Kampung Keude)",
-    "Peukan Idi Cut (Keude Idi Cut)",
-    "Gampong Beunot (Kampung Beunot)",
-    "Seuneubok Baroh",
-    "Teupin Drum",
-    "Kuala Idi Cut",
-    "Seuneubok Aceh",
-    "Gampong Baro (Kampung Baro)",
-    "Bagok Panah Sa (Bagok Panah I)",
-    "Bagok Panah Dua (Bagok Panah II)",
-    "Bagok Panah Lhee (Bagok Panah III)",
-    "Bagok Panah Peut (Bagok Panah IV)",
-    "Buket Tualang",
-    "Keumuneng Sa (Kemuning I)",
-    "Keumuneng Dua (Kemuning II)",
-    "Keumuneng Lhee (Kemuning III)",
-    "Keumuneng Peut (Kemuning IV)",
-    "Keumuneng Limong (Kemuning V)",
-    "Meunasah Blang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alue Luddin Sa (Alur Ludin I / Satu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alue Luddin Dua (Alur Ludin II / Dua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alue Dalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dama Pulo Sa (Dama Pulo I)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dama Pulo Dua (Dama Polo II)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buket Kulam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seuneubok Teungoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jungka Gajah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seuneubok Simpang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Matang Pineung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lhok Geulumpang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Blang Buket"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Meunasah Keutapang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Buket Rumia/Rumiya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Alue Gadeng"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kapai Baro"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Seuneubok Tuha Sa (Seuneubok Tuha I)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Seuneubok Tuha Dua (Seuneubok Tuha II)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Seuneubok Buloh"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Gaseh Sayang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Alue Lhok (Alur Lhok)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Trieng Gadeng"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Grong-Grong"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Matang Geuto (Matang Geutou)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Alue Merbo (Alur Merbo)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Buket Raya"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Gampong Keude (Kampung Keude)"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Peukan Idi Cut (Keude Idi Cut)"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Gampong Beunot (Kampung Beunot)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Seuneubok Baroh"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Teupin Drum"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Kuala Idi Cut"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Seuneubok Aceh"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Gampong Baro (Kampung Baro)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Bagok Panah Sa (Bagok Panah I)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Bagok Panah Dua (Bagok Panah II)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Bagok Panah Lhee (Bagok Panah III)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Bagok Panah Peut (Bagok Panah IV)"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Buket Tualang"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Keumuneng Sa (Kemuning I)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Keumuneng Dua (Kemuning II)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Keumuneng Lhee (Kemuning III)"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Keumuneng Peut (Kemuning IV)"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Keumuneng Limong (Kemuning V)"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Meunasah Blang"
+    }
   ]
 }

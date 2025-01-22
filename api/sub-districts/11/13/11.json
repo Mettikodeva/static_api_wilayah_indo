@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Seneren",
-    "Remukut",
-    "Kenyaran",
-    "Tetingi (Tetinggi)",
-    "Atu Kapur",
-    "Suri Musara",
-    "UPT. Aih Selah (Aih Selah)",
-    "Cane Baru",
-    "Kuning Kurnia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seneren"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Remukut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kenyaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tetingi (Tetinggi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Atu Kapur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suri Musara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "UPT. Aih Selah (Aih Selah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cane Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuning Kurnia"
+    }
   ]
 }

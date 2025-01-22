@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Talete Satu",
-    "Talete Dua",
-    "Kamasi",
-    "Kolongan",
-    "Matani Satu",
-    "Matani Dua",
-    "Matani Tiga",
-    "Kamasi Satu",
-    "Kolongan Satu"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Talete Satu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Talete Dua"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kamasi"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kolongan"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Matani Satu"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Matani Dua"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Matani Tiga"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Kamasi Satu"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Kolongan Satu"
+    }
   ]
 }

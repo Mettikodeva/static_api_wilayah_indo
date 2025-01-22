@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Citamiang",
-    "Tipar",
-    "Nanggeleng",
-    "Gedongpanjang",
-    "Cikondang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Citamiang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tipar"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nanggeleng"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Gedongpanjang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cikondang"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Toto Mulyo",
-    "Setia Bumi",
-    "Gunung Terang",
-    "Gunung Agung",
-    "Kagungan Jaya",
-    "Terang Mulya",
-    "Terang Bumi Agung",
-    "Setia Agung",
-    "Mulyo Jadi",
-    "Terang Makmur"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Toto Mulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Setia Bumi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Terang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung Agung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kagungan Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Terang Mulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Terang Bumi Agung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Setia Agung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mulyo Jadi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Terang Makmur"
+    }
   ]
 }

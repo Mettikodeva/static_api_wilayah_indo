@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Tanjung Raja",
-    "Tanjung Raja Barat",
-    "Tanjung Raja Utara",
-    "Tanjung Raja Timur",
-    "Suka Pindah",
-    "Tanjung Temiang",
-    "Sridalam/Seri Dalam",
-    "Kerinjing",
-    "Ulak Kerbau Baru",
-    "Ulak Kerbau Lama",
-    "Tanjung Agas",
-    "Siring Alam",
-    "Talang Balai Baru I",
-    "Talang Balai Lama",
-    "Skonjing",
-    "Tanjung Raja Selatan",
-    "Belanti",
-    "Tanjung Harapan",
-    "Talang Balai Baru II"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Raja"
+    },
+    {
+      "sub_district_id": 1027,
+      "desa_kelurahan": "Tanjung Raja Barat"
+    },
+    {
+      "sub_district_id": 1028,
+      "desa_kelurahan": "Tanjung Raja Utara"
+    },
+    {
+      "sub_district_id": 1035,
+      "desa_kelurahan": "Tanjung Raja Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suka Pindah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Temiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sridalam/Seri Dalam"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kerinjing"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ulak Kerbau Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ulak Kerbau Lama"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tanjung Agas"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Siring Alam"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Talang Balai Baru I"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Talang Balai Lama"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Skonjing"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Tanjung Raja Selatan"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Belanti"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Tanjung Harapan"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Talang Balai Baru II"
+    }
   ]
 }

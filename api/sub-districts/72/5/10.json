@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mokupo",
-    "Mendaan",
-    "Baruga",
-    "Monano",
-    "Busak I",
-    "Busak II",
-    "Lamakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mokupo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mendaan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baruga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Monano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Busak I"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Busak II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lamakan"
+    }
   ]
 }

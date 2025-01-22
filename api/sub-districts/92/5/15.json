@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Manyaifun",
-    "Meosmanggara",
-    "Pam",
-    "Saukabu",
-    "Gag",
-    "Saupapir"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Manyaifun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Meosmanggara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saukabu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gag"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saupapir"
+    }
   ]
 }

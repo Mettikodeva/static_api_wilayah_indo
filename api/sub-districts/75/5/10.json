@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Biawu (Biau)",
-    "Omuto",
-    "Luhuto",
-    "Windu",
-    "Topi",
-    "Sembihinga (Sembihingan)",
-    "Didingga",
-    "Bualo",
-    "Potanga (Potango)",
-    "Bohulo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biawu (Biau)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Omuto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Luhuto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Windu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Topi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sembihinga (Sembihingan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Didingga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bualo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Potanga (Potango)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bohulo"
+    }
   ]
 }

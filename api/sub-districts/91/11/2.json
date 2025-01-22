@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Arso Kota",
-    "Workwana",
-    "Kwimi",
-    "Ubiyau",
-    "Sawanawa",
-    "Yuwanain",
-    "Yanamaa",
-    "Asyaman",
-    "Yamta",
-    "Bagia",
-    "Sawabuun",
-    "Bibiosi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arso Kota"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Workwana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kwimi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ubiyau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawanawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yuwanain"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yanamaa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Asyaman"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Yamta"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bagia"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sawabuun"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Bibiosi"
+    }
   ]
 }

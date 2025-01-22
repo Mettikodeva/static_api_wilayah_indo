@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Sadengrejo (Sadeng Rejo)",
-    "Pandanrejo (Pandan Rejo)",
-    "Ketegan",
-    "Toyaning",
-    "Arjosari",
-    "Kawisrejo (Kawis Rejo)",
-    "Rejoso Kidul",
-    "Manikrejo (Manik Rejo)",
-    "Karangpandan (Karang Pandan)",
-    "Sambirejo",
-    "Kedungbako (Kedung Bako)",
-    "Rejoso Lor (Rejosolor)",
-    "Patuguhan (Patuguran)",
-    "Kemantren Rejo",
-    "Segoropuro (Segoro Puro)",
-    "Jarangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sadengrejo (Sadeng Rejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pandanrejo (Pandan Rejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ketegan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Toyaning"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Arjosari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kawisrejo (Kawis Rejo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rejoso Kidul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Manikrejo (Manik Rejo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangpandan (Karang Pandan)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedungbako (Kedung Bako)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rejoso Lor (Rejosolor)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Patuguhan (Patuguran)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kemantren Rejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Segoropuro (Segoro Puro)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jarangan"
+    }
   ]
 }

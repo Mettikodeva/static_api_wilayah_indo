@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Barabai Darat",
-    "Barabai Timur",
-    "Barabai Selatan",
-    "Barabai Utara",
-    "Barabai Barat",
-    "Bukat",
-    "Gambah",
-    "Kayu Bawang",
-    "Benawa Tengah",
-    "Mandingin",
-    "Pajukungan",
-    "Banua Budi",
-    "Banua Binjai",
-    "Banua Jingah",
-    "Ayuang",
-    "Babai",
-    "Awang Besar",
-    "Bakapas"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Barabai Darat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Barabai Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Barabai Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Barabai Utara"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Barabai Barat"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bukat"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gambah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kayu Bawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Benawa Tengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mandingin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pajukungan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banua Budi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banua Binjai"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banua Jingah"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ayuang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Babai"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Awang Besar"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bakapas"
+    }
   ]
 }

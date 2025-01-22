@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lateri",
-    "Passo",
-    "Halong",
-    "Latta",
-    "Negeri Lama",
-    "Nania",
-    "Waiheru"
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Lateri"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Passo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Halong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Latta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Negeri Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nania"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waiheru"
+    }
   ]
 }

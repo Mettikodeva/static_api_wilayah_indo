@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Plangkapan",
-    "Gumelar Lor",
-    "Gumelar Kidul",
-    "Karangpetir",
-    "Gebangsari",
-    "Prembun",
-    "Buniayu",
-    "Pesantren",
-    "Karangpucung",
-    "Kamulyan",
-    "Purwodadi",
-    "Watuagung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Plangkapan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gumelar Lor"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gumelar Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangpetir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gebangsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Prembun"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Buniayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pesantren"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangpucung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kamulyan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watuagung"
+    }
   ]
 }

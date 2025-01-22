@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Purwosari",
-    "Sendang Ayu",
-    "Bandar Sari (Bandarsari)",
-    "Surabaya",
-    "Margorejo",
-    "Kota Baru",
-    "Karang Tanjung",
-    "Kuripan",
-    "Sri Agung",
-    "Haduyang Ratu",
-    "Padang Ratu",
-    "Karang Sari",
-    "Mojokerto",
-    "Sumber Sari",
-    "Purworejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sendang Ayu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Sari (Bandarsari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Surabaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Margorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Tanjung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuripan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sri Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Haduyang Ratu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Ratu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Karang Sari"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mojokerto"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sumber Sari"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Purworejo"
+    }
   ]
 }

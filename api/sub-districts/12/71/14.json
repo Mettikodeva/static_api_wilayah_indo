@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Indra Kasih",
-    "Sidorejo Hilir",
-    "Sidorejo",
-    "Bantan",
-    "Tembung",
-    "Bandar Selamat",
-    "Bantan Timur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Indra Kasih"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sidorejo Hilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bantan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tembung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bandar Selamat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bantan Timur"
+    }
   ]
 }

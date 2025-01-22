@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Penindaian",
-    "Babatan",
-    "Muara Dua",
-    "Muara Danau",
-    "Penyandingan",
-    "Tanah Abang",
-    "Pagar Agung",
-    "Pulau Panggung",
-    "Karya Nyata",
-    "Perapau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penindaian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Babatan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Danau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanah Abang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagar Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pulau Panggung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karya Nyata"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perapau"
+    }
   ]
 }

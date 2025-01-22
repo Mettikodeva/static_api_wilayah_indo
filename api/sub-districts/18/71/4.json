@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Panjang Selatan",
-    "Srengsem",
-    "Panjang Utara",
-    "Pidada",
-    "Karang Maritim",
-    "Way Lunik",
-    "Ketapang",
-    "Ketapang Kuala"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Panjang Selatan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Srengsem"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Panjang Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pidada"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karang Maritim"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Way Lunik"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Ketapang Kuala"
+    }
   ]
 }

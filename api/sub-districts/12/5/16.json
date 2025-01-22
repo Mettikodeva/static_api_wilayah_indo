@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pekan Besitang",
-    "Bukit Kubu",
-    "Kampung Lama",
-    "Halaban",
-    "Bukit Mas",
-    "Pir ABD Besitang (Pir Adb Besitang)",
-    "Sekoci",
-    "Suka Jaya",
-    "Bukit Selamat"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pekan Besitang"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Bukit Kubu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kampung Lama"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Halaban"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Mas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pir ABD Besitang (Pir Adb Besitang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sekoci"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Selamat"
+    }
   ]
 }

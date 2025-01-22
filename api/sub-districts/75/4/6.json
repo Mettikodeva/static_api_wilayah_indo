@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Iloheluma (Ilo Heluma)",
-    "Balayo",
-    "Suka Makmur",
-    "Manawa",
-    "Dulomo",
-    "Dudepo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Iloheluma (Ilo Heluma)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Balayo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manawa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dulomo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dudepo"
+    }
   ]
 }

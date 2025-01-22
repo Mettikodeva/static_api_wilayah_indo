@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tumbang Tuhan/Tohan",
-    "Tumbang Naan",
-    "Muara Joloi I",
-    "Muara Joloi II",
-    "Parahau",
-    "Tumbang Jojang",
-    "Takajung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbang Tuhan/Tohan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Naan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muara Joloi I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Muara Joloi II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parahau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tumbang Jojang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Takajung"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ambang I",
-    "Ambang II",
-    "Tadoy",
-    "Bolaang",
-    "Bantik",
-    "Lolan",
-    "Tadoy I",
-    "Bolaang Satu",
-    "Lolan Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ambang I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ambang II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tadoy"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bolaang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bantik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lolan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tadoy I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bolaang Satu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lolan Dua"
+    }
   ]
 }

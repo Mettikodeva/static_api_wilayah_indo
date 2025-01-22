@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tarutung",
-    "Lubuk Paku",
-    "Tamiai",
-    "Pematang Lingkung",
-    "Pasar Tamiai",
-    "Seberang Merangin",
-    "Baru Pulau Sangkar",
-    "Batang Merangin",
-    "Muara Hemat"
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tarutung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Paku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamiai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pematang Lingkung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasar Tamiai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seberang Merangin"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baru Pulau Sangkar"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batang Merangin"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Muara Hemat"
+    }
   ]
 }

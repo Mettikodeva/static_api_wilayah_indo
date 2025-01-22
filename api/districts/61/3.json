@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Kapuas (Sanggau Kapuas)",
-    "Mukok",
-    "Noyan",
-    "Jangkang",
-    "Bonti",
-    "Beduai (Beduwai)",
-    "Sekayam",
-    "Kembayan",
-    "Parindu",
-    "Tayan Hulu",
-    "Tayan Hilir",
-    "Balai",
-    "Toba",
-    "Meliau",
-    "Entikong"
+    {
+      "district_id": 1,
+      "kecamatan": "Kapuas (Sanggau Kapuas)"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mukok"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Noyan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Jangkang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bonti"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Beduai (Beduwai)"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sekayam"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kembayan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Parindu"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tayan Hulu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tayan Hilir"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Balai"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Toba"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Meliau"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Entikong"
+    }
   ]
 }

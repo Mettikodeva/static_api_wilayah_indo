@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Glanggang",
-    "Pagak",
-    "Baujeng",
-    "Ngembe",
-    "Kenep",
-    "Sidowayah",
-    "Gajahrejo (Gajahbendo)",
-    "Gunung Gangsir",
-    "Wonokoyo",
-    "Gunungsari (Gunung Sari)",
-    "Cangkringmalang (Cangkring Malang)",
-    "Kedungringin (Kedung Ringin)",
-    "Kedungboto (Kedung Boto)",
-    "Beji"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Glanggang"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pagak"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baujeng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngembe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kenep"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidowayah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gajahrejo (Gajahbendo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gunung Gangsir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonokoyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunungsari (Gunung Sari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cangkringmalang (Cangkring Malang)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedungringin (Kedung Ringin)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kedungboto (Kedung Boto)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Beji"
+    }
   ]
 }

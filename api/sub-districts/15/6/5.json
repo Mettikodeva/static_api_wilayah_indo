@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Merlung (Desa)",
-    "Penyabungan",
-    "Lubuk Terap",
-    "Tanjungpaku (Tanjung Paku)",
-    "Tanjungbenanak (Tanjung Benanak)",
-    "Bukitharapan (Bukit Harapan)",
-    "Adi Purwa",
-    "Pinang Gading",
-    "Merlung (Kelurahan)",
-    "Tanjungmakmur (Tanjung Makmur)"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Merlung (Desa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyabungan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Terap"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungpaku (Tanjung Paku)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjungbenanak (Tanjung Benanak)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukitharapan (Bukit Harapan)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Adi Purwa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pinang Gading"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Merlung (Kelurahan)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tanjungmakmur (Tanjung Makmur)"
+    }
   ]
 }

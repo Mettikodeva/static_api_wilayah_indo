@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kabir",
-    "Pandai",
-    "Bandar",
-    "Baolang",
-    "Munaseli",
-    "Helangdohi",
-    "Wailawar",
-    "Bana",
-    "Bouweli",
-    "Bukit Mas",
-    "Madar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kabir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pandai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baolang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Munaseli"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Helangdohi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wailawar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bana"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bouweli"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bukit Mas"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Madar"
+    }
   ]
 }

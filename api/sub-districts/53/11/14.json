@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kamanggih",
-    "Kambatabundung (Kambata Bundung)",
-    "Meurumba (Meorumba)",
-    "Laimbonga (Lai Mbonga)",
-    "Kota Kawau (Kotak Kawau)",
-    "Matawai Katingga",
-    "Kataka",
-    "Matawai Maringgu (Matawai Maringu)",
-    "Mauramba (Mau Ramba)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kamanggih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kambatabundung (Kambata Bundung)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meurumba (Meorumba)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Laimbonga (Lai Mbonga)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Kawau (Kotak Kawau)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Matawai Katingga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kataka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Matawai Maringgu (Matawai Maringu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mauramba (Mau Ramba)"
+    }
   ]
 }

@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Kalijambe",
-    "Plupuh",
-    "Masaran",
-    "Kedawung",
-    "Sambirejo",
-    "Gondang",
-    "Sambungmacan (Sambung Macan)",
-    "Ngrampal",
-    "Karangmalang",
-    "Sragen",
-    "Sidoharjo",
-    "Tanon",
-    "Gemolong",
-    "Miri",
-    "Sumberlawang",
-    "Mondokan",
-    "Sukodono",
-    "Gesi",
-    "Tangen",
-    "Jenar"
+    {
+      "district_id": 1,
+      "kecamatan": "Kalijambe"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Plupuh"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Masaran"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kedawung"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sambirejo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Gondang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sambungmacan (Sambung Macan)"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Ngrampal"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Karangmalang"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sragen"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sidoharjo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tanon"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Gemolong"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Miri"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Sumberlawang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Mondokan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Sukodono"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Gesi"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tangen"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Jenar"
+    }
   ]
 }

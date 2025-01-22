@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Katiku Loku",
-    "Hupu Mada",
-    "Praibakul (Prai Bakul)",
-    "Hoba Wawi",
-    "Waihura (Wai Hura)",
-    "Pahola",
-    "Bali Loku",
-    "Tara Manu",
-    "Mamodu",
-    "Rua",
-    "Rewa Rara",
-    "Wei Mangoma",
-    "Ana Wolu",
-    "Pari Rara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Katiku Loku"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hupu Mada"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Praibakul (Prai Bakul)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Hoba Wawi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waihura (Wai Hura)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pahola"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bali Loku"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tara Manu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mamodu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rewa Rara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wei Mangoma"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ana Wolu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pari Rara"
+    }
   ]
 }

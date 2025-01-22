@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Hiliwaloo II",
-    "Gunungbaru (Gunung Baru)",
-    "Hilisoromi (Hili Soromi)",
-    "Siduahili (Sidua Hili)",
-    "Sitolubanua Fadoro (Sitolu Banua Fadoro)",
-    "Halifadolo (Hilifadolo)",
-    "Lasara Bahili",
-    "Hiliwaele (Hili Waele)",
-    "Sitoluewali (Sitolu Ewali)",
-    "Onozalukhu You"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hiliwaloo II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunungbaru (Gunung Baru)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hilisoromi (Hili Soromi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siduahili (Sidua Hili)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sitolubanua Fadoro (Sitolu Banua Fadoro)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Halifadolo (Hilifadolo)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lasara Bahili"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hiliwaele (Hili Waele)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sitoluewali (Sitolu Ewali)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Onozalukhu You"
+    }
   ]
 }

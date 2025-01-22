@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sungai Bengkal",
-    "Sungai Aro",
-    "Teluk Rendah Pasar",
-    "Teluk Rendah Ulu",
-    "Teluk Rendah Ilir",
-    "Tuo Ilir (Desa Tuo Ilir)",
-    "Betung Bedarah Timur",
-    "Betung Bedarah Barat",
-    "Kunangan",
-    "Muara Ketalo",
-    "Sungai Bengkal Barat",
-    "Kemantan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Bengkal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Aro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Rendah Pasar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Rendah Ulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Teluk Rendah Ilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuo Ilir (Desa Tuo Ilir)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Betung Bedarah Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Betung Bedarah Barat"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kunangan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Muara Ketalo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sungai Bengkal Barat"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kemantan"
+    }
   ]
 }

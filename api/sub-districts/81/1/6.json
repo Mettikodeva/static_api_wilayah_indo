@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Wahai",
-    "Air Besar",
-    "Pasahari",
-    "Manusela",
-    "Kaloa",
-    "Kanikeh",
-    "Roho",
-    "Huaulu",
-    "Rumahsokat",
-    "Sawai",
-    "Besi",
-    "Malaku",
-    "Maraina",
-    "Solea",
-    "Elemata",
-    "Hatuolo",
-    "Siatele",
-    "Masihulan",
-    "Oping",
-    "Olong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wahai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Besar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasahari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manusela"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kaloa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kanikeh"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Roho"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Huaulu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Rumahsokat"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sawai"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Besi"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Malaku"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Maraina"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Solea"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Elemata"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Hatuolo"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Siatele"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Masihulan"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Oping"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Olong"
+    }
   ]
 }

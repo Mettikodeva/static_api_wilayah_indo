@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Huta Ginjang",
-    "Singkam",
-    "Hasinggaan",
-    "Aek Sipitudai",
-    "Huta Gurgur",
-    "Sianjur Mula Mula",
-    "Boho",
-    "Siboro",
-    "Simarihit",
-    "Ginolat",
-    "Bonan Dolok",
-    "Habeahan Naburahan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Huta Ginjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Singkam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hasinggaan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aek Sipitudai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Huta Gurgur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sianjur Mula Mula"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Boho"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siboro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simarihit"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ginolat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bonan Dolok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Habeahan Naburahan"
+    }
   ]
 }

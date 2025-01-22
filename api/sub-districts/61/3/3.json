@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Noyan",
-    "Empoto",
-    "Semongan",
-    "Sei/Sungai Dangin",
-    "Idas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Noyan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Empoto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semongan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei/Sungai Dangin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Idas"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Puspanegara",
-    "Karang Asem Barat",
-    "Puspasari",
-    "Citeureup",
-    "Leuwinutug",
-    "Tajur",
-    "Sanja",
-    "Karang Asem Timur",
-    "Tarikolot",
-    "Gunungsari (Gunung Sari)",
-    "Tangkil",
-    "Sukahati",
-    "Hambalang",
-    "Pasirmukti (Pasir Mukti)"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Puspanegara"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karang Asem Barat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Puspasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Citeureup"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Leuwinutug"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tajur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sanja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karang Asem Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tarikolot"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunungsari (Gunung Sari)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tangkil"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukahati"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hambalang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pasirmukti (Pasir Mukti)"
+    }
   ]
 }

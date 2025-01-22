@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cempaniga",
-    "Mario Pulana",
-    "Timpuseng",
-    "Cenrana",
-    "Sawaru",
-    "Patanyamang (Pattanyamang)",
-    "Pattiro Deceng",
-    "Benteng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cempaniga"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mario Pulana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Timpuseng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cenrana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sawaru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Patanyamang (Pattanyamang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pattiro Deceng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Benteng"
+    }
   ]
 }

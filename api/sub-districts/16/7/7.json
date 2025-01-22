@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Muara Padang",
-    "Tanjungbaru (Tanjung Baru)",
-    "Karang Anyar",
-    "Purwodadi",
-    "Sumber Makmur",
-    "Air Gading",
-    "Tirto Raharjo",
-    "Daya Utama",
-    "Daya Makmur",
-    "Sido Mulyo 18 (Sidomulyo 18)",
-    "Sido Rejo (Sidorejo)",
-    "Sido Mulyo 20 (Sidomulyo 20)",
-    "Margo Mulyo 20 (Margomulyo 20)",
-    "Margo Sugihan (Marga Sugihan)",
-    "Tirta Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Muara Padang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungbaru (Tanjung Baru)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karang Anyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Air Gading"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tirto Raharjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Daya Utama"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Daya Makmur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sido Mulyo 18 (Sidomulyo 18)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sido Rejo (Sidorejo)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sido Mulyo 20 (Sidomulyo 20)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Margo Mulyo 20 (Margomulyo 20)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Margo Sugihan (Marga Sugihan)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Tirta Jaya"
+    }
   ]
 }

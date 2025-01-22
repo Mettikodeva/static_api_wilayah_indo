@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Haurwangi",
-    "Cihea",
-    "Ramasari",
-    "Sukatani (Mekarwangi)",
-    "Mekarwangi",
-    "Kertasari",
-    "Cipeuyeum",
-    "Kertamukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Haurwangi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cihea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ramasari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukatani (Mekarwangi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cipeuyeum"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kertamukti"
+    }
   ]
 }

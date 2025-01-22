@@ -1,11 +1,32 @@
 {
   "districts": [
-    "Wawonii Barat",
-    "Wawonii Utara",
-    "Wawonii Timur Laut",
-    "Wawonii Timur",
-    "Wawonii Tenggara",
-    "Wawonii Selatan",
-    "Wawonii Tengah"
+    {
+      "district_id": 1,
+      "kecamatan": "Wawonii Barat"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Wawonii Utara"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Wawonii Timur Laut"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Wawonii Timur"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Wawonii Tenggara"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Wawonii Selatan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wawonii Tengah"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Larompong",
-    "Rantebelu",
-    "Komba",
-    "Lumaring",
-    "Binturu",
-    "Bilante",
-    "Rante Alang",
-    "Riwang",
-    "Buntu Matabbing (Matabing)",
-    "Bukit Sutra (Bukit Sutta / Sutera)",
-    "Riwang Selatan",
-    "Komba Selatan",
-    "Buntu Pasik"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Larompong"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rantebelu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Komba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lumaring"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Binturu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bilante"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rante Alang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Riwang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Buntu Matabbing (Matabing)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Sutra (Bukit Sutta / Sutera)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Riwang Selatan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Komba Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Buntu Pasik"
+    }
   ]
 }

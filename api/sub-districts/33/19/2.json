@@ -1,29 +1,104 @@
 {
   "sub_districts": [
-    "Purwosari",
-    "Sunggingan",
-    "Panjunan",
-    "Wergu Wetan",
-    "Wergu Kulon",
-    "Mlati Kidul",
-    "Mlati Norowito",
-    "Kerjasan",
-    "Kajeksan",
-    "Janggalan",
-    "Demangan",
-    "Mlati Lor",
-    "Nganguk",
-    "Kramat",
-    "Demaan",
-    "Langgardalem",
-    "Kauman",
-    "Damaran",
-    "Krandon",
-    "Singocandi",
-    "Glantengan",
-    "Kaliputu",
-    "Barongan",
-    "Burikan",
-    "Rendeng"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Purwosari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sunggingan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Panjunan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wergu Wetan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wergu Kulon"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mlati Kidul"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mlati Norowito"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Kerjasan"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Kajeksan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Janggalan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Demangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mlati Lor"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nganguk"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kramat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Demaan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Langgardalem"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Damaran"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Krandon"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Singocandi"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Glantengan"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Kaliputu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Barongan"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Burikan"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Rendeng"
+    }
   ]
 }

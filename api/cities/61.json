@@ -1,18 +1,60 @@
 {
   "cities": [
-    "Sambas",
-    "Mempawah",
-    "Sanggau",
-    "Ketapang",
-    "Sintang",
-    "Kapuas Hulu",
-    "Bengkayang",
-    "Landak",
-    "Sekadau",
-    "Melawi",
-    "Kayong Utara",
-    "Kubu Raya",
-    "Pontianak",
-    "Singkawang"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Sambas"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Mempawah"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Sanggau"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Ketapang"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Sintang"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Kapuas Hulu"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Bengkayang"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Landak"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Sekadau"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Melawi"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Kayong Utara"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Kubu Raya"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Pontianak"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Singkawang"
+    }
   ]
 }

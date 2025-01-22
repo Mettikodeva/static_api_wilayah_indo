@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gembongan",
-    "Gempol",
-    "Gempol Kolot (Gempolkolot)",
-    "Banyuasih",
-    "Kertaraharja (Kutaraharja)",
-    "Tanjung",
-    "Jayamukti",
-    "Cicinde Utara",
-    "Cicinde Selatan",
-    "Mekarasih",
-    "Talunjaya",
-    "Pamekaran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gembongan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gempol"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gempol Kolot (Gempolkolot)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banyuasih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertaraharja (Kutaraharja)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jayamukti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cicinde Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cicinde Selatan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarasih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Talunjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pamekaran"
+    }
   ]
 }

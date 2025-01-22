@@ -1,29 +1,104 @@
 {
   "districts": [
-    "Pesanggaran",
-    "Bangorejo",
-    "Purwoharjo",
-    "Tegaldlimo",
-    "Muncar",
-    "Cluring",
-    "Gambiran",
-    "Srono",
-    "Genteng",
-    "Glenmore",
-    "Kalibaru",
-    "Singojuruh",
-    "Rogojampi",
-    "Kabat",
-    "Glagah",
-    "Banyuwangi",
-    "Giri",
-    "Wongsorejo",
-    "Songgon",
-    "Sempu",
-    "Kalipuro",
-    "Siliragung",
-    "Tegalsari",
-    "Licin",
-    "Blimbingsari"
+    {
+      "district_id": 1,
+      "kecamatan": "Pesanggaran"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bangorejo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Purwoharjo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tegaldlimo"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Muncar"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Cluring"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Gambiran"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Srono"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Genteng"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Glenmore"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Kalibaru"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Singojuruh"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Rogojampi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kabat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Glagah"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Banyuwangi"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Giri"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Wongsorejo"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Songgon"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Sempu"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Kalipuro"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Siliragung"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Tegalsari"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Licin"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Blimbingsari"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Labukkang",
-    "Ujung Sabbang",
-    "Ujung Bulu",
-    "Lapadde",
-    "Mallusetasi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Labukkang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ujung Sabbang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ujung Bulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lapadde"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mallusetasi"
+    }
   ]
 }

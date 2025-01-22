@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Enggin",
-    "Alama",
-    "Senawak",
-    "Unimogom",
-    "Bemoki",
-    "Tagaralma",
-    "Geselema",
-    "Wuarem",
-    "Jenggelo",
-    "Purua",
-    "Kilmit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Enggin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Senawak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Unimogom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bemoki"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tagaralma"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Geselema"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wuarem"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jenggelo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Purua"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kilmit"
+    }
   ]
 }

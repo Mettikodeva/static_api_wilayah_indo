@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Konda",
-    "Wamargege",
-    "Bariat",
-    "Manelek",
-    "Nagna"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Konda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wamargege"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bariat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manelek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nagna"
+    }
   ]
 }

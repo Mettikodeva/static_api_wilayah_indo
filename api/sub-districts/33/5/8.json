@@ -1,26 +1,92 @@
 {
   "sub_districts": [
-    "Miritpetikusan",
-    "Tlogodepok",
-    "Mirit",
-    "Tlogopragoto",
-    "Lembupurwo",
-    "Wiromartan",
-    "Rowo",
-    "Singoyudan",
-    "Wergonayan",
-    "Selotumpeng",
-    "Sitibentar",
-    "Karanggede",
-    "Kertodeso",
-    "Patukrejomulyo",
-    "Patukgawemulyo",
-    "Mangunranan",
-    "Pekutan",
-    "Wirogaten",
-    "Winong",
-    "Ngabean (Ngabeyan)",
-    "Sarwogadung",
-    "Krubungan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Miritpetikusan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tlogodepok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mirit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tlogopragoto"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lembupurwo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wiromartan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rowo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Singoyudan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wergonayan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Selotumpeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sitibentar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karanggede"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kertodeso"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Patukrejomulyo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Patukgawemulyo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Mangunranan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pekutan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Wirogaten"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Winong"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Ngabean (Ngabeyan)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sarwogadung"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Krubungan"
+    }
   ]
 }

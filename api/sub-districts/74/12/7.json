@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lampeapi",
-    "Batumea",
-    "Wawo Indah",
-    "Lamongupa",
-    "Tumbu Tumbu Jaya",
-    "Morobea",
-    "Mekar Sari",
-    "Rawa Indah",
-    "Lampeapi Baru",
-    "Pesue",
-    "Puurau",
-    "Baho Puu Wulu"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lampeapi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batumea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wawo Indah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lamongupa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbu Tumbu Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Morobea"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rawa Indah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lampeapi Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pesue"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puurau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Baho Puu Wulu"
+    }
   ]
 }

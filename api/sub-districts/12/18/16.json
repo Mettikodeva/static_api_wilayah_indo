@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Penggalian",
-    "Laut Tador",
-    "Tanah Besih",
-    "Binjai",
-    "Paya Pasir",
-    "Bahilang",
-    "Penggalangan",
-    "Paya Pinang",
-    "Kuta Pinang",
-    "Sibulan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penggalian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laut Tador"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanah Besih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Binjai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paya Pasir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bahilang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penggalangan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paya Pinang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kuta Pinang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sibulan"
+    }
   ]
 }

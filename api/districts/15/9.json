@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Tebo Tengah",
-    "Tebo Ilir",
-    "Tebo Ulu",
-    "Rimbo Bujang",
-    "Sumay",
-    "VII Koto",
-    "Rimbo Ulu",
-    "Rimbo Ilir",
-    "Tengah Ilir",
-    "Serai Serumpun",
-    "VII Koto Ilir",
-    "Muara Tabir"
+    {
+      "district_id": 1,
+      "kecamatan": "Tebo Tengah"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tebo Ilir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tebo Ulu"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Rimbo Bujang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sumay"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "VII Koto"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Rimbo Ulu"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Rimbo Ilir"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tengah Ilir"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Serai Serumpun"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "VII Koto Ilir"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Muara Tabir"
+    }
   ]
 }

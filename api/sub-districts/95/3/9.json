@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gofa",
-    "Jinusugu",
-    "Worapi",
-    "Senipan",
-    "Yosua",
-    "Rentis",
-    "Solok"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gofa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jinusugu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Worapi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Senipan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Yosua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rentis"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Solok"
+    }
   ]
 }

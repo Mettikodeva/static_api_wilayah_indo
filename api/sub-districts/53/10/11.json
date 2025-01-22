@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Reo",
-    "Mata Air",
-    "Baru",
-    "Wangkung",
-    "Robek",
-    "Ruis",
-    "Bajak",
-    "Watu Baur",
-    "Salama",
-    "Watu Tango"
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Reo"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Mata Air"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Baru"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Wangkung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Robek"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ruis"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bajak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Watu Baur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Salama"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Watu Tango"
+    }
   ]
 }

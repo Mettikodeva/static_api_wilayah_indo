@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Selemadeg",
-    "Selemadeg Timur (Salamadeg Timur, Salemadeg Timur)",
-    "Selemadeg Barat (Salemadeg Barat)",
-    "Kerambitan",
-    "Tabanan",
-    "Kediri",
-    "Marga",
-    "Penebel",
-    "Baturiti",
-    "Pupuan"
+    {
+      "district_id": 1,
+      "kecamatan": "Selemadeg"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Selemadeg Timur (Salamadeg Timur, Salemadeg Timur)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Selemadeg Barat (Salemadeg Barat)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kerambitan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tabanan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Kediri"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Marga"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Penebel"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Baturiti"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Pupuan"
+    }
   ]
 }

@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Panarukan (Penarukan)",
-    "Cepokomulyo",
-    "Kepanjen",
-    "Ardirejo",
-    "Kemiri",
-    "Sengguruh",
-    "Mangunrejo",
-    "Jenggolo",
-    "Kedungpedaringan",
-    "Tegalsari",
-    "Panggungrejo",
-    "Talangagung",
-    "Dilem",
-    "Sukoharjo (Sukoraharjo)",
-    "Curungrejo (Curung Rejo)",
-    "Jatirejoyoso",
-    "Ngadilangkung",
-    "Mojosari"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Panarukan (Penarukan)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Cepokomulyo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kepanjen"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Ardirejo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kemiri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sengguruh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mangunrejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jenggolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kedungpedaringan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tegalsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panggungrejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Talangagung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dilem"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sukoharjo (Sukoraharjo)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Curungrejo (Curung Rejo)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Jatirejoyoso"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Ngadilangkung"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mojosari"
+    }
   ]
 }

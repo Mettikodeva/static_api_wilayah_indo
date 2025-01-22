@@ -1,15 +1,48 @@
 {
   "cities": [
-    "Maluku Tengah",
-    "Maluku Tenggara",
-    "Kepulauan Tanimbar (Maluku Tenggara Barat)",
-    "Buru",
-    "Seram Bagian Timur",
-    "Seram Bagian Barat",
-    "Kepulauan Aru",
-    "Maluku Barat Daya",
-    "Buru Selatan",
-    "Ambon",
-    "Tual"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Maluku Tengah"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Maluku Tenggara"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Kepulauan Tanimbar (Maluku Tenggara Barat)"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Buru"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Seram Bagian Timur"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Seram Bagian Barat"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Kepulauan Aru"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Maluku Barat Daya"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Buru Selatan"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Ambon"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Tual"
+    }
   ]
 }

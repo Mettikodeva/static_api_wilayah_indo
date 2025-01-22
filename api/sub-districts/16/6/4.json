@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Bukit Sejahtera",
-    "Bukit Pangkuasan",
-    "Tanah Abang",
-    "Talang Leban",
-    "Talang Buluh",
-    "Lubuk Buah",
-    "Sungai Napal",
-    "Lubuk Bintialo",
-    "Sako/Suko Suban",
-    "Bukit Selabu",
-    "Saut (Saud)",
-    "Tanjung Bali",
-    "Pinggap",
-    "Pengaturan",
-    "Ulak Kembang",
-    "Pangkalan Bulian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bukit Sejahtera"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bukit Pangkuasan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanah Abang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talang Leban"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Talang Buluh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Buah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sungai Napal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Bintialo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sako/Suko Suban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Selabu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saut (Saud)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Bali"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pinggap"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pengaturan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ulak Kembang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pangkalan Bulian"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Mamuju",
-    "Tapalang",
-    "Kalukku",
-    "Kalumpang",
-    "Papalang",
-    "Sampaga",
-    "Tommo",
-    "Simboro (Simboro dan Kepulauan)",
-    "Tapalang Barat",
-    "Bonehau",
-    "Kep. Bala Balakang"
+    {
+      "district_id": 1,
+      "kecamatan": "Mamuju"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tapalang"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Kalukku"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Kalumpang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Papalang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sampaga"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tommo"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Simboro (Simboro dan Kepulauan)"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tapalang Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bonehau"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kep. Bala Balakang"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bias",
-    "Bumi",
-    "Tero",
-    "Delemo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bias"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bumi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tero"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Delemo"
+    }
   ]
 }

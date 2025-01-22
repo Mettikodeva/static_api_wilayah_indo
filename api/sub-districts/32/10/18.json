@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cijurey",
-    "Pasirmuncang",
-    "Jatipamor",
-    "Bantrangsana",
-    "Jatiserang",
-    "Bonang",
-    "Leuwiseeng",
-    "Panyingkiran",
-    "Karyamukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cijurey"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasirmuncang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatipamor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bantrangsana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatiserang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bonang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Leuwiseeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Panyingkiran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karyamukti"
+    }
   ]
 }

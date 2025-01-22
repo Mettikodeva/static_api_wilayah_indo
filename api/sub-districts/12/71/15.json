@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Aur",
-    "Hamdan",
-    "Jati",
-    "Sukaraja (Suka Raja)",
-    "Sei Mati",
-    "Kampung Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Aur"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Hamdan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sukaraja (Suka Raja)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sei Mati"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kampung Baru"
+    }
   ]
 }

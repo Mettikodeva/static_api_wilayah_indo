@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mattiro Kanja",
-    "Mattiro Baji",
-    "Mattiro Bulu",
-    "Mattiro Bombang",
-    "Mattiro Labangeng",
-    "Mattiro Uleng",
-    "Mattiro Walie"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mattiro Kanja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mattiro Baji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mattiro Bulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mattiro Bombang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mattiro Labangeng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mattiro Uleng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mattiro Walie"
+    }
   ]
 }

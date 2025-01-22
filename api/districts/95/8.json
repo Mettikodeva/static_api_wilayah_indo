@@ -1,36 +1,132 @@
 {
   "districts": [
-    "Kenyam",
-    "Mapenduma",
-    "Yigi",
-    "Wosak",
-    "Geselma",
-    "Mugi",
-    "Mbuwa",
-    "Gearek",
-    "Koroptak",
-    "Kegayem",
-    "Paro",
-    "Mebarok",
-    "Yenggelo",
-    "Kilmid",
-    "Alama",
-    "Yal",
-    "Mam",
-    "Dal",
-    "Nirkuri",
-    "Inikgal",
-    "Iniye",
-    "Mbulmu Yalma",
-    "Mbua Tengah",
-    "Embetpen",
-    "Kora",
-    "Wusi",
-    "Pija",
-    "Moba",
-    "Wutpaga",
-    "Nenggeagin",
-    "Krepkuri",
-    "Pasir Putih"
+    {
+      "district_id": 1,
+      "kecamatan": "Kenyam"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mapenduma"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Yigi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Wosak"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Geselma"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mugi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Mbuwa"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Gearek"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Koroptak"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kegayem"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Paro"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mebarok"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Yenggelo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kilmid"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Alama"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Yal"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Mam"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Dal"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Nirkuri"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Inikgal"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Iniye"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Mbulmu Yalma"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Mbua Tengah"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Embetpen"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Kora"
+    },
+    {
+      "district_id": 26,
+      "kecamatan": "Wusi"
+    },
+    {
+      "district_id": 27,
+      "kecamatan": "Pija"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Moba"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Wutpaga"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Nenggeagin"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Krepkuri"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Pasir Putih"
+    }
   ]
 }

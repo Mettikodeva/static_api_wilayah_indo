@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kemirirejo",
-    "Cacaban",
-    "Rejowinangun Utara",
-    "Magelang",
-    "Panjang",
-    "Gelangan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kemirirejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cacaban"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rejowinangun Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Magelang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Panjang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gelangan"
+    }
   ]
 }

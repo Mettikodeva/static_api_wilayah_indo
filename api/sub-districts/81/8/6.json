@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ilwaki",
-    "Ilputih",
-    "Mahuan",
-    "Masapun",
-    "Amau",
-    "Hiay"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ilwaki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ilputih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mahuan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Masapun"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Amau"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Hiay"
+    }
   ]
 }

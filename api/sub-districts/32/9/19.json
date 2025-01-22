@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Karangsari",
-    "Kertasari",
-    "Megu Gede (Megugede)",
-    "Megu Cilik (Megucilik)",
-    "Setu Wetan",
-    "Setu Kulon",
-    "Weru Kidul",
-    "Weru Lor",
-    "Tegalwangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kertasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Megu Gede (Megugede)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Megu Cilik (Megucilik)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Setu Wetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Setu Kulon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Weru Kidul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Weru Lor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tegalwangi"
+    }
   ]
 }

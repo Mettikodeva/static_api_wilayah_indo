@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Samuranggau (Samurangau)",
-    "Busui",
-    "Batu Kajang (Batu Sopang)",
-    "Legai",
-    "Sei/Sungai Terik",
-    "Kasungai",
-    "Rantau Buta",
-    "Rantau Layung",
-    "Songka"
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Samuranggau (Samurangau)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Busui"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Kajang (Batu Sopang)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Legai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sei/Sungai Terik"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kasungai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Rantau Buta"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Rantau Layung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Songka"
+    }
   ]
 }

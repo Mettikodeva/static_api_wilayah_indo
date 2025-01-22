@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Biga",
-    "Upai",
-    "Genggulang",
-    "Bilalang Satu (Bilalang I)",
-    "Bilalang Dua (Bilalang II)",
-    "Pontodon",
-    "Sia",
-    "Pontodon Timur"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Biga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Upai"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Genggulang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bilalang Satu (Bilalang I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bilalang Dua (Bilalang II)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pontodon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sia"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pontodon Timur"
+    }
   ]
 }

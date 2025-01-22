@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Konikme",
-    "Giwan",
-    "Lugom",
-    "Mabume",
-    "Wandoak",
-    "Bogun Kunik",
-    "Urgelo",
-    "Omapaga",
-    "Gimili Alome"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Konikme"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Giwan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lugom"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mabume"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wandoak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bogun Kunik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Urgelo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Omapaga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gimili Alome"
+    }
   ]
 }

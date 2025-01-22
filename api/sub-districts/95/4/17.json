@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Nabunage",
-    "Kupara",
-    "Kutime",
-    "Kumbo",
-    "Timbindelo",
-    "Jekito",
-    "Wewo",
-    "Geningga",
-    "Kimilo",
-    "Missa",
-    "Logilome"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nabunage"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kupara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kutime"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kumbo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Timbindelo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jekito"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wewo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Geningga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kimilo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Missa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Logilome"
+    }
   ]
 }

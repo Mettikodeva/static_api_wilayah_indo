@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Maleber (Maleer)",
-    "Dungus Cariang",
-    "Ciroyom",
-    "Kebon Jeruk",
-    "Garuda",
-    "Campaka"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Maleber (Maleer)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dungus Cariang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ciroyom"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kebon Jeruk"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Garuda"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Campaka"
+    }
   ]
 }

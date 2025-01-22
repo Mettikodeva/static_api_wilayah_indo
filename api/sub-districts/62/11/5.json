@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kahayan Hilir",
-    "Kalawa",
-    "Bereng",
-    "Buntoi",
-    "Mintin",
-    "Mantaren I",
-    "Anjir Pulang Pisau",
-    "Gohong",
-    "Mantaren II",
-    "Hanjak Maju"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kahayan Hilir"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kalawa"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Bereng"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buntoi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mintin"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mantaren I"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Anjir Pulang Pisau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gohong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mantaren II"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Hanjak Maju"
+    }
   ]
 }

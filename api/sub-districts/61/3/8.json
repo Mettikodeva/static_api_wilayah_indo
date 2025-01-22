@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tanjung Bunga",
-    "Semayang",
-    "Sebongkuh",
-    "Kuala Dua",
-    "Tanjung Merpati",
-    "Sejuah",
-    "Mobui",
-    "Tanap",
-    "Sebuduh",
-    "Kelompu",
-    "Tunggal Bhakti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung Bunga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semayang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebongkuh"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala Dua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Merpati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sejuah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mobui"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanap"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sebuduh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kelompu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tunggal Bhakti"
+    }
   ]
 }

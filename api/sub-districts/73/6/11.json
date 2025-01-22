@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tonrorita",
-    "Lauwa",
-    "Taring",
-    "Pencong",
-    "Berutallasa",
-    "Parangloe",
-    "Baturappe",
-    "Batumalonro",
-    "Borimasunggu",
-    "Lembangloe",
-    "Julukanaya"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tonrorita"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lauwa"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taring"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pencong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Berutallasa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Parangloe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baturappe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batumalonro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Borimasunggu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lembangloe"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Julukanaya"
+    }
   ]
 }

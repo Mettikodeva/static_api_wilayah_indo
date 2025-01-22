@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Simpang Pesak",
-    "Tanjung Batu Itam",
-    "Tanjung Kelumpang",
-    "Dukong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Simpang Pesak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Batu Itam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Kelumpang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dukong"
+    }
   ]
 }

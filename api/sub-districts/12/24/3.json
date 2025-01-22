@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Botolakha",
-    "Siofa Banua",
-    "La'aya (Laaya)",
-    "Alo'oa (Alooa)",
-    "Ladara",
-    "Banua Gea (Banuagea)",
-    "Silima Banua",
-    "Fino"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Botolakha"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siofa Banua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "La'aya (Laaya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alo'oa (Alooa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ladara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banua Gea (Banuagea)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Silima Banua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Fino"
+    }
   ]
 }

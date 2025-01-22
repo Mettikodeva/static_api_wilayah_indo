@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Banyuputih",
-    "Kalibalik",
-    "Sembung",
-    "Kedawung",
-    "Dlimas",
-    "Luwung",
-    "Penundan",
-    "Banaran",
-    "Timbang",
-    "Bulu",
-    "Kalangsono"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banyuputih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kalibalik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sembung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedawung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dlimas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Luwung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penundan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banaran"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Timbang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bulu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalangsono"
+    }
   ]
 }

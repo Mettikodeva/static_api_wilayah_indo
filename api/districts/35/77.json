@@ -1,7 +1,16 @@
 {
   "districts": [
-    "Kartoharjo",
-    "Manguharjo",
-    "Taman"
+    {
+      "district_id": 1,
+      "kecamatan": "Kartoharjo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Manguharjo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Taman"
+    }
   ]
 }

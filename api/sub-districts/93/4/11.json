@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Yamas",
-    "Yeni",
-    "Omor",
-    "Jufri",
-    "Yaun",
-    "Onavai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yamas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yeni"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Omor"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jufri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yaun"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Onavai"
+    }
   ]
 }

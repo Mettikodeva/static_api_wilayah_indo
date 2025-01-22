@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bajuin",
-    "Sei/Sungai Bakar",
-    "Ketapang",
-    "Tirta Jaya",
-    "Galam",
-    "Pemalongan (Pamalungan / Pamalongan)",
-    "Kunyit",
-    "Tebing Siring",
-    "Tanjung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bajuin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Bakar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tirta Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Galam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pemalongan (Pamalungan / Pamalongan)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kunyit"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tebing Siring"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung"
+    }
   ]
 }

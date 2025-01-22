@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Megalunik",
-    "Lugobak",
-    "Kanikbukme",
-    "Poga",
-    "Bigipaga",
-    "Luneri",
-    "Binipaga",
-    "Mugime",
-    "Brigme",
-    "Unikme",
-    "Binompaga",
-    "Lugwa",
-    "Guaneri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Megalunik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lugobak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kanikbukme"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Poga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bigipaga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Luneri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binipaga"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mugime"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Brigme"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Unikme"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Binompaga"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lugwa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Guaneri"
+    }
   ]
 }

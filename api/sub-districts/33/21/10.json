@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Geneng",
-    "Ngelowetan (Ngelo Wetan)",
-    "Mlaten",
-    "Bantengmati (Banteng Mati)",
-    "Ngelokulon (Ngelo Kulon)",
-    "Pasir",
-    "Rejosari",
-    "Ngegot",
-    "Jleper",
-    "Pecuk",
-    "Tanggul",
-    "Bakung",
-    "Bremi (Bermi)",
-    "Mijen",
-    "Gempolsongo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Geneng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ngelowetan (Ngelo Wetan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mlaten"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bantengmati (Banteng Mati)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngelokulon (Ngelo Kulon)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngegot"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jleper"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pecuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanggul"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bakung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bremi (Bermi)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mijen"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Gempolsongo"
+    }
   ]
 }

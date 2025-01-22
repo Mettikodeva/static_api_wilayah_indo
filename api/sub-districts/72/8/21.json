@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bolano",
-    "Bolano Tengah",
-    "Bolano Barat",
-    "Bolano Utara",
-    "Bajo",
-    "Sritabaang",
-    "Beringin Jaya",
-    "Wanamukti",
-    "Wanamukti Utara",
-    "Lembah Bomban",
-    "Sidomukti",
-    "Wanamukti Barat",
-    "Sama Bahari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bolano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bolano Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bolano Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bolano Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bajo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sritabaang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wanamukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wanamukti Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lembah Bomban"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sidomukti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wanamukti Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sama Bahari"
+    }
   ]
 }

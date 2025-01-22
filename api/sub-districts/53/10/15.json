@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bangka Lelak",
-    "Gelong",
-    "Urang",
-    "Ketang",
-    "Pong Umpu (Pong Ompu)",
-    "Bangka Dese",
-    "Nati",
-    "Ndiwar",
-    "Bangka Tonggur",
-    "Lentang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangka Lelak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gelong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ketang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pong Umpu (Pong Ompu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangka Dese"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ndiwar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bangka Tonggur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lentang"
+    }
   ]
 }

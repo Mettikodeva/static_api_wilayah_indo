@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Watunggarandu",
-    "Toli Toli",
-    "Nii Tanasa",
-    "Rapambinopaka",
-    "Lalombonda",
-    "Puuwonua",
-    "Bumi Indah",
-    "Lolanggasumeeto",
-    "Toolawawo",
-    "Wawobungi",
-    "Batu Gong",
-    "Watunggarandu (Watunggarandu II)"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Watunggarandu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Toli Toli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nii Tanasa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rapambinopaka"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lalombonda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puuwonua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Indah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lolanggasumeeto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Toolawawo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wawobungi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Batu Gong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Watunggarandu (Watunggarandu II)"
+    }
   ]
 }

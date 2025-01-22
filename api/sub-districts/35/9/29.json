@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sumberwringin (Sumber Wringin)",
-    "Sukokerto",
-    "Sumberwaru",
-    "Sukowono",
-    "Baletbaru (Balet Baru)",
-    "Sukorejo",
-    "Sukosari",
-    "Arjasa",
-    "Sumberdanti",
-    "Pocangan",
-    "Dawuhanmangli (Dawuhan Mangli)",
-    "Mojogemi (Mojogeni)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberwringin (Sumber Wringin)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukokerto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberwaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukowono"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baletbaru (Balet Baru)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Arjasa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberdanti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pocangan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dawuhanmangli (Dawuhan Mangli)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mojogemi (Mojogeni)"
+    }
   ]
 }

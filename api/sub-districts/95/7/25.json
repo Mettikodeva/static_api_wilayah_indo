@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bruyugu",
-    "Wame",
-    "Ogodome",
-    "Ekaba",
-    "Longgapur",
-    "Tikuluk",
-    "Birik",
-    "Yalogu",
-    "Wumbugi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bruyugu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wame"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ogodome"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ekaba"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Longgapur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tikuluk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Birik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yalogu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wumbugi"
+    }
   ]
 }

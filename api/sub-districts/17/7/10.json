@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Amen",
-    "Nangai Tayau",
-    "Nangai Tayau I",
-    "Pyang Mbik (Paya Embik)",
-    "Sukau Mergo (Suka Marga)",
-    "Sukau Rajo (Sukaraja)",
-    "Talang Bunut",
-    "Selebar Jaya",
-    "Garut",
-    "Sungai Gerong"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Amen"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nangai Tayau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nangai Tayau I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pyang Mbik (Paya Embik)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukau Mergo (Suka Marga)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukau Rajo (Sukaraja)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talang Bunut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selebar Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Garut"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungai Gerong"
+    }
   ]
 }

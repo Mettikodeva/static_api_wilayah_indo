@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tomo",
-    "Tolengas",
-    "Darmawangi",
-    "Marongge",
-    "Jembarwangi",
-    "Bugel",
-    "Cipeles",
-    "Karyamukti",
-    "Mekarwangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tomo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tolengas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Darmawangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marongge"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jembarwangi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bugel"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cipeles"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarwangi"
+    }
   ]
 }

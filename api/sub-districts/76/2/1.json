@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Binanga",
-    "Mamunyu",
-    "Karema",
-    "Rimuku",
-    "Bambu",
-    "Karampuang",
-    "Tadui",
-    "Batu Pannu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Binanga"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mamunyu"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Karema"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Rimuku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bambu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karampuang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tadui"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Batu Pannu"
+    }
   ]
 }

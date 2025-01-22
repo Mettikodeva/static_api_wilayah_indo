@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pelalawan",
-    "Sungai Ara",
-    "Ransang",
-    "Kuala Tolam",
-    "Sering",
-    "Telayap",
-    "Batang Nilo Kecil",
-    "Delik",
-    "Lalang Kabung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pelalawan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sungai Ara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ransang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala Tolam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sering"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Telayap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batang Nilo Kecil"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Delik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lalang Kabung"
+    }
   ]
 }

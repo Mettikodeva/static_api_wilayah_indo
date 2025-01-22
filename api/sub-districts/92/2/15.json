@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Sowi",
-    "Anday",
-    "Katebu",
-    "Masyepi (Masiepi)",
-    "Warmomi (Warmumi)",
-    "Dihara",
-    "Waluri (Waruri / Weluri)",
-    "Maruni",
-    "Misapmeysi",
-    "Wasai (Wasay)",
-    "Anggresi (Angrisi)",
-    "Mupi",
-    "Warswami (Warsuami)",
-    "Acemo",
-    "Wamesa",
-    "Dobut (Doopud/Doput)",
-    "Warkomi",
-    "Ngunimbouw (Ngunibouw)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sowi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Anday"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Katebu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Masyepi (Masiepi)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Warmomi (Warmumi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dihara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waluri (Waruri / Weluri)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Maruni"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Misapmeysi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wasai (Wasay)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anggresi (Angrisi)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mupi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Warswami (Warsuami)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Acemo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wamesa"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dobut (Doopud/Doput)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Warkomi"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ngunimbouw (Ngunibouw)"
+    }
   ]
 }

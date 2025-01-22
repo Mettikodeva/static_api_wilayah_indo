@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Sikakap",
-    "Taikako",
-    "Matobe (Matobek)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sikakap"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Taikako"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matobe (Matobek)"
+    }
   ]
 }

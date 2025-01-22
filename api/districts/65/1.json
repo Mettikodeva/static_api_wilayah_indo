@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Tanjung Palas",
-    "Tanjung Palas Barat",
-    "Tanjung Palas Utara",
-    "Tanjung Palas Timur",
-    "Tanjung Selor",
-    "Tanjung Palas Tengah",
-    "Peso",
-    "Peso Hilir (Ilir)",
-    "Sekatak",
-    "Bunyu (Pulau Bunyu)"
+    {
+      "district_id": 1,
+      "kecamatan": "Tanjung Palas"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tanjung Palas Barat"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Tanjung Palas Utara"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tanjung Palas Timur"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tanjung Selor"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tanjung Palas Tengah"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Peso"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Peso Hilir (Ilir)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Sekatak"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bunyu (Pulau Bunyu)"
+    }
   ]
 }

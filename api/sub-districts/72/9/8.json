@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Lemoro",
-    "Korondoda",
-    "Tayawa",
-    "Uekuli",
-    "Betaua",
-    "Uedele",
-    "Sandada",
-    "Tojo",
-    "Pancuma",
-    "Tongku",
-    "Podi",
-    "Dataran Bugi",
-    "Banano",
-    "Bahari",
-    "Buyuntaripa",
-    "Kalemba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lemoro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Korondoda"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tayawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Uekuli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Betaua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uedele"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sandada"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tojo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pancuma"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tongku"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Podi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dataran Bugi"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Banano"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bahari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Buyuntaripa"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kalemba"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Sengeti",
-    "Suak Putat",
-    "Rantau Majo",
-    "Pulau Kayu Aro",
-    "Pematang Pulai/Pule",
-    "Tan Tan (Tantan)",
-    "Kedotan",
-    "Keranggan",
-    "Berembang",
-    "Sekernan",
-    "Gerunggung",
-    "Tunas Baru",
-    "Bukit Baling",
-    "Tanjung Lanjut",
-    "Suko Awin Jaya",
-    "Tunas Mudo"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sengeti"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suak Putat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Majo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Kayu Aro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pematang Pulai/Pule"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tan Tan (Tantan)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedotan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Keranggan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Berembang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sekernan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gerunggung"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tunas Baru"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukit Baling"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjung Lanjut"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suko Awin Jaya"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tunas Mudo"
+    }
   ]
 }

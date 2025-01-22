@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sarimatondang",
-    "Bah Butong I",
-    "Sidamanik",
-    "Ambarisan",
-    "Tiga Bolon",
-    "Bah Butong II",
-    "Bahal Gajah",
-    "Manik Hataran",
-    "Mekar Sidamanik",
-    "Manik Maraja",
-    "Bah Biak",
-    "Birong Ulu Manriah",
-    "Kebun Sayur Bah Butong",
-    "Manik Rambung",
-    "Bukit Rejo"
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Sarimatondang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bah Butong I"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidamanik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ambarisan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiga Bolon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bah Butong II"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bahal Gajah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Manik Hataran"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekar Sidamanik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manik Maraja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bah Biak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Birong Ulu Manriah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kebun Sayur Bah Butong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Manik Rambung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bukit Rejo"
+    }
   ]
 }

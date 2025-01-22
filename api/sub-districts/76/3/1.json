@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mambi",
-    "Talipukki",
-    "Rantebulahan",
-    "Sondonglayu",
-    "Salubanua",
-    "Tapalina",
-    "Sendana",
-    "Pamosean",
-    "Selumaka",
-    "Bujung Manurung",
-    "Salu Alo",
-    "Indobanua",
-    "Saludurian"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mambi"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Talipukki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rantebulahan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sondonglayu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Salubanua"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tapalina"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sendana"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pamosean"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Selumaka"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Bujung Manurung"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Salu Alo"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Indobanua"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Saludurian"
+    }
   ]
 }

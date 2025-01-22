@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Gunungsari",
-    "Gunungronggo",
-    "Purwosekar",
-    "Ngawonggo",
-    "Pandanmulyo",
-    "Jatisari",
-    "Tajinan",
-    "Randugading",
-    "Jambearjo",
-    "Tangkilsari",
-    "Sumbersuko",
-    "Tambaksari (Tambakasri)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunungronggo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Purwosekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngawonggo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pandanmulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tajinan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Randugading"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jambearjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tangkilsari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumbersuko"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tambaksari (Tambakasri)"
+    }
   ]
 }

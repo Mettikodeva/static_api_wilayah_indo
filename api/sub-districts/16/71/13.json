@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kemas Rindo",
-    "Kemang Agung",
-    "Keramasan",
-    "Kertapati",
-    "Karya Jaya",
-    "Ogan Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kemas Rindo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kemang Agung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Keramasan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kertapati"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Karya Jaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Ogan Baru"
+    }
   ]
 }

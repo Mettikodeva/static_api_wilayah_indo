@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cantung Kiri Hilir",
-    "Karang Payau",
-    "Banua Lawas",
-    "Sungai Kupang",
-    "Bangkalaan Melayu",
-    "Bangkalaan Dayak",
-    "Laburan",
-    "Karang Liwar",
-    "Mangkirana",
-    "Sidomulyo (Sido Mulyo)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cantung Kiri Hilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Payau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Banua Lawas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Kupang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bangkalaan Melayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bangkalaan Dayak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laburan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karang Liwar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mangkirana"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidomulyo (Sido Mulyo)"
+    }
   ]
 }

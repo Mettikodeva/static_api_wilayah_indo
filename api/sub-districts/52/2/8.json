@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pringgarata (Pringarata)",
-    "Sepakek",
-    "Murbaya",
-    "Bagu",
-    "Sintung",
-    "Bilebante",
-    "Pemepek",
-    "Menemeng",
-    "Arjangka",
-    "Taman Indah",
-    "Sisik"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pringgarata (Pringarata)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sepakek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Murbaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bagu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sintung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bilebante"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pemepek"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Menemeng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Arjangka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Taman Indah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sisik"
+    }
   ]
 }

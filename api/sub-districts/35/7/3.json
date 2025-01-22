@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wonokerto",
-    "Rejosari",
-    "Bantur",
-    "Wonorejo",
-    "Srigonco",
-    "Sumberbening",
-    "Bandungrejo",
-    "Pringgondani (Pringgodani)",
-    "Rejoyoso",
-    "Karangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonokerto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bantur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Srigonco"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberbening"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandungrejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pringgondani (Pringgodani)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rejoyoso"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangsari"
+    }
   ]
 }

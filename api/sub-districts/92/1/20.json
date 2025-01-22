@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Luwelala",
-    "Klatim",
-    "Klaos",
-    "Suluh",
-    "Bousui (Bosi)",
-    "Kamuyar",
-    "Klaka",
-    "Safdesa",
-    "Klagen"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Luwelala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klatim"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Klaos"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suluh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bousui (Bosi)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kamuyar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Klaka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Safdesa"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Klagen"
+    }
   ]
 }

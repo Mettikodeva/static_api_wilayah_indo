@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Agung Jaya",
-    "Mercu Buana",
-    "Balam Jaya",
-    "Pagar Buana",
-    "Indraloka I",
-    "Indraloka II",
-    "Balam Asri",
-    "Indraloka Jaya",
-    "Indraloka Mukti",
-    "Sido Agung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Agung Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mercu Buana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balam Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagar Buana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Indraloka I"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Indraloka II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balam Asri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Indraloka Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Indraloka Mukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sido Agung"
+    }
   ]
 }

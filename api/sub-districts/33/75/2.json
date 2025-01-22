@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Noyontaansari",
-    "Kauman",
-    "Poncol",
-    "Klego",
-    "Gamer",
-    "Setono",
-    "Kali Baros"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Noyontaansari"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kauman"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Poncol"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Klego"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gamer"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Setono"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Kali Baros"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gelora",
-    "Bendungan Hilir",
-    "Karet Tengsin",
-    "Petamburan",
-    "Kebon Melati",
-    "Kebon Kacang",
-    "Kampung Bali"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gelora"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bendungan Hilir"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karet Tengsin"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Petamburan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebon Melati"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kebon Kacang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kampung Bali"
+    }
   ]
 }

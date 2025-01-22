@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mekarsari",
-    "Jatisari",
-    "Barugbug",
-    "Cikalongsari",
-    "Cirejag",
-    "Jatibaru",
-    "Jatiragas",
-    "Jatiwangi",
-    "Kalijati",
-    "Balonggandu",
-    "Pacing",
-    "Situdam",
-    "Sukamekar",
-    "Telarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jatisari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barugbug"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikalongsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cirejag"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jatibaru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jatiragas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jatiwangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalijati"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balonggandu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pacing"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Situdam"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukamekar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Telarsari"
+    }
   ]
 }

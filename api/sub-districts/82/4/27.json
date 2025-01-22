@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bisui",
-    "Lelewi",
-    "Luim",
-    "Matuting",
-    "Matuting Tanjung",
-    "Tabahidayah",
-    "Tabahijrah",
-    "Tagia (Tagea)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bisui"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lelewi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Luim"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Matuting"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Matuting Tanjung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tabahidayah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tabahijrah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tagia (Tagea)"
+    }
   ]
 }

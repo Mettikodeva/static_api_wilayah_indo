@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Botohilitano",
-    "Botohilisalo'o",
-    "Lagundri",
-    "Orahili Faomasi",
-    "Hiliamaetaniha",
-    "Sondregeasi",
-    "Botohili Silambo",
-    "Botohili Sorake",
-    "Hilimaenamolo",
-    "Bawomaenamolo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Botohilitano"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Botohilisalo'o"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lagundri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Orahili Faomasi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hiliamaetaniha"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sondregeasi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Botohili Silambo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Botohili Sorake"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hilimaenamolo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bawomaenamolo"
+    }
   ]
 }

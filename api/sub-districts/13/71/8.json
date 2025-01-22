@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Limau Manis",
-    "Koto Lua (Koto Luar)",
-    "Limau Manis Selatan",
-    "Piai Tangah",
-    "Cupak Tangah",
-    "Pisang",
-    "Binuang Kampuang Dalam (Binuang Kampung Dalam)",
-    "Kepala/Kapalo Koto",
-    "Lambung Bukit/Bukik"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Limau Manis"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Koto Lua (Koto Luar)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Limau Manis Selatan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Piai Tangah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cupak Tangah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pisang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Binuang Kampuang Dalam (Binuang Kampung Dalam)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kepala/Kapalo Koto"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lambung Bukit/Bukik"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sawit Seberang",
-    "Alur Gadung",
-    "Simpang Tiga",
-    "Sei Litur Tasik",
-    "Sawit Hulu",
-    "Mekar Sawit",
-    "Alur Melati"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sawit Seberang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alur Gadung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Tiga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sei Litur Tasik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sawit Hulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mekar Sawit"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Alur Melati"
+    }
   ]
 }

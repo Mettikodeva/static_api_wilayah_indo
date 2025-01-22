@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Fondrakoraya",
-    "Orudua Sibohou (Orudu Sibohou)",
-    "Sisarahili Susua",
-    "Susua",
-    "Lahusa Susua",
-    "Ramba-Ramba",
-    "Hilinifaoso",
-    "Sifaoroasi",
-    "Amandraya (Amandraya Ulususua)",
-    "Foikhu Fondrako",
-    "Hiliwosi",
-    "Orahili Fondrako"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fondrakoraya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Orudua Sibohou (Orudu Sibohou)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sisarahili Susua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Susua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lahusa Susua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ramba-Ramba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hilinifaoso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sifaoroasi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Amandraya (Amandraya Ulususua)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Foikhu Fondrako"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hiliwosi"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Orahili Fondrako"
+    }
   ]
 }

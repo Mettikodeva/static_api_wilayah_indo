@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Lubuk Buntak",
-    "Prabu Dipo (Prahu Dipo)",
-    "Kance Diwe",
-    "Atung Bungsu",
-    "Penjalang"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lubuk Buntak"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Prabu Dipo (Prahu Dipo)"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Kance Diwe"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Atung Bungsu"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Penjalang"
+    }
   ]
 }

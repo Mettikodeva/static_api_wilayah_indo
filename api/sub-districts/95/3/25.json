@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Walma",
-    "Solinggul (Solingul)",
-    "Hontulun",
-    "Honggolek (Honggoluk)",
-    "Werene",
-    "Weri",
-    "Wewasi",
-    "Yetehup"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Walma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Solinggul (Solingul)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hontulun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Honggolek (Honggoluk)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Werene"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Weri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wewasi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yetehup"
+    }
   ]
 }

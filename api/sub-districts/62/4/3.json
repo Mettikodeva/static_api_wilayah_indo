@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bangkuang",
-    "Salat Baru (Selat Baru)",
-    "Teluk Betung",
-    "Babai",
-    "Janggi",
-    "Malitin",
-    "Muara Arai",
-    "Talio",
-    "Tampijak",
-    "Bintang Kurung",
-    "Teluk Sampudau"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bangkuang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Salat Baru (Selat Baru)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Teluk Betung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Babai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Janggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malitin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Arai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talio"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tampijak"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bintang Kurung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Teluk Sampudau"
+    }
   ]
 }

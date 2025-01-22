@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Naikliu",
-    "Afoan",
-    "Fatunaus",
-    "Kolabe",
-    "Bakuin",
-    "Lilmus"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Naikliu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Afoan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Fatunaus"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kolabe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bakuin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lilmus"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Mersam",
-    "Muara Tembesi",
-    "Muara Bulian",
-    "Batin XXIV",
-    "Pemayung",
-    "Maro Sebo Ulu",
-    "Bajubang",
-    "Maro Sebo Ilir"
+    {
+      "district_id": 1,
+      "kecamatan": "Mersam"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Muara Tembesi"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Muara Bulian"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Batin XXIV"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pemayung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Maro Sebo Ulu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bajubang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Maro Sebo Ilir"
+    }
   ]
 }

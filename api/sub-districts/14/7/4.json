@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Rimba Melintang",
-    "Jumrah",
-    "Telukpulau Hilir (Teluk Pulau Hilir)",
-    "Telukpulau Hulu (Teluk Pulau Hulu)",
-    "Lenggadai/Langgadai Hulu",
-    "Lenggadai/Langgadai Hilir",
-    "Mukti Jaya",
-    "Karya Mukti",
-    "Harapan Jaya",
-    "Seremban Jaya",
-    "Pematang Botam",
-    "Pematang Sikek"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Rimba Melintang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jumrah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telukpulau Hilir (Teluk Pulau Hilir)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telukpulau Hulu (Teluk Pulau Hulu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lenggadai/Langgadai Hulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lenggadai/Langgadai Hilir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mukti Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karya Mukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Seremban Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pematang Botam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pematang Sikek"
+    }
   ]
 }

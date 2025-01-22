@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Sukowidi",
-    "Semen",
-    "Goranggareng (Gorang Gareng)",
-    "Petungrejo",
-    "Nguntoronadi",
-    "Simbatan",
-    "Purworejo",
-    "Kenongomulyo",
-    "Driyorejo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukowidi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Goranggareng (Gorang Gareng)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Petungrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nguntoronadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simbatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Purworejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kenongomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Driyorejo"
+    }
   ]
 }

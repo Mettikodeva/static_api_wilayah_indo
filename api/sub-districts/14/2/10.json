@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tambak",
-    "Kuala Cenaku",
-    "Pulau Gelang",
-    "Kuala Mulia",
-    "Tanjung Sari",
-    "Rawa Sekip",
-    "Rawa Asri",
-    "Suka Jadi",
-    "Teluk Sungkai",
-    "Pulau Jum'at (Pulau Jumat)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kuala Cenaku"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulau Gelang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuala Mulia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Sari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rawa Sekip"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawa Asri"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Jadi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teluk Sungkai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Jum'at (Pulau Jumat)"
+    }
   ]
 }

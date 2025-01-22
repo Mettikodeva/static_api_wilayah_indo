@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kanggime",
-    "Marlo",
-    "Logon",
-    "Aulani",
-    "Ligiibak / Ligimbak (Lagimbak)",
-    "Kerena",
-    "Purugi",
-    "Lawor (Lawori)",
-    "Kagimaluk",
-    "Dundu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kanggime"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Marlo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Logon"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Aulani"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Ligiibak / Ligimbak (Lagimbak)"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Kerena"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Purugi"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Lawor (Lawori)"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Kagimaluk"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Dundu"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Teluk Lerong Ilir",
-    "Jawa",
-    "Air Putih",
-    "Sidodadi",
-    "Air Hitam",
-    "Dadi Mulya",
-    "Gunung Kelua",
-    "Bukit Pinang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Teluk Lerong Ilir"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jawa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Air Putih"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Air Hitam"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dadi Mulya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Gunung Kelua"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bukit Pinang"
+    }
   ]
 }

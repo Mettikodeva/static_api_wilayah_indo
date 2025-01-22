@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Weawen (Weanem)",
-    "Kwelena",
-    "Singokla",
-    "Banga",
-    "Soline",
-    "Musan",
-    "Salbi",
-    "Erim"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Weawen (Weanem)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kwelena"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Singokla"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Soline"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Musan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Salbi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Erim"
+    }
   ]
 }

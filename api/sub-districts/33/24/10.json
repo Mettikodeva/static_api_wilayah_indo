@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Margomulyo",
-    "Tegorejo",
-    "Pesawahan",
-    "Pekuncen",
-    "Puguh",
-    "Dawungsari",
-    "Pucangrejo (Pucang Rejo)",
-    "Gubugsari",
-    "Pegandon",
-    "Penanggulan",
-    "Wonosari",
-    "Karangmulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Margomulyo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tegorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pesawahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pekuncen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puguh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dawungsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pucangrejo (Pucang Rejo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gubugsari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pegandon"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Penanggulan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangmulyo"
+    }
   ]
 }

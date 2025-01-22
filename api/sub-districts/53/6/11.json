@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Rodentena (Redontena)",
-    "Adolaba (Adobala)",
-    "Hinga",
-    "Lamapaha",
-    "Sukutokan",
-    "Nisakarang",
-    "Muda",
-    "Horinara",
-    "Pepakelu (Pepak Kelu)",
-    "Lambunga (Lamabunga)",
-    "Mangaaleng",
-    "Keluwain"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rodentena (Redontena)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Adolaba (Adobala)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hinga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lamapaha"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukutokan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nisakarang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Horinara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pepakelu (Pepak Kelu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lambunga (Lamabunga)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mangaaleng"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Keluwain"
+    }
   ]
 }

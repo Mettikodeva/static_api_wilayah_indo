@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Manuaman",
-    "Rinbesi",
-    "Lidak",
-    "Fatukbot"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Manuaman"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rinbesi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lidak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Fatukbot"
+    }
   ]
 }

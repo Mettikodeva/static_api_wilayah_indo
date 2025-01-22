@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Payuran (Panyuran)",
-    "Tasikmadu",
-    "Tegalbang",
-    "Sumurgung",
-    "Kradenan",
-    "Dawung",
-    "Cendoro",
-    "Ngimbang",
-    "Pucangan",
-    "Gesikharjo",
-    "Palang",
-    "Glodog",
-    "Leran Kulon",
-    "Leran Wetan",
-    "Wangun",
-    "Karangagung",
-    "Pliwetan",
-    "Cepokorejo",
-    "Ketambul"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Payuran (Panyuran)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tasikmadu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tegalbang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumurgung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kradenan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dawung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cendoro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngimbang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pucangan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gesikharjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Palang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Glodog"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Leran Kulon"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Leran Wetan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wangun"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Karangagung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pliwetan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Cepokorejo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ketambul"
+    }
   ]
 }

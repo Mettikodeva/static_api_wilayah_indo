@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gunungtugel (Gunung Tugel)",
-    "Kedungrejo (Kedung Rejo)",
-    "Patokan",
-    "Bantaran",
-    "Legundi",
-    "Tempuran",
-    "Kropak",
-    "Besuk",
-    "Kramatagung (Kramat Agung / Kramatung)",
-    "Karanganyar (Karang Anyar)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunungtugel (Gunung Tugel)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungrejo (Kedung Rejo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patokan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bantaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Legundi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kropak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Besuk"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kramatagung (Kramat Agung / Kramatung)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karanganyar (Karang Anyar)"
+    }
   ]
 }

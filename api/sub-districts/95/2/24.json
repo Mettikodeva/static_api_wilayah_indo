@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kubiphkop (Kubibkop)",
-    "Okano",
-    "Sebul",
-    "Mangabip"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kubiphkop (Kubibkop)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Okano"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sebul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mangabip"
+    }
   ]
 }

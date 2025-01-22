@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Warse/Jetsy",
-    "Powetsy/Amborep",
-    "Pau",
-    "Sesakam",
-    "Akamar",
-    "Birak",
-    "Katew",
-    "Dawer"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Warse/Jetsy"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Powetsy/Amborep"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sesakam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Akamar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Birak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Katew"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dawer"
+    }
   ]
 }

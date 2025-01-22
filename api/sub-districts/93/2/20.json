@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Wanggom",
-    "Kawagit",
-    "Kombai",
-    "Biwage",
-    "Biwage Dua",
-    "Niop"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wanggom"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawagit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kombai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Biwage"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Biwage Dua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Niop"
+    }
   ]
 }

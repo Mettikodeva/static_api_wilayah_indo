@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Dihil",
-    "Liliama",
-    "Naiwel Ahinulin",
-    "Polin",
-    "Tunsai",
-    "Lapela",
-    "Nayet",
-    "Elnusa",
-    "Atiahu",
-    "Sabuai",
-    "Abulate",
-    "Adabai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dihil"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Liliama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Naiwel Ahinulin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Polin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tunsai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lapela"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nayet"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Elnusa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Atiahu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sabuai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Abulate"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Adabai"
+    }
   ]
 }

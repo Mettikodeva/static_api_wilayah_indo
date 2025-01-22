@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bonto-Bonto",
-    "Talaka",
-    "Marang (Ma Rang)",
-    "Attang Salo",
-    "Padang Lampe",
-    "Tamangapa",
-    "Pitusunggu (Pitu Sunggu)",
-    "Pitue",
-    "Punranga",
-    "Alesipitto"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bonto-Bonto"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Talaka"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Marang (Ma Rang)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Attang Salo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Lampe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamangapa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pitusunggu (Pitu Sunggu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pitue"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Punranga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Alesipitto"
+    }
   ]
 }

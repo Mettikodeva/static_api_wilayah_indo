@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sabang",
-    "Sambulangan",
-    "Bangunemo",
-    "Paisuluno",
-    "Montop",
-    "Bolubung",
-    "Bakalinga",
-    "Lukpanenteng (Luk Panenteng)",
-    "Koyobunga",
-    "Ombuli",
-    "Minanga",
-    "Mandok"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sabang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sambulangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangunemo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paisuluno"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Montop"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bolubung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakalinga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lukpanenteng (Luk Panenteng)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koyobunga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ombuli"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Minanga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mandok"
+    }
   ]
 }

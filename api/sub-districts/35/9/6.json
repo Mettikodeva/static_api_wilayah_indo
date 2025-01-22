@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanggulkulon (Tanggul Kulon)",
-    "Tanggulwetan (Tanggul Wetan)",
-    "Patemon",
-    "Darungan",
-    "Manggisan",
-    "Selodakon",
-    "Kramat Sukoharjo",
-    "Klatakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanggulkulon (Tanggul Kulon)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanggulwetan (Tanggul Wetan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Patemon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Darungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manggisan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Selodakon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kramat Sukoharjo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Klatakan"
+    }
   ]
 }

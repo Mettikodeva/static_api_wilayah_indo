@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bagik Papan",
-    "Apit Aik (Apitaik)",
-    "Kerumut",
-    "Pohgading",
-    "Batuyang",
-    "Pringgabaya",
-    "Labuhan Lombok",
-    "Pringgabaya Utara",
-    "Pohgading Timur",
-    "Teko",
-    "Anggaraksa",
-    "Tanak Gadang",
-    "Gunung Malang",
-    "Seruni Mumbul",
-    "Telaga Waru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bagik Papan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Apit Aik (Apitaik)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kerumut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pohgading"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batuyang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pringgabaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Labuhan Lombok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pringgabaya Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pohgading Timur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teko"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Anggaraksa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanak Gadang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Gunung Malang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Seruni Mumbul"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Telaga Waru"
+    }
   ]
 }

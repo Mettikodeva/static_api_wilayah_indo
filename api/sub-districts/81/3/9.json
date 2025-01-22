@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Arma",
-    "Watmuri",
-    "Manglusi",
-    "Tutukembong",
-    "Waturu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Watmuri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Manglusi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tutukembong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waturu"
+    }
   ]
 }

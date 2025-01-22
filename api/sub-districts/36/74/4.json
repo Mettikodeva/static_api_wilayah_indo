@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sawah Baru",
-    "Sarua (Serua)",
-    "Ciputat",
-    "Sawah Lama",
-    "Serua Indah (Sarua Indah)",
-    "Jombang",
-    "Cipayung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sawah Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sarua (Serua)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ciputat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sawah Lama"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Serua Indah (Sarua Indah)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jombang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cipayung"
+    }
   ]
 }

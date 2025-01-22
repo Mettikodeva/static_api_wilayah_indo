@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Guruh Baru",
-    "Petiduran Baru",
-    "Sungai Butang",
-    "Butang Baru",
-    "Suka Maju",
-    "Jati Baru",
-    "Jati Baru Mudo",
-    "Meranti Baru",
-    "Meranti Jaya",
-    "Jernang Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Guruh Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Petiduran Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Butang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Butang Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jati Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jati Baru Mudo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Meranti Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Meranti Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jernang Baru"
+    }
   ]
 }

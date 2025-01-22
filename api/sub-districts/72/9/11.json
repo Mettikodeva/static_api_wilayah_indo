@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bomba",
-    "Molowagu",
-    "Malino",
-    "Kulingkinari",
-    "Tumbulawa",
-    "Siatu",
-    "Kambutu",
-    "Lindo",
-    "Patoyan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bomba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Molowagu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malino"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kulingkinari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbulawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siatu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kambutu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lindo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Patoyan"
+    }
   ]
 }

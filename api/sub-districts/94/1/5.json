@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Bumi Mulia (Bumi Mulya / Bumimulia)",
-    "Karadiri",
-    "Wanggar Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bumi Mulia (Bumi Mulya / Bumimulia)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karadiri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wanggar Makmur"
+    }
   ]
 }

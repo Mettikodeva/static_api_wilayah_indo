@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Ases",
-    "Asuon",
-    "Safotiek (Safoetiek)",
-    "Frasayoah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ases"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Asuon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Safotiek (Safoetiek)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Frasayoah"
+    }
   ]
 }

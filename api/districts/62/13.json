@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Dusun Timur",
-    "Banua Lima",
-    "Patangkep Tutui",
-    "Awang",
-    "Dusun Tengah",
-    "Pematang Karau",
-    "Paju Epat",
-    "Raren Batuah",
-    "Paku",
-    "Karusen Janang"
+    {
+      "district_id": 1,
+      "kecamatan": "Dusun Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Banua Lima"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Patangkep Tutui"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Awang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Dusun Tengah"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Pematang Karau"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Paju Epat"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Raren Batuah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Paku"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Karusen Janang"
+    }
   ]
 }

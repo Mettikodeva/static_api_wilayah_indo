@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Marantale",
-    "Tandaigi",
-    "Silanga",
-    "Siniu",
-    "Towera",
-    "Toraranga",
-    "Uevolo",
-    "Siniu Sayogindano",
-    "Silanga Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marantale"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tandaigi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Silanga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siniu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Towera"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Toraranga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Uevolo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siniu Sayogindano"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Silanga Barat"
+    }
   ]
 }

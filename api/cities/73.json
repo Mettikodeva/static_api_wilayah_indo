@@ -1,28 +1,100 @@
 {
   "cities": [
-    "Kepulauan Selayar",
-    "Bulukumba",
-    "Bantaeng",
-    "Jeneponto",
-    "Takalar",
-    "Gowa",
-    "Sinjai",
-    "Bone",
-    "Maros",
-    "Pangkajene Kepulauan",
-    "Barru",
-    "Soppeng",
-    "Wajo",
-    "Sidenreng Rappang",
-    "Pinrang",
-    "Enrekang",
-    "Luwu",
-    "Tana Toraja",
-    "Luwu Utara",
-    "Luwu Timur",
-    "Toraja Utara",
-    "Makassar",
-    "Pare Pare",
-    "Palopo"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Kepulauan Selayar"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Bulukumba"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Bantaeng"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Jeneponto"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Takalar"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Gowa"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Sinjai"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Bone"
+    },
+    {
+      "city_id": 9,
+      "kabupaten_kota": "Maros"
+    },
+    {
+      "city_id": 10,
+      "kabupaten_kota": "Pangkajene Kepulauan"
+    },
+    {
+      "city_id": 11,
+      "kabupaten_kota": "Barru"
+    },
+    {
+      "city_id": 12,
+      "kabupaten_kota": "Soppeng"
+    },
+    {
+      "city_id": 13,
+      "kabupaten_kota": "Wajo"
+    },
+    {
+      "city_id": 14,
+      "kabupaten_kota": "Sidenreng Rappang"
+    },
+    {
+      "city_id": 15,
+      "kabupaten_kota": "Pinrang"
+    },
+    {
+      "city_id": 16,
+      "kabupaten_kota": "Enrekang"
+    },
+    {
+      "city_id": 17,
+      "kabupaten_kota": "Luwu"
+    },
+    {
+      "city_id": 18,
+      "kabupaten_kota": "Tana Toraja"
+    },
+    {
+      "city_id": 22,
+      "kabupaten_kota": "Luwu Utara"
+    },
+    {
+      "city_id": 24,
+      "kabupaten_kota": "Luwu Timur"
+    },
+    {
+      "city_id": 26,
+      "kabupaten_kota": "Toraja Utara"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Makassar"
+    },
+    {
+      "city_id": 72,
+      "kabupaten_kota": "Pare Pare"
+    },
+    {
+      "city_id": 73,
+      "kabupaten_kota": "Palopo"
+    }
   ]
 }

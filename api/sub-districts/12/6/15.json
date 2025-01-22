@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cinta Rakyat (Cinta Rayat)",
-    "Semangat",
-    "Ujung Teran",
-    "Gongsol",
-    "Jaranguda",
-    "Semangat Gunung",
-    "Deram",
-    "Merdeka",
-    "Sadaperarih (Sada Perarih)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cinta Rakyat (Cinta Rayat)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semangat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ujung Teran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gongsol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jaranguda"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Semangat Gunung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Deram"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Merdeka"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sadaperarih (Sada Perarih)"
+    }
   ]
 }

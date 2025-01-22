@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Linggajati",
-    "Tawangbanteng",
-    "Sinagar",
-    "Gunungsari",
-    "Sukamahi",
-    "Sukagalih",
-    "Sukaratu",
-    "Indrajaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Linggajati"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tawangbanteng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinagar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunungsari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamahi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukagalih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukaratu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Indrajaya"
+    }
   ]
 }

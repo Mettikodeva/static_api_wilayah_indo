@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Penanggiran",
-    "Gunung Megang Luar",
-    "Gunung Megang Dalam",
-    "Lubuk Mumpo",
-    "Perjito",
-    "Tanjung Muning",
-    "Tanjung Terang",
-    "Bangun Sari",
-    "Sumaja Makmur",
-    "Sidomulyo",
-    "Pajar Indah (Fajar Indah)",
-    "Kayu Ara Sakti",
-    "Panang Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penanggiran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gunung Megang Luar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Megang Dalam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Mumpo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perjito"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Muning"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Terang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bangun Sari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sumaja Makmur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pajar Indah (Fajar Indah)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kayu Ara Sakti"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Panang Jaya"
+    }
   ]
 }

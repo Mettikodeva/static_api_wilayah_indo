@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasindangan",
-    "Parungkujang",
-    "Cileles",
-    "Cikareo",
-    "Cipadang",
-    "Gumuruh",
-    "Prabugantungan",
-    "Daroyon",
-    "Margamulya",
-    "Mekarjaya",
-    "Kujangsari",
-    "Banjarsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasindangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Parungkujang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cileles"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikareo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipadang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gumuruh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Prabugantungan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Daroyon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Margamulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kujangsari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Banjarsari"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pahlawan",
-    "Jati Negara",
-    "Nangka",
-    "Damai",
-    "Kebun Lada",
-    "Cengkeh Turi",
-    "Jati Utomo",
-    "Jati Makmur",
-    "Jati Karya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pahlawan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jati Negara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nangka"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Damai"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kebun Lada"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cengkeh Turi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jati Utomo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Jati Makmur"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Jati Karya"
+    }
   ]
 }

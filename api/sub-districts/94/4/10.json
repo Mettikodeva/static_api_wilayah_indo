@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tembagapura",
-    "Waa",
-    "Arwanop",
-    "TSinga (T Singa)",
-    "Jagamin",
-    "Banigogom",
-    "Opitawak",
-    "Doliningokngin",
-    "Banti Dua",
-    "Aingogin",
-    "Baluni",
-    "Noselanop",
-    "Meningimponogama",
-    "Jongkogama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tembagapura"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Arwanop"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "TSinga (T Singa)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jagamin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Banigogom"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Opitawak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Doliningokngin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Banti Dua"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Aingogin"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Baluni"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Noselanop"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Meningimponogama"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jongkogama"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bosua",
-    "Beriulou",
-    "Nemnemleleu (Nem-Nem Leleu)",
-    "Mara",
-    "Sioban",
-    "Matobe (Matobek)",
-    "Saureinu (Saureinuk)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bosua"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beriulou"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nemnemleleu (Nem-Nem Leleu)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sioban"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Matobe (Matobek)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Saureinu (Saureinuk)"
+    }
   ]
 }

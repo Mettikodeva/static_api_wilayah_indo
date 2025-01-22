@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Toyaimoti",
-    "Agapo",
-    "Abatadi",
-    "Baguwo",
-    "Makidini",
-    "Tagiya",
-    "Emai",
-    "Dinubutu",
-    "Duwadide"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Toyaimoti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Agapo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Abatadi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baguwo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Makidini"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tagiya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Emai"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dinubutu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Duwadide"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bilokka",
-    "Wette'E",
-    "Lajonga",
-    "Wanio",
-    "Wanio Timoreng",
-    "Corawali",
-    "Lise",
-    "Bapangi",
-    "Alesalewo",
-    "Cenrana"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bilokka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wette'E"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lajonga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanio"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wanio Timoreng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Corawali"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lise"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bapangi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Alesalewo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cenrana"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "11 Ulu",
-    "12 Ulu",
-    "13 Ulu",
-    "14 Ulu",
-    "16 Ulu",
-    "Tangga Takat",
-    "Sentosa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "11 Ulu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "12 Ulu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "13 Ulu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "14 Ulu"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "16 Ulu"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tangga Takat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sentosa"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Mawor",
-    "Ruf",
-    "Ayamane",
-    "Whismer",
-    "Sahae",
-    "Hewi",
-    "Sisu",
-    "Ruvewes",
-    "Yabuow"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mawor"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ruf"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ayamane"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Whismer"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sahae"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hewi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sisu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ruvewes"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yabuow"
+    }
   ]
 }

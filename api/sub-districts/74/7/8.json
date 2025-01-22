@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sowa",
-    "Popalia",
-    "Waloindi",
-    "Oihu",
-    "Haka"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sowa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Popalia"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waloindi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oihu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Haka"
+    }
   ]
 }

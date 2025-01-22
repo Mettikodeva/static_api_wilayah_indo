@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Marikla",
-    "Yabosorom",
-    "Pamek",
-    "Barice",
-    "Imde",
-    "Lumdakna",
-    "Baramirye",
-    "Mandalak",
-    "Yokul",
-    "Kalek",
-    "Pinggon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Marikla"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yabosorom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pamek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Barice"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Imde"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lumdakna"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baramirye"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mandalak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yokul"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalek"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pinggon"
+    }
   ]
 }

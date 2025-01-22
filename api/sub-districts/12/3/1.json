@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sitinjak",
-    "Simatorkis Sisoma",
-    "Panobasan",
-    "Siuhom",
-    "Sigumuru",
-    "Sibangkua",
-    "Sisundung",
-    "Aek Nabara",
-    "Parsalakan",
-    "Sitaratoit",
-    "Sialogo",
-    "Lembah Lubuk Raya",
-    "Lobu Layan Sigordang (Lobulayan Sigordang)",
-    "Panobasan Lombang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sitinjak"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Simatorkis Sisoma"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panobasan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Siuhom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sigumuru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sibangkua"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sisundung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Aek Nabara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Parsalakan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sitaratoit"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sialogo"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lembah Lubuk Raya"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Lobu Layan Sigordang (Lobulayan Sigordang)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Panobasan Lombang"
+    }
   ]
 }

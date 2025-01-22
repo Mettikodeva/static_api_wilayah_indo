@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Rumbai Bukit",
-    "Muarafajar Timur",
-    "Muarafajar Barat",
-    "Rantaupanjang",
-    "Maharani",
-    "Agrowisata"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rumbai Bukit"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Muarafajar Timur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Muarafajar Barat"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Rantaupanjang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Maharani"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Agrowisata"
+    }
   ]
 }

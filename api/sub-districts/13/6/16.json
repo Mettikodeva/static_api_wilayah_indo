@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Malalak Utara",
-    "Malalak Timur",
-    "Malalak Selatan",
-    "Malalak Barat"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Malalak Utara"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malalak Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Malalak Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Malalak Barat"
+    }
   ]
 }

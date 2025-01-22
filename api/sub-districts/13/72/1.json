@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tanah Garam",
-    "VI Suku",
-    "Sinapa Piliang",
-    "IX Korong",
-    "Kampai Tabu Kerambil/Karambia",
-    "Aro IV Korong",
-    "Simpang Rumbio"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanah Garam"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "VI Suku"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sinapa Piliang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "IX Korong"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kampai Tabu Kerambil/Karambia"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Aro IV Korong"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Simpang Rumbio"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Watu Nggene",
-    "Rongga Koe",
-    "Tanah Rata",
-    "Lembur",
-    "Ruan",
-    "Mbengan",
-    "Rana Kolong",
-    "Gunung",
-    "Komba",
-    "Bamo",
-    "Pong Ruan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Watu Nggene"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Rongga Koe"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tanah Rata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lembur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ruan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mbengan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rana Kolong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gunung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Komba"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bamo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pong Ruan"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kayubulan",
-    "Kayumerah",
-    "Hunggaluwa",
-    "Bolihuangga",
-    "Hepuhulawa",
-    "Hutuo",
-    "Dutulanaa",
-    "Tenilo",
-    "Biyonga",
-    "Bongohulawa",
-    "Bulota",
-    "Malahu",
-    "Tilihuwa (Tilihua)",
-    "Polohungo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kayubulan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kayumerah"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Hunggaluwa"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bolihuangga"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Hepuhulawa"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Hutuo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dutulanaa"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tenilo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Biyonga"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Bongohulawa"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Bulota"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Malahu"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Tilihuwa (Tilihua)"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Polohungo"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Linggang Melapeh Baru (Melapeh Baru)",
-    "Linggang Bigung Baru (Bigung Baru)",
-    "Linggang Tutung (Tutuh / Tutung)",
-    "Linggang Melapeh",
-    "Linggang Mapan",
-    "Linggang Bigung",
-    "Linggang Amer",
-    "Linggang Bangunsari (Bangun Sari)",
-    "Linggang Purwodadi (Purwadadi)",
-    "Linggang Mencelew",
-    "Linggang Kebut"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Linggang Melapeh Baru (Melapeh Baru)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Linggang Bigung Baru (Bigung Baru)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Linggang Tutung (Tutuh / Tutung)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Linggang Melapeh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Linggang Mapan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Linggang Bigung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Linggang Amer"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Linggang Bangunsari (Bangun Sari)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Linggang Purwodadi (Purwadadi)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Linggang Mencelew"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Linggang Kebut"
+    }
   ]
 }

@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Weriagar",
-    "Mogotira (Mogmesa)",
-    "Weriagar Baru",
-    "Weriagar Utara",
-    "Tuanaikin"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Weriagar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mogotira (Mogmesa)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Weriagar Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Weriagar Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuanaikin"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "cities": [
-    "Jayawijaya",
-    "Pegunungan Bintang",
-    "Yahukimo",
-    "Tolikara",
-    "Mamberamo Tengah",
-    "Yalimo",
-    "Lanny Jaya",
-    "Nduga"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Jayawijaya"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Pegunungan Bintang"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Yahukimo"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Tolikara"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Mamberamo Tengah"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Yalimo"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Lanny Jaya"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Nduga"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tambora",
-    "Kali Anyar",
-    "Duri Utara",
-    "Tanah Sereal",
-    "Krendang",
-    "Jembatan Besi",
-    "Angke",
-    "Jembatan Lima",
-    "Pekojan",
-    "Roa Malaka",
-    "Duri Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tambora"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kali Anyar"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Duri Utara"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tanah Sereal"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Krendang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jembatan Besi"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Angke"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Jembatan Lima"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pekojan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Roa Malaka"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Duri Selatan"
+    }
   ]
 }

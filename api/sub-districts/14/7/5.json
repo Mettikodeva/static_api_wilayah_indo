@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Bagan Batu Kota",
-    "Bahtera Makmur Kota",
-    "Bagan Batu",
-    "Bahtera Makmur",
-    "Pelita",
-    "Gelora",
-    "Suka Maju",
-    "Bagan Manunggal",
-    "Bagan Sapta Permai",
-    "Bakti Makmur",
-    "Jaya Agung",
-    "Meranti Makmur",
-    "Bhayangkara Jaya"
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Bagan Batu Kota"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Bahtera Makmur Kota"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bagan Batu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bahtera Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pelita"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gelora"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bagan Manunggal"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bagan Sapta Permai"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Bakti Makmur"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Jaya Agung"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Meranti Makmur"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Bhayangkara Jaya"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Wana",
-    "Tanjung Aji",
-    "Tebing",
-    "Sido Makmur (Sidomakmur)",
-    "Itik Renday (Rendai)",
-    "Sumber Hadi (Sumberhadi)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wana"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Aji"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tebing"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sido Makmur (Sidomakmur)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Itik Renday (Rendai)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Hadi (Sumberhadi)"
+    }
   ]
 }

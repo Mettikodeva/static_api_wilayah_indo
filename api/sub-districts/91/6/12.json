@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Samofa",
-    "Brambaken",
-    "Karang Mulia",
-    "Yafdas",
-    "Mansinyas",
-    "Snerbo",
-    "Anjarew",
-    "Mandouw",
-    "Sumberker",
-    "Maryendi",
-    "Sambawofuar",
-    "Adainasnosen",
-    "Darmopis",
-    "Kamorfuar",
-    "Anjereuw",
-    "Wisata Binsari",
-    "Kinmom"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Samofa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Brambaken"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Karang Mulia"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Yafdas"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Mansinyas"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Snerbo"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Anjarew"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mandouw"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumberker"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maryendi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambawofuar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Adainasnosen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Darmopis"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kamorfuar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Anjereuw"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wisata Binsari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kinmom"
+    }
   ]
 }

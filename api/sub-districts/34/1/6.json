@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Demangrejo",
-    "Srikayangan",
-    "Tuksono",
-    "Salamrejo",
-    "Sukoreno",
-    "Kaliagung",
-    "Sentolo",
-    "Banguncipto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Demangrejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Srikayangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tuksono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Salamrejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukoreno"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kaliagung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sentolo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Banguncipto"
+    }
   ]
 }

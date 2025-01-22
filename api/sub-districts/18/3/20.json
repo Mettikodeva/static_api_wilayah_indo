@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Cempaka",
-    "Sri Agung",
-    "Lepang/Lempang Tengah",
-    "Cahaya Makmur",
-    "Suka Jaya (Sukajaya)",
-    "Sri Jaya",
-    "Negara Agung",
-    "Cempaka Barat",
-    "Cempaka Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cempaka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sri Agung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lepang/Lempang Tengah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cahaya Makmur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Jaya (Sukajaya)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sri Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Negara Agung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cempaka Barat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cempaka Timur"
+    }
   ]
 }

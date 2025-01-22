@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Suaq Bakung (Suaq Bakong)",
-    "Rantau Binuang",
-    "Barat Daya",
-    "Sialang",
-    "Kapeh",
-    "Pulo Ie",
-    "Kedai Runding",
-    "Kedai Kandang",
-    "Luar (Gampong Luar)",
-    "Ujung",
-    "Jua",
-    "Pasi Meurapat (Pasi Merapat)",
-    "Ujung Pasir",
-    "Geulumbuk (Gelumbuk)",
-    "Pasie Lembang (Pasi Lembang)",
-    "Ujung Padang",
-    "Indra Damai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suaq Bakung (Suaq Bakong)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rantau Binuang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barat Daya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sialang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kapeh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pulo Ie"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kedai Runding"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kedai Kandang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Luar (Gampong Luar)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ujung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pasi Meurapat (Pasi Merapat)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ujung Pasir"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Geulumbuk (Gelumbuk)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pasie Lembang (Pasi Lembang)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ujung Padang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Indra Damai"
+    }
   ]
 }

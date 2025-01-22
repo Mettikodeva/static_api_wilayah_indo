@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Penanggo Jaya",
-    "Wonuambuteo",
-    "Mokupa",
-    "Penanggoosi",
-    "Lowa",
-    "Atolanu (Atulano)",
-    "Lere Jaya",
-    "Bou",
-    "Lambandia",
-    "Inotu",
-    "Lalolere",
-    "Pomborea",
-    "Penanggootu",
-    "Mondoke",
-    "Onemanu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Penanggo Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonuambuteo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mokupa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penanggoosi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lowa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Atolanu (Atulano)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lere Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bou"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lambandia"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Inotu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lalolere"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pomborea"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Penanggootu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Mondoke"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Onemanu"
+    }
   ]
 }

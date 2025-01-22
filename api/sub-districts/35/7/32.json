@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kluwut",
-    "Plandi",
-    "Plaosan",
-    "Kebobang",
-    "Sumbertempur (Sumber Tempur)",
-    "Sumberdem",
-    "Wonosari",
-    "Bangelan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kluwut"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Plandi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Plaosan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kebobang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumbertempur (Sumber Tempur)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberdem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bangelan"
+    }
   ]
 }

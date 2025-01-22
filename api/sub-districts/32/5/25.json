@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Cihurip",
-    "Cisangkal",
-    "Mekarwangi",
-    "Jayamukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cihurip"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cisangkal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mekarwangi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jayamukti"
+    }
   ]
 }

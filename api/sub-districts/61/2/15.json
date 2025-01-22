@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Peniti Besar",
-    "Purun Besar (Sungai Purun Besar)",
-    "Parit Bugis",
-    "Peniti Dalam I (Satu)",
-    "Peniti Dalam II (Dua)",
-    "Sei/Sungai Burung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Peniti Besar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purun Besar (Sungai Purun Besar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parit Bugis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Peniti Dalam I (Satu)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Peniti Dalam II (Dua)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Burung"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Pekan Kuala",
-    "Bela Rakyat",
-    "Dalan Naman (Dalam Daman)",
-    "Balai Kasih",
-    "Bekiung",
-    "Blangkahan/Belangkahan",
-    "Besadi",
-    "Beruam",
-    "Raja Tengah",
-    "Namo Mbelin",
-    "Parit Bindu",
-    "Sei Penjara",
-    "Perkebunan Bekiun",
-    "Garunggang",
-    "Suka Damai",
-    "Sido Makmur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pekan Kuala"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Bela Rakyat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dalan Naman (Dalam Daman)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Balai Kasih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bekiung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Blangkahan/Belangkahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Besadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beruam"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Raja Tengah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Namo Mbelin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Parit Bindu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sei Penjara"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Perkebunan Bekiun"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Garunggang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sido Makmur"
+    }
   ]
 }

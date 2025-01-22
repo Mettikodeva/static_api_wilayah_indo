@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lansirang (Lanrisang)",
-    "Samaulue",
-    "Mallongi Longi",
-    "Amassangeng (Amassangang)",
-    "Barang Palie",
-    "Waetuoe (Wae Tuwoe)",
-    "Lerang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lansirang (Lanrisang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Samaulue"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mallongi Longi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amassangeng (Amassangang)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Barang Palie"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Waetuoe (Wae Tuwoe)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lerang"
+    }
   ]
 }

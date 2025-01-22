@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Dembek",
-    "Nij (Neny Pantai / Nenei Pantai)",
-    "Siwi",
-    "Gaya Baru",
-    "Waren",
-    "Demini",
-    "Yekwandi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dembek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nij (Neny Pantai / Nenei Pantai)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siwi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gaya Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waren"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Demini"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Yekwandi"
+    }
   ]
 }

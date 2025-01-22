@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Nanga Dangkan (Nanga Dangkan I)",
-    "Belimbing",
-    "Nanga Ngeri",
-    "Landau Badai",
-    "Nanga Lungu",
-    "Nanga Luan",
-    "Riam Tapang",
-    "Lebak Najah",
-    "Dangkan Kota",
-    "Perjuk",
-    "Landau Rantau",
-    "Entebi",
-    "Selangkai",
-    "Selimu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nanga Dangkan (Nanga Dangkan I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belimbing"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nanga Ngeri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Landau Badai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nanga Lungu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nanga Luan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Riam Tapang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lebak Najah"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dangkan Kota"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perjuk"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Landau Rantau"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Entebi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Selangkai"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Selimu"
+    }
   ]
 }

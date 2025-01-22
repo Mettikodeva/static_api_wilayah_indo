@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Purbasari",
-    "Sirandu",
-    "Karangjambu",
-    "Sanguwatang",
-    "Jingkang",
-    "Danasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purbasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sirandu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangjambu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sanguwatang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jingkang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Danasari"
+    }
   ]
 }

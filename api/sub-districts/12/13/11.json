@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Huta Godang",
-    "Alahan Kae",
-    "Habincaran",
-    "Huta Padang UP",
-    "Hutaimbaru UP",
-    "Muara Saladi",
-    "Patahajang",
-    "Simpang Banyak Jae",
-    "Simpang Banyak Julu",
-    "Simpang Duhu Dolok",
-    "Simpang Duhu Lombang",
-    "Simpang Pining",
-    "Tolang"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Huta Godang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alahan Kae"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Habincaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Huta Padang UP"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hutaimbaru UP"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Muara Saladi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Patahajang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpang Banyak Jae"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Banyak Julu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Simpang Duhu Dolok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simpang Duhu Lombang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Simpang Pining"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tolang"
+    }
   ]
 }

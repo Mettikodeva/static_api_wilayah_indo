@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Hereapini (Heriapini)",
-    "Pelentum (Palentum)",
-    "Homboki",
-    "Menetsing",
-    "Pue",
-    "Kabukal",
-    "Kinkun",
-    "Hoet",
-    "Muhumu",
-    "Ohena",
-    "Nelisa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hereapini (Heriapini)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pelentum (Palentum)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Homboki"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Menetsing"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pue"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kabukal"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kinkun"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Hoet"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Muhumu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ohena"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nelisa"
+    }
   ]
 }

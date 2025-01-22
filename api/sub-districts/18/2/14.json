@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Suka Jawa (Sukajawa)",
-    "Sidokerto",
-    "Suka Jadi (Sukajadi)",
-    "Bumi Raharjo (Bumiraharjo)",
-    "Wates",
-    "Bumi Ratu (Bumiratu)",
-    "Bulu Sari (Bulusari)",
-    "Bumi Rahayu (Bumirahayu)",
-    "Sido Waras (Sidowaras)",
-    "Tulang Kakan (Tulung Kanan)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suka Jawa (Sukajawa)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidokerto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Jadi (Sukajadi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bumi Raharjo (Bumiraharjo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bumi Ratu (Bumiratu)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bulu Sari (Bulusari)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bumi Rahayu (Bumirahayu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sido Waras (Sidowaras)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tulang Kakan (Tulung Kanan)"
+    }
   ]
 }

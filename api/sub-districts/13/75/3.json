@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Aur Kuning",
-    "Birugo",
-    "Belakang Balok",
-    "Sapiran",
-    "Kubu Tanjung",
-    "Pakan Labuh/Labuah",
-    "Parit Rantang (Parit Antang)",
-    "Ladang Cakiah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Aur Kuning"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Birugo"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Belakang Balok"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sapiran"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kubu Tanjung"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pakan Labuh/Labuah"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Parit Rantang (Parit Antang)"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Ladang Cakiah"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sungguminasa",
-    "Bonto Bontoa",
-    "Batangkaluku",
-    "Tompobalang",
-    "Samata",
-    "Katangka",
-    "Pandang Pandang",
-    "Tombolo",
-    "Kalegowa",
-    "Romangpolong",
-    "Paccinongang (Paccinongan)",
-    "Tamarunang",
-    "Bontoramba",
-    "Mawang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungguminasa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bonto Bontoa"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Batangkaluku"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tompobalang"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Samata"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Katangka"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pandang Pandang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tombolo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Kalegowa"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Romangpolong"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Paccinongang (Paccinongan)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tamarunang"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Bontoramba"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Mawang"
+    }
   ]
 }

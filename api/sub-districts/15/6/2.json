@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tungkal Empat Kota",
-    "Tungkal III",
-    "Tungkal Harapan",
-    "Tungkal II",
-    "Kampung Nelayan",
-    "Patunas",
-    "Sriwijaya",
-    "Sungainibung",
-    "Tungkal I",
-    "Teluksialang (Teluk Sialang)"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tungkal Empat Kota"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tungkal III"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tungkal Harapan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Tungkal II"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Kampung Nelayan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Patunas"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Sriwijaya"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Sungainibung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tungkal I"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Teluksialang (Teluk Sialang)"
+    }
   ]
 }

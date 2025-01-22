@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bandar Masilam",
-    "Lias Baru",
-    "Bandar Silou",
-    "Panombean Baru",
-    "Gunung Serawan",
-    "Bandar Masilam II",
-    "Patimbalan (Partimbalan)",
-    "Bandar Tinggi",
-    "Bandar Rejo",
-    "Bandar Gunung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandar Masilam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lias Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bandar Silou"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panombean Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Serawan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandar Masilam II"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Patimbalan (Partimbalan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bandar Tinggi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bandar Rejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bandar Gunung"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kedaung",
-    "Pardasuka",
-    "Suka Negeri (Sukanegeri / Sukanegara)",
-    "Tanjung Rusia",
-    "Wargo/Warga Mulyo",
-    "Pujodadi",
-    "Sukorejo",
-    "Selapan",
-    "Rantau Tijang",
-    "Sidodadi",
-    "Pardasuka Timur",
-    "Tanjung Rusia Timur",
-    "Pardasuka Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedaung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pardasuka"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suka Negeri (Sukanegeri / Sukanegara)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Rusia"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wargo/Warga Mulyo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pujodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rantau Tijang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pardasuka Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjung Rusia Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pardasuka Selatan"
+    }
   ]
 }

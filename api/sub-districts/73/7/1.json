@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tassililu",
-    "Balakia",
-    "Gunung Perak",
-    "Arabika",
-    "Bonto Salama",
-    "Turungan Baji",
-    "Barania",
-    "Boto Lempangan",
-    "Terasa"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tassililu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Balakia"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gunung Perak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Arabika"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bonto Salama"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Turungan Baji"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Barania"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Boto Lempangan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Terasa"
+    }
   ]
 }

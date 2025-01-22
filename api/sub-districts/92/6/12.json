@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tuhiba",
-    "Tisaida",
-    "Kucir",
-    "Sibena Raya (I)",
-    "Sibena Permai (II)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tuhiba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tisaida"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kucir"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sibena Raya (I)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sibena Permai (II)"
+    }
   ]
 }

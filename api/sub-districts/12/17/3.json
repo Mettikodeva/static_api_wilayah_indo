@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Parhusip III",
-    "Sirumahombar",
-    "Pangaloan",
-    "Hutarihit",
-    "Sinaga Uruk Pandiangan",
-    "Toguan Galung",
-    "Pananggangan",
-    "Pasaran Parsaoran",
-    "Sipinggan Lumban Siantar",
-    "Sibonor Ompu Ratus",
-    "Nainggolan",
-    "Pasaran I",
-    "Pananggangan II",
-    "Sipinggan",
-    "Janji Marapot"
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Parhusip III"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sirumahombar"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pangaloan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hutarihit"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinaga Uruk Pandiangan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Toguan Galung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pananggangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasaran Parsaoran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sipinggan Lumban Siantar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sibonor Ompu Ratus"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nainggolan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasaran I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pananggangan II"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sipinggan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Janji Marapot"
+    }
   ]
 }

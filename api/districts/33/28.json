@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Margasari",
-    "Bumijawa",
-    "Bojong",
-    "Balapulang",
-    "Pagerbarang",
-    "Lebaksiu",
-    "Jatinegara",
-    "Kedungbanteng (Kedung Banteng)",
-    "Pangkah",
-    "Slawi",
-    "Adiwerna",
-    "Talang",
-    "Dukuhturi",
-    "Tarub",
-    "Kramat",
-    "Suradadi (Surodadi)",
-    "Warureja (Warurejo)",
-    "Dukuhwaru"
+    {
+      "district_id": 1,
+      "kecamatan": "Margasari"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Bumijawa"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Bojong"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Balapulang"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Pagerbarang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lebaksiu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Jatinegara"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kedungbanteng (Kedung Banteng)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pangkah"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Slawi"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Adiwerna"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Talang"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Dukuhturi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tarub"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kramat"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Suradadi (Surodadi)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Warureja (Warurejo)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Dukuhwaru"
+    }
   ]
 }

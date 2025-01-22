@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Yagarobak (Yagakobak)",
-    "Zapma",
-    "Ayobaibur (Ayubaibur)",
-    "Ibele",
-    "Tipalok",
-    "Habema",
-    "Zinai",
-    "Holaliba",
-    "Yelebarek",
-    "Yokalpalek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yagarobak (Yagakobak)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Zapma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ayobaibur (Ayubaibur)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ibele"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tipalok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Habema"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Zinai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Holaliba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yelebarek"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yokalpalek"
+    }
   ]
 }

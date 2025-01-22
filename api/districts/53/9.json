@@ -1,16 +1,52 @@
 {
   "districts": [
-    "Aimere",
-    "Golewa",
-    "Bajawa",
-    "Soa",
-    "Riung",
-    "Jerebuu",
-    "Riung Barat",
-    "Bajawa Utara",
-    "Wolomeze (Riung Selatan)",
-    "Golewa Selatan",
-    "Golewa Barat",
-    "Inerie"
+    {
+      "district_id": 1,
+      "kecamatan": "Aimere"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Golewa"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Bajawa"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Soa"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Riung"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Jerebuu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Riung Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Bajawa Utara"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Wolomeze (Riung Selatan)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Golewa Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Golewa Barat"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Inerie"
+    }
   ]
 }

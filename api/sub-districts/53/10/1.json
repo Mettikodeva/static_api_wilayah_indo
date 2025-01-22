@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Satar Ngkeling",
-    "Lalong",
-    "Poco",
-    "Wae Mulu",
-    "Ndehes",
-    "Golo Cador",
-    "Longko",
-    "Ranggi",
-    "Compang Ndehes",
-    "Bangka Jong (Bangkajong)",
-    "Bangka Kenda",
-    "Golo Mendo",
-    "Golo Wua (Golo Wuas)",
-    "Wae Rii",
-    "Ranaka/Renaka",
-    "Golo Watu/Wutu",
-    "Benteng Poco"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Satar Ngkeling"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lalong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Poco"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wae Mulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ndehes"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Golo Cador"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Longko"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ranggi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Compang Ndehes"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bangka Jong (Bangkajong)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bangka Kenda"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Golo Mendo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Golo Wua (Golo Wuas)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wae Rii"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Ranaka/Renaka"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Golo Watu/Wutu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Benteng Poco"
+    }
   ]
 }

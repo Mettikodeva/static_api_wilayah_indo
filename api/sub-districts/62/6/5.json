@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Samba Kahayan",
-    "Tumbang Lahang",
-    "Tewang Panjang",
-    "Petak Puti",
-    "Telok",
-    "Samba Danum",
-    "Samba Bakumpai",
-    "Samba Katung",
-    "Napu Sahur",
-    "Batu Badinding",
-    "Rantau Asem",
-    "Mirah Kalanaman",
-    "Tumbang Kalemei (Tumbang Kalamei)",
-    "Tumbang Marak",
-    "Tumbang Hangei",
-    "Tumbang Pariyei"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Samba Kahayan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbang Lahang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tewang Panjang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Petak Puti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Samba Danum"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Samba Bakumpai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Samba Katung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Napu Sahur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Badinding"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rantau Asem"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mirah Kalanaman"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tumbang Kalemei (Tumbang Kalamei)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tumbang Marak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tumbang Hangei"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tumbang Pariyei"
+    }
   ]
 }

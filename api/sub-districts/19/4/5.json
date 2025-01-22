@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Namang",
-    "Cambai",
-    "Kayu Besi",
-    "Jelutung",
-    "Belilik",
-    "Baskara Bakti/Bhakti",
-    "Bukit Kijang",
-    "Cambai Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Namang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cambai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kayu Besi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jelutung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Belilik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baskara Bakti/Bhakti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bukit Kijang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cambai Selatan"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Keling Panggau",
-    "Nanga Kantuk",
-    "Tintin Peninjau",
-    "Bajau Andai",
-    "Kumang Jaya",
-    "Laja Sandang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keling Panggau"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nanga Kantuk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tintin Peninjau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bajau Andai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kumang Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Laja Sandang"
+    }
   ]
 }

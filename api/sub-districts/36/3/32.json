@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Gunung Kaler",
-    "Sidoko",
-    "Rancagede (Ranca Gede)",
-    "Kedung",
-    "Cipaeh",
-    "Onyam",
-    "Tamiang",
-    "Kandawati (Kanda Wati)",
-    "Cibetok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gunung Kaler"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidoko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rancagede (Ranca Gede)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cipaeh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Onyam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tamiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kandawati (Kanda Wati)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cibetok"
+    }
   ]
 }

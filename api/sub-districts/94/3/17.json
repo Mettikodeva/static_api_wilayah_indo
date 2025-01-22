@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Panibagata",
-    "Pugaida",
-    "Aweubutu",
-    "Ipuwa",
-    "Munaiyepa (Muniyepa)",
-    "Kebo I",
-    "Payogei",
-    "Detauwo",
-    "Yaibu",
-    "Woyouto"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Panibagata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pugaida"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Aweubutu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ipuwa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Munaiyepa (Muniyepa)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kebo I"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Payogei"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Detauwo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yaibu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Woyouto"
+    }
   ]
 }

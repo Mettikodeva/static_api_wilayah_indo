@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Paslaten",
-    "Sulu",
-    "Bajo",
-    "Wawona",
-    "Popareng",
-    "Wawontulap",
-    "Sondaken",
-    "Pungkol",
-    "Raprap (Rap-Rap)",
-    "Paslaten Satu",
-    "Arakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paslaten"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bajo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wawona"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Popareng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wawontulap"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sondaken"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pungkol"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Raprap (Rap-Rap)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Paslaten Satu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Arakan"
+    }
   ]
 }

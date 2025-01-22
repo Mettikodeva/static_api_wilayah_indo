@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kambang",
-    "Lakitan",
-    "Kambang Utara",
-    "Kambang Timur",
-    "Kambang Barat",
-    "Lakitan Utara",
-    "Lakitan Selatan",
-    "Lakitan Timur",
-    "Lakitan Tengah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kambang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lakitan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kambang Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kambang Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kambang Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lakitan Utara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lakitan Selatan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lakitan Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lakitan Tengah"
+    }
   ]
 }

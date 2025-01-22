@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Cirea",
-    "Sukasari",
-    "Seda",
-    "Trijaya",
-    "Randobawa Girang (Randobawagirang)",
-    "Pakembangan",
-    "Randobawa Ilir (Randobawailir)",
-    "Kertawinangun",
-    "Mandirancan",
-    "Naggela (Nanggela)",
-    "Nanggerangjaya",
-    "Salakadomas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cirea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Seda"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Trijaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Randobawa Girang (Randobawagirang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pakembangan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Randobawa Ilir (Randobawailir)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kertawinangun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mandirancan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Naggela (Nanggela)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nanggerangjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Salakadomas"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sabulakoa",
-    "Talumbinga",
-    "Tetenggabo",
-    "Watu-Watu",
-    "Karoonua",
-    "Ulu Sabulakoa",
-    "Asaria",
-    "Wawobende"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sabulakoa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talumbinga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tetenggabo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watu-Watu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karoonua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ulu Sabulakoa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Asaria"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wawobende"
+    }
   ]
 }

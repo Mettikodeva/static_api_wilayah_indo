@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Rancabango",
-    "Tanjungrasa (Tanjungrasa Kaler)",
-    "Ciberes",
-    "Jatiragas Hilir",
-    "Tambakjati",
-    "Rancajaya",
-    "Gempolsari",
-    "Tanjungrasa Kidul",
-    "Rancaasih",
-    "Rancamulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rancabango"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjungrasa (Tanjungrasa Kaler)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ciberes"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jatiragas Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tambakjati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rancajaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gempolsari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjungrasa Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rancaasih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rancamulya"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Waworaha",
-    "Latoma Jaya",
-    "Ambekaeri Utama",
-    "Amboniki",
-    "Pinole",
-    "Nesowi",
-    "Wawolatoma",
-    "Andoluto",
-    "Lalowata",
-    "Titiowa (Titioa)",
-    "Angonga"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Waworaha"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Latoma Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ambekaeri Utama"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Amboniki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pinole"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nesowi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wawolatoma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Andoluto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lalowata"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Titiowa (Titioa)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Angonga"
+    }
   ]
 }

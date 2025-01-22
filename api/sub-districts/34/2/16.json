@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bangunjiwo",
-    "Tirtonirmolo",
-    "Tamantirto",
-    "Ngestiharjo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bangunjiwo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tirtonirmolo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamantirto"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngestiharjo"
+    }
   ]
 }

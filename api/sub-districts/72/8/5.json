@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tingkulang",
-    "Tomini",
-    "Ogotumubu",
-    "Ambesia",
-    "Tilung",
-    "Ambesia Selatan",
-    "Biga",
-    "Tomini Utara",
-    "Tomini Barat",
-    "Supilopong",
-    "Ambesia Barat",
-    "Sipontan",
-    "Ta'aniuge",
-    "Ogotumubu Barat"
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tingkulang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tomini"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ogotumubu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ambesia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tilung"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Ambesia Selatan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Biga"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tomini Utara"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Tomini Barat"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Supilopong"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Ambesia Barat"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Sipontan"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Ta'aniuge"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Ogotumubu Barat"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Dusun Baru",
-    "Sumur Anyir",
-    "Koto Tinggi",
-    "Talang Lindung",
-    "Pelayang Raya",
-    "Sungai Ning"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Dusun Baru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumur Anyir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Lindung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pelayang Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Ning"
+    }
   ]
 }

@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kijang Kota",
-    "Sungai Lekop",
-    "Gunung Lengkuas",
-    "Sungai Enam"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kijang Kota"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sungai Lekop"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Gunung Lengkuas"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sungai Enam"
+    }
   ]
 }

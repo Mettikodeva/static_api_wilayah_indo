@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tanjung Berlian Kota",
-    "Sungai Ungar Utara",
-    "Teluk Radang",
-    "Perayun",
-    "Tanjung Berlian Barat"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tanjung Berlian Kota"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Ungar Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Radang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Perayun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Berlian Barat"
+    }
   ]
 }

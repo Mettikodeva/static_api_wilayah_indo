@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Membalong",
-    "Perpat",
-    "Lassar",
-    "Simpang Rusa",
-    "Kembiri",
-    "Bantan",
-    "Tanjungrusa (Tanjung Rusa)",
-    "Mentigi",
-    "Pulau Seliu",
-    "Pulau Sumedang",
-    "Gunung Riting",
-    "Padang Kandis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Membalong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perpat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lassar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Rusa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kembiri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bantan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjungrusa (Tanjung Rusa)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mentigi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulau Seliu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Sumedang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Riting"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang Kandis"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sari Guna",
-    "Sido Waluyo (Sidowaluyo)",
-    "Sugih Waras",
-    "Rejo Sari (Rejosari)",
-    "Petanggan",
-    "Purwodadi",
-    "Sri Mulyo",
-    "Ulak Buntar",
-    "Sribudaya (Sri Budaya)",
-    "Sukoharjo",
-    "Tulung Sari",
-    "Mulya Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sari Guna"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sido Waluyo (Sidowaluyo)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sugih Waras"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rejo Sari (Rejosari)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Petanggan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Purwodadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sri Mulyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ulak Buntar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sribudaya (Sri Budaya)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukoharjo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tulung Sari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mulya Sari"
+    }
   ]
 }

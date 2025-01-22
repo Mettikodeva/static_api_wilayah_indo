@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Tabukan Utara",
-    "Nusa Tabukan",
-    "Manganitu Selatan",
-    "Tatoareng",
-    "Tamako",
-    "Manganitu",
-    "Tabukan Tengah",
-    "Tabukan Selatan",
-    "Kendahe",
-    "Tahuna",
-    "Tabukan Selatan Tengah",
-    "Tabukan Selatan Tenggara",
-    "Tahuna Barat",
-    "Tahuna Timur",
-    "Kepulauan Marore"
+    {
+      "district_id": 8,
+      "kecamatan": "Tabukan Utara"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Nusa Tabukan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Manganitu Selatan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Tatoareng"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Tamako"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Manganitu"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tabukan Tengah"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Tabukan Selatan"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kendahe"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tahuna"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tabukan Selatan Tengah"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Tabukan Selatan Tenggara"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Tahuna Barat"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Tahuna Timur"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Kepulauan Marore"
+    }
   ]
 }

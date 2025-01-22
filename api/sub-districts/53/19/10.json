@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Golo Tolang",
-    "Mokel",
-    "Paan Leleng",
-    "Rana Mbeling",
-    "Golo Meni (Golomeni)",
-    "Golo Nderu",
-    "Golo Ndele",
-    "Rana Mbata",
-    "Mokel Morid",
-    "Watu Pari",
-    "Gunung Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Golo Tolang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mokel"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paan Leleng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rana Mbeling"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Golo Meni (Golomeni)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Golo Nderu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Golo Ndele"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rana Mbata"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mokel Morid"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Watu Pari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Gunung Baru"
+    }
   ]
 }

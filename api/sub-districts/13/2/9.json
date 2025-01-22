@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Taruang Taruang",
-    "Siaro Aro",
-    "Pianggu",
-    "Sungai Durian",
-    "Bukik Bais (Bukit Bais)",
-    "Sungai Jambur",
-    "Guguak Sarai (Guguk Sarai)",
-    "Koto Laweh",
-    "Indudur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Taruang Taruang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siaro Aro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pianggu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Durian"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bukik Bais (Bukit Bais)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Jambur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Guguak Sarai (Guguk Sarai)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Koto Laweh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Indudur"
+    }
   ]
 }

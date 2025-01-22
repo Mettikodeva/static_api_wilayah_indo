@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pendalian",
-    "Bengkolan Salak",
-    "Suligi",
-    "Air Panas",
-    "Sei Kandis"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pendalian"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bengkolan Salak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suligi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Air Panas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sei Kandis"
+    }
   ]
 }

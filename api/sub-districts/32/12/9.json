@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Purwajaya",
-    "Kapringan",
-    "Singakerta",
-    "Dukuhjati",
-    "Tegalmulya",
-    "Kedungwungu",
-    "Srengseng",
-    "Luwunggesik",
-    "Kalianyar",
-    "Krangkeng",
-    "Tanjakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kapringan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Singakerta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dukuhjati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegalmulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedungwungu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Srengseng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Luwunggesik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kalianyar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Krangkeng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tanjakan"
+    }
   ]
 }

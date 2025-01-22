@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Babat",
-    "Mangun Jaya",
-    "Sereka",
-    "Sugi Raya",
-    "Sugi Waras (Sugiwaras)",
-    "Beruge",
-    "Muara Punjung",
-    "Bangun Sari",
-    "Toman",
-    "Kasmaran",
-    "Sungai Angit",
-    "Srimulyo (Sri Mulyo)",
-    "Pangkalan Jaya",
-    "Toman Baru"
+    {
+      "sub_district_id": 1038,
+      "desa_kelurahan": "Babat"
+    },
+    {
+      "sub_district_id": 1039,
+      "desa_kelurahan": "Mangun Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sereka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sugi Raya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sugi Waras (Sugiwaras)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beruge"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Punjung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bangun Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Toman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kasmaran"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Sungai Angit"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Srimulyo (Sri Mulyo)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Pangkalan Jaya"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Toman Baru"
+    }
   ]
 }

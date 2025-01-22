@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Padang Selatan",
-    "Padang Timur",
-    "Padang Barat",
-    "Padang Utara",
-    "Bungus Teluk Kabung",
-    "Lubuk Begalung",
-    "Lubuk Kilangan",
-    "Pauh",
-    "Kuranji",
-    "Nanggalo",
-    "Koto Tangah"
+    {
+      "district_id": 1,
+      "kecamatan": "Padang Selatan"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Padang Timur"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Padang Barat"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Padang Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Bungus Teluk Kabung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lubuk Begalung"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lubuk Kilangan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pauh"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kuranji"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Nanggalo"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Koto Tangah"
+    }
   ]
 }

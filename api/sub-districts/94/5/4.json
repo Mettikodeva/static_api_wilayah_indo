@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Doufo",
-    "Iratoi",
-    "Lani",
-    "Wahuka",
-    "Sibita",
-    "Rawa",
-    "Jirei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Doufo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Iratoi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lani"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wahuka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sibita"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rawa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jirei"
+    }
   ]
 }

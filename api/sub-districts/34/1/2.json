@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wates",
-    "Karangwuni (Karang Wuni)",
-    "Sogan",
-    "Kulwaru",
-    "Ngestiharjo",
-    "Bendungan",
-    "Triharjo",
-    "Giripeni (Giri Peni)"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangwuni (Karang Wuni)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sogan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kulwaru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngestiharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bendungan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Triharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Giripeni (Giri Peni)"
+    }
   ]
 }

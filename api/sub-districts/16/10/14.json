@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Ibul Dalam",
-    "Beringin Dalam",
-    "Kuang Dalam Barat",
-    "Lubuk Tunggal",
-    "Ulak Segara",
-    "Tanjung Bulan",
-    "Tambang Rambang",
-    "Tangai/Sukananti",
-    "Kayu Ara",
-    "Tanjung Miring",
-    "Sunur",
-    "Kuang Dalam Timur",
-    "Suka Tangai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ibul Dalam"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Beringin Dalam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuang Dalam Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lubuk Tunggal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ulak Segara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Bulan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tambang Rambang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tangai/Sukananti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kayu Ara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Miring"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sunur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuang Dalam Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Tangai"
+    }
   ]
 }

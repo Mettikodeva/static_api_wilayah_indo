@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Argomulyo (Argo Mulyo)",
-    "Batu Kebayan",
-    "Atar Bawang",
-    "Campang Tiga",
-    "Luas",
-    "Bakhu",
-    "Way Ngison",
-    "Kubu Liku Jaya",
-    "Sumber Rejo",
-    "Atar Kuwau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Argomulyo (Argo Mulyo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Batu Kebayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Atar Bawang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Campang Tiga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Luas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bakhu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Way Ngison"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kubu Liku Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Rejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Atar Kuwau"
+    }
   ]
 }

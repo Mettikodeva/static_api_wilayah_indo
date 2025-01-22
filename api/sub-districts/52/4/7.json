@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Batu Rotok (Baturotok)",
-    "Tangkam Pulit (Tangkampulit / Tangkan Pulit)",
-    "Bao Desa",
-    "Tepal",
-    "Batu Dulang (Batudulang)",
-    "Kelungkung"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batu Rotok (Baturotok)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tangkam Pulit (Tangkampulit / Tangkan Pulit)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bao Desa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tepal"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Batu Dulang (Batudulang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelungkung"
+    }
   ]
 }

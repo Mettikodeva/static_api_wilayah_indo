@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Padang Jati",
-    "Kebun Dahri",
-    "Belakang Pondok",
-    "Penurunan",
-    "Anggut Bawah",
-    "Anggut Atas",
-    "Anggut Dalam",
-    "Kebun Geran (Gerand)",
-    "Pengantungan (Penggantungan)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Padang Jati"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kebun Dahri"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Belakang Pondok"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Penurunan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Anggut Bawah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Anggut Atas"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Anggut Dalam"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kebun Geran (Gerand)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Pengantungan (Penggantungan)"
+    }
   ]
 }

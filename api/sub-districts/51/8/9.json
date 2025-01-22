@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sembiran",
-    "Pacung",
-    "Julah",
-    "Madenan",
-    "Bondalem",
-    "Tejakula",
-    "Les",
-    "Penuktukan",
-    "Sambirenteng",
-    "Tembok"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sembiran"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pacung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Julah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Madenan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bondalem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tejakula"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Les"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penuktukan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sambirenteng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tembok"
+    }
   ]
 }

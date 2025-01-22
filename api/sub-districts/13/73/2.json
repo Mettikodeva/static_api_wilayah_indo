@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Saringan",
-    "Lubang Panjang",
-    "Durian I",
-    "Durian II",
-    "Santur/Santua",
-    "Kolok Mudik/Mudiak",
-    "Kolok Nan Tuo",
-    "Talago Gunung/Gunuang",
-    "Lumindai",
-    "Balai Batu Sadara (Balai Batu Sandaran)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Saringan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lubang Panjang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Durian I"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Durian II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Santur/Santua"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kolok Mudik/Mudiak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kolok Nan Tuo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talago Gunung/Gunuang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lumindai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Balai Batu Sadara (Balai Batu Sandaran)"
+    }
   ]
 }

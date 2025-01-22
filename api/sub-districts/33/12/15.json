@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Sanggrong",
-    "Jatiroto",
-    "Brenggolo",
-    "Boto",
-    "Guno",
-    "Dawungan",
-    "Ngelo",
-    "Pingkuk",
-    "Mojopuro (Mojopura)",
-    "Pesido",
-    "Cangkring",
-    "Pengkol",
-    "Sugihan",
-    "Duren",
-    "Jatirejo"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sanggrong"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Jatiroto"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Brenggolo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Guno"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dawungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngelo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pingkuk"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mojopuro (Mojopura)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pesido"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cangkring"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pengkol"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sugihan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Duren"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Jatirejo"
+    }
   ]
 }

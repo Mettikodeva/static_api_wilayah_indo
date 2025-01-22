@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Paseseh",
-    "Bumi Anyar",
-    "Tambak Pocok",
-    "Larangan Timur",
-    "Bungkeng",
-    "Bandang Dajah (Bandang Dayah)",
-    "Tagungguh",
-    "Planggiran",
-    "Aeng Taber (Aeng Tabar)",
-    "Banyusangka (Banyu Sangkah)",
-    "Tlangoh",
-    "Macajah",
-    "Tanjung Bumi",
-    "Telaga Biru (Telaga / Tlaga Biru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paseseh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bumi Anyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambak Pocok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Larangan Timur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bungkeng"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bandang Dajah (Bandang Dayah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tagungguh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Planggiran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aeng Taber (Aeng Tabar)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banyusangka (Banyu Sangkah)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tlangoh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Macajah"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Bumi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Telaga Biru (Telaga / Tlaga Biru)"
+    }
   ]
 }

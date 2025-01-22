@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Daik",
-    "Daik Sepincan",
-    "Pekajang",
-    "Kelombok",
-    "Mepar",
-    "Kelumu",
-    "Mentuda",
-    "Merawang",
-    "Panggak Darat",
-    "Panggak Laut",
-    "Musai",
-    "Nerekeh"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Daik"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Daik Sepincan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pekajang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kelombok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mepar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kelumu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mentuda"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Merawang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Panggak Darat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panggak Laut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Musai"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Nerekeh"
+    }
   ]
 }

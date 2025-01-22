@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Mangulewa",
-    "Turekisa",
-    "Rakalaba",
-    "Sobo",
-    "Sobo Satu (Sobo I)",
-    "Rakateda Satu (Rakateda I)",
-    "Rakateda Dua (Rakateda II)",
-    "Watunay",
-    "Dizi Gedha",
-    "Bewapawe (Bea Pawe)",
-    "Bopoma",
-    "Rakalaba I",
-    "Sobo II"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mangulewa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Turekisa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rakalaba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sobo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sobo Satu (Sobo I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rakateda Satu (Rakateda I)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rakateda Dua (Rakateda II)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watunay"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Dizi Gedha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bewapawe (Bea Pawe)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bopoma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rakalaba I"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sobo II"
+    }
   ]
 }

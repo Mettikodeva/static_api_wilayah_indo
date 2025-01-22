@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Purwosari II",
-    "Purwosari I",
-    "Tamban Bangun",
-    "Tamban Muara",
-    "Tamban Kecil",
-    "Tinggiran II Luar (Tinggiran Luar II)",
-    "Jelapat I",
-    "Tamban Muara Baru",
-    "Purwosari Baru",
-    "Sekata Baru",
-    "Koanda",
-    "Damsari",
-    "Sidorejo",
-    "Jelapat Baru",
-    "Tamban Bangun Baru",
-    "Tamban Sari Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Purwosari II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Purwosari I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamban Bangun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tamban Muara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamban Kecil"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tinggiran II Luar (Tinggiran Luar II)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jelapat I"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tamban Muara Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purwosari Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sekata Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Koanda"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Damsari"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jelapat Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tamban Bangun Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tamban Sari Baru"
+    }
   ]
 }

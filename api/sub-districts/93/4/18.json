@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Comoro",
-    "Kawet",
-    "Mausi",
-    "Sato Yod",
-    "Tamor",
-    "Ero Airo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Comoro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kawet"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mausi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sato Yod"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ero Airo"
+    }
   ]
 }

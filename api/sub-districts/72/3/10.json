@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Dalaka",
-    "Lero",
-    "Taripa",
-    "Sumari",
-    "Toaya",
-    "Masaingi",
-    "Marana",
-    "Enu",
-    "Lero Tatari",
-    "Toaya Vunta/Funta",
-    "Gumbasa (Kumbasa)",
-    "Ape Maliko (Amal)",
-    "Kavaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dalaka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lero"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taripa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Masaingi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marana"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Enu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Lero Tatari"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Toaya Vunta/Funta"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gumbasa (Kumbasa)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ape Maliko (Amal)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kavaya"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wilty",
-    "Mlawen",
-    "Byoklokfle (Byaklokfle)",
-    "Tbotjin (Totjin)",
-    "Sas",
-    "Samolslo",
-    "Kmasen",
-    "Klasawon",
-    "Yurkaden",
-    "Betwaf (Betwaft)",
-    "Cokhif (Cokif)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wilty"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mlawen"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Byoklokfle (Byaklokfle)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tbotjin (Totjin)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Samolslo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kmasen"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Klasawon"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yurkaden"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Betwaf (Betwaft)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Cokhif (Cokif)"
+    }
   ]
 }

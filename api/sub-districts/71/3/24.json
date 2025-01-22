@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lesa",
-    "Enengpahembang",
-    "Tapuang",
-    "Tidore",
-    "Tona I",
-    "Tona II",
-    "Dumuhung",
-    "Batulewehe"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lesa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Enengpahembang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tapuang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tidore"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tona I"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tona II"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dumuhung"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Batulewehe"
+    }
   ]
 }

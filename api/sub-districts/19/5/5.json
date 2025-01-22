@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tempilang",
-    "Tanjung Niur (Tanjungniur)",
-    "Sangku",
-    "Buyan Kelumbi",
-    "Penyampak",
-    "Benteng Kota",
-    "Air Lintang",
-    "Sinar Surya",
-    "Simpang Yul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tempilang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Niur (Tanjungniur)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sangku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buyan Kelumbi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penyampak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benteng Kota"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Lintang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sinar Surya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Yul"
+    }
   ]
 }

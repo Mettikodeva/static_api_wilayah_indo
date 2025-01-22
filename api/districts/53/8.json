@@ -1,25 +1,88 @@
 {
   "districts": [
-    "Nangapanda",
-    "Pulau Ende",
-    "Ende",
-    "Ende Selatan",
-    "Ndona",
-    "Detusoko",
-    "Wewaria",
-    "Wolowaru",
-    "Wolojita",
-    "Maurole",
-    "Maukaro",
-    "Lio Timur",
-    "Kota Baru",
-    "Kelimutu",
-    "Detukeli",
-    "Ndona Timur",
-    "Ndori",
-    "Ende Utara",
-    "Ende Tengah",
-    "Ende Timur",
-    "Lepembusu Kelisoke"
+    {
+      "district_id": 1,
+      "kecamatan": "Nangapanda"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pulau Ende"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Ende"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Ende Selatan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Ndona"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Detusoko"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wewaria"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Wolowaru"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Wolojita"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Maurole"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Maukaro"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lio Timur"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kota Baru"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kelimutu"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Detukeli"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Ndona Timur"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Ndori"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Ende Utara"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Ende Tengah"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Ende Timur"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Lepembusu Kelisoke"
+    }
   ]
 }

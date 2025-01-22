@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Ramuk",
-    "Wangga Mbewa",
-    "Lailunggi",
-    "Tawui",
-    "Wahang",
-    "Mahaniwa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ramuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wangga Mbewa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lailunggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tawui"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wahang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mahaniwa"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pudakpayung",
-    "Gedawang",
-    "Jabungan",
-    "Pedalangan",
-    "Banyumanik",
-    "Srondol Kulon",
-    "Srondol Wetan",
-    "Ngesrep",
-    "Tinjomoyo",
-    "Padangsari",
-    "Sumurboto"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pudakpayung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gedawang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jabungan"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pedalangan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Banyumanik"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Srondol Kulon"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Srondol Wetan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Ngesrep"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tinjomoyo"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Padangsari"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sumurboto"
+    }
   ]
 }

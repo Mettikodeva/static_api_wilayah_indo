@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sikara Tobata",
-    "Alindau",
-    "Oti",
-    "Tamarenja",
-    "Sipeso",
-    "Sindosa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sikara Tobata"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Alindau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tamarenja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sipeso"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sindosa"
+    }
   ]
 }

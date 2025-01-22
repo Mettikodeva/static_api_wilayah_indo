@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Awang Tangka",
-    "Raja",
-    "Abbumpungeng",
-    "Bulu Tanah",
-    "Gona",
-    "Buareng",
-    "Polewali",
-    "Padaelo",
-    "Ancu",
-    "Tarasu",
-    "Lemo",
-    "Kalero",
-    "Lappabosse (Lappa Bosse)",
-    "Waetuwo (Waetuo)",
-    "Pude",
-    "Angkue / Angku",
-    "Massangkae",
-    "Mallahae"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Awang Tangka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Raja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Abbumpungeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bulu Tanah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gona"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Buareng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Polewali"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Padaelo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ancu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tarasu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lemo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalero"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lappabosse (Lappa Bosse)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Waetuwo (Waetuo)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pude"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Angkue / Angku"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Massangkae"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Mallahae"
+    }
   ]
 }

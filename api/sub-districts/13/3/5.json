@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Palangki",
-    "Koto Baru",
-    "Muaro Bodi",
-    "Mundam Sakti",
-    "Koto Tuo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Palangki"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muaro Bodi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mundam Sakti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koto Tuo"
+    }
   ]
 }

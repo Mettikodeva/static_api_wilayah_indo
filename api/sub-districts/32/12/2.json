@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tanjungkerta",
-    "Kroya",
-    "Sumbon",
-    "Sukamelang",
-    "Temiyang",
-    "Tamiyangsari (Temiyangsari)",
-    "Jayamulya",
-    "Suka Slamet (Sukaslamet)",
-    "Sumberjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjungkerta"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kroya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumbon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukamelang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Temiyang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamiyangsari (Temiyangsari)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jayamulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Slamet (Sukaslamet)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberjaya"
+    }
   ]
 }

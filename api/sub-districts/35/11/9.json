@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lombok Kulon",
-    "Lombok Wetan",
-    "Tumpeng",
-    "Jumpong",
-    "Tangsil Wetan",
-    "Pasarejo",
-    "Bendoarum",
-    "Kapuran",
-    "Sumberkalong",
-    "Traktakan",
-    "Wonosari",
-    "Pelalangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lombok Kulon"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lombok Wetan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumpeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jumpong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tangsil Wetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasarejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bendoarum"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kapuran"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberkalong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Traktakan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pelalangan"
+    }
   ]
 }

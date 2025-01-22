@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pulau Simardan",
-    "Semula Jadi",
-    "Selat Lancang",
-    "Bunga Tanjung",
-    "Selat Tanjung Medan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulau Simardan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Semula Jadi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Selat Lancang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bunga Tanjung"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Selat Tanjung Medan"
+    }
   ]
 }

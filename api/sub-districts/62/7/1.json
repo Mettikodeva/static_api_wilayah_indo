@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kuala Pembuang Satu (I)",
-    "Kuala Pembuang Dua (II)",
-    "Pematang Limau",
-    "Sei/Sungai Perlu",
-    "Tanjung Rangas",
-    "Muara Dua",
-    "Jahitan",
-    "Baung",
-    "Persil Raya (Persit Raya)",
-    "Sei/Sungai Urdang"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kuala Pembuang Satu (I)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kuala Pembuang Dua (II)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pematang Limau"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sei/Sungai Perlu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Rangas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Dua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jahitan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Baung"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Persil Raya (Persit Raya)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sei/Sungai Urdang"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Cipeundeuy",
-    "Ciharashas",
-    "Bojongmekar",
-    "Ciroyom",
-    "Jatimekar",
-    "Margalaksana",
-    "Margaluyu",
-    "Nanggeleng",
-    "Nyenang",
-    "Sirnaraja",
-    "Sirnagalih",
-    "Sukahaji"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cipeundeuy"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciharashas"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojongmekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciroyom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jatimekar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Margalaksana"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margaluyu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nanggeleng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nyenang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sirnaraja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sirnagalih"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukahaji"
+    }
   ]
 }

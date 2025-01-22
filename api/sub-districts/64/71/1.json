@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Manggar",
-    "Lamaru",
-    "Teritip",
-    "Manggar Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Manggar"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lamaru"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Teritip"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Manggar Baru"
+    }
   ]
 }

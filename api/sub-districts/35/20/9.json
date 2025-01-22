@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tinap",
-    "Kalangketi",
-    "Tamanan",
-    "Tambakmas",
-    "Bandar",
-    "Bibis",
-    "Sukomoro",
-    "Bulu",
-    "Pojoksari",
-    "Kedungguwo",
-    "Kembangan",
-    "Kentangan",
-    "Bogem",
-    "Truneng"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Tinap"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalangketi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamanan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tambakmas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bandar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bibis"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukomoro"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pojoksari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kedungguwo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kembangan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kentangan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bogem"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Truneng"
+    }
   ]
 }

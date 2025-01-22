@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Way Tuba",
-    "Karya Jaya",
-    "Say Umpu",
-    "Beringin Jaya",
-    "Suma Mukti",
-    "Ramsai (Ramsay)",
-    "Bandar Sari",
-    "Bumi Dana",
-    "Bukit Gemuruh",
-    "Way Mencar",
-    "Way Pisang",
-    "Bukit Harapan",
-    "Way Tuba Asri"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Way Tuba"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karya Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Say Umpu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suma Mukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ramsai (Ramsay)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandar Sari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bumi Dana"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bukit Gemuruh"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Way Mencar"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Way Pisang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Harapan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Way Tuba Asri"
+    }
   ]
 }

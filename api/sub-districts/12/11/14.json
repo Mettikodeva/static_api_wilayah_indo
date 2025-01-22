@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Silalahi II",
-    "Silalahi I",
-    "Paropo",
-    "Silalahi III",
-    "Paropo I"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Silalahi II"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silalahi I"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paropo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Silalahi III"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paropo I"
+    }
   ]
 }

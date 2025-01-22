@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Lasung",
-    "Manuntung",
-    "Anjir Baru",
-    "Binawara",
-    "Pacakan",
-    "Sungai Rukam",
-    "Bakarangan",
-    "Karang Mulya",
-    "Harapan Jaya",
-    "Wonorejo",
-    "Karang Sari (Karang Sari Indah)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lasung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Manuntung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Anjir Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Binawara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pacakan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Rukam"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bakarangan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Karang Mulya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Harapan Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Karang Sari (Karang Sari Indah)"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Wangbe",
-    "Jindak",
-    "Pungki",
-    "Wonalbe",
-    "Ulipia",
-    "Marilaukin",
-    "Ailpailin",
-    "Wungbet",
-    "Nagaljagama",
-    "Mongkoihol",
-    "Nangi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wangbe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jindak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pungki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonalbe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ulipia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Marilaukin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ailpailin"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wungbet"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Nagaljagama"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mongkoihol"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nangi"
+    }
   ]
 }

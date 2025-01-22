@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Parakantugu",
-    "Cijati",
-    "Bojonglarang",
-    "Padaasih",
-    "Cibodas",
-    "Sukamahi",
-    "Sukaluyu",
-    "Caringin",
-    "Sinarbakti",
-    "Sukamaju"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parakantugu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cijati"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bojonglarang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padaasih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibodas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamahi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukaluyu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sinarbakti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukamaju"
+    }
   ]
 }

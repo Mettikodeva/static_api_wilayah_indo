@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Letung",
-    "Mampok",
-    "Rewak",
-    "Air Biru",
-    "Batu Berapit",
-    "Landak"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Letung"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mampok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rewak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Air Biru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batu Berapit"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Landak"
+    }
   ]
 }

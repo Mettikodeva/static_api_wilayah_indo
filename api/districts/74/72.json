@@ -1,12 +1,36 @@
 {
   "districts": [
-    "Betoambari",
-    "Wolio",
-    "Sorawolio (Sora Walio / Sorowalio)",
-    "Bungi",
-    "Kokalukuna",
-    "Murhum",
-    "Lea-Lea",
-    "Batupoaro"
+    {
+      "district_id": 1,
+      "kecamatan": "Betoambari"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Wolio"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sorawolio (Sora Walio / Sorowalio)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bungi"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kokalukuna"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Murhum"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Lea-Lea"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Batupoaro"
+    }
   ]
 }

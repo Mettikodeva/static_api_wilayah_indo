@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sungai Ulak",
-    "Aur Berduri",
-    "Telun",
-    "Nalo Gedang",
-    "Nalo Baru (Baru Nalo)",
-    "Mentawak",
-    "Danau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sungai Ulak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aur Berduri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Telun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nalo Gedang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nalo Baru (Baru Nalo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mentawak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Danau"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Watumotobe",
-    "Wakangka",
-    "Barangka",
-    "Wakalambe",
-    "Boneatiro",
-    "Lambusango",
-    "Todanga",
-    "Tuangila",
-    "Waondo Wolio",
-    "Bukit Asri",
-    "Kamelanta",
-    "Lambusango Timur",
-    "Wakuli",
-    "Mabulugo (Mambulugo)",
-    "Wambulu",
-    "Tumada",
-    "Boneatiro Barat"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Watumotobe"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wakangka"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Barangka"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wakalambe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Boneatiro"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lambusango"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Todanga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuangila"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waondo Wolio"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit Asri"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kamelanta"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lambusango Timur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wakuli"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mabulugo (Mambulugo)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wambulu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tumada"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Boneatiro Barat"
+    }
   ]
 }

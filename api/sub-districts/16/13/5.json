@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Karang Dapo I",
-    "Aringin",
-    "Biaro Baru",
-    "Biaro Lama",
-    "Rantau Kadam",
-    "Kerta Sari (Kertasari)",
-    "Karang Dapo II (Karang Dapo)",
-    "Setia Marga",
-    "Bina Karya"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Karang Dapo I"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aringin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Biaro Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Biaro Lama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Kadam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kerta Sari (Kertasari)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karang Dapo II (Karang Dapo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Setia Marga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bina Karya"
+    }
   ]
 }

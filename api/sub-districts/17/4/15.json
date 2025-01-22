@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Naga Rantai",
-    "Bungin Tambun (Bungin Tambun I)",
-    "Bungin Tambun II",
-    "Bungin Tambun III",
-    "Manau IX (Manau Sembilan I)",
-    "Manau IX Dua (Manau Sembilan II)",
-    "Pagar Alam",
-    "Pagar Gunung",
-    "Coko Betung",
-    "Marga Mulyo",
-    "Jati Mulyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Naga Rantai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bungin Tambun (Bungin Tambun I)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bungin Tambun II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bungin Tambun III"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Manau IX (Manau Sembilan I)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manau IX Dua (Manau Sembilan II)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagar Alam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pagar Gunung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Coko Betung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Marga Mulyo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jati Mulyo"
+    }
   ]
 }

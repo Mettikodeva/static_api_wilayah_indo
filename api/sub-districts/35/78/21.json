@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Dukuh Pakis",
-    "Dukuh Kupang",
-    "Gunung Sari (Gunungsari)",
-    "Pradah Kali Kendal"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dukuh Pakis"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dukuh Kupang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Gunung Sari (Gunungsari)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pradah Kali Kendal"
+    }
   ]
 }

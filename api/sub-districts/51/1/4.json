@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gilimanuk",
-    "Melaya",
-    "Blimbingsari (Belimbingsari)",
-    "Ekasari",
-    "Nusasari (Nusa Sari)",
-    "Warnasari",
-    "Candikusuma",
-    "Tuwed",
-    "Tukadaya",
-    "Manistutu"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gilimanuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Melaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Blimbingsari (Belimbingsari)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ekasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nusasari (Nusa Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Warnasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Candikusuma"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuwed"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tukadaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Manistutu"
+    }
   ]
 }

@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Sasa",
-    "Gambesi",
-    "Fitu",
-    "Kalumata",
-    "Kayu Merah",
-    "Bastiong Talangame",
-    "Ubo-Ubo",
-    "Mangga Dua",
-    "Jati",
-    "Toboko",
-    "Tanah Tinggi",
-    "Tanah Tinggi Barat",
-    "Mangga Dua Utara",
-    "Jati Perumnas",
-    "Tobona (Tabona)",
-    "Bastiong Karance",
-    "Ngade"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sasa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Gambesi"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Fitu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalumata"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kayu Merah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bastiong Talangame"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ubo-Ubo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Mangga Dua"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Jati"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Toboko"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Tanah Tinggi"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Tanah Tinggi Barat"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Mangga Dua Utara"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Jati Perumnas"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Tobona (Tabona)"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Bastiong Karance"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Ngade"
+    }
   ]
 }

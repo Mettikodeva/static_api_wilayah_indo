@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Waelo",
-    "Deboway / Debowae",
-    "Parbulu",
-    "Waetina",
-    "Waeleman",
-    "Basalale",
-    "Waflan",
-    "Dava",
-    "Waehata",
-    "Widit"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waelo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Deboway / Debowae"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Parbulu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waetina"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Waeleman"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Basalale"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Waflan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Dava"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Waehata"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Widit"
+    }
   ]
 }

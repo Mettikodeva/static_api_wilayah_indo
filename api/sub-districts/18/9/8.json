@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sukajaya Punduh (Suka Jaya Punduh)",
-    "Maja",
-    "Penyandingan",
-    "Tajur",
-    "Umbul Limus",
-    "Pekon Ampai",
-    "Kunyaian",
-    "Kekatang",
-    "Kampung Baru",
-    "Pulau Pahawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukajaya Punduh (Suka Jaya Punduh)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Maja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Penyandingan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tajur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Umbul Limus"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pekon Ampai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kunyaian"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kekatang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulau Pahawang"
+    }
   ]
 }

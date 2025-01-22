@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sidaharja",
-    "Kertajaya",
-    "Sukanagara",
-    "Cintajaya",
-    "Cintaratu",
-    "Sindangangin",
-    "Tambakreja",
-    "Baregbeg",
-    "Kalapasawit",
-    "Puloerang"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sidaharja"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukanagara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cintajaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Cintaratu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sindangangin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tambakreja"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Baregbeg"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kalapasawit"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Puloerang"
+    }
   ]
 }

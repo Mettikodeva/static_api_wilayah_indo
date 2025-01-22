@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Duram",
-    "Yaminikma",
-    "Goak",
-    "Digitme",
-    "Dengat",
-    "Niniwi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Duram"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yaminikma"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Goak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Digitme"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dengat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Niniwi"
+    }
   ]
 }

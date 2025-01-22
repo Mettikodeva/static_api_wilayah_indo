@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Ngadiluwih",
-    "Dawung",
-    "Matesih",
-    "Karangbangun",
-    "Koripan",
-    "Girilayu",
-    "Pablengan",
-    "Plosorejo",
-    "Gantiwarno"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ngadiluwih"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dawung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Matesih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangbangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koripan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Girilayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pablengan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Plosorejo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gantiwarno"
+    }
   ]
 }

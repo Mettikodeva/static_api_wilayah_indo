@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Penujah",
-    "Karanganyar (Karang Anyar)",
-    "Tonggara",
-    "Kedungbanteng (Kedung Banteng)",
-    "Dukuhjati Wetan",
-    "Sumingkir",
-    "Margamulya",
-    "Kebandingan",
-    "Karangmalang",
-    "Semedo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penujah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karanganyar (Karang Anyar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tonggara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungbanteng (Kedung Banteng)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dukuhjati Wetan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumingkir"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Margamulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kebandingan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karangmalang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Semedo"
+    }
   ]
 }

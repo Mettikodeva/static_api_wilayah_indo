@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kalumpang",
-    "Banua Padang",
-    "Bungur",
-    "Banua Padang Hilir",
-    "Shabah",
-    "Hangui",
-    "Rantau Bujur",
-    "Purut",
-    "Bungur Baru",
-    "Timbung",
-    "Paring Guling",
-    "Linuh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalumpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banua Padang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bungur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banua Padang Hilir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Shabah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hangui"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rantau Bujur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Purut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bungur Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Timbung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Paring Guling"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Linuh"
+    }
   ]
 }

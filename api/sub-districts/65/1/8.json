@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Long Tungu",
-    "Long Bang",
-    "Long Telenjau",
-    "Naha Aya",
-    "Long Lembu",
-    "Long Bang Hulu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Long Tungu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Long Bang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Long Telenjau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Naha Aya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Long Lembu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Long Bang Hulu"
+    }
   ]
 }

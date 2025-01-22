@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Sukmajaya",
-    "Jombang Wetan",
-    "Masigit",
-    "Panggung Rawi",
-    "Gedong Dalem"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sukmajaya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Jombang Wetan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Masigit"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panggung Rawi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Gedong Dalem"
+    }
   ]
 }

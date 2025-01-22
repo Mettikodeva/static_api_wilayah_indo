@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jihing",
-    "Air Dua",
-    "Lupu Peruca",
-    "Balai Riam",
-    "Pempaning",
-    "Sekuningan Baru",
-    "Bangun Jaya",
-    "Bukit Sungkai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jihing"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Air Dua"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lupu Peruca"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Balai Riam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pempaning"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sekuningan Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bangun Jaya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukit Sungkai"
+    }
   ]
 }

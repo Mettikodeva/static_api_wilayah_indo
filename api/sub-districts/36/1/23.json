@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Rawasari",
-    "Pasireurih",
-    "Kaduronyok",
-    "Cibarani",
-    "Cisereh",
-    "Kubangkondang",
-    "Kondangjaya",
-    "Ciherangjaya",
-    "Palembang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Rawasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasireurih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaduronyok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibarani"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cisereh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kubangkondang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kondangjaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciherangjaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Palembang"
+    }
   ]
 }

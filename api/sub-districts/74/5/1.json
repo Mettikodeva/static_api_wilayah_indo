@@ -1,28 +1,100 @@
 {
   "sub_districts": [
-    "Tinanggea",
-    "Ngapaah (Ngapaaha)",
-    "Lapoa",
-    "Asingi",
-    "Watu Melewe (Watumelewe)",
-    "Wadonggo (Wadanggo)",
-    "Bungin Permai",
-    "Palotawo (Palo Tawo)",
-    "Lalonggasu",
-    "Moolo Indah",
-    "Telutu Jaya",
-    "Torokeku",
-    "Lapulu",
-    "Roraya",
-    "Lanowulu",
-    "Lalo Watu",
-    "Tatangge",
-    "Wundumbolo",
-    "Panggoosi",
-    "Bomba-bomba",
-    "Akuni",
-    "Lasuai",
-    "Matambawi",
-    "Matandahi"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tinanggea"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Ngapaah (Ngapaaha)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lapoa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Asingi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Watu Melewe (Watumelewe)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wadonggo (Wadanggo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bungin Permai"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Palotawo (Palo Tawo)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lalonggasu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Moolo Indah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Telutu Jaya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Torokeku"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lapulu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Roraya"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Lanowulu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Lalo Watu"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Tatangge"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Wundumbolo"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Panggoosi"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Bomba-bomba"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Akuni"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Lasuai"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Matambawi"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Matandahi"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Tegalrejo",
-    "Jetis",
-    "Gondokusuman",
-    "Danurejan",
-    "Gedongtengen (Gedong Tengen)",
-    "Ngampilan",
-    "Wirobrajan",
-    "Mantrijeron",
-    "Kraton",
-    "Gondomanan",
-    "Pakualaman",
-    "Mergangsan",
-    "Umbulharjo",
-    "Kotagede"
+    {
+      "district_id": 1,
+      "kecamatan": "Tegalrejo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Jetis"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Gondokusuman"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Danurejan"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Gedongtengen (Gedong Tengen)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Ngampilan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Wirobrajan"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Mantrijeron"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kraton"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Gondomanan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pakualaman"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mergangsan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Umbulharjo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kotagede"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Balai Pinang",
-    "Semandang Kiri",
-    "Kualan Hulu",
-    "Semandang Hulu",
-    "Merawa",
-    "Kualan Tengah",
-    "Kualan Hilir",
-    "Sekucing Labai",
-    "Paoh Concong",
-    "Legong",
-    "Kenanga",
-    "Balai Pinang Hulu",
-    "Sekucing Kualan",
-    "Labai Hilir",
-    "Botuh Bosi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Balai Pinang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semandang Kiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kualan Hulu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Semandang Hulu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Merawa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kualan Tengah"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kualan Hilir"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sekucing Labai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paoh Concong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Legong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kenanga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Balai Pinang Hulu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sekucing Kualan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Labai Hilir"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Botuh Bosi"
+    }
   ]
 }

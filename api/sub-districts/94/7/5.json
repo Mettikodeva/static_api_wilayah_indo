@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Agisiga",
-    "Tousiga",
-    "Unabundoga",
-    "Mbamogo",
-    "Jenetapa Najasiga",
-    "Soali",
-    "Tambage",
-    "Nabia",
-    "Danggoa",
-    "Kombogosiga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Agisiga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tousiga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Unabundoga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mbamogo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jenetapa Najasiga"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Soali"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tambage"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nabia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Danggoa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kombogosiga"
+    }
   ]
 }

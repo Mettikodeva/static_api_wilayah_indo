@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pulo Pakkat (Pulo Pakkat I)",
-    "Tebing Tinggi",
-    "Pulo Pakkat II",
-    "Janji Maria",
-    "Sihadatuon",
-    "Sihapas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulo Pakkat (Pulo Pakkat I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulo Pakkat II"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Janji Maria"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sihadatuon"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sihapas"
+    }
   ]
 }

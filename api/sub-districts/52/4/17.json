@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mapin Rea",
-    "Mapin Kebak",
-    "Labuhan Mapin (Labuan Mapin)",
-    "Lekong",
-    "Gontar",
-    "Usar Mapin",
-    "Gontar Baru",
-    "Mapin Beru (Mapin Baru)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mapin Rea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mapin Kebak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labuhan Mapin (Labuan Mapin)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lekong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gontar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Usar Mapin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gontar Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mapin Beru (Mapin Baru)"
+    }
   ]
 }

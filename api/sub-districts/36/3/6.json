@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pasir Ampo",
-    "Rancailat (Ranca Ilat)",
-    "Kemuning",
-    "Renged",
-    "Talok",
-    "Koper",
-    "Jengkol",
-    "Patrasana (Patra Sana)",
-    "Kresek"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Ampo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rancailat (Ranca Ilat)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kemuning"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Renged"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Talok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Koper"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Jengkol"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Patrasana (Patra Sana)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kresek"
+    }
   ]
 }

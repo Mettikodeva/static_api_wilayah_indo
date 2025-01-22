@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sepanjang",
-    "Tanjung Kiaok",
-    "Sakala",
-    "Pagerungan Besar (Pagerrungan Besar)",
-    "Pagerungan Kecil (Pagerrungan Kecil)",
-    "Saseel (Sase'el)",
-    "Sapeken (Sepeken)",
-    "Sabunten (Saunten)",
-    "Paliat (Paleyat)",
-    "Sadulang",
-    "Saur Saebus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sepanjang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Kiaok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sakala"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagerungan Besar (Pagerrungan Besar)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pagerungan Kecil (Pagerrungan Kecil)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saseel (Sase'el)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sapeken (Sepeken)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sabunten (Saunten)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paliat (Paleyat)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sadulang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saur Saebus"
+    }
   ]
 }

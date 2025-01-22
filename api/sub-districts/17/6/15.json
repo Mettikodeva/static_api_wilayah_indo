@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Retak Mudik",
-    "Padang Gading",
-    "Gajah Mati",
-    "Mekar Sari",
-    "Sido Dadi (Sidodadi)",
-    "Sumber Makmur",
-    "Talang Gading",
-    "Gading Jaya",
-    "Banjar Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Retak Mudik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang Gading"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gajah Mati"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sido Dadi (Sidodadi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumber Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Gading"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gading Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Banjar Sari"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Jahabra",
-    "Ibori",
-    "Menyembrui (Menyembru)",
-    "Meyorga",
-    "Laudoho",
-    "Eniba",
-    "Mowitka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jahabra"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ibori"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Menyembrui (Menyembru)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Meyorga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Laudoho"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Eniba"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mowitka"
+    }
   ]
 }

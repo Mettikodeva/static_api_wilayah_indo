@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Rum",
-    "Fobaharu",
-    "Jaya",
-    "Ome",
-    "Mareku",
-    "Afa Afa",
-    "Bobo (Bobo Menjadi)",
-    "Gubu Kusuma",
-    "Sirongo Folaraha",
-    "Rum Balibunga",
-    "Maitara",
-    "Maitara Selatan",
-    "Maitara Utara",
-    "Maitara Tengah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Rum"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Fobaharu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Ome"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mareku"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Afa Afa"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bobo (Bobo Menjadi)"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Gubu Kusuma"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sirongo Folaraha"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Rum Balibunga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Maitara"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Maitara Selatan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Maitara Utara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Maitara Tengah"
+    }
   ]
 }

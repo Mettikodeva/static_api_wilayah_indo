@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Tengku Leda",
-    "Tengku Lawar (Tengkulawar)",
-    "Goreng Meni",
-    "Golo Munga",
-    "Golo Rentung",
-    "Golo Lembur",
-    "Compang Necak",
-    "Compang Mekar",
-    "Compang Deru",
-    "Golo Nimbung",
-    "Lamba Keli",
-    "Goreng Meni Utara",
-    "Golo Paleng"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tengku Leda"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tengku Lawar (Tengkulawar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Goreng Meni"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Golo Munga"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Golo Rentung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Golo Lembur"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Compang Necak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Compang Mekar"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Compang Deru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Golo Nimbung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lamba Keli"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Goreng Meni Utara"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Golo Paleng"
+    }
   ]
 }

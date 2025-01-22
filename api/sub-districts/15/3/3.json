@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Dusun Sarolangun",
-    "Sukasari",
-    "Pasar Sarolangun",
-    "Sarolangun Kembang",
-    "Gunung Kembang",
-    "Aur Gading",
-    "Bernai",
-    "Sungai Baung",
-    "Panti",
-    "Tinting (Tingting)",
-    "Sungai Abang",
-    "Lidung",
-    "Ladang Panjang",
-    "Desa Baru",
-    "Ujung Tanjung",
-    "Bernai Dalam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dusun Sarolangun"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Sukasari"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Pasar Sarolangun"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Sarolangun Kembang"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Gunung Kembang"
+    },
+    {
+      "sub_district_id": 1026,
+      "desa_kelurahan": "Aur Gading"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bernai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Baung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Panti"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tinting (Tingting)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sungai Abang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lidung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ladang Panjang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Desa Baru"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Ujung Tanjung"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Bernai Dalam"
+    }
   ]
 }

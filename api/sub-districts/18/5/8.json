@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Banjar Agung",
-    "Tri Dharma Wira Jaya",
-    "Moris Jaya",
-    "Tunggal Warga",
-    "Dwi Warga Tunggal Jaya",
-    "Tri Mulya Jaya",
-    "Tri Mukti Jaya",
-    "Tri Tunggal Jaya",
-    "Warga Makmur Jaya",
-    "Warga Indah Jaya",
-    "Banjar Dewa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banjar Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tri Dharma Wira Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Moris Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tunggal Warga"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dwi Warga Tunggal Jaya"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tri Mulya Jaya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tri Mukti Jaya"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Tri Tunggal Jaya"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Warga Makmur Jaya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Warga Indah Jaya"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Banjar Dewa"
+    }
   ]
 }

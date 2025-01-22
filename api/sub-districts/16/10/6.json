@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sirah Pulau Kilip",
-    "Kelampaian",
-    "Sukananti",
-    "Sukamarga",
-    "Rantau Alai",
-    "Kerta Bayang (Kertabayang)",
-    "Tanjung Mas",
-    "Talang Sari",
-    "Lebung Bandung",
-    "Sanding Marga",
-    "Sukamaju (Suka Maju / Sukamuju)",
-    "Mekar Sari",
-    "Sukananti Baru"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sirah Pulau Kilip"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kelampaian"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sukananti"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukamarga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rantau Alai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kerta Bayang (Kertabayang)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanjung Mas"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Talang Sari"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lebung Bandung"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sanding Marga"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sukamaju (Suka Maju / Sukamuju)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Mekar Sari"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sukananti Baru"
+    }
   ]
 }

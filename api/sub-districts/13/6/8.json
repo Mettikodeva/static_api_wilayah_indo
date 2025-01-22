@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Koto Tinggi",
-    "Tabek Panjang",
-    "Simarasok",
-    "Padang Tarok",
-    "Salo",
-    "Koto Baru (Koto Baru III Jorong)",
-    "Sungai Cubadak",
-    "Koto Gadang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Koto Tinggi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tabek Panjang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simarasok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Tarok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Koto Baru (Koto Baru III Jorong)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Cubadak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Koto Gadang"
+    }
   ]
 }

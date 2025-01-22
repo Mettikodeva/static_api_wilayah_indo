@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kembu",
-    "Mamit",
-    "Yowo",
-    "Nugari",
-    "Kobon",
-    "Kabori",
-    "Genani",
-    "Wulinaga",
-    "Aworera",
-    "Agimdek",
-    "Tioga"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kembu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mamit"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Yowo"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Nugari"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Kobon"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Kabori"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Genani"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Wulinaga"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Aworera"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Agimdek"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Tioga"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Cening",
-    "Sukodadi",
-    "Kaliputih",
-    "Getas",
-    "Banyuringin",
-    "Kedungsari",
-    "Ngareanak",
-    "Singorojo",
-    "Cacaban",
-    "Kalirejo",
-    "Merbuh",
-    "Trayu",
-    "Kertosari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cening"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukodadi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kaliputih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Getas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyuringin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kedungsari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngareanak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Singorojo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cacaban"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kalirejo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Merbuh"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Trayu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kertosari"
+    }
   ]
 }

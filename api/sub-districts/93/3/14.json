@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Wonggi",
-    "Busiri",
-    "Keta",
-    "Veta",
-    "Honya",
-    "Haku",
-    "Bifo",
-    "Samurukie"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonggi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Busiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keta"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Veta"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Honya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Haku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bifo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Samurukie"
+    }
   ]
 }

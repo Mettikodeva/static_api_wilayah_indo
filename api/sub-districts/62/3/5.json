@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mandomai",
-    "Sei/Sungai Kayu",
-    "Saka Mangkahai",
-    "Anjir Kalampan",
-    "Pantai",
-    "Saka Tamiang",
-    "Penda Katapi (Penda Ketapi)",
-    "Teluk Hiri",
-    "Sei/Sungai Dusun",
-    "Sei Pitung",
-    "Maju Bersama",
-    "Basuta Raya"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mandomai"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Kayu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Saka Mangkahai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Anjir Kalampan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pantai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saka Tamiang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Penda Katapi (Penda Ketapi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Hiri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sei/Sungai Dusun"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei Pitung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maju Bersama"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Basuta Raya"
+    }
   ]
 }

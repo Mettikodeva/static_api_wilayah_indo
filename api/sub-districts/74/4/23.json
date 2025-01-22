@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Kamaru",
-    "Kakenauwe",
-    "Waoleona",
-    "Lawele",
-    "Suandala",
-    "Lasembangi",
-    "Bonelalo",
-    "Wasuamba",
-    "Wagari",
-    "Sribatara",
-    "Togomangura (Togo Mangura)",
-    "Wasambaa",
-    "Benteng",
-    "Talaga Baru",
-    "Nambo"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kamaru"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kakenauwe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waoleona"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lawele"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suandala"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lasembangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bonelalo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wasuamba"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wagari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sribatara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Togomangura (Togo Mangura)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wasambaa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talaga Baru"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nambo"
+    }
   ]
 }

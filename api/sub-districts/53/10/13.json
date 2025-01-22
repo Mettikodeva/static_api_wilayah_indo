@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Hilihintir",
-    "Bea Kondo",
-    "Golo Ropong",
-    "Terong",
-    "Ceka Luju",
-    "Satar Luju",
-    "Satar Lenda",
-    "Satar Ruwuk",
-    "Nuca Molas",
-    "Borik",
-    "Cambir Leca",
-    "Wongka"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilihintir"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bea Kondo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Golo Ropong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Terong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ceka Luju"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Satar Luju"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Satar Lenda"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Satar Ruwuk"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nuca Molas"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Borik"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Cambir Leca"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Wongka"
+    }
   ]
 }

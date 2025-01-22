@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Talango",
-    "Padike",
-    "Cabbiya",
-    "Essang",
-    "Kombang",
-    "Poteran",
-    "Palasa",
-    "Gapurana"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talango"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padike"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cabbiya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Essang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kombang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Poteran"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Palasa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gapurana"
+    }
   ]
 }

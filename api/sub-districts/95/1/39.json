@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Wame",
-    "Dumapaga",
-    "Yanenggame",
-    "Dogoname"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wame"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dumapaga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Yanenggame"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dogoname"
+    }
   ]
 }

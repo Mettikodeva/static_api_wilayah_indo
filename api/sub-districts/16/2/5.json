@@ -1,29 +1,104 @@
 {
   "sub_districts": [
-    "Jua Jua",
-    "Kayuagung (Kayu Agung)",
-    "Sidakersa (Sidareksa)",
-    "Cintaraja (Cinta Raja / Raya)",
-    "Mangun Jaya",
-    "Paku",
-    "Kedaton",
-    "Sukadana",
-    "Perigi",
-    "Kutaraja (Kota Raya)",
-    "Tanjung Rancing",
-    "Kijang Ulu",
-    "Muarabaru (Muara Baru)",
-    "Tanjung Lubuk",
-    "Arisan Buntal",
-    "Celikah",
-    "Banding Anyar",
-    "Buluh Cawang",
-    "Lubuk Dalam",
-    "Anyar",
-    "Tanjung Menang",
-    "Teloko",
-    "Tanjung Serang",
-    "Serigeni Baru",
-    "Serigeni (Serigeni Lama)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Jua Jua"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kayuagung (Kayu Agung)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sidakersa (Sidareksa)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Cintaraja (Cinta Raja / Raya)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Mangun Jaya"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Paku"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kedaton"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sukadana"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Perigi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Kutaraja (Kota Raya)"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Tanjung Rancing"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kijang Ulu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muarabaru (Muara Baru)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Lubuk"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Arisan Buntal"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Celikah"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Banding Anyar"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Buluh Cawang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Lubuk Dalam"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Anyar"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Tanjung Menang"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Teloko"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Tanjung Serang"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Serigeni Baru"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Serigeni (Serigeni Lama)"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tanjung",
-    "Simpang Tanjung",
-    "Cinta Kasih",
-    "Teluk Lubuk",
-    "Berugo",
-    "Belimbing",
-    "Bulang",
-    "Belimbing Jaya",
-    "Darmo Kasih",
-    "Dalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simpang Tanjung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cinta Kasih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Teluk Lubuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Berugo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belimbing"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bulang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belimbing Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Darmo Kasih"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dalam"
+    }
   ]
 }

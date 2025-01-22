@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Ekin",
-    "Loonuna",
-    "Nualain",
-    "Lakmaras",
-    "Henes",
-    "Debululik",
-    "Sisi Fatuberal",
-    "Lutha Rato (Lutarato)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Ekin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Loonuna"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nualain"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lakmaras"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Henes"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Debululik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sisi Fatuberal"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lutha Rato (Lutarato)"
+    }
   ]
 }

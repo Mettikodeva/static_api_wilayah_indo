@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Danaweria",
-    "Kayu Merah",
-    "Katemba",
-    "Nemewikarya",
-    "Raduria",
-    "Brongkendik",
-    "Air Besar",
-    "Mandopma",
-    "Kanantare",
-    "Pasir Putih",
-    "Pirma",
-    "Sakartemin",
-    "Hambrangkendik",
-    "Unipokpok"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Danaweria"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kayu Merah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Katemba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nemewikarya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Raduria"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Brongkendik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Air Besar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mandopma"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kanantare"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pirma"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sakartemin"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hambrangkendik"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Unipokpok"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Nogosari",
-    "Kedungrejo",
-    "Sidorejo",
-    "Rowokangkung",
-    "Sumbersari",
-    "Dawuhan Wetan",
-    "Sumberanyar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Nogosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kedungrejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rowokangkung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dawuhan Wetan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sumberanyar"
+    }
   ]
 }

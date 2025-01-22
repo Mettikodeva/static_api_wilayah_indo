@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kalia",
-    "Malenge",
-    "Pautu",
-    "Tumotok",
-    "Kabalutan",
-    "Kadoda"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Malenge"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pautu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumotok"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kabalutan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kadoda"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Masigi",
-    "Maesa",
-    "Loji",
-    "Bantaya",
-    "Kampal",
-    "Olaya",
-    "Pombalowo (Pembalowo)",
-    "Mertasari",
-    "Bambalemo",
-    "Lebo",
-    "Bambalemo Ranomaisi"
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Masigi"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Maesa"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Loji"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Bantaya"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Kampal"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Olaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pombalowo (Pembalowo)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mertasari"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Bambalemo"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lebo"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Bambalemo Ranomaisi"
+    }
   ]
 }

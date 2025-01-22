@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Dadaplangu",
-    "Langon",
-    "Gembongan",
-    "Ringinanyar",
-    "Kebonduren",
-    "Bacem",
-    "Ponggok",
-    "Pojok",
-    "Kawedusan",
-    "Jatilengger",
-    "Bendo",
-    "Sidorejo",
-    "Maliran",
-    "Candirejo",
-    "Karangbendo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dadaplangu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Langon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gembongan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ringinanyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebonduren"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bacem"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ponggok"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kawedusan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jatilengger"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bendo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Maliran"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Candirejo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karangbendo"
+    }
   ]
 }

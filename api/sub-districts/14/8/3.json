@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Minas Jaya",
-    "Minas Timur",
-    "Minas Barat",
-    "Mandi Angin",
-    "Rantau Bertuah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Minas Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Minas Timur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Minas Barat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mandi Angin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rantau Bertuah"
+    }
   ]
 }

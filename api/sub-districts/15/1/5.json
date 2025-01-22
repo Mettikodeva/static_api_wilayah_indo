@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Baru Semurup",
-    "Koto Dua Lama",
-    "Koto Di Air (Koto Diair)",
-    "Pasar Semurup",
-    "Balai",
-    "Koto Majidin Hilir",
-    "Pendung Hilir",
-    "Pendung Mudik",
-    "Air Tenang",
-    "Muara Semerah",
-    "Koto Majidin Mudik",
-    "Muara Semerah Mudik",
-    "Sawahan Koto (Sawahan Koto Majidin)",
-    "Sawahan Jaya (Sawakan Jaya)",
-    "Koto Majidin Di Air",
-    "Pendung Tengah"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Baru Semurup"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Koto Dua Lama"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Koto Di Air (Koto Diair)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pasar Semurup"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Balai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Koto Majidin Hilir"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pendung Hilir"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pendung Mudik"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Air Tenang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Muara Semerah"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Koto Majidin Mudik"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Muara Semerah Mudik"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Sawahan Koto (Sawahan Koto Majidin)"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Sawahan Jaya (Sawakan Jaya)"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Koto Majidin Di Air"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Pendung Tengah"
+    }
   ]
 }

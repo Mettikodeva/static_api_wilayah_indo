@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Cimanggu",
-    "Sukamaju",
-    "Sukajadi",
-    "Karangmekar",
-    "Boregahindah (Boregah Indah)",
-    "Sukamanah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cimanggu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukamaju"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karangmekar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Boregahindah (Boregah Indah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukamanah"
+    }
   ]
 }

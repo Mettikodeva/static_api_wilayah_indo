@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Gamping",
-    "Godean",
-    "Moyudan",
-    "Minggir",
-    "Seyegan",
-    "Mlati",
-    "Depok",
-    "Berbah",
-    "Prambanan",
-    "Kalasan",
-    "Ngemplak",
-    "Ngaglik",
-    "Sleman",
-    "Tempel",
-    "Turi",
-    "Pakem",
-    "Cangkringan"
+    {
+      "district_id": 1,
+      "kecamatan": "Gamping"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Godean"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Moyudan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Minggir"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Seyegan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Mlati"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Depok"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Berbah"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Prambanan"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kalasan"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Ngemplak"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Ngaglik"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Sleman"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Tempel"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Turi"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Pakem"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Cangkringan"
+    }
   ]
 }

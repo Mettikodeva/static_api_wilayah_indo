@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tumbang Baraoi",
-    "Tumbang Jala",
-    "Batu Badak",
-    "Batu Tukan",
-    "Tumbang Tangoi (Tumbang Tanggoi)",
-    "Nusa Kutau",
-    "Tumbang Habangoi/Habangei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbang Baraoi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Jala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Badak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Batu Tukan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tumbang Tangoi (Tumbang Tanggoi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nusa Kutau"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Habangoi/Habangei"
+    }
   ]
 }

@@ -1,54 +1,204 @@
 {
   "sub_districts": [
-    "Dayah Bluek",
-    "Mesjid Bluek",
-    "Meuria Bluek",
-    "Rheng Bluek",
-    "Pulo Bluek",
-    "Rangkileh",
-    "Rayeuk Matang",
-    "Ulee Meuria",
-    "Tanjong",
-    "Keude Karieng",
-    "Manyang",
-    "Ulee Ceubrek",
-    "Teumpok Teungku (Tumpok Teungku)",
-    "Geulumpang",
-    "Reudeup",
-    "Barat Paya Itek",
-    "Paya Kambuk",
-    "Paya Bili",
-    "Meunasah Mee (Mee)",
-    "Meunasah Nga (Nga)",
-    "Ubit Paya Itek",
-    "Rayeuk Paya Itek",
-    "Blang Cut",
-    "Keeh (Keh)",
-    "Kumbang",
-    "Pri Keutapang",
-    "Mesjid",
-    "Teungoh Reuba",
-    "Blang Reuma",
-    "Drien Puntong",
-    "Pulo Kitou (Pulo Kiton)",
-    "Ceubrek (Cibrek)",
-    "Meunye Peut",
-    "Beuringen",
-    "Nibong",
-    "Tualang",
-    "Pulo Drien Beukah",
-    "Teungoh Kuta Batee (Teungoh K. Batee)",
-    "Ujung Kuta Batee",
-    "Pulo Blang",
-    "Leubok Tuwe (Leubeuk Tuwe)",
-    "Baroh Kuta Batee",
-    "Gampong Teungoh",
-    "Ranto",
-    "Meunye Payong",
-    "Ujong Reuba",
-    "Paya Sutra",
-    "Baree Blang (Bare Blang)",
-    "Keude Jungka Gajah",
-    "Saramaba"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dayah Bluek"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mesjid Bluek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meuria Bluek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rheng Bluek"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulo Bluek"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rangkileh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rayeuk Matang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ulee Meuria"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keude Karieng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Manyang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ulee Ceubrek"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Teumpok Teungku (Tumpok Teungku)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Geulumpang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Reudeup"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Barat Paya Itek"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Paya Kambuk"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Paya Bili"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Meunasah Mee (Mee)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Meunasah Nga (Nga)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Ubit Paya Itek"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Rayeuk Paya Itek"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Blang Cut"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Keeh (Keh)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Kumbang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Pri Keutapang"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Mesjid"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Teungoh Reuba"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Blang Reuma"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Drien Puntong"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Pulo Kitou (Pulo Kiton)"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Ceubrek (Cibrek)"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Meunye Peut"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Beuringen"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Nibong"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Tualang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Pulo Drien Beukah"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Teungoh Kuta Batee (Teungoh K. Batee)"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Ujung Kuta Batee"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Pulo Blang"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Leubok Tuwe (Leubeuk Tuwe)"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Baroh Kuta Batee"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Gampong Teungoh"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Ranto"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Meunye Payong"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Ujong Reuba"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Paya Sutra"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Baree Blang (Bare Blang)"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Keude Jungka Gajah"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Saramaba"
+    }
   ]
 }

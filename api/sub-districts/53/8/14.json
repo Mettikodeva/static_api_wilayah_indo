@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Nduaria",
-    "Nuamuri",
-    "Nuamuri Barat",
-    "Koanara",
-    "Woloara",
-    "Pemo",
-    "Detuena",
-    "Wolokelo",
-    "Waturaka"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nduaria"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nuamuri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nuamuri Barat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Koanara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Woloara"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pemo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Detuena"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wolokelo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Waturaka"
+    }
   ]
 }

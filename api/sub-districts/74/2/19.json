@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Puuduria",
-    "Duriaasi",
-    "Lalousu",
-    "Wawoone",
-    "Wawosolo",
-    "Wawonggole",
-    "Tetemotaha",
-    "Dawi-dawi",
-    "Bendewuta",
-    "Langgonawe",
-    "Lalohao",
-    "Wakusao (Wukusao / Tomulipu)",
-    "Tawarolondo",
-    "Polandangi",
-    "Anggoro",
-    "Tetewonua (Teteona)"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Puuduria"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Duriaasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lalousu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wawoone"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wawosolo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wawonggole"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tetemotaha"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Dawi-dawi"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bendewuta"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Langgonawe"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Lalohao"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Wakusao (Wukusao / Tomulipu)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tawarolondo"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Polandangi"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Anggoro"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Tetewonua (Teteona)"
+    }
   ]
 }

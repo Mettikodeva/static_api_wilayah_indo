@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Bange",
-    "Huta Bangun",
-    "Janji Matogu",
-    "Malintang Jae",
-    "Malintang Julu",
-    "Pasar Baru Malintang",
-    "Sidojadi",
-    "Lambou Darul Ihsan",
-    "Huta Bangun Jae",
-    "Bange Nauli",
-    "Malintang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bange"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Huta Bangun"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Janji Matogu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Malintang Jae"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malintang Julu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasar Baru Malintang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidojadi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lambou Darul Ihsan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Huta Bangun Jae"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bange Nauli"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Malintang"
+    }
   ]
 }

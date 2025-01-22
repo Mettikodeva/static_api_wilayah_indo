@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Gaya Baru V (Gaya Baru Lima)",
-    "Surabaya Ilir",
-    "Rajawali (Raja Wali)",
-    "Cempaka Putih",
-    "Subang Jaya",
-    "Cabang",
-    "Beringin Jaya",
-    "Sidodadi (Sido Dadi)",
-    "Sumber Agung",
-    "Surabaya Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gaya Baru V (Gaya Baru Lima)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Surabaya Ilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rajawali (Raja Wali)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cempaka Putih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Subang Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cabang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Beringin Jaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidodadi (Sido Dadi)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Surabaya Baru"
+    }
   ]
 }

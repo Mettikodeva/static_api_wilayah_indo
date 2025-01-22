@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Lepasan",
-    "Banua Anyar (Benua Anyar)",
-    "Murung Raya",
-    "Palingkau",
-    "Balukung",
-    "Banitan",
-    "Batik",
-    "Bahalayung",
-    "Sungai Selirik (Sei / Sungai Lirik)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lepasan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Banua Anyar (Benua Anyar)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Murung Raya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Palingkau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balukung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banitan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batik"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bahalayung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Selirik (Sei / Sungai Lirik)"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Abat",
-    "Labobar",
-    "Watmasa",
-    "Awear Rumngeur",
-    "Karatat",
-    "Wunlah",
-    "Kiloon",
-    "Lingada",
-    "Teineman",
-    "Wabar",
-    "Romnus"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Abat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labobar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Watmasa"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Awear Rumngeur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karatat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wunlah"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kiloon"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lingada"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Teineman"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wabar"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Romnus"
+    }
   ]
 }

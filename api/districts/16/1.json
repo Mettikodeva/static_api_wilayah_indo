@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Sosoh Buay Rayap",
-    "Pengandonan",
-    "Peninjauan",
-    "Baturaja Barat",
-    "Baturaja Timur",
-    "Ulu Ogan",
-    "Semidang Aji",
-    "Lubuk Batang",
-    "Lengkiti",
-    "Sinar Peninjauan",
-    "Lubuk Raja",
-    "Muara Jaya",
-    "Kedaton Peninjauan Raya"
+    {
+      "district_id": 7,
+      "kecamatan": "Sosoh Buay Rayap"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Pengandonan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Peninjauan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Baturaja Barat"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Baturaja Timur"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Ulu Ogan"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Semidang Aji"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Lubuk Batang"
+    },
+    {
+      "district_id": 28,
+      "kecamatan": "Lengkiti"
+    },
+    {
+      "district_id": 29,
+      "kecamatan": "Sinar Peninjauan"
+    },
+    {
+      "district_id": 30,
+      "kecamatan": "Lubuk Raja"
+    },
+    {
+      "district_id": 31,
+      "kecamatan": "Muara Jaya"
+    },
+    {
+      "district_id": 32,
+      "kecamatan": "Kedaton Peninjauan Raya"
+    }
   ]
 }

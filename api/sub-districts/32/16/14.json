@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sukamurni",
-    "Sukaindah",
-    "Sukakarya",
-    "Sukalaksana",
-    "Sukajadi",
-    "Sukakarsa (Sukakersa)",
-    "Sukamakmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukamurni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukaindah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukakarya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukalaksana"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukakarsa (Sukakersa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamakmur"
+    }
   ]
 }

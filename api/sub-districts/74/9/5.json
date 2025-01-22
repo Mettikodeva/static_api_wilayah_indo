@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Tinobu",
-    "Abola",
-    "Belalo",
-    "Andeo",
-    "Matapila",
-    "Andumowu",
-    "Basule",
-    "Waworaha",
-    "Otole",
-    "Watukila",
-    "Lametono",
-    "Larodangge",
-    "Tetelupai",
-    "Lalowaru",
-    "Muara Tinobu",
-    "Marombo Pantai (Morombo Pantai)",
-    "Tokowuta"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tinobu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Abola"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Belalo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Andeo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Matapila"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Andumowu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Basule"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Waworaha"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Otole"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Watukila"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lametono"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Larodangge"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Tetelupai"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Lalowaru"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Muara Tinobu"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Marombo Pantai (Morombo Pantai)"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Tokowuta"
+    }
   ]
 }

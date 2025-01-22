@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kuala Lahang",
-    "Terusan Kempas",
-    "Lahang Baru",
-    "Simpang Gaung",
-    "Belantaraya",
-    "Sungaibaru (Sungai Baru)",
-    "Lahang Tengah",
-    "Lahang Hulu",
-    "Pungkat",
-    "Jerambang",
-    "Telukkabung (Teluk Kabung)",
-    "Gembira",
-    "Semambu Kuning",
-    "Telukmerbau",
-    "Soren",
-    "Pintasan"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kuala Lahang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Terusan Kempas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lahang Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simpang Gaung"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Belantaraya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sungaibaru (Sungai Baru)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lahang Tengah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lahang Hulu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pungkat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jerambang"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Telukkabung (Teluk Kabung)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Gembira"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Semambu Kuning"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Telukmerbau"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Soren"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pintasan"
+    }
   ]
 }

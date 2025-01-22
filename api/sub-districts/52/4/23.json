@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Pungkit",
-    "Sebewe",
-    "Penyaring",
-    "Kukin",
-    "Baru Tahan",
-    "Songkar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pungkit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sebewe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Penyaring"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kukin"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Baru Tahan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Songkar"
+    }
   ]
 }

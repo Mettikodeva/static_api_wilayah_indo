@@ -1,31 +1,112 @@
 {
   "sub_districts": [
-    "Natanage",
-    "Nagesapadhi",
-    "Nageoga",
-    "Wolopogo",
-    "Rega",
-    "Ratongamobo",
-    "Olakile",
-    "Natanage Timur",
-    "Rowa",
-    "Solo",
-    "Legederu (Leguderu)",
-    "Nagerawe",
-    "Kelewae",
-    "Kelimado",
-    "Mulakoli",
-    "Wea Au",
-    "Raja",
-    "Wolowea",
-    "Gerodhere",
-    "Dhereisa",
-    "Rigi",
-    "Alorawe",
-    "Focolodorawe",
-    "Wolowea Timur",
-    "Wolowea Barat",
-    "Raja Timur",
-    "Raja Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Natanage"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Nagesapadhi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Nageoga"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wolopogo"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Rega"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Ratongamobo"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Olakile"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Natanage Timur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rowa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Solo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Legederu (Leguderu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Nagerawe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kelewae"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kelimado"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Mulakoli"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Wea Au"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Raja"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Wolowea"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gerodhere"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dhereisa"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Rigi"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Alorawe"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Focolodorawe"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Wolowea Timur"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Wolowea Barat"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Raja Timur"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Raja Selatan"
+    }
   ]
 }

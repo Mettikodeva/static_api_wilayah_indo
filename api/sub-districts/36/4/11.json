@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Kragilan",
-    "Silebu",
-    "Pematang",
-    "Dukuh",
-    "Undar Andir",
-    "Sukajadi",
-    "Sentul",
-    "Jeruk Tipis (Jeruktipis)",
-    "Kendayakan",
-    "Tegalmaja",
-    "Cisait",
-    "Kramatjati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kragilan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Silebu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pematang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Undar Andir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jeruk Tipis (Jeruktipis)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kendayakan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tegalmaja"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cisait"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kramatjati"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tanete",
-    "Arasoe",
-    "Tanete Harapan",
-    "Lompu",
-    "Walenreng (Welenreng)",
-    "Ajangpulu",
-    "Padang Loang",
-    "Abbumpungeng",
-    "Kawerang",
-    "Awo",
-    "Kanco",
-    "Cinennung"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanete"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Arasoe"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanete Harapan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lompu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Walenreng (Welenreng)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ajangpulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padang Loang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Abbumpungeng"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kawerang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Awo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kanco"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cinennung"
+    }
   ]
 }

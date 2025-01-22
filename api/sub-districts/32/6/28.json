@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Arjasari",
-    "Ciawang",
-    "Cigadog",
-    "Linggawangi",
-    "Jayamukti",
-    "Mandalagiri",
-    "Linggamulya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Arjasari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciawang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cigadog"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Linggawangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jayamukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mandalagiri"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Linggamulya"
+    }
   ]
 }

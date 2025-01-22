@@ -1,13 +1,40 @@
 {
   "cities": [
-    "Jembrana",
-    "Tabanan",
-    "Badung",
-    "Gianyar",
-    "Klungkung",
-    "Bangli",
-    "Karangasem",
-    "Buleleng",
-    "Denpasar"
+    {
+      "city_id": 1,
+      "kabupaten_kota": "Jembrana"
+    },
+    {
+      "city_id": 2,
+      "kabupaten_kota": "Tabanan"
+    },
+    {
+      "city_id": 3,
+      "kabupaten_kota": "Badung"
+    },
+    {
+      "city_id": 4,
+      "kabupaten_kota": "Gianyar"
+    },
+    {
+      "city_id": 5,
+      "kabupaten_kota": "Klungkung"
+    },
+    {
+      "city_id": 6,
+      "kabupaten_kota": "Bangli"
+    },
+    {
+      "city_id": 7,
+      "kabupaten_kota": "Karangasem"
+    },
+    {
+      "city_id": 8,
+      "kabupaten_kota": "Buleleng"
+    },
+    {
+      "city_id": 71,
+      "kabupaten_kota": "Denpasar"
+    }
   ]
 }

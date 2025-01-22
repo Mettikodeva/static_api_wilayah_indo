@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Hilinamazihono (Hilinamozihono)",
-    "Hilimbowo",
-    "Simandraolo / Simandaolo",
-    "Bawosalo'o Bawoluo",
-    "Hilimbuasi",
-    "Simandraolo O'o'u",
-    "Lolomaya",
-    "Suka Maju",
-    "Hiliorudua (Hilioru dua)",
-    "Hilinamazihono Moale (Hilinamozihono Moale)",
-    "Balohili O'o'u"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Hilinamazihono (Hilinamozihono)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Hilimbowo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Simandraolo / Simandaolo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bawosalo'o Bawoluo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hilimbuasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simandraolo O'o'u"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lolomaya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hiliorudua (Hilioru dua)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hilinamazihono Moale (Hilinamozihono Moale)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Balohili O'o'u"
+    }
   ]
 }

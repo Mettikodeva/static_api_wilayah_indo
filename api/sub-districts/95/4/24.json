@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Geya",
-    "Alobaga",
-    "Timori",
-    "Nawu",
-    "Tinagoga",
-    "Witipur",
-    "Jelepele",
-    "Winalo",
-    "Kibu",
-    "Wunggilipur",
-    "Weyambi",
-    "Dimbara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Geya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alobaga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Timori"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nawu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tinagoga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Witipur"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jelepele"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Winalo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kibu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Wunggilipur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Weyambi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Dimbara"
+    }
   ]
 }

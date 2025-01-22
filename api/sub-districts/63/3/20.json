@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Keramat Mina",
-    "Garis Hanyar",
-    "Cintapuri",
-    "Surian Hanyar",
-    "Benua Anyar",
-    "Alalak Padang",
-    "Makmur Karya",
-    "Simpang Lima",
-    "Karya Makmur",
-    "Sindang Jaya",
-    "Sumber Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Keramat Mina"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Garis Hanyar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cintapuri"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Surian Hanyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Benua Anyar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Alalak Padang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Makmur Karya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Simpang Lima"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karya Makmur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sindang Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sumber Sari"
+    }
   ]
 }

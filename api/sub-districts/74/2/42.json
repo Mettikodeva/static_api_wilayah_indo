@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Waworoda Jaya",
-    "Uluao",
-    "Sanuanggamo",
-    "Anggohu",
-    "Ambopi",
-    "Nambeaboru",
-    "Puundombi (Puundopi)",
-    "Olo Onua",
-    "Barowila",
-    "Andalambe"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waworoda Jaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Uluao"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sanuanggamo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Anggohu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ambopi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nambeaboru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Puundombi (Puundopi)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Olo Onua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Barowila"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Andalambe"
+    }
   ]
 }

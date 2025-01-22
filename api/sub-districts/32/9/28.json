@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Kedungdalem",
-    "Panunggul",
-    "Gegesik Wetan",
-    "Gegesik Kidul",
-    "Gegesik Lor",
-    "Gegesik Kulon",
-    "Slendra",
-    "Jagapura Kidul",
-    "Jagapura Wetan",
-    "Jagapura Kulon",
-    "Jagapura Lor",
-    "Sibubut",
-    "Bayalangu Lor",
-    "Bayalangu Kidul"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kedungdalem"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panunggul"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gegesik Wetan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gegesik Kidul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gegesik Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gegesik Kulon"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Slendra"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jagapura Kidul"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jagapura Wetan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jagapura Kulon"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jagapura Lor"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sibubut"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bayalangu Lor"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bayalangu Kidul"
+    }
   ]
 }

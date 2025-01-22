@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Penaesaan",
-    "Tompaso Dua",
-    "Tompaso Dua Utara",
-    "Pinabetengan Utara",
-    "Pinabetengan",
-    "Pinabetengan Selatan",
-    "Tonsewer",
-    "Tonsewer Selatan",
-    "Touure",
-    "Touure Dua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Penaesaan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tompaso Dua"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tompaso Dua Utara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pinabetengan Utara"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pinabetengan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pinabetengan Selatan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tonsewer"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tonsewer Selatan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Touure"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Touure Dua"
+    }
   ]
 }

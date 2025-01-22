@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Labuhan Ratu",
-    "Labuhan Ratu Tiga (III)",
-    "Labuhan Ratu Empat (IV)",
-    "Labuhan Ratu Lima (V)",
-    "Labuhan Ratu Enam (VI)",
-    "Rajabasa Lama (Raja Basa Lama)",
-    "Rajabasa Lama I (Raja Basa Lama Satu / I)",
-    "Rajabasa Lama II (Raja Basa Lama Dua / II)",
-    "Labuhan Ratu Tujuh (VII)",
-    "Labuhan Ratu Delapan (VIII)",
-    "Labuhan Ratu Sembilan (IX)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Labuhan Ratu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Labuhan Ratu Tiga (III)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Labuhan Ratu Empat (IV)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labuhan Ratu Lima (V)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labuhan Ratu Enam (VI)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rajabasa Lama (Raja Basa Lama)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rajabasa Lama I (Raja Basa Lama Satu / I)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rajabasa Lama II (Raja Basa Lama Dua / II)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Labuhan Ratu Tujuh (VII)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuhan Ratu Delapan (VIII)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Labuhan Ratu Sembilan (IX)"
+    }
   ]
 }

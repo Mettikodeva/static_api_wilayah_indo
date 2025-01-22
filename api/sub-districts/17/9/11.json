@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Pagar Gunung",
-    "Karang Nanding",
-    "Semidang",
-    "Gajah Mati",
-    "Padang Siring",
-    "Lagan Bungin",
-    "Pagar Jati",
-    "Taba Lagan",
-    "Lagan",
-    "Bukit",
-    "Kota Niur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pagar Gunung"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karang Nanding"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semidang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gajah Mati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Padang Siring"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lagan Bungin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pagar Jati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Taba Lagan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lagan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bukit"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kota Niur"
+    }
   ]
 }

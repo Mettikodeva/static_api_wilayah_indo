@@ -1,27 +1,96 @@
 {
   "sub_districts": [
-    "Palingkau Baru",
-    "Palingkau Lama",
-    "Tajepan",
-    "Mampai",
-    "Muara Dadahup",
-    "Belawang",
-    "Palangkau Lama",
-    "Palangkau Baru",
-    "Talekung Punei (Talekung Punai)",
-    "Karya Bersama",
-    "Palingkau Jaya",
-    "Palingkau Asri",
-    "Palingkau Sejahtera",
-    "Saka Binjai",
-    "Bina Sejahtera",
-    "Suka Reja",
-    "Suka Mukti",
-    "Bina Karya",
-    "Bina Mekar",
-    "Rawa Subur",
-    "Sumber Mulya (Sumber Mulia)",
-    "Bumi Rahayu",
-    "Manggala Permai (Mangala Permai)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Palingkau Baru"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Palingkau Lama"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tajepan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mampai"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Muara Dadahup"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Belawang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Palangkau Lama"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Palangkau Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Talekung Punei (Talekung Punai)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Karya Bersama"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Palingkau Jaya"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Palingkau Asri"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Palingkau Sejahtera"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Saka Binjai"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Bina Sejahtera"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Suka Reja"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Suka Mukti"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Bina Karya"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bina Mekar"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Rawa Subur"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sumber Mulya (Sumber Mulia)"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Bumi Rahayu"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Manggala Permai (Mangala Permai)"
+    }
   ]
 }

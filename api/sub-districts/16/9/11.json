@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pius",
-    "Pengandonan (Pangandonan)",
-    "Siring/Sring Alam",
-    "Simpang Campang",
-    "Pulau Kemiling",
-    "Keban Agung",
-    "Muara Sindang",
-    "Campang Jaya",
-    "Tanjung Jati"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pius"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pengandonan (Pangandonan)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siring/Sring Alam"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Simpang Campang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pulau Kemiling"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Keban Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Muara Sindang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Campang Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Jati"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Talaitad",
-    "Suluun Satu",
-    "Suluun Dua",
-    "Suluun Tiga",
-    "Suluun Empat",
-    "Pinapalangkow (Pinapalangkon)",
-    "Kapoyah (Kapoya)",
-    "Talaitad Utara",
-    "Kapoya Satu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talaitad"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Suluun Satu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Suluun Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suluun Tiga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suluun Empat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pinapalangkow (Pinapalangkon)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kapoyah (Kapoya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Talaitad Utara"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kapoya Satu"
+    }
   ]
 }

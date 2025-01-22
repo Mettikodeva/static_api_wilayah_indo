@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sindangsari",
-    "Kaduagung",
-    "Kertaungaran",
-    "Sindangagung",
-    "Balong",
-    "Kertayasa",
-    "Kertawangunan",
-    "Babakanreuma",
-    "Tirtawangunan",
-    "Dukuh Lor (Dukuhlor)",
-    "Taraju",
-    "Mekarmukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sindangsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kaduagung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertaungaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindangagung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Balong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertayasa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kertawangunan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Babakanreuma"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tirtawangunan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Dukuh Lor (Dukuhlor)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Taraju"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekarmukti"
+    }
   ]
 }

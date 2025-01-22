@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Jujun",
-    "Talang Lindung",
-    "Keluru",
-    "Pidung",
-    "Tanjungbatu (Tanjung Batu)",
-    "Benik",
-    "Kt Tuo P. Tengah (Koto Tuo Pulau Tengah)",
-    "Kt. Dian P. Tengah (Koto Dian Pulau Tengah)",
-    "Lempur Danau",
-    "Dsn. Baru P. Tengah (Dusun Baru Pulau Tengah)",
-    "Telago (Telago Pulau Tengah)",
-    "Koto Agung",
-    "Pulautengah",
-    "Koto Baru",
-    "Jembatan Merah",
-    "Limok Manaih Pulau",
-    "Pasar Jujun",
-    "Pancuran Bangko"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jujun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Talang Lindung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keluru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pidung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjungbatu (Tanjung Batu)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kt Tuo P. Tengah (Koto Tuo Pulau Tengah)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kt. Dian P. Tengah (Koto Dian Pulau Tengah)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lempur Danau"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dsn. Baru P. Tengah (Dusun Baru Pulau Tengah)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Telago (Telago Pulau Tengah)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Koto Agung"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pulautengah"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Koto Baru"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Jembatan Merah"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Limok Manaih Pulau"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Pasar Jujun"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Pancuran Bangko"
+    }
   ]
 }

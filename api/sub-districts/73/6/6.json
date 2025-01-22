@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Borongloe",
-    "Bontomanai",
-    "Romang Lompoa",
-    "Pakkato (Pakatto)",
-    "Nirannuang",
-    "Romangloe",
-    "Sokkolia",
-    "Mata Allo",
-    "Bili-Bili"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Borongloe"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bontomanai"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Romang Lompoa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pakkato (Pakatto)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nirannuang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Romangloe"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sokkolia"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mata Allo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bili-Bili"
+    }
   ]
 }

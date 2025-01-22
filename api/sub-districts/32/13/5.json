@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cihambulu",
-    "Siluman",
-    "Pringkasap",
-    "Pabuaran",
-    "Karanghegar",
-    "Salamjaya",
-    "Kadawung",
-    "Balebandung Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cihambulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Siluman"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pringkasap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanghegar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salamjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kadawung"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balebandung Jaya"
+    }
   ]
 }

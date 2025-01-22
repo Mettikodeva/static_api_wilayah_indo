@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wamariri",
-    "Aurimi",
-    "Tamaja (Tamaya)",
-    "Airoran",
-    "Murara",
-    "Sasawapece",
-    "Maniwa",
-    "Surimania (Syurimania)",
-    "Kwawitania",
-    "Bina"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wamariri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Aurimi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tamaja (Tamaya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Airoran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Murara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sasawapece"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maniwa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Surimania (Syurimania)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kwawitania"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bina"
+    }
   ]
 }

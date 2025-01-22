@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Haurkuning",
-    "Kertayuga",
-    "Windusari",
-    "Nusaherang",
-    "Jambar",
-    "Cikadu",
-    "Kertawirama",
-    "Ciasih"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Haurkuning"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kertayuga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Windusari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nusaherang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jambar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cikadu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kertawirama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ciasih"
+    }
   ]
 }

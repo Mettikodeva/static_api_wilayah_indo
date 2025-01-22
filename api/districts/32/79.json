@@ -1,8 +1,20 @@
 {
   "districts": [
-    "Banjar",
-    "Pataruman",
-    "Purwaharja",
-    "Langensari"
+    {
+      "district_id": 1,
+      "kecamatan": "Banjar"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pataruman"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Purwaharja"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Langensari"
+    }
   ]
 }

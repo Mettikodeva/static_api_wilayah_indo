@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Endomen",
-    "Okloma (Oklahama)",
-    "Delon",
-    "Suron",
-    "Sentul",
-    "Gidomen",
-    "Galsin",
-    "Kouwet"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Endomen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Okloma (Oklahama)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Delon"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suron"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sentul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gidomen"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Galsin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kouwet"
+    }
   ]
 }

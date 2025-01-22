@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Larangan Utara",
-    "Larangan Selatan",
-    "Cipadu",
-    "Kreo",
-    "Larangan Indah",
-    "Gaga",
-    "Cipadu Jaya",
-    "Kreo Selatan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Larangan Utara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Larangan Selatan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Cipadu"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kreo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Larangan Indah"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gaga"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cipadu Jaya"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Kreo Selatan"
+    }
   ]
 }

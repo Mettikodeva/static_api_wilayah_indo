@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Batang Bulu Lama",
-    "Pagur Satio",
-    "Batang Bulu Baru",
-    "Gunung Intan",
-    "Tanjung Purba Baru (Purbatua)",
-    "Banua Tonga",
-    "Gunung Barani",
-    "Tanjung Baringin (Tanjung Baringin Simarulak)",
-    "Sayur Mahincat",
-    "Sidomulio",
-    "Panarian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Batang Bulu Lama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagur Satio"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batang Bulu Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gunung Intan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Purba Baru (Purbatua)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banua Tonga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Barani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Baringin (Tanjung Baringin Simarulak)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sayur Mahincat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sidomulio"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Panarian"
+    }
   ]
 }

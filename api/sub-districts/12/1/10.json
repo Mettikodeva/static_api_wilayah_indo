@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Sorkam Kanan (Desa)",
-    "Binasi",
-    "Sipea Pea",
-    "Pahieme I (Pahieme)",
-    "Pasar Sorkam",
-    "Aek Raso",
-    "Pasaribu Tobing Jae",
-    "Maduma",
-    "Sidikalang",
-    "Pahieme II",
-    "Sorkam Kanan (Kelurahan)",
-    "Madani"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sorkam Kanan (Desa)"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Binasi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sipea Pea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pahieme I (Pahieme)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pasar Sorkam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Aek Raso"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasaribu Tobing Jae"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Maduma"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sidikalang"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pahieme II"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sorkam Kanan (Kelurahan)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Madani"
+    }
   ]
 }

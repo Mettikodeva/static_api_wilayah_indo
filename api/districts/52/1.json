@@ -1,14 +1,44 @@
 {
   "districts": [
-    "Gerung",
-    "Kediri",
-    "Narmada",
-    "Sekotong",
-    "Labuapi",
-    "Gunungsari",
-    "Lingsar",
-    "Lembar",
-    "Batu Layar",
-    "Kuripan"
+    {
+      "district_id": 1,
+      "kecamatan": "Gerung"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kediri"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Narmada"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Sekotong"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Labuapi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Gunungsari"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Lingsar"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Lembar"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Batu Layar"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kuripan"
+    }
   ]
 }

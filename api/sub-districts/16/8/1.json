@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Dusun Martapura",
-    "Pasar Martapura",
-    "Paku Sengkunyit",
-    "Bukit Sari",
-    "Sunagituha Jaya (Sungai Tuha Jaya)",
-    "Terukis Rahayu",
-    "Veteran Jaya",
-    "Tanjung Kemala",
-    "Kota Baru",
-    "Keromongan",
-    "Perjaya",
-    "Sukomulyo",
-    "Kotabaru Barat (Kota Baru Barat)",
-    "Kotabaru Selatan (Kota Baru Selatan)",
-    "Perjaya Barat",
-    "Tanjung Kemala Barat"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Dusun Martapura"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasar Martapura"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Paku Sengkunyit"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Bukit Sari"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Sunagituha Jaya (Sungai Tuha Jaya)"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Terukis Rahayu"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Veteran Jaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tanjung Kemala"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kota Baru"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keromongan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Perjaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sukomulyo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Kotabaru Barat (Kota Baru Barat)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Kotabaru Selatan (Kota Baru Selatan)"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Perjaya Barat"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Tanjung Kemala Barat"
+    }
   ]
 }

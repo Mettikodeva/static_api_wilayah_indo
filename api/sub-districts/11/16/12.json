@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bandar Mahligai",
-    "Sekerak Kiri",
-    "Pantai Tinjau",
-    "Pantai Perlak",
-    "Kebun Batang Ara (Kebon Batang Ara)",
-    "Sekerak Kanan",
-    "Lubuk Sidup",
-    "Sekumur",
-    "Tanjung Gelumpang",
-    "Pematang Durian",
-    "Juar",
-    "Sulum",
-    "Suka Makmur",
-    "Baling Karang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandar Mahligai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekerak Kiri"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pantai Tinjau"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pantai Perlak"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebun Batang Ara (Kebon Batang Ara)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sekerak Kanan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Sidup"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sekumur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Gelumpang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pematang Durian"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Juar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sulum"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Baling Karang"
+    }
   ]
 }

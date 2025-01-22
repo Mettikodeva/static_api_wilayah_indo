@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tikala Kumaraka",
-    "Mahakeret Timur",
-    "Mahakeret Barat",
-    "Teling Bawah",
-    "Wenang Utara",
-    "Wenang Selatan",
-    "Pinaesaan",
-    "Calaca",
-    "Istiqlal",
-    "Lawangirung (Lawang Irung)",
-    "Komo Luar",
-    "Bumi Beringin"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tikala Kumaraka"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Mahakeret Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Mahakeret Barat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Teling Bawah"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Wenang Utara"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Wenang Selatan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pinaesaan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Calaca"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Istiqlal"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Lawangirung (Lawang Irung)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Komo Luar"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bumi Beringin"
+    }
   ]
 }

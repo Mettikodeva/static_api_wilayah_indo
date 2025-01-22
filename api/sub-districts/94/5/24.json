@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Mundidok",
-    "Yaiki Maiki",
-    "Tobenggi",
-    "Towenggi II",
-    "Welenggaru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mundidok"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yaiki Maiki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tobenggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Towenggi II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Welenggaru"
+    }
   ]
 }

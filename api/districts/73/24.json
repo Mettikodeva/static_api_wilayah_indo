@@ -1,15 +1,48 @@
 {
   "districts": [
-    "Mangkutana",
-    "Nuha",
-    "Towuti",
-    "Malili",
-    "Angkona",
-    "Wotu",
-    "Burau",
-    "Tomoni",
-    "Tomoni Timur",
-    "Kalaena",
-    "Wasuponda"
+    {
+      "district_id": 1,
+      "kecamatan": "Mangkutana"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Nuha"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Towuti"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Malili"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Angkona"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Wotu"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Burau"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tomoni"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Tomoni Timur"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kalaena"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Wasuponda"
+    }
   ]
 }

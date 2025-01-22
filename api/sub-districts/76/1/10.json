@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bambaira",
-    "Kasoloang",
-    "Tampaure",
-    "Kaluku Nangka (Kalukunangka)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bambaira"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kasoloang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tampaure"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kaluku Nangka (Kalukunangka)"
+    }
   ]
 }

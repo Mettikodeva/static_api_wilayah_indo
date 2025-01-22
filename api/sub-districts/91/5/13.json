@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Kaipuri",
-    "Doreianmini",
-    "Andersaria (Andesaria)",
-    "Kurudu",
-    "Kirimbri",
-    "Manusundu",
-    "Mnukwar",
-    "Mansesi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kaipuri"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Doreianmini"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Andersaria (Andesaria)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kurudu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kirimbri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manusundu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mnukwar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mansesi"
+    }
   ]
 }

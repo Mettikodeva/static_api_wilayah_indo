@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Murung Keramat",
-    "Selat Hilir",
-    "Selat Tengah",
-    "Selat Hulu",
-    "Selat Dalam",
-    "Selat Utara",
-    "Selat Barat",
-    "Panamas",
-    "Pulau Telo",
-    "Pulau Telo Baru"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Murung Keramat"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Selat Hilir"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Selat Tengah"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Selat Hulu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Selat Dalam"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Selat Utara"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Selat Barat"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Panamas"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pulau Telo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Pulau Telo Baru"
+    }
   ]
 }

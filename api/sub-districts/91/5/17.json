@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Saweru",
-    "Umani",
-    "Perea",
-    "Nuniandei",
-    "Dorau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saweru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Umani"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Perea"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nuniandei"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Dorau"
+    }
   ]
 }

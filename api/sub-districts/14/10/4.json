@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Alai",
-    "Tenan",
-    "Insit",
-    "Tanjung",
-    "Tanjung Peranap",
-    "Kundur",
-    "Mekong",
-    "Batang Malas",
-    "Mantiasa",
-    "Gogok Darussalam",
-    "Maini Darul Aman",
-    "Mengkikip",
-    "Alai Selatan",
-    "Tanjung Darul Takzim"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Alai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tenan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Insit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Peranap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kundur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mekong"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Batang Malas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mantiasa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gogok Darussalam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maini Darul Aman"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mengkikip"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Alai Selatan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tanjung Darul Takzim"
+    }
   ]
 }

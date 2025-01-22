@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jawa Maraja",
-    "Moho",
-    "Bahalat Bayu",
-    "Mekar Bahalat",
-    "Tanjung Maraja",
-    "Mariah Jambi",
-    "Bah Joga",
-    "Bah Jambi (Bah Jambi I)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jawa Maraja"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Moho"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bahalat Bayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mekar Bahalat"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Maraja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mariah Jambi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bah Joga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bah Jambi (Bah Jambi I)"
+    }
   ]
 }

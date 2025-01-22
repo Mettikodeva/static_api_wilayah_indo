@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Piong",
-    "Boro",
-    "Kore",
-    "Taloko",
-    "Oi Saro",
-    "Sandue"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Piong"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Boro"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kore"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taloko"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oi Saro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sandue"
+    }
   ]
 }

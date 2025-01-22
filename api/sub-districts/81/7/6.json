@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Waiful (Waifual)",
-    "Wafan",
-    "Langhalau",
-    "Gomsey",
-    "Leiting",
-    "Bardefan (Berdefan)",
-    "Mohongsel",
-    "Kolaha",
-    "Goda Goda"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Waiful (Waifual)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wafan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Langhalau"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gomsey"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Leiting"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bardefan (Berdefan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mohongsel"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kolaha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Goda Goda"
+    }
   ]
 }

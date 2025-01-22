@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Lewak",
-    "Lamerem",
-    "Lhok Pauh (Lhok Paoh)",
-    "Serafon",
-    "Langi",
-    "Lubuk Baik",
-    "Lhok Dalam",
-    "Lafakha"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lewak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lamerem"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lhok Pauh (Lhok Paoh)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Serafon"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Langi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lubuk Baik"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lhok Dalam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lafakha"
+    }
   ]
 }

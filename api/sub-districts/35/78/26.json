@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Mulyorejo",
-    "Manyar Sabrangan",
-    "Kejawaan Putih Tambak (Kejawen Putih Tambak)",
-    "Kalisari",
-    "Dukuh Sutorejo",
-    "Kalijudan"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Mulyorejo"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Manyar Sabrangan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kejawaan Putih Tambak (Kejawen Putih Tambak)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kalisari"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Dukuh Sutorejo"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kalijudan"
+    }
   ]
 }

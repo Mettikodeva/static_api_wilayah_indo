@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Uentanaga Bawah",
-    "Uentanaga Atas",
-    "Dondo",
-    "Uamalingku",
-    "Dondo Barat",
-    "Muara Toba",
-    "Sumoli",
-    "Sabulira Toba",
-    "Labuan",
-    "Patingko"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Uentanaga Bawah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Uentanaga Atas"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Dondo"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Uamalingku"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Dondo Barat"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Muara Toba"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sumoli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sabulira Toba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labuan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Patingko"
+    }
   ]
 }

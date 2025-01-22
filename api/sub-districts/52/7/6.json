@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Senayan",
-    "Mantar",
-    "Kiantar",
-    "Poto Tano",
-    "UPT Tambak Sari (Tambak Sari)",
-    "Kokarlian",
-    "Tebo",
-    "Tuananga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Senayan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mantar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kiantar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Poto Tano"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "UPT Tambak Sari (Tambak Sari)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kokarlian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tebo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tuananga"
+    }
   ]
 }

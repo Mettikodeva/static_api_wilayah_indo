@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Parang",
-    "Sayutan",
-    "Nglopang",
-    "Mategal",
-    "Bungkuk",
-    "Trosono",
-    "Ngunut",
-    "Ngaglik",
-    "Tamanarum",
-    "Pragak",
-    "Sundul",
-    "Jokerto (Joketro)",
-    "Krajan"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Parang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sayutan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nglopang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mategal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bungkuk"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Trosono"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngunut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngaglik"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tamanarum"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pragak"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sundul"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jokerto (Joketro)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Krajan"
+    }
   ]
 }

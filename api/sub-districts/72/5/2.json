@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tuinan",
-    "Lakea II (Leok II)",
-    "Lakea I (Leok 1)",
-    "Lakuan Buol (Buol)",
-    "Bukaan",
-    "Ngune",
-    "Ilambe"
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tuinan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lakea II (Leok II)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lakea I (Leok 1)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Lakuan Buol (Buol)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bukaan"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ngune"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Ilambe"
+    }
   ]
 }

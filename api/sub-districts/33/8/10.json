@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sumberrejo",
-    "Deyangan",
-    "Pasuruhan",
-    "Donorojo",
-    "Kalinegoro",
-    "Jogonegoro",
-    "Sukorejo",
-    "Bondowoso",
-    "Danurejo",
-    "Banyurojo",
-    "Banjarnegoro",
-    "Bulurejo",
-    "Mertoyudan"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sumberrejo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Deyangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pasuruhan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Donorojo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalinegoro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Jogonegoro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bondowoso"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Danurejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Banyurojo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banjarnegoro"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bulurejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mertoyudan"
+    }
   ]
 }

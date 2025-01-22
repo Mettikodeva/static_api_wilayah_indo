@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Bulagi I (Bulagi Satu)",
-    "Tolo",
-    "Lalandai (Lalanday)",
-    "Montomisan",
-    "Sosom",
-    "Bulagi II (Bulagi Dua)",
-    "Boloi (Boloy)",
-    "Meselesek",
-    "Oluno",
-    "Sumondung",
-    "Pelingseasa (Peling Seasa)",
-    "Komba-Komba",
-    "Alul",
-    "Toolon",
-    "Kambal",
-    "Kayubet"
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Bulagi I (Bulagi Satu)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tolo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lalandai (Lalanday)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Montomisan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sosom"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bulagi II (Bulagi Dua)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Boloi (Boloy)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Meselesek"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Oluno"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Sumondung"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Pelingseasa (Peling Seasa)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Komba-Komba"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Alul"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Toolon"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Kambal"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Kayubet"
+    }
   ]
 }

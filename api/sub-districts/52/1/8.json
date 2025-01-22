@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Bengkel",
-    "Merembu",
-    "Bagik Polak",
-    "Telagawaru",
-    "Perampuan",
-    "Bajur",
-    "Terong Tawah",
-    "Kuranji",
-    "Karang Bongkot",
-    "Labuapi",
-    "Bagik Polak Barat",
-    "Kuranji Dalang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bengkel"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Merembu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bagik Polak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telagawaru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Perampuan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bajur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Terong Tawah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kuranji"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Bongkot"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuapi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bagik Polak Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kuranji Dalang"
+    }
   ]
 }

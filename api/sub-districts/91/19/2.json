@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Warsa",
-    "Warbor",
-    "Kobari Jaya",
-    "Fanjur",
-    "Puweri"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Warsa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Warbor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kobari Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Fanjur"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Puweri"
+    }
   ]
 }

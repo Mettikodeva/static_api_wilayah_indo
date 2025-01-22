@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Cilograng",
-    "Cibareno",
-    "Cikamunding",
-    "Cijengkol",
-    "Pasirbungur",
-    "Lebaktipar",
-    "Cikatomas",
-    "Girimukti",
-    "Cireundeu",
-    "Gunungbatu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cilograng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cibareno"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cikamunding"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cijengkol"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pasirbungur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebaktipar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cikatomas"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cireundeu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gunungbatu"
+    }
   ]
 }

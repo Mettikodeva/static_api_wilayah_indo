@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Aere",
-    "Pekorea",
-    "Iwoi Menggura",
-    "Iwoimea Jaya",
-    "Awiu",
-    "Aladadio",
-    "Tinete",
-    "Taore",
-    "Ulundoro",
-    "Watuwoha (Watuoha)",
-    "Rubia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aere"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pekorea"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Iwoi Menggura"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Iwoimea Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Awiu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Aladadio"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tinete"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Taore"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ulundoro"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Watuwoha (Watuoha)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Rubia"
+    }
   ]
 }

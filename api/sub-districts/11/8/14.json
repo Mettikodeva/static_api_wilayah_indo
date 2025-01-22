@@ -1,51 +1,192 @@
 {
   "sub_districts": [
-    "Teupin Gajah",
-    "Geulumpang Umpung Unou",
-    "Ranto Panyang (Rantau Panyang)",
-    "Seuneubok Doe (Seuneubok Dhou)",
-    "Meunasah Geudong",
-    "Meunasah Merbo",
-    "Tanjong Meunye",
-    "Matang Jurong",
-    "Tanjong Dalam Utara",
-    "Meunasah Dayah",
-    "Seuneubok Pidie",
-    "Tanjong Menuang",
-    "Matang Teungoh Teungoh",
-    "Lhok Reudeup",
-    "Lhok Merbo",
-    "Tanjong Ara (Tanjung Ara)",
-    "Alue Ie Mirah",
-    "Tanjong Punti (Tanjung Punti)",
-    "Bukit Alue Puteh (Buket Alue Puteh)",
-    "Buket Jrat Manyang (Buket Jeurat Manyang)",
-    "Matang Maneh",
-    "Pucok Alue",
-    "Matang Serdang",
-    "Matang Santot",
-    "Buket Padang (Bukit Padang)",
-    "Matang Seuke Pulot",
-    "Lhok Beuringen",
-    "Lueng Tuha",
-    "Matang Raya",
-    "Tanjong Ceungai",
-    "Teupin Bayu",
-    "Meunasah Panton Labu",
-    "Kota Panton Labu",
-    "Rawang Itek (Rawang Itik)",
-    "Samakurok",
-    "Biara Barat",
-    "Biara Timur",
-    "Matang Drien",
-    "Ceumpeudak",
-    "Alue Papeun",
-    "Lhok Bintang Hu",
-    "Biram Rayeuk",
-    "Cot Biek",
-    "Matang Arongan",
-    "Biram Cut",
-    "Buket Batee Badan",
-    "Ulee Glee (Ulee Gle)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teupin Gajah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Geulumpang Umpung Unou"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ranto Panyang (Rantau Panyang)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Seuneubok Doe (Seuneubok Dhou)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Meunasah Geudong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Meunasah Merbo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjong Meunye"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Matang Jurong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjong Dalam Utara"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Meunasah Dayah"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Seuneubok Pidie"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tanjong Menuang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Matang Teungoh Teungoh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lhok Reudeup"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lhok Merbo"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tanjong Ara (Tanjung Ara)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Alue Ie Mirah"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Tanjong Punti (Tanjung Punti)"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Bukit Alue Puteh (Buket Alue Puteh)"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Buket Jrat Manyang (Buket Jeurat Manyang)"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Matang Maneh"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Pucok Alue"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Matang Serdang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Matang Santot"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Buket Padang (Bukit Padang)"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Matang Seuke Pulot"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Lhok Beuringen"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Lueng Tuha"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Matang Raya"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Tanjong Ceungai"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Teupin Bayu"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Meunasah Panton Labu"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Kota Panton Labu"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Rawang Itek (Rawang Itik)"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Samakurok"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Biara Barat"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Biara Timur"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Matang Drien"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Ceumpeudak"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Alue Papeun"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Lhok Bintang Hu"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Biram Rayeuk"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Cot Biek"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Matang Arongan"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Biram Cut"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Buket Batee Badan"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Ulee Glee (Ulee Gle)"
+    }
   ]
 }

@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Tebing",
-    "Teluk Uma",
-    "Kapling",
-    "Pamak",
-    "Harjosari",
-    "Pongkar"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tebing"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Teluk Uma"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Kapling"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pamak"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Harjosari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pongkar"
+    }
   ]
 }

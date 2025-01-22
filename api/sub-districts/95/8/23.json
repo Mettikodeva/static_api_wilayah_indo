@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Paris",
-    "Simie",
-    "Urugi",
-    "Pirim-Pirim",
-    "Tombisik",
-    "Yepma",
-    "Sokore",
-    "Tobonggom",
-    "Rapa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paris"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Simie"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Urugi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pirim-Pirim"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tombisik"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yepma"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sokore"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tobonggom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rapa"
+    }
   ]
 }

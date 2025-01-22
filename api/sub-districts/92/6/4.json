@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Aranday (Arandai)",
-    "Baru (Kampung Baru)",
-    "Kecap",
-    "Manunggal Karya/Jaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Aranday (Arandai)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baru (Kampung Baru)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kecap"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Manunggal Karya/Jaya"
+    }
   ]
 }

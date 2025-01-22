@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pattunuang",
-    "Melayu",
-    "Butung",
-    "Malimongan Tua",
-    "Ende",
-    "Mampu",
-    "Malimongan",
-    "Melayu Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pattunuang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Melayu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Butung"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Malimongan Tua"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Ende"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Mampu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Malimongan"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Melayu Baru"
+    }
   ]
 }

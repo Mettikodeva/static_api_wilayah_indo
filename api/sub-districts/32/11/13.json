@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cigendel",
-    "Cijeruk",
-    "Pamulihan",
-    "Haurgombong (Haurngombong)",
-    "Cilembu",
-    "Cimarias",
-    "Cinanggerang",
-    "Mekarbakti",
-    "Sukawangi",
-    "Ciptasari",
-    "Citali"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cigendel"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cijeruk"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pamulihan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Haurgombong (Haurngombong)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cilembu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cimarias"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cinanggerang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mekarbakti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukawangi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ciptasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Citali"
+    }
   ]
 }

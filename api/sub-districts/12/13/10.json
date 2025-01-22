@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Laru Lombang",
-    "Angin Barat",
-    "Huta Tonga AB",
-    "Laru Baringin",
-    "Laru Bolak",
-    "Laru Dolok",
-    "Lumban Pasir",
-    "Muara Mais",
-    "Muara Mais Jambur",
-    "Padang Sanggar",
-    "Panjaringan",
-    "Pasar Laru",
-    "Pastap",
-    "Pastap Julu",
-    "Rao Rao Dolok",
-    "Rao Rao Lombang",
-    "Simangambat TB",
-    "Tambangan Jae",
-    "Tambangan Pasoman",
-    "Tambangan Tonga"
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Laru Lombang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Angin Barat"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Huta Tonga AB"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Laru Baringin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Laru Bolak"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Laru Dolok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lumban Pasir"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Muara Mais"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muara Mais Jambur"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Padang Sanggar"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Panjaringan"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Pasar Laru"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pastap"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pastap Julu"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Rao Rao Dolok"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Rao Rao Lombang"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Simangambat TB"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tambangan Jae"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tambangan Pasoman"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tambangan Tonga"
+    }
   ]
 }

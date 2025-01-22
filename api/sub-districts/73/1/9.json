@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kalaotoa",
-    "Garaupa",
-    "Lembang Matene",
-    "Pulo Madu",
-    "Karumpa",
-    "Garaupa Raya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kalaotoa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Garaupa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lembang Matene"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pulo Madu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karumpa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Garaupa Raya"
+    }
   ]
 }

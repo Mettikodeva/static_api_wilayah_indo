@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tamborasi",
-    "Ladahai",
-    "Lasiroku",
-    "Iwoimendaa",
-    "Lambopini",
-    "Ulu Kalo",
-    "Wonualaku",
-    "Lawolia",
-    "Watumelewe",
-    "Landoula"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tamborasi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ladahai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lasiroku"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Iwoimendaa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lambopini"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ulu Kalo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wonualaku"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lawolia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Watumelewe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Landoula"
+    }
   ]
 }

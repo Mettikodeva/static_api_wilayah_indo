@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Sidodadi",
-    "Sidorejo",
-    "Sumberejo (Sumberjo)",
-    "Bumiayu",
-    "Kebunsari",
-    "Banua Baru",
-    "Nepo",
-    "Sugihwaras (Sugih Waras)",
-    "Campurjo",
-    "Bumimulyo (Bumi Mulyo)",
-    "Tumpiling",
-    "Bakka-Bakka",
-    "Arjo Sari (Arjosari)",
-    "Galeson (Geleso)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sidodadi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sumberejo (Sumberjo)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bumiayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kebunsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Banua Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nepo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sugihwaras (Sugih Waras)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Campurjo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bumimulyo (Bumi Mulyo)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumpiling"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bakka-Bakka"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Arjo Sari (Arjosari)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Galeson (Geleso)"
+    }
   ]
 }

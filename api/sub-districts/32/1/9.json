@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wargajaya",
-    "Pabuaran",
-    "Sukadamai",
-    "Sukawangi",
-    "Cibadak",
-    "Sukaresmi",
-    "Sukamulya",
-    "Sukaharja",
-    "Sirnajaya",
-    "Sukamakmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wargajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pabuaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukadamai"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukawangi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibadak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukaresmi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sukaharja"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sirnajaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukamakmur"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lau Pengulu",
-    "Lau Mulgap",
-    "Lau Kesumpat (Lau Kasumpat)",
-    "Rimo Bunga",
-    "Tanjung Pamah",
-    "Kuta Pengkih",
-    "Bandar Purba",
-    "Mardingding",
-    "Lau Pakam",
-    "Lau Solu",
-    "Lau Garut",
-    "Bukit Makmur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lau Pengulu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lau Mulgap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lau Kesumpat (Lau Kasumpat)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rimo Bunga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Pamah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuta Pengkih"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bandar Purba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mardingding"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lau Pakam"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lau Solu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lau Garut"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Makmur"
+    }
   ]
 }

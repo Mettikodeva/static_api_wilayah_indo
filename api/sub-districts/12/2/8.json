@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sidua Bahal",
-    "Sibulan Bulan",
-    "Bonani Dolok",
-    "Pardomuan Janji Angkola",
-    "Hutanagodang (Huta Nagodang)",
-    "Robean",
-    "Janji Nauli",
-    "Selamat",
-    "Purba Tua (Purbatua)",
-    "Sitolu Ompu (Bahal)",
-    "Parsaoran Janji Angkola"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidua Bahal"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sibulan Bulan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bonani Dolok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pardomuan Janji Angkola"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Hutanagodang (Huta Nagodang)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Robean"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Janji Nauli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Selamat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Purba Tua (Purbatua)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sitolu Ompu (Bahal)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Parsaoran Janji Angkola"
+    }
   ]
 }

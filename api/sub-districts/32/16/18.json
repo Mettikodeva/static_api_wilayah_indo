@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cijengkol",
-    "Lubangbuaya",
-    "Burangkeng",
-    "Ciledug (Cileduk)",
-    "Cibening",
-    "Taman Sari",
-    "Taman Rahayu",
-    "Cikarageman",
-    "Ragamanunggal (Ragemanunggal)",
-    "Muktijaya",
-    "Kertarahayu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cijengkol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubangbuaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Burangkeng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ciledug (Cileduk)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibening"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Taman Sari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Taman Rahayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikarageman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ragamanunggal (Ragemanunggal)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Muktijaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kertarahayu"
+    }
   ]
 }

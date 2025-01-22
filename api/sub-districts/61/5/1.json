@@ -1,33 +1,120 @@
 {
   "sub_districts": [
-    "Ladang",
-    "Kapuas Kanan Hulu",
-    "Tanjung Puri",
-    "Kapuas Kanan Hilir",
-    "Kapuas Kiri Hilir",
-    "Kapuas Kiri Hulu",
-    "Akcaya",
-    "Alai",
-    "Rawa Mambok",
-    "Sengkuang",
-    "Mengkurai",
-    "Kedabang",
-    "Mekar Jaya",
-    "Batu Lalau",
-    "Menyumbung Tengah",
-    "Ulak Jaya",
-    "Baning Kota",
-    "Tertung (Tertong)",
-    "Mungguk Bantok",
-    "Teluk Kelansam",
-    "Sungai Ana",
-    "Merti Guna",
-    "Tanjung Kelansam",
-    "Anggah Jaya",
-    "Lalang Baru",
-    "Tebing Raya",
-    "Mail Jampong",
-    "Jerora Satu",
-    "Kebiau Baru"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ladang"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kapuas Kanan Hulu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Puri"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kapuas Kanan Hilir"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kapuas Kiri Hilir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kapuas Kiri Hulu"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Akcaya"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Alai"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Rawa Mambok"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Sengkuang"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Mengkurai"
+    },
+    {
+      "sub_district_id": 1021,
+      "desa_kelurahan": "Kedabang"
+    },
+    {
+      "sub_district_id": 1022,
+      "desa_kelurahan": "Mekar Jaya"
+    },
+    {
+      "sub_district_id": 1023,
+      "desa_kelurahan": "Batu Lalau"
+    },
+    {
+      "sub_district_id": 1024,
+      "desa_kelurahan": "Menyumbung Tengah"
+    },
+    {
+      "sub_district_id": 1025,
+      "desa_kelurahan": "Ulak Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baning Kota"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tertung (Tertong)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Mungguk Bantok"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teluk Kelansam"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sungai Ana"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Merti Guna"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tanjung Kelansam"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Anggah Jaya"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Lalang Baru"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tebing Raya"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Mail Jampong"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Jerora Satu"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Kebiau Baru"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Panggarangan",
-    "Jatake",
-    "Sogong",
-    "Cimandiri",
-    "Gununggede (Gunung Gede)",
-    "Situregen (Situragen)",
-    "Mekarjaya",
-    "Sindangratu",
-    "Hegarmanah",
-    "Sukajadi",
-    "Cibarengkok"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Panggarangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jatake"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sogong"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cimandiri"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gununggede (Gunung Gede)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Situregen (Situragen)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sindangratu"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Hegarmanah"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Cibarengkok"
+    }
   ]
 }

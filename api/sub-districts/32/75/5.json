@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Bojong Rawalumbu",
-    "Pengasinan",
-    "Sepanjangjaya (Sepanjang Jaya)",
-    "Bojongmenteng (Bojong Menteng)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bojong Rawalumbu"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pengasinan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Sepanjangjaya (Sepanjang Jaya)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bojongmenteng (Bojong Menteng)"
+    }
   ]
 }

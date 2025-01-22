@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kuto",
-    "Tamansari",
-    "Ganten",
-    "Gempolan",
-    "Plosorejo",
-    "Karangrejo",
-    "Kwadungan",
-    "Botok",
-    "Sumberejo",
-    "Tawangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kuto"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamansari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ganten"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gempolan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Plosorejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangrejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kwadungan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Botok"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tawangsari"
+    }
   ]
 }

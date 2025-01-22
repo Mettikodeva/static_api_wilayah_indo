@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Satriajaya",
-    "Jalenjaya (Jejalenjaya)",
-    "Satriamekar",
-    "Sriamur",
-    "Srimukti",
-    "Srijaya",
-    "Srimahi",
-    "Karangsatria"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Satriajaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Jalenjaya (Jejalenjaya)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Satriamekar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sriamur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Srimukti"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Srijaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Srimahi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangsatria"
+    }
   ]
 }

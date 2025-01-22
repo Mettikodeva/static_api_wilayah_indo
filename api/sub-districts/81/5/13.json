@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kian Darat",
-    "Artafela",
-    "Angar",
-    "Watu Watu",
-    "Kelaba",
-    "Kilga Kilwouw",
-    "Kilga Watubau",
-    "Rumfakar",
-    "Kileser",
-    "Rumoga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kian Darat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Artafela"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Angar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Watu Watu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kelaba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kilga Kilwouw"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kilga Watubau"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rumfakar"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kileser"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rumoga"
+    }
   ]
 }

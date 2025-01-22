@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Tugumulyo",
-    "Muara Lakitan",
-    "Muara Kelingi",
-    "Jayaloka (Jaya Loka)",
-    "Muara Beliti",
-    "STL Ulu Terawas (Suku Tengah Lakitan Ulu Terawas)",
-    "Selangit",
-    "Megang Sakti",
-    "Purwodadi",
-    "BTS Ulu",
-    "Tiang Pumpung Kepungut",
-    "Sumber Harta",
-    "Tuah Negeri",
-    "Suka Karya (Sukakarya)"
+    {
+      "district_id": 1,
+      "kecamatan": "Tugumulyo"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Muara Lakitan"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Muara Kelingi"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Jayaloka (Jaya Loka)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Muara Beliti"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "STL Ulu Terawas (Suku Tengah Lakitan Ulu Terawas)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Selangit"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Megang Sakti"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Purwodadi"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "BTS Ulu"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tiang Pumpung Kepungut"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Sumber Harta"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Tuah Negeri"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Suka Karya (Sukakarya)"
+    }
   ]
 }

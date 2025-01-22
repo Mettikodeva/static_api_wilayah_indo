@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Pasir Julu",
-    "Lumban Huayan",
-    "Siborna Bunut",
-    "Mananti Sosa Julu",
-    "Ampolu",
-    "Siginduang",
-    "Ramba",
-    "Roburan",
-    "Tanjung",
-    "Hurung Jilok",
-    "Pasir Jae",
-    "Sungai Jior"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasir Julu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lumban Huayan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siborna Bunut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mananti Sosa Julu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ampolu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Siginduang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ramba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Roburan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Hurung Jilok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pasir Jae"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sungai Jior"
+    }
   ]
 }

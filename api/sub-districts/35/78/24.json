@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Kutisari",
-    "Kendangsari",
-    "Tenggilis Mejoyo (Tengilis Mejoyo)",
-    "Panjang Jiwo"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kutisari"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Kendangsari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tenggilis Mejoyo (Tengilis Mejoyo)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Panjang Jiwo"
+    }
   ]
 }

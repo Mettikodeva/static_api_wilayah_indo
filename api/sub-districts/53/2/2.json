@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Biloto",
-    "Kesetnana",
-    "Tuasene",
-    "Oinlasi",
-    "Bisene",
-    "Noinbila",
-    "Bikekneno"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Biloto"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kesetnana"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tuasene"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Oinlasi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bisene"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Noinbila"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bikekneno"
+    }
   ]
 }

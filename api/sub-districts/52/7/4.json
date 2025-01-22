@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sekongkang Atas",
-    "Sekongkang Bawah",
-    "Tongo",
-    "Ai Kangkung",
-    "Tatar",
-    "Talonang Baru (Talonang)",
-    "Kemuning"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sekongkang Atas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekongkang Bawah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tongo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ai Kangkung"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tatar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Talonang Baru (Talonang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kemuning"
+    }
   ]
 }

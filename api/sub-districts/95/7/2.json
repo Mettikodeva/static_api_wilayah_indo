@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Umbanume",
-    "Wenam",
-    "Yalipak",
-    "Ekanom",
-    "Yugumbinik",
-    "Amberingime",
-    "Aniwo",
-    "Bugumbak"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Umbanume"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wenam"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Yalipak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ekanom"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Yugumbinik"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Amberingime"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Aniwo"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Bugumbak"
+    }
   ]
 }

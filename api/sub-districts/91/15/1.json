@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Waren Satu (I)",
-    "Waren Dua (II)",
-    "Nonomi",
-    "Sarafambai",
-    "Uri",
-    "Batu Zaman",
-    "Sawara Jaya"
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Waren Satu (I)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Waren Dua (II)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nonomi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Sarafambai"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Uri"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Batu Zaman"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Sawara Jaya"
+    }
   ]
 }

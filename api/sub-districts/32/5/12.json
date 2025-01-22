@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Cibatu",
-    "Mekarsari",
-    "Cibunar",
-    "Sindangsuka",
-    "Kertajaya",
-    "Sukalilah",
-    "Padasuka",
-    "Karyamukti",
-    "Girimukti",
-    "Keresek",
-    "Wanakerta"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cibatu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Cibunar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sindangsuka"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukalilah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Padasuka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karyamukti"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Girimukti"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keresek"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wanakerta"
+    }
   ]
 }

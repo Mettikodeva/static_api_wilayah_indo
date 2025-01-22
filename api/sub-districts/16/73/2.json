@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kayu Ara",
-    "Lubuk Tanjung",
-    "Tanjung Indah",
-    "Bandung Ujung",
-    "Bandung Kiri",
-    "Sukajadi",
-    "Muara Enim",
-    "Watas Lubuk Durian (Lubuk Durian)",
-    "Lubuk Aman",
-    "Tanjung Aman",
-    "Pelita Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kayu Ara"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Lubuk Tanjung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tanjung Indah"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Bandung Ujung"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bandung Kiri"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Sukajadi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Muara Enim"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Watas Lubuk Durian (Lubuk Durian)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Lubuk Aman"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Tanjung Aman"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Pelita Jaya"
+    }
   ]
 }

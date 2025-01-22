@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Sukorejo",
-    "Sumber Gading",
-    "Sukosari Kidul",
-    "Tegaljati",
-    "Rejo Agung (Rejoagung)",
-    "Sumberwringin (Sumber Wringin)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumber Gading"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukosari Kidul"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tegaljati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rejo Agung (Rejoagung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sumberwringin (Sumber Wringin)"
+    }
   ]
 }

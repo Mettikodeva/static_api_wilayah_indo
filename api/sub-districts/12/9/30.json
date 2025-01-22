@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Suka Damai",
-    "Perhutaan Silau",
-    "Tanah Rakyat",
-    "Taman Sari",
-    "Gedangan",
-    "Suka Makmur",
-    "Pulo Bandring",
-    "Sidomulyo",
-    "Suka Damai Barat",
-    "Bunut Seberang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Perhutaan Silau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanah Rakyat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taman Sari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gedangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Suka Makmur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulo Bandring"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Damai Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bunut Seberang"
+    }
   ]
 }

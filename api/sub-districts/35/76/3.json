@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Kranggan",
-    "Miji",
-    "Meri",
-    "Jagalan",
-    "Sentanan",
-    "Purwotengah"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kranggan"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Miji"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Meri"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jagalan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sentanan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Purwotengah"
+    }
   ]
 }

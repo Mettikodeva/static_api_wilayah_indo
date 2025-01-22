@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Dow/Bijere",
-    "Takri",
-    "Prawa",
-    "Sigou",
-    "Dagari",
-    "Warka",
-    "Pakare",
-    "Tigu",
-    "Bire",
-    "Itoli",
-    "Vokuyo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dow/Bijere"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Takri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Prawa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sigou"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dagari"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Warka"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pakare"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tigu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bire"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Itoli"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Vokuyo"
+    }
   ]
 }

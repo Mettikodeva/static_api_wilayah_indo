@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Teraju (Teraju Barat)",
-    "Belungai Dalam",
-    "Sansat",
-    "Kampung Baru",
-    "Bagan Asam",
-    "Lumut",
-    "Balai Belungai"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teraju (Teraju Barat)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Belungai Dalam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sansat"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bagan Asam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lumut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balai Belungai"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Buttu Bayu (Buntu Bayu)",
-    "Bosar Nauli",
-    "Tangga Batu",
-    "Buttu Turunan (Buntu Turunan)",
-    "Saribu Asih",
-    "Jawa Tonga (Jawa Tongah)",
-    "Tonduhan",
-    "Parhundalian Jw.Dipar (Parhundalian Jawadipar)",
-    "Jawa Tongah II"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buttu Bayu (Buntu Bayu)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bosar Nauli"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tangga Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buttu Turunan (Buntu Turunan)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Saribu Asih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Jawa Tonga (Jawa Tongah)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tonduhan"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Parhundalian Jw.Dipar (Parhundalian Jawadipar)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jawa Tongah II"
+    }
   ]
 }

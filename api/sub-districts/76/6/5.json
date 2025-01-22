@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Karossa",
-    "Tasokko",
-    "Lara",
-    "Kadaila",
-    "Kayu Calla",
-    "Lembah Hopo",
-    "Benggaulu",
-    "Suka Maju",
-    "Kambunong",
-    "Salubiro",
-    "Sanjango"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karossa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tasokko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lara"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kadaila"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kayu Calla"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lembah Hopo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Benggaulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kambunong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Salubiro"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sanjango"
+    }
   ]
 }

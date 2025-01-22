@@ -1,9 +1,24 @@
 {
   "districts": [
-    "Negara",
-    "Mendoyo",
-    "Pekutatan",
-    "Melaya",
-    "Jembrana"
+    {
+      "district_id": 1,
+      "kecamatan": "Negara"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Mendoyo"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pekutatan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Melaya"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Jembrana"
+    }
   ]
 }

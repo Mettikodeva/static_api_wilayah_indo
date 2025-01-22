@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Bantarjaya",
-    "Bantarsari",
-    "Pasirgaok",
-    "Rancabungur",
-    "Mekarsari",
-    "Candali",
-    "Cimulang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bantarjaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bantarsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pasirgaok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Rancabungur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mekarsari"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Candali"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cimulang"
+    }
   ]
 }

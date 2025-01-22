@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Lion",
-    "Momalia II",
-    "Meyambanga",
-    "Saibuah",
-    "Sinombayuga",
-    "Luwoo",
-    "Momalia I",
-    "Sakti",
-    "Manggadaa",
-    "Pilolahunga",
-    "Tonala",
-    "Iloheluma",
-    "Meyambanga Timur",
-    "Molosipat",
-    "Momalia Tiga",
-    "Inosota"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lion"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Momalia II"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Meyambanga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Saibuah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sinombayuga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Luwoo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Momalia I"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sakti"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Manggadaa"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pilolahunga"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tonala"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Iloheluma"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Meyambanga Timur"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Molosipat"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Momalia Tiga"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Inosota"
+    }
   ]
 }

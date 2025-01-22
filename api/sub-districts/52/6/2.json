@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Tambe",
-    "Rasabau",
-    "Rato",
-    "Kananga",
-    "Leu",
-    "Timu",
-    "Bontokape",
-    "Sondosia",
-    "Nggembe",
-    "Sanolo",
-    "Tumpu",
-    "Rada",
-    "Kara",
-    "Darussalam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tambe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Rasabau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rato"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kananga"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Leu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Timu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bontokape"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sondosia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Nggembe"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sanolo"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumpu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rada"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kara"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Darussalam"
+    }
   ]
 }

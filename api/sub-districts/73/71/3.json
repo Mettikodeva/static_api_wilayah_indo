@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Maricaya",
-    "Bara-Baraya",
-    "Maradekaya",
-    "Lariangbangi (Lariang Bangi)",
-    "Maccini",
-    "Maricaya Baru",
-    "Bara-Baraya Timur",
-    "Bara-Baraya Selatan",
-    "Maradekaya Selatan",
-    "Barana",
-    "Maccini Parang",
-    "Maccini Gusung",
-    "Maradekaya Utara",
-    "Bara-Baraya Utara"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Maricaya"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bara-Baraya"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Maradekaya"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lariangbangi (Lariang Bangi)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Maccini"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Maricaya Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bara-Baraya Timur"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bara-Baraya Selatan"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Maradekaya Selatan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Barana"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Maccini Parang"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Maccini Gusung"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Maradekaya Utara"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Bara-Baraya Utara"
+    }
   ]
 }

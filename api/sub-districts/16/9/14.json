@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Merpang",
-    "Tanjung Kurung",
-    "Air Baru",
-    "Penanggungan",
-    "Bumi Genap",
-    "Gedung Nyawa",
-    "Gedung Wani",
-    "Sura",
-    "Karang Endah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Merpang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Kurung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Air Baru"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Penanggungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bumi Genap"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gedung Nyawa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedung Wani"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sura"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Karang Endah"
+    }
   ]
 }

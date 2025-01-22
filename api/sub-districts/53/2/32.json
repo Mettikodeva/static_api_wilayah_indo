@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Lill ana (Liliana)",
-    "Nunbena",
-    "Noebesi",
-    "Taneotob",
-    "Feto Mone",
-    "Tunbes"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lill ana (Liliana)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nunbena"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Noebesi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Taneotob"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Feto Mone"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tunbes"
+    }
   ]
 }

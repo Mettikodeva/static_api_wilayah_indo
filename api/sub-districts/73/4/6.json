@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bulu Jaya (Bulujaya)",
-    "Banrimanurung",
-    "Barana",
-    "Beroanging",
-    "Tuju",
-    "Garassikang",
-    "Pattiro",
-    "Pappalluang"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bulu Jaya (Bulujaya)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Banrimanurung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Barana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Beroanging"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tuju"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Garassikang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pattiro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pappalluang"
+    }
   ]
 }

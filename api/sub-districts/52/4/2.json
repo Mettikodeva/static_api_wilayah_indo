@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lunyuk Rea",
-    "Lunyuk Ode",
-    "Jamu",
-    "Pada Suka",
-    "Suka Maju",
-    "Perung",
-    "Emang Lestari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lunyuk Rea"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lunyuk Ode"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jamu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pada Suka"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Suka Maju"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Perung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Emang Lestari"
+    }
   ]
 }

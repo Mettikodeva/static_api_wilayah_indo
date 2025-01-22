@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Gubugani",
-    "Ambok",
-    "Awiyam",
-    "Tubugime",
-    "Wariru",
-    "Digi",
-    "Kikup",
-    "Gunung Tayok",
-    "Nambu",
-    "Asua",
-    "Degei",
-    "Sigou",
-    "Nalu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gubugani"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ambok"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Awiyam"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tubugime"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Wariru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Digi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kikup"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gunung Tayok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Nambu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Asua"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Degei"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sigou"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Nalu"
+    }
   ]
 }

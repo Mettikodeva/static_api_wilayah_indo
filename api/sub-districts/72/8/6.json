@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sausu Peore (Sausu Piore)",
-    "Maleali (Maleyali)",
-    "Sausu Trans",
-    "Sausu Torono",
-    "Sausu Pakareme",
-    "Sausu Gandasari",
-    "Sausu Salubanga",
-    "Taliabo (Sausu Taliabo)",
-    "Sausu Tambu",
-    "Sausu Auma"
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sausu Peore (Sausu Piore)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Maleali (Maleyali)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sausu Trans"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sausu Torono"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sausu Pakareme"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Sausu Gandasari"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sausu Salubanga"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Taliabo (Sausu Taliabo)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Sausu Tambu"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Sausu Auma"
+    }
   ]
 }

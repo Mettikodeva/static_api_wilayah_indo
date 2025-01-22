@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Werabur",
-    "Mamisi",
-    "Werianggi",
-    "Kurei",
-    "Tamoge"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Werabur"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mamisi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Werianggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kurei"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamoge"
+    }
   ]
 }

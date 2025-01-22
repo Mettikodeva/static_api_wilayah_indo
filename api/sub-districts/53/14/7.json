@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sedeoen",
-    "Nemberala",
-    "Oenggaut",
-    "Bo'a (Boa)",
-    "Oenitas",
-    "Oelolot",
-    "Mbueain"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sedeoen"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nemberala"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Oenggaut"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bo'a (Boa)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Oenitas"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Oelolot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mbueain"
+    }
   ]
 }

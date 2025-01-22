@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Kampung Dagang",
-    "Pasar Kota (Pasar Kota Rengat)",
-    "Kampung Besar Kota",
-    "Sekip Hulu",
-    "Kampung Besar Seberang",
-    "Sekip Hilir Jumat (Sekip Hilir)",
-    "Sei/Sungai Guntung Tengah",
-    "Sei/Sungai Guntung Hilir",
-    "Kuantan Baru",
-    "Kampung Pulau",
-    "Sungai Beringin",
-    "Pasir Kemilu",
-    "Rantau Mapesai",
-    "Pulau Gajah",
-    "Sungai Raya",
-    "Rawa Bangun"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kampung Dagang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pasar Kota (Pasar Kota Rengat)"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Kampung Besar Kota"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sekip Hulu"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kampung Besar Seberang"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Sekip Hilir Jumat (Sekip Hilir)"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Guntung Tengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sei/Sungai Guntung Hilir"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kuantan Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kampung Pulau"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sungai Beringin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pasir Kemilu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Rantau Mapesai"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pulau Gajah"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sungai Raya"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Rawa Bangun"
+    }
   ]
 }

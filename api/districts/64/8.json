@@ -1,22 +1,76 @@
 {
   "districts": [
-    "Muara Ancalong",
-    "Muara Wahau",
-    "Muara Bengkal",
-    "Sangatta Utara",
-    "Sangkulirang",
-    "Busang",
-    "Telen",
-    "Kombeng (Kongbeng)",
-    "Bengalon",
-    "Kaliorang",
-    "Sandaran",
-    "Sangatta Selatan",
-    "Teluk Pandan",
-    "Rantau Pulung",
-    "Kaubun",
-    "Karangan",
-    "Batu Ampar",
-    "Long Mesangat"
+    {
+      "district_id": 1,
+      "kecamatan": "Muara Ancalong"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Muara Wahau"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Muara Bengkal"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sangatta Utara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Sangkulirang"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Busang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Telen"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Kombeng (Kongbeng)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Bengalon"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kaliorang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Sandaran"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Sangatta Selatan"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Teluk Pandan"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Rantau Pulung"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Kaubun"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Karangan"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Batu Ampar"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Long Mesangat"
+    }
   ]
 }

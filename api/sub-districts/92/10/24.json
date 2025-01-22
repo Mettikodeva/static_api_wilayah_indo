@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Seni",
-    "Renis",
-    "Sire",
-    "Fase",
-    "Sabes",
-    "Kuraso",
-    "Sidi",
-    "Osom",
-    "Sire Timur"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Seni"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Renis"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sire"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Fase"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sabes"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuraso"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sidi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Osom"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sire Timur"
+    }
   ]
 }

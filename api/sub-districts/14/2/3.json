@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Simpang Kelayang",
-    "Pulau Sengkilo",
-    "Kota Medan",
-    "Simpang Kota Medan",
-    "Polak Pisang",
-    "Pelangko",
-    "Teluk Sejuah",
-    "Bongkal Malang",
-    "Dusun Tua",
-    "Sungai Banyak Ikan",
-    "Tanjung Beludu",
-    "Sei/Sungai Pasir Putih",
-    "Sungai Golang",
-    "Pasir Beringin",
-    "Sungai Kuning Binio (Sungai Kuning Benio)",
-    "Bukit Selanjut",
-    "Dusun Tua Pelang"
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Simpang Kelayang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pulau Sengkilo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kota Medan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Simpang Kota Medan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Polak Pisang"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pelangko"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Teluk Sejuah"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Bongkal Malang"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Dusun Tua"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sungai Banyak Ikan"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Tanjung Beludu"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Sei/Sungai Pasir Putih"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sungai Golang"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Pasir Beringin"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Sungai Kuning Binio (Sungai Kuning Benio)"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Bukit Selanjut"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Dusun Tua Pelang"
+    }
   ]
 }

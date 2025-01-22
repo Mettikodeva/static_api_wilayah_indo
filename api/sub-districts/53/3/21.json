@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Maubesi",
-    "Lanaus",
-    "Letmafo",
-    "Tainsala",
-    "Sone",
-    "Letmafo Timur",
-    "Oehalo"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Maubesi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lanaus"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Letmafo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tainsala"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sone"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Letmafo Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Oehalo"
+    }
   ]
 }

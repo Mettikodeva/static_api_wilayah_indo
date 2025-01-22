@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Tindaret",
-    "Yobi",
-    "Sambrawai (Samrawai)",
-    "Kiriyou (Kiriyow)",
-    "Soromasen (Soromasem)",
-    "Roswari (Artaneng)",
-    "Doreimanona"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tindaret"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Yobi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sambrawai (Samrawai)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kiriyou (Kiriyow)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Soromasen (Soromasem)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Roswari (Artaneng)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Doreimanona"
+    }
   ]
 }

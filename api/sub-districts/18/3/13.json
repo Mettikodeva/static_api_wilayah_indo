@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Suka Maju (Sukamaju)",
-    "Semuli Raya",
-    "Semuli Jaya",
-    "Papan Asri",
-    "Gunung Keramat (Gunung Kramat)",
-    "Sido Rahayu",
-    "Gunung Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Suka Maju (Sukamaju)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Semuli Raya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Semuli Jaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Papan Asri"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunung Keramat (Gunung Kramat)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sido Rahayu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gunung Sari"
+    }
   ]
 }

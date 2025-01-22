@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Lubuk Durian",
-    "Talang Jambu",
-    "Tebat Pacur",
-    "Talang Curup",
-    "Banyumas",
-    "Salam Harjo",
-    "Yogja Baru (Jogya Baru)",
-    "Talang Pasak",
-    "Perbo",
-    "Lubuk Jale",
-    "Simpang Ketenong",
-    "Aur Gading",
-    "Kedu Baru",
-    "Serumbung",
-    "Magelang",
-    "Tanjung Putus",
-    "Penyangkak",
-    "Banyumas Baru"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Lubuk Durian"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Talang Jambu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tebat Pacur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Curup"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Banyumas"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Salam Harjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yogja Baru (Jogya Baru)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Pasak"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Perbo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lubuk Jale"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Simpang Ketenong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Aur Gading"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Kedu Baru"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Serumbung"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Magelang"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Tanjung Putus"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Penyangkak"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Banyumas Baru"
+    }
   ]
 }

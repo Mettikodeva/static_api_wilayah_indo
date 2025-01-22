@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Wuluk",
-    "Wenggun",
-    "Posman",
-    "Tiyonggi",
-    "Yelly",
-    "Agin",
-    "Kogagi",
-    "Yebena",
-    "Wamigi",
-    "Kolanggun"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wuluk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wenggun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Posman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tiyonggi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yelly"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Agin"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kogagi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Yebena"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Wamigi"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kolanggun"
+    }
   ]
 }

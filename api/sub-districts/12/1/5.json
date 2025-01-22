@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Pasar Onan Manduamas",
-    "Binjohara",
-    "Perluasan",
-    "Saragih",
-    "Pagaran Nauli",
-    "Sarma Nauli",
-    "Manduamas Lama",
-    "Tumba",
-    "Tumba Jae",
-    "Lae Monong",
-    "Saragih Barat",
-    "Saragih Timur",
-    "Binjohara Uruk",
-    "Binjohara Baru",
-    "Tumba Nauli",
-    "Manduamas Baru",
-    "Muara Tapus",
-    "Pagaran Baru",
-    "Parsihotangan",
-    "Tambahan Nanjur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasar Onan Manduamas"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Binjohara"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Perluasan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Saragih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pagaran Nauli"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sarma Nauli"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Manduamas Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumba"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumba Jae"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lae Monong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Saragih Barat"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Saragih Timur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Binjohara Uruk"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Binjohara Baru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tumba Nauli"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Manduamas Baru"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Muara Tapus"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Pagaran Baru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Parsihotangan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tambahan Nanjur"
+    }
   ]
 }

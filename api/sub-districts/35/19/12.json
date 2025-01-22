@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Bandungan",
-    "Pajaran",
-    "Sugihwaras",
-    "Sidorejo",
-    "Bongsopotro",
-    "Sukorejo",
-    "Ngepeh",
-    "Bajulan",
-    "Bener",
-    "Sumbersari",
-    "Klumutan",
-    "Sambirejo",
-    "Tulung",
-    "Sumberbendo",
-    "Klangon"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bandungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pajaran"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sugihwaras"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidorejo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bongsopotro"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sukorejo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ngepeh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bajulan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bener"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Klumutan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sambirejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Tulung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumberbendo"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Klangon"
+    }
   ]
 }

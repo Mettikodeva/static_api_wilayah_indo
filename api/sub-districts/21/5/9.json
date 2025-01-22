@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Impol",
-    "Keramut",
-    "Sunggak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Impol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Keramut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sunggak"
+    }
   ]
 }

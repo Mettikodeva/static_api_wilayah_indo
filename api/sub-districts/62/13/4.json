@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Janah Jari",
-    "Bangkirayen",
-    "Hayaping",
-    "Tangkan",
-    "Wungkur Nanakan",
-    "Ampari",
-    "Apar Batu",
-    "Biwan",
-    "Janah Mansiwui",
-    "Danau",
-    "Pianggu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Janah Jari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bangkirayen"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hayaping"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tangkan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wungkur Nanakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ampari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Apar Batu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Biwan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Janah Mansiwui"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Danau"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pianggu"
+    }
   ]
 }

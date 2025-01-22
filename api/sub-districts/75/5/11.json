@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Deme Satu (Deme I)",
-    "Buluwatu",
-    "Dulukapa",
-    "Deme Dua (Deme II)",
-    "Buladu",
-    "Hulawa",
-    "Wubudu",
-    "Bubalango",
-    "Motiheluma (Motihelumo)",
-    "Koluwoka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Deme Satu (Deme I)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buluwatu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dulukapa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Deme Dua (Deme II)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buladu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Hulawa"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wubudu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bubalango"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Motiheluma (Motihelumo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Koluwoka"
+    }
   ]
 }

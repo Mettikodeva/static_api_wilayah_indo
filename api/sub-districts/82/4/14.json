@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sidopo",
-    "Lolarogurua (Gorua Lolaro / Lolorogurua)",
-    "Nusa Babullah (Nusa Babi)",
-    "Jojame",
-    "Yaba",
-    "Geti Lama",
-    "Geti Baru",
-    "Gilalang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sidopo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lolarogurua (Gorua Lolaro / Lolorogurua)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nusa Babullah (Nusa Babi)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jojame"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Yaba"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Geti Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Geti Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gilalang"
+    }
   ]
 }

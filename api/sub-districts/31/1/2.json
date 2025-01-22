@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Pulau Untung Jawa",
-    "Pulau Tidung",
-    "Pulau Pari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pulau Untung Jawa"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pulau Tidung"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Pulau Pari"
+    }
   ]
 }

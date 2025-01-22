@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sawanakar (Sawangakar/Sawangkang)",
-    "Bajo",
-    "Tanjung Obit",
-    "Prapakanda",
-    "Toin",
-    "Kampung Baru",
-    "Batutaga",
-    "Paisumbaos (Pasimbaos)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sawanakar (Sawangakar/Sawangkang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bajo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Obit"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Prapakanda"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Toin"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kampung Baru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Batutaga"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paisumbaos (Pasimbaos)"
+    }
   ]
 }

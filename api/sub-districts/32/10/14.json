@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pakubeureum",
-    "Sukawana",
-    "Kertawinangun",
-    "Palasah",
-    "Babakan",
-    "Kertajati",
-    "Bantarjati",
-    "Pasiripis",
-    "Sukamulya",
-    "Kertasari",
-    "Mekarjaya",
-    "Mekarmulya",
-    "Sukakerta",
-    "Sahbandar"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pakubeureum"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sukawana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertawinangun"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Palasah"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kertajati"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bantarjati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pasiripis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertasari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mekarjaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekarmulya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sukakerta"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sahbandar"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Sumberjaya",
-    "Kertajaya",
-    "Kertamukti",
-    "Tunggaljaya",
-    "Cigorondong",
-    "Tamanjaya",
-    "Ujungjaya"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sumberjaya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kertajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kertamukti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tunggaljaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cigorondong"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tamanjaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ujungjaya"
+    }
   ]
 }

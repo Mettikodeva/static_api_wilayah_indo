@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kalipuro",
-    "Klatak",
-    "Gombengsari",
-    "Bulusan",
-    "Ketapang",
-    "Pesucen",
-    "Kelir",
-    "Telemung",
-    "Bulusari"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kalipuro"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Klatak"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gombengsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bulusan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ketapang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pesucen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kelir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Telemung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bulusari"
+    }
   ]
 }

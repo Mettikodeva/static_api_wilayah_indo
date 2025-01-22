@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sien",
-    "Sahapikia (Sahapikya)",
-    "Harapan",
-    "Yibin",
-    "Mopio",
-    "Pies (Piyes)",
-    "Memes",
-    "Getiyo"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sien"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sahapikia (Sahapikya)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Harapan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Yibin"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Mopio"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pies (Piyes)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Memes"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Getiyo"
+    }
   ]
 }

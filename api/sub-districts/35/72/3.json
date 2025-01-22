@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Gedog",
-    "Plosokerep",
-    "Klampok",
-    "Sananwetan (Sanan Wetan)",
-    "Rembang",
-    "Karang Tengah",
-    "Bendogerit"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Gedog"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Plosokerep"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Klampok"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Sananwetan (Sanan Wetan)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Rembang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Karang Tengah"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Bendogerit"
+    }
   ]
 }

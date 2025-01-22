@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kwala Begumit",
-    "Sabi/Sambi Rejo",
-    "Sendang Rejo",
-    "Tanjung Jati",
-    "Sidomulyo (Sido Mulyo)",
-    "Perdamaian (Perdamaina / Perdamean)",
-    "Suka Makmur"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Kwala Begumit"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sabi/Sambi Rejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sendang Rejo"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Jati"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sidomulyo (Sido Mulyo)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Perdamaian (Perdamaina / Perdamean)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Suka Makmur"
+    }
   ]
 }

@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Idumun",
-    "Matabulu",
-    "Nuangan",
-    "Bai",
-    "Jiko Belanga",
-    "Nuangan I",
-    "Iyok",
-    "Loyow",
-    "Matabulu Timur",
-    "Nuangan Barat",
-    "Nuangan Selatan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Idumun"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Matabulu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nuangan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bai"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jiko Belanga"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nuangan I"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Iyok"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Loyow"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Matabulu Timur"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Nuangan Barat"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Nuangan Selatan"
+    }
   ]
 }

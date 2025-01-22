@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tailarek (Taila)",
-    "Senogolik",
-    "Bokiem",
-    "Iyora",
-    "Budliem",
-    "Yoman Weya",
-    "Huluaima",
-    "Entagekokma"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tailarek (Taila)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Senogolik"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bokiem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Iyora"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Budliem"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yoman Weya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Huluaima"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Entagekokma"
+    }
   ]
 }

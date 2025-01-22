@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pecalungan",
-    "Bandung",
-    "Gombong",
-    "Randu",
-    "Siguci",
-    "Pretek",
-    "Selokarto",
-    "Gemuh",
-    "Gumawang",
-    "Keniten"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pecalungan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandung"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gombong"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Randu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siguci"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pretek"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Selokarto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gemuh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gumawang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Keniten"
+    }
   ]
 }

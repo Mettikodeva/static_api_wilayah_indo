@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Sukajadi",
-    "Pekanbaru Kota",
-    "Sail",
-    "Lima Puluh",
-    "Senapelan",
-    "Rumbai Barat",
-    "Bukit Raya",
-    "Binawidya",
-    "Marpoyan Damai",
-    "Tenayan Raya",
-    "Payung Sekaki",
-    "Rumbai (Rumbai Pesisir)",
-    "Tuahmadani",
-    "Kulim",
-    "Rumbai Timur"
+    {
+      "district_id": 1,
+      "kecamatan": "Sukajadi"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Pekanbaru Kota"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Sail"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lima Puluh"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Senapelan"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Rumbai Barat"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Bukit Raya"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Binawidya"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Marpoyan Damai"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Tenayan Raya"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Payung Sekaki"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Rumbai (Rumbai Pesisir)"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Tuahmadani"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Kulim"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Rumbai Timur"
+    }
   ]
 }

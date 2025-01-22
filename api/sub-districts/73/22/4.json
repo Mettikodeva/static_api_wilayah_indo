@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Marobo",
-    "Sabbang",
-    "Pararra",
-    "Tandung",
-    "Malimbu",
-    "Tullak Tallu (Tulak Tallu)",
-    "Bakka",
-    "Buntu Torpedo (Buntu Terpedo)",
-    "Pengkendekan",
-    "Salama"
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Marobo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sabbang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pararra"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tandung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Malimbu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tullak Tallu (Tulak Tallu)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bakka"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Buntu Torpedo (Buntu Terpedo)"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Pengkendekan"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Salama"
+    }
   ]
 }

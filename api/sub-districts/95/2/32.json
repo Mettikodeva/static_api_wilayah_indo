@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Eipumek / Elpomek (Elpuna)",
-    "Lalakon",
-    "Londinin",
-    "Talemu",
-    "Wakidam",
-    "Bunyirye",
-    "Basiringe",
-    "Barama",
-    "Tanime",
-    "Serabum",
-    "Supleyu",
-    "Kweredala",
-    "Mungkona",
-    "Malingdam"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Eipumek / Elpomek (Elpuna)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lalakon"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Londinin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Talemu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wakidam"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bunyirye"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Basiringe"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Barama"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanime"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Serabum"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Supleyu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kweredala"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mungkona"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Malingdam"
+    }
   ]
 }

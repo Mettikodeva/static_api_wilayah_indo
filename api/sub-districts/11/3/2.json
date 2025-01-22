@@ -1,41 +1,152 @@
 {
   "sub_districts": [
-    "Blang Keumahang (Blang Keumuhang)",
-    "Blang Jambee",
-    "Keumuneng",
-    "Ladang Baro",
-    "Buket Panyang",
-    "Seuneubok Rambong",
-    "Seuneubok Baro",
-    "Blang Mideun",
-    "Paya Bakong",
-    "Teupin Raya",
-    "Lhok Rambong",
-    "Julok Tunong",
-    "Ulee Ateung",
-    "Ulee Blang",
-    "Labuhan (Labohan)",
-    "Naleung",
-    "Mane Rampak",
-    "Matang",
-    "Blang Uyok",
-    "Blang Pauh/Paoh Satu",
-    "Blang Pauh/Paoh Dua",
-    "Ulee Tanoh",
-    "Keude Kuta Binjei",
-    "Bukit Seroja (Buket Seuraja / Seraja)",
-    "Kuala Geulumpang",
-    "Gampong Baro",
-    "Tumpok Teungoh",
-    "Seumatang",
-    "Ujong Tunong",
-    "Bukit Dindeng",
-    "Paya Pasi",
-    "Alue Cek Doi",
-    "Blang Gleum",
-    "Tanjong Tok Blang",
-    "Buket Makmu (Bukit Makmur)",
-    "Lhok Seuntang",
-    "Simpang Lhee"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Blang Keumahang (Blang Keumuhang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Blang Jambee"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keumuneng"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ladang Baro"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Buket Panyang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Seuneubok Rambong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Seuneubok Baro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Blang Mideun"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paya Bakong"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Teupin Raya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lhok Rambong"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Julok Tunong"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ulee Ateung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Ulee Blang"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Labuhan (Labohan)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Naleung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Mane Rampak"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Matang"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Blang Uyok"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Blang Pauh/Paoh Satu"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Blang Pauh/Paoh Dua"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Ulee Tanoh"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Keude Kuta Binjei"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bukit Seroja (Buket Seuraja / Seraja)"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Kuala Geulumpang"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Gampong Baro"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Tumpok Teungoh"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Seumatang"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Ujong Tunong"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Bukit Dindeng"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Paya Pasi"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Alue Cek Doi"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Blang Gleum"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Tanjong Tok Blang"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Buket Makmu (Bukit Makmur)"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Lhok Seuntang"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Simpang Lhee"
+    }
   ]
 }

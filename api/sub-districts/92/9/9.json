@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Injai",
-    "Apoki",
-    "Matatun",
-    "Jafai",
-    "Jambuani",
-    "Manaria",
-    "Anarum",
-    "Wasanggon",
-    "Wabanek"
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Injai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Apoki"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Matatun"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Jafai"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Jambuani"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Manaria"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Anarum"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Wasanggon"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Wabanek"
+    }
   ]
 }

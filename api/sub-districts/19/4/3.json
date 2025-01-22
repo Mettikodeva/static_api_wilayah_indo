@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sungai Selan",
-    "Kerantai",
-    "Keretak",
-    "Lampur",
-    "Sarang Mandi (Sarangmandi)",
-    "Munggu",
-    "Kemingking",
-    "Sungai Selan Atas",
-    "Tanjung Pura",
-    "Romadhon (Romadhoni)",
-    "Kerakas",
-    "Melabun",
-    "Keretak Atas"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sungai Selan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kerantai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Keretak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Lampur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sarang Mandi (Sarangmandi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Munggu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kemingking"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungai Selan Atas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Pura"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Romadhon (Romadhoni)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kerakas"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Melabun"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Keretak Atas"
+    }
   ]
 }

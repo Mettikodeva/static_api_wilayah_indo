@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Cireunghas",
-    "Cipurut",
-    "Bencoy",
-    "Cikurutug",
-    "Tegalpanjang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cireunghas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cipurut"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bencoy"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cikurutug"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tegalpanjang"
+    }
   ]
 }

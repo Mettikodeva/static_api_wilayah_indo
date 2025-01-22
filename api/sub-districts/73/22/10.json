@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Mappedeceng",
-    "Cendana Putih",
-    "Hasana (Hasanah)",
-    "Kapidi",
-    "Uraso",
-    "Benteng",
-    "Ujung Mattajang",
-    "Cendana Putih I (Cendana Putih Satu)",
-    "Sumber Wangi",
-    "Mangalle (Mangale)",
-    "Mekar Jaya Tondok",
-    "Cendana Putih II (Cendana Putih Dua)",
-    "Sumber Harum",
-    "Tarak Tallu (Tarra Tallu)",
-    "Harapan/Kampung Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mappedeceng"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cendana Putih"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hasana (Hasanah)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kapidi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Uraso"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Benteng"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ujung Mattajang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Cendana Putih I (Cendana Putih Satu)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sumber Wangi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mangalle (Mangale)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mekar Jaya Tondok"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Cendana Putih II (Cendana Putih Dua)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumber Harum"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Tarak Tallu (Tarra Tallu)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Harapan/Kampung Baru"
+    }
   ]
 }

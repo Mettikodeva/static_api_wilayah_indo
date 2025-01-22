@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bejiharjo",
-    "Wiladeg",
-    "Bendungan",
-    "Kelor",
-    "Ngipak",
-    "Karangmojo",
-    "Gedangrejo (Gedang Rejo)",
-    "Ngawis",
-    "Jatiayu (Jati Ayu)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bejiharjo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Wiladeg"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bendungan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kelor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ngipak"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangmojo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Gedangrejo (Gedang Rejo)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ngawis"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Jatiayu (Jati Ayu)"
+    }
   ]
 }

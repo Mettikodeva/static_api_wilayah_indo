@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Braja Sakti",
-    "Braja Fajar",
-    "Braja Emas",
-    "Braja Dewa",
-    "Braja Caka",
-    "Sri Wangi",
-    "Jepara",
-    "Sri Rejosari",
-    "Sumberejo (Sumberjo)",
-    "Labuhan Ratu Dua (II)",
-    "Braja Asri",
-    "Labuhan Ratu Satu (I)",
-    "Sumur Bandung",
-    "Sumber Marga",
-    "Labuhan Ratu Danau",
-    "Labuhan Ratu Baru"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Braja Sakti"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Braja Fajar"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Braja Emas"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Braja Dewa"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Braja Caka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sri Wangi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jepara"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sri Rejosari"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumberejo (Sumberjo)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Labuhan Ratu Dua (II)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Braja Asri"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Labuhan Ratu Satu (I)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sumur Bandung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Sumber Marga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Labuhan Ratu Danau"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Labuhan Ratu Baru"
+    }
   ]
 }

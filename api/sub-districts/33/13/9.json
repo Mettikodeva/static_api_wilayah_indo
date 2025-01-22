@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Lalung",
-    "Bolong",
-    "Jantiharjo",
-    "Tegalgede",
-    "Jungke",
-    "Cangakan",
-    "Karanganyar",
-    "Bejen",
-    "Popongan",
-    "Gayamdompo",
-    "Delingan",
-    "Gedong"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lalung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bolong"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Jantiharjo"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tegalgede"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Jungke"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Cangakan"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Bejen"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Popongan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Gayamdompo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Delingan"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Gedong"
+    }
   ]
 }

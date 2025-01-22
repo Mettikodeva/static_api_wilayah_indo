@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Mattappawalie",
-    "Pujananting",
-    "Gattareng",
-    "Pattappa",
-    "Jangan-Jangan",
-    "Bulo-Bulo",
-    "Bacu-Bacu"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mattappawalie"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pujananting"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Gattareng"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pattappa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Jangan-Jangan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulo-Bulo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bacu-Bacu"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Opiaref",
-    "Bakribo",
-    "Sawa",
-    "Marauw (Marao)",
-    "Wadibu",
-    "Anggopi",
-    "Anggaduber",
-    "Animi",
-    "Kakur",
-    "Tanjung Barari",
-    "Sawadori",
-    "Sauri",
-    "Makmakerbo",
-    "Yensama"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Opiaref"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bakribo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sawa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Marauw (Marao)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wadibu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Anggopi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Anggaduber"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Animi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kakur"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tanjung Barari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Sawadori"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sauri"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Makmakerbo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Yensama"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Fawi",
-    "Bakusi",
-    "Turumo",
-    "Kaho",
-    "Biricare",
-    "Dorey",
-    "Fii",
-    "Evo",
-    "Yerei"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Fawi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bakusi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Turumo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kaho"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Biricare"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Dorey"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Fii"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Evo"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Yerei"
+    }
   ]
 }

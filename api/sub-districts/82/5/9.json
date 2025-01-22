@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Waigai",
-    "Fuata",
-    "Wainib",
-    "Skom",
-    "Wai Tamua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Waigai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Fuata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wainib"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Skom"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wai Tamua"
+    }
   ]
 }

@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tunggulwulung",
-    "Merjosari",
-    "Tlogomas",
-    "Dinoyo",
-    "Sumbersari",
-    "Ketawanggede",
-    "Jatimulyo",
-    "Tunjungsekar",
-    "Mojolangu",
-    "Tulusrejo",
-    "Lowokwaru",
-    "Tasik Madu (Tasikmadu)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tunggulwulung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Merjosari"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tlogomas"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Dinoyo"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Sumbersari"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Ketawanggede"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Jatimulyo"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Tunjungsekar"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mojolangu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tulusrejo"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Lowokwaru"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Tasik Madu (Tasikmadu)"
+    }
   ]
 }

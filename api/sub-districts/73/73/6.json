@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Tomarundung",
-    "Battang",
-    "Lebang",
-    "Battang Barat",
-    "Padang Lambe"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tomarundung"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Battang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Lebang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Battang Barat"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Padang Lambe"
+    }
   ]
 }

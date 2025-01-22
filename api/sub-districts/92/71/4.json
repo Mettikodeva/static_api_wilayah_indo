@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Dum Barat",
-    "Dum Timur",
-    "Soop",
-    "Raam"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Dum Barat"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Dum Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Soop"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Raam"
+    }
   ]
 }

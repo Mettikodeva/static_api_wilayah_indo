@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Teluk Bayur",
-    "Rinding",
-    "Tumbit Melayu",
-    "Labanan Jaya",
-    "Labanan Makmur",
-    "Labanan Makarti"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Teluk Bayur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rinding"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tumbit Melayu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Labanan Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Labanan Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Labanan Makarti"
+    }
   ]
 }

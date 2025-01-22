@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Kananggar",
-    "Mahangwatu (Mehang Mata)",
-    "Karera Jangga",
-    "Praimbana (Prai Mbana)",
-    "Pabera Tanera/Manera",
-    "Winumuru",
-    "Laitaku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kananggar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mahangwatu (Mehang Mata)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karera Jangga"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Praimbana (Prai Mbana)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pabera Tanera/Manera"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Winumuru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Laitaku"
+    }
   ]
 }

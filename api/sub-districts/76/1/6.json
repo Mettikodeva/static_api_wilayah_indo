@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Tammarunang (Tammarunnang)",
-    "Saptanajaya",
-    "Taranggi",
-    "Sipakainga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tammarunang (Tammarunnang)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Saptanajaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Taranggi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sipakainga"
+    }
   ]
 }

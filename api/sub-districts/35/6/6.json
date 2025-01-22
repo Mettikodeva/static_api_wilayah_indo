@@ -1,22 +1,76 @@
 {
   "sub_districts": [
-    "Duwet",
-    "Pojok",
-    "Segaran",
-    "Gadungan",
-    "Wates",
-    "Tawang",
-    "Jajar",
-    "Tunge",
-    "Tempurejo",
-    "Plaosan",
-    "Karanganyar",
-    "Wonorejo",
-    "Pagu",
-    "Joho",
-    "Silir",
-    "Sumberagung",
-    "Sidomulyo",
-    "Janti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Duwet"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pojok"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Segaran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gadungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wates"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tawang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Jajar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tunge"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tempurejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Plaosan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wonorejo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Pagu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Joho"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Silir"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sumberagung"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Sidomulyo"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Janti"
+    }
   ]
 }

@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Batu Tulis (Batutulis)",
-    "Bondongan",
-    "Empang",
-    "Lawanggintung (Lawang Gintung)",
-    "Pamoyanan",
-    "Ranggamekar",
-    "Mulyaharja",
-    "Cikaret",
-    "Bojongkerta",
-    "Rancamaya",
-    "Kertamaya",
-    "Harjasari",
-    "Muarasari",
-    "Genteng",
-    "Pakuan",
-    "Cipaku"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Batu Tulis (Batutulis)"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bondongan"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Empang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Lawanggintung (Lawang Gintung)"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pamoyanan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Ranggamekar"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Mulyaharja"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cikaret"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Bojongkerta"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Rancamaya"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Kertamaya"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Harjasari"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Muarasari"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Genteng"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Pakuan"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Cipaku"
+    }
   ]
 }

@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Pinang Belai/Balai",
-    "Sekutur Jaya",
-    "Bukit Pamuatan (Bukit Pemuatan)",
-    "Napal Putih",
-    "Sako Makmur",
-    "Pagar Puding Lamo",
-    "Tanjung Aur Seberang",
-    "Teluk Melintang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pinang Belai/Balai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sekutur Jaya"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bukit Pamuatan (Bukit Pemuatan)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Napal Putih"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sako Makmur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagar Puding Lamo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Aur Seberang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Teluk Melintang"
+    }
   ]
 }

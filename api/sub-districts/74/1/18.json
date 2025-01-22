@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Anaiwoi",
-    "Lamedai",
-    "Tanggetada",
-    "Pewisoa Jaya",
-    "Tondowolio",
-    "Popalia",
-    "Lalonggolosua",
-    "Petudua",
-    "Rahanggada",
-    "Palewai",
-    "Puundaipa",
-    "Oneeha",
-    "Lamoiko",
-    "Tinggo"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Anaiwoi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lamedai"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanggetada"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pewisoa Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tondowolio"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Popalia"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lalonggolosua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Petudua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Rahanggada"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Palewai"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Puundaipa"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Oneeha"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lamoiko"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tinggo"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Tugu (Tugurejo)",
-    "Candi",
-    "Totokan",
-    "Ngrukem (Ngerukem)",
-    "Siwalan",
-    "Joresan",
-    "Nglumpang",
-    "Gontor",
-    "Gandu",
-    "Jabung",
-    "Bajang",
-    "Mlarak",
-    "Serangan",
-    "Suren",
-    "Kaponan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tugu (Tugurejo)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Candi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Totokan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ngrukem (Ngerukem)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siwalan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Joresan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nglumpang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gontor"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Gandu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jabung"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Bajang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mlarak"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Serangan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Suren"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kaponan"
+    }
   ]
 }

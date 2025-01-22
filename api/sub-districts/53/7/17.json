@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bu Selatan",
-    "Bu Utara",
-    "Bu Watuweti",
-    "Loke",
-    "Renggarasi",
-    "Detubinga",
-    "Tuwa",
-    "Poma",
-    "Bu Barat",
-    "Bu Nuapu\ufffdu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bu Selatan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bu Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bu Watuweti"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Loke"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Renggarasi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Detubinga"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tuwa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Poma"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bu Barat"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Bu Nuapu\ufffdu"
+    }
   ]
 }

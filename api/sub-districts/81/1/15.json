@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Asilulu",
-    "Ureng",
-    "Negeri Lima",
-    "Seith",
-    "Kaitetu",
-    "Hila",
-    "Wakal",
-    "Hitulama (Hitu Lama)",
-    "Hitumessing (Hitu Mesing)",
-    "Mamala",
-    "Morella (Morela)"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Asilulu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ureng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Negeri Lima"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Seith"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kaitetu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Hila"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Wakal"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Hitulama (Hitu Lama)"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Hitumessing (Hitu Mesing)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mamala"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Morella (Morela)"
+    }
   ]
 }

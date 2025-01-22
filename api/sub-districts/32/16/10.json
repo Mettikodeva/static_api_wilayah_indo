@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sukaraya",
-    "Karangrahayu (Karang Rahayu)",
-    "Karangsetia (Karang Setra)",
-    "Karanganyar",
-    "Karangbahagia (Karang Bahagia)",
-    "Karangsentosa (Karang Sentosa)",
-    "Karangsatu (Karang Setu)",
-    "Karangmukti"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sukaraya"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangrahayu (Karang Rahayu)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangsetia (Karang Setra)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Karanganyar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangbahagia (Karang Bahagia)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karangsentosa (Karang Sentosa)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Karangsatu (Karang Setu)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangmukti"
+    }
   ]
 }

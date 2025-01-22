@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Sedareja (Sedaraja)",
-    "Cidadap",
-    "Maniis",
-    "Nagarakembang",
-    "Wangkelang",
-    "Cimanggu (Cimanggugirang)",
-    "Cingambul",
-    "Cikondang",
-    "Ciranjeng",
-    "Rawa",
-    "Kondangmekar",
-    "Cintaasih",
-    "Muktisari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sedareja (Sedaraja)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cidadap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Maniis"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nagarakembang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wangkelang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cimanggu (Cimanggugirang)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cingambul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Cikondang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ciranjeng"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rawa"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kondangmekar"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Cintaasih"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Muktisari"
+    }
   ]
 }

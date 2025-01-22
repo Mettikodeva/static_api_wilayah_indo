@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Golo Dukal",
-    "Wali",
-    "Karot",
-    "Pitak",
-    "Lawir",
-    "Pau",
-    "Waso",
-    "Watu",
-    "Mbaumuku (Mbau Muku)",
-    "Tenda",
-    "Carep",
-    "Bangka Nekang",
-    "Satar Tacik",
-    "Poco Mal",
-    "Compang Carep",
-    "Laci Carep",
-    "Tadong",
-    "Rowang",
-    "Bangka Leda",
-    "Compang Tuke"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Golo Dukal"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Wali"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Karot"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Pitak"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lawir"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Pau"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Waso"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Watu"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Mbaumuku (Mbau Muku)"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tenda"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Carep"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Bangka Nekang"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Satar Tacik"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Poco Mal"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Compang Carep"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Laci Carep"
+    },
+    {
+      "sub_district_id": 1017,
+      "desa_kelurahan": "Tadong"
+    },
+    {
+      "sub_district_id": 1018,
+      "desa_kelurahan": "Rowang"
+    },
+    {
+      "sub_district_id": 1019,
+      "desa_kelurahan": "Bangka Leda"
+    },
+    {
+      "sub_district_id": 1020,
+      "desa_kelurahan": "Compang Tuke"
+    }
   ]
 }

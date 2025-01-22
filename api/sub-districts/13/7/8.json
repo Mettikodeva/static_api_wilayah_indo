@@ -1,7 +1,16 @@
 {
   "sub_districts": [
-    "Pandam Gadang",
-    "Koto Tinggi",
-    "Talang Anau"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pandam Gadang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Koto Tinggi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Anau"
+    }
   ]
 }

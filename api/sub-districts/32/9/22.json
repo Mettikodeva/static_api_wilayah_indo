@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Kertasura",
-    "Pegagan Kidul",
-    "Pegaan Lor (Pegagan Lor)",
-    "Dukuh",
-    "Karangkendal",
-    "Grogol",
-    "Kapetakan",
-    "Bungko",
-    "Bungko Lor"
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kertasura"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Pegagan Kidul"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Pegaan Lor (Pegagan Lor)"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Dukuh"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangkendal"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Kapetakan"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bungko"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Bungko Lor"
+    }
   ]
 }

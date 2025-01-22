@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Selil",
-    "Kindiki",
-    "Kumaaf",
-    "Nggayu",
-    "Kafyamke",
-    "Mandekman",
-    "Rawahayu",
-    "Belbeland",
-    "Kir Ely (Kireli)",
-    "Kandrakay (Kandrakai)",
-    "Baidub"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Selil"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kindiki"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kumaaf"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Nggayu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kafyamke"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mandekman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Rawahayu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belbeland"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kir Ely (Kireli)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kandrakay (Kandrakai)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Baidub"
+    }
   ]
 }

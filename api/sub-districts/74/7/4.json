@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Taipabu",
-    "Palahidu",
-    "Wali",
-    "Rukuwa",
-    "Makoro",
-    "Kampo-Kampo (Kompo-Kompo)",
-    "Lagongga (Longongga)",
-    "Palahidu Barat",
-    "Jaya Makmur"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Taipabu"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Palahidu"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Wali"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Rukuwa"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Makoro"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kampo-Kampo (Kompo-Kompo)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lagongga (Longongga)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Palahidu Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Jaya Makmur"
+    }
   ]
 }

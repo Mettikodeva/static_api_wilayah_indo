@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tude",
-    "Mauta",
-    "Muriabang",
-    "Tubbe (Tube)",
-    "Tamakh",
-    "Bagang",
-    "Toang",
-    "Eka Jaya",
-    "Aramaba",
-    "Delaki"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tude"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mauta"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Muriabang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tubbe (Tube)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tamakh"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bagang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Toang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Eka Jaya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Aramaba"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Delaki"
+    }
   ]
 }

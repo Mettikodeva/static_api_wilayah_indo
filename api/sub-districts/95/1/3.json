@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kimbin (Kimbim)",
-    "Walak",
-    "Araboda",
-    "Logotpaga",
-    "Wawanca",
-    "Miligatnem",
-    "Loki",
-    "Tikawo",
-    "Kombagwe",
-    "Wanggonoma"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kimbin (Kimbim)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Walak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Araboda"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Logotpaga"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Wawanca"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Miligatnem"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Loki"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Tikawo"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Kombagwe"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Wanggonoma"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sawidago",
-    "Petirodongi",
-    "Tendeadongi",
-    "Saojo",
-    "Sulewana",
-    "Sangira",
-    "Kuku",
-    "Panjoka",
-    "Uelincu",
-    "Lena"
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Sawidago"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Petirodongi"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Tendeadongi"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Saojo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sulewana"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sangira"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kuku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panjoka"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uelincu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lena"
+    }
   ]
 }

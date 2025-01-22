@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Petoosang",
-    "Mombi",
-    "Kalumammang",
-    "Pao Pao",
-    "Puppu Uring (Pupu Uring / Puppuring)",
-    "Saragian",
-    "Sayoang",
-    "Alu (Allu)"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Petoosang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mombi"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kalumammang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pao Pao"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Puppu Uring (Pupu Uring / Puppuring)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Saragian"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sayoang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Alu (Allu)"
+    }
   ]
 }

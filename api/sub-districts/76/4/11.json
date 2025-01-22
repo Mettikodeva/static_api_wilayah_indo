@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Limboro",
-    "Lembang Lembang",
-    "Tandasura (Tandassura)",
-    "Samasundu",
-    "Napo",
-    "Todang Todang",
-    "Pendulangan (Pandulangan)",
-    "Renggeang",
-    "Salarri",
-    "Tangan Baru",
-    "Palece"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Limboro"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lembang Lembang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tandasura (Tandassura)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Samasundu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Napo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Todang Todang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pendulangan (Pandulangan)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Renggeang"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Salarri"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tangan Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Palece"
+    }
   ]
 }

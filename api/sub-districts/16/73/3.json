@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Lubuk Kupang",
-    "Rahmah",
-    "Jukung",
-    "Air Kati",
-    "Air Teman (Air Temam)",
-    "Perumnas Rahmah",
-    "Lubuk Binjai"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Lubuk Kupang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Rahmah"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Jukung"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Air Kati"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Air Teman (Air Temam)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Perumnas Rahmah"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Lubuk Binjai"
+    }
   ]
 }

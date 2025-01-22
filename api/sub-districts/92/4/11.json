@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Haha",
-    "Klaogin",
-    "Tofot",
-    "Sbir",
-    "Srer",
-    "Woloin",
-    "Kamaro",
-    "Kakas"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Haha"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Klaogin"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tofot"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sbir"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Srer"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Woloin"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kamaro"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kakas"
+    }
   ]
 }

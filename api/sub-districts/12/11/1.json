@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Kuta Gambir",
-    "Sidiangkat",
-    "Batang Beruh",
-    "Sidikalang (Sidikalang Kota)",
-    "Bintang Hulu",
-    "Belang Malum",
-    "Huta Rakyat (Huta Rakjat)",
-    "Kalang",
-    "Bintang",
-    "Kalang Simbara",
-    "Bintang Mersada"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Kuta Gambir"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Sidiangkat"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Batang Beruh"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sidikalang (Sidikalang Kota)"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Bintang Hulu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Belang Malum"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Huta Rakyat (Huta Rakjat)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Kalang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bintang"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Kalang Simbara"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Bintang Mersada"
+    }
   ]
 }

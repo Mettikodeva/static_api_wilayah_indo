@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Cisaat",
-    "Ciater",
-    "Nagrak",
-    "Cibeusi",
-    "Cibitung",
-    "Palasari",
-    "Sanca"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Cisaat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ciater"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Nagrak"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Cibeusi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Cibitung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Palasari"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sanca"
+    }
   ]
 }

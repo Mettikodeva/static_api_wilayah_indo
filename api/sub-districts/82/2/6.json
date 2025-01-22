@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Gemia",
-    "Tepeleo",
-    "Bilifitu",
-    "Tepeleo Batudua",
-    "Pantura Jaya",
-    "Maliforo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gemia"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tepeleo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bilifitu"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tepeleo Batudua"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pantura Jaya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maliforo"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Teureubeh",
-    "Barueh",
-    "Jantho",
-    "Awek (Awee)",
-    "Data Cut",
-    "Bueng (Beung)",
-    "Weu",
-    "Jalin",
-    "Suka Tani",
-    "Cucum",
-    "Jantho Baru",
-    "Jantho Makmur",
-    "Bukit Meusara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Teureubeh"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Barueh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jantho"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Awek (Awee)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Data Cut"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bueng (Beung)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Weu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jalin"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Tani"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cucum"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Jantho Baru"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Jantho Makmur"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Bukit Meusara"
+    }
   ]
 }

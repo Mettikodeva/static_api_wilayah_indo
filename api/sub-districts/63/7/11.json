@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tapuk",
-    "Karau",
-    "Limpasu",
-    "Kabang",
-    "Abung Surapati",
-    "Karatungan",
-    "Pauh",
-    "Abung",
-    "Hawang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tapuk"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karau"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Limpasu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kabang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Abung Surapati"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karatungan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Pauh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Abung"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Hawang"
+    }
   ]
 }

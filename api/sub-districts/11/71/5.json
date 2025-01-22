@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Leung Bata (Lueng Bata)",
-    "Cot Mesjid",
-    "Panteriek",
-    "Blang Cut",
-    "Lamseupeung",
-    "Batoh",
-    "Sukadamai",
-    "Lamdom (Lam Dom / Landom)",
-    "Lampaloh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Leung Bata (Lueng Bata)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cot Mesjid"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Panteriek"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Blang Cut"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lamseupeung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Batoh"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukadamai"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lamdom (Lam Dom / Landom)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Lampaloh"
+    }
   ]
 }

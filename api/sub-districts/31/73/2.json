@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Grogol",
-    "Tanjung Duren Utara",
-    "Tomang",
-    "Jelambar",
-    "Tanjung Duren Selatan",
-    "Jelambar Baru",
-    "Wijaya Kusuma"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Grogol"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Tanjung Duren Utara"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Tomang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Jelambar"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Tanjung Duren Selatan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Jelambar Baru"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Wijaya Kusuma"
+    }
   ]
 }

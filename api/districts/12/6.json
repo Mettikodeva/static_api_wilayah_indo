@@ -1,21 +1,72 @@
 {
   "districts": [
-    "Kabanjahe",
-    "Berastagi (Brastagi)",
-    "Barusjahe (Barus Jahe)",
-    "Tigapanah (Tiga Panah)",
-    "Merek",
-    "Munte",
-    "Juhar",
-    "Tigabinanga (Tiga Binanga)",
-    "Laubaleng",
-    "Mardingding (Mardinding)",
-    "Payung",
-    "Simpang Empat",
-    "Kutabuluh (Kuta Buluh)",
-    "Dolat Rayat",
-    "Merdeka",
-    "Naman Teran (Nama Teran)",
-    "Tiganderket"
+    {
+      "district_id": 1,
+      "kecamatan": "Kabanjahe"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Berastagi (Brastagi)"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Barusjahe (Barus Jahe)"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Tigapanah (Tiga Panah)"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Merek"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Munte"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Juhar"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Tigabinanga (Tiga Binanga)"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Laubaleng"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Mardingding (Mardinding)"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Payung"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Simpang Empat"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Kutabuluh (Kuta Buluh)"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Dolat Rayat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Merdeka"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Naman Teran (Nama Teran)"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Tiganderket"
+    }
   ]
 }

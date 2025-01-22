@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Bandar Jaya Timur",
-    "Bandar Jaya Barat",
-    "Yukum Jaya",
-    "Adi Jaya",
-    "Indra Putra Subing",
-    "Karang Endah",
-    "Nambah Dadi",
-    "Ono Harjo",
-    "Terbanggi Besar",
-    "Poncowati"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Bandar Jaya Timur"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bandar Jaya Barat"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Yukum Jaya"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Adi Jaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Indra Putra Subing"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Karang Endah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nambah Dadi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ono Harjo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Terbanggi Besar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Poncowati"
+    }
   ]
 }

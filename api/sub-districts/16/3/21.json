@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Embacang Kelekar",
-    "Menanti",
-    "Menanti Selatan",
-    "Suban Baru",
-    "Pelempang",
-    "Teluk Jaya",
-    "Tanjung Medang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Embacang Kelekar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Menanti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Menanti Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suban Baru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pelempang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Teluk Jaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tanjung Medang"
+    }
   ]
 }

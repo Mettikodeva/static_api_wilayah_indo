@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Tanjung Merah",
-    "Sagerat",
-    "Manembo Nembo Atas",
-    "Manembo-nembo (Manembo Nembo Bawah)",
-    "Sagerat Weru Satu (I)",
-    "Sagerat Weru Dua (II)",
-    "Manembo Nembo Tengah",
-    "Tendeki"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tanjung Merah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sagerat"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Manembo Nembo Atas"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Manembo-nembo (Manembo Nembo Bawah)"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Sagerat Weru Satu (I)"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Sagerat Weru Dua (II)"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Manembo Nembo Tengah"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Tendeki"
+    }
   ]
 }

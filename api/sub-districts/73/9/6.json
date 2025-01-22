@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Sabila",
-    "Padaelo",
-    "Batu Putih",
-    "Wanua Waru",
-    "Tellupanuae",
-    "Samaenre",
-    "Bentenge",
-    "Matampapole",
-    "Uludaya",
-    "Gatarang Matinggi (Gattareng Matinggi)",
-    "Barugae"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Sabila"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padaelo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Putih"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wanua Waru"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tellupanuae"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Samaenre"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bentenge"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Matampapole"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Uludaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Gatarang Matinggi (Gattareng Matinggi)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Barugae"
+    }
   ]
 }

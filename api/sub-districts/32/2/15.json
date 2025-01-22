@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Parakan Salak (Parakansalak)",
-    "Bojong Longok (Bojonglongok)",
-    "Sukakersa",
-    "Sukatani",
-    "Bojongasih",
-    "Lebaksari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Parakan Salak (Parakansalak)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bojong Longok (Bojonglongok)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sukakersa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukatani"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojongasih"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Lebaksari"
+    }
   ]
 }

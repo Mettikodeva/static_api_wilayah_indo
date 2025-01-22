@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Turus",
-    "Patia",
-    "Pasirgadung",
-    "Cimoyan",
-    "Idaman",
-    "Babakankeusik",
-    "Surianeun",
-    "Rahayu",
-    "Ciawi",
-    "Simpangtiga"
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Turus"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Patia"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasirgadung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Cimoyan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Idaman"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Babakankeusik"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Surianeun"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rahayu"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Ciawi"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Simpangtiga"
+    }
   ]
 }

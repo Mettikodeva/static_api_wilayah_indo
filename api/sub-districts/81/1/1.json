@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Hollo",
-    "Tamilouw",
-    "Sepa",
-    "Rutah",
-    "Soahuku",
-    "Amahai",
-    "Haruru",
-    "Sehati",
-    "Makariki",
-    "Yafila",
-    "Banda Baru",
-    "Yainuelo",
-    "Nua Nea",
-    "Hatuhenu",
-    "Nuweletetu"
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Hollo"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tamilouw"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sepa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rutah"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Soahuku"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Amahai"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Haruru"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sehati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Makariki"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Yafila"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banda Baru"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Yainuelo"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Nua Nea"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Hatuhenu"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Nuweletetu"
+    }
   ]
 }

@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Adang",
-    "Alor Kecil",
-    "Alor Besar",
-    "Ampera",
-    "Dulolong",
-    "Aimoli",
-    "Alila",
-    "Otvai",
-    "Ternate",
-    "Ternate Selatan",
-    "Alila Selatan",
-    "Pulau Buaya",
-    "Hulnani",
-    "O'a Mate (Oa Mate)",
-    "Ala'ang (Alaang)",
-    "Lefokisu",
-    "Bampalola",
-    "Lewalu",
-    "Dulolong Barat"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Adang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alor Kecil"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Alor Besar"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ampera"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dulolong"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Aimoli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Alila"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Otvai"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ternate"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Ternate Selatan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Alila Selatan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Pulau Buaya"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Hulnani"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "O'a Mate (Oa Mate)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Ala'ang (Alaang)"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Lefokisu"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Bampalola"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Lewalu"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Dulolong Barat"
+    }
   ]
 }

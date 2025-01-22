@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Billa",
-    "Oelet",
-    "Pisan",
-    "Mauleum",
-    "Nifukiu",
-    "Mnelaanen",
-    "Teluk (Telukh)",
-    "Oe'Ekam (Oe Ekam)",
-    "Sini",
-    "Tliu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Billa"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Oelet"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pisan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Mauleum"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nifukiu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Mnelaanen"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Teluk (Telukh)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Oe'Ekam (Oe Ekam)"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Sini"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tliu"
+    }
   ]
 }

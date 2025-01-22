@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Buli",
-    "Buli Asal",
-    "Buli Karya",
-    "Wayafly (Wayafli / Wayamli)",
-    "Sailal",
-    "Geltoli",
-    "Pekaulan",
-    "Teluk Buli",
-    "Gamesan",
-    "Baburino"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Buli"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buli Asal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Buli Karya"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wayafly (Wayafli / Wayamli)"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sailal"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Geltoli"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pekaulan"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Teluk Buli"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Gamesan"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Baburino"
+    }
   ]
 }

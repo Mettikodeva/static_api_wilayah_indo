@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Gemekan",
-    "Blimbingsari",
-    "Brangkal",
-    "Kedungmaling",
-    "Klinterejo",
-    "Modongan",
-    "Sambiroto",
-    "Jampirogo",
-    "Japan",
-    "Sooko",
-    "Wringinrejo",
-    "Karangkedawang",
-    "Mojoranu",
-    "Tempuran",
-    "Ngingasrembyong"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Gemekan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Blimbingsari"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Brangkal"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kedungmaling"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klinterejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Modongan"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sambiroto"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jampirogo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Japan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sooko"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Wringinrejo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Karangkedawang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Mojoranu"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tempuran"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Ngingasrembyong"
+    }
   ]
 }

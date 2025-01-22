@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Tanjung Selamat",
-    "Serapuh Abc",
-    "Padang Tualang",
-    "Kwala Besilam (Kwala Pesilam / Kuala Besilam)",
-    "Buluh Telang",
-    "Besilam",
-    "Tebing Tanjung Selamat",
-    "Tanjung Putus",
-    "Suka Ramai",
-    "Jati Sari",
-    "Banjar Jaya",
-    "Bukit Sari"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Tanjung Selamat"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Serapuh Abc"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang Tualang"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kwala Besilam (Kwala Pesilam / Kuala Besilam)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Buluh Telang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Besilam"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tebing Tanjung Selamat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tanjung Putus"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Suka Ramai"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Jati Sari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Banjar Jaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Bukit Sari"
+    }
   ]
 }

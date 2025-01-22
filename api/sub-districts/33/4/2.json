@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Sirkandi",
-    "Pagak",
-    "Kecitran",
-    "Purwareja (Purworejo)",
-    "Klampok",
-    "Kalilandak",
-    "Kalimandi",
-    "Kaliwinasuh"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sirkandi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pagak"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Kecitran"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Purwareja (Purworejo)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Klampok"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kalilandak"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalimandi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kaliwinasuh"
+    }
   ]
 }

@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Pasar Talo",
-    "Dusun Baru",
-    "Talang Kabu",
-    "Tanah Abang",
-    "Penago Baru",
-    "Nanti Agung",
-    "Talang Panjang",
-    "Penago I",
-    "Penago II",
-    "Rawah Indah (Rawa Indah)",
-    "Padang Cekur",
-    "Padang Batu",
-    "Paluah Terap",
-    "Margo Sari",
-    "Mekar Sari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pasar Talo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dusun Baru"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Talang Kabu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanah Abang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Penago Baru"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Nanti Agung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Talang Panjang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Penago I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Penago II"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Rawah Indah (Rawa Indah)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Padang Cekur"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Padang Batu"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Paluah Terap"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Margo Sari"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mekar Sari"
+    }
   ]
 }

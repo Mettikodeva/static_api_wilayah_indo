@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Boidu",
-    "Bandungan",
-    "Tupa",
-    "Longalo",
-    "Tuloa",
-    "Kopi",
-    "Lomaya",
-    "Suka Damai",
-    "Bunuo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Boidu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bandungan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tupa"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Longalo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tuloa"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Kopi"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Lomaya"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Suka Damai"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bunuo"
+    }
   ]
 }

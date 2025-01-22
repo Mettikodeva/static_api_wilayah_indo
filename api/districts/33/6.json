@@ -1,20 +1,68 @@
 {
   "districts": [
-    "Grabag",
-    "Ngombol",
-    "Purwodadi",
-    "Bagelen",
-    "Kaligesing",
-    "Purworejo",
-    "Banyuurip",
-    "Bayan",
-    "Kutoarjo",
-    "Butuh",
-    "Pituruh",
-    "Kemiri",
-    "Bruno",
-    "Gebang",
-    "Loano",
-    "Bener"
+    {
+      "district_id": 1,
+      "kecamatan": "Grabag"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Ngombol"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Purwodadi"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Bagelen"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Kaligesing"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Purworejo"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Banyuurip"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bayan"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Kutoarjo"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Butuh"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Pituruh"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kemiri"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Bruno"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Gebang"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Loano"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Bener"
+    }
   ]
 }

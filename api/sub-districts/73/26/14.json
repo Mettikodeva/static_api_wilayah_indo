@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Baruppu Selatan",
-    "Baruupu Utara (Baruppu Utara)",
-    "Baruppu Benteng Batu",
-    "Baruppu Baropo (Baruppu Parodo)"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Baruppu Selatan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Baruupu Utara (Baruppu Utara)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Baruppu Benteng Batu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Baruppu Baropo (Baruppu Parodo)"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Semabung Lama",
-    "Bacang",
-    "Air Itam",
-    "Pasir Putih",
-    "Temberan",
-    "Sinar Bulan",
-    "Air Mawar"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Semabung Lama"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bacang"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Air Itam"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Temberan"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Sinar Bulan"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Air Mawar"
+    }
   ]
 }

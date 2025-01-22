@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Yiwili",
-    "Golo",
-    "Golomi",
-    "Yugumobur",
-    "Milidi",
-    "Uniwani",
-    "Wiringgambut",
-    "Wuluwebur",
-    "Kiludo",
-    "Giruwi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Yiwili"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Golo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Golomi"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Yugumobur"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Milidi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Uniwani"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Wiringgambut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wuluwebur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kiludo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Giruwi"
+    }
   ]
 }

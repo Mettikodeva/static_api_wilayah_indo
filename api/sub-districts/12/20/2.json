@@ -1,90 +1,348 @@
 {
   "sub_districts": [
-    "Siguga",
-    "Singanyal",
-    "Binanga Panasahan",
-    "Aek Haruaya",
-    "Tanjung Baru B",
-    "Pasar Sipiongot",
-    "Bintais Julu",
-    "Bunut",
-    "Paya Ombik",
-    "Aek Suhat Jae",
-    "Huta Baru Sil",
-    "Sijorang",
-    "Simaninggir Sip",
-    "Pangaran Julu I",
-    "Mompang Lombang",
-    "Janji Manahan Sil",
-    "Baringin Sip",
-    "Gunung Maria",
-    "Mompang Dolok",
-    "Aek Rao TN",
-    "Sijantung Julu",
-    "Batu Runding",
-    "Lubuk Godang",
-    "Bahap",
-    "Aek Ilung",
-    "Tarutung Bolak",
-    "Sungai Pining",
-    "Siloung",
-    "Hutaimbaru Gul",
-    "Sipiongot",
-    "Gumbot",
-    "Gunung Selamat",
-    "Silogo Logo",
-    "Lubuk Kundur",
-    "Jambur Batu",
-    "Simatorkis",
-    "Rancaran",
-    "Naga Saribu",
-    "Simataniari Jae",
-    "Janji Manahan Gul",
-    "Simataniari",
-    "Parmeraan",
-    "Panca",
-    "Dalihan Natolu",
-    "Sungai Datar",
-    "Lubuk Lanjang",
-    "Arse",
-    "Simangambat Tua",
-    "Sigala Gala",
-    "Sibayo Jae",
-    "Dolok Sanggul",
-    "Silangge",
-    "Pijor Koling",
-    "Pagaran Julu II",
-    "Siala Gundi",
-    "Siraga HP",
-    "Aek Sundur",
-    "Baringin Sil",
-    "Hula Baringin",
-    "Nabonggal",
-    "Purba Tua",
-    "Tanjung Longat",
-    "Sibio Bio",
-    "Situmbaga",
-    "Sijara Jara",
-    "Huta Baru Sip",
-    "Pagaran Siregar",
-    "Parigi",
-    "Napasundali",
-    "Aek Suhat TR",
-    "Gumaruntar",
-    "Sijantung Jae",
-    "Janji Matogu",
-    "Sialang Dolok",
-    "Binanga Gumbot",
-    "Simanosor",
-    "Bukit Tinggi",
-    "Simambal",
-    "Bandar Nauli",
-    "Sibayo",
-    "Sinabongan",
-    "Siranap",
-    "Aek Tangga",
-    "Rongkare",
-    "Siburbur",
-    "Pintu Padang Merdeka"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Siguga"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Singanyal"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Binanga Panasahan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Aek Haruaya"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Baru B"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pasar Sipiongot"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bintais Julu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bunut"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paya Ombik"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Aek Suhat Jae"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Huta Baru Sil"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Sijorang"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Simaninggir Sip"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pangaran Julu I"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mompang Lombang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Janji Manahan Sil"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Baringin Sip"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gunung Maria"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Mompang Dolok"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Aek Rao TN"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Sijantung Julu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Batu Runding"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Lubuk Godang"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Bahap"
+    },
+    {
+      "sub_district_id": 2025,
+      "desa_kelurahan": "Aek Ilung"
+    },
+    {
+      "sub_district_id": 2026,
+      "desa_kelurahan": "Tarutung Bolak"
+    },
+    {
+      "sub_district_id": 2027,
+      "desa_kelurahan": "Sungai Pining"
+    },
+    {
+      "sub_district_id": 2028,
+      "desa_kelurahan": "Siloung"
+    },
+    {
+      "sub_district_id": 2029,
+      "desa_kelurahan": "Hutaimbaru Gul"
+    },
+    {
+      "sub_district_id": 2030,
+      "desa_kelurahan": "Sipiongot"
+    },
+    {
+      "sub_district_id": 2031,
+      "desa_kelurahan": "Gumbot"
+    },
+    {
+      "sub_district_id": 2032,
+      "desa_kelurahan": "Gunung Selamat"
+    },
+    {
+      "sub_district_id": 2033,
+      "desa_kelurahan": "Silogo Logo"
+    },
+    {
+      "sub_district_id": 2034,
+      "desa_kelurahan": "Lubuk Kundur"
+    },
+    {
+      "sub_district_id": 2035,
+      "desa_kelurahan": "Jambur Batu"
+    },
+    {
+      "sub_district_id": 2036,
+      "desa_kelurahan": "Simatorkis"
+    },
+    {
+      "sub_district_id": 2037,
+      "desa_kelurahan": "Rancaran"
+    },
+    {
+      "sub_district_id": 2038,
+      "desa_kelurahan": "Naga Saribu"
+    },
+    {
+      "sub_district_id": 2039,
+      "desa_kelurahan": "Simataniari Jae"
+    },
+    {
+      "sub_district_id": 2040,
+      "desa_kelurahan": "Janji Manahan Gul"
+    },
+    {
+      "sub_district_id": 2041,
+      "desa_kelurahan": "Simataniari"
+    },
+    {
+      "sub_district_id": 2042,
+      "desa_kelurahan": "Parmeraan"
+    },
+    {
+      "sub_district_id": 2043,
+      "desa_kelurahan": "Panca"
+    },
+    {
+      "sub_district_id": 2044,
+      "desa_kelurahan": "Dalihan Natolu"
+    },
+    {
+      "sub_district_id": 2045,
+      "desa_kelurahan": "Sungai Datar"
+    },
+    {
+      "sub_district_id": 2046,
+      "desa_kelurahan": "Lubuk Lanjang"
+    },
+    {
+      "sub_district_id": 2047,
+      "desa_kelurahan": "Arse"
+    },
+    {
+      "sub_district_id": 2048,
+      "desa_kelurahan": "Simangambat Tua"
+    },
+    {
+      "sub_district_id": 2049,
+      "desa_kelurahan": "Sigala Gala"
+    },
+    {
+      "sub_district_id": 2050,
+      "desa_kelurahan": "Sibayo Jae"
+    },
+    {
+      "sub_district_id": 2051,
+      "desa_kelurahan": "Dolok Sanggul"
+    },
+    {
+      "sub_district_id": 2052,
+      "desa_kelurahan": "Silangge"
+    },
+    {
+      "sub_district_id": 2053,
+      "desa_kelurahan": "Pijor Koling"
+    },
+    {
+      "sub_district_id": 2054,
+      "desa_kelurahan": "Pagaran Julu II"
+    },
+    {
+      "sub_district_id": 2055,
+      "desa_kelurahan": "Siala Gundi"
+    },
+    {
+      "sub_district_id": 2056,
+      "desa_kelurahan": "Siraga HP"
+    },
+    {
+      "sub_district_id": 2057,
+      "desa_kelurahan": "Aek Sundur"
+    },
+    {
+      "sub_district_id": 2058,
+      "desa_kelurahan": "Baringin Sil"
+    },
+    {
+      "sub_district_id": 2059,
+      "desa_kelurahan": "Hula Baringin"
+    },
+    {
+      "sub_district_id": 2060,
+      "desa_kelurahan": "Nabonggal"
+    },
+    {
+      "sub_district_id": 2061,
+      "desa_kelurahan": "Purba Tua"
+    },
+    {
+      "sub_district_id": 2062,
+      "desa_kelurahan": "Tanjung Longat"
+    },
+    {
+      "sub_district_id": 2063,
+      "desa_kelurahan": "Sibio Bio"
+    },
+    {
+      "sub_district_id": 2064,
+      "desa_kelurahan": "Situmbaga"
+    },
+    {
+      "sub_district_id": 2065,
+      "desa_kelurahan": "Sijara Jara"
+    },
+    {
+      "sub_district_id": 2066,
+      "desa_kelurahan": "Huta Baru Sip"
+    },
+    {
+      "sub_district_id": 2067,
+      "desa_kelurahan": "Pagaran Siregar"
+    },
+    {
+      "sub_district_id": 2068,
+      "desa_kelurahan": "Parigi"
+    },
+    {
+      "sub_district_id": 2069,
+      "desa_kelurahan": "Napasundali"
+    },
+    {
+      "sub_district_id": 2070,
+      "desa_kelurahan": "Aek Suhat TR"
+    },
+    {
+      "sub_district_id": 2071,
+      "desa_kelurahan": "Gumaruntar"
+    },
+    {
+      "sub_district_id": 2072,
+      "desa_kelurahan": "Sijantung Jae"
+    },
+    {
+      "sub_district_id": 2073,
+      "desa_kelurahan": "Janji Matogu"
+    },
+    {
+      "sub_district_id": 2074,
+      "desa_kelurahan": "Sialang Dolok"
+    },
+    {
+      "sub_district_id": 2075,
+      "desa_kelurahan": "Binanga Gumbot"
+    },
+    {
+      "sub_district_id": 2076,
+      "desa_kelurahan": "Simanosor"
+    },
+    {
+      "sub_district_id": 2077,
+      "desa_kelurahan": "Bukit Tinggi"
+    },
+    {
+      "sub_district_id": 2078,
+      "desa_kelurahan": "Simambal"
+    },
+    {
+      "sub_district_id": 2079,
+      "desa_kelurahan": "Bandar Nauli"
+    },
+    {
+      "sub_district_id": 2080,
+      "desa_kelurahan": "Sibayo"
+    },
+    {
+      "sub_district_id": 2081,
+      "desa_kelurahan": "Sinabongan"
+    },
+    {
+      "sub_district_id": 2082,
+      "desa_kelurahan": "Siranap"
+    },
+    {
+      "sub_district_id": 2083,
+      "desa_kelurahan": "Aek Tangga"
+    },
+    {
+      "sub_district_id": 2084,
+      "desa_kelurahan": "Rongkare"
+    },
+    {
+      "sub_district_id": 2085,
+      "desa_kelurahan": "Siburbur"
+    },
+    {
+      "sub_district_id": 2086,
+      "desa_kelurahan": "Pintu Padang Merdeka"
+    }
   ]
 }

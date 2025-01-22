@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Mororejo",
-    "Podokoyo",
-    "Ngadiwono",
-    "Tosari",
-    "Wonokitri",
-    "Baledono",
-    "Sedaeng",
-    "Kandangan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mororejo"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Podokoyo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ngadiwono"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tosari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wonokitri"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Baledono"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sedaeng"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kandangan"
+    }
   ]
 }

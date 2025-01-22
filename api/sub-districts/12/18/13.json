@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Bah Sumbu",
-    "Naga Kesiangan",
-    "Jambu",
-    "Mariah Padang",
-    "Pertapaan",
-    "Paya Lombang",
-    "Sei Serimah",
-    "Paya Bagas",
-    "Paya Mabar",
-    "Sei Priok (Sungai Periok)",
-    "Kuta Baru",
-    "Kedai Damar",
-    "Penonggol",
-    "Gunung Kataran"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bah Sumbu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Naga Kesiangan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Jambu"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mariah Padang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pertapaan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Paya Lombang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sei Serimah"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Paya Bagas"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paya Mabar"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sei Priok (Sungai Periok)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kuta Baru"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Kedai Damar"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Penonggol"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Gunung Kataran"
+    }
   ]
 }

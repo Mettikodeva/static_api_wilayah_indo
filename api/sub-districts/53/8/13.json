@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Kotabaru",
-    "Tou",
-    "Tou Timur",
-    "Loboniki",
-    "Ndondo",
-    "Niopanda",
-    "Hangalande",
-    "Tou Barat",
-    "Liselande",
-    "Rangalaka",
-    "Pise",
-    "Neotonda",
-    "Nuanaga"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kotabaru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tou"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tou Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Loboniki"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Ndondo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Niopanda"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Hangalande"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tou Barat"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Liselande"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Rangalaka"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Pise"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Neotonda"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Nuanaga"
+    }
   ]
 }

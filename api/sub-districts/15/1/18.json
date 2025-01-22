@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Mukai Hilir",
-    "Mukai Tengah",
-    "Mukai Mudik",
-    "Senimpik",
-    "Tebing Tinggi",
-    "Mukai Tinggi",
-    "Mukai Pintu",
-    "Sungailangkap (Sungai Langkap)",
-    "Pasir Jaya",
-    "Sungaikuning (Sungai Kuning)",
-    "Mukai Seberang",
-    "Talang Tinggi",
-    "Lubuk Tabun",
-    "Koto Lua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mukai Hilir"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Mukai Tengah"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Mukai Mudik"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Senimpik"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tebing Tinggi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mukai Tinggi"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Mukai Pintu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sungailangkap (Sungai Langkap)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pasir Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sungaikuning (Sungai Kuning)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mukai Seberang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Talang Tinggi"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lubuk Tabun"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Koto Lua"
+    }
   ]
 }

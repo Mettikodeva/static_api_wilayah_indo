@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Paopale Laok (Paopalelaok)",
-    "Bunten Barat",
-    "Bunten Timur",
-    "Pancor",
-    "Karanganyar (Karang Anyar)",
-    "Pangereman",
-    "Bira Barat",
-    "Ketapang Timur",
-    "Ketapang Daya",
-    "Ketapang Laok",
-    "Ketapang Barat",
-    "Paopale Daya",
-    "Rabiyan",
-    "Banyusokah"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Paopale Laok (Paopalelaok)"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Bunten Barat"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bunten Timur"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pancor"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanganyar (Karang Anyar)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pangereman"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bira Barat"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ketapang Timur"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Ketapang Daya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Ketapang Laok"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ketapang Barat"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Paopale Daya"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Rabiyan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Banyusokah"
+    }
   ]
 }

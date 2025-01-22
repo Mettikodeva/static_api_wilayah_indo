@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Modayama",
-    "Laromabati (Loromabati)",
-    "Gayap",
-    "Ake Jailolo",
-    "Wayasipang",
-    "Ngokomalako"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Modayama"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Laromabati (Loromabati)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Gayap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ake Jailolo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Wayasipang"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ngokomalako"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Sengkuang",
-    "Lubuk Pendam",
-    "Alun Dua",
-    "Ketapi",
-    "Lubuk Semantung (Lubuk Sematung)",
-    "Sawang Lebar",
-    "Sawang Lebar Ilir",
-    "Lubuk Gading",
-    "Tanjung Agung",
-    "Padang Sepan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sengkuang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubuk Pendam"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Alun Dua"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ketapi"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Lubuk Semantung (Lubuk Sematung)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sawang Lebar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sawang Lebar Ilir"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Lubuk Gading"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tanjung Agung"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Padang Sepan"
+    }
   ]
 }

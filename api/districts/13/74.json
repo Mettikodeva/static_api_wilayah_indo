@@ -1,6 +1,12 @@
 {
   "districts": [
-    "Padang Panjang Timur",
-    "Padang Panjang Barat"
+    {
+      "district_id": 1,
+      "kecamatan": "Padang Panjang Timur"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Padang Panjang Barat"
+    }
   ]
 }

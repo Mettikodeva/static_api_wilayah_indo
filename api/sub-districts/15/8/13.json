@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Pasir Putih",
-    "Cadika (Candika)",
-    "Sungai Mengkuang",
-    "Sungai Buluh"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Pasir Putih"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cadika (Candika)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sungai Mengkuang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sungai Buluh"
+    }
   ]
 }

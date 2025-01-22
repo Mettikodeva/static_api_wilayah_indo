@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Pantenan",
-    "Sumurber",
-    "Siwalan",
-    "Ketanen",
-    "Banyutengah",
-    "Serah",
-    "Surowiti",
-    "Prupuh",
-    "Campurejo",
-    "Sukodono",
-    "Dalegan",
-    "Petung",
-    "Wotan",
-    "Doudo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pantenan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sumurber"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siwalan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Ketanen"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Banyutengah"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Serah"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Surowiti"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Prupuh"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Campurejo"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Sukodono"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Dalegan"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Petung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wotan"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Doudo"
+    }
   ]
 }

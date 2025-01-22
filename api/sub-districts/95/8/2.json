@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Mapenduma",
-    "Duma",
-    "Yoe",
-    "Palsam",
-    "Endumu",
-    "Litkui",
-    "Nowomlusu",
-    "Kelapa Dua",
-    "Dumdum",
-    "Lunggadumu"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mapenduma"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Duma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Yoe"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Palsam"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Endumu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Litkui"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Nowomlusu"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Kelapa Dua"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Dumdum"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Lunggadumu"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Inomata",
-    "Tumbulilato (Tombulilato)",
-    "Mootayu",
-    "Mootinelo",
-    "Pelita Jaya",
-    "Moopuya (Moopiya / Mopuya)",
-    "Alo",
-    "Laut Biru",
-    "Bunga",
-    "Mootawa"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Inomata"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbulilato (Tombulilato)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Mootayu"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Mootinelo"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelita Jaya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Moopuya (Moopiya / Mopuya)"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Alo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Laut Biru"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Bunga"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Mootawa"
+    }
   ]
 }

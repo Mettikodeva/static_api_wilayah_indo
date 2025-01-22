@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Songbledeg",
-    "Ketos",
-    "Paranggupito",
-    "Gudangharjo",
-    "Gunturharjo",
-    "Sambiharjo",
-    "Johunut",
-    "Gendayakan"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Songbledeg"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Ketos"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Paranggupito"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gudangharjo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gunturharjo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sambiharjo"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Johunut"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Gendayakan"
+    }
   ]
 }

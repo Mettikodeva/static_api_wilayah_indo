@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Asam Baru",
-    "Tanjung Hara",
-    "Tanjung Paring",
-    "Tanjung Rangas II",
-    "Panimba Raya",
-    "Rungau Raya (Rangau Raya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Asam Baru"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Hara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tanjung Paring"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tanjung Rangas II"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Panimba Raya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Rungau Raya (Rangau Raya)"
+    }
   ]
 }

@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pulau",
-    "Pasir Sialang",
-    "Pulau Lawas",
-    "Muara Uwai",
-    "Laboy Jaya (Laboi Jaya)",
-    "Bukitpayung (Bukit Payung)",
-    "Suka Mulya",
-    "Bukit Sembilan",
-    "Binuang"
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Pulau"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Pasir Sialang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulau Lawas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Muara Uwai"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Laboy Jaya (Laboi Jaya)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bukitpayung (Bukit Payung)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Suka Mulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Bukit Sembilan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Binuang"
+    }
   ]
 }

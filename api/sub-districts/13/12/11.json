@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Sasak",
-    "Padang Harapan",
-    "Ranah Pasisie",
-    "Maligi"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sasak"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Padang Harapan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Ranah Pasisie"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Maligi"
+    }
   ]
 }

@@ -1,17 +1,56 @@
 {
   "districts": [
-    "Tungkal Ulu",
-    "Tungkal Ilir",
-    "Pengabuan",
-    "Betara",
-    "Merlung",
-    "Tebing Tinggi",
-    "Batang Asam",
-    "Renah Mendaluh",
-    "Muara Papalik",
-    "Seberang Kota",
-    "Bram Itam",
-    "Kuala Betara",
-    "Senyerang"
+    {
+      "district_id": 1,
+      "kecamatan": "Tungkal Ulu"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Tungkal Ilir"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Pengabuan"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Betara"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Merlung"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Tebing Tinggi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Batang Asam"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Renah Mendaluh"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Muara Papalik"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Seberang Kota"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Bram Itam"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Kuala Betara"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Senyerang"
+    }
   ]
 }

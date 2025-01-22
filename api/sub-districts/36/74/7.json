@@ -1,10 +1,28 @@
 {
   "sub_districts": [
-    "Muncul",
-    "Setu",
-    "Keranggan (Kranggan)",
-    "Kademangan",
-    "Babakan",
-    "Bakti Jaya"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Muncul"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Setu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Keranggan (Kranggan)"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kademangan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Babakan"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Bakti Jaya"
+    }
   ]
 }

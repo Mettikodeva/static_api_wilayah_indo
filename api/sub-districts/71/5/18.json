@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Pondang",
-    "Ranomea",
-    "Lopana",
-    "Pinaling",
-    "Kota Menara",
-    "Maliku",
-    "Ritey",
-    "Malenos Baru",
-    "Maliku Satu",
-    "Lopana Satu"
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pondang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Ranomea"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Lopana"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pinaling"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kota Menara"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Maliku"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Ritey"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Malenos Baru"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Maliku Satu"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Lopana Satu"
+    }
   ]
 }

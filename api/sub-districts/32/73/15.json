@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Cijerah",
-    "Cibuntu",
-    "Warung Muncang",
-    "Caringin",
-    "Cigondewah Kaler",
-    "Gempolsari",
-    "Cigondewah Rahayu",
-    "Cigondewah Kidul"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Cijerah"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Cibuntu"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Warung Muncang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Caringin"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cigondewah Kaler"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Gempolsari"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Cigondewah Rahayu"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cigondewah Kidul"
+    }
   ]
 }

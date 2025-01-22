@@ -1,8 +1,20 @@
 {
   "sub_districts": [
-    "Irarutu III",
-    "Amutu",
-    "Nusei",
-    "Kasira"
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Irarutu III"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Amutu"
+    },
+    {
+      "sub_district_id": 2022,
+      "desa_kelurahan": "Nusei"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Kasira"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Wonosari",
-    "Kepek",
-    "Piyaman",
-    "Gari",
-    "Karangtengah (Karang Tengah)",
-    "Selang",
-    "Baleharjo",
-    "Siraman",
-    "Pulutan",
-    "Wareng",
-    "Duwet",
-    "Mulo",
-    "Wunung",
-    "Karangrejek (Karang Rejek)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Wonosari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Kepek"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Piyaman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Gari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karangtengah (Karang Tengah)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Selang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Baleharjo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Siraman"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pulutan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wareng"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Duwet"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Mulo"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Wunung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Karangrejek (Karang Rejek)"
+    }
   ]
 }

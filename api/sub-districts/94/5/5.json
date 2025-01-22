@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Pogoma",
-    "Gagama",
-    "Wiha",
-    "Wakme",
-    "Ugutmu",
-    "Yugume",
-    "Kolamagi",
-    "Guwamu",
-    "Kumasingga"
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pogoma"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Gagama"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Wiha"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wakme"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Ugutmu"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Yugume"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kolamagi"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Guwamu"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Kumasingga"
+    }
   ]
 }

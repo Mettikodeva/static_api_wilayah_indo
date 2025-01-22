@@ -1,19 +1,64 @@
 {
   "districts": [
-    "Kota Padang",
-    "Padang Ulak Tanding",
-    "Sindang Kelingi",
-    "Curup",
-    "Bermani Ulu",
-    "Selupu Rejang",
-    "Curup Utara",
-    "Curup Timur",
-    "Curup Selatan",
-    "Curup Tengah",
-    "Binduriang",
-    "Sindang Beliti Ulu",
-    "Sindang Dataran (Sindang Daratan)",
-    "Sindang Beliti Ilir",
-    "Bermani Ulu Raya"
+    {
+      "district_id": 6,
+      "kecamatan": "Kota Padang"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Padang Ulak Tanding"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Sindang Kelingi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Curup"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Bermani Ulu"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Selupu Rejang"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Curup Utara"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Curup Timur"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Curup Selatan"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Curup Tengah"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Binduriang"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Sindang Beliti Ulu"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Sindang Dataran (Sindang Daratan)"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Sindang Beliti Ilir"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Bermani Ulu Raya"
+    }
   ]
 }

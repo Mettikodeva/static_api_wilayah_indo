@@ -1,18 +1,60 @@
 {
   "sub_districts": [
-    "Dehes",
-    "Tumbang Labehu",
-    "Tumbang Kaman",
-    "Tumbang Manggo",
-    "Kamanto",
-    "Kuluk Habuhus",
-    "Tumbang Kanei/Kamei",
-    "Tumbang Taranei/Karanei",
-    "Tumbang Kawei",
-    "Tumbang Mangara/Manggara",
-    "Tumbang Pangka",
-    "Tumbang Atei",
-    "Daya Manunggal",
-    "Rantau Bangkiang"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dehes"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tumbang Labehu"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Tumbang Kaman"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Tumbang Manggo"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Kamanto"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kuluk Habuhus"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Tumbang Kanei/Kamei"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Tumbang Taranei/Karanei"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tumbang Kawei"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tumbang Mangara/Manggara"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Tumbang Pangka"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Tumbang Atei"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Daya Manunggal"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Rantau Bangkiang"
+    }
   ]
 }

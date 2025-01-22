@@ -1,20 +1,68 @@
 {
   "sub_districts": [
-    "Menteng",
-    "Sindang Barang (Sindangbarang)",
-    "Bubulak",
-    "Margajaya",
-    "Balumbang Jaya (Balungbang Jaya)",
-    "Situ Gede",
-    "Semplak",
-    "Cilendek Barat",
-    "Cilendek Timur",
-    "Curug Mekar",
-    "Curug",
-    "Pasir Jaya",
-    "Pasir Kuda",
-    "Pasir Mulya",
-    "Gunung Batu (Gunungbatu)",
-    "Loji"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Menteng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Sindang Barang (Sindangbarang)"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bubulak"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Margajaya"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Balumbang Jaya (Balungbang Jaya)"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Situ Gede"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Semplak"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Cilendek Barat"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Cilendek Timur"
+    },
+    {
+      "sub_district_id": 1010,
+      "desa_kelurahan": "Curug Mekar"
+    },
+    {
+      "sub_district_id": 1011,
+      "desa_kelurahan": "Curug"
+    },
+    {
+      "sub_district_id": 1012,
+      "desa_kelurahan": "Pasir Jaya"
+    },
+    {
+      "sub_district_id": 1013,
+      "desa_kelurahan": "Pasir Kuda"
+    },
+    {
+      "sub_district_id": 1014,
+      "desa_kelurahan": "Pasir Mulya"
+    },
+    {
+      "sub_district_id": 1015,
+      "desa_kelurahan": "Gunung Batu (Gunungbatu)"
+    },
+    {
+      "sub_district_id": 1016,
+      "desa_kelurahan": "Loji"
+    }
   ]
 }

@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Nosu",
-    "Minanga",
-    "Batupapan",
-    "Masewwe",
-    "Siwi",
-    "Minanga Timur",
-    "Parinding"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Nosu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Minanga"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batupapan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Masewwe"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Siwi"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Minanga Timur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Parinding"
+    }
   ]
 }

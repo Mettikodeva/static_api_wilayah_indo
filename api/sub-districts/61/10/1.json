@@ -1,21 +1,72 @@
 {
   "sub_districts": [
-    "Pemuar",
-    "Nusa Kenyikap",
-    "Batu Ampar",
-    "Balai Lagas (Balai Agas)",
-    "Upit (Upet)",
-    "Langan",
-    "Batu Buil",
-    "Guhung",
-    "Batu Nanta",
-    "Belonsat",
-    "Laman Bukit",
-    "Tekaban",
-    "Labang",
-    "Nanga Pau",
-    "Nanga Entebah (Entebah)",
-    "Nanga Menunuk",
-    "Sepan Tonak"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pemuar"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Nusa Kenyikap"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Batu Ampar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balai Lagas (Balai Agas)"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Upit (Upet)"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Langan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Batu Buil"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Guhung"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Batu Nanta"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Belonsat"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Laman Bukit"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Tekaban"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Labang"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Nanga Pau"
+    },
+    {
+      "sub_district_id": 2021,
+      "desa_kelurahan": "Nanga Entebah (Entebah)"
+    },
+    {
+      "sub_district_id": 2023,
+      "desa_kelurahan": "Nanga Menunuk"
+    },
+    {
+      "sub_district_id": 2024,
+      "desa_kelurahan": "Sepan Tonak"
+    }
   ]
 }

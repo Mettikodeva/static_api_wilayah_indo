@@ -1,29 +1,104 @@
 {
   "districts": [
-    "Pracimantoro",
-    "Giritontro",
-    "Giriwoyo",
-    "Batuwarno",
-    "Tirtomoyo",
-    "Nguntoronadi",
-    "Baturetno",
-    "Eromoko",
-    "Wuryantoro",
-    "Manyaran",
-    "Selogiri",
-    "Wonogiri",
-    "Ngadirojo",
-    "Sidoharjo",
-    "Jatiroto",
-    "Kismantoro",
-    "Purwantoro",
-    "Bulukerto",
-    "Slogohimo",
-    "Jatisrono",
-    "Jatipurno",
-    "Girimarto",
-    "Karangtengah",
-    "Paranggupito",
-    "Puhpelem"
+    {
+      "district_id": 1,
+      "kecamatan": "Pracimantoro"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Giritontro"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Giriwoyo"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Batuwarno"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Tirtomoyo"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Nguntoronadi"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Baturetno"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Eromoko"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Wuryantoro"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Manyaran"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Selogiri"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Wonogiri"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Ngadirojo"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Sidoharjo"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Jatiroto"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Kismantoro"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Purwantoro"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Bulukerto"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Slogohimo"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Jatisrono"
+    },
+    {
+      "district_id": 21,
+      "kecamatan": "Jatipurno"
+    },
+    {
+      "district_id": 22,
+      "kecamatan": "Girimarto"
+    },
+    {
+      "district_id": 23,
+      "kecamatan": "Karangtengah"
+    },
+    {
+      "district_id": 24,
+      "kecamatan": "Paranggupito"
+    },
+    {
+      "district_id": 25,
+      "kecamatan": "Puhpelem"
+    }
   ]
 }

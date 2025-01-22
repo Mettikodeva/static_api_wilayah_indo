@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tinggi Hari",
-    "Tanjung Raja",
-    "Sinjar Bulan",
-    "Padang Gumay",
-    "Tanjung Aur",
-    "Simpur",
-    "Lubuk Selo",
-    "Rindu Hati",
-    "Sumber Karya",
-    "Trans SP II Padang Muaradua"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tinggi Hari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanjung Raja"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sinjar Bulan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Padang Gumay"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tanjung Aur"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Simpur"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Lubuk Selo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Rindu Hati"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sumber Karya"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Trans SP II Padang Muaradua"
+    }
   ]
 }

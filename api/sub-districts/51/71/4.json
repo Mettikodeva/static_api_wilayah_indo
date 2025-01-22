@@ -1,15 +1,48 @@
 {
   "sub_districts": [
-    "Tonja",
-    "Ubung",
-    "Peguyangan",
-    "Dangin Puri Kangin",
-    "Dangin Puri Kauh",
-    "Dangin Puri Kaja",
-    "Pemecutan Kaja",
-    "Dauh Puri Kaja",
-    "Ubung Kaja",
-    "Peguyangan Kaja",
-    "Peguyangan Kangin"
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Tonja"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Ubung"
+    },
+    {
+      "sub_district_id": 1009,
+      "desa_kelurahan": "Peguyangan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Dangin Puri Kangin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dangin Puri Kauh"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Dangin Puri Kaja"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Pemecutan Kaja"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Dauh Puri Kaja"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Ubung Kaja"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Peguyangan Kaja"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Peguyangan Kangin"
+    }
   ]
 }

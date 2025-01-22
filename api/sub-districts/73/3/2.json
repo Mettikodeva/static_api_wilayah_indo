@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Tappanjeng",
-    "Pallantikang",
-    "Letta",
-    "Mallilingi",
-    "Lembang",
-    "Lamalaka",
-    "Karatuang",
-    "Onto",
-    "Kayu Loe"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Tappanjeng"
+    },
+    {
+      "sub_district_id": 1002,
+      "desa_kelurahan": "Pallantikang"
+    },
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Letta"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Mallilingi"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Lembang"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Lamalaka"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Karatuang"
+    },
+    {
+      "sub_district_id": 1008,
+      "desa_kelurahan": "Onto"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Kayu Loe"
+    }
   ]
 }

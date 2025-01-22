@@ -1,23 +1,80 @@
 {
   "sub_districts": [
-    "Pendang",
-    "Sei/Sungai Telang",
-    "Majundre",
-    "Bundar",
-    "Telekoi (Talekoi)",
-    "Marawan Lama",
-    "Marawan Baru",
-    "Reong",
-    "Tarusan",
-    "Panarukan",
-    "Maruga",
-    "Hingan",
-    "Danau Bambure",
-    "Tamparak",
-    "Hulu Tampang",
-    "Bantai Bambure",
-    "Rampa Mea",
-    "Gunung Rantau",
-    "Tamparak Layung"
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Pendang"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Sei/Sungai Telang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Majundre"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Bundar"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Telekoi (Talekoi)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Marawan Lama"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Marawan Baru"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Reong"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Tarusan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Panarukan"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Maruga"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Hingan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Danau Bambure"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Tamparak"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Hulu Tampang"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Bantai Bambure"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Rampa Mea"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Gunung Rantau"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Tamparak Layung"
+    }
   ]
 }

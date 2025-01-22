@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Citarik",
-    "Karangsinom",
-    "Karangjaya",
-    "Parakan",
-    "Parakanmulya",
-    "Kamurang",
-    "Cipondoh",
-    "Kertawaluya",
-    "Bojongsari",
-    "Tirtasari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Citarik"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Karangsinom"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangjaya"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Parakan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Parakanmulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Kamurang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Cipondoh"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Kertawaluya"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Bojongsari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tirtasari"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Kayangan",
-    "Santong",
-    "Selengen",
-    "Sesait",
-    "Gumantar",
-    "Salut",
-    "Dangiang",
-    "Pendua",
-    "Pansor",
-    "Santong Mulia"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kayangan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Santong"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Selengen"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sesait"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Gumantar"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Salut"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Dangiang"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pendua"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pansor"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Santong Mulia"
+    }
   ]
 }

@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Golo Wangkung",
-    "Golo Wangkung Barat",
-    "Buti",
-    "Golo Ngawan",
-    "Satar Nawang",
-    "Rana Mese",
-    "Compang Congkar",
-    "Compang Lawi",
-    "Golo Pari",
-    "Wea"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Golo Wangkung"
+    },
+    {
+      "sub_district_id": 1007,
+      "desa_kelurahan": "Golo Wangkung Barat"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Buti"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Golo Ngawan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Satar Nawang"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Rana Mese"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Compang Congkar"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Compang Lawi"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Golo Pari"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Wea"
+    }
   ]
 }

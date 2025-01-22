@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Karangtengah",
-    "Brani",
-    "Sampang",
-    "Sidasari",
-    "Paketingan",
-    "Ketanggung",
-    "Nusajati",
-    "Karangjati",
-    "Paberasan",
-    "Karangasem"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Karangtengah"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Brani"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sampang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sidasari"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Paketingan"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Ketanggung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nusajati"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangjati"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Paberasan"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Karangasem"
+    }
   ]
 }

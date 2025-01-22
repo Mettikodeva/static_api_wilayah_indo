@@ -1,11 +1,32 @@
 {
   "sub_districts": [
-    "Maidi",
-    "Lifofa",
-    "Hager",
-    "Wama",
-    "Selamalofo",
-    "Tagalaya",
-    "Nuku"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Maidi"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lifofa"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Hager"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Wama"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Selamalofo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Tagalaya"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Nuku"
+    }
   ]
 }

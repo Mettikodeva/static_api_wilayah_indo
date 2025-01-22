@@ -1,17 +1,56 @@
 {
   "sub_districts": [
-    "Jonggol",
-    "Poko",
-    "Sendang",
-    "Bringinan",
-    "Karanglo Kidul",
-    "Krebet",
-    "Bulu Lor",
-    "Jambon",
-    "Blembem",
-    "Pulosari",
-    "Menang",
-    "Srandil",
-    "Sidoharjo"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jonggol"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Poko"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Sendang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bringinan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Karanglo Kidul"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Krebet"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bulu Lor"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Jambon"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Blembem"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pulosari"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Menang"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Srandil"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Sidoharjo"
+    }
   ]
 }

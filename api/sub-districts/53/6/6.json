@@ -1,19 +1,64 @@
 {
   "sub_districts": [
-    "Ritaebang",
-    "Tanah Lein",
-    "Lamaole",
-    "Kalelu",
-    "Nusadani",
-    "Balaweling II",
-    "Balaweling I",
-    "Pamakayo",
-    "Ongalereng",
-    "Karawatung",
-    "Lamawalang (Lamawohong)",
-    "Daniwato (Dani Wato)",
-    "Lewotanah Ole",
-    "Titehena",
-    "Lewonama"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Ritaebang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tanah Lein"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Lamaole"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Kalelu"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Nusadani"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Balaweling II"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Balaweling I"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pamakayo"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Ongalereng"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Karawatung"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Lamawalang (Lamawohong)"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Daniwato (Dani Wato)"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Lewotanah Ole"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Titehena"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Lewonama"
+    }
   ]
 }

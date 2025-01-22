@@ -1,16 +1,52 @@
 {
   "sub_districts": [
-    "Mantewe",
-    "Dukuh Rejo",
-    "Rejosari",
-    "Suka Damai (Sukadamai)",
-    "Bulu Rejo",
-    "Sido Mulyo",
-    "Sepakat",
-    "Sari Mulya (Sati Mulia)",
-    "Emil Baru",
-    "Mentawakan Mulia",
-    "Maju Mulyo",
-    "Gunungraya (Gunung Raya)"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Mantewe"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Dukuh Rejo"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Rejosari"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Suka Damai (Sukadamai)"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bulu Rejo"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sido Mulyo"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Sepakat"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sari Mulya (Sati Mulia)"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Emil Baru"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Mentawakan Mulia"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Maju Mulyo"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Gunungraya (Gunung Raya)"
+    }
   ]
 }

@@ -1,18 +1,60 @@
 {
   "districts": [
-    "Pantai Cermin",
-    "Lembah Gumanti",
-    "Payung Sekaki",
-    "Lembang Jaya",
-    "Gunung Talang",
-    "Bukit Sundi",
-    "IX Koto Sungai Lasi",
-    "Kubung",
-    "X Koto Singkarak",
-    "X Koto Diatas",
-    "Junjung Sirih",
-    "Hiliran Gumanti",
-    "Tigo Lurah",
-    "Danau Kembar"
+    {
+      "district_id": 3,
+      "kecamatan": "Pantai Cermin"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Lembah Gumanti"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Payung Sekaki"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Lembang Jaya"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Gunung Talang"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Bukit Sundi"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "IX Koto Sungai Lasi"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Kubung"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "X Koto Singkarak"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "X Koto Diatas"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Junjung Sirih"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Hiliran Gumanti"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Tigo Lurah"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Danau Kembar"
+    }
   ]
 }

@@ -1,24 +1,84 @@
 {
   "sub_districts": [
-    "Petarukan",
-    "Kendalsari",
-    "Widodaren",
-    "Karangasem",
-    "Petanjungan",
-    "Serang",
-    "Kalirandu",
-    "Iser",
-    "Sirangkang",
-    "Pesucen",
-    "Temuireng",
-    "Panjunan",
-    "Kendaldoyong",
-    "Pegundan",
-    "Bulu",
-    "Tegalmlati",
-    "Loning",
-    "Klareyan",
-    "Kendalrejo",
-    "Nyamplungsari (Nyamplung Sari)"
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Petarukan"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Kendalsari"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Widodaren"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Karangasem"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Petanjungan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Serang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kalirandu"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Iser"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Sirangkang"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Pesucen"
+    },
+    {
+      "sub_district_id": 2011,
+      "desa_kelurahan": "Temuireng"
+    },
+    {
+      "sub_district_id": 2012,
+      "desa_kelurahan": "Panjunan"
+    },
+    {
+      "sub_district_id": 2013,
+      "desa_kelurahan": "Kendaldoyong"
+    },
+    {
+      "sub_district_id": 2014,
+      "desa_kelurahan": "Pegundan"
+    },
+    {
+      "sub_district_id": 2015,
+      "desa_kelurahan": "Bulu"
+    },
+    {
+      "sub_district_id": 2016,
+      "desa_kelurahan": "Tegalmlati"
+    },
+    {
+      "sub_district_id": 2017,
+      "desa_kelurahan": "Loning"
+    },
+    {
+      "sub_district_id": 2018,
+      "desa_kelurahan": "Klareyan"
+    },
+    {
+      "sub_district_id": 2019,
+      "desa_kelurahan": "Kendalrejo"
+    },
+    {
+      "sub_district_id": 2020,
+      "desa_kelurahan": "Nyamplungsari (Nyamplung Sari)"
+    }
   ]
 }

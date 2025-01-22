@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Jamblang",
-    "Sitiwinangun",
-    "Wangunharja",
-    "Bojong Wetan",
-    "Bojong Lor",
-    "Orimalang",
-    "Bakung Kidul",
-    "Bakung Lor"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Jamblang"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sitiwinangun"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Wangunharja"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Bojong Wetan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Bojong Lor"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Orimalang"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Bakung Kidul"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Bakung Lor"
+    }
   ]
 }

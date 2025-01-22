@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Bajamas",
-    "Sampang Maruhur",
-    "Siordang",
-    "Pardomuan",
-    "Simpang III Lae Bingke (Simpang Tiga Lae Bingke)",
-    "Sigodung",
-    "Masnauli",
-    "Muara Ode (Muara Ore)"
+    {
+      "sub_district_id": 1001,
+      "desa_kelurahan": "Bajamas"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Sampang Maruhur"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Siordang"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Pardomuan"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Simpang III Lae Bingke (Simpang Tiga Lae Bingke)"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Sigodung"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Masnauli"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Muara Ode (Muara Ore)"
+    }
   ]
 }

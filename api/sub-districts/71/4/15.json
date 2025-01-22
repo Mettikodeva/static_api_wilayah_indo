@@ -1,9 +1,24 @@
 {
   "sub_districts": [
-    "Pulutan",
-    "Pulutan Utara",
-    "Pulutan Selatan",
-    "Daran",
-    "Daran Utara"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Pulutan"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Pulutan Utara"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Pulutan Selatan"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Daran"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Daran Utara"
+    }
   ]
 }

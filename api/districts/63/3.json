@@ -1,24 +1,84 @@
 {
   "districts": [
-    "Aluh Aluh",
-    "Kertak Hanyar",
-    "Gambut",
-    "Sungai Tabuk",
-    "Martapura (Martapura Kota)",
-    "Karang Intan",
-    "Astambul",
-    "Simpang Empat",
-    "Pengaron (Pengarom)",
-    "Sungai Pinang",
-    "Aranio",
-    "Mataraman",
-    "Beruntung Baru",
-    "Martapura Barat",
-    "Martapura Timur",
-    "Sambung Makmur",
-    "Paramasan (Peramasan)",
-    "Telaga Bauntung",
-    "Tatah Makmur",
-    "Cintapuri Darussalam"
+    {
+      "district_id": 1,
+      "kecamatan": "Aluh Aluh"
+    },
+    {
+      "district_id": 2,
+      "kecamatan": "Kertak Hanyar"
+    },
+    {
+      "district_id": 3,
+      "kecamatan": "Gambut"
+    },
+    {
+      "district_id": 4,
+      "kecamatan": "Sungai Tabuk"
+    },
+    {
+      "district_id": 5,
+      "kecamatan": "Martapura (Martapura Kota)"
+    },
+    {
+      "district_id": 6,
+      "kecamatan": "Karang Intan"
+    },
+    {
+      "district_id": 7,
+      "kecamatan": "Astambul"
+    },
+    {
+      "district_id": 8,
+      "kecamatan": "Simpang Empat"
+    },
+    {
+      "district_id": 9,
+      "kecamatan": "Pengaron (Pengarom)"
+    },
+    {
+      "district_id": 10,
+      "kecamatan": "Sungai Pinang"
+    },
+    {
+      "district_id": 11,
+      "kecamatan": "Aranio"
+    },
+    {
+      "district_id": 12,
+      "kecamatan": "Mataraman"
+    },
+    {
+      "district_id": 13,
+      "kecamatan": "Beruntung Baru"
+    },
+    {
+      "district_id": 14,
+      "kecamatan": "Martapura Barat"
+    },
+    {
+      "district_id": 15,
+      "kecamatan": "Martapura Timur"
+    },
+    {
+      "district_id": 16,
+      "kecamatan": "Sambung Makmur"
+    },
+    {
+      "district_id": 17,
+      "kecamatan": "Paramasan (Peramasan)"
+    },
+    {
+      "district_id": 18,
+      "kecamatan": "Telaga Bauntung"
+    },
+    {
+      "district_id": 19,
+      "kecamatan": "Tatah Makmur"
+    },
+    {
+      "district_id": 20,
+      "kecamatan": "Cintapuri Darussalam"
+    }
   ]
 }

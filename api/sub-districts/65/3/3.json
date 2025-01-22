@@ -1,14 +1,44 @@
 {
   "sub_districts": [
-    "Tagul",
-    "Lubakan",
-    "Atap",
-    "Manuk Bungkul",
-    "Tujung",
-    "Pagar",
-    "Labuk",
-    "Butas Bagu",
-    "Pelaju",
-    "Tepian"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Tagul"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Lubakan"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Atap"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Manuk Bungkul"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Tujung"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Pagar"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Labuk"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Butas Bagu"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Pelaju"
+    },
+    {
+      "sub_district_id": 2010,
+      "desa_kelurahan": "Tepian"
+    }
   ]
 }

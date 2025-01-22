@@ -1,13 +1,40 @@
 {
   "sub_districts": [
-    "Bebalang",
-    "Kawan",
-    "Cempaga",
-    "Kubu",
-    "Bunutin",
-    "Tamanbali (Taman Bali)",
-    "Kayubihi",
-    "Pengotan",
-    "Landih"
+    {
+      "sub_district_id": 1003,
+      "desa_kelurahan": "Bebalang"
+    },
+    {
+      "sub_district_id": 1004,
+      "desa_kelurahan": "Kawan"
+    },
+    {
+      "sub_district_id": 1005,
+      "desa_kelurahan": "Cempaga"
+    },
+    {
+      "sub_district_id": 1006,
+      "desa_kelurahan": "Kubu"
+    },
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Bunutin"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Tamanbali (Taman Bali)"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Kayubihi"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Pengotan"
+    },
+    {
+      "sub_district_id": 2009,
+      "desa_kelurahan": "Landih"
+    }
   ]
 }

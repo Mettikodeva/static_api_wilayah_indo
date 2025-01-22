@@ -1,12 +1,36 @@
 {
   "sub_districts": [
-    "Citangtu",
-    "Cimarabas (Cimaragas)",
-    "Babakan Loa (Babakanloa)",
-    "Sukahurip",
-    "Sukamulya",
-    "Cihuni",
-    "Sukarasa",
-    "Karangsari"
+    {
+      "sub_district_id": 2001,
+      "desa_kelurahan": "Citangtu"
+    },
+    {
+      "sub_district_id": 2002,
+      "desa_kelurahan": "Cimarabas (Cimaragas)"
+    },
+    {
+      "sub_district_id": 2003,
+      "desa_kelurahan": "Babakan Loa (Babakanloa)"
+    },
+    {
+      "sub_district_id": 2004,
+      "desa_kelurahan": "Sukahurip"
+    },
+    {
+      "sub_district_id": 2005,
+      "desa_kelurahan": "Sukamulya"
+    },
+    {
+      "sub_district_id": 2006,
+      "desa_kelurahan": "Cihuni"
+    },
+    {
+      "sub_district_id": 2007,
+      "desa_kelurahan": "Sukarasa"
+    },
+    {
+      "sub_district_id": 2008,
+      "desa_kelurahan": "Karangsari"
+    }
   ]
 }
